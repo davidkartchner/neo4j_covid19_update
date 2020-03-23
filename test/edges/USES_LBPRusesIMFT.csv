@@ -1,0 +1,68 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004618,C0042210,USES,Bacterial Count Measurement,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0005863,C0019168,USES,Western Blotting,Hepatitis B Surface Antigens,lbpr,imft,1,USES_LBPRusesIMFT
+C0005863,C0376613,USES,Western Blotting,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0001551,USES,Cell Count,Immunologic Adjuvants,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0042742,USES,Cell Count,Viral Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0368721,USES,Cell Count,Blood group antigen B,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0376613,USES,Cell Count,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0598658,USES,Cell Count,antibody conjugate,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C0633763,USES,Cell Count,anti-synaptophysin,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C1515333,USES,Cell Count,tetanus toxoid helper peptide,lbpr,imft,1,USES_LBPRusesIMFT
+C0007584,C2701595,USES,Cell Count,horse skin extract,lbpr,imft,1,USES_LBPRusesIMFT
+C0014441,C0019168,USES,Enzyme-Linked Immunosorbent Assay,Hepatitis B Surface Antigens,lbpr,imft,1,USES_LBPRusesIMFT
+C0014441,C0042210,USES,Enzyme-Linked Immunosorbent Assay,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0014441,C0086413,USES,Enzyme-Linked Immunosorbent Assay,HIV Vaccine,lbpr,imft,1,USES_LBPRusesIMFT
+C0014441,C0678100,USES,Enzyme-Linked Immunosorbent Assay,dinitrophenyl,lbpr,imft,1,USES_LBPRusesIMFT
+C0014441,C2825347,USES,Enzyme-Linked Immunosorbent Assay,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C0016263,C0757166,USES,Flow Cytometry,anti-LFA-1 monoclonal antibody,lbpr,imft,1,USES_LBPRusesIMFT
+C0016263,C0761403,USES,Flow Cytometry,OX-6 monoclonal antibody,lbpr,imft,1,USES_LBPRusesIMFT
+C0016318,C0598658,USES,Fluorescent Antibody Technique,antibody conjugate,lbpr,imft,1,USES_LBPRusesIMFT
+C0016318,C2825347,USES,Fluorescent Antibody Technique,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C0018904,C3161957,USES,Hemagglutination Inhibition Tests,INFLUENZA strains,lbpr,imft,1,USES_LBPRusesIMFT
+C0020985,C0005457,USES,Immunoblotting,"Binding Sites, Antibody",lbpr,imft,1,USES_LBPRusesIMFT
+C0022885,C0042210,USES,Laboratory Procedures,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0079240,C0042210,USES,Dilution technique,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0079240,C1442148,USES,Dilution technique,Ab.IgG,lbpr,imft,1,USES_LBPRusesIMFT
+C0162462,C0243020,USES,Velocimetry,Immunoconjugates,lbpr,imft,1,USES_LBPRusesIMFT
+C0162621,C0016712,USES,Titration Method,Freund's Adjuvant,lbpr,imft,1,USES_LBPRusesIMFT
+C0200898,C0042210,USES,DNA analysis,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0200924,C0042210,USES,Molecular biology method,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0200955,C0042210,USES,Viral culture procedure,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0200955,C0042212,USES,Viral culture procedure,"Vaccines, Inactivated",lbpr,imft,1,USES_LBPRusesIMFT
+C0201242,C0016712,USES,Animal inoculation,Freund's Adjuvant,lbpr,imft,1,USES_LBPRusesIMFT
+C0201591,C0376613,USES,Interferon assay,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C0201679,C0001551,USES,Human papillomavirus typing (procedure),Immunologic Adjuvants,lbpr,imft,1,USES_LBPRusesIMFT
+C0206691,C0042210,USES,Electroporation,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0206691,C0376613,USES,Electroporation,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C0242831,C0042210,USES,Epitope Mapping,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0242849,C0243020,USES,"Microscopy, Atomic Force",Immunoconjugates,lbpr,imft,1,USES_LBPRusesIMFT
+C0430420,C0042210,USES,Antigen assay,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0430420,C2825347,USES,Antigen assay,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C0474643,C0042210,USES,Antibody titer measurement,Vaccines,lbpr,imft,2,USES_LBPRusesIMFT
+C0474643,C0042211,USES,Antibody titer measurement,"Vaccines, Attenuated",lbpr,imft,1,USES_LBPRusesIMFT
+C0474643,C0887892,USES,Antibody titer measurement,"Vaccines, Subunit",lbpr,imft,1,USES_LBPRusesIMFT
+C0474643,C2825347,USES,Antibody titer measurement,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C0597301,C0042210,USES,protein purification,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0883003,C0042210,USES,Differential panel,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0920433,C0004632,USES,cell preparation,Bacterial Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C0920508,C2825347,USES,Enzyme-Linked Immunospot Assay,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C0948762,C0042210,USES,Absolute neutrophil count,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C1315011,C0042210,USES,Challenge tests,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C1328908,C0376613,USES,hybridoma production,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C1441759,C0770694,USES,Thin film,trivalent influenza vaccine,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0021403,USES,Assay,Influenza virus vaccine,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0034496,USES,Assay,Rabies Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0042210,USES,Assay,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0042742,USES,Assay,Viral Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0166049,USES,Assay,Hepatitis C Antibodies,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0376613,USES,Assay,"Vaccines, DNA",lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C0443883,USES,Assay,Thyroglobulin antibody,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C1446538,USES,Assay,Horse serum proteins,lbpr,imft,1,USES_LBPRusesIMFT
+C1510438,C2825347,USES,Assay,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C2020503,C2825347,USES,fecal ELISA,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C2697666,C0598658,USES,Immunoenzyme Procedure,antibody conjugate,lbpr,imft,1,USES_LBPRusesIMFT
+C2698870,C2825347,USES,Precursor Plasma Cell Count,"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT
+C3495389,C0042210,USES,Chemical analysis,Vaccines,lbpr,imft,1,USES_LBPRusesIMFT
+C3820394,C0086413,USES,Thrombin to Antithrombin Ratio Measurement,HIV Vaccine,lbpr,imft,1,USES_LBPRusesIMFT
+C3833453,C2825347,USES,serum antibody (lab test),"Immunoglobulin A, Human",lbpr,imft,1,USES_LBPRusesIMFT

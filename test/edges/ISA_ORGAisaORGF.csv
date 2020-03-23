@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005850,C0232338,ISA,Blood Volume,Blood flow,orga,orgf,1,ISA_ORGAisaORGF
+C0005910,C0018270,ISA,Body Weight,Growth,orga,orgf,1,ISA_ORGAisaORGF
+C0020969,C0301872,ISA,"Immunity, Innate",Immune response,orga,orgf,1,ISA_ORGAisaORGF
+C0020969,C1154988,ISA,"Immunity, Innate",defense response,orga,orgf,1,ISA_ORGAisaORGF
+C0597140,C0301872,ISA,oral tolerance,Immune response,orga,orgf,1,ISA_ORGAisaORGF
+C2362326,C0035150,ISA,Sexual Health,Reproduction,orga,orgf,1,ISA_ORGAisaORGF

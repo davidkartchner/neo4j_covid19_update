@@ -1,0 +1,607 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001175,C0024530,AFFECTS,Acquired Immunodeficiency Syndrome,Malaria,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0001175,C0041296,AFFECTS,Acquired Immunodeficiency Syndrome,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001175,C0497169,AFFECTS,Acquired Immunodeficiency Syndrome,hiv-infection/aids,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001175,C1262313,AFFECTS,Acquired Immunodeficiency Syndrome,Invasive Fungal Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001314,C0004096,AFFECTS,Acute Disease,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001314,C0042749,AFFECTS,Acute Disease,Viremia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001486,C0042769,AFFECTS,Adenovirus Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001486,C0275524,AFFECTS,Adenovirus Infections,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0001883,C0004096,AFFECTS,Airway Obstruction,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0002395,C0003850,AFFECTS,Alzheimer's Disease,Arteriosclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0002395,C0524851,AFFECTS,Alzheimer's Disease,Neurodegenerative Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0002395,C1285162,AFFECTS,Alzheimer's Disease,Degenerative disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0002736,C2718001,AFFECTS,Amyotrophic Lateral Sclerosis,Protein Misfolding Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003047,C3534575,AFFECTS,Animal Diseases,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003175,C0043528,AFFECTS,Anthrax disease,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003850,C0007222,AFFECTS,Arteriosclerosis,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003864,C0009319,AFFECTS,Arthritis,Colitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003873,C0004364,AFFECTS,Rheumatoid Arthritis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003873,C0026769,AFFECTS,Rheumatoid Arthritis,Multiple Sclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0003873,C0149678,AFFECTS,Rheumatoid Arthritis,Epstein-Barr Virus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0001883,AFFECTS,Asthma,Airway Obstruction,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0009319,AFFECTS,Asthma,Colitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0021400,AFFECTS,Asthma,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0024117,AFFECTS,Asthma,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0032285,AFFECTS,Asthma,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0155877,AFFECTS,Asthma,Allergic asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0264408,AFFECTS,Asthma,Childhood asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0746102,AFFECTS,Asthma,Chronic lung disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C0947961,AFFECTS,Asthma,Atopic condition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004096,C3714496,AFFECTS,Asthma,Chronic obstructive pulmonary disease of horses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004135,C0276289,AFFECTS,Ataxia Telangiectasia,Zika Virus Infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004364,C0008312,AFFECTS,Autoimmune Diseases,Primary biliary cirrhosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004364,C0014518,AFFECTS,Autoimmune Diseases,Toxic Epidermal Necrolysis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004364,C0035309,AFFECTS,Autoimmune Diseases,Retinal Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004364,C0275518,AFFECTS,Autoimmune Diseases,Acute infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004610,C0032285,AFFECTS,Bacteremia,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004610,C0729531,AFFECTS,Bacteremia,Viral respiratory infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0004096,AFFECTS,Bacterial Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0009450,AFFECTS,Bacterial Infections,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0024115,AFFECTS,Bacterial Infections,Lung diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0024117,AFFECTS,Bacterial Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0004623,C0029342,AFFECTS,Bacterial Infections,Orthomyxoviridae Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0032285,AFFECTS,Bacterial Infections,Pneumonia,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0004623,C0041912,AFFECTS,Bacterial Infections,Upper Respiratory Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004623,C0042769,AFFECTS,Bacterial Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0004626,C0004096,AFFECTS,"Pneumonia, Bacterial",Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006267,C0024117,AFFECTS,Bronchiectasis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006271,C0004096,AFFECTS,Bronchiolitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006271,C0024117,AFFECTS,Bronchiolitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006271,C0032285,AFFECTS,Bronchiolitis,Pneumonia,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0006277,C0004096,AFFECTS,Bronchitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006277,C0024117,AFFECTS,Bronchitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006285,C0008679,AFFECTS,Bronchopneumonia,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006309,C0043528,AFFECTS,Brucellosis,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0006840,C0023530,AFFECTS,Candidiasis,Leukopenia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007222,C0011847,AFFECTS,Cardiovascular Diseases,Diabetes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007222,C0020538,AFFECTS,Cardiovascular Diseases,Hypertensive disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007222,C0021053,AFFECTS,Cardiovascular Diseases,Immune System Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007222,C0027765,AFFECTS,Cardiovascular Diseases,nervous system disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007222,C0029456,AFFECTS,Cardiovascular Diseases,Osteoporosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0007785,C0162869,AFFECTS,Cerebral Infarction,"Aneurysm, Ruptured",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008149,C0042769,AFFECTS,Chlamydia Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008354,C0740441,AFFECTS,Cholera,Acute diarrhea,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008677,C0004096,AFFECTS,"Bronchitis, Chronic",Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008677,C0024117,AFFECTS,"Bronchitis, Chronic",Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008679,C0009450,AFFECTS,Chronic disease,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008679,C0021400,AFFECTS,Chronic disease,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0008679,C0856238,AFFECTS,Chronic disease,influenza (epidemic),dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009319,C0014335,AFFECTS,Colitis,Enteritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009443,C0004096,AFFECTS,Common Cold,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009443,C0024117,AFFECTS,Common Cold,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009443,C0041912,AFFECTS,Common Cold,Upper Respiratory Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0004096,AFFECTS,Communicable Diseases,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0004576,AFFECTS,Communicable Diseases,Babesiosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0008679,AFFECTS,Communicable Diseases,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0014130,AFFECTS,Communicable Diseases,Endocrine System Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0018889,AFFECTS,Communicable Diseases,Helminthiasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0019348,AFFECTS,Communicable Diseases,Herpes Simplex Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0021831,AFFECTS,Communicable Diseases,Intestinal Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0024291,AFFECTS,Communicable Diseases,"Lymphohistiocytosis, Hemophagocytic",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0036323,AFFECTS,Communicable Diseases,Schistosomiasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C0376538,AFFECTS,Communicable Diseases,Porcine Reproductive and Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C1175175,AFFECTS,Communicable Diseases,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C1257753,AFFECTS,Communicable Diseases,Child Malnutrition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C3534575,AFFECTS,Communicable Diseases,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C3694279,AFFECTS,Communicable Diseases,Middle East Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009450,C4505065,AFFECTS,Communicable Diseases,Noncommunicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0009952,C0004096,AFFECTS,Febrile Convulsions,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010278,C0032285,AFFECTS,Craniosynostosis,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010340,C0042769,AFFECTS,Critical Illness,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010356,C0009450,AFFECTS,Cross Infection,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010356,C3694279,AFFECTS,Cross Infection,Middle East Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010380,C0004096,AFFECTS,Croup,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010380,C0035243,AFFECTS,Croup,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0010678,C2936328,AFFECTS,Cysticercosis,Neglected Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011175,C0267221,AFFECTS,Dehydration,Ruminal stasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011175,C3828416,AFFECTS,Dehydration,Radiation Damage,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011603,C2316159,AFFECTS,Dermatitis,Oral allergy syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0003850,AFFECTS,Diabetes,Arteriosclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0004096,AFFECTS,Diabetes,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0007222,AFFECTS,Diabetes,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0020538,AFFECTS,Diabetes,Hypertensive disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0028754,AFFECTS,Diabetes,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0042769,AFFECTS,Diabetes,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011847,C0339901,AFFECTS,Diabetes,Acute respiratory infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011849,C0018801,AFFECTS,Diabetes Mellitus,Heart failure,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011860,C0008679,AFFECTS,"Diabetes Mellitus, Non-Insulin-Dependent",Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0011860,C0011847,AFFECTS,"Diabetes Mellitus, Non-Insulin-Dependent",Diabetes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0013384,C0026650,AFFECTS,Dyskinetic syndrome,Movement Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0013502,C0043528,AFFECTS,Echinococcosis,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0013595,C0016470,AFFECTS,Eczema,Food Allergy,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0013884,C0024530,AFFECTS,Filarial Elephantiases,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0013884,C0032371,AFFECTS,Filarial Elephantiases,Poliomyelitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014057,C0024530,AFFECTS,Japanese Encephalitis,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014057,C1640363,AFFECTS,Japanese Encephalitis,Vector-transmitted infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014078,C0014518,AFFECTS,Venezuelan equine encephalomyelitis,Toxic Epidermal Necrolysis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014457,C0030499,AFFECTS,Eosinophilia,Parasitic Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014518,C0858318,AFFECTS,Toxic Epidermal Necrolysis,Plasmodium falciparum infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014518,C0858321,AFFECTS,Toxic Epidermal Necrolysis,Plasmodium vivax infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014544,C0027765,AFFECTS,Epilepsy,nervous system disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0014836,C0277548,AFFECTS,Escherichia coli Infections,Epidemic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0015695,C0028754,AFFECTS,Fatty Liver,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0005591,AFFECTS,Influenza in Birds,Bird Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0021400,AFFECTS,Influenza in Birds,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0042769,AFFECTS,Influenza in Birds,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0043528,AFFECTS,Influenza in Birds,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0740766,AFFECTS,Influenza in Birds,acute pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C0872315,AFFECTS,Influenza in Birds,"Communicable Diseases, Emerging",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C1175175,AFFECTS,Influenza in Birds,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0016627,C3534575,AFFECTS,Influenza in Birds,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0017160,C0036114,AFFECTS,Gastroenteritis,Salmonella food poisoning,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0017160,C0042769,AFFECTS,Gastroenteritis,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018081,C0033687,AFFECTS,Gonorrhea,Proteinuria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018203,C0004623,AFFECTS,Chronic granulomatous disease,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018621,C0004096,AFFECTS,Hay fever,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018799,C0008679,AFFECTS,Heart Diseases,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018801,C0007222,AFFECTS,Heart failure,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018801,C1397307,AFFECTS,Heart failure,Cardiac fibrosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018802,C0021400,AFFECTS,Congestive heart failure,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018802,C0024117,AFFECTS,Congestive heart failure,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0018889,C0040820,AFFECTS,Helminthiasis,Trematode Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019061,C0032285,AFFECTS,Hemolytic-Uremic Syndrome,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019099,C0043528,AFFECTS,"Hemorrhagic Fever, Crimean",Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019100,C0011847,AFFECTS,Severe Dengue,Diabetes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019100,C4505065,AFFECTS,Severe Dengue,Noncommunicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019158,C0009450,AFFECTS,Hepatitis,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019159,C0009450,AFFECTS,Hepatitis A,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C0005940,AFFECTS,HIV Infections,Bone Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C0032285,AFFECTS,HIV Infections,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C0041296,AFFECTS,HIV Infections,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C0042749,AFFECTS,HIV Infections,Viremia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C0275524,AFFECTS,HIV Infections,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0019693,C1535939,AFFECTS,HIV Infections,Pneumocystis jiroveci pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020097,C0042769,AFFECTS,HTLV-I Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020443,C0021390,AFFECTS,Hypercholesterolemia,Inflammatory Bowel Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020456,C0028754,AFFECTS,Hyperglycemia,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020538,C0007222,AFFECTS,Hypertensive disease,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020538,C0011847,AFFECTS,Hypertensive disease,Diabetes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020538,C0011849,AFFECTS,Hypertensive disease,Diabetes Mellitus,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020538,C0018799,AFFECTS,Hypertensive disease,Heart Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0020538,C0948008,AFFECTS,Hypertensive disease,Ischemic stroke,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021051,C0024115,AFFECTS,Immunologic Deficiency Syndromes,Lung diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021051,C0042769,AFFECTS,Immunologic Deficiency Syndromes,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021053,C0007222,AFFECTS,Immune System Diseases,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021053,C0027765,AFFECTS,Immune System Diseases,nervous system disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0004096,AFFECTS,Influenza,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0021400,C0004623,AFFECTS,Influenza,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0008679,AFFECTS,Influenza,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0009443,AFFECTS,Influenza,Common Cold,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0009450,AFFECTS,Influenza,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0016627,AFFECTS,Influenza,Influenza in Birds,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0024117,AFFECTS,Influenza,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0032285,AFFECTS,Influenza,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0035222,AFFECTS,Influenza,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0036690,AFFECTS,Influenza,Septicemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0036916,AFFECTS,Influenza,Sexually Transmitted Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0270724,AFFECTS,Influenza,Infantile Neuroaxonal Dystrophy,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0276357,AFFECTS,Influenza,Swine influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0442886,AFFECTS,Influenza,Secondary Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C0748168,AFFECTS,Influenza,Pulmonary Pathology,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C1096155,AFFECTS,Influenza,Macrophage Activation Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C1175175,AFFECTS,Influenza,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C1320214,AFFECTS,Influenza,Invasive Streptococcus pneumoniae disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0021400,C1860224,AFFECTS,Influenza,ABLEPHARON-MACROSTOMIA SYNDROME,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0022660,C0546817,AFFECTS,"Kidney Failure, Acute",Fluid overload,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0022661,C0023281,AFFECTS,"Kidney Failure, Chronic",Leishmaniasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0022882,C0009450,AFFECTS,Laboratory Infection,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023240,C0004623,AFFECTS,Legionellosis,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023281,C0010678,AFFECTS,Leishmaniasis,Cysticercosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023281,C0024530,AFFECTS,Leishmaniasis,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023281,C0030499,AFFECTS,Leishmaniasis,Parasitic Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023281,C0042769,AFFECTS,Leishmaniasis,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023364,C0009450,AFFECTS,Leptospirosis,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023364,C0033687,AFFECTS,Leptospirosis,Proteinuria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023364,C0043528,AFFECTS,Leptospirosis,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0023895,C0023281,AFFECTS,Liver diseases,Leishmaniasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024115,C0004623,AFFECTS,Lung diseases,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024115,C0024117,AFFECTS,Lung diseases,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024117,C0004096,AFFECTS,Chronic Obstructive Airway Disease,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024117,C0021400,AFFECTS,Chronic Obstructive Airway Disease,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024117,C3714496,AFFECTS,Chronic Obstructive Airway Disease,Chronic obstructive pulmonary disease of horses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024141,C0004364,AFFECTS,"Lupus Erythematosus, Systemic",Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024141,C0149678,AFFECTS,"Lupus Erythematosus, Systemic",Epstein-Barr Virus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024198,C0041234,AFFECTS,Lyme Disease,Chagas Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024312,C0042769,AFFECTS,Lymphopenia,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0009450,AFFECTS,Malaria,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0041296,AFFECTS,Malaria,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0242723,AFFECTS,Malaria,Parasitemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0275524,AFFECTS,Malaria,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0277548,AFFECTS,Malaria,Epidemic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0024530,C0497169,AFFECTS,Malaria,hiv-infection/aids,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025007,C0007684,AFFECTS,Measles,Central Nervous System Infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025007,C0041296,AFFECTS,Measles,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025007,C0275524,AFFECTS,Measles,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025007,C1257752,AFFECTS,Measles,Infant Malnutrition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025007,C1257753,AFFECTS,Measles,Child Malnutrition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025303,C0694549,AFFECTS,Meningococcal Infections,Community acquired pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025517,C0028754,AFFECTS,Metabolic Diseases,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0025517,C0032285,AFFECTS,Metabolic Diseases,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026636,C0004096,AFFECTS,Mouth Diseases,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026636,C0009450,AFFECTS,Mouth Diseases,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026636,C0024117,AFFECTS,Mouth Diseases,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026769,C0003873,AFFECTS,Multiple Sclerosis,Rheumatoid Arthritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026769,C0004364,AFFECTS,Multiple Sclerosis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026780,C1096155,AFFECTS,Mumps,Macrophage Activation Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026848,C0007222,AFFECTS,Myopathy,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0026896,C0004364,AFFECTS,Myasthenia Gravis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027051,C0007222,AFFECTS,Myocardial Infarction,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027059,C0003873,AFFECTS,Myocarditis,Rheumatoid Arthritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027059,C0004364,AFFECTS,Myocarditis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027059,C0007222,AFFECTS,Myocarditis,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027059,C0026769,AFFECTS,Myocarditis,Multiple Sclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027765,C0007222,AFFECTS,nervous system disorder,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0027765,C0021053,AFFECTS,nervous system disorder,Immune System Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0028754,C0032285,AFFECTS,Obesity,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0028754,C0035243,AFFECTS,Obesity,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0028754,C0853897,AFFECTS,Obesity,Diabetic Cardiomyopathies,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0028754,C4529962,AFFECTS,Obesity,Fatty Liver Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029118,C0001175,AFFECTS,Opportunistic Infections,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029124,C0456909,AFFECTS,Optic Atrophy,Blindness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029342,C0004096,AFFECTS,Orthomyxoviridae Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029342,C0149725,AFFECTS,Orthomyxoviridae Infections,Lower respiratory tract infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029882,C0004096,AFFECTS,Otitis Media,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029882,C0024117,AFFECTS,Otitis Media,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029882,C0027059,AFFECTS,Otitis Media,Myocarditis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0029882,C0027765,AFFECTS,Otitis Media,nervous system disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0030305,C0026780,AFFECTS,Pancreatitis,Mumps,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0030305,C0042769,AFFECTS,Pancreatitis,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0030499,C0007453,AFFECTS,Parasitic Diseases,Cattle Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0030567,C0524851,AFFECTS,Parkinson Disease,Neurodegenerative Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0031350,C0004096,AFFECTS,Pharyngitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0031350,C0024117,AFFECTS,Pharyngitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032231,C0442886,AFFECTS,Pleurisy,Secondary Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032269,C0275524,AFFECTS,Pneumococcal Infections,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0000786,AFFECTS,Pneumonia,Spontaneous abortion,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0032285,C0004096,AFFECTS,Pneumonia,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0004623,AFFECTS,Pneumonia,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0006271,AFFECTS,Pneumonia,Bronchiolitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0009443,AFFECTS,Pneumonia,Common Cold,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0024117,AFFECTS,Pneumonia,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0029883,AFFECTS,Pneumonia,Otitis Media with Effusion,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0032300,AFFECTS,Pneumonia,Lobar Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0035220,AFFECTS,Pneumonia,"Respiratory Distress Syndrome, Newborn",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0035222,AFFECTS,Pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0035243,AFFECTS,Pneumonia,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0036690,AFFECTS,Pneumonia,Septicemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0264490,AFFECTS,Pneumonia,Acute respiratory failure,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C0277548,AFFECTS,Pneumonia,Epidemic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C1175175,AFFECTS,Pneumonia,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032285,C1257753,AFFECTS,Pneumonia,Child Malnutrition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032290,C0032285,AFFECTS,Aspiration Pneumonia,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032290,C0699949,AFFECTS,Aspiration Pneumonia,airway disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032300,C0032285,AFFECTS,Lobar Pneumonia,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032310,C0746102,AFFECTS,"Pneumonia, Viral",Chronic lung disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032371,C0037354,AFFECTS,Poliomyelitis,Smallpox,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0032914,C0269825,AFFECTS,Pre-Eclampsia,Shoulder girdle dystocia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0033860,C0004364,AFFECTS,Psoriasis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034063,C0035222,AFFECTS,Pulmonary Edema,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034065,C0004096,AFFECTS,Pulmonary Embolism,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034065,C0024117,AFFECTS,Pulmonary Embolism,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034067,C0004096,AFFECTS,Pulmonary Emphysema,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034069,C0085786,AFFECTS,Pulmonary Fibrosis,Hamman-Rich syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034186,C3694279,AFFECTS,Pyelonephritis,Middle East Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034345,C0206746,AFFECTS,Pyruvate Dehydrogenase Complex Deficiency Disease,Hepadnaviridae Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0034362,C0023364,AFFECTS,Q Fever,Leptospirosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035078,C1142553,AFFECTS,Kidney Failure,primary HIV infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035204,C0004096,AFFECTS,Respiration Disorders,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035222,C0242966,AFFECTS,"Respiratory Distress Syndrome, Adult",Systemic Inflammatory Response Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035235,C0004096,AFFECTS,Respiratory Syncytial Virus Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035235,C0024115,AFFECTS,Respiratory Syncytial Virus Infections,Lung diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035235,C0042769,AFFECTS,Respiratory Syncytial Virus Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035235,C0276447,AFFECTS,Respiratory Syncytial Virus Infections,Rhinovirus infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0004096,AFFECTS,Respiratory Tract Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0007453,AFFECTS,Respiratory Tract Infections,Cattle Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0024117,AFFECTS,Respiratory Tract Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0035222,AFFECTS,Respiratory Tract Infections,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0035235,AFFECTS,Respiratory Tract Infections,Respiratory Syncytial Virus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0264220,AFFECTS,Respiratory Tract Infections,Chronic disease of respiratory system,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C0729555,AFFECTS,Respiratory Tract Infections,Infection of digestive system,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C1175175,AFFECTS,Respiratory Tract Infections,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C3277428,AFFECTS,Respiratory Tract Infections,Severe viral infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035243,C3694279,AFFECTS,Respiratory Tract Infections,Middle East Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035369,C0042769,AFFECTS,Retroviridae Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035455,C0004096,AFFECTS,Rhinitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035585,C0024530,AFFECTS,Rickettsia Infections,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035613,C0277550,AFFECTS,Rift Valley Fever,Endemic Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035869,C0014335,AFFECTS,Rotavirus Infections,Enteritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035869,C1260386,AFFECTS,Rotavirus Infections,Glucocorticoid-remediable aldosteronism,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0035920,C0009450,AFFECTS,Rubella,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0036472,C0024530,AFFECTS,Scrub Typhus,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0036690,C0009450,AFFECTS,Septicemia,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0036690,C2939465,AFFECTS,Septicemia,Deficiency of glucose-6-phosphate dehydrogenase,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0037199,C0004096,AFFECTS,Sinusitis,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0037199,C0024117,AFFECTS,Sinusitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0037199,C0149516,AFFECTS,Sinusitis,Chronic sinusitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0037354,C0021400,AFFECTS,Smallpox,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0038826,C0032300,AFFECTS,Superinfection,Lobar Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0039128,C0039133,AFFECTS,Syphilis,"Syphilis, Latent",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0039240,C0265110,AFFECTS,Supraventricular tachycardia,Cerebral Vasospasm,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0040034,C0023092,AFFECTS,Thrombocytopenia,Lassa Fever,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0040583,C1701940,AFFECTS,Tracheal Stenosis,"Pneumonia, Ventilator-Associated",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041228,C0010678,AFFECTS,African Trypanosomiasis,Cysticercosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041296,C0041327,AFFECTS,Tuberculosis,"Tuberculosis, Pulmonary",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041296,C0275518,AFFECTS,Tuberculosis,Acute infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041296,C0277548,AFFECTS,Tuberculosis,Epidemic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041321,C0041296,AFFECTS,"Tuberculosis, Miliary",Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041326,C0041296,AFFECTS,Pleural Tuberculosis,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041327,C0041296,AFFECTS,"Tuberculosis, Pulmonary",Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041471,C0018081,AFFECTS,TYPHUS,Gonorrhea,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041471,C0039128,AFFECTS,TYPHUS,Syphilis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041912,C0004096,AFFECTS,Upper Respiratory Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041912,C0149725,AFFECTS,Upper Respiratory Infections,Lower respiratory tract infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0041912,C1301752,AFFECTS,Upper Respiratory Infections,Respiratory morbidity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042164,C0456909,AFFECTS,Uveitis,Blindness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042373,C0007222,AFFECTS,Vascular Diseases,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042384,C0007222,AFFECTS,Vasculitis,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042384,C0264939,AFFECTS,Vasculitis,Systemic Vasculitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C0004623,AFFECTS,Viremia,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C0017923,AFFECTS,Viremia,Glycogen Storage Disease Type IV,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C0035243,AFFECTS,Viremia,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C0679247,AFFECTS,Viremia,Terminal illness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C0948268,AFFECTS,Viremia,Hemodynamic instability,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042749,C1145670,AFFECTS,Viremia,Respiratory Failure,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0004096,AFFECTS,Virus Diseases,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0004364,AFFECTS,Virus Diseases,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0010246,AFFECTS,Virus Diseases,Coxsackievirus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0026936,AFFECTS,Virus Diseases,Mycoplasma Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0030499,AFFECTS,Virus Diseases,Parasitic Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0030567,AFFECTS,Virus Diseases,Parkinson Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0035204,AFFECTS,Virus Diseases,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0035243,AFFECTS,Virus Diseases,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0040149,AFFECTS,Virus Diseases,Subacute thyroiditis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0043124,AFFECTS,Virus Diseases,West Nile Fever,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0043528,AFFECTS,Virus Diseases,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0149725,AFFECTS,Virus Diseases,Lower respiratory tract infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0151317,AFFECTS,Virus Diseases,Chronic infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0178468,AFFECTS,Virus Diseases,Autoimmune thyroid disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0264408,AFFECTS,Virus Diseases,Childhood asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0275518,AFFECTS,Virus Diseases,Acute infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0276289,AFFECTS,Virus Diseases,Zika Virus Infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0339901,AFFECTS,Virus Diseases,Acute respiratory infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0347950,AFFECTS,Virus Diseases,Asthma attack,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C0872315,AFFECTS,Virus Diseases,"Communicable Diseases, Emerging",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C1260386,AFFECTS,Virus Diseases,Glucocorticoid-remediable aldosteronism,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042769,C1862382,AFFECTS,Virus Diseases,SVEINSSON CHORIORETINAL ATROPHY,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0042870,C0151317,AFFECTS,Vitamin D Deficiency,Chronic infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043121,C0700323,AFFECTS,Wernicke Encephalopathy,Observation of Neuromuscular Block,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043121,C1135188,AFFECTS,Wernicke Encephalopathy,Critical illness myopathy,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043124,C0014038,AFFECTS,West Nile Fever,Encephalitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043124,C0751583,AFFECTS,West Nile Fever,"Encephalitis, West Nile Fever",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043395,C0042769,AFFECTS,Yellow Fever,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043528,C0016627,AFFECTS,Zoonoses,Influenza in Birds,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0043528,C3534575,AFFECTS,Zoonoses,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0085106,C0796149,AFFECTS,Familial benign pemphigus,Scott Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0085110,C0876973,AFFECTS,Severe Combined Immunodeficiency,Infectious disease of lung,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0085293,C0009450,AFFECTS,Hepatitis E,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0085435,C0949690,AFFECTS,"Arthritis, Reactive",Spondylarthritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0085786,C0009450,AFFECTS,Hamman-Rich syndrome,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149516,C0948780,AFFECTS,Chronic sinusitis,Rhinosinusitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149678,C0679225,AFFECTS,Epstein-Barr Virus Infections,multiple pathologies,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149678,C0872054,AFFECTS,Epstein-Barr Virus Infections,latent infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149725,C0004096,AFFECTS,Lower respiratory tract infection,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0149725,C0009443,AFFECTS,Lower respiratory tract infection,Common Cold,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149725,C0009450,AFFECTS,Lower respiratory tract infection,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149725,C0024117,AFFECTS,Lower respiratory tract infection,Chronic Obstructive Airway Disease,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0149725,C0032285,AFFECTS,Lower respiratory tract infection,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149725,C0035204,AFFECTS,Lower respiratory tract infection,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0149725,C0041912,AFFECTS,Lower respiratory tract infection,Upper Respiratory Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0151317,C0027092,AFFECTS,Chronic infectious disease,Myopia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0151317,C0042769,AFFECTS,Chronic infectious disease,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0151317,C0456909,AFFECTS,Chronic infectious disease,Blindness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0151317,C1623038,AFFECTS,Chronic infectious disease,Cirrhosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0152244,C0043124,AFFECTS,"Bone Cysts, Aneurysmal",West Nile Fever,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0155626,C0002871,AFFECTS,Acute myocardial infarction,Anemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0155877,C0004096,AFFECTS,Allergic asthma,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0162429,C0339901,AFFECTS,Malnutrition,Acute respiratory infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0205721,C0035243,AFFECTS,"Infections, Hospital",Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206085,C0021400,AFFECTS,Kleine-Levin Syndrome,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206171,C0694549,AFFECTS,Community-Acquired Infections,Community acquired pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206171,C1175175,AFFECTS,Community-Acquired Infections,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206526,C0041296,AFFECTS,"Tuberculosis, Multidrug-Resistant",Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206526,C1827301,AFFECTS,"Tuberculosis, Multidrug-Resistant",Extensively Drug-Resistant Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0004096,AFFECTS,Coronavirus Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0006267,AFFECTS,Coronavirus Infections,Bronchiectasis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0011303,AFFECTS,Coronavirus Infections,Demyelinating Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0014070,AFFECTS,Coronavirus Infections,Encephalomyelitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0035204,AFFECTS,Coronavirus Infections,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0035304,AFFECTS,Coronavirus Infections,Retinal Degeneration,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C0598196,AFFECTS,Coronavirus Infections,microbial disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C3534575,AFFECTS,Coronavirus Infections,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0206750,C3824825,AFFECTS,Coronavirus Infections,SARS (Disease),dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0220983,C0242528,AFFECTS,Metabolic alkalosis,Azotemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0221106,C0038358,AFFECTS,Alkalemia,Gastric ulcer,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0238132,C0032326,AFFECTS,Bronchopleural fistula,Pneumothorax,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242339,C0028754,AFFECTS,Dyslipidemias,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242339,C4529962,AFFECTS,Dyslipidemias,Fatty Liver Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242459,C0042384,AFFECTS,Simple Pulmonary Eosinophilia,Vasculitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242723,C0024530,AFFECTS,Parasitemia,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242723,C0030499,AFFECTS,Parasitemia,Parasitic Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242994,C0029118,AFFECTS,Hantavirus Infections,Opportunistic Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0242994,C0032285,AFFECTS,Hantavirus Infections,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0243026,C0042769,AFFECTS,Sepsis,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0259745,C0004096,AFFECTS,"Asthma, infective",Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0263541,C0034063,AFFECTS,Equine laminitis,Pulmonary Edema,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0264219,C0035243,AFFECTS,Acute respiratory disease,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0264408,C0004096,AFFECTS,Childhood asthma,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270151,C0008495,AFFECTS,Infective pneumonia acquired prenatally,Chorioamnionitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C0021400,AFFECTS,Infantile Neuroaxonal Dystrophy,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C0024530,AFFECTS,Infantile Neuroaxonal Dystrophy,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C0043528,AFFECTS,Infantile Neuroaxonal Dystrophy,Zoonoses,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C0272302,AFFECTS,Infantile Neuroaxonal Dystrophy,Gray Platelet Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C0872315,AFFECTS,Infantile Neuroaxonal Dystrophy,"Communicable Diseases, Emerging",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C1175175,AFFECTS,Infantile Neuroaxonal Dystrophy,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0270724,C3495919,AFFECTS,Infantile Neuroaxonal Dystrophy,Enthesitis-Related Arthritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0271429,C0004096,AFFECTS,Acute otitis media,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0271441,C0029882,AFFECTS,Chronic otitis media,Otitis Media,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0271454,C0271429,AFFECTS,Chronic purulent otitis media,Acute otitis media,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0272285,C0019158,AFFECTS,Heparin-induced thrombocytopenia,Hepatitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0272285,C0042769,AFFECTS,Heparin-induced thrombocytopenia,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275518,C0038238,AFFECTS,Acute infectious disease,Steatorrhea,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275518,C0162429,AFFECTS,Acute infectious disease,Malnutrition,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275522,C0004096,AFFECTS,Asymptomatic Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275522,C0021400,AFFECTS,Asymptomatic Infections,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0001486,AFFECTS,Coinfection,Adenovirus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0021400,AFFECTS,Coinfection,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0024440,AFFECTS,Coinfection,"Macular Edema, Cystoid",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0035204,AFFECTS,Coinfection,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0035243,AFFECTS,Coinfection,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0041296,AFFECTS,Coinfection,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0042769,AFFECTS,Coinfection,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0276276,AFFECTS,Coinfection,Canine parvovirus infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0442886,AFFECTS,Coinfection,Secondary Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C0497169,AFFECTS,Coinfection,hiv-infection/aids,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0275524,C1373218,AFFECTS,Coinfection,Decreased Immunologic Activity [PE],dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0276289,C0024440,AFFECTS,Zika Virus Infection,"Macular Edema, Cystoid",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0276447,C0004096,AFFECTS,Rhinovirus infection,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0276447,C0009450,AFFECTS,Rhinovirus infection,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0276447,C0035235,AFFECTS,Rhinovirus infection,Respiratory Syncytial Virus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0277527,C3534575,AFFECTS,Epidemic diarrhea,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0277550,C0009450,AFFECTS,Endemic Diseases,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0277562,C0004096,AFFECTS,Adult disease,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0339901,C0004096,AFFECTS,Acute respiratory infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0339901,C0008679,AFFECTS,Acute respiratory infections,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0339901,C0699949,AFFECTS,Acute respiratory infections,airway disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0347950,C0024117,AFFECTS,Asthma attack,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0398623,C0085786,AFFECTS,Thrombophilia,Hamman-Rich syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0398623,C0087086,AFFECTS,Thrombophilia,Thrombus,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0400966,C0028754,AFFECTS,Non-alcoholic Fatty Liver Disease,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442874,C0206019,AFFECTS,Neuropathy,HIV Encephalopathy,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442886,C0019100,AFFECTS,Secondary Infections,Severe Dengue,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442886,C0021053,AFFECTS,Secondary Infections,Immune System Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442886,C0021400,AFFECTS,Secondary Infections,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442886,C0042769,AFFECTS,Secondary Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0442886,C1449809,AFFECTS,Secondary Infections,Bovine Respiratory Disease Complex,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0497169,C0001175,AFFECTS,hiv-infection/aids,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0520680,C0276500,AFFECTS,"Sleep Apnea, Central",Human immunodeficiency virus I infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0520680,C1854469,AFFECTS,"Sleep Apnea, Central",Noonan Syndrome 2,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0521839,C0004096,AFFECTS,Influenza-like illness,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0542034,C0035579,AFFECTS,Hypoglobulinemia,Rickets,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0543638,C0494949,AFFECTS,Fibrosing disease,Multifocal fibrosclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0546994,C0348165,AFFECTS,Acute viral encephalitis,Central Nervous System Viral Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0694549,C0004096,AFFECTS,Community acquired pneumonia,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0694549,C0042769,AFFECTS,Community acquired pneumonia,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0694549,C0085786,AFFECTS,Community acquired pneumonia,Hamman-Rich syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729518,C0004096,AFFECTS,Bacterial respiratory infection,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0001883,AFFECTS,Viral respiratory infection,Airway Obstruction,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0004096,AFFECTS,Viral respiratory infection,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0010674,AFFECTS,Viral respiratory infection,Cystic Fibrosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0024117,AFFECTS,Viral respiratory infection,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0036690,AFFECTS,Viral respiratory infection,Septicemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0264408,AFFECTS,Viral respiratory infection,Childhood asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0729531,C0740304,AFFECTS,Viral respiratory infection,copd exacerbation,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0730322,C0042769,AFFECTS,Multiple evanescent white dot syndrome,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0740304,C0004096,AFFECTS,copd exacerbation,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0740304,C0024117,AFFECTS,copd exacerbation,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0740766,C0024117,AFFECTS,acute pneumonia,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0741949,C0011847,AFFECTS,Cardiovascular Pathology,Diabetes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0743841,C0024530,AFFECTS,Disorder characterized by fever,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0743841,C1175175,AFFECTS,Disorder characterized by fever,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0744471,C0010340,AFFECTS,gram negative bacteremia,Critical Illness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0849867,C0042769,AFFECTS,Widespread Disease,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0858318,C0024530,AFFECTS,Plasmodium falciparum infection,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0858318,C0242723,AFFECTS,Plasmodium falciparum infection,Parasitemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0858318,C0747820,AFFECTS,Plasmodium falciparum infection,antepartum malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0863093,C0004096,AFFECTS,cold symptoms,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0865791,C0004096,AFFECTS,obstructive bronchitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0872315,C0021400,AFFECTS,"Communicable Diseases, Emerging",Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0872315,C0205721,AFFECTS,"Communicable Diseases, Emerging","Infections, Hospital",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0872315,C0849867,AFFECTS,"Communicable Diseases, Emerging",Widespread Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0876973,C0010674,AFFECTS,Infectious disease of lung,Cystic Fibrosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0876973,C0024117,AFFECTS,Infectious disease of lung,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0877203,C0004096,AFFECTS,Viral Respiratory Tract Infection,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0878751,C3669463,AFFECTS,late pregnancy,Feline immunodeficiency virus infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0948008,C0752304,AFFECTS,Ischemic stroke,Hypoxic-Ischemic Encephalopathy,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0948441,C0242770,AFFECTS,Venoocclusive disease,Bronchiolitis Obliterans Organizing Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C0949083,C0010340,AFFECTS,Hospital acquired pneumonia,Critical Illness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1096155,C0277527,AFFECTS,Macrophage Activation Syndrome,Epidemic diarrhea,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0009450,AFFECTS,Severe Acute Respiratory Syndrome,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0016627,AFFECTS,Severe Acute Respiratory Syndrome,Influenza in Birds,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0019196,AFFECTS,Severe Acute Respiratory Syndrome,Hepatitis C,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0021400,AFFECTS,Severe Acute Respiratory Syndrome,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0024117,AFFECTS,Severe Acute Respiratory Syndrome,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0024530,AFFECTS,Severe Acute Respiratory Syndrome,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0032285,AFFECTS,Severe Acute Respiratory Syndrome,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0034069,AFFECTS,Severe Acute Respiratory Syndrome,Pulmonary Fibrosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0035243,AFFECTS,Severe Acute Respiratory Syndrome,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0041296,AFFECTS,Severe Acute Respiratory Syndrome,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0206750,AFFECTS,Severe Acute Respiratory Syndrome,Coronavirus Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0264490,AFFECTS,Severe Acute Respiratory Syndrome,Acute respiratory failure,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0277548,AFFECTS,Severe Acute Respiratory Syndrome,Epidemic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0456909,AFFECTS,Severe Acute Respiratory Syndrome,Blindness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0564778,AFFECTS,Severe Acute Respiratory Syndrome,Obstetric disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1175175,C0948008,AFFECTS,Severe Acute Respiratory Syndrome,Ischemic stroke,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1257763,C0275524,AFFECTS,Overnutrition,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1264606,C0016514,AFFECTS,Persistent infection,Foot-and-Mouth Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1264606,C0151317,AFFECTS,Persistent infection,Chronic infectious disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1264606,C0275522,AFFECTS,Persistent infection,Asymptomatic Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290339,C0206061,AFFECTS,Focal pneumonia,"Pneumonia, Interstitial",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290386,C0021400,AFFECTS,Chronic heart disease,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290807,C0009450,AFFECTS,Diarrheal disorder,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290882,C0033036,AFFECTS,Chronic nervous system disorder,Atrial Premature Complexes,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290884,C0544464,AFFECTS,Inflammatory disorder,disorder of aging,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1290886,C0004096,AFFECTS,Chronic inflammatory disorder,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1318020,C0003873,AFFECTS,Stromal keratitis,Rheumatoid Arthritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1318020,C0004364,AFFECTS,Stromal keratitis,Autoimmune Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1318020,C0026769,AFFECTS,Stromal keratitis,Multiple Sclerosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1318020,C0456909,AFFECTS,Stromal keratitis,Blindness,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1320214,C0004096,AFFECTS,Invasive Streptococcus pneumoniae disease,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1373218,C0022658,AFFECTS,Decreased Immunologic Activity [PE],Kidney Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1373218,C0036690,AFFECTS,Decreased Immunologic Activity [PE],Septicemia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1443953,C0277562,AFFECTS,Acute viral disease,Adult disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1449647,C0205721,AFFECTS,Secondary Peritonitis,"Infections, Hospital",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1449809,C0042769,AFFECTS,Bovine Respiratory Disease Complex,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1535939,C0001175,AFFECTS,Pneumocystis jiroveci pneumonia,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1535939,C0004096,AFFECTS,Pneumocystis jiroveci pneumonia,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1536186,C3534575,AFFECTS,Vaginal mucositis,Animal Health,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1561643,C0151650,AFFECTS,Chronic Kidney Diseases,Renal fibrosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1640363,C0031039,AFFECTS,Vector-transmitted infectious disease,Pericardial effusion,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1707758,C0032285,AFFECTS,Direct Contact Transmission Infection,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1719672,C0028754,AFFECTS,Severe Sepsis,Obesity,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1827301,C0152915,AFFECTS,Extensively Drug-Resistant Tuberculosis,Acute miliary tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1827301,C0206526,AFFECTS,Extensively Drug-Resistant Tuberculosis,"Tuberculosis, Multidrug-Resistant",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1850106,C0010356,AFFECTS,RAINE SYNDROME,Cross Infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1856053,C1175175,AFFECTS,Hydranencephaly with Renal Aplasia-Dysplasia,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1860224,C0032285,AFFECTS,ABLEPHARON-MACROSTOMIA SYNDROME,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1862172,C0275524,AFFECTS,Weismann Netter syndrome,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C1864389,C0343641,AFFECTS,PREMATURE CHROMATID SEPARATION TRAIT,Human papilloma virus infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2062441,C0004623,AFFECTS,Influenza A,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2062441,C0021400,AFFECTS,Influenza A,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2062441,C1443953,AFFECTS,Influenza A,Acute viral disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2062441,C3694279,AFFECTS,Influenza A,Middle East Respiratory Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2076600,C0339901,AFFECTS,Influenza due to Influenza A virus subtype H1N1,Acute respiratory infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2076600,C2062441,AFFECTS,Influenza due to Influenza A virus subtype H1N1,Influenza A,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2316159,C0011615,AFFECTS,Oral allergy syndrome,"Dermatitis, Atopic",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2721734,C0004096,AFFECTS,Methylenetetrahydrofolate reductase Genetic Polymorphisms,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2745948,C0019348,AFFECTS,"Hyalinosis, Systemic",Herpes Simplex Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2747816,C0037054,AFFECTS,Severe Malaria,Sickle Cell Trait,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2931826,C0021400,AFFECTS,Potassium aggravated myotonia,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2931826,C0032285,AFFECTS,Potassium aggravated myotonia,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2936328,C0001175,AFFECTS,Neglected Diseases,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2936328,C0009450,AFFECTS,Neglected Diseases,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2936328,C0024530,AFFECTS,Neglected Diseases,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2936328,C0041296,AFFECTS,Neglected Diseases,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C2936476,C0019196,AFFECTS,Chronic Liver Failure,Hepatitis C,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3495919,C0009450,AFFECTS,Enthesitis-Related Arthritis,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3662483,C0004096,AFFECTS,Allergic sensitization,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3662483,C0042769,AFFECTS,Allergic sensitization,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3669463,C0014335,AFFECTS,Feline immunodeficiency virus infection,Enteritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3669463,C0019693,AFFECTS,Feline immunodeficiency virus infection,HIV Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3669463,C0027697,AFFECTS,Feline immunodeficiency virus infection,Nephritis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3669463,C0032285,AFFECTS,Feline immunodeficiency virus infection,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3686577,C0011854,AFFECTS,Insulitis,"Diabetes Mellitus, Insulin-Dependent",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3694279,C0009450,AFFECTS,Middle East Respiratory Syndrome,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3694279,C0019104,AFFECTS,Middle East Respiratory Syndrome,"Hemorrhagic Fevers, Viral",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3694279,C0035204,AFFECTS,Middle East Respiratory Syndrome,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3694279,C0205721,AFFECTS,Middle East Respiratory Syndrome,"Infections, Hospital",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3694279,C0275522,AFFECTS,Middle East Respiratory Syndrome,Asymptomatic Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3873497,C0021400,AFFECTS,Severe acute respiratory infection,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3873497,C0035243,AFFECTS,Severe acute respiratory infection,Respiratory Tract Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C3888198,C0007222,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4085595,C0009450,AFFECTS,AL-RAQAD SYNDROME,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4085595,C0021053,AFFECTS,AL-RAQAD SYNDROME,Immune System Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4225222,C0042769,AFFECTS,TAKENOUCHI-KOSAKI SYNDROME,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4288963,C0042749,AFFECTS,Hepatitis C Virus Infection,Viremia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4288963,C0042769,AFFECTS,Hepatitis C Virus Infection,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
+C4288963,C0520680,AFFECTS,Hepatitis C Virus Infection,"Sleep Apnea, Central",dsyn,dsyn,1,AFFECTS_DSYNafctDSYN

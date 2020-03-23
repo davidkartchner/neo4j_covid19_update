@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013203,C0301872,AFFECTS,Drug resistance,Immune response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0000934,AFFECTS,Virulence,Acclimatization,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0018270,AFFECTS,Virulence,Growth,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0042774,AFFECTS,Virulence,Virus Replication,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0301872,AFFECTS,Virulence,Immune response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C1752856,AFFECTS,Virulence,Host-Pathogen Interactions,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0178849,C0301872,AFFECTS,species difference,Immune response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0005615,AFFECTS,Anabolism,Birth,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0025516,AFFECTS,Anabolism,"Metabolic Detoxication, Drug",biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0042774,AFFECTS,Anabolism,Virus Replication,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C1327413,AFFECTS,Anabolism,cytokine production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C1522763,AFFECTS,Anabolism,nitrogen compound metabolic process,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C1563744,AFFECTS,Anabolism,Lipogenesis,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0232478,C2825534,AFFECTS,Ingestion,Behavioral Development,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0679688,C0000934,AFFECTS,Protective Factors,Acclimatization,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1160638,C0042774,AFFECTS,Viral life cycle,Virus Replication,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1160638,C1654934,AFFECTS,Viral life cycle,Immune Evasion,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1721019,C0042774,AFFECTS,Virus Attachment,Virus Replication,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1817972,C0301872,AFFECTS,immune system development,Immune response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3537152,C1752856,AFFECTS,biological signaling,Host-Pathogen Interactions,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0015895,AFFECTS,Biological Processes,Fertility,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0042774,AFFECTS,Biological Processes,Virus Replication,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0043240,AFFECTS,Biological Processes,Wound Healing,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0301872,AFFECTS,Biological Processes,Immune response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0699900,AFFECTS,Biological Processes,Catabolism,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C1327413,AFFECTS,Biological Processes,cytokine production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C1510470,AFFECTS,Biological Processes,Motility,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C3159140,AFFECTS,Biological Processes,interferon production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3820740,C0019868,AFFECTS,viroporin,Homeostasis,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3820740,C0026559,AFFECTS,viroporin,Morphogenesis,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3853734,C0025519,AFFECTS,viral process,Metabolism,biof,orgf,1,AFFECTS_BIOFafctORGF

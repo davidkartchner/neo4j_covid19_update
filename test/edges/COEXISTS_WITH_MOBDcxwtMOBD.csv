@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001546,C0815107,COEXISTS_WITH,Adjustment Disorders,psychological distress,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0002622,C0038441,COEXISTS_WITH,Amnesia,"Stress Disorders, Traumatic",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0005586,C0011581,COEXISTS_WITH,Bipolar Disorder,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C0038441,COEXISTS_WITH,Depressive disorder,"Stress Disorders, Traumatic",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0011581,C4046029,COEXISTS_WITH,Depressive disorder,"Mental Disorders, Severe",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0036341,C0011581,COEXISTS_WITH,Schizophrenia,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0038436,C3203533,COEXISTS_WITH,Post-Traumatic Stress Disorder,Psychological Trauma,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0235013,C1269683,COEXISTS_WITH,Hypervigilance,Major Depressive Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0236720,C0730525,COEXISTS_WITH,Hallucinogen Persisting Perception Disorder,Chronic Post-Traumatic Stress Disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0236816,C0815107,COEXISTS_WITH,"Stress Disorders, Traumatic, Acute",psychological distress,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C0948853,C0338831,COEXISTS_WITH,euthymia,Manic,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1269683,C0011581,COEXISTS_WITH,Major Depressive Disorder,Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1269683,C4046029,COEXISTS_WITH,Major Depressive Disorder,"Mental Disorders, Severe",mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1510586,C0008060,COEXISTS_WITH,Autism Spectrum Disorders,child abuse behavior,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C1845248,C0042693,COEXISTS_WITH,Outbursts,Violence,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C4021799,C0013473,COEXISTS_WITH,Restrictive behavior,Eating Disorders,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD
+C4046029,C0011581,COEXISTS_WITH,"Mental Disorders, Severe",Depressive disorder,mobd,mobd,1,COEXISTS_WITH_MOBDcxwtMOBD

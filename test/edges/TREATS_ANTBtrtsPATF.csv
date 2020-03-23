@@ -1,0 +1,49 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002499,C3714514,TREATS,Amikacin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002645,C0021368,TREATS,Amoxicillin,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002680,C3714514,TREATS,Ampicillin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0013687,TREATS,Antibiotics,effusion,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0020517,TREATS,Antibiotics,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0021368,TREATS,Antibiotics,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0036983,TREATS,Antibiotics,Septic Shock,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C0151521,TREATS,Antibiotics,Bacterial resistance,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0151857,TREATS,Antibiotics,Pleocytosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0206277,TREATS,Antibiotics,Fatal Outcome,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0476474,TREATS,Antibiotics,persistent fever,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C1155266,TREATS,Antibiotics,inflammatory response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C1520005,TREATS,Antibiotics,Viral Pathogenesis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C3714514,TREATS,Antibiotics,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C4061114,TREATS,Antibiotics,Acute illness,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003238,C0036983,TREATS,antibiotic combinations,Septic Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003240,C0021368,TREATS,Macrolide Antibiotics,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003240,C3714514,TREATS,Macrolide Antibiotics,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0006968,C3714514,TREATS,Carbapenems,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0007554,C0020517,TREATS,Cefotaxime,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0008947,C3714514,TREATS,Clindamycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0010572,C0024348,TREATS,Cycloheximide,Lysis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013089,C0010828,TREATS,Doxorubicin,Cytopenia,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013090,C3714514,TREATS,Doxycycline,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0022914,C1155266,TREATS,Lactams,inflammatory response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0022914,C3714514,TREATS,Lactams,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026458,C0041582,TREATS,Monobactams,Ulcer,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026458,C1155266,TREATS,Monobactams,inflammatory response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0028951,C0020517,TREATS,Oligomycins,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030827,C3714514,TREATS,Penicillin G,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0035608,C0281169,TREATS,Rifampin,pulmonary complications,antb,patf,1,TREATS_ANTBtrtsPATF
+C0035608,C1155266,TREATS,Rifampin,inflammatory response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0041385,C0020517,TREATS,Tunicamycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0041385,C0028778,TREATS,Tunicamycin,Obstruction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0021368,TREATS,Azithromycin,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C3714514,TREATS,Azithromycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0054036,C0020517,TREATS,Brefeldin A,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0066005,C3714514,TREATS,meropenem,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0072980,C0020517,TREATS,Sirolimus,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0110038,C0021368,TREATS,Clavulanate,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C3714514,TREATS,Anti-Bacterial Agents,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0304320,C3714514,TREATS,Third generation cephalosporin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C1260298,C0281169,TREATS,tigecycline,pulmonary complications,antb,patf,1,TREATS_ANTBtrtsPATF
+C1260298,C3714514,TREATS,tigecycline,Infection,antb,patf,3,TREATS_ANTBtrtsPATF
+C1451406,C0021368,TREATS,tulathromycin,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C1690852,C3714514,TREATS,pradofloxacin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C3536856,C3714514,TREATS,Cephalosporins,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C3854019,C3714514,TREATS,Gentamicin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF

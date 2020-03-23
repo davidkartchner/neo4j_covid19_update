@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009818,C0205160,AFFECTS,Consultation,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0018747,C0205160,AFFECTS,Health Services,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0019993,C0205160,AFFECTS,Hospitalization,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0019993,C0332149,AFFECTS,Hospitalization,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0023977,C0205160,AFFECTS,long-term care,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0023977,C0442797,AFFECTS,long-term care,Decreasing,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0030685,C0205160,AFFECTS,Patient Discharge,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0031809,C0332149,AFFECTS,Physical Examination,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0086265,C0205160,AFFECTS,Ethical Review,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0204695,C0332149,AFFECTS,Feeding patient,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0220908,C0332149,AFFECTS,Screening procedure,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0441587,C0205160,AFFECTS,Clinical act of insertion,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0441587,C0332149,AFFECTS,Clinical act of insertion,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C0805586,C0205160,AFFECTS,Challenge,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C1261322,C0332149,AFFECTS,Evaluation procedure,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C1444562,C0205160,AFFECTS,Wellness surveillance,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C1522577,C0205160,AFFECTS,follow-up,Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C2958078,C0205160,AFFECTS,Psychosocial care (regime/therapy),Negative,hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C4036459,C0184512,AFFECTS,Contacts,Stabilized (qualifier value),hlca,qlco,1,AFFECTS_HLCAafctQLCO
+C4036459,C0332149,AFFECTS,Contacts,Possible,hlca,qlco,1,AFFECTS_HLCAafctQLCO

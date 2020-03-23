@@ -1,0 +1,365 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001527,C0010340,LOCATION_OF,Adipose tissue,Critical Illness,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0001527,C0014743,LOCATION_OF,Adipose tissue,Erythema Nodosum,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0001527,C0038235,LOCATION_OF,Adipose tissue,Steatitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0004799,C1561643,LOCATION_OF,Basement membrane,Chronic Kidney Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0007301,C0029408,LOCATION_OF,Cartilage,Degenerative polyarthritis,tisu,dsyn,2,LOCATION_OF_TISUlocfDSYN
+C0007301,C1096155,LOCATION_OF,Cartilage,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0009780,C0009326,LOCATION_OF,Connective Tissue,Collagen Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0009780,C1096155,LOCATION_OF,Connective Tissue,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0011646,C0033036,LOCATION_OF,Dermis,Atrial Premature Complexes,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0011646,C0042384,LOCATION_OF,Dermis,Vasculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0005779,LOCATION_OF,Endothelium,Blood Coagulation Disorders,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0010340,LOCATION_OF,Endothelium,Critical Illness,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0025517,LOCATION_OF,Endothelium,Metabolic Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0036690,LOCATION_OF,Endothelium,Septicemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0042373,LOCATION_OF,Endothelium,Vascular Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0243026,LOCATION_OF,Endothelium,Sepsis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0265025,LOCATION_OF,Endothelium,Capillary hyperpermeability,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014257,C0947751,LOCATION_OF,Endothelium,vascular inflammations,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014260,C0023374,LOCATION_OF,"Endothelium, Lymphatic",Lesch-Nyhan Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014261,C0026691,LOCATION_OF,"Endothelium, Vascular",Mucocutaneous Lymph Node Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014520,C0022573,LOCATION_OF,Epidermis,Keratoconjunctivitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014520,C0033036,LOCATION_OF,Epidermis,Atrial Premature Complexes,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014520,C0268314,LOCATION_OF,Epidermis,"Cholestasis-edema syndrome, Norwegian type",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0001361,LOCATION_OF,Epithelium,Acute tonsillitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0001486,LOCATION_OF,Epithelium,Adenovirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0004096,LOCATION_OF,Epithelium,Asthma,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0004623,LOCATION_OF,Epithelium,Bacterial Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0006271,LOCATION_OF,Epithelium,Bronchiolitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0016397,LOCATION_OF,Epithelium,Focal Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0021400,LOCATION_OF,Epithelium,Influenza,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0022658,LOCATION_OF,Epithelium,Kidney Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0023374,LOCATION_OF,Epithelium,Lesch-Nyhan Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0032285,LOCATION_OF,Epithelium,Pneumonia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0035235,LOCATION_OF,Epithelium,Respiratory Syncytial Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0042769,LOCATION_OF,Epithelium,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0085078,LOCATION_OF,Epithelium,Lysosomal Storage Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0149678,LOCATION_OF,Epithelium,Epstein-Barr Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0151281,LOCATION_OF,Epithelium,Genital ulcers,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0206750,LOCATION_OF,Epithelium,Coronavirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0238990,LOCATION_OF,Epithelium,Acute lower respiratory tract infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0267953,LOCATION_OF,Epithelium,Necrosis of pancreas,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0275524,LOCATION_OF,Epithelium,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0555970,LOCATION_OF,Epithelium,Nasal infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0699949,LOCATION_OF,Epithelium,airway disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0729531,LOCATION_OF,Epithelium,Viral respiratory infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0796126,LOCATION_OF,Epithelium,AICARDI-GOUTIERES SYNDROME 1,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C0872054,LOCATION_OF,Epithelium,latent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C1175175,LOCATION_OF,Epithelium,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C1264606,LOCATION_OF,Epithelium,Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C1443953,LOCATION_OF,Epithelium,Acute viral disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C1565489,LOCATION_OF,Epithelium,Renal Insufficiency,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C1707758,LOCATION_OF,Epithelium,Direct Contact Transmission Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0014609,C2712971,LOCATION_OF,Epithelium,Enteritis due to Norovirus,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0017136,C0035204,LOCATION_OF,Gastric mucosa,Respiration Disorders,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0017136,C0042384,LOCATION_OF,Gastric mucosa,Vasculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0017136,C0275524,LOCATION_OF,Gastric mucosa,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0017136,C1262091,LOCATION_OF,Gastric mucosa,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0018220,C0151317,LOCATION_OF,Gray Matter,Chronic infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0021839,C0031256,LOCATION_OF,Intestinal Mucosa,Petechiae,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0021839,C0042769,LOCATION_OF,Intestinal Mucosa,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0014078,LOCATION_OF,Lymphoid Tissue,Venezuelan equine encephalomyelitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0019068,LOCATION_OF,Lymphoid Tissue,Reactive Hemophagocytic Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0022521,LOCATION_OF,Lymphoid Tissue,Kartagener Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0023530,LOCATION_OF,Lymphoid Tissue,Leukopenia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0042749,LOCATION_OF,Lymphoid Tissue,Viremia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0042769,LOCATION_OF,Lymphoid Tissue,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0043124,LOCATION_OF,Lymphoid Tissue,West Nile Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0149678,LOCATION_OF,Lymphoid Tissue,Epstein-Barr Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0275524,LOCATION_OF,Lymphoid Tissue,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C0276500,LOCATION_OF,Lymphoid Tissue,Human immunodeficiency virus I infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C1096155,LOCATION_OF,Lymphoid Tissue,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0024296,C1845609,LOCATION_OF,Lymphoid Tissue,Lymphoid depletion,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0011119,LOCATION_OF,Tissue membrane,Decompression Sickness,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0011175,LOCATION_OF,Tissue membrane,Dehydration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0022573,LOCATION_OF,Tissue membrane,Keratoconjunctivitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0031350,LOCATION_OF,Tissue membrane,Pharyngitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0270814,LOCATION_OF,Tissue membrane,Spastic syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0341703,LOCATION_OF,Tissue membrane,Adult Fanconi syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C0376538,LOCATION_OF,Tissue membrane,Porcine Reproductive and Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C1175175,LOCATION_OF,Tissue membrane,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C2062441,LOCATION_OF,Tissue membrane,Influenza A,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0025255,C3809768,LOCATION_OF,Tissue membrane,IMMUNODEFICIENCY 13,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0006840,LOCATION_OF,Mucous Membrane,Candidiasis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0006849,LOCATION_OF,Mucous Membrane,Oral candidiasis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0008679,LOCATION_OF,Mucous Membrane,Chronic disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0009319,LOCATION_OF,Mucous Membrane,Colitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0009450,LOCATION_OF,Mucous Membrane,Communicable Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0011175,LOCATION_OF,Mucous Membrane,Dehydration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0019693,LOCATION_OF,Mucous Membrane,HIV Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0021400,LOCATION_OF,Mucous Membrane,Influenza,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0026769,LOCATION_OF,Mucous Membrane,Multiple Sclerosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0029883,LOCATION_OF,Mucous Membrane,Otitis Media with Effusion,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0030920,LOCATION_OF,Mucous Membrane,Peptic Ulcer,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0032269,LOCATION_OF,Mucous Membrane,Pneumococcal Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0033036,LOCATION_OF,Mucous Membrane,Atrial Premature Complexes,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0035243,LOCATION_OF,Mucous Membrane,Respiratory Tract Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0038358,LOCATION_OF,Mucous Membrane,Gastric ulcer,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0042769,LOCATION_OF,Mucous Membrane,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0151317,LOCATION_OF,Mucous Membrane,Chronic infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0178238,LOCATION_OF,Mucous Membrane,Intestinal infectious disease (disorder),tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0178829,LOCATION_OF,Mucous Membrane,reproductive system disorder,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0268314,LOCATION_OF,Mucous Membrane,"Cholestasis-edema syndrome, Norwegian type",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0275522,LOCATION_OF,Mucous Membrane,Asymptomatic Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0275524,LOCATION_OF,Mucous Membrane,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0276357,LOCATION_OF,Mucous Membrane,Swine influenza,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0276500,LOCATION_OF,Mucous Membrane,Human immunodeficiency virus I infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0282002,LOCATION_OF,Mucous Membrane,Superficial Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0341244,LOCATION_OF,Mucous Membrane,Duodenal erosion,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0679225,LOCATION_OF,Mucous Membrane,multiple pathologies,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C0870082,LOCATION_OF,Mucous Membrane,Hyperkeratosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1112522,LOCATION_OF,Mucous Membrane,bronchial edema,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1175175,LOCATION_OF,Mucous Membrane,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1262091,LOCATION_OF,Mucous Membrane,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1264606,LOCATION_OF,Mucous Membrane,Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1443851,LOCATION_OF,Mucous Membrane,Hemorrhagic gastroenteritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026724,C1707758,LOCATION_OF,Mucous Membrane,Direct Contact Transmission Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0008055,LOCATION_OF,Muscle,Chikungunya Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0009443,LOCATION_OF,Muscle,Common Cold,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0011175,LOCATION_OF,Muscle,Dehydration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0013264,LOCATION_OF,Muscle,"Muscular Dystrophy, Duchenne",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0013384,LOCATION_OF,Muscle,Dyskinetic syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0017923,LOCATION_OF,Muscle,Glycogen Storage Disease Type IV,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0018889,LOCATION_OF,Muscle,Helminthiasis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0019247,LOCATION_OF,Muscle,Hereditary Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0026850,LOCATION_OF,Muscle,Muscular Dystrophy,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0031350,LOCATION_OF,Muscle,Pharyngitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0036202,LOCATION_OF,Muscle,Sarcoidosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0036231,LOCATION_OF,Muscle,Sarcocystosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0042769,LOCATION_OF,Muscle,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0238288,LOCATION_OF,Muscle,"Muscular Dystrophy, Facioscapulohumeral",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0242723,LOCATION_OF,Muscle,Parasitemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0275522,LOCATION_OF,Muscle,Asymptomatic Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C0520680,LOCATION_OF,Muscle,"Sleep Apnea, Central",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C1096155,LOCATION_OF,Muscle,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C1262091,LOCATION_OF,Muscle,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026845,C2939465,LOCATION_OF,Muscle,Deficiency of glucose-6-phosphate dehydrogenase,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026969,C0021053,LOCATION_OF,Myelin,Immune System Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026969,C0026769,LOCATION_OF,Myelin,Multiple Sclerosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0026969,C0679225,LOCATION_OF,Myelin,multiple pathologies,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0003850,LOCATION_OF,Myocardium,Arteriosclerosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0010246,LOCATION_OF,Myocardium,Coxsackievirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0014009,LOCATION_OF,Myocardium,Empyema,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0014378,LOCATION_OF,Myocardium,Enterovirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0022118,LOCATION_OF,Myocardium,Transient ischemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0042384,LOCATION_OF,Myocardium,Vasculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0158940,LOCATION_OF,Myocardium,Transitory tachypnea of newborn,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0275518,LOCATION_OF,Myocardium,Acute infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C0277564,LOCATION_OF,Myocardium,Acquired disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027061,C1707758,LOCATION_OF,Myocardium,Direct Contact Transmission Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0004096,LOCATION_OF,Structure of mucous membrane of nose,Asthma,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0009443,LOCATION_OF,Structure of mucous membrane of nose,Common Cold,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0009450,LOCATION_OF,Structure of mucous membrane of nose,Communicable Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0016627,LOCATION_OF,Structure of mucous membrane of nose,Influenza in Birds,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0042749,LOCATION_OF,Structure of mucous membrane of nose,Viremia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0042769,LOCATION_OF,Structure of mucous membrane of nose,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C0149678,LOCATION_OF,Structure of mucous membrane of nose,Epstein-Barr Virus Infections,tisu,dsyn,2,LOCATION_OF_TISUlocfDSYN
+C0027428,C0264221,LOCATION_OF,Structure of mucous membrane of nose,Disorder of upper respiratory system,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C1290886,LOCATION_OF,Structure of mucous membrane of nose,Chronic inflammatory disorder,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027428,C2977059,LOCATION_OF,Structure of mucous membrane of nose,Influenzal encephalopathy NOS,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027740,C0022116,LOCATION_OF,Nerve,Ischemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027740,C0029134,LOCATION_OF,Nerve,Optic Neuritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027740,C0030353,LOCATION_OF,Nerve,Papilledema,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027740,C0042769,LOCATION_OF,Nerve,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0027757,C1264606,LOCATION_OF,Nerve Tissue,Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0028937,C0037199,LOCATION_OF,Olfactory Mucosa,Sinusitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0029250,C0042769,LOCATION_OF,Organoids,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0029250,C0276289,LOCATION_OF,Organoids,Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0029250,C0850666,LOCATION_OF,Organoids,Infection caused by Helicobacter pylori,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0036760,C0014335,LOCATION_OF,Serous Membrane,Enteritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0036760,C0031256,LOCATION_OF,Serous Membrane,Petechiae,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0001752,LOCATION_OF,Body tissue,African swine fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0002395,LOCATION_OF,Body tissue,Alzheimer's Disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0004096,LOCATION_OF,Body tissue,Asthma,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0004364,LOCATION_OF,Body tissue,Autoimmune Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0004623,LOCATION_OF,Body tissue,Bacterial Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0008679,LOCATION_OF,Body tissue,Chronic disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0009450,LOCATION_OF,Body tissue,Communicable Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0010823,LOCATION_OF,Body tissue,Cytomegalovirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0014057,LOCATION_OF,Body tissue,Japanese Encephalitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0016397,LOCATION_OF,Body tissue,Focal Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0016627,LOCATION_OF,Body tissue,Influenza in Birds,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0018133,LOCATION_OF,Body tissue,Graft-vs-Host Disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0019348,LOCATION_OF,Body tissue,Herpes Simplex Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0019360,LOCATION_OF,Body tissue,Herpes zoster disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0019372,LOCATION_OF,Body tissue,Herpesviridae Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0020757,LOCATION_OF,Body tissue,Ichthyoses,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0022658,LOCATION_OF,Body tissue,Kidney Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0023290,LOCATION_OF,Body tissue,"Leishmaniasis, Visceral",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0027765,LOCATION_OF,Body tissue,nervous system disorder,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0029342,LOCATION_OF,Body tissue,Orthomyxoviridae Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0029408,LOCATION_OF,Body tissue,Degenerative polyarthritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0030305,LOCATION_OF,Body tissue,Pancreatitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0031350,LOCATION_OF,Body tissue,Pharyngitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0035585,LOCATION_OF,Body tissue,Rickettsia Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0036690,LOCATION_OF,Body tissue,Septicemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0039128,LOCATION_OF,Body tissue,Syphilis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0042384,LOCATION_OF,Body tissue,Vasculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0042749,LOCATION_OF,Body tissue,Viremia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0042769,LOCATION_OF,Body tissue,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0043124,LOCATION_OF,Body tissue,West Nile Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0085306,LOCATION_OF,Body tissue,Feline infectious peritonitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0149521,LOCATION_OF,Body tissue,"Pancreatitis, Chronic",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0151317,LOCATION_OF,Body tissue,Chronic infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0175778,LOCATION_OF,Body tissue,Larsen syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0206061,LOCATION_OF,Body tissue,"Pneumonia, Interstitial",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0206608,LOCATION_OF,Body tissue,Flavivirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0206750,LOCATION_OF,Body tissue,Coronavirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0265965,LOCATION_OF,Body tissue,Dyskeratosis Congenita,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0272285,LOCATION_OF,Body tissue,Heparin-induced thrombocytopenia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0275524,LOCATION_OF,Body tissue,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0276241,LOCATION_OF,Body tissue,Malignant catarrhal fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0276289,LOCATION_OF,Body tissue,Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0276483,LOCATION_OF,Body tissue,Infectious bursal disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0333997,LOCATION_OF,Body tissue,Lymphoid hyperplasia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0341439,LOCATION_OF,Body tissue,Chronic liver disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0376550,LOCATION_OF,Body tissue,Astroviridae Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0442886,LOCATION_OF,Body tissue,Secondary Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0456097,LOCATION_OF,Body tissue,Congenital viral disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0600327,LOCATION_OF,Body tissue,Toxic Shock Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0740394,LOCATION_OF,Body tissue,Hyperuricemia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0876991,LOCATION_OF,Body tissue,Histiocytosis haematophagic,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0940933,LOCATION_OF,Body tissue,infection as a complication,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C0949804,LOCATION_OF,Body tissue,Polyomavirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1096155,LOCATION_OF,Body tissue,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1175175,LOCATION_OF,Body tissue,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1262091,LOCATION_OF,Body tissue,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1264606,LOCATION_OF,Body tissue,Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1290884,LOCATION_OF,Body tissue,Inflammatory disorder,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1306856,LOCATION_OF,Body tissue,Megaloblastic anemia due to inborn errors of metabolism,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1443953,LOCATION_OF,Body tissue,Acute viral disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C1839780,LOCATION_OF,Body tissue,FRAGILE X TREMOR/ATAXIA SYNDROME,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C3241937,LOCATION_OF,Body tissue,Nonalcoholic Steatohepatitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C3250443,LOCATION_OF,Body tissue,MYOTONIC DYSTROPHY 1,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C3669463,LOCATION_OF,Body tissue,Feline immunodeficiency virus infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0040300,C3694279,LOCATION_OF,Body tissue,Middle East Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0162867,C1262091,LOCATION_OF,Tunica Media,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0222331,C0011603,LOCATION_OF,Subcutaneous Fat,Dermatitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0222660,C0029453,LOCATION_OF,Cancellous Bone,Osteopenia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0225318,C1262091,LOCATION_OF,Interstitial tissue,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0225342,C0391861,LOCATION_OF,Adventitia,Plasma cell inflammation,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0227598,C0010692,LOCATION_OF,Urothelium,Cystitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0227598,C0026769,LOCATION_OF,Urothelium,Multiple Sclerosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0278403,C0030326,LOCATION_OF,Subcutaneous Tissue,Panniculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0278403,C0151317,LOCATION_OF,Subcutaneous Tissue,Chronic infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0282491,C0024312,LOCATION_OF,Structure of germinal center of lymph node,Lymphopenia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0282491,C0042769,LOCATION_OF,Structure of germinal center of lymph node,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0282491,C0272386,LOCATION_OF,Structure of germinal center of lymph node,Hypertrophy of tonsils,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0282491,C0340427,LOCATION_OF,Structure of germinal center of lymph node,Familial dilated cardiomyopathy,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0282491,C1264606,LOCATION_OF,Structure of germinal center of lymph node,Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0332835,C1096155,LOCATION_OF,Transplanted tissue,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440744,C0013364,LOCATION_OF,Human tissue,"Dysautonomia, Familial",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440744,C0042769,LOCATION_OF,Human tissue,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440744,C0275524,LOCATION_OF,Human tissue,Coinfection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440744,C1535917,LOCATION_OF,Human tissue,Nipah Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440746,C0014457,LOCATION_OF,brain tissue surgical material,Eosinophilia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440746,C0020179,LOCATION_OF,brain tissue surgical material,Huntington Disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440746,C0042769,LOCATION_OF,brain tissue surgical material,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0440746,C3853962,LOCATION_OF,brain tissue surgical material,Enterovirus 71 infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0444184,C0276289,LOCATION_OF,Postmortem tissue sample,Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0444184,C1175175,LOCATION_OF,Postmortem tissue sample,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0444184,C3669463,LOCATION_OF,Postmortem tissue sample,Feline immunodeficiency virus infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0599331,C0858744,LOCATION_OF,Nasal Epithelium,infection induced,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0599332,C0042769,LOCATION_OF,Olfactory Epithelium,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C0008312,LOCATION_OF,Biopsy sample,Primary biliary cirrhosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C0022658,LOCATION_OF,Biopsy sample,Kidney Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C0149678,LOCATION_OF,Biopsy sample,Epstein-Barr Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C0162848,LOCATION_OF,Biopsy sample,Lichenoid Eruptions,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C0263006,LOCATION_OF,Biopsy sample,Perifolliculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0677862,C1535950,LOCATION_OF,Biopsy sample,Gastrointestinal inflammation,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682575,C0149678,LOCATION_OF,Multilaminar epithelium,Epstein-Barr Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682576,C0206750,LOCATION_OF,ciliated epithelium,Coronavirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0008679,LOCATION_OF,White matter,Chronic disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0014038,LOCATION_OF,White matter,Encephalitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0014059,LOCATION_OF,White matter,"Encephalomyelitis, Acute Disseminated",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0019247,LOCATION_OF,White matter,Hereditary Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0021053,LOCATION_OF,White matter,Immune System Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0025289,LOCATION_OF,White matter,Meningitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0151317,LOCATION_OF,White matter,Chronic infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0682708,C0338474,LOCATION_OF,White matter,Central nervous system demyelination,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0684084,C0038160,LOCATION_OF,Skin tissue,Staphylococcal Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0684084,C1608955,LOCATION_OF,Skin tissue,Mycobacterium abscessus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0738677,C1274778,LOCATION_OF,Retroperitoneal Fat,Nodular panniculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0751974,C0042769,LOCATION_OF,Respiratory Mucosa,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0751974,C0243026,LOCATION_OF,Respiratory Mucosa,Sepsis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0751974,C0376538,LOCATION_OF,Respiratory Mucosa,Porcine Reproductive and Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0751974,C0729531,LOCATION_OF,Respiratory Mucosa,Viral respiratory infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0771377,C0029408,LOCATION_OF,Spleen Tissue,Degenerative polyarthritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C0872050,C0002631,LOCATION_OF,Human Fetal Tissue,Infection of amniotic cavity,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0003615,LOCATION_OF,Lamina Propria,Appendicitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0009319,LOCATION_OF,Lamina Propria,Colitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0009447,LOCATION_OF,Lamina Propria,Common Variable Immunodeficiency,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0010692,LOCATION_OF,Lamina Propria,Cystitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0016397,LOCATION_OF,Lamina Propria,Focal Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0017152,LOCATION_OF,Lamina Propria,Gastritis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0040584,LOCATION_OF,Lamina Propria,Tracheitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0333997,LOCATION_OF,Lamina Propria,Lymphoid hyperplasia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1179187,C0391861,LOCATION_OF,Lamina Propria,Plasma cell inflammation,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1185721,C0270814,LOCATION_OF,Membranous wall,Spastic syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1267092,C0152020,LOCATION_OF,Smooth muscle (tissue),Gastroparesis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1272575,C0003848,LOCATION_OF,Heart tissue,Arteriolitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1272575,C0027059,LOCATION_OF,Heart tissue,Myocarditis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1272575,C0343804,LOCATION_OF,Heart tissue,Chronic Chagas' disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1272575,C1262091,LOCATION_OF,Heart tissue,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1292533,C0042749,LOCATION_OF,Tissue specimen,Viremia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1292533,C0085306,LOCATION_OF,Tissue specimen,Feline infectious peritonitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1292533,C0149516,LOCATION_OF,Tissue specimen,Chronic sinusitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1292533,C0206750,LOCATION_OF,Tissue specimen,Coronavirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1511228,C0042384,LOCATION_OF,Blood Vessel Tissue,Vasculitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1511243,C1864389,LOCATION_OF,Mouse Bone Marrow,PREMATURE CHROMATID SEPARATION TRAIT,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1512909,C0035112,LOCATION_OF,Mouse Intestine,Reoviridae Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1513763,C1096155,LOCATION_OF,Mouse Muscle,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1514845,C1707758,LOCATION_OF,Renal Tissue,Direct Contact Transmission Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1515300,C0276289,LOCATION_OF,Testicular Tissue,Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1516828,C0042769,LOCATION_OF,Mouse Embryonic Fibroblast,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1516828,C0043124,LOCATION_OF,Mouse Embryonic Fibroblast,West Nile Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0016627,LOCATION_OF,Mouse Lung,Influenza in Birds,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0021400,LOCATION_OF,Mouse Lung,Influenza,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0035235,LOCATION_OF,Mouse Lung,Respiratory Syncytial Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0042769,LOCATION_OF,Mouse Lung,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0264219,LOCATION_OF,Mouse Lung,Acute respiratory disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0748168,LOCATION_OF,Mouse Lung,Pulmonary Pathology,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C0854135,LOCATION_OF,Mouse Lung,Pseudomonas aeruginosa infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C1175175,LOCATION_OF,Mouse Lung,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C1265792,LOCATION_OF,Mouse Lung,Chronic emphysema,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518039,C3541994,LOCATION_OF,Mouse Lung,Drug Hypersensitivity Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1518051,C0019618,LOCATION_OF,Lymph Node Sinus,Histiocytosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1519474,C0036117,LOCATION_OF,Mouse Spleen,Salmonella infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1519474,C1864389,LOCATION_OF,Mouse Spleen,PREMATURE CHROMATID SEPARATION TRAIT,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1519521,C1175175,LOCATION_OF,Fresh Tissue,Severe Acute Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1519547,C0001486,LOCATION_OF,Tonsillar Tissue,Adenovirus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1519547,C0872054,LOCATION_OF,Tonsillar Tissue,latent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1521713,C0042769,LOCATION_OF,CNS - Brain (MMHCC),Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1521713,C0043124,LOCATION_OF,CNS - Brain (MMHCC),West Nile Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1521713,C0276289,LOCATION_OF,CNS - Brain (MMHCC),Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1521713,C0679247,LOCATION_OF,CNS - Brain (MMHCC),Terminal illness,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0013570,LOCATION_OF,Clone,"Ecthyma, Contagious",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0020498,LOCATION_OF,Clone,"Hyperostosis, Diffuse Idiopathic Skeletal",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0042769,LOCATION_OF,Clone,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0149678,LOCATION_OF,Clone,Epstein-Barr Virus Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0243026,LOCATION_OF,Clone,Sepsis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0747820,LOCATION_OF,Clone,antepartum malaria,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C0748168,LOCATION_OF,Clone,Pulmonary Pathology,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C1838601,LOCATION_OF,Clone,Retinitis Pigmentosa 11,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C1853104,LOCATION_OF,Clone,ALOPECIA AREATA 2,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C3694279,LOCATION_OF,Clone,Middle East Respiratory Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522642,C3887654,LOCATION_OF,Clone,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1522730,C1264606,LOCATION_OF,CNS (MMHCC),Persistent infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1523991,C0022660,LOCATION_OF,Urine (MMHCC),"Kidney Failure, Acute",tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1563740,C1096155,LOCATION_OF,Visceral Fat,Macrophage Activation Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1706784,C0032285,LOCATION_OF,Alveolar Septum,Pneumonia,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1706784,C0549493,LOCATION_OF,Alveolar Septum,Alveolitis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1706784,C1262020,LOCATION_OF,Alveolar Septum,diffuse alveolar damage,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1706784,C1262091,LOCATION_OF,Alveolar Septum,Lymphocytic infiltration,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1710158,C0796126,LOCATION_OF,Splenic Marginal Zone,AICARDI-GOUTIERES SYNDROME 1,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1711368,C1096363,LOCATION_OF,Marginal Zone,Splenic necrosis,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1711368,C1845609,LOCATION_OF,Marginal Zone,Lymphoid depletion,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C1955394,C0004364,LOCATION_OF,Tissue specific,Autoimmune Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C2698431,C0023374,LOCATION_OF,Nasal-Associated Lymphoid Tissue,Lesch-Nyhan Syndrome,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C2700415,C0035086,LOCATION_OF,Eye - Retina (MMHCC),Renal Osteodystrophy,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C4253999,C0275518,LOCATION_OF,Nasopharyngeal lymphoid tissue,Acute infectious disease,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C4266453,C0008055,LOCATION_OF,Musculoskeletal tissue,Chikungunya Fever,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C4524574,C0029118,LOCATION_OF,Ocular Tissue,Opportunistic Infections,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C4524574,C0042769,LOCATION_OF,Ocular Tissue,Virus Diseases,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN
+C4524574,C0276289,LOCATION_OF,Ocular Tissue,Zika Virus Infection,tisu,dsyn,1,LOCATION_OF_TISUlocfDSYN

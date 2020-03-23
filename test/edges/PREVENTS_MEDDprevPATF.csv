@@ -1,0 +1,35 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009653,C0242656,PREVENTS,"Condoms, Male",Disease Progression,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009653,C3714514,PREVENTS,"Condoms, Male",Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0015376,PREVENTS,Masks,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0038941,PREVENTS,Masks,Surgical Wound Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0242781,PREVENTS,Masks,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0333257,PREVENTS,Masks,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C3714514,PREVENTS,Masks,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0032042,C4061114,PREVENTS,Placebos,Acute illness,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C0015376,PREVENTS,Mechanical Ventilator,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C0242781,PREVENTS,Mechanical Ventilator,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C3714514,PREVENTS,Mechanical Ventilator,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085590,C4534318,PREVENTS,catheter device,Catheter-related blood stream infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0011304,PREVENTS,Mats,Demyelination,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0302158,PREVENTS,Mats,Leucocytic infiltrate,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0332448,PREVENTS,Mats,Infiltration,medd,patf,1,PREVENTS_MEDDprevPATF
+C0178987,C0021368,PREVENTS,Artificial Airways,Inflammation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181758,C0242781,PREVENTS,Surgical face mask,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181758,C0333257,PREVENTS,Surgical face mask,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181758,C3714514,PREVENTS,Surgical face mask,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0182158,C0036974,PREVENTS,Pads,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183086,C3714514,PREVENTS,sanitizers,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183336,C0232483,PREVENTS,Sleeve,Reflux,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183479,C3714514,PREVENTS,Spreader,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0441107,C0015376,PREVENTS,Cuffs device,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0750164,C0860239,PREVENTS,venous access,Catheter related infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0772494,C3714514,PREVENTS,STERILE FIELD,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0013604,PREVENTS,BARRIER,Edema,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0036974,PREVENTS,BARRIER,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0235395,PREVENTS,BARRIER,Fluid loss,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C2886794,PREVENTS,BARRIER,Catheter related bloodstream infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C3714514,PREVENTS,BARRIER,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1875815,C0232483,PREVENTS,SYRINGES/NEEDLES,Reflux,medd,patf,1,PREVENTS_MEDDprevPATF
+C1995447,C0020517,PREVENTS,"ORAL,SWAB",Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C3876323,C0015376,PREVENTS,Nosepiece,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF

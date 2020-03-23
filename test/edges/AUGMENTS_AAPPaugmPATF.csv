@@ -1,0 +1,250 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001156,C0020517,AUGMENTS,Aconitate Hydratase,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0001347,C0001349,AUGMENTS,Acute-Phase Proteins,Acute-Phase Reaction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0001347,C0021368,AUGMENTS,Acute-Phase Proteins,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0001347,C3714514,AUGMENTS,Acute-Phase Proteins,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0003241,C0020517,AUGMENTS,Antibodies,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0003241,C1155266,AUGMENTS,Antibodies,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0003241,C3714514,AUGMENTS,Antibodies,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0003242,C0011304,AUGMENTS,"Antibodies, Anti-Idiotypic",Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0004599,C0020517,AUGMENTS,Bacitracin,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0006938,C0151654,AUGMENTS,Captopril,Myocardial fibrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0007578,C0332448,AUGMENTS,Cell Adhesion Molecules,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0008145,C2717792,AUGMENTS,Chitinases,Airway Remodeling,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0008429,C0020517,AUGMENTS,Cholinesterases,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0008864,C0021368,AUGMENTS,Citrulline,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0009498,C0020517,AUGMENTS,Complement System Proteins,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0009498,C0021368,AUGMENTS,Complement System Proteins,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0009521,C1520005,AUGMENTS,Complement C5a,Viral Pathogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0010590,C0020963,AUGMENTS,Cycloserine,Immune Tolerance,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0010590,C0021368,AUGMENTS,Cycloserine,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0013729,C0028778,AUGMENTS,Eukaryotic Initiation Factor-2,Obstruction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0017278,C0004366,AUGMENTS,"Gene Products, env",Autoimmune Response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0017890,C0018273,AUGMENTS,Glycine,Growth Disorders,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0017968,C0021368,AUGMENTS,Glycoproteins,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0018847,C0020517,AUGMENTS,Heat Shock Protein 27,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0019602,C0013604,AUGMENTS,Histidine,Edema,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0019652,C1155266,AUGMENTS,Histones,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0020197,C0027626,AUGMENTS,Hyaluronidase,Neoplasm Invasiveness,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0020731,C3838777,AUGMENTS,Pertussis Toxin,Sensitization process,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021027,C2699153,AUGMENTS,Immunoglobulins,Cell Invasion,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021641,C0016059,AUGMENTS,Insulin,Fibrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021743,C3714514,AUGMENTS,Interferon Type I,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021747,C0002792,AUGMENTS,Interferons,anaphylaxis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021755,C0021368,AUGMENTS,Interleukin-1,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021755,C1155266,AUGMENTS,Interleukin-1,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021756,C0020517,AUGMENTS,Interleukin-2,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021758,C0021368,AUGMENTS,Interleukin-4,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021758,C0021375,AUGMENTS,Interleukin-4,allergic inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021758,C1155266,AUGMENTS,Interleukin-4,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C0001349,AUGMENTS,Interleukin-6,Acute-Phase Reaction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C0021368,AUGMENTS,Interleukin-6,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C0267778,AUGMENTS,Interleukin-6,Adhesion of intestine,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C0333951,AUGMENTS,Interleukin-6,Growth arrest,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C1155266,AUGMENTS,Interleukin-6,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0021760,C3714514,AUGMENTS,Interleukin-6,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0024075,C0020517,AUGMENTS,Luciferases,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0024420,C0027540,AUGMENTS,Macroglobulins,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0027893,C0021368,AUGMENTS,neuropeptide Y,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0027893,C0452115,AUGMENTS,neuropeptide Y,Infection following immunization,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0028612,C0020517,AUGMENTS,Nucleoproteins,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0030940,C1155266,AUGMENTS,Peptide Hydrolases,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0032143,C0021368,AUGMENTS,alteplase,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0033665,C0021368,AUGMENTS,Protein Precursors,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0034805,C0242656,AUGMENTS,Fc Receptor,Disease Progression,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0034818,C0021655,AUGMENTS,Insulin Receptor,Insulin Resistance,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0034861,C0020517,AUGMENTS,Recombinant Proteins,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0034862,C0332448,AUGMENTS,"Vaccines, Recombinant",Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0035031,C0027626,AUGMENTS,Relaxin,Neoplasm Invasiveness,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0040691,C0016059,AUGMENTS,Transforming Growth Factors,Fibrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0041368,C3714514,AUGMENTS,Tumor Necrosis Factors,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0041485,C1155266,AUGMENTS,Tyrosine,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0042736,C0020517,AUGMENTS,Viral Proteins,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0051979,C0020517,AUGMENTS,anti-IgG,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0052193,C0333951,AUGMENTS,apolipoprotein D,Growth arrest,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0054015,C0036983,AUGMENTS,Nesiritide,Septic Shock,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0054943,C0854457,AUGMENTS,ALANINE AMINOPEPTIDASE,Direct disease transmission,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0055060,C0028778,AUGMENTS,centromere protein C,Obstruction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0055817,C0333467,AUGMENTS,citrate carrier,Cytopathic effect,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0057256,C1520005,AUGMENTS,Defensins,Viral Pathogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0058687,C0018273,AUGMENTS,DOPA melanin,Growth Disorders,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0059249,C0027540,AUGMENTS,annexin A5,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0060916,C0020517,AUGMENTS,G-substrate,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0061472,C0020517,AUGMENTS,Glutamic Acid,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0063695,C0332448,AUGMENTS,Intercellular adhesion molecule 1,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0063710,C0021368,AUGMENTS,"Receptors, Interleukin-1",Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0064208,C0027540,AUGMENTS,K99 antigen,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0065661,C3714514,AUGMENTS,Mannose Binding Lectin,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0065693,C0027540,AUGMENTS,Mannose-Binding Lectins,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0072348,C0001349,AUGMENTS,Protein C Inhibitor,Acute-Phase Reaction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0073020,C0036679,AUGMENTS,recombinase,Diastasis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0077400,C0020517,AUGMENTS,Troponin C,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0078056,C0015376,AUGMENTS,Vascular Cell Adhesion Molecule-1,Extravasation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0078056,C0332448,AUGMENTS,Vascular Cell Adhesion Molecule-1,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C0020517,AUGMENTS,cytokine,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C0021368,AUGMENTS,cytokine,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C0332448,AUGMENTS,cytokine,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C0333565,AUGMENTS,cytokine,Fibrin deposition,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C0334097,AUGMENTS,cytokine,Epithelial proliferation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079189,C1155266,AUGMENTS,cytokine,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079419,C0333951,AUGMENTS,TP53 gene,Growth arrest,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079633,C0021368,AUGMENTS,Interleukin-8,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079633,C1155266,AUGMENTS,Interleukin-8,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079904,C0021368,AUGMENTS,NF-kappa B,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0079904,C0332448,AUGMENTS,NF-kappa B,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0084692,C0015376,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Extravasation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0084692,C0021368,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0085295,C0011304,AUGMENTS,Interleukin-10,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0085295,C2004491,AUGMENTS,Interleukin-10,Cicatrix,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0103306,C0013604,AUGMENTS,angiotensin I (1-7),Edema,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0108187,C0011304,AUGMENTS,Calnexin,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0115305,C0332448,AUGMENTS,E-Selectin,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0123259,C0333951,AUGMENTS,Insulin-Like Growth Factor Binding Protein 5,Growth arrest,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0162768,C0020517,AUGMENTS,Fusion protein,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0164786,C0020517,AUGMENTS,Proto-Oncogene Proteins c-akt,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0164786,C0333467,AUGMENTS,Proto-Oncogene Proteins c-akt,Cytopathic effect,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0168981,C0027540,AUGMENTS,R recombinase,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0170168,C0452115,AUGMENTS,Mitogen Activated Protein Kinase 1,Infection following immunization,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0178827,C0020517,AUGMENTS,replicase,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0208940,C0332448,AUGMENTS,human REG1A protein,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0214743,C1155266,AUGMENTS,Interleukin-13,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0215848,C0021368,AUGMENTS,Hypoxia-Inducible Factor 1,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0248441,C0020564,AUGMENTS,"Ribosomal Protein S6 Kinases, 90-kDa",Hypertrophy,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0251400,C0020564,AUGMENTS,sulfate transporter,Hypertrophy,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0254610,C0332448,AUGMENTS,Interleukin-15,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0282554,C0302158,AUGMENTS,chemokine,Leucocytic infiltrate,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0282554,C0332448,AUGMENTS,chemokine,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0282554,C1155266,AUGMENTS,chemokine,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0282554,C3714514,AUGMENTS,chemokine,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0295022,C1155266,AUGMENTS,TNF receptor-associated factor 3,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0376515,C0015376,AUGMENTS,BCL2 gene,Extravasation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0376541,C0036982,AUGMENTS,Recombinant Erythropoietin,"Shock, Hemorrhagic",aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0378910,C0021368,AUGMENTS,Lymphocyte antigen CD66A,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0390681,C1563937,AUGMENTS,TNF receptor-associated factor 5,Atherogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0530678,C0452115,AUGMENTS,thrombospondin 2,Infection following immunization,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0530979,C0011304,AUGMENTS,bone morphogenetic protein 4,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0537439,C0020517,AUGMENTS,enfuvirtide,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0539788,C0030660,AUGMENTS,flotillins,Pathologic Processes,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0597357,C1155266,AUGMENTS,receptor,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0623362,C0021368,AUGMENTS,Matrix Metalloproteinases,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0623362,C0332448,AUGMENTS,Matrix Metalloproteinases,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0669372,C0011304,AUGMENTS,"NOS2A protein, human",Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0670896,C1155266,AUGMENTS,Toll-like receptors,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0670896,C3714514,AUGMENTS,Toll-like receptors,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0682972,C1520005,AUGMENTS,G-Protein-Coupled Receptors,Viral Pathogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0812198,C0015376,AUGMENTS,BAX gene,Extravasation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0812445,C0021368,AUGMENTS,CXCL1 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0913092,C0036679,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Diastasis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C0968475,C0027626,AUGMENTS,matrix metalloproteinase 12,Neoplasm Invasiveness,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1143976,C1155266,AUGMENTS,"TREM2 protein, human",inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1179132,C3714514,AUGMENTS,Scaffold protein,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1256770,C0027686,AUGMENTS,Vascular Endothelial Growth Factors,Pathologic Neovascularization,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1307407,C0020517,AUGMENTS,"FRAP1 protein, human",Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1321919,C0021368,AUGMENTS,"TLR4 protein, human",Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332112,C1155266,AUGMENTS,RHOH gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332700,C0017639,AUGMENTS,CCR5 gene,Gliosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332707,C0282474,AUGMENTS,CD209 gene,Maternal-Fetal Infection Transmission,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332804,C0020517,AUGMENTS,CTSB gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332819,C0021368,AUGMENTS,CXCL5 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1332823,C0020517,AUGMENTS,CXCR4 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1333723,C0003130,AUGMENTS,GTF2H1 gene,Anoxia,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1333908,C1155266,AUGMENTS,HMGB1 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1334103,C0020517,AUGMENTS,IL13 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1334126,C0011304,AUGMENTS,CXCR2 gene,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1334126,C0302158,AUGMENTS,CXCR2 gene,Leucocytic infiltrate,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1336763,C0021368,AUGMENTS,Toll-Like Receptor Family Gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1336763,C1155266,AUGMENTS,Toll-Like Receptor Family Gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1336763,C3714514,AUGMENTS,Toll-Like Receptor Family Gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1336776,C0024348,AUGMENTS,Transcription Coactivator,Lysis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1366516,C0027540,AUGMENTS,IRF1 gene,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1367307,C0020517,AUGMENTS,STAT3 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1367307,C3887486,AUGMENTS,STAT3 gene,Interstitial lung fibrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412215,C0020517,AUGMENTS,ADAR gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412493,C0020517,AUGMENTS,AQP3 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412533,C0020517,AUGMENTS,ARIH1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412533,C1155266,AUGMENTS,ARIH1 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412616,C0035228,AUGMENTS,ATF3 gene,Respiratory Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412616,C1155266,AUGMENTS,ATF3 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1412995,C1155266,AUGMENTS,C3AR1 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1413188,C0332448,AUGMENTS,CCR2 gene,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1413188,C1155266,AUGMENTS,CCR2 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1413460,C2699153,AUGMENTS,CLDN1 gene,Cell Invasion,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1414402,C0333951,AUGMENTS,ENO1 gene,Growth arrest,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1414444,C3714514,AUGMENTS,ERN1 gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1415351,C0020517,AUGMENTS,GTPBP1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1415898,C0028778,AUGMENTS,IFITM3 gene,Obstruction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1415898,C1155266,AUGMENTS,IFITM3 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1416373,C0015376,AUGMENTS,CADM1 gene,Extravasation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1416373,C0332448,AUGMENTS,CADM1 gene,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1416801,C3714514,AUGMENTS,LBP gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1417497,C0021368,AUGMENTS,MUC5AC gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1417510,C0021368,AUGMENTS,MX1 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1417530,C0021368,AUGMENTS,MYD88 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1417776,C0028778,AUGMENTS,NPC1 gene,Obstruction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1418597,C0332448,AUGMENTS,PITX3 gene,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1418597,C1155266,AUGMENTS,PITX3 gene,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1418597,C3714514,AUGMENTS,PITX3 gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1418616,C0021368,AUGMENTS,PLA2G10 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1418616,C0035228,AUGMENTS,PLA2G10 gene,Respiratory Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1419388,C0020517,AUGMENTS,RIT2 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1419639,C0024348,AUGMENTS,RPL22 gene,Lysis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1420175,C0920563,AUGMENTS,SLC2A4 gene,Insulin Sensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1420369,C3714514,AUGMENTS,SPP1 gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1421429,C0020517,AUGMENTS,VTRNA1-1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1421479,C0332448,AUGMENTS,WASF1 gene,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1422064,C0028778,AUGMENTS,ACE2 gene,Obstruction,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1422064,C0030660,AUGMENTS,ACE2 gene,Pathologic Processes,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1422064,C1383860,AUGMENTS,ACE2 gene,Cardiac Hypertrophy,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1423842,C0021368,AUGMENTS,NELFCD gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1423842,C0162351,AUGMENTS,NELFCD gene,Contact hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1424250,C0021368,AUGMENTS,NLRP3 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1424569,C0027686,AUGMENTS,DGCR14 gene,Pathologic Neovascularization,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1425066,C0021368,AUGMENTS,TREM1 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1425141,C0020517,AUGMENTS,HAVCR1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1425263,C0020517,AUGMENTS,PRNT gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1426393,C0011304,AUGMENTS,HES5 gene,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1447045,C0024348,AUGMENTS,"EGR1 protein, human",Lysis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1448177,C0267778,AUGMENTS,"TNF protein, human",Adhesion of intestine,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1456447,C3714514,AUGMENTS,"SLC6A2 protein, human",Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1514764,C0020517,AUGMENTS,Thioredoxin (human),Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1537661,C0020517,AUGMENTS,MARCH6 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1537719,C0021375,AUGMENTS,MIR21 gene,allergic inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1538957,C0020517,AUGMENTS,BNC1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1539099,C0036679,AUGMENTS,CLEC4M gene,Diastasis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1539100,C0021368,AUGMENTS,CLEC5A gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1539835,C3714514,AUGMENTS,SPEN gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1539907,C0020517,AUGMENTS,SYVN1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1540290,C0011304,AUGMENTS,CD200R1 gene,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1565860,C1155266,AUGMENTS,"PTGS2 protein, human",inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1565860,C2699153,AUGMENTS,"PTGS2 protein, human",Cell Invasion,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1571593,C0020522,AUGMENTS,"Chimeric Proteins, Recombinant",Delayed Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1667752,C0021375,AUGMENTS,"IL33 protein, human",allergic inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1701790,C0021368,AUGMENTS,"IL17A protein, human",Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1701790,C1155266,AUGMENTS,"IL17A protein, human",inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1702088,C0021368,AUGMENTS,"IL5 protein, human",Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1702088,C0021375,AUGMENTS,"IL5 protein, human",allergic inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1702088,C1155266,AUGMENTS,"IL5 protein, human",inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1704691,C0024348,AUGMENTS,FCGR3A wt Allele,Lysis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1705982,C1520005,AUGMENTS,KRAS wt Allele,Viral Pathogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1708010,C0332448,AUGMENTS,FES wt Allele,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1710602,C1155266,AUGMENTS,VIPR1 wt Allele,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1822683,C0020517,AUGMENTS,SERINC5 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1823491,C0332448,AUGMENTS,TRIM69 gene,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1824728,C0020517,AUGMENTS,CFB gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1825598,C0242649,AUGMENTS,IMPACT gene,"Infectious Disease Transmission, Horizontal",aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1825598,C0242781,AUGMENTS,IMPACT gene,disease transmission,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1826412,C0020517,AUGMENTS,BATF2 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1853685,C0020517,AUGMENTS,PBRM1 gene,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C1953384,C0020517,AUGMENTS,Reverse primer,Hypersensitivity,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C2239342,C3714514,AUGMENTS,DDX60 gene,Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C2700041,C1155266,AUGMENTS,F10 wt Allele,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C2936489,C1520005,AUGMENTS,Pleiotropic Gene,Viral Pathogenesis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C2945724,C1155266,AUGMENTS,f-protein,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C3470496,C0021368,AUGMENTS,IFNG-AS1 gene,Inflammation,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C3539688,C0262514,AUGMENTS,DEGS1 wt Allele,HIV exposure,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C3539807,C0027540,AUGMENTS,RALBP1 wt Allele,Necrosis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C3887559,C0332448,AUGMENTS,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Infiltration,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C3891560,C1155266,AUGMENTS,Alarmins,inflammatory response,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C4048280,C0036679,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Diastasis,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C4048280,C3714514,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Infection,aapp,patf,1,AUGMENTS_AAPPaugmPATF
+C4049595,C0011304,AUGMENTS,HLA Complex,Demyelination,aapp,patf,1,AUGMENTS_AAPPaugmPATF

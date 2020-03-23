@@ -1,0 +1,383 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001175,C0009450,PRECEDES,Acquired Immunodeficiency Syndrome,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0001175,C0016627,PRECEDES,Acquired Immunodeficiency Syndrome,Influenza in Birds,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0001311,C0009443,PRECEDES,Acute bronchiolitis,Common Cold,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0001311,C0032285,PRECEDES,Acute bronchiolitis,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0001486,C0022568,PRECEDES,Adenovirus Infections,Keratitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0001752,C0016052,PRECEDES,African swine fever,Fibromuscular Dysplasia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0002395,C0027765,PRECEDES,Alzheimer's Disease,nervous system disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0002395,C0030567,PRECEDES,Alzheimer's Disease,Parkinson Disease,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0004096,C0006266,PRECEDES,Asthma,Bronchial Spasm,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004096,C0006271,PRECEDES,Asthma,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004096,C0018799,PRECEDES,Asthma,Heart Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004096,C0024115,PRECEDES,Asthma,Lung diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004096,C0027765,PRECEDES,Asthma,nervous system disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004096,C0035235,PRECEDES,Asthma,Respiratory Syncytial Virus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004623,C0014059,PRECEDES,Bacterial Infections,"Encephalomyelitis, Acute Disseminated",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004623,C1290884,PRECEDES,Bacterial Infections,Inflammatory disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0004626,C1535939,PRECEDES,"Pneumonia, Bacterial",Pneumocystis jiroveci pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006266,C0004096,PRECEDES,Bronchial Spasm,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006266,C0024115,PRECEDES,Bronchial Spasm,Lung diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006271,C0004096,PRECEDES,Bronchiolitis,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006271,C0006285,PRECEDES,Bronchiolitis,Bronchopneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006271,C0032285,PRECEDES,Bronchiolitis,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006277,C0021313,PRECEDES,Bronchitis,Infection of kidney,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006277,C0042029,PRECEDES,Bronchitis,Urinary tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0006818,C0275524,PRECEDES,Campylobacter infection,Coinfection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0007222,C0009450,PRECEDES,Cardiovascular Diseases,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0008055,C0003864,PRECEDES,Chikungunya Fever,Arthritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009443,C0004626,PRECEDES,Common Cold,"Pneumonia, Bacterial",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009443,C0032285,PRECEDES,Common Cold,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009443,C0037199,PRECEDES,Common Cold,Sinusitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009443,C0271429,PRECEDES,Common Cold,Acute otitis media,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009443,C0699949,PRECEDES,Common Cold,airway disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009450,C0030499,PRECEDES,Communicable Diseases,Parasitic Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009450,C0035243,PRECEDES,Communicable Diseases,Respiratory Tract Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009450,C0041296,PRECEDES,Communicable Diseases,Tuberculosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009450,C0497169,PRECEDES,Communicable Diseases,hiv-infection/aids,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009450,C4505065,PRECEDES,Communicable Diseases,Noncommunicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009763,C0022568,PRECEDES,Conjunctivitis,Keratitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0009952,C2062593,PRECEDES,Febrile Convulsions,Mesial temporal sclerosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0010823,C0024440,PRECEDES,Cytomegalovirus Infections,"Macular Edema, Cystoid",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011603,C0013595,PRECEDES,Dermatitis,Eczema,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011603,C0029878,PRECEDES,Dermatitis,Otitis Externa,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011615,C0004096,PRECEDES,"Dermatitis, Atopic",Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011847,C0004096,PRECEDES,Diabetes,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011847,C0020538,PRECEDES,Diabetes,Hypertensive disease,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0011847,C0341439,PRECEDES,Diabetes,Chronic liver disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0011849,C0746102,PRECEDES,Diabetes Mellitus,Chronic lung disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0012242,C0007222,PRECEDES,Digestive System Disorders,Cardiovascular Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0012242,C0037274,PRECEDES,Digestive System Disorders,Dermatologic disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0013595,C0029878,PRECEDES,Eczema,Otitis Externa,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0014378,C0042749,PRECEDES,Enterovirus Infections,Viremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0015230,C0042109,PRECEDES,Exanthema,Urticaria,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0015403,C0338474,PRECEDES,Eye Infections,Central nervous system demyelination,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0015674,C0004364,PRECEDES,Chronic Fatigue Syndrome,Autoimmune Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016470,C0004096,PRECEDES,Food Allergy,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016470,C0011615,PRECEDES,Food Allergy,"Dermatitis, Atopic",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016627,C0009450,PRECEDES,Influenza in Birds,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016627,C0032285,PRECEDES,Influenza in Birds,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016627,C1175175,PRECEDES,Influenza in Birds,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016627,C1744558,PRECEDES,Influenza in Birds,T-lymphocyte deficiency,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0016627,C1856053,PRECEDES,Influenza in Birds,Hydranencephaly with Renal Aplasia-Dysplasia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0017178,C0743841,PRECEDES,Gastrointestinal Diseases,Disorder characterized by fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0018378,C0035436,PRECEDES,Guillain-Barre Syndrome,Rheumatic Fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0018621,C0035460,PRECEDES,Hay fever,"Rhinitis, Vasomotor",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0018799,C0035204,PRECEDES,Heart Diseases,Respiration Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0018802,C0032285,PRECEDES,Congestive heart failure,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0018889,C0011847,PRECEDES,Helminthiasis,Diabetes,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0019159,C0012546,PRECEDES,Hepatitis A,Diphtheria,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0019693,C0023374,PRECEDES,HIV Infections,Lesch-Nyhan Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0020097,C0042164,PRECEDES,HTLV-I Infections,Uveitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0020538,C0011847,PRECEDES,Hypertensive disease,Diabetes,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0020538,C0011860,PRECEDES,Hypertensive disease,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0020538,C0018799,PRECEDES,Hypertensive disease,Heart Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0020538,C0746102,PRECEDES,Hypertensive disease,Chronic lung disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021051,C0494261,PRECEDES,Immunologic Deficiency Syndromes,Combined immunodeficiency,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021345,C0149678,PRECEDES,Infectious Mononucleosis,Epstein-Barr Virus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0001175,PRECEDES,Influenza,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0004623,PRECEDES,Influenza,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0032269,PRECEDES,Influenza,Pneumococcal Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0032285,PRECEDES,Influenza,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0041296,PRECEDES,Influenza,Tuberculosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0339952,PRECEDES,Influenza,Secondary bacterial pneumonia,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0021400,C0442886,PRECEDES,Influenza,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C0729531,PRECEDES,Influenza,Viral respiratory infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0021400,C1320214,PRECEDES,Influenza,Invasive Streptococcus pneumoniae disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0023281,C0024530,PRECEDES,Leishmaniasis,Malaria,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024115,C0011849,PRECEDES,Lung diseases,Diabetes Mellitus,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024115,C0041316,PRECEDES,Lung diseases,Lymph Node Tuberculosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024117,C0004096,PRECEDES,Chronic Obstructive Airway Disease,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024141,C0017658,PRECEDES,"Lupus Erythematosus, Systemic",Glomerulonephritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024141,C0035222,PRECEDES,"Lupus Erythematosus, Systemic","Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024141,C0036690,PRECEDES,"Lupus Erythematosus, Systemic",Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024266,C0042749,PRECEDES,Lymphocytic Choriomeningitis,Viremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024530,C0032285,PRECEDES,Malaria,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024530,C0035204,PRECEDES,Malaria,Respiration Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024530,C0035920,PRECEDES,Malaria,Rubella,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024530,C0036323,PRECEDES,Malaria,Schistosomiasis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0024530,C0339901,PRECEDES,Malaria,Acute respiratory infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025007,C0038522,PRECEDES,Measles,Subacute Sclerosing Panencephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025289,C0009450,PRECEDES,Meningitis,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025289,C0014038,PRECEDES,Meningitis,Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025289,C0041296,PRECEDES,Meningitis,Tuberculosis,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0025289,C0042721,PRECEDES,Meningitis,Viral hepatitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025289,C0149725,PRECEDES,Meningitis,Lower respiratory tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0025289,C0497169,PRECEDES,Meningitis,hiv-infection/aids,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0025295,C0032285,PRECEDES,"Meningitis, Pneumococcal",Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0026769,C0014070,PRECEDES,Multiple Sclerosis,Encephalomyelitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0026946,C0153252,PRECEDES,Mycoses,Systemic candidiasis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0027051,C0007222,PRECEDES,Myocardial Infarction,Cardiovascular Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0027765,C0030486,PRECEDES,nervous system disorder,Paraplegia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0029342,C0021400,PRECEDES,Orthomyxoviridae Infections,Influenza,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0030499,C0035243,PRECEDES,Parasitic Diseases,Respiratory Tract Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0031350,C0004364,PRECEDES,Pharyngitis,Autoimmune Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0031350,C0035436,PRECEDES,Pharyngitis,Rheumatic Fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032231,C0035222,PRECEDES,Pleurisy,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032231,C0036690,PRECEDES,Pleurisy,Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032269,C0024440,PRECEDES,Pneumococcal Infections,"Macular Edema, Cystoid",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0006267,PRECEDES,Pneumonia,Bronchiectasis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0006271,PRECEDES,Pneumonia,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0006272,PRECEDES,Pneumonia,Bronchiolitis Obliterans,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0006277,PRECEDES,Pneumonia,Bronchitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0006285,PRECEDES,Pneumonia,Bronchopneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0010380,PRECEDES,Pneumonia,Croup,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0021400,PRECEDES,Pneumonia,Influenza,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0032310,PRECEDES,Pneumonia,"Pneumonia, Viral",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0035222,PRECEDES,Pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0036690,PRECEDES,Pneumonia,Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032285,C0042029,PRECEDES,Pneumonia,Urinary tract infection,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0032290,C0155862,PRECEDES,Aspiration Pneumonia,Streptococcal pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032300,C0339901,PRECEDES,Lobar Pneumonia,Acute respiratory infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032302,C0006271,PRECEDES,Mycoplasma pneumonia,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032302,C0264515,PRECEDES,Mycoplasma pneumonia,"Pneumonia, Necrotizing",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032302,C0275524,PRECEDES,Mycoplasma pneumonia,Coinfection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032326,C0035222,PRECEDES,Pneumothorax,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0032326,C0036690,PRECEDES,Pneumothorax,Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0034065,C0035222,PRECEDES,Pulmonary Embolism,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0034065,C0036690,PRECEDES,Pulmonary Embolism,Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0034065,C0679225,PRECEDES,Pulmonary Embolism,multiple pathologies,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035204,C0027765,PRECEDES,Respiration Disorders,nervous system disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035204,C0035243,PRECEDES,Respiration Disorders,Respiratory Tract Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035222,C0004096,PRECEDES,"Respiratory Distress Syndrome, Adult",Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035222,C0027765,PRECEDES,"Respiratory Distress Syndrome, Adult",nervous system disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035222,C0032285,PRECEDES,"Respiratory Distress Syndrome, Adult",Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035222,C0036690,PRECEDES,"Respiratory Distress Syndrome, Adult",Septicemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0001311,PRECEDES,Respiratory Syncytial Virus Infections,Acute bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0001883,PRECEDES,Respiratory Syncytial Virus Infections,Airway Obstruction,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0004096,PRECEDES,Respiratory Syncytial Virus Infections,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0006271,PRECEDES,Respiratory Syncytial Virus Infections,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0021400,PRECEDES,Respiratory Syncytial Virus Infections,Influenza,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0024115,PRECEDES,Respiratory Syncytial Virus Infections,Lung diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0035243,PRECEDES,Respiratory Syncytial Virus Infections,Respiratory Tract Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0339968,PRECEDES,Respiratory Syncytial Virus Infections,Neonatal pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0442886,PRECEDES,Respiratory Syncytial Virus Infections,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C0585105,PRECEDES,Respiratory Syncytial Virus Infections,Right lower zone pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035235,C1854469,PRECEDES,Respiratory Syncytial Virus Infections,Noonan Syndrome 2,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C0004096,PRECEDES,Respiratory Tract Infections,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C0024117,PRECEDES,Respiratory Tract Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C0034186,PRECEDES,Respiratory Tract Infections,Pyelonephritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C0038644,PRECEDES,Respiratory Tract Infections,Sudden infant death syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C0270627,PRECEDES,Respiratory Tract Infections,"Myelitis, Acute Transverse",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035243,C1744558,PRECEDES,Respiratory Tract Infections,T-lymphocyte deficiency,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035305,C0024117,PRECEDES,Retinal Detachment,Chronic Obstructive Airway Disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035436,C0403414,PRECEDES,Rheumatic Fever,Acute post-streptococcal glomerulonephritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0035690,C0012922,PRECEDES,RNA Virus Infections,DNA Virus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0036117,C0014836,PRECEDES,Salmonella infections,Escherichia coli Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0036323,C0035920,PRECEDES,Schistosomiasis,Rubella,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0036690,C0034063,PRECEDES,Septicemia,Pulmonary Edema,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0037274,C0012242,PRECEDES,Dermatologic disorders,Digestive System Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0037354,C0003175,PRECEDES,Smallpox,Anthrax disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0037354,C0012546,PRECEDES,Smallpox,Diphtheria,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0037354,C0025007,PRECEDES,Smallpox,Measles,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0037354,C0277555,PRECEDES,Smallpox,"Secondary disease, NOS",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0018799,PRECEDES,Cerebrovascular accident,Heart Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0032285,PRECEDES,Cerebrovascular accident,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0035204,PRECEDES,Cerebrovascular accident,Respiration Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0042029,PRECEDES,Cerebrovascular accident,Urinary tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0940933,PRECEDES,Cerebrovascular accident,infection as a complication,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0038454,C0948008,PRECEDES,Cerebrovascular accident,Ischemic stroke,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0040149,C0018213,PRECEDES,Subacute thyroiditis,Graves Disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0040149,C0677607,PRECEDES,Subacute thyroiditis,Hashimoto Disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0040586,C0042029,PRECEDES,Tracheobronchitis,Urinary tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041296,C0025289,PRECEDES,Tuberculosis,Meningitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041296,C0149725,PRECEDES,Tuberculosis,Lower respiratory tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041296,C0497169,PRECEDES,Tuberculosis,hiv-infection/aids,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041296,C1290807,PRECEDES,Tuberculosis,Diarrheal disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041316,C0679362,PRECEDES,Lymph Node Tuberculosis,"Tuberculosis, extrapulmonary",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0004096,PRECEDES,Upper Respiratory Infections,Asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0006285,PRECEDES,Upper Respiratory Infections,Bronchopneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0017160,PRECEDES,Upper Respiratory Infections,Gastroenteritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0021400,PRECEDES,Upper Respiratory Infections,Influenza,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0024117,PRECEDES,Upper Respiratory Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0034152,PRECEDES,Upper Respiratory Infections,Henoch-Schoenlein Purpura,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0040034,PRECEDES,Upper Respiratory Infections,Thrombocytopenia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C0149725,PRECEDES,Upper Respiratory Infections,Lower respiratory tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0041912,C4082764,PRECEDES,Upper Respiratory Infections,Gastrointestinal infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042029,C0032285,PRECEDES,Urinary tract infection,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042749,C0011175,PRECEDES,Viremia,Dehydration,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042749,C0032285,PRECEDES,Viremia,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0001752,PRECEDES,Virus Diseases,African swine fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0004135,PRECEDES,Virus Diseases,Ataxia Telangiectasia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0004364,PRECEDES,Virus Diseases,Autoimmune Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0004610,PRECEDES,Virus Diseases,Bacteremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0004623,PRECEDES,Virus Diseases,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0014057,PRECEDES,Virus Diseases,Japanese Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0018378,PRECEDES,Virus Diseases,Guillain-Barre Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0021053,PRECEDES,Virus Diseases,Immune System Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0021400,PRECEDES,Virus Diseases,Influenza,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0042769,C0026946,PRECEDES,Virus Diseases,Mycoses,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0027765,PRECEDES,Virus Diseases,nervous system disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0029118,PRECEDES,Virus Diseases,Opportunistic Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0029408,PRECEDES,Virus Diseases,Degenerative polyarthritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0032285,PRECEDES,Virus Diseases,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0035222,PRECEDES,Virus Diseases,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0038826,PRECEDES,Virus Diseases,Superinfection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0040034,PRECEDES,Virus Diseases,Thrombocytopenia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0042109,PRECEDES,Virus Diseases,Urticaria,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0085584,PRECEDES,Virus Diseases,Encephalopathies,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0149678,PRECEDES,Virus Diseases,Epstein-Barr Virus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0206750,PRECEDES,Virus Diseases,Coronavirus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0243010,PRECEDES,Virus Diseases,Viral Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0275518,PRECEDES,Virus Diseases,Acute infectious disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0282687,PRECEDES,Virus Diseases,"Hemorrhagic Fever, Ebola",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0339952,PRECEDES,Virus Diseases,Secondary bacterial pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0442886,PRECEDES,Virus Diseases,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0679247,PRECEDES,Virus Diseases,Terminal illness,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0684256,PRECEDES,Virus Diseases,Bacterial sepsis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0729518,PRECEDES,Virus Diseases,Bacterial respiratory infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C0748168,PRECEDES,Virus Diseases,Pulmonary Pathology,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1262091,PRECEDES,Virus Diseases,Lymphocytic infiltration,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1264606,PRECEDES,Virus Diseases,Persistent infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1290884,PRECEDES,Virus Diseases,Inflammatory disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1290886,PRECEDES,Virus Diseases,Chronic inflammatory disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1854469,PRECEDES,Virus Diseases,Noonan Syndrome 2,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C1861303,PRECEDES,Virus Diseases,"SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C2074898,PRECEDES,Virus Diseases,chronic Lung Inflammations,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C2750737,PRECEDES,Virus Diseases,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C3266628,PRECEDES,Virus Diseases,Persistent asthma,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C3542501,PRECEDES,Virus Diseases,Acute inflammatory demyelinating polyneuropathy,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0042769,C3554241,PRECEDES,Virus Diseases,"CHOLESTASIS, INTRAHEPATIC, OF PREGNANCY 3",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0043124,C0684256,PRECEDES,West Nile Fever,Bacterial sepsis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0043124,C1518296,PRECEDES,West Nile Fever,Neuropathogenesis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0043395,C0042749,PRECEDES,Yellow Fever,Viremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149514,C0032285,PRECEDES,Acute bronchitis,Pneumonia,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0149678,C0242994,PRECEDES,Epstein-Barr Virus Infections,Hantavirus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0001311,PRECEDES,Lower respiratory tract infection,Acute bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0004623,PRECEDES,Lower respiratory tract infection,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0009450,PRECEDES,Lower respiratory tract infection,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0019158,PRECEDES,Lower respiratory tract infection,Hepatitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0025289,PRECEDES,Lower respiratory tract infection,Meningitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0029882,PRECEDES,Lower respiratory tract infection,Otitis Media,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0032285,PRECEDES,Lower respiratory tract infection,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0041296,PRECEDES,Lower respiratory tract infection,Tuberculosis,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0149725,C0041912,PRECEDES,Lower respiratory tract infection,Upper Respiratory Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0042029,PRECEDES,Lower respiratory tract infection,Urinary tract infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0149725,C0497169,PRECEDES,Lower respiratory tract infection,hiv-infection/aids,dsyn,dsyn,2,PRECEDES_DSYNprcdDSYN
+C0153091,C0021359,PRECEDES,Mumps orchitis,Infertility,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0205671,C0025309,PRECEDES,"Infections, Arenavirus",Meningoencephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0206750,C0032285,PRECEDES,Coronavirus Infections,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0206750,C0042769,PRECEDES,Coronavirus Infections,Virus Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0206750,C1318973,PRECEDES,Coronavirus Infections,Staphylococcus aureus infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0243026,C0042769,PRECEDES,Sepsis,Virus Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0264490,C0035222,PRECEDES,Acute respiratory failure,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0267446,C0001344,PRECEDES,Acute gastroenteritis,Acute pharyngitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0271429,C0029883,PRECEDES,Acute otitis media,Otitis Media with Effusion,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0271429,C0041912,PRECEDES,Acute otitis media,Upper Respiratory Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0271790,C0020676,PRECEDES,Subclinical hypothyroidism,Hypothyroidism,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C0014038,PRECEDES,Acute infectious disease,Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C0019163,PRECEDES,Acute infectious disease,Hepatitis B,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C0032285,PRECEDES,Acute infectious disease,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C0040149,PRECEDES,Acute infectious disease,Subacute thyroiditis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C0151317,PRECEDES,Acute infectious disease,Chronic infectious disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C1264606,PRECEDES,Acute infectious disease,Persistent infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275518,C1959635,PRECEDES,Acute infectious disease,Parvovirus B19 (disease),dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275522,C0009450,PRECEDES,Asymptomatic Infections,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C0002871,PRECEDES,Coinfection,Anemia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C0004610,PRECEDES,Coinfection,Bacteremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C0442886,PRECEDES,Coinfection,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C0740304,PRECEDES,Coinfection,copd exacerbation,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C2062441,PRECEDES,Coinfection,Influenza A,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0275524,C3669463,PRECEDES,Coinfection,Feline immunodeficiency virus infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276289,C0009763,PRECEDES,Zika Virus Infection,Conjunctivitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276289,C0014038,PRECEDES,Zika Virus Infection,Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276289,C3642304,PRECEDES,Zika Virus Infection,Placental Malformation,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276500,C0001175,PRECEDES,Human immunodeficiency virus I infection,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276500,C0024796,PRECEDES,Human immunodeficiency virus I infection,Marfan Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0276500,C0042749,PRECEDES,Human immunodeficiency virus I infection,Viremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0302507,C0032285,PRECEDES,Parainfluenza Virus Infections,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339901,C0243026,PRECEDES,Acute respiratory infections,Sepsis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339901,C0339952,PRECEDES,Acute respiratory infections,Secondary bacterial pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339916,C0271429,PRECEDES,Viral upper respiratory tract infection,Acute otitis media,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339916,C0340040,PRECEDES,Viral upper respiratory tract infection,Secondary ciliary dyskinesia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339916,C1698510,PRECEDES,Viral upper respiratory tract infection,Bacterial otitis media,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0339985,C0041296,PRECEDES,Idiopathic bronchiectasis,Tuberculosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0403414,C0035436,PRECEDES,Acute post-streptococcal glomerulonephritis,Rheumatic Fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0442886,C0004364,PRECEDES,Secondary Infections,Autoimmune Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0442886,C0019100,PRECEDES,Secondary Infections,Severe Dengue,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0442886,C0019104,PRECEDES,Secondary Infections,"Hemorrhagic Fevers, Viral",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0442886,C0339901,PRECEDES,Secondary Infections,Acute respiratory infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0442886,C0376300,PRECEDES,Secondary Infections,Dengue Shock Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0520680,C0011603,PRECEDES,"Sleep Apnea, Central",Dermatitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0524909,C0023890,PRECEDES,"Hepatitis B, Chronic",Liver Cirrhosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0555971,C0008055,PRECEDES,Oral infection,Chikungunya Fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0555971,C1535917,PRECEDES,Oral infection,Nipah Virus Infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0679225,C0016627,PRECEDES,multiple pathologies,Influenza in Birds,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0728936,C0035204,PRECEDES,Disorder of circulatory system,Respiration Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729520,C0276156,PRECEDES,Bacterial lower respiratory infection,Adenoviral pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729531,C0004623,PRECEDES,Viral respiratory infection,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729531,C0004626,PRECEDES,Viral respiratory infection,"Pneumonia, Bacterial",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729531,C0442886,PRECEDES,Viral respiratory infection,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729531,C0748168,PRECEDES,Viral respiratory infection,Pulmonary Pathology,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729531,C2317131,PRECEDES,Viral respiratory infection,Acute rhinosinusitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729552,C0003864,PRECEDES,Genital infection,Arthritis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0729555,C0035243,PRECEDES,Infection of digestive system,Respiratory Tract Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0743841,C0004623,PRECEDES,Disorder characterized by fever,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0743841,C0014059,PRECEDES,Disorder characterized by fever,"Encephalomyelitis, Acute Disseminated",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0743841,C0034362,PRECEDES,Disorder characterized by fever,Q Fever,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0745744,C1623038,PRECEDES,End Stage Liver Disease,Cirrhosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0851887,C0022568,PRECEDES,Adenoviral infections,Keratitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0851887,C0024266,PRECEDES,Adenoviral infections,Lymphocytic Choriomeningitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0851887,C0748355,PRECEDES,Adenoviral infections,Acute respiratory distress,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0851887,C1145670,PRECEDES,Adenoviral infections,Respiratory Failure,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0851980,C0085306,PRECEDES,peritoneal infection,Feline infectious peritonitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0856238,C0032285,PRECEDES,influenza (epidemic),Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0856238,C0740304,PRECEDES,influenza (epidemic),copd exacerbation,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0858318,C0858321,PRECEDES,Plasmodium falciparum infection,Plasmodium vivax infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0858321,C0858318,PRECEDES,Plasmodium vivax infection,Plasmodium falciparum infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0876973,C0004610,PRECEDES,Infectious disease of lung,Bacteremia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0876973,C0032285,PRECEDES,Infectious disease of lung,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0877055,C0038325,PRECEDES,Acute Generalized Exanthematous Pustulosis,Stevens-Johnson Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0877148,C0006271,PRECEDES,pharyngotonsillitis,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0877148,C0035455,PRECEDES,pharyngotonsillitis,Rhinitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0877203,C0442886,PRECEDES,Viral Respiratory Tract Infection,Secondary Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0920646,C1561643,PRECEDES,Ischemia of kidney,Chronic Kidney Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0920646,C1969372,PRECEDES,Ischemia of kidney,Tubulointerstitial fibrosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0948008,C0038454,PRECEDES,Ischemic stroke,Cerebrovascular accident,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C0948089,C0011860,PRECEDES,Acute Coronary Syndrome,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0007787,PRECEDES,Severe Acute Respiratory Syndrome,Transient Ischemic Attack,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0009450,PRECEDES,Severe Acute Respiratory Syndrome,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0014078,PRECEDES,Severe Acute Respiratory Syndrome,Venezuelan equine encephalomyelitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0016627,PRECEDES,Severe Acute Respiratory Syndrome,Influenza in Birds,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0021053,PRECEDES,Severe Acute Respiratory Syndrome,Immune System Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0021400,PRECEDES,Severe Acute Respiratory Syndrome,Influenza,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0023895,PRECEDES,Severe Acute Respiratory Syndrome,Liver diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0024115,PRECEDES,Severe Acute Respiratory Syndrome,Lung diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0030305,PRECEDES,Severe Acute Respiratory Syndrome,Pancreatitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0032285,PRECEDES,Severe Acute Respiratory Syndrome,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0035204,PRECEDES,Severe Acute Respiratory Syndrome,Respiration Disorders,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0039128,PRECEDES,Severe Acute Respiratory Syndrome,Syphilis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0039133,PRECEDES,Severe Acute Respiratory Syndrome,"Syphilis, Latent",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0043528,PRECEDES,Severe Acute Respiratory Syndrome,Zoonoses,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0206750,PRECEDES,Severe Acute Respiratory Syndrome,Coronavirus Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0263541,PRECEDES,Severe Acute Respiratory Syndrome,Equine laminitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0270724,PRECEDES,Severe Acute Respiratory Syndrome,Infantile Neuroaxonal Dystrophy,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0596452,PRECEDES,Severe Acute Respiratory Syndrome,disabling disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0679247,PRECEDES,Severe Acute Respiratory Syndrome,Terminal illness,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0748168,PRECEDES,Severe Acute Respiratory Syndrome,Pulmonary Pathology,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0872315,PRECEDES,Severe Acute Respiratory Syndrome,"Communicable Diseases, Emerging",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0876973,PRECEDES,Severe Acute Respiratory Syndrome,Infectious disease of lung,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C0877203,PRECEDES,Severe Acute Respiratory Syndrome,Viral Respiratory Tract Infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C1443953,PRECEDES,Severe Acute Respiratory Syndrome,Acute viral disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1175175,C3694279,PRECEDES,Severe Acute Respiratory Syndrome,Middle East Respiratory Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1290882,C0746102,PRECEDES,Chronic nervous system disorder,Chronic lung disease,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1443953,C0004623,PRECEDES,Acute viral disease,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1443953,C0014059,PRECEDES,Acute viral disease,"Encephalomyelitis, Acute Disseminated",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1443953,C0042769,PRECEDES,Acute viral disease,Virus Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1443953,C1290884,PRECEDES,Acute viral disease,Inflammatory disorder,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1449647,C0032285,PRECEDES,Secondary Peritonitis,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1707758,C0033036,PRECEDES,Direct Contact Transmission Infection,Atrial Premature Complexes,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C1707758,C1535917,PRECEDES,Direct Contact Transmission Infection,Nipah Virus Infection,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C2076600,C0004626,PRECEDES,Influenza due to Influenza A virus subtype H1N1,"Pneumonia, Bacterial",dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3277428,C0004623,PRECEDES,Severe viral infections,Bacterial Infections,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3495919,C0041296,PRECEDES,Enthesitis-Related Arthritis,Tuberculosis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3495919,C0497169,PRECEDES,Enthesitis-Related Arthritis,hiv-infection/aids,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3694279,C1175175,PRECEDES,Middle East Respiratory Syndrome,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3853962,C0014038,PRECEDES,Enterovirus 71 infection,Encephalitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3853962,C0025290,PRECEDES,Enterovirus 71 infection,Aseptic Meningitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3863587,C1175175,PRECEDES,enterovirus d68 infection,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3874414,C0006271,PRECEDES,Human metapneumovirus infection,Bronchiolitis,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3874414,C0009443,PRECEDES,Human metapneumovirus infection,Common Cold,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C3874414,C0032285,PRECEDES,Human metapneumovirus infection,Pneumonia,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C4039409,C0009450,PRECEDES,Oropharyngeal lesion,Communicable Diseases,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN
+C4288963,C0023521,PRECEDES,Hepatitis C Virus Infection,Globoid cell leukodystrophy,dsyn,dsyn,1,PRECEDES_DSYNprcdDSYN

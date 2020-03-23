@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008844,C1519614,AFFECTS,Cistron,Genetic Translation Process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0017350,C0598496,AFFECTS,"Genes, Immunoglobulin",Gene Silencing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0017359,C0017262,AFFECTS,"Genes, Overlapping",Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0017376,C0017262,AFFECTS,"Genes, Viral",Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0029073,C0040649,AFFECTS,Operon,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0029073,C1623179,AFFECTS,Operon,transcriptional attenuation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0033713,C1158830,AFFECTS,Proto-Oncogenes,Transcription Initiation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0042720,C0040649,AFFECTS,Viral Genome,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0042720,C0920533,AFFECTS,Viral Genome,Transcriptional Repression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0042720,C1158817,AFFECTS,Viral Genome,viral transcription,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0042720,C1514664,AFFECTS,Viral Genome,RNA Folding,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0042720,C1519614,AFFECTS,Viral Genome,Genetic Translation Process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079427,C0598496,AFFECTS,Tumor Suppressor Genes,Gene Silencing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079427,C1257826,AFFECTS,Tumor Suppressor Genes,Chromosome Stability,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C0017262,AFFECTS,Open Reading Frames,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C0040649,AFFECTS,Open Reading Frames,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C0282572,AFFECTS,Open Reading Frames,"Frameshifting, Ribosomal",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C0683142,AFFECTS,Open Reading Frames,DNA metabolic process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C1155650,AFFECTS,Open Reading Frames,Replication Initiation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C1157562,AFFECTS,Open Reading Frames,translational elongation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C1519613,AFFECTS,Open Reading Frames,Translation Initiation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C1749524,AFFECTS,Open Reading Frames,mRNA processing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0079941,C2610186,AFFECTS,Open Reading Frames,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0282641,C0017262,AFFECTS,Transgenes,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0282641,C0079868,AFFECTS,Transgenes,"Mutagenesis, Insertional",gngm,genf,1,AFFECTS_GNGMafctGENF
+C0282641,C0598496,AFFECTS,Transgenes,Gene Silencing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0282641,C1621524,AFFECTS,Transgenes,heterochromatin assembly,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0314604,C0017262,AFFECTS,Human gene,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0539906,C1514248,AFFECTS,"IMP3 protein, human",Post-Transcriptional Regulation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0599770,C0206071,AFFECTS,genetic element,Immunoglobulin Class Switching,gngm,genf,1,AFFECTS_GNGMafctGENF
+C0812314,C0032529,AFFECTS,IRF4 gene,Genetic Polymorphism,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1257902,C0034865,AFFECTS,Jumping Genes,"Recombination, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1257902,C0079868,AFFECTS,Jumping Genes,"Mutagenesis, Insertional",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1332838,C0017262,AFFECTS,Candidate Disease Gene,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1332838,C0040649,AFFECTS,Candidate Disease Gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1332838,C0162493,AFFECTS,Candidate Disease Gene,Transcriptional Activation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1333218,C2613185,AFFECTS,DICER1 gene,miRNA biogenesis,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1333247,C0040649,AFFECTS,DR1 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1333949,C0599773,AFFECTS,Helicase Gene,Homologous Recombination,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C0162493,AFFECTS,Homologous Gene,Transcriptional Activation,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C0282629,AFFECTS,Homologous Gene,Virus Assembly,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C1136031,AFFECTS,Homologous Gene,RNA Interference,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C1158765,AFFECTS,Homologous Gene,RNA repair,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C1511701,AFFECTS,Homologous Gene,DNA Synthesis Inhibition,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C1623415,AFFECTS,Homologous Gene,RNA chemical synthesis,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334043,C2610186,AFFECTS,Homologous Gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334435,C1171362,AFFECTS,Luc Gene,protein expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334468,C0040649,AFFECTS,SMAD2 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1334492,C0598312,AFFECTS,MCM5 gene,DNA Replication,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1335262,C0206071,AFFECTS,PRKDC gene,Immunoglobulin Class Switching,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1337034,C1518406,AFFECTS,XRCC5 gene,Non-Homologous DNA End-Joining,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1412311,C0683143,AFFECTS,AKAP1 gene,RNA metabolic process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1413955,C0035687,AFFECTS,DHX15 gene,RNA Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1413965,C0035687,AFFECTS,DHX8 gene,RNA Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1414184,C0598494,AFFECTS,DUSP2 gene,derepression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1414332,C0598496,AFFECTS,AGO1 gene,Gene Silencing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1414332,C1136031,AFFECTS,AGO1 gene,RNA Interference,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1415275,C0017262,AFFECTS,GPX1 gene,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1415616,C0040649,AFFECTS,HMGCS1 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1416178,C0040649,AFFECTS,IGKV1-17 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1417589,C0040649,AFFECTS,NAB2 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1417880,C0040649,AFFECTS,NUDT2 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1418664,C1171362,AFFECTS,PLXNB1 gene,protein expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1419308,C0002345,AFFECTS,RBMX gene,Alternative Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1419429,C1158537,AFFECTS,RNF8 gene,Double Strand Break Repair,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1420250,C1157894,AFFECTS,SMARCAL1 gene,DNA catabolic process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1420317,C0040649,AFFECTS,SOX10 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1420436,C0020202,AFFECTS,SSX3 gene,Crossbreeding,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1420451,C0040649,AFFECTS,STAM gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1420472,C2610186,AFFECTS,NEK4 gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1422060,C1148672,AFFECTS,ATP11A gene,Nucleic Acid Binding,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1422524,C0017262,AFFECTS,RAB23 gene,Gene Expression,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1423492,C0035687,AFFECTS,PRPF31 gene,RNA Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1423751,C1148846,AFFECTS,DHX29 gene,RNA Binding,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1423753,C0040649,AFFECTS,ANKRD1 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424161,C1158817,AFFECTS,TRS-AGA2-4 gene,viral transcription,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424302,C0040649,AFFECTS,SUFU gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424458,C2610186,AFFECTS,SRRM2 gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424623,C0683143,AFFECTS,SMNDC1 gene,RNA metabolic process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424825,C0035687,AFFECTS,DHX38 gene,RNA Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1424917,C0035380,AFFECTS,APOBEC3A gene,Reverse Transcription,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1426084,C4277511,AFFECTS,DPPA3 gene,Maternal Inheritance,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1426572,C2257075,AFFECTS,MED8 gene,RNA polymerase II activity,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1426665,C2610186,AFFECTS,USP49 gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1427952,C2610186,AFFECTS,U2AF2 gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1428785,C1516924,AFFECTS,KDM1A gene,Epigenetic Process,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1449886,C0040649,AFFECTS,"Adaptor Proteins, Signal Transducing","Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1449886,C1749524,AFFECTS,"Adaptor Proteins, Signal Transducing",mRNA processing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1511573,C0034865,AFFECTS,Cyclic AMP Response Element,"Recombination, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1511573,C0599773,AFFECTS,Cyclic AMP Response Element,Homologous Recombination,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1537794,C0040649,AFFECTS,MIR140 gene,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1539227,C2247634,AFFECTS,DCP2 gene,stress granule assembly,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1539766,C1158817,AFFECTS,SHCBP1 gene,viral transcription,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1539859,C2610186,AFFECTS,ST3GAL1 gene,"nuclear mRNA cis splicing, via spliceosome",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1540207,C0035687,AFFECTS,SNRNP200 gene,RNA Splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1822956,C1622990,AFFECTS,SNORD50B gene,pre-mRNA splicing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1823897,C0086934,AFFECTS,YTHDC1 gene,"RNA, Messenger, Splicing",gngm,genf,1,AFFECTS_GNGMafctGENF
+C1826336,C1257825,AFFECTS,MYSM1 gene,Genomic Stability,gngm,genf,1,AFFECTS_GNGMafctGENF
+C1970210,C1158728,AFFECTS,"RNA, U86 SMALL NUCLEOLAR",RNA Processing,gngm,genf,1,AFFECTS_GNGMafctGENF
+C3541854,C1148846,AFFECTS,PANDAR gene,RNA Binding,gngm,genf,1,AFFECTS_GNGMafctGENF
+C3888243,C0040649,AFFECTS,IFIH1 wt Allele,"Transcription, Genetic",gngm,genf,1,AFFECTS_GNGMafctGENF
+C3890660,C1516924,AFFECTS,NRAV gene,Epigenetic Process,gngm,genf,1,AFFECTS_GNGMafctGENF

@@ -1,0 +1,26 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013216,C0184511,TREATS,Pharmacotherapy,Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0013969,C0332149,TREATS,Emergency treatment,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0017296,C0184511,TREATS,gene therapy,Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0032740,C0442797,TREATS,Positive End-Expiratory Pressure,Decreasing,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0042196,C0332149,TREATS,Vaccination,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0042196,C0442797,TREATS,Vaccination,Decreasing,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0055670,C0332149,TREATS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0184967,C0184511,TREATS,Insertion of pack (procedure),Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0185027,C0184511,TREATS,Imbrication (procedure),Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0199176,C0332149,TREATS,Prophylactic treatment,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0204727,C0332149,TREATS,Isolation procedure,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0242297,C0442797,TREATS,Dietary Supplementation,Decreasing,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0279939,C0332149,TREATS,Doxorubicin/Melphalan/Teniposide regimen (MAV),Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0520484,C0332149,TREATS,Xenograft procedure,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0524865,C0332149,TREATS,Reconstructive Surgical Procedures,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C0600080,C0205160,TREATS,Stretching exercises,Negative,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1293132,C0184512,TREATS,Anchoring procedure,Stabilized (qualifier value),topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1511790,C0184511,TREATS,Detection,Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1511790,C0205160,TREATS,Detection,Negative,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1511790,C0332219,TREATS,Detection,Easy,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1533734,C0332149,TREATS,Administration procedure,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C1883520,C0332149,TREATS,VePesid-Ifosfamide-Platinol Regimen,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C2368628,C0332149,TREATS,Vaccine Administration,Possible,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C2699893,C0162643,TREATS,Molecular Targeted Therapy,treatment failure,topp,qlco,1,TREATS_TOPPtrtsQLCO
+C4526535,C0184511,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Improved,topp,qlco,1,TREATS_TOPPtrtsQLCO

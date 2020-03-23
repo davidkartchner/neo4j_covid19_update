@@ -1,0 +1,843 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000189,C0031715,DISRUPTS,2-5A Synthetase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001271,C1704259,DISRUPTS,Actins,Biochemical Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001479,C0031715,DISRUPTS,Na(+)-K(+)-Exchanging ATPase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001898,C0018903,DISRUPTS,Alanine,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001898,C0243102,DISRUPTS,Alanine,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001898,C1149632,DISRUPTS,Alanine,hydrolase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001898,C1150685,DISRUPTS,Alanine,ubiquitin-protein ligase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001898,C1153415,DISRUPTS,Alanine,ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0001899,C2257651,DISRUPTS,Alanine Transaminase,L-alanine:2-oxoglutarate aminotransferase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0002260,C1156661,DISRUPTS,Eflornithine,polyamine biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0002520,C0243102,DISRUPTS,Amino Acids,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0002520,C0597297,DISRUPTS,Amino Acids,"Protein Degradation, Metabolic",aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0002520,C0872079,DISRUPTS,Amino Acids,protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0002529,C1156673,DISRUPTS,Amino Acyl-tRNA Synthetases,tryptophan catabolic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003018,C1150095,DISRUPTS,Angiotensins,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0001801,DISRUPTS,Antibodies,agglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0010357,DISRUPTS,Antibodies,Cross Reactions,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0018903,DISRUPTS,Antibodies,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0301641,DISRUPTS,Antibodies,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0597304,DISRUPTS,Antibodies,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0597358,DISRUPTS,Antibodies,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C0872079,DISRUPTS,Antibodies,protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C2247147,DISRUPTS,Antibodies,sialic acid binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C2754810,DISRUPTS,Antibodies,monocyte chemotactic protein-1 production,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003241,C3269239,DISRUPTS,Antibodies,immunoglobulin-mediated neutralization,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C0018903,DISRUPTS,Monoclonal Antibodies,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C0025246,DISRUPTS,Monoclonal Antibodies,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C0031715,DISRUPTS,Monoclonal Antibodies,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C0301641,DISRUPTS,Monoclonal Antibodies,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C0597358,DISRUPTS,Monoclonal Antibodies,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C1151115,DISRUPTS,Monoclonal Antibodies,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C1167622,DISRUPTS,Monoclonal Antibodies,Binding (Molecular Function),aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C1816449,DISRUPTS,Monoclonal Antibodies,Hsp90 protein binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003250,C2610690,DISRUPTS,Monoclonal Antibodies,fibrinogen binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003253,C0018903,DISRUPTS,"Antibodies, Viral",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003313,C1523308,DISRUPTS,Immune complex,complement binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003403,C1150095,DISRUPTS,Antipain,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003641,C0597304,DISRUPTS,Aprotinin,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003765,C0033618,DISRUPTS,Arginine,Protein Binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003765,C0678607,DISRUPTS,Arginine,Hydrophobic Interactions,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0003995,C0243102,DISRUPTS,Asparagine,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0004599,C1149552,DISRUPTS,Bacitracin,chaperone activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0004599,C1150184,DISRUPTS,Bacitracin,insulinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0007428,C1150095,DISRUPTS,Cathepsins,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0007578,C1150596,DISRUPTS,Cell Adhesion Molecules,transforming growth factor beta receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0008546,C0597295,DISRUPTS,Chromatin,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0008905,C0031715,DISRUPTS,Clathrin,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0009498,C0009528,DISRUPTS,Complement System Proteins,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0009545,C0009528,DISRUPTS,Complement Membrane Attack Complex,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010592,C1150301,DISRUPTS,Cyclosporine,PPIase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010646,C1150095,DISRUPTS,Cystatins,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010654,C0243102,DISRUPTS,Cysteine,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010654,C0598435,DISRUPTS,Cysteine,Palmitoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010654,C1148926,DISRUPTS,Cysteine,adenosinetriphosphatase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010656,C1519052,DISRUPTS,caspase,Phosphoinositide Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010656,C3548523,DISRUPTS,caspase,apoptosome assembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0010749,C1151057,DISRUPTS,Cytochromes c,cytochrome c oxidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0012892,C0597095,DISRUPTS,DNA-Directed DNA Polymerase,nucleic acid biosynthesis,aapp,moft,2,DISRUPTS_AAPPdrptMOFT
+C0013729,C0031715,DISRUPTS,Eukaryotic Initiation Factor-2,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0013729,C0597295,DISRUPTS,Eukaryotic Initiation Factor-2,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0013729,C3160734,DISRUPTS,Eukaryotic Initiation Factor-2,Dephosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0013733,C0031715,DISRUPTS,"Eukaryotic Initiation Factor-2, alpha Subunit",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0014230,C0597295,DISRUPTS,endonuclease,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0014241,C0597295,DISRUPTS,Endoribonucleases,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0014241,C1328949,DISRUPTS,Endoribonucleases,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0014436,C0009528,DISRUPTS,Enzyme Precursors,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0015520,C1150095,DISRUPTS,Factor Xa,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0015980,C1151115,DISRUPTS,Interferon-beta,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0015980,C1519751,DISRUPTS,Interferon-beta,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0015982,C2246343,DISRUPTS,Fibrin,collagen biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0016925,C1514570,DISRUPTS,"Fusion Proteins, gag-pol",Proteolytic Processing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017278,C0025246,DISRUPTS,"Gene Products, env",Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017279,C1513109,DISRUPTS,"Gene Products, gag",Membrane Fusion Activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017280,C0031715,DISRUPTS,"Gene Products, nef",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017757,C3269138,DISRUPTS,Glucosephosphate Dehydrogenase,extrinsic apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017789,C0031715,DISRUPTS,Glutamates,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017789,C0920644,DISRUPTS,Glutamates,receptor function,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017789,C1150572,DISRUPTS,Glutamates,protein kinase C activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017797,C0243102,DISRUPTS,Glutamine,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017797,C0678607,DISRUPTS,Glutamine,Hydrophobic Interactions,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017890,C0597295,DISRUPTS,Glycine,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017890,C0597358,DISRUPTS,Glycine,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C0018903,DISRUPTS,Glycoproteins,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C0178575,DISRUPTS,Glycoproteins,cross immunity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C1513112,DISRUPTS,Glycoproteins,Membrane Protein Traffic,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C3158557,DISRUPTS,Glycoproteins,terminal glycosylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C3269239,DISRUPTS,Glycoproteins,immunoglobulin-mediated neutralization,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0017968,C4235025,DISRUPTS,Glycoproteins,mannose trimming,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0018364,C1519751,DISRUPTS,Ribonuclease T1,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0019046,C0025246,DISRUPTS,Hemoglobin,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0019643,C1511737,DISRUPTS,Histone Deacetylase,Deacetylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0019652,C0597295,DISRUPTS,Histones,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0019721,C0018903,DISRUPTS,HLA Antigens,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0020289,C2257946,DISRUPTS,Hydrolase,Ap(4)A hydrolase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0020857,C0018903,DISRUPTS,IgG2A,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0020960,C0018903,DISRUPTS,Immune Sera,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0020960,C0301641,DISRUPTS,Immune Sera,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0020960,C1151115,DISRUPTS,Immune Sera,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021038,C1157980,DISRUPTS,Immunoglobulin Light Chains,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021088,C1328948,DISRUPTS,IMP Dehydrogenase,RNA biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021088,C1328949,DISRUPTS,IMP Dehydrogenase,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021641,C0920644,DISRUPTS,Insulin,receptor function,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021669,C1150184,DISRUPTS,Insulinase,insulinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021699,C0025245,DISRUPTS,Integral Membrane Proteins,Membrane Fluidity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021699,C0025246,DISRUPTS,Integral Membrane Proteins,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021701,C1156099,DISRUPTS,Integrins,integrin biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021701,C3179233,DISRUPTS,Integrins,MEK-ERK Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021747,C1150095,DISRUPTS,Interferons,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021747,C1155227,DISRUPTS,Interferons,tumor necrosis factor biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021747,C1157996,DISRUPTS,Interferons,Deubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021747,C1518440,DISRUPTS,Interferons,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021747,C2247542,DISRUPTS,Interferons,vetispiradiene synthase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021753,C0031715,DISRUPTS,Interleukin-1 beta,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021755,C0009528,DISRUPTS,Interleukin-1,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021755,C1149183,DISRUPTS,Interleukin-1,interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021756,C1150165,DISRUPTS,Interleukin-2,dipeptidyl-peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C0009528,DISRUPTS,Interleukin-6,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C0018903,DISRUPTS,Interleukin-6,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C0031715,DISRUPTS,Interleukin-6,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C0597295,DISRUPTS,Interleukin-6,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C1149183,DISRUPTS,Interleukin-6,interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C1150587,DISRUPTS,Interleukin-6,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0021760,C1518440,DISRUPTS,Interleukin-6,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0022192,C0015852,DISRUPTS,Isoleucine,Fermentation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0022192,C0162847,DISRUPTS,Isoleucine,protein folding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0022942,C0033618,DISRUPTS,Lactoferrin,Protein Binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0022942,C2612546,DISRUPTS,Lactoferrin,lipid oxidation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023194,C2752589,DISRUPTS,Phosphatidylcholine-Sterol O-Acyltransferase,retinoic acid biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023206,C0597295,DISRUPTS,Lectin,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023206,C1150095,DISRUPTS,Lectin,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023689,C1157990,DISRUPTS,Ligase,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023689,C1328949,DISRUPTS,Ligase,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023689,C1519751,DISRUPTS,Ligase,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023689,C1622946,DISRUPTS,Ligase,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023689,C1623036,DISRUPTS,Ligase,"Protein Degradation, Regulatory",aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0023823,C0599474,DISRUPTS,Low-Density Lipoproteins,cholesterol biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0024075,C0031715,DISRUPTS,Luciferases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0024075,C1151115,DISRUPTS,Luciferases,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0024337,C0001038,DISRUPTS,Lysine,Acetylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0024337,C1157990,DISRUPTS,Lysine,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0024420,C0018903,DISRUPTS,Macroglobulins,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0025234,C0597295,DISRUPTS,Melitten,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0025646,C0597295,DISRUPTS,Methionine,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0026682,C0018903,DISRUPTS,Mucins,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0028612,C0018903,DISRUPTS,Nucleoproteins,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0029282,C1156661,DISRUPTS,Ornithine Decarboxylase,polyamine biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030016,C1328949,DISRUPTS,Oxidoreductase,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C0025246,DISRUPTS,Peptide Hydrolases,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C0031715,DISRUPTS,Peptide Hydrolases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C0597304,DISRUPTS,Peptide Hydrolases,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C1157980,DISRUPTS,Peptide Hydrolases,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C1157990,DISRUPTS,Peptide Hydrolases,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030940,C1519751,DISRUPTS,Peptide Hydrolases,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030943,C0597295,DISRUPTS,Peptide Initiation Factors,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C0009528,DISRUPTS,Endopeptidases,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C0031715,DISRUPTS,Endopeptidases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C0033666,DISRUPTS,Endopeptidases,Post-Translational Protein Processing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C0301641,DISRUPTS,Endopeptidases,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C1149177,DISRUPTS,Endopeptidases,interferon receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C1150095,DISRUPTS,Endopeptidases,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C1518440,DISRUPTS,Endopeptidases,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C2247737,DISRUPTS,Endopeptidases,toll-like receptor 7 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0030946,C3269239,DISRUPTS,Endopeptidases,immunoglobulin-mediated neutralization,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031453,C0243102,DISRUPTS,Phenylalanine,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031678,C0031715,DISRUPTS,Phosphoric Monoester Hydrolases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C0031715,DISRUPTS,Phosphotransferases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C0597304,DISRUPTS,Phosphotransferases,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C1150132,DISRUPTS,Phosphotransferases,caspase-3 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C1518440,DISRUPTS,Phosphotransferases,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C1519253,DISRUPTS,Phosphotransferases,Serine/Threonine Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C1519751,DISRUPTS,Phosphotransferases,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0031727,C2247725,DISRUPTS,Phosphotransferases,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0032143,C0018903,DISRUPTS,alteplase,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0032405,C1519052,DISRUPTS,Poly(ADP-ribose) Polymerases,Phosphoinositide Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0032583,C0597295,DISRUPTS,Polyproteins,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0033382,C0162847,DISRUPTS,Proline,protein folding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0033452,C0009528,DISRUPTS,Properdin,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0033640,C3549111,DISRUPTS,Protein Kinases,PKR signal transduction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0033665,C3179234,DISRUPTS,Protein Precursors,ERK Signal Tranduction Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0034800,C0872079,DISRUPTS,"Receptors, Cell Surface",protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0034800,C1520023,DISRUPTS,"Receptors, Cell Surface",Virus-Cell Membrane Interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0034819,C1519726,DISRUPTS,Interleukin 2 Receptor,Tyrosine Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035367,C0025246,DISRUPTS,Retroviridae Proteins,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035367,C1515144,DISRUPTS,Retroviridae Proteins,T-Cell Receptor Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035379,C3537022,DISRUPTS,RNA-Directed DNA Polymerase,Tubulin Binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035544,C0031715,DISRUPTS,Ribonucleoproteins,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035552,C0031715,DISRUPTS,Ribosomal Proteins,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035679,C0597295,DISRUPTS,RNA Polymerase II,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035685,C0031715,DISRUPTS,RNA-Directed RNA Polymerase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0035714,C0597295,DISRUPTS,"RNA, Transfer, Amino Acyl",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0036720,C1150685,DISRUPTS,Serine,ubiquitin-protein ligase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0036734,C0031715,DISRUPTS,Serine Endopeptidases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0036825,C0001801,DISRUPTS,Serum Proteins,agglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0039341,C0025246,DISRUPTS,tat Protein,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0040005,C0025246,DISRUPTS,Threonine,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0040648,C0031715,DISRUPTS,TRANSCRIPTION FACTOR,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0040648,C1151115,DISRUPTS,TRANSCRIPTION FACTOR,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041236,C1537044,DISRUPTS,TRYPSIN,protein activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041368,C1518440,DISRUPTS,Tumor Necrosis Factors,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041485,C1325410,DISRUPTS,Tyrosine,tumor suppressor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041538,C0031715,DISRUPTS,Ubiquitin,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041538,C1150095,DISRUPTS,Ubiquitin,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041538,C1519751,DISRUPTS,Ubiquitin,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0041538,C1523777,DISRUPTS,Ubiquitin,ubiquitin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042285,C0015852,DISRUPTS,Valine,Fermentation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042285,C1159825,DISRUPTS,Valine,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042711,C1150054,DISRUPTS,Viral Envelope Proteins,glucosidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C0009528,DISRUPTS,Viral Proteins,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C0031715,DISRUPTS,Viral Proteins,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C0872079,DISRUPTS,Viral Proteins,protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C1150131,DISRUPTS,Viral Proteins,effector caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C1151619,DISRUPTS,Viral Proteins,superoxide dismutase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C1325934,DISRUPTS,Viral Proteins,T Cell Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C1519751,DISRUPTS,Viral Proteins,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C2247725,DISRUPTS,Viral Proteins,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042736,C3271891,DISRUPTS,Viral Proteins,RIG-I signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0042971,C0597304,DISRUPTS,von Willebrand factor,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0044602,C1150572,DISRUPTS,1-Phosphatidylinositol 3-Kinase,protein kinase C activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0051962,C1150145,DISRUPTS,anthrax toxin,cathepsin B activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0051979,C2610690,DISRUPTS,anti-IgG,fibrinogen binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0053355,C0243102,DISRUPTS,ubenimex,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0053355,C1150096,DISRUPTS,ubenimex,aminopeptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0054252,C1157234,DISRUPTS,Buthionine Sulfoximine,glutathione biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0054455,C0243102,DISRUPTS,Calcitonin Receptor,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0054871,C0243102,DISRUPTS,Cathepsin L,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0054871,C1150095,DISRUPTS,Cathepsin L,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0054947,C1514762,DISRUPTS,CD22 antigen,Receptor Signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0055633,C0031715,DISRUPTS,Chromogranin A,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0055676,C1150095,DISRUPTS,chymostatin,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0055817,C0031715,DISRUPTS,citrate carrier,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0055817,C1328948,DISRUPTS,citrate carrier,RNA biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0056182,C0009528,DISRUPTS,Complement 3b Receptor,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0056889,C1153410,DISRUPTS,Cystic Fibrosis Transmembrane Conductance Regulator,channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0058980,C0031715,DISRUPTS,eIF-2 Kinase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0058986,C0597295,DISRUPTS,eukaryotic peptide initiation factor-1A,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0058988,C0031715,DISRUPTS,Eukaryotic Initiation Factor-4E,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0058990,C0597295,DISRUPTS,Eukaryotic Initiation Factor-4G,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0058990,C1150095,DISRUPTS,Eukaryotic Initiation Factor-4G,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0059249,C1150587,DISRUPTS,annexin A5,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0060369,C0813988,DISRUPTS,Fibroblast Growth Factor Receptors,autophosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0061184,C0597295,DISRUPTS,"GEL protein, Gelonium multiflorum",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0061472,C0872079,DISRUPTS,Glutamic Acid,protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0062119,C1151518,DISRUPTS,haptoglobin-hemoglobin complex,peroxidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0062503,C1157216,DISRUPTS,Heparan Sulfate Proteoglycans,proteoglycan biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0062507,C0033618,DISRUPTS,Heparin Lyase,Protein Binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0063695,C2248778,DISRUPTS,Intercellular adhesion molecule 1,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0063699,C2754810,DISRUPTS,Interferon Receptor,monocyte chemotactic protein-1 production,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0064833,C0597304,DISRUPTS,Leukocyte Elastane,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0064833,C1148592,DISRUPTS,Leukocyte Elastane,lectin activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0064858,C1150095,DISRUPTS,leupeptin,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065082,C1157990,DISRUPTS,"hlyA protein, Listeria monocytogenes",Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065374,C1157338,DISRUPTS,Lisinopril,isoprenoid biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C0031715,DISRUPTS,Measles Virus Nucleoprotein,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C0597295,DISRUPTS,Measles Virus Nucleoprotein,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C1514216,DISRUPTS,Measles Virus Nucleoprotein,Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C1518440,DISRUPTS,Measles Virus Nucleoprotein,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C1519751,DISRUPTS,Measles Virus Nucleoprotein,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0065827,C3271890,DISRUPTS,Measles Virus Nucleoprotein,RLR signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0066030,C0597295,DISRUPTS,messenger ribonucleoprotein,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0066701,C0597295,DISRUPTS,"MMC protein, Momordica charantia",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0069838,C1328949,DISRUPTS,oxysterol binding protein,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0069919,C0597295,DISRUPTS,ranpirnase,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0071313,C1150095,DISRUPTS,"plY protein, Streptococcus pneumoniae",peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0071795,C0597295,DISRUPTS,2-5A-dependent ribonuclease,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0071795,C1622946,DISRUPTS,2-5A-dependent ribonuclease,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0072108,C0031715,DISRUPTS,Proliferating Cell Nuclear Antigen,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0072544,C0597295,DISRUPTS,"toxA protein, Pseudomonas aeruginosa",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0073240,C1704259,DISRUPTS,Ribonuclease III,Biochemical Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0077671,C1157990,DISRUPTS,ubiquitin precursor,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079189,C0018903,DISRUPTS,cytokine,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079189,C0597295,DISRUPTS,cytokine,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079189,C1149183,DISRUPTS,cytokine,interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079189,C1150587,DISRUPTS,cytokine,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079189,C2247717,DISRUPTS,cytokine,toll-like receptor 2 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079419,C1519751,DISRUPTS,TP53 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079419,C2261562,DISRUPTS,TP53 gene,cyclin-dependent kinase-2 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079459,C1149183,DISRUPTS,Granulocyte Colony-Stimulating Factor,interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079633,C1149183,DISRUPTS,Interleukin-8,interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079633,C1150587,DISRUPTS,Interleukin-8,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079904,C0009528,DISRUPTS,NF-kappa B,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079904,C0031715,DISRUPTS,NF-kappa B,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079904,C1151115,DISRUPTS,NF-kappa B,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079904,C1151619,DISRUPTS,NF-kappa B,superoxide dismutase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0079904,C3160734,DISRUPTS,NF-kappa B,Dephosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0082529,C0031715,DISRUPTS,Mitogen-Activated Protein Kinase 3,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0082529,C1519751,DISRUPTS,Mitogen-Activated Protein Kinase 3,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0082731,C0031715,DISRUPTS,Glycine dehydrogenase (decarboxylating),Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0082731,C1518440,DISRUPTS,Glycine dehydrogenase (decarboxylating),Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084133,C1519751,DISRUPTS,Polyubiquitin,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084133,C1622946,DISRUPTS,Polyubiquitin,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084692,C1148592,DISRUPTS,Pulmonary Surfactant-Associated Protein D,lectin activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084692,C1149309,DISRUPTS,Pulmonary Surfactant-Associated Protein D,IgE binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084692,C1150165,DISRUPTS,Pulmonary Surfactant-Associated Protein D,dipeptidyl-peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084692,C1817393,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Toll-Like Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0084913,C1519751,DISRUPTS,Ubiquitin-Conjugating Enzymes,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085114,C1622946,DISRUPTS,NF2 gene,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085295,C1150165,DISRUPTS,Interleukin-10,dipeptidyl-peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085295,C1155099,DISRUPTS,Interleukin-10,cytokine biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085741,C1150284,DISRUPTS,"Pancreatic Trypsin Secretory Inhibitor, Kazal",trypsin activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085828,C1151115,DISRUPTS,Transcription Factor AP-1,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085828,C1151146,DISRUPTS,Transcription Factor AP-1,NADPH oxidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085828,C1151619,DISRUPTS,Transcription Factor AP-1,superoxide dismutase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0085845,C0597358,DISRUPTS,Aspartate,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0086376,C0301641,DISRUPTS,GTP-Binding Proteins,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0086411,C0031715,DISRUPTS,Histone H2b,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0086661,C1512772,DISRUPTS,MYC gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0087044,C0031715,DISRUPTS,Synapsin I,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0087044,C0949765,DISRUPTS,Synapsin I,Polyadenylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0087044,C1150095,DISRUPTS,Synapsin I,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0087044,C1518440,DISRUPTS,Synapsin I,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0101379,C0031715,DISRUPTS,Activating Transcription Factor 4,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0103306,C0031715,DISRUPTS,angiotensin I (1-7),Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0108554,C0243102,DISRUPTS,casein kinase I,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0110611,C0597304,DISRUPTS,Connexins,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0111429,C0031715,DISRUPTS,Cyclin E,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0113089,C1150095,DISRUPTS,Dermatophagoides farinae antigen f 1,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0114967,C1150095,DISRUPTS,Dermatophagoides pteronyssinus antigen p 1,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0118522,C1621555,DISRUPTS,GA-Binding Protein Transcription Factor,lipopolysaccharide-mediated signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0120285,C0597295,DISRUPTS,Green Fluorescent Proteins,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0120285,C1523807,DISRUPTS,Green Fluorescent Proteins,proteasome-mediated ubiquitin-dependent protein catabolic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0120465,C0597295,DISRUPTS,Guanine Nucleotide Exchange Factors,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0120466,C1151015,DISRUPTS,"GTP-Binding Protein alpha Subunit, Go",adenylate cyclase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0122620,C2611302,DISRUPTS,human neutrophil peptide 1,protein kinase C signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0123759,C1149189,DISRUPTS,Interleukin-12,interleukin-12 receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0123759,C1150165,DISRUPTS,Interleukin-12,dipeptidyl-peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0136073,C1328949,DISRUPTS,Peptidylprolyl Isomerase,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0138765,C1150095,DISRUPTS,"3C protease protein, Coxsackievirus",peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0140649,C0597295,DISRUPTS,RNA glycosylase,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0142292,C1519751,DISRUPTS,signal peptidase,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0162508,C1150587,DISRUPTS,JUN gene,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0162768,C1149309,DISRUPTS,Fusion protein,IgE binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0163401,C1150132,DISRUPTS,aryldialkylphosphatase,caspase-3 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C0031715,DISRUPTS,Proto-Oncogene Proteins c-akt,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C1150132,DISRUPTS,Proto-Oncogene Proteins c-akt,caspase-3 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C1150587,DISRUPTS,Proto-Oncogene Proteins c-akt,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C1158886,DISRUPTS,Proto-Oncogene Proteins c-akt,Protein phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C1621555,DISRUPTS,Proto-Oncogene Proteins c-akt,lipopolysaccharide-mediated signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C1817666,DISRUPTS,Proto-Oncogene Proteins c-akt,phosphatidylinositol 3-kinase signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0164786,C3160734,DISRUPTS,Proto-Oncogene Proteins c-akt,Dephosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0169101,C1150130,DISRUPTS,Mitogen-Activated Protein Kinase Kinases,caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0169661,C0031715,DISRUPTS,Janus kinase 2,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0169661,C1518440,DISRUPTS,Janus kinase 2,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0173532,C0031715,DISRUPTS,cyclin D3,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0173532,C1518440,DISRUPTS,cyclin D3,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0174680,C0031715,DISRUPTS,Cyclin D1,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0178774,C0813988,DISRUPTS,Nucleocapsid,autophosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0178774,C1519751,DISRUPTS,Nucleocapsid,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0178827,C1518440,DISRUPTS,replicase,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0206552,C1150611,DISRUPTS,"Receptors, Cytokine",JAK activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0207564,C1450029,DISRUPTS,endopeptidase La,Aminoacylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0208355,C1157980,DISRUPTS,multicatalytic endopeptidase complex,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0208355,C1519751,DISRUPTS,multicatalytic endopeptidase complex,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0209328,C1149036,DISRUPTS,Dynamin 2,GTPase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0214743,C3269033,DISRUPTS,Interleukin-13,interleukin-17A production,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0215848,C0031715,DISRUPTS,Hypoxia-Inducible Factor 1,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0219433,C0018903,DISRUPTS,"POSTN protein, human",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0242210,C0025246,DISRUPTS,Binding Proteins,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0244989,C0031715,DISRUPTS,Glycogen Synthase Kinase 3,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0244989,C1149036,DISRUPTS,Glycogen Synthase Kinase 3,GTPase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0244989,C1519726,DISRUPTS,Glycogen Synthase Kinase 3,Tyrosine Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0245662,C1159825,DISRUPTS,CD95 Antigens,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0246694,C0597295,DISRUPTS,MG 132,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0246694,C0597297,DISRUPTS,MG 132,"Protein Degradation, Metabolic",aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0246694,C1622946,DISRUPTS,MG 132,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0246694,C2258859,DISRUPTS,MG 132,26S protease activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0248441,C1150095,DISRUPTS,"Ribosomal Protein S6 Kinases, 90-kDa",peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0248441,C1153410,DISRUPTS,"Ribosomal Protein S6 Kinases, 90-kDa",channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0248441,C1519751,DISRUPTS,"Ribosomal Protein S6 Kinases, 90-kDa",Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0248813,C1519052,DISRUPTS,JNK Mitogen-Activated Protein Kinases,Phosphoinositide Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0249880,C0031715,DISRUPTS,Cyclin-Dependent Kinase Inhibitor p16,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0250604,C2248778,DISRUPTS,Eotaxin,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0251829,C3272080,DISRUPTS,"INS1 protein, influenza virus",NLRP3 inflammasome activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0251914,C0031715,DISRUPTS,"PDIA3 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0254260,C0597295,DISRUPTS,"EIF4EBP1 protein, human",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0258441,C1155401,DISRUPTS,TNF receptor-associated factor 2,sevenless signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282554,C0018903,DISRUPTS,chemokine,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282554,C2248778,DISRUPTS,chemokine,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282625,C0031715,DISRUPTS,src-Family Kinases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282682,C0009528,DISRUPTS,"Antibodies, Blocking",Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282682,C0018903,DISRUPTS,"Antibodies, Blocking",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0282682,C0033666,DISRUPTS,"Antibodies, Blocking",Post-Translational Protein Processing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0286330,C1150095,DISRUPTS,26S proteasome,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0286330,C1328949,DISRUPTS,26S proteasome,RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287531,C0031715,DISRUPTS,"DUSP1 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287531,C1149880,DISRUPTS,"DUSP1 protein, human",phosphoric monoester hydrolase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287920,C0031715,DISRUPTS,STAT1 protein,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287920,C1518440,DISRUPTS,STAT1 protein,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287990,C1150095,DISRUPTS,paired basic amino acid cleaving enzyme,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0287990,C1150256,DISRUPTS,paired basic amino acid cleaving enzyme,furin activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0288472,C1149168,DISRUPTS,oncoprotein p21,cyclin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0288472,C3824143,DISRUPTS,oncoprotein p21,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0292133,C0920644,DISRUPTS,"glycoprotein E2, Hepatitis C virus",receptor function,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0292147,C1518440,DISRUPTS,Importins,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0295022,C0031715,DISRUPTS,TNF receptor-associated factor 3,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0295022,C1519751,DISRUPTS,TNF receptor-associated factor 3,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0295022,C1817393,DISRUPTS,TNF receptor-associated factor 3,Toll-Like Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0299583,C0920644,DISRUPTS,leptin,receptor function,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0305052,C0031715,DISRUPTS,Gamma globulin serum,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0305052,C1518440,DISRUPTS,Gamma globulin serum,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0376515,C1150130,DISRUPTS,BCL2 gene,caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0376515,C1512772,DISRUPTS,BCL2 gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0378910,C0031715,DISRUPTS,Lymphocyte antigen CD66A,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0378910,C2247717,DISRUPTS,Lymphocyte antigen CD66A,toll-like receptor 2 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0380190,C0031715,DISRUPTS,type I interferon receptor,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0384768,C0031715,DISRUPTS,"IRF3 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0384768,C2754815,DISRUPTS,"IRF3 protein, human",chemokine (C-C motif) ligand 5 production,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0385333,C1150423,DISRUPTS,Cyclin B1,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0387030,C1817393,DISRUPTS,Interleukin-1 Receptor-Associated Kinases,Toll-Like Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0389916,C3271890,DISRUPTS,"nucleocapsid protein, Coronavirus",RLR signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0389918,C0597304,DISRUPTS,"ADAMTS13 protein, human",Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0443640,C0001801,DISRUPTS,Specific antibody,agglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0443640,C0018903,DISRUPTS,Specific antibody,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0475463,C0018903,DISRUPTS,"Antibodies, Neutralizing",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0475463,C0597358,DISRUPTS,"Antibodies, Neutralizing",receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0529196,C1157978,DISRUPTS,ADAM17 Protein,membrane protein ectodomain proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0530129,C1155401,DISRUPTS,TNF receptor-associated factor 6,sevenless signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0530129,C3271891,DISRUPTS,TNF receptor-associated factor 6,RIG-I signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0534519,C3824143,DISRUPTS,Caspase-1,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0537439,C0301641,DISRUPTS,enfuvirtide,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0538294,C1152001,DISRUPTS,"ALCAM protein, human",phosphatidylcholine-sterol O-acyltransferase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0582263,C0597304,DISRUPTS,Structural protein,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0582263,C1155494,DISRUPTS,Structural protein,intracellular signal transduction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597094,C0010357,DISRUPTS,nuclease,Cross Reactions,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597094,C1150423,DISRUPTS,nuclease,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597357,C0031715,DISRUPTS,receptor,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597357,C0301641,DISRUPTS,receptor,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597357,C0920644,DISRUPTS,receptor,receptor function,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597357,C1752457,DISRUPTS,receptor,chemokine receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597357,C2247717,DISRUPTS,receptor,toll-like receptor 2 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597551,C3544412,DISRUPTS,synthetic peptide,amyloid fibril formation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597721,C0031715,DISRUPTS,Janus kinase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0597721,C1518440,DISRUPTS,Janus kinase,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0599220,C0031715,DISRUPTS,Protein Subunits,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0599220,C0597295,DISRUPTS,Protein Subunits,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0599537,C1149170,DISRUPTS,glycoprotein G,chemokine binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0600388,C0597295,DISRUPTS,Extracellular Signal Regulated Kinases,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0606869,C0597295,DISRUPTS,Eukaryotic Initiation Factor-2B,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0656383,C1622946,DISRUPTS,epoxomicin,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0663914,C0031715,DISRUPTS,IkappaB kinase,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0663914,C0597304,DISRUPTS,IkappaB kinase,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0663914,C1167622,DISRUPTS,IkappaB kinase,Binding (Molecular Function),aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0663914,C1518440,DISRUPTS,IkappaB kinase,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0663914,C1519751,DISRUPTS,IkappaB kinase,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0664336,C1512772,DISRUPTS,survivin,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0671695,C0597304,DISRUPTS,ubiquitin C-terminal 7-amido-4-methylcoumarin,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0675739,C0031715,DISRUPTS,"DENR protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0694888,C1623484,DISRUPTS,PTEN gene,protein kinase B signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0694888,C1817666,DISRUPTS,PTEN gene,phosphatidylinositol 3-kinase signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0694888,C2984300,DISRUPTS,PTEN gene,Insulin/Insulin Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0700271,C0031715,DISRUPTS,"M Protein, multiple myeloma",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0700271,C1167622,DISRUPTS,"M Protein, multiple myeloma",Binding (Molecular Function),aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0700271,C2247147,DISRUPTS,"M Protein, multiple myeloma",sialic acid binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0752312,C0031715,DISRUPTS,Mitogen-Activated Protein Kinases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0752312,C3546691,DISRUPTS,Mitogen-Activated Protein Kinases,activation of protein kinase C activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0752346,C1153440,DISRUPTS,omega-Conotoxins,voltage-gated calcium channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0752615,C0597295,DISRUPTS,Eukaryotic Initiation Factor-3,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0760488,C0031715,DISRUPTS,perilipin 2,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0762890,C1150423,DISRUPTS,PERK kinase,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0769218,C0597304,DISRUPTS,matriptase,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0795677,C0597304,DISRUPTS,"von Willebrand factor, human",Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0812198,C1150132,DISRUPTS,BAX gene,caspase-3 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0812198,C1512772,DISRUPTS,BAX gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0812445,C2248778,DISRUPTS,CXCL1 gene,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0815043,C0162847,DISRUPTS,"Protein, Organized by Function",protein folding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0872123,C1145751,DISRUPTS,c JUN kinase,insulin activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0872251,C0031715,DISRUPTS,protein kinase R,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0872251,C0597295,DISRUPTS,protein kinase R,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0872251,C1150527,DISRUPTS,protein kinase R,protein kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0872251,C3824143,DISRUPTS,protein kinase R,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0879427,C1155379,DISRUPTS,panitumumab,epidermal growth factor receptor signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0893445,C1159825,DISRUPTS,inhibitor-of-apoptosis protein,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0913021,C1151115,DISRUPTS,COX7A2L Protein,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0913092,C1149880,DISRUPTS,DC-specific ICAM-3 grabbing nonintegrin,phosphoric monoester hydrolase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0917721,C0597295,DISRUPTS,"p16 protease, Human immunodeficiency virus 1",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0950430,C1152784,DISRUPTS,Bacillus intermedius ribonuclease,virus receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0965245,C1519692,DISRUPTS,"CD274 protein, human",Tumor Suppression,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C0966225,C1149309,DISRUPTS,omalizumab,IgE binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1098272,C1519751,DISRUPTS,SCF(Fbw7) Ubiquitin Ligase,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1099355,C0597295,DISRUPTS,RNA-Induced Silencing Complex,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1099914,C0018903,DISRUPTS,"IL12B protein, human",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1100024,C2248778,DISRUPTS,interleukin-17E,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1120843,C0031715,DISRUPTS,mitogen-activated protein kinase p38,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1120843,C3268357,DISRUPTS,mitogen-activated protein kinase p38,p38 MAPK signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1120859,C1516359,DISRUPTS,m-calpain,Intracellular Signaling Process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1174749,C0301641,DISRUPTS,Fuzeon,Macromolecular alteration,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1179841,C0025246,DISRUPTS,Plasma membrane protein,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1180347,C1512485,DISRUPTS,Protein complex,Homodimerization,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1258415,C0031715,DISRUPTS,enhanced green fluorescent protein,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1258835,C0031715,DISRUPTS,"N protein, Severe acute respiratory syndrome virus",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1258835,C0597295,DISRUPTS,"N protein, Severe acute respiratory syndrome virus",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1258835,C2261561,DISRUPTS,"N protein, Severe acute respiratory syndrome virus",cyclin-dependent kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1295507,C1150171,DISRUPTS,Bontoxilysin,endopeptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1302678,C1149306,DISRUPTS,Immunoglobulin region,immunoglobulin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1305923,C1149306,DISRUPTS,Polypeptides,immunoglobulin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1307407,C1514251,DISRUPTS,"FRAP1 protein, human",Post-Translational Regulation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1308278,C0031715,DISRUPTS,"CFLAR protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1308278,C1150571,DISRUPTS,"CFLAR protein, human",IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309025,C0031715,DISRUPTS,"SH2D3A protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309025,C0597295,DISRUPTS,"SH2D3A protein, human",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309025,C1150571,DISRUPTS,"SH2D3A protein, human",IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309025,C1151115,DISRUPTS,"SH2D3A protein, human",luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309025,C1518440,DISRUPTS,"SH2D3A protein, human",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309483,C0243102,DISRUPTS,"DICER1 protein, human",enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1309483,C1328949,DISRUPTS,"DICER1 protein, human",RNA replication,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C0031715,DISRUPTS,"DDX58 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C1150571,DISRUPTS,"DDX58 protein, human",IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C1155401,DISRUPTS,"DDX58 protein, human",sevenless signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C1519751,DISRUPTS,"DDX58 protein, human",Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C1537044,DISRUPTS,"DDX58 protein, human",protein activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1310468,C3271891,DISRUPTS,"DDX58 protein, human",RIG-I signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1311470,C0031715,DISRUPTS,"PARK2 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1311470,C1514216,DISRUPTS,"PARK2 protein, human",Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1311470,C1519751,DISRUPTS,"PARK2 protein, human",Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1321919,C1704259,DISRUPTS,"TLR4 protein, human",Biochemical Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332104,C0597295,DISRUPTS,APPBP2 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332379,C1512772,DISRUPTS,BAK1 gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332386,C0031715,DISRUPTS,BCAR3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332386,C0597304,DISRUPTS,BCAR3 gene,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332386,C1518440,DISRUPTS,BCAR3 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332386,C1704259,DISRUPTS,BCAR3 gene,Biochemical Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332386,C2247721,DISRUPTS,BCAR3 gene,toll-like receptor 3 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1332687,C2248778,DISRUPTS,CCL24 gene,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333206,C3271762,DISRUPTS,DDR1 gene,DDR signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333257,C0031715,DISRUPTS,DUSP1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333257,C1150587,DISRUPTS,DUSP1 gene,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333282,C0243102,DISRUPTS,Deubiquitinating Enzymes,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333282,C1519751,DISRUPTS,Deubiquitinating Enzymes,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333655,C0243102,DISRUPTS,GADD45A gene,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333655,C1512772,DISRUPTS,GADD45A gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1333723,C0597304,DISRUPTS,GTF2H1 gene,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334078,C0025246,DISRUPTS,IFITM1 gene,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334081,C0031715,DISRUPTS,IFNAR1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334088,C1514762,DISRUPTS,IGF1R gene,Receptor Signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334139,C0031715,DISRUPTS,IRF3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334139,C1150571,DISRUPTS,IRF3 gene,IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334139,C1518440,DISRUPTS,IRF3 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334139,C1519751,DISRUPTS,IRF3 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334477,C0031715,DISRUPTS,MAP3K7 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334512,C0243102,DISRUPTS,KMT2D gene,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334512,C1149303,DISRUPTS,KMT2D gene,histone binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334885,C3824143,DISRUPTS,NMI gene,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1334888,C1518440,DISRUPTS,"NMI protein, human",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335071,C0018903,DISRUPTS,Nuclear LIM Interactor-Interacting Factor 2,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335071,C1149098,DISRUPTS,Nuclear LIM Interactor-Interacting Factor 2,peptide binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335071,C1149731,DISRUPTS,Nuclear LIM Interactor-Interacting Factor 2,deaminase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335216,C1157980,DISRUPTS,PI4KB gene,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335439,C0597295,DISRUPTS,Polymerase,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335439,C1176301,DISRUPTS,Polymerase,RNA capping,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335439,C2247721,DISRUPTS,Polymerase,toll-like receptor 3 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335818,C0031715,DISRUPTS,SH2D3C gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335818,C1159267,DISRUPTS,SH2D3C gene,protein ADP-ribosylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335818,C1518440,DISRUPTS,SH2D3C gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335818,C1519751,DISRUPTS,SH2D3C gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C0031715,DISRUPTS,STAT1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C1158886,DISRUPTS,STAT1 gene,Protein phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C1518440,DISRUPTS,STAT1 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C1519726,DISRUPTS,STAT1 gene,Tyrosine Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C1519751,DISRUPTS,STAT1 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335872,C3160734,DISRUPTS,STAT1 gene,Dephosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335873,C0031715,DISRUPTS,STAT2 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1335873,C1518440,DISRUPTS,STAT2 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1336579,C1150423,DISRUPTS,TBK1 gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1336579,C1167622,DISRUPTS,TBK1 gene,Binding (Molecular Function),aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1336636,C2247725,DISRUPTS,TLR4 gene,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1336692,C0031715,DISRUPTS,TYROBP gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1336763,C2247717,DISRUPTS,Toll-Like Receptor Family Gene,toll-like receptor 2 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1366462,C3824143,DISRUPTS,KAT2B gene,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1366516,C1151115,DISRUPTS,IRF1 gene,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1367307,C0031715,DISRUPTS,STAT3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1367477,C1148658,DISRUPTS,CD14 gene,lipopolysaccharide binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1367731,C1150423,DISRUPTS,MAPK8 gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1367731,C4505263,DISRUPTS,MAPK8 gene,Mono(ADP-Ribosyl)ation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1384551,C3271891,DISRUPTS,"TRIM25 protein, human",RIG-I signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412234,C1752727,DISRUPTS,PLIN2 gene,Proteasome Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412533,C0018903,DISRUPTS,ARIH1 gene,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412617,C0597295,DISRUPTS,ATF4 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412628,C0031715,DISRUPTS,ATP1A1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412675,C1151115,DISRUPTS,ATP6V0C gene,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412684,C1157223,DISRUPTS,ATP6V1G1 gene,ATP biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412785,C1656373,DISRUPTS,BECN1 gene,UTP-monosaccharide-1-phosphate uridylyltransferase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412831,C0033666,DISRUPTS,BST2 gene,Post-Translational Protein Processing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412831,C1157980,DISRUPTS,BST2 gene,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412933,C0009528,DISRUPTS,C1QBP gene,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412933,C0009547,DISRUPTS,C1QBP gene,"Complement Pathway, Classical",aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1412940,C0018903,DISRUPTS,FAM3B gene,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1413189,C0031715,DISRUPTS,CCR3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1413219,C0597295,DISRUPTS,SCARB2 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1413357,C0600436,DISRUPTS,CFLAR gene,Base Pairing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1413661,C2266865,DISRUPTS,COX8A gene,Calcium Chelating Activity [MoA],aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1413772,C1150145,DISRUPTS,CST3 gene,cathepsin B activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414141,C0033618,DISRUPTS,DPP4 gene,Protein Binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414143,C1623484,DISRUPTS,DPT gene,protein kinase B signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414185,C0031715,DISRUPTS,DUSP4 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414295,C0597295,DISRUPTS,EEF2 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414334,C0031715,DISRUPTS,EIF2S1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414334,C0597295,DISRUPTS,EIF2S1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414421,C2247725,DISRUPTS,EPAS1 gene,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414444,C0597295,DISRUPTS,ERN1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414605,C0596715,DISRUPTS,FGF23 gene,hormone biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414605,C2755734,DISRUPTS,FGF23 gene,hydroxylase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414609,C1518440,DISRUPTS,FGL2 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414805,C0031715,DISRUPTS,MTOR gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1414968,C1518440,DISRUPTS,GAPDH gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415351,C3269239,DISRUPTS,GTPBP1 gene,immunoglobulin-mediated neutralization,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415489,C3178960,DISRUPTS,HBZ gene,Wnt beta-Catenin Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415634,C3268357,DISRUPTS,HNRNPA1 gene,p38 MAPK signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415764,C0031715,DISRUPTS,HSPA8 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415846,C1150571,DISRUPTS,ICOS gene,IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415888,C1150095,DISRUPTS,IFI30 gene,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415892,C0597295,DISRUPTS,IFIT1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415892,C1150571,DISRUPTS,IFIT1 gene,IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415898,C0025245,DISRUPTS,IFITM3 gene,Membrane Fluidity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415898,C0025246,DISRUPTS,IFITM3 gene,Membrane Fusion,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415898,C1514216,DISRUPTS,IFITM3 gene,Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415898,C1519751,DISRUPTS,IFITM3 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1415898,C2247725,DISRUPTS,IFITM3 gene,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416380,C0031715,DISRUPTS,IKBKG gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416478,C0600436,DISRUPTS,ISG20 gene,Base Pairing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416478,C1537044,DISRUPTS,ISG20 gene,protein activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416479,C0031715,DISRUPTS,IRF9 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416702,C1518440,DISRUPTS,KPNA4 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416772,C1149167,DISRUPTS,LAIR1 gene,collagen binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416914,C1621396,DISRUPTS,LRP2 gene,JNK Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1416994,C0597304,DISRUPTS,MAN1B1 gene,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417086,C1150347,DISRUPTS,DNAJB9 gene,protein disulfide isomerase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417530,C1817393,DISRUPTS,MYD88 gene,Toll-Like Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417608,C3272080,DISRUPTS,NCF1 gene,NLRP3 inflammasome activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417659,C1519751,DISRUPTS,NEDD4 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417819,C0031715,DISRUPTS,NPY6R gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417819,C1150423,DISRUPTS,NPY6R gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1417925,C0031715,DISRUPTS,OCA2 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418231,C0597295,DISRUPTS,PABPC1P1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418574,C1623484,DISRUPTS,PIK3C3 gene,protein kinase B signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418582,C1150129,DISRUPTS,PIN1 gene,calpain activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418597,C0009528,DISRUPTS,PITX3 gene,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418597,C0018903,DISRUPTS,PITX3 gene,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418655,C0031715,DISRUPTS,PLP2 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418655,C1519751,DISRUPTS,PLP2 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418793,C0031715,DISRUPTS,PPIA gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418793,C1150301,DISRUPTS,PPIA gene,PPIase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418793,C1518440,DISRUPTS,PPIA gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418824,C1149036,DISRUPTS,PPP1R1A gene,GTPase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418858,C0031715,DISRUPTS,NPY4R gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1418944,C1148561,DISRUPTS,PROCR gene,anticoagulant activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1419413,C0597295,DISRUPTS,RNASEL gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1419939,C1519751,DISRUPTS,SEL1L gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1420002,C0023775,DISRUPTS,SFTPA1 gene,Lipid Peroxidation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1420016,C1157980,DISRUPTS,SGTA gene,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1420086,C1152949,DISRUPTS,SLC10A1 gene,transporter activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1420369,C1149306,DISRUPTS,SPP1 gene,immunoglobulin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1420459,C0031715,DISRUPTS,SULT1E1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421283,C1157990,DISRUPTS,UBE2I gene,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421387,C1148564,DISRUPTS,USP10 gene,antioxidant activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421391,C1157996,DISRUPTS,USP14 gene,Deubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421391,C1519751,DISRUPTS,USP14 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421392,C0031715,DISRUPTS,USP15 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421392,C1519751,DISRUPTS,USP15 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421395,C1150095,DISRUPTS,USP18 gene,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421395,C1519751,DISRUPTS,USP18 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421395,C4236748,DISRUPTS,USP18 gene,STAT cascade,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421402,C1155401,DISRUPTS,USP25 gene,sevenless signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421402,C1519751,DISRUPTS,USP25 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421403,C0031715,DISRUPTS,USP28 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421403,C1519751,DISRUPTS,USP28 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421406,C1157996,DISRUPTS,USP5 gene,Deubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421435,C2248778,DISRUPTS,VCAM1 gene,cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421638,C1514216,DISRUPTS,TRIM25 gene,Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421638,C1519751,DISRUPTS,TRIM25 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1421946,C0031715,DISRUPTS,MAP1LC3B gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422055,C0031715,DISRUPTS,POLE3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422055,C1150423,DISRUPTS,POLE3 gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422064,C0031715,DISRUPTS,ACE2 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422064,C0243102,DISRUPTS,ACE2 gene,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422064,C0872079,DISRUPTS,ACE2 gene,protein protein interaction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422064,C1150183,DISRUPTS,ACE2 gene,MMP-9 activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422064,C1150587,DISRUPTS,ACE2 gene,JUN kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422179,C3824143,DISRUPTS,HERPUD1 gene,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422424,C0031715,DISRUPTS,ARHGAP9 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1422599,C0031715,DISRUPTS,PPP1R15A gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1423502,C1150095,DISRUPTS,MBTPS1 gene,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1423652,C0009528,DISRUPTS,CTTNBP2 gene,Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1424006,C0597295,DISRUPTS,MACROD2 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1424569,C0031715,DISRUPTS,DGCR14 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1424930,C2266856,DISRUPTS,APOBEC3G gene,Proteasome Inhibitors [MoA],aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1425263,C0018903,DISRUPTS,PRNT gene,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1425282,C0031715,DISRUPTS,EMSY gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426208,C1150423,DISRUPTS,SOCS1 gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426208,C4236748,DISRUPTS,SOCS1 gene,STAT cascade,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426212,C0031715,DISRUPTS,SOCS3 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426212,C1150423,DISRUPTS,SOCS3 gene,kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426212,C2247721,DISRUPTS,SOCS3 gene,toll-like receptor 3 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1426653,C1519751,DISRUPTS,USP30 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1427373,C1514216,DISRUPTS,RNF135 gene,Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1427378,C0031715,DISRUPTS,MDC1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1427460,C0597295,DISRUPTS,OARD1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1427460,C4505263,DISRUPTS,OARD1 gene,Mono(ADP-Ribosyl)ation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1427896,C1519751,DISRUPTS,OTUB1 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1428200,C1518094,DISRUPTS,TIPARP gene,Lytic Phase,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1428371,C0597304,DISRUPTS,COPS8 gene,Proteolysis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1433062,C0031715,DISRUPTS,"3C-like protease, SARS coronavirus",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1433062,C1518440,DISRUPTS,"3C-like protease, SARS coronavirus",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1433062,C2247737,DISRUPTS,"3C-like protease, SARS coronavirus",toll-like receptor 7 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1449159,C1149183,DISRUPTS,"CCL2 protein, human",interleukin receptor activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1449849,C0031715,DISRUPTS,raf Kinases,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1453836,C1157570,DISRUPTS,dimethylarginine,nitric oxide biosynthetic process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1453853,C0031715,DISRUPTS,"WNK1 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1453853,C1514216,DISRUPTS,"WNK1 protein, human",Polyubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1453853,C1518440,DISRUPTS,"WNK1 protein, human",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1456447,C1149818,DISRUPTS,"SLC6A2 protein, human",acetylesterase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1522002,C0597358,DISRUPTS,RNA Recognition Motif,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1522002,C1167622,DISRUPTS,RNA Recognition Motif,Binding (Molecular Function),aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1530281,C2754815,DISRUPTS,"IRF7 protein, human",chemokine (C-C motif) ligand 5 production,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1537661,C1519751,DISRUPTS,MARCH6 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1537719,C0031715,DISRUPTS,MIR21 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1537719,C3268357,DISRUPTS,MIR21 gene,p38 MAPK signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1537730,C0596843,DISRUPTS,MIR27B gene,Adipogenesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1538071,C1150639,DISRUPTS,VSIG4 gene,pyruvate dehydrogenase (acetyl-transferring) kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1538071,C1158862,DISRUPTS,VSIG4 gene,pyruvate oxidation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1538399,C1517341,DISRUPTS,C10orf99 gene,G1 to S Transition Process,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539063,C1537044,DISRUPTS,KNL1 gene,protein activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539100,C3272080,DISRUPTS,CLEC5A gene,NLRP3 inflammasome activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539221,C1148583,DISRUPTS,DCLK3 gene,polysaccharide binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539233,C1150571,DISRUPTS,DDX58 gene,IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539233,C1519751,DISRUPTS,DDX58 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539703,C1152052,DISRUPTS,RSAD2 gene,geranyltransferase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539895,C1157990,DISRUPTS,SUMO1 gene,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1539907,C1519751,DISRUPTS,SYVN1 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540035,C2247495,DISRUPTS,TNRC6A gene,P body biogenesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540056,C0031715,DISRUPTS,TRIM21 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540061,C2266880,DISRUPTS,TRIM55 gene,Peroxisome Proliferator-activated Receptor Activity [MoA],aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540210,C0031715,DISRUPTS,ASZ1 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540210,C0597358,DISRUPTS,ASZ1 gene,receptor binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540210,C1518440,DISRUPTS,ASZ1 gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540289,C2247737,DISRUPTS,CD200 gene,toll-like receptor 7 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1540290,C2247737,DISRUPTS,CD200R1 gene,toll-like receptor 7 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1564682,C0031715,DISRUPTS,Suppressor of Cytokine Signaling Proteins,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1564904,C1519751,DISRUPTS,Catenins,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1565427,C0031715,DISRUPTS,"PTK2 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1565860,C0009528,DISRUPTS,"PTGS2 protein, human",Complement Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1567710,C4331020,DISRUPTS,"PARP1 protein, human",Poly ADP Ribosylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1567956,C1518440,DISRUPTS,"Aptamers, Peptide",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1568975,C1149229,DISRUPTS,"IL2RG protein, human",interleukin-2 binding activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1624602,C0018903,DISRUPTS,Anti-Antibodies,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1624602,C1150037,DISRUPTS,Anti-Antibodies,exo-alpha-sialidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1624602,C1157980,DISRUPTS,Anti-Antibodies,erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1624602,C1510811,DISRUPTS,Anti-Antibodies,Adjuvanticity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1667752,C2248778,DISRUPTS,"IL33 protein, human",cyclic nucleotide-gated mechanosensitive ion channel activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1689295,C1518440,DISRUPTS,"protein 6, SARS virus",Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705010,C0599474,DISRUPTS,TNC wt Allele,cholesterol biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705504,C0018903,DISRUPTS,HTATIP wt Allele,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705590,C0031715,DISRUPTS,PIK3CB wt Allele,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705590,C1150130,DISRUPTS,PIK3CB wt Allele,caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705590,C1159825,DISRUPTS,PIK3CB wt Allele,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705590,C1817666,DISRUPTS,PIK3CB wt Allele,phosphatidylinositol 3-kinase signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705982,C1148926,DISRUPTS,KRAS wt Allele,adenosinetriphosphatase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705982,C1149650,DISRUPTS,KRAS wt Allele,nucleoside triphosphatase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705982,C1150095,DISRUPTS,KRAS wt Allele,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1705982,C2611831,DISRUPTS,KRAS wt Allele,MAPK signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1706005,C0018903,DISRUPTS,CD40LG wt Allele,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1720985,C1150130,DISRUPTS,"Caspases, Effector",caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1720986,C1150131,DISRUPTS,"Caspases, Initiator",effector caspase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1823437,C0031715,DISRUPTS,TMEM173 gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1823437,C1150095,DISRUPTS,TMEM173 gene,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1823491,C1817393,DISRUPTS,TRIM69 gene,Toll-Like Receptor Signaling Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1823635,C0597295,DISRUPTS,DCAF1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1824180,C1159825,DISRUPTS,C5AR1 gene,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1824728,C1159825,DISRUPTS,CFB gene,Caspase Activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1824728,C2247725,DISRUPTS,CFB gene,toll-like receptor 4 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825326,C0597295,DISRUPTS,G3BP2 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825397,C0597295,DISRUPTS,CAPRIN1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825516,C1157990,DISRUPTS,ARHGAP45 gene,Sumoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825562,C0598435,DISRUPTS,IFITM5 gene,Palmitoylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825598,C0243102,DISRUPTS,IMPACT gene,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825598,C0597295,DISRUPTS,IMPACT gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825621,C1150095,DISRUPTS,ISG15 gene,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825621,C1150651,DISRUPTS,ISG15 gene,ligase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825621,C1512301,DISRUPTS,ISG15 gene,HIV Budding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1825621,C1519751,DISRUPTS,ISG15 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1826002,C0031715,DISRUPTS,MIR146A gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1826443,C1519751,DISRUPTS,NMRAL1 gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1826560,C1149306,DISRUPTS,PDPN gene,immunoglobulin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1835858,C0597295,DISRUPTS,MACROD1 gene,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1864770,C0031715,DISRUPTS,MAVS gene,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1864770,C1512772,DISRUPTS,MAVS gene,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1864770,C1518440,DISRUPTS,MAVS gene,Nuclear Translocation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1864770,C1519751,DISRUPTS,MAVS gene,Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1864770,C3824143,DISRUPTS,MAVS gene,proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1883559,C0243102,DISRUPTS,Wild Type,enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1883559,C0597295,DISRUPTS,Wild Type,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1883559,C1149306,DISRUPTS,Wild Type,immunoglobulin binding,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1956003,C1150685,DISRUPTS,Protein Phosphatase 1,ubiquitin-protein ligase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1956096,C1622946,DISRUPTS,Ubiquitinated Proteins,proteasome activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1979003,C1514570,DISRUPTS,Rabbit Ab,Proteolytic Processing,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C1979844,C0031715,DISRUPTS,Alpha 1,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2002636,C3272080,DISRUPTS,3C proteases,NLRP3 inflammasome activation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2350345,C0596843,DISRUPTS,AMP-Activated Protein Kinases,Adipogenesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2350739,C1150095,DISRUPTS,rupintrivir,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2699119,C1328948,DISRUPTS,ARPP21 gene,RNA biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2744535,C0243102,DISRUPTS,"CD69 protein, human",enzyme activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2744535,C1720950,DISRUPTS,"CD69 protein, human",Gene Regulatory Networks,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2744579,C1148926,DISRUPTS,"ATP8A2 protein, human",adenosinetriphosphatase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2826044,C3546468,DISRUPTS,MIR451 wt Allele,AMPK activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C2945724,C0018903,DISRUPTS,f-protein,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3147110,C1149880,DISRUPTS,DSCAM-AS1 gene,phosphoric monoester hydrolase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3147110,C1704259,DISRUPTS,DSCAM-AS1 gene,Biochemical Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3273474,C1150095,DISRUPTS,Cytospin-B,peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3273474,C1150571,DISRUPTS,Cytospin-B,IkappaB kinase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3273837,C0597295,DISRUPTS,S100B wt Allele,Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3537035,C0031715,DISRUPTS,kinase inhibitor,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3538714,C2247717,DISRUPTS,TTN wt Allele,toll-like receptor 2 signaling pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3538895,C0018903,DISRUPTS,SEPT4 wt Allele,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3539688,C1512772,DISRUPTS,DEGS1 wt Allele,Negative Regulation of Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C0031715,DISRUPTS,"EIF2AK2 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C0597295,DISRUPTS,"EIF2AK2 protein, human",Protein Biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C0813988,DISRUPTS,"EIF2AK2 protein, human",autophosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C1151115,DISRUPTS,"EIF2AK2 protein, human",luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C1324397,DISRUPTS,"EIF2AK2 protein, human",Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C1519751,DISRUPTS,"EIF2AK2 protein, human",Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C1752727,DISRUPTS,"EIF2AK2 protein, human",Proteasome Pathway,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C3549111,DISRUPTS,"EIF2AK2 protein, human",PKR signal transduction,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3710914,C3824143,DISRUPTS,"EIF2AK2 protein, human",proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3715113,C0023775,DISRUPTS,HSD11B1 wt Allele,Lipid Peroxidation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3715113,C1158366,DISRUPTS,HSD11B1 wt Allele,fatty acid oxidation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3811720,C1817666,DISRUPTS,MIR22 wt Allele,phosphatidylinositol 3-kinase signaling,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3812373,C0031715,DISRUPTS,CHAF1A wt Allele,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3812373,C0813988,DISRUPTS,CHAF1A wt Allele,autophosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3816283,C1151115,DISRUPTS,LINC01197 gene,luciferin monooxygenase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3849574,C0031715,DISRUPTS,"EPHB2 protein, human",Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3849701,C1149225,DISRUPTS,"interleukin 18 protein, human",interleukin-18 binding activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3887665,C0596843,DISRUPTS,"Thrombopoietin, human",Adipogenesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3887665,C3546468,DISRUPTS,"Thrombopoietin, human",AMPK activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C3891304,C1150095,DISRUPTS,"Cathelicidin LL-37, human",peptidase activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4042483,C1707312,DISRUPTS,"BCL2 protein, human",Caspase-Dependent Apoptosis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4048280,C1157980,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",erad,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4048280,C1519751,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",Ubiquitination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4048280,C3824143,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",proteasome complex disassembly,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4078046,C1149848,DISRUPTS,MEDI4893,phospholipase C activity,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4281807,C0018903,DISRUPTS,"Vitronectin, human",Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4284302,C0018903,DISRUPTS,EHD1 wt Allele,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4285347,C0018903,DISRUPTS,Ha Antibody,Hemagglutination,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4317106,C1328948,DISRUPTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",RNA biosynthesis,aapp,moft,1,DISRUPTS_AAPPdrptMOFT
+C4521273,C0031715,DISRUPTS,TRAF Family Member-Associated NF-Kappa-B Activator,Phosphorylation,aapp,moft,1,DISRUPTS_AAPPdrptMOFT

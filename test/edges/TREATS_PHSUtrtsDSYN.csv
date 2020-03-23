@@ -1,0 +1,895 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001046,C0002395,TREATS,Acetylcholinesterase Inhibitors,Alzheimer's Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0019158,TREATS,Acyclovir,Hepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0019348,TREATS,Acyclovir,Herpes Simplex Infections,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0001367,C0019372,TREATS,Acyclovir,Herpesviridae Infections,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0001367,C0022568,TREATS,Acyclovir,Keratitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0032285,TREATS,Acyclovir,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0035222,TREATS,Acyclovir,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0042769,TREATS,Acyclovir,Virus Diseases,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0001367,C0276225,TREATS,Acyclovir,Congenital herpes simplex,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0276226,TREATS,Acyclovir,Herpes encephalitis,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0001367,C0521839,TREATS,Acyclovir,Influenza-like illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0729552,TREATS,Acyclovir,Genital infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0851887,TREATS,Acyclovir,Adenoviral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001367,C0878751,TREATS,Acyclovir,late pregnancy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001644,C0034063,TREATS,Adrenergic beta-Agonists,Pulmonary Edema,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001645,C0011847,TREATS,Adrenergic beta-Antagonists,Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001645,C0017601,TREATS,Adrenergic beta-Antagonists,Glaucoma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001648,C0004096,TREATS,Adrenergic Agonists,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001648,C0024117,TREATS,Adrenergic Agonists,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001911,C0021832,TREATS,Albendazole,"Intestinal Diseases, Parasitic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0001911,C0027583,TREATS,Albendazole,Nematode infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002007,C0018802,TREATS,Aldosterone Antagonists,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002763,C0085306,TREATS,Central Nervous System Stimulants,Feline infectious peritonitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002763,C1373218,TREATS,Central Nervous System Stimulants,Decreased Immunologic Activity [PE],phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002763,C2350035,TREATS,Central Nervous System Stimulants,Viral Croup,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002771,C0031350,TREATS,Analgesics,Pharyngitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002771,C0742343,TREATS,Analgesics,Acute Chest Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0002932,C0085623,TREATS,Anesthetics,Akinesia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0003850,TREATS,Angiotensin-Converting Enzyme Inhibitors,Arteriosclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0007222,TREATS,Angiotensin-Converting Enzyme Inhibitors,Cardiovascular Diseases,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0003015,C0011847,TREATS,Angiotensin-Converting Enzyme Inhibitors,Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0018801,TREATS,Angiotensin-Converting Enzyme Inhibitors,Heart failure,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003015,C0018802,TREATS,Angiotensin-Converting Enzyme Inhibitors,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0020538,TREATS,Angiotensin-Converting Enzyme Inhibitors,Hypertensive disease,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003015,C0022658,TREATS,Angiotensin-Converting Enzyme Inhibitors,Kidney Diseases,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003015,C0024117,TREATS,Angiotensin-Converting Enzyme Inhibitors,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0027051,TREATS,Angiotensin-Converting Enzyme Inhibitors,Myocardial Infarction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0027697,TREATS,Angiotensin-Converting Enzyme Inhibitors,Nephritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0033687,TREATS,Angiotensin-Converting Enzyme Inhibitors,Proteinuria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0035222,TREATS,Angiotensin-Converting Enzyme Inhibitors,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0565599,TREATS,Angiotensin-Converting Enzyme Inhibitors,Maternal hypertension,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C0856169,TREATS,Angiotensin-Converting Enzyme Inhibitors,endothelial dysfunction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C1561643,TREATS,Angiotensin-Converting Enzyme Inhibitors,Chronic Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003015,C3888198,TREATS,Angiotensin-Converting Enzyme Inhibitors,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003138,C0021831,TREATS,Antacids,Intestinal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003158,C0001486,TREATS,Anthelmintics,Adenovirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003158,C0007894,TREATS,Anthelmintics,Cestode Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003158,C0021400,TREATS,Anthelmintics,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003158,C0275586,TREATS,Anthelmintics,Infectious bovine keratoconjunctivitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003191,C0003873,TREATS,Antirheumatic Agents,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003191,C0497169,TREATS,Antirheumatic Agents,hiv-infection/aids,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003204,C0021359,TREATS,Anti-Infective Agents,Infertility,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003204,C0030499,TREATS,Anti-Infective Agents,Parasitic Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003204,C0032285,TREATS,Anti-Infective Agents,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003204,C4085595,TREATS,Anti-Infective Agents,AL-RAQAD SYNDROME,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003205,C0037278,TREATS,"Anti-Infective Agents, Local","Skin Diseases, Infectious",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003205,C0040435,TREATS,"Anti-Infective Agents, Local",Tooth Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0003850,TREATS,Anti-Inflammatory Agents,Arteriosclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0003873,TREATS,Anti-Inflammatory Agents,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0004096,TREATS,Anti-Inflammatory Agents,Asthma,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0003209,C0004364,TREATS,Anti-Inflammatory Agents,Autoimmune Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0004610,TREATS,Anti-Inflammatory Agents,Bacteremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0004623,TREATS,Anti-Inflammatory Agents,Bacterial Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0008679,TREATS,Anti-Inflammatory Agents,Chronic disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0009319,TREATS,Anti-Inflammatory Agents,Colitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0009324,TREATS,Anti-Inflammatory Agents,Ulcerative Colitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0009450,TREATS,Anti-Inflammatory Agents,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0010380,TREATS,Anti-Inflammatory Agents,Croup,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0011860,TREATS,Anti-Inflammatory Agents,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0016627,TREATS,Anti-Inflammatory Agents,Influenza in Birds,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0018572,TREATS,Anti-Inflammatory Agents,"Hand, Foot and Mouth Disease",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0021390,TREATS,Anti-Inflammatory Agents,Inflammatory Bowel Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0021400,TREATS,Anti-Inflammatory Agents,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0022658,TREATS,Anti-Inflammatory Agents,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0022660,TREATS,Anti-Inflammatory Agents,"Kidney Failure, Acute",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0024115,TREATS,Anti-Inflammatory Agents,Lung diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0024117,TREATS,Anti-Inflammatory Agents,Chronic Obstructive Airway Disease,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003209,C0024141,TREATS,Anti-Inflammatory Agents,"Lupus Erythematosus, Systemic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0026636,TREATS,Anti-Inflammatory Agents,Mouth Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0026769,TREATS,Anti-Inflammatory Agents,Multiple Sclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0029408,TREATS,Anti-Inflammatory Agents,Degenerative polyarthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0035204,TREATS,Anti-Inflammatory Agents,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0035455,TREATS,Anti-Inflammatory Agents,Rhinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0036202,TREATS,Anti-Inflammatory Agents,Sarcoidosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0037274,TREATS,Anti-Inflammatory Agents,Dermatologic disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0339901,TREATS,Anti-Inflammatory Agents,Acute respiratory infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C0948780,TREATS,Anti-Inflammatory Agents,Rhinosinusitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C1175175,TREATS,Anti-Inflammatory Agents,Severe Acute Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C1290884,TREATS,Anti-Inflammatory Agents,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C1290886,TREATS,Anti-Inflammatory Agents,Chronic inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003209,C2076600,TREATS,Anti-Inflammatory Agents,Influenza due to Influenza A virus subtype H1N1,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003211,C0003864,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003211,C0006267,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Bronchiectasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003211,C0021400,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003211,C0031350,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Pharyngitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003212,C0035222,TREATS,steroidal anti-inflammatory drugs,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003280,C0031542,TREATS,Anticoagulants,Phlebitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003280,C0034065,TREATS,Anticoagulants,Pulmonary Embolism,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003286,C0014544,TREATS,Anticonvulsants,Epilepsy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003292,C0267436,TREATS,Antidiarrheals,Non-infective diarrhea,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003292,C0740441,TREATS,Antidiarrheals,Acute diarrhea,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003295,C0004623,TREATS,Antidote,Bacterial Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003299,C0014544,TREATS,Antiepileptic Agents,Epilepsy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C0006840,TREATS,Antifungal Agents,Candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C0026718,TREATS,Antifungal Agents,Mucormycosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C0026946,TREATS,Antifungal Agents,Mycoses,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C0238013,TREATS,Antifungal Agents,Invasive aspergillosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C0497169,TREATS,Antifungal Agents,hiv-infection/aids,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C1262313,TREATS,Antifungal Agents,Invasive Fungal Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003308,C3178973,TREATS,Antifungal Agents,Disseminated Fusariosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003360,C0009443,TREATS,Antihistamines,Common Cold,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003360,C0015230,TREATS,Antihistamines,Exanthema,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003360,C0021400,TREATS,Antihistamines,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003360,C0042109,TREATS,Antihistamines,Urticaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003360,C0263338,TREATS,Antihistamines,Chronic urticaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003364,C0020456,TREATS,Antihypertensive Agents,Hyperglycemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003364,C0020538,TREATS,Antihypertensive Agents,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C0024530,TREATS,Antimalarials,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C0242723,TREATS,Antimalarials,Parasitemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C0242917,TREATS,Antimalarials,Filoviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C0276832,TREATS,Antimalarials,Congenital malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C1290884,TREATS,Antimalarials,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C1373218,TREATS,Antimalarials,Decreased Immunologic Activity [PE],phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003374,C2747816,TREATS,Antimalarials,Severe Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003376,C0042769,TREATS,Antimetabolites,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003385,C0024117,TREATS,Muscarinic Antagonists,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003385,C2902981,TREATS,Muscarinic Antagonists,Neurogenic bladder dysfunction NOS,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003392,C0011311,TREATS,Antineoplastic Agents,Dengue Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003392,C0018133,TREATS,Antineoplastic Agents,Graft-vs-Host Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003392,C0041234,TREATS,Antineoplastic Agents,Chagas Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0004153,TREATS,Antioxidants,Atherosclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0007222,TREATS,Antioxidants,Cardiovascular Diseases,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003402,C0011849,TREATS,Antioxidants,Diabetes Mellitus,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003402,C0018099,TREATS,Antioxidants,Gout,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0023895,TREATS,Antioxidants,Liver diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0027765,TREATS,Antioxidants,nervous system disorder,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003402,C0029456,TREATS,Antioxidants,Osteoporosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0032285,TREATS,Antioxidants,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0035204,TREATS,Antioxidants,Respiration Disorders,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003402,C0035222,TREATS,Antioxidants,"Respiratory Distress Syndrome, Adult",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003402,C0035243,TREATS,Antioxidants,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0349410,TREATS,Antioxidants,Single organ dysfunction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C0524910,TREATS,Antioxidants,"Hepatitis C, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003402,C1535950,TREATS,Antioxidants,Gastrointestinal inflammation,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003404,C0010418,TREATS,Antiparasitic Agents,Cryptosporidiosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003404,C0013884,TREATS,Antiparasitic Agents,Filarial Elephantiases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003404,C0024530,TREATS,Antiparasitic Agents,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003404,C0029001,TREATS,Antiparasitic Agents,Onchocerciasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003416,C0014335,TREATS,Antiprotozoal Agents,Enteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0006271,TREATS,Antipyretics,Bronchiolitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0021400,TREATS,Antipyretics,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0024530,TREATS,Antipyretics,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0032285,TREATS,Antipyretics,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0035243,TREATS,Antipyretics,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0042769,TREATS,Antipyretics,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003419,C0694549,TREATS,Antipyretics,Community acquired pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003449,C0021400,TREATS,Antitussive Agents,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0001175,TREATS,Antiviral Agents,Acquired Immunodeficiency Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0002395,TREATS,Antiviral Agents,Alzheimer's Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0004096,TREATS,Antiviral Agents,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0008055,TREATS,Antiviral Agents,Chikungunya Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0009450,TREATS,Antiviral Agents,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0010246,TREATS,Antiviral Agents,Coxsackievirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0011175,TREATS,Antiviral Agents,Dehydration,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0011311,TREATS,Antiviral Agents,Dengue Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0014038,TREATS,Antiviral Agents,Encephalitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0016627,TREATS,Antiviral Agents,Influenza in Birds,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019159,TREATS,Antiviral Agents,Hepatitis A,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019163,TREATS,Antiviral Agents,Hepatitis B,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019189,TREATS,Antiviral Agents,"Hepatitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019196,TREATS,Antiviral Agents,Hepatitis C,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019372,TREATS,Antiviral Agents,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0019693,TREATS,Antiviral Agents,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0021400,TREATS,Antiviral Agents,Influenza,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0003451,C0024117,TREATS,Antiviral Agents,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0028754,TREATS,Antiviral Agents,Obesity,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0029342,TREATS,Antiviral Agents,Orthomyxoviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0032285,TREATS,Antiviral Agents,Pneumonia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003451,C0032310,TREATS,Antiviral Agents,"Pneumonia, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0035222,TREATS,Antiviral Agents,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0035235,TREATS,Antiviral Agents,Respiratory Syncytial Virus Infections,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003451,C0035369,TREATS,Antiviral Agents,Retroviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0035613,TREATS,Antiviral Agents,Rift Valley Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0035690,TREATS,Antiviral Agents,RNA Virus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0036690,TREATS,Antiviral Agents,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0041912,TREATS,Antiviral Agents,Upper Respiratory Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0042769,TREATS,Antiviral Agents,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0043395,TREATS,Antiviral Agents,Yellow Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0151317,TREATS,Antiviral Agents,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0205671,TREATS,Antiviral Agents,"Infections, Arenavirus",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0206750,TREATS,Antiviral Agents,Coronavirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0242917,TREATS,Antiviral Agents,Filoviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0242994,TREATS,Antiviral Agents,Hantavirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0270724,TREATS,Antiviral Agents,Infantile Neuroaxonal Dystrophy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0276289,TREATS,Antiviral Agents,Zika Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0276313,TREATS,Antiviral Agents,Equine viral arteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0282687,TREATS,Antiviral Agents,"Hemorrhagic Fever, Ebola",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0343537,TREATS,Antiviral Agents,Specific viral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0497169,TREATS,Antiviral Agents,hiv-infection/aids,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0524910,TREATS,Antiviral Agents,"Hepatitis C, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0729531,TREATS,Antiviral Agents,Viral respiratory infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0851887,TREATS,Antiviral Agents,Adenoviral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0856238,TREATS,Antiviral Agents,influenza (epidemic),phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C0948998,TREATS,Antiviral Agents,Viral Contagious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C1175175,TREATS,Antiviral Agents,Severe Acute Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C1318020,TREATS,Antiviral Agents,Stromal keratitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C1373218,TREATS,Antiviral Agents,Decreased Immunologic Activity [PE],phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C2047215,TREATS,Antiviral Agents,Herpesvirus 5 infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C2076600,TREATS,Antiviral Agents,Influenza due to Influenza A virus subtype H1N1,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C2936328,TREATS,Antiviral Agents,Neglected Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C3266178,TREATS,Antiviral Agents,Peripheral facial palsy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C3277428,TREATS,Antiviral Agents,Severe viral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C3694279,TREATS,Antiviral Agents,Middle East Respiratory Syndrome,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0003451,C3853962,TREATS,Antiviral Agents,Enterovirus 71 infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C3874414,TREATS,Antiviral Agents,Human metapneumovirus infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0003451,C4288963,TREATS,Antiviral Agents,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0004110,C0014335,TREATS,Astringents,Enteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0003872,TREATS,Biological Response Modifiers,"Arthritis, Psoriatic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0003873,TREATS,Biological Response Modifiers,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0004364,TREATS,Biological Response Modifiers,Autoimmune Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0009450,TREATS,Biological Response Modifiers,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0021400,TREATS,Biological Response Modifiers,Influenza,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0005525,C0022661,TREATS,Biological Response Modifiers,"Kidney Failure, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0024291,TREATS,Biological Response Modifiers,"Lymphohistiocytosis, Hemophagocytic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0026769,TREATS,Biological Response Modifiers,Multiple Sclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0029118,TREATS,Biological Response Modifiers,Opportunistic Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0032285,TREATS,Biological Response Modifiers,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0035204,TREATS,Biological Response Modifiers,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0035222,TREATS,Biological Response Modifiers,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0036690,TREATS,Biological Response Modifiers,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C0042769,TREATS,Biological Response Modifiers,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0005525,C1290884,TREATS,Biological Response Modifiers,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0004096,TREATS,Bronchodilator Agents,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0006267,TREATS,Bronchodilator Agents,Bronchiectasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0006271,TREATS,Bronchodilator Agents,Bronchiolitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0021051,TREATS,Bronchodilator Agents,Immunologic Deficiency Syndromes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0024117,TREATS,Bronchodilator Agents,Chronic Obstructive Airway Disease,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0006280,C0027868,TREATS,Bronchodilator Agents,Neuromuscular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0042769,TREATS,Bronchodilator Agents,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0152021,TREATS,Bronchodilator Agents,Congenital heart disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0276340,TREATS,Bronchodilator Agents,Respiratory syncytial virus bronchiolitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006280,C0746102,TREATS,Bronchodilator Agents,Chronic lung disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006307,C0006309,TREATS,Brucella Vaccine,Brucellosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006684,C0007222,TREATS,Calcium Channel Blockers,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006684,C0020538,TREATS,Calcium Channel Blockers,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006684,C0340427,TREATS,Calcium Channel Blockers,Familial dilated cardiomyopathy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0006983,C0020550,TREATS,Carbimazole,Hyperthyroidism,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0007209,C0018802,TREATS,Cardiotonic Agents,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0007422,C0001339,TREATS,Cathartics,Acute pancreatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0007680,C0035243,TREATS,Central Nervous System Agents,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0008318,C0032285,TREATS,Cholecalciferol,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0008318,C0041296,TREATS,Cholecalciferol,Tuberculosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0008318,C0409974,TREATS,Cholecalciferol,Lupus Erythematosus,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0009905,C0011860,TREATS,"Contraceptives, Oral","Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0009905,C0149931,TREATS,"Contraceptives, Oral",Migraine Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0011777,C0024291,TREATS,Dexamethasone,"Lymphohistiocytosis, Hemophagocytic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0011777,C0035220,TREATS,Dexamethasone,"Respiratory Distress Syndrome, Newborn",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0011777,C0085437,TREATS,Dexamethasone,"Meningitis, Bacterial",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0011777,C0151467,TREATS,Dexamethasone,Addisonian crisis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0011777,C1719672,TREATS,Dexamethasone,Severe Sepsis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0012544,C0029456,TREATS,Diphosphonates,Osteoporosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0012798,C0018801,TREATS,Diuretics,Heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0012798,C0018802,TREATS,Diuretics,Congestive heart failure,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0012798,C0020538,TREATS,Diuretics,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0012798,C0042749,TREATS,Diuretics,Viremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0012798,C0264520,TREATS,Diuretics,Bleeder syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013162,C0019196,TREATS,Drug Combinations,Hepatitis C,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013162,C0020538,TREATS,Drug Combinations,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013162,C0021051,TREATS,Drug Combinations,Immunologic Deficiency Syndromes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013162,C0021400,TREATS,Drug Combinations,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013162,C0343524,TREATS,Drug Combinations,Disseminated nocardiosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013229,C0011860,TREATS,"Drugs, Chinese Herbal","Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0013230,C0042769,TREATS,Investigational New Drugs,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013230,C0276242,TREATS,Investigational New Drugs,Equine viral rhinopneumonitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013231,C0021400,TREATS,"Drugs, Non-Prescription",Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013231,C0035222,TREATS,"Drugs, Non-Prescription","Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013232,C0017205,TREATS,"Drugs, Orphan",Gaucher Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013232,C0220756,TREATS,"Drugs, Orphan","Niemann-Pick Disease, Type C",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0013232,C0678236,TREATS,"Drugs, Orphan",Rare Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0004096,TREATS,Ergocalciferol,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0011311,TREATS,Ergocalciferol,Dengue Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0019100,TREATS,Ergocalciferol,Severe Dengue,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0033680,TREATS,Ergocalciferol,Protein-Losing Enteropathies,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0036690,TREATS,Ergocalciferol,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0149516,TREATS,Ergocalciferol,Chronic sinusitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C0267792,TREATS,Ergocalciferol,hepatobiliary disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0014695,C1504369,TREATS,Ergocalciferol,Allergic disorder of respiratory system,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0015314,C1290884,TREATS,Expectorants,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0015821,C0086227,TREATS,Fenbendazole,Enterobiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016018,C0014009,TREATS,Fibrinolytic Agents,Empyema,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016018,C0751956,TREATS,Fibrinolytic Agents,Acute Cerebrovascular Accidents,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016411,C0003873,TREATS,Folic Acid Antagonists,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016411,C0024530,TREATS,Folic Acid Antagonists,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016411,C0033860,TREATS,Folic Acid Antagonists,Psoriasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016411,C0040558,TREATS,Folic Acid Antagonists,Toxoplasmosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0016411,C0311386,TREATS,Folic Acid Antagonists,Isosporiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0010823,TREATS,Ganciclovir,Cytomegalovirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0019372,TREATS,Ganciclovir,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0022568,TREATS,Ganciclovir,Keratitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0042749,TREATS,Ganciclovir,Viremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0238097,TREATS,Ganciclovir,Cytomegalovirus encephalitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0276253,TREATS,Ganciclovir,Cytomegaloviral pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0017066,C0851887,TREATS,Ganciclovir,Adenoviral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0020592,C0010340,TREATS,Hypnotics and Sedatives,Critical Illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0020616,C0011847,TREATS,Hypoglycemic Agents,Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0003873,TREATS,Immunosuppressive Agents,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0003875,TREATS,Immunosuppressive Agents,"Arthritis, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0009450,TREATS,Immunosuppressive Agents,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0012979,TREATS,Immunosuppressive Agents,Dog Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0014800,TREATS,Immunosuppressive Agents,Erythroid hyperplasia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0018099,TREATS,Immunosuppressive Agents,Gout,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0018133,TREATS,Immunosuppressive Agents,Graft-vs-Host Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0019693,TREATS,Immunosuppressive Agents,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0021053,TREATS,Immunosuppressive Agents,Immune System Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0030499,TREATS,Immunosuppressive Agents,Parasitic Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0035222,TREATS,Immunosuppressive Agents,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0036202,TREATS,Immunosuppressive Agents,Sarcoidosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0085655,TREATS,Immunosuppressive Agents,Polymyositis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0442867,TREATS,Immunosuppressive Agents,malignant disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0520680,TREATS,Immunosuppressive Agents,"Sleep Apnea, Central",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0554876,TREATS,Immunosuppressive Agents,poorly controlled diabetes mellitus,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C0740394,TREATS,Immunosuppressive Agents,Hyperuricemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C1561643,TREATS,Immunosuppressive Agents,Chronic Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0021081,C4288963,TREATS,Immunosuppressive Agents,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0022230,C0028754,TREATS,Inosine Pranobex,Obesity,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0022230,C0042769,TREATS,Inosine Pranobex,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0022230,C0339901,TREATS,Inosine Pranobex,Acute respiratory infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0022322,C0029001,TREATS,Ivermectin,Onchocerciasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0022322,C0030499,TREATS,Ivermectin,Parasitic Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0025023,C0027583,TREATS,Mebendazole,Nematode infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0026078,C0021400,TREATS,Midodrine,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0026698,C0024117,TREATS,mucolytic agents,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0031638,C0018802,TREATS,Phosphodiesterase Inhibitors,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0031638,C0034068,TREATS,Phosphodiesterase Inhibitors,Pulmonary Eosinophilia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0031638,C3203657,TREATS,Phosphodiesterase Inhibitors,Autoimmune retinopathy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032414,C0042769,TREATS,Poly I-C,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032414,C0263428,TREATS,Poly I-C,Burnett Schwartz Berberian syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032414,C2931826,TREATS,Poly I-C,Potassium aggravated myotonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032911,C0009450,TREATS,Praziquantel,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032911,C0036323,TREATS,Praziquantel,Schistosomiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032911,C1096155,TREATS,Praziquantel,Macrophage Activation Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0004096,TREATS,prednisolone,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0008312,TREATS,prednisolone,Primary biliary cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0015469,TREATS,prednisolone,Facial paralysis,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0032950,C0029882,TREATS,prednisolone,Otitis Media,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0032285,TREATS,prednisolone,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0041296,TREATS,prednisolone,Tuberculosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C0940933,TREATS,prednisolone,infection as a complication,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0032950,C3687214,TREATS,prednisolone,Immune mediated polyarthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0033511,C0020550,TREATS,Propylthiouracil,Hyperthyroidism,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0033529,C0004096,TREATS,Prostaglandin Antagonists,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0033671,C0042769,TREATS,Protein Synthesis Inhibitors,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0002871,TREATS,Ribavirin,Anemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0002878,TREATS,Ribavirin,"Anemia, Hemolytic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0009443,TREATS,Ribavirin,Common Cold,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0019099,TREATS,Ribavirin,"Hemorrhagic Fever, Crimean",phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0035525,C0019101,TREATS,Ribavirin,Hemorrhagic Fever with Renal Syndrome,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C0019104,TREATS,Ribavirin,"Hemorrhagic Fevers, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0019158,TREATS,Ribavirin,Hepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0019189,TREATS,Ribavirin,"Hepatitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0019196,TREATS,Ribavirin,Hepatitis C,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0035525,C0023092,TREATS,Ribavirin,Lassa Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0023530,TREATS,Ribavirin,Leukopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0027059,TREATS,Ribavirin,Myocarditis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0032285,TREATS,Ribavirin,Pneumonia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C0035222,TREATS,Ribavirin,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0035235,TREATS,Ribavirin,Respiratory Syncytial Virus Infections,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0035525,C0035243,TREATS,Ribavirin,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0035690,TREATS,Ribavirin,RNA Virus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0042749,TREATS,Ribavirin,Viremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0042769,TREATS,Ribavirin,Virus Diseases,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C0043124,TREATS,Ribavirin,West Nile Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0149725,TREATS,Ribavirin,Lower respiratory tract infection,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C0151317,TREATS,Ribavirin,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0206750,TREATS,Ribavirin,Coronavirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0275518,TREATS,Ribavirin,Acute infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0276289,TREATS,Ribavirin,Zika Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0276340,TREATS,Ribavirin,Respiratory syncytial virus bronchiolitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0339901,TREATS,Ribavirin,Acute respiratory infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0524910,TREATS,Ribavirin,"Hepatitis C, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C0851887,TREATS,Ribavirin,Adenoviral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C1175175,TREATS,Ribavirin,Severe Acute Respiratory Syndrome,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0035525,C1623038,TREATS,Ribavirin,Cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C2076600,TREATS,Ribavirin,Influenza due to Influenza A virus subtype H1N1,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C3277428,TREATS,Ribavirin,Severe viral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C3694279,TREATS,Ribavirin,Middle East Respiratory Syndrome,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0035525,C3714630,TREATS,Ribavirin,Respirovirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C3824825,TREATS,Ribavirin,SARS (Disease),phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C3826786,TREATS,Ribavirin,Adenovirus diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C3853962,TREATS,Ribavirin,Enterovirus 71 infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0035525,C3874414,TREATS,Ribavirin,Human metapneumovirus infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0037766,C4317009,TREATS,Antispasmodics,Diverticular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0037982,C0015397,TREATS,Spironolactone,Disorder of eye,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0037982,C0018802,TREATS,Spironolactone,Congestive heart failure,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0037982,C0020538,TREATS,Spironolactone,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0037982,C0020542,TREATS,Spironolactone,Pulmonary Hypertension,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0037982,C0878544,TREATS,Spironolactone,Cardiomyopathies,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0040616,C1688637,TREATS,Anti-Anxiety Agents,Intraoperative floppy iris syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0040987,C0022568,TREATS,Trifluridine,Keratitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0041044,C0008677,TREATS,Trimethoprim-Sulfamethoxazole Combination,"Bronchitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0041044,C0032285,TREATS,Trimethoprim-Sulfamethoxazole Combination,Pneumonia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0041044,C0085786,TREATS,Trimethoprim-Sulfamethoxazole Combination,Hamman-Rich syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0041044,C0311386,TREATS,Trimethoprim-Sulfamethoxazole Combination,Isosporiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0041044,C0343398,TREATS,Trimethoprim-Sulfamethoxazole Combination,Cyclosporiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0041044,C1535939,TREATS,Trimethoprim-Sulfamethoxazole Combination,Pneumocystis jiroveci pneumonia,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C0041983,C0860475,TREATS,Uricosuric Agents,lactose intolerant,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042105,C0008312,TREATS,Ursodiol,Primary biliary cirrhosis,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0042105,C0019158,TREATS,Ursodiol,Hepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042105,C0023895,TREATS,Ursodiol,Liver diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042105,C0341439,TREATS,Ursodiol,Chronic liver disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042105,C0856727,TREATS,Ursodiol,Cholesterol gallstones,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042397,C0010340,TREATS,Vasoconstrictor Agents,Critical Illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042397,C0035222,TREATS,Vasoconstrictor Agents,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042397,C0948268,TREATS,Vasoconstrictor Agents,Hemodynamic instability,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042397,C3694279,TREATS,Vasoconstrictor Agents,Middle East Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042398,C0009443,TREATS,Nasal Decongestants,Common Cold,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0042646,C0019372,TREATS,Vidarabine,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0001175,TREATS,Zidovudine,Acquired Immunodeficiency Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0002871,TREATS,Zidovudine,Anemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0019693,TREATS,Zidovudine,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0023530,TREATS,Zidovudine,Leukopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0026848,TREATS,Zidovudine,Myopathy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0038362,TREATS,Zidovudine,Stomatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0042769,TREATS,Zidovudine,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0276500,TREATS,Zidovudine,Human immunodeficiency virus I infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0497169,TREATS,Zidovudine,hiv-infection/aids,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0043474,C0878544,TREATS,Zidovudine,Cardiomyopathies,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0045093,C0042769,TREATS,gemcitabine,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0049065,C0940933,TREATS,decitabine,infection as a complication,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0050063,C0679225,TREATS,8-chloro-cyclic adenosine monophosphate,multiple pathologies,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0050559,C1276092,TREATS,Acitretin,Chronic hand eczema,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0051764,C0015674,TREATS,Ampligen,Chronic Fatigue Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0051764,C2748361,TREATS,Ampligen,H5N1 Human Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0055447,C0008679,TREATS,chloroquine phosphate,Chronic disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0056562,C0242966,TREATS,crystalloid solutions,Systemic Inflammatory Response Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0059985,C0746883,TREATS,fludarabine,Febrile Neutropenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0062185,C0746982,TREATS,heliox,obstructive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0062185,C1145670,TREATS,heliox,Respiratory Failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0063469,C0021400,TREATS,indirubin,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0063469,C0032285,TREATS,indirubin,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0064113,C0024449,TREATS,Itraconazole,Mycetoma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0064113,C0026946,TREATS,Itraconazole,Mycoses,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0069590,C0006277,TREATS,ORALIT,Bronchitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0069590,C0008354,TREATS,ORALIT,Cholera,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0069590,C0267446,TREATS,ORALIT,Acute gastroenteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0069590,C0740441,TREATS,ORALIT,Acute diarrhea,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0069610,C0751956,TREATS,Org 10172,Acute Cerebrovascular Accidents,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0070166,C0036690,TREATS,clopidogrel,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0070895,C0019348,TREATS,Foscarnet,Herpes Simplex Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0070895,C0019372,TREATS,Foscarnet,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0070895,C0238097,TREATS,Foscarnet,Cytomegalovirus encephalitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0071208,C0038644,TREATS,Plasma-lyte 148,Sudden infant death syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0071500,C0242301,TREATS,polyacrylamide gels,furuncle,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0071754,C0014544,TREATS,potassium bromide,Epilepsy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0072494,C0014175,TREATS,protopanaxadiol,Endometriosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077071,C0015652,TREATS,triclabendazole,Fascioliasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077144,C0001622,TREATS,trilostane,Adrenal Gland Hyperfunction,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0077144,C0008370,TREATS,trilostane,Cholestasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077144,C0020538,TREATS,trilostane,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077144,C0221406,TREATS,trilostane,Pituitary-dependent Cushing's disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077608,C0276289,TREATS,U 18666A,Zika Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0077854,C0011175,TREATS,uranyl acetate,Dehydration,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0078516,C0011175,TREATS,World Health Organization oral rehydration solution,Dehydration,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085155,C0013884,TREATS,Generic Drugs,Filarial Elephantiases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085155,C0018889,TREATS,Generic Drugs,Helminthiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085155,C0023343,TREATS,Generic Drugs,Leprosy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085155,C0029001,TREATS,Generic Drugs,Onchocerciasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085155,C0040592,TREATS,Generic Drugs,Trachoma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085826,C0010051,TREATS,Antiplatelet Agents,Coronary Aneurysm,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0085826,C0036690,TREATS,Antiplatelet Agents,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0086440,C0010054,TREATS,Hypolipidemic Agents,Coronary Arteriosclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0086440,C0020443,TREATS,Hypolipidemic Agents,Hypercholesterolemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0128608,C0003047,TREATS,mizoribine,Animal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0128608,C0016052,TREATS,mizoribine,Fibromuscular Dysplasia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0128608,C0042769,TREATS,mizoribine,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0128608,C0729552,TREATS,mizoribine,Genital infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0146196,C0011175,TREATS,toltrazuril,Dehydration,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0146196,C0276807,TREATS,toltrazuril,Infection by Cystoisospora,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0163748,C0017160,TREATS,Diosmectite,Gastroenteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0163748,C0740441,TREATS,Diosmectite,Acute diarrhea,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0209227,C0007350,TREATS,famciclovir,Cat Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0209738,C0019194,TREATS,Lamivudine,"Hepatitis, Viral, Animal",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0209738,C0023890,TREATS,Lamivudine,Liver Cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242708,C0003873,TREATS,"Antirheumatic Drugs, Disease-Modifying",Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242708,C3495559,TREATS,"Antirheumatic Drugs, Disease-Modifying",Juvenile arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242896,C1963946,TREATS,Anticholinergic Agents,Laryngeal dystonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242912,C0011303,TREATS,Neuroprotective Agents,Demyelinating Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242912,C0017601,TREATS,Neuroprotective Agents,Glaucoma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0242912,C0524851,TREATS,Neuroprotective Agents,Neurodegenerative Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0247025,C0948089,TREATS,tirofiban,Acute Coronary Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0280076,C0741916,TREATS,Cardiac agent,Cardiac defects,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282090,C0002871,TREATS,Laxatives,Anemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282090,C0022638,TREATS,Laxatives,Ketosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282519,C0019693,TREATS,Reverse Transcriptase Inhibitors,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282519,C0276500,TREATS,Reverse Transcriptase Inhibitors,Human immunodeficiency virus I infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282555,C0004096,TREATS,Anti-Allergic Agents,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282555,C0011615,TREATS,Anti-Allergic Agents,"Dermatitis, Atopic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282555,C0023895,TREATS,Anti-Allergic Agents,Liver diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282568,C1096155,TREATS,"Drugs, Essential",Macrophage Activation Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282686,C0001311,TREATS,Respiratory System Agents,Acute bronchiolitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0282686,C0275524,TREATS,Respiratory System Agents,Coinfection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0001486,TREATS,Cidofovir,Adenovirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0019372,TREATS,Cidofovir,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0022568,TREATS,Cidofovir,Keratitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0022658,TREATS,Cidofovir,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0042749,TREATS,Cidofovir,Viremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0206178,TREATS,Cidofovir,Cytomegalovirus Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0276156,TREATS,Cidofovir,Adenoviral pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C0851887,TREATS,Cidofovir,Adenoviral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0286079,C1145670,TREATS,Cidofovir,Respiratory Failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0292819,C0035333,TREATS,fomivirsen,Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0292819,C0206178,TREATS,fomivirsen,Cytomegalovirus Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302232,C0038358,TREATS,Demulcent,Gastric ulcer,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302837,C0004096,TREATS,Vitamin supplementation,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302837,C0004364,TREATS,Vitamin supplementation,Autoimmune Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302837,C0029453,TREATS,Vitamin supplementation,Osteopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302837,C0400966,TREATS,Vitamin supplementation,Non-alcoholic Fatty Liver Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0302837,C0456909,TREATS,Vitamin supplementation,Blindness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304289,C2902981,TREATS,"Oral drug preparation, NOS",Neurogenic bladder dysfunction NOS,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304402,C4288963,TREATS,Stimulant,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304490,C0020538,TREATS,Potassium Sparing Diuretics,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304497,C0034069,TREATS,Cytotoxic agent (product),Pulmonary Fibrosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304604,C0008049,TREATS,Topical form corticosteroids,Chickenpox,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0304604,C0262972,TREATS,Topical form corticosteroids,Acute dermatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0309989,C0021400,TREATS,quantum,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0310255,C1145670,TREATS,survive,Respiratory Failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0310255,C3694279,TREATS,survive,Middle East Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0350056,C0005779,TREATS,Adsorbents,Blood Coagulation Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0354100,C0018802,TREATS,Loop Diuretics,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0354604,C2882221,TREATS,oral anticoagulants,Acute pulmonary embolism,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0358591,C0042769,TREATS,Proton Pump Inhibitors,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0358591,C0276289,TREATS,Proton Pump Inhibitors,Zika Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0359086,C0011860,TREATS,Oral hypoglycemic,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0359178,C0008354,TREATS,Oral rehydration salts,Cholera,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0360564,C4085595,TREATS,Mometasone,AL-RAQAD SYNDROME,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0376438,C0009450,TREATS,Veterinary Drugs,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0376565,C0497169,TREATS,Anti-HIV Agents,hiv-infection/aids,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0384228,C0029453,TREATS,Tenofovir,Osteopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0391001,C0019196,TREATS,peginterferon alfa-2a,Hepatitis C,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0391001,C0524909,TREATS,peginterferon alfa-2a,"Hepatitis B, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0393080,C0004030,TREATS,voriconazole,Aspergillosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0393080,C0238013,TREATS,voriconazole,Invasive aspergillosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0393080,C3178973,TREATS,voriconazole,Disseminated Fusariosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0456388,C0221123,TREATS,Blood product,Hemolytic Transfusion Reaction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0456388,C0548923,TREATS,Blood product,burn infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0521942,C0010340,TREATS,Angiotensin II receptor antagonist,Critical Illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0521942,C0018802,TREATS,Angiotensin II receptor antagonist,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0521942,C0021400,TREATS,Angiotensin II receptor antagonist,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0521942,C0036690,TREATS,Angiotensin II receptor antagonist,Septicemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0521942,C3277428,TREATS,Angiotensin II receptor antagonist,Severe viral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0527316,C0029443,TREATS,donepezil,Osteomyelitis,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0544357,C0019097,TREATS,human plasma,"Hemorrhagic Fever, Argentinian",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0544357,C0019104,TREATS,human plasma,"Hemorrhagic Fevers, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0591516,C0270724,TREATS,Fleet,Infantile Neuroaxonal Dystrophy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0597104,C4288963,TREATS,nucleoside inhibitor,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0598695,C0002395,TREATS,NMDA receptor antagonist,Alzheimer's Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0599934,C0014057,TREATS,"Vaccines, Peptide",Japanese Encephalitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0599934,C0206750,TREATS,"Vaccines, Peptide",Coronavirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0604300,C0020473,TREATS,fibric acid,Hyperlipidemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0663241,C0009450,TREATS,linezolid,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0663241,C0206171,TREATS,linezolid,Community-Acquired Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0682770,C0011615,TREATS,agonists and antagonists,"Dermatitis, Atopic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0696725,C0178238,TREATS,Huang Lian preparation,Intestinal infectious disease (disorder),phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0697125,C0275522,TREATS,Inonotus obliquus preparation,Asymptomatic Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699599,C0009187,TREATS,Trimethoprimsulfa,Coccidiosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0002726,TREATS,Metric,Amyloidosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0004030,TREATS,Metric,Aspergillosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0011311,TREATS,Metric,Dengue Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0029456,TREATS,Metric,Osteoporosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0042769,TREATS,Metric,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0699680,C0175713,TREATS,Metric,Aicardi's syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0701303,C0376538,TREATS,R-38486,Porcine Reproductive and Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0004623,TREATS,Anti-Fungal,Bacterial Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0006840,TREATS,Anti-Fungal,Candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0006849,TREATS,Anti-Fungal,Oral candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0010414,TREATS,Anti-Fungal,Infection by Cryptococcus neoformans,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0019655,TREATS,Anti-Fungal,Histoplasmosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0032285,TREATS,Anti-Fungal,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0153252,TREATS,Anti-Fungal,Systemic candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0264490,TREATS,Anti-Fungal,Acute respiratory failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0343751,TREATS,Anti-Fungal,Asymptomatic human immunodeficiency virus infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C0877445,TREATS,Anti-Fungal,Candidemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C1262313,TREATS,Anti-Fungal,Invasive Fungal Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0718566,C1264606,TREATS,Anti-Fungal,Persistent infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0003864,TREATS,century,Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0009443,TREATS,century,Common Cold,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0014038,TREATS,century,Encephalitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0019158,TREATS,century,Hepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0019159,TREATS,century,Hepatitis A,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0020538,TREATS,century,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0023895,TREATS,century,Liver diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0024530,TREATS,century,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0027927,TREATS,century,Neurosyphilis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0037354,TREATS,century,Smallpox,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0041912,TREATS,century,Upper Respiratory Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0042769,TREATS,century,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0149931,TREATS,century,Migraine Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0719214,C0242966,TREATS,century,Systemic Inflammatory Response Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0724367,C0035333,TREATS,Vitravene,Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0732611,C0149871,TREATS,Selective Estrogen Receptor Modulators,Deep Vein Thrombosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0759032,C0009443,TREATS,pleconaril,Common Cold,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0759032,C0276447,TREATS,pleconaril,Rhinovirus infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0759032,C0456103,TREATS,pleconaril,Sepsis of the newborn,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0759032,C3853962,TREATS,pleconaril,Enterovirus 71 infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0770560,C0151467,TREATS,Hydrocortisone sodium succinate,Addisonian crisis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0784478,C0031350,TREATS,Throat Lozenge,Pharyngitis,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0815017,C0022658,TREATS,Angiotensin Receptor Antagonists,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0815017,C0027697,TREATS,Angiotensin Receptor Antagonists,Nephritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0870261,C0019243,TREATS,channel blockers,"Angioedemas, Hereditary",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0872271,C0014548,TREATS,Sodium Channel Blockers,"Epilepsy, Generalized",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0872285,C1290884,TREATS,therapeutic protein,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0885847,C0001339,TREATS,human urine,Acute pancreatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0909381,C0010823,TREATS,valganciclovir,Cytomegalovirus Infections,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C0909381,C0042749,TREATS,valganciclovir,Viremia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0935929,C0011860,TREATS,Antidiabetics,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0949854,C0004096,TREATS,Plant Preparations,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0962407,C4529962,TREATS,betaine glucuronate,Fatty Liver Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C0971023,C0151317,TREATS,entecavir,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1099776,C0019693,TREATS,Tenofovir disoproxil fumarate,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1100245,C1175175,TREATS,"plant extract, Houttuynia cordata",Severe Acute Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1134558,C0007222,TREATS,Chinese herbs,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1134558,C0024530,TREATS,Chinese herbs,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1134558,C0032310,TREATS,Chinese herbs,"Pneumonia, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1134558,C0877203,TREATS,Chinese herbs,Viral Respiratory Tract Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0000817,TREATS,Microbicides,"Abortion, Septic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0004623,TREATS,Microbicides,Bacterial Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0004626,TREATS,Microbicides,"Pneumonia, Bacterial",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1136254,C0006818,TREATS,Microbicides,Campylobacter infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0009450,TREATS,Microbicides,Communicable Diseases,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1136254,C0010340,TREATS,Microbicides,Critical Illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0014335,TREATS,Microbicides,Enteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0021831,TREATS,Microbicides,Intestinal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0024117,TREATS,Microbicides,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0024286,TREATS,Microbicides,Lymphogranuloma Venereum,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0032285,TREATS,Microbicides,Pneumonia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1136254,C0035204,TREATS,Microbicides,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0035222,TREATS,Microbicides,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0035243,TREATS,Microbicides,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0036202,TREATS,Microbicides,Sarcoidosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0036285,TREATS,Microbicides,Scarlet Fever,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0036690,TREATS,Microbicides,Septicemia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1136254,C0151317,TREATS,Microbicides,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0241262,TREATS,Microbicides,Strawberry tongue,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0243026,TREATS,Microbicides,Sepsis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0271429,TREATS,Microbicides,Acute otitis media,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0339952,TREATS,Microbicides,Secondary bacterial pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0341558,TREATS,Microbicides,Intestinal infection due to E. coli,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0442886,TREATS,Microbicides,Secondary Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0554628,TREATS,Microbicides,Group A Streptococcal Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0694549,TREATS,Microbicides,Community acquired pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0729518,TREATS,Microbicides,Bacterial respiratory infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0740304,TREATS,Microbicides,copd exacerbation,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C0740441,TREATS,Microbicides,Acute diarrhea,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1136254,C0849784,TREATS,Microbicides,bacterial diarrhea,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C1290325,TREATS,Microbicides,Disorder of lower respiratory system,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C3495919,TREATS,Microbicides,Enthesitis-Related Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1136254,C3824874,TREATS,Microbicides,Mycoplasma pneumoniae Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1138004,C0023895,TREATS,shosaiko-to,Liver diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1138004,C0041912,TREATS,shosaiko-to,Upper Respiratory Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1144403,C0085426,TREATS,oritavancin,Gram-Positive Bacterial Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1176329,C2973725,TREATS,ambrisentan,Pulmonary arterial hypertension,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1254180,C0206750,TREATS,"Nelumbo nucifera, flower essence",Coronavirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1268551,C0006840,TREATS,Echinocandins,Candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1268551,C0699744,TREATS,Echinocandins,Infection of ear,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1268551,C0877445,TREATS,Echinocandins,Candidemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1268903,C0349410,TREATS,Cytoprotective agent,Single organ dysfunction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1275666,C0043459,TREATS,Fusion inhibitor,Zellweger Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1276996,C1963946,TREATS,Atypical antipsychotic,Laryngeal dystonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1366263,C1457897,TREATS,"Hyperimmune Colostrum, Bovine",Congenital hypogammaglobulinemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1372955,C0008679,TREATS,Active ingredient,Chronic disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1372955,C0009450,TREATS,Active ingredient,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1372955,C0033860,TREATS,Active ingredient,Psoriasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443636,C0008677,TREATS,Substance p/neurokinin 1 receptor antagonist,"Bronchitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443643,C0276138,TREATS,Proteasome inhibitor,Viral myocarditis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443650,C0016627,TREATS,Neuraminidase inhibitor,Influenza in Birds,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443650,C0021400,TREATS,Neuraminidase inhibitor,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443650,C0035222,TREATS,Neuraminidase inhibitor,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443650,C2076600,TREATS,Neuraminidase inhibitor,Influenza due to Influenza A virus subtype H1N1,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443775,C0024117,TREATS,Epidermal growth factor receptor inhibitor (product),Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443923,C0008354,TREATS,Oral rehydration solution,Cholera,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443923,C0024530,TREATS,Oral rehydration solution,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1443923,C0032285,TREATS,Oral rehydration solution,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1449680,C0007222,TREATS,Angiotensin II Type 1 Receptor Blockers,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1508759,C0010823,TREATS,maribavir,Cytomegalovirus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1511961,C0003873,TREATS,Dihydroorotate Dehydrogenase Inhibitor,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1511961,C0026769,TREATS,Dihydroorotate Dehydrogenase Inhibitor,Multiple Sclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1512211,C0011860,TREATS,Glucosidase Inhibitor,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1512211,C0042769,TREATS,Glucosidase Inhibitor,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1513016,C0024117,TREATS,Matrix Metalloproteinase Inhibitors,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1516250,C1701940,TREATS,Carbohydrate Processing Inhibitor,"Pneumonia, Ventilator-Associated",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1516312,C0524851,TREATS,Caspase Inhibitors,Neurodegenerative Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1519059,C0035333,TREATS,Phosphorothioate Oligonucleotides,Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1520007,C0009450,TREATS,viral vector,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1520007,C0020445,TREATS,viral vector,"Hypercholesterolemia, Familial",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1531015,C0271084,TREATS,pegaptanib,Exudative age-related macular degeneration,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1562242,C0003873,TREATS,Anti-tumor necrosis factor alpha drug (product),Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1569170,C0339901,TREATS,polyvalent mechanical bacterial lysate,Acute respiratory infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1570906,C0008679,TREATS,vildagliptin,Chronic disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1570906,C0011860,TREATS,vildagliptin,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1570906,C0022658,TREATS,vildagliptin,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1576750,C0011847,TREATS,BANABA,Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1576750,C0022658,TREATS,BANABA,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0019101,TREATS,Nucleoside Analogs,Hemorrhagic Fever with Renal Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0019189,TREATS,Nucleoside Analogs,"Hepatitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0019372,TREATS,Nucleoside Analogs,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0035235,TREATS,Nucleoside Analogs,Respiratory Syncytial Virus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0035690,TREATS,Nucleoside Analogs,RNA Virus Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0042769,TREATS,Nucleoside Analogs,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0151317,TREATS,Nucleoside Analogs,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C0524909,TREATS,Nucleoside Analogs,"Hepatitis B, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C3277428,TREATS,Nucleoside Analogs,Severe viral infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C3672014,TREATS,Nucleoside Analogs,Feline coronavirus infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1579410,C4288963,TREATS,Nucleoside Analogs,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1619629,C0026718,TREATS,deferasirox,Mucormycosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1619629,C0040034,TREATS,deferasirox,Thrombocytopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1664150,C4288963,TREATS,valopicitabine,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1709545,C0205721,TREATS,Piperine Extract (Standardized),"Infections, Hospital",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0001175,TREATS,New medications,Acquired Immunodeficiency Syndrome,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1718097,C0003873,TREATS,New medications,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0007222,TREATS,New medications,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0009450,TREATS,New medications,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0016627,TREATS,New medications,Influenza in Birds,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0019348,TREATS,New medications,Herpes Simplex Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0024117,TREATS,New medications,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0026769,TREATS,New medications,Multiple Sclerosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0027765,TREATS,New medications,nervous system disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0032285,TREATS,New medications,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0035222,TREATS,New medications,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0042769,TREATS,New medications,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0151317,TREATS,New medications,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0162534,TREATS,New medications,Prion Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0206526,TREATS,New medications,"Tuberculosis, Multidrug-Resistant",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C0276289,TREATS,New medications,Zika Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C1175175,TREATS,New medications,Severe Acute Respiratory Syndrome,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1718097,C1336827,TREATS,New medications,Tropical Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C2936328,TREATS,New medications,Neglected Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1718097,C3534585,TREATS,New medications,Infection caused by Norovirus,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1723019,C0263338,TREATS,bepotastine besilate,Chronic urticaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1827106,C0007222,TREATS,Dipeptidyl-Peptidase IV Inhibitors,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1827106,C0011860,TREATS,Dipeptidyl-Peptidase IV Inhibitors,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1827106,C0011881,TREATS,Dipeptidyl-Peptidase IV Inhibitors,Diabetic Nephropathy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1827106,C1290884,TREATS,Dipeptidyl-Peptidase IV Inhibitors,Inflammatory disorder,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874329,C0019345,TREATS,"Antivirals, topical",Herpes Labialis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0003864,TREATS,Basis,Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0006840,TREATS,Basis,Candidiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0008312,TREATS,Basis,Primary biliary cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0009450,TREATS,Basis,Communicable Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0010356,TREATS,Basis,Cross Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0016627,TREATS,Basis,Influenza in Birds,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0019196,TREATS,Basis,Hepatitis C,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0022116,TREATS,Basis,Ischemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0022661,TREATS,Basis,"Kidney Failure, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0024530,TREATS,Basis,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0026850,TREATS,Basis,Muscular Dystrophy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0028797,TREATS,Basis,Occupational Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0032285,TREATS,Basis,Pneumonia,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C1874451,C0034186,TREATS,Basis,Pyelonephritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0035243,TREATS,Basis,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0036323,TREATS,Basis,Schistosomiasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0037354,TREATS,Basis,Smallpox,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0042769,TREATS,Basis,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0085293,TREATS,Basis,Hepatitis E,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0151317,TREATS,Basis,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0270724,TREATS,Basis,Infantile Neuroaxonal Dystrophy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0282687,TREATS,Basis,"Hemorrhagic Fever, Ebola",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C0376300,TREATS,Basis,Dengue Shock Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C1976726,TREATS,Basis,Antibiotic resistant infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1874451,C2729139,TREATS,Basis,immune Myositis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1875319,C0042769,TREATS,INVESTIGATIONAL AGENTS,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1875384,C0019104,TREATS,INVESTIGATIONAL VACCINES,"Hemorrhagic Fevers, Viral",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1880030,C0011615,TREATS,Chemokine receptor antagonist,"Dermatitis, Atopic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1880030,C0019693,TREATS,Chemokine receptor antagonist,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1958566,C0341439,TREATS,magnesium isoglycyrrhizinate,Chronic liver disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C1996349,C0031485,TREATS,Sapropterin dihydrochloride,Phenylketonurias,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2267040,C0276500,TREATS,Human Immunodeficiency Virus 1 Fusion Inhibitor [EPC],Human immunodeficiency virus I infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2348231,C0009766,TREATS,Spaglumic Acid,Allergic Conjunctivitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2348231,C0851444,TREATS,Spaglumic Acid,Allergic condition,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2348390,C0028754,TREATS,eicosenoic acid,Obesity,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2348390,C0268468,TREATS,eicosenoic acid,"Dystonia, Dopa-Responsive, due to Sepiapterin Reductase Deficiency",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2599808,C0035243,TREATS,Interferon drug,Respiratory Tract Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2698371,C0042109,TREATS,bepotastine,Urticaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2745274,C0206245,TREATS,tafamidis,"Amyloid Neuropathies, Familial",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2746052,C0002395,TREATS,mTOR Inhibitor,Alzheimer's Disease,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C2746052,C0949664,TREATS,mTOR Inhibitor,Tauopathies,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2825096,C0022521,TREATS,Anti-IgE [EPC],Kartagener Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2825096,C3266628,TREATS,Anti-IgE [EPC],Persistent asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2917353,C0746102,TREATS,Macrolide Antimicrobial [EPC],Chronic lung disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2930041,C0016879,TREATS,Ampicillin / Sulbactam,Fusobacterium Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2930041,C0032285,TREATS,Ampicillin / Sulbactam,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2936609,C0008677,TREATS,Phosphodiesterase 4 Inhibitors,"Bronchitis, Chronic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2936609,C0024117,TREATS,Phosphodiesterase 4 Inhibitors,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2936609,C0035204,TREATS,Phosphodiesterase 4 Inhibitors,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2980433,C0024141,TREATS,Benlysta,"Lupus Erythematosus, Systemic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987425,C0003872,TREATS,mavrilimumab,"Arthritis, Psoriatic",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987425,C0003873,TREATS,mavrilimumab,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987425,C0038013,TREATS,mavrilimumab,Ankylosing spondylitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987425,C3495559,TREATS,mavrilimumab,Juvenile arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0002874,TREATS,Agonist,Aplastic Anemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0004096,TREATS,Agonist,Asthma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0009663,TREATS,Agonist,Condylomata Acuminata,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0015695,TREATS,Agonist,Fatty Liver,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0020473,TREATS,Agonist,Hyperlipidemia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0040034,TREATS,Agonist,Thrombocytopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0042769,TREATS,Agonist,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0376538,TREATS,Agonist,Porcine Reproductive and Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C2987634,C0398650,TREATS,Agonist,Immune thrombocytopenic purpura,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3152640,C0032768,TREATS,Horizant,Postherpetic neuralgia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3166216,C0011847,TREATS,Prescribed medications,Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3166216,C0011860,TREATS,Prescribed medications,"Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3205287,C0003047,TREATS,Terminator,Animal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3241999,C3495919,TREATS,limited use,Enthesitis-Related Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3487977,C0149725,TREATS,Pelargonium sidoides root extract,Lower respiratory tract infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3489764,C0003873,TREATS,ixekizumab,Rheumatoid Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537104,C0001175,TREATS,Non-nucleoside Reverse Transcriptase Inhibitor,Acquired Immunodeficiency Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537104,C0019693,TREATS,Non-nucleoside Reverse Transcriptase Inhibitor,HIV Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537104,C0276500,TREATS,Non-nucleoside Reverse Transcriptase Inhibitor,Human immunodeficiency virus I infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537161,C0011847,TREATS,Dipeptidyl Peptidase 4 Inhibitor [EPC],Diabetes,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537185,C0017160,TREATS,Bismuth preparation,Gastroenteritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3537185,C1565321,TREATS,Bismuth preparation,Cholera Infantum,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0003047,TREATS,other medicated shampoos in ATC,Animal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0006287,TREATS,other medicated shampoos in ATC,Bronchopulmonary Dysplasia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0013884,TREATS,other medicated shampoos in ATC,Filarial Elephantiases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0021359,TREATS,other medicated shampoos in ATC,Infertility,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0021400,TREATS,other medicated shampoos in ATC,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0022658,TREATS,other medicated shampoos in ATC,Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0023530,TREATS,other medicated shampoos in ATC,Leukopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0024117,TREATS,other medicated shampoos in ATC,Chronic Obstructive Airway Disease,phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C3539125,C0025007,TREATS,other medicated shampoos in ATC,Measles,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0029001,TREATS,other medicated shampoos in ATC,Onchocerciasis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0032285,TREATS,other medicated shampoos in ATC,Pneumonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0032371,TREATS,other medicated shampoos in ATC,Poliomyelitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0035222,TREATS,other medicated shampoos in ATC,"Respiratory Distress Syndrome, Adult",phsu,dsyn,2,TREATS_PHSUtrtsDSYN
+C3539125,C0035920,TREATS,other medicated shampoos in ATC,Rubella,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0040034,TREATS,other medicated shampoos in ATC,Thrombocytopenia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0040592,TREATS,other medicated shampoos in ATC,Trachoma,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0042721,TREATS,other medicated shampoos in ATC,Viral hepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0042769,TREATS,other medicated shampoos in ATC,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0043528,TREATS,other medicated shampoos in ATC,Zoonoses,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0085166,TREATS,other medicated shampoos in ATC,Bacterial Vaginosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0270724,TREATS,other medicated shampoos in ATC,Infantile Neuroaxonal Dystrophy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0275518,TREATS,other medicated shampoos in ATC,Acute infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0276311,TREATS,other medicated shampoos in ATC,Bovine viral diarrhea,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0311376,TREATS,other medicated shampoos in ATC,Zoonotic bacterial disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0751583,TREATS,other medicated shampoos in ATC,"Encephalitis, West Nile Fever",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0856169,TREATS,other medicated shampoos in ATC,endothelial dysfunction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C0872315,TREATS,other medicated shampoos in ATC,"Communicable Diseases, Emerging",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C1336827,TREATS,other medicated shampoos in ATC,Tropical Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C3495919,TREATS,other medicated shampoos in ATC,Enthesitis-Related Arthritis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539125,C4303092,TREATS,other medicated shampoos in ATC,Cystic echinococcosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539957,C0021400,TREATS,opium alkaloids and derivative combination cough suppressants,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3539957,C3241937,TREATS,opium alkaloids and derivative combination cough suppressants,Nonalcoholic Steatohepatitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541308,C0035204,TREATS,Thymus vulgaris whole extract,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541308,C0149514,TREATS,Thymus vulgaris whole extract,Acute bronchitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541969,C0010340,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Critical Illness,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541969,C0016627,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Influenza in Birds,phsu,dsyn,3,TREATS_PHSUtrtsDSYN
+C3541969,C0021400,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541969,C0029342,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Orthomyxoviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541969,C2062441,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Influenza A,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3541969,C2076600,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Influenza due to Influenza A virus subtype H1N1,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3543842,C0018801,TREATS,TONICS,Heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3543842,C0242350,TREATS,TONICS,Erectile dysfunction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3642427,C0040261,TREATS,tavaborole,Onychomycosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653288,C1175175,TREATS,"Proteinase inhibitors, antifibrinolytic",Severe Acute Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653375,C0007222,TREATS,Renin-inhibitors,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653501,C0019372,TREATS,DIRECT ACTING ANTIVIRALS,Herpesviridae Infections,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653501,C1623038,TREATS,DIRECT ACTING ANTIVIRALS,Cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653501,C4288963,TREATS,DIRECT ACTING ANTIVIRALS,Hepatitis C Virus Infection,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653518,C0235446,TREATS,CALCIUM HOMEOSTASIS,Azotemia due to intrarenal disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3653518,C2931826,TREATS,CALCIUM HOMEOSTASIS,Potassium aggravated myotonia,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3668955,C0017178,TREATS,Salvia officinalis whole extract,Gastrointestinal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3827052,C0021400,TREATS,Fludase,Influenza,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3882783,C0151317,TREATS,dasabuvir / ombitasvir / paritaprevir / Ritonavir,Chronic infectious disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C3882783,C1623038,TREATS,dasabuvir / ombitasvir / paritaprevir / Ritonavir,Cirrhosis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4018803,C0035333,TREATS,Antisense Oligonucleotide [EPC],Retinitis,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4020599,C1561643,TREATS,Phosphate Binders,Chronic Kidney Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4033631,C0007222,TREATS,sacubitril / valsartan,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4033631,C0018801,TREATS,sacubitril / valsartan,Heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4033631,C0018802,TREATS,sacubitril / valsartan,Congestive heart failure,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4033631,C0020538,TREATS,sacubitril / valsartan,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4033631,C2960127,TREATS,sacubitril / valsartan,Heart failure with normal ejection fraction,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4043176,C0730328,TREATS,CWP232228,Central Serous Chorioretinopathy,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4045551,C0042900,TREATS,tao hong si wu decoction,Vitiligo,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4267721,C0035222,TREATS,Surfactant replacement,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4271570,C0019196,TREATS,Epclusa,Hepatitis C,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4305807,C0085110,TREATS,LC16M8,Severe Combined Immunodeficiency,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4305982,C1175175,TREATS,R667,Severe Acute Respiratory Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4331423,C0017178,TREATS,Traditional Chinese Medicine Formulation,Gastrointestinal Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4331423,C0024117,TREATS,Traditional Chinese Medicine Formulation,Chronic Obstructive Airway Disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4331423,C0027726,TREATS,Traditional Chinese Medicine Formulation,Nephrotic Syndrome,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4331423,C0035204,TREATS,Traditional Chinese Medicine Formulation,Respiration Disorders,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4331423,C0042769,TREATS,Traditional Chinese Medicine Formulation,Virus Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4505313,C0007222,TREATS,Vasopeptidase Inhibitors,Cardiovascular Diseases,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4505313,C0020538,TREATS,Vasopeptidase Inhibitors,Hypertensive disease,phsu,dsyn,1,TREATS_PHSUtrtsDSYN
+C4519305,C0024530,TREATS,Riamet,Malaria,phsu,dsyn,1,TREATS_PHSUtrtsDSYN

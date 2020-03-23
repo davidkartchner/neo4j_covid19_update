@@ -1,0 +1,113 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0745442,USES,angiogram,Intravenous Catheters,diap,medd,1,USES_DIAPusesMEDD
+C0004339,C0183559,USES,Auscultation,Stethoscopes,diap,medd,1,USES_DIAPusesMEDD
+C0004398,C0175730,USES,Autopsy,biomedical tube device,diap,medd,1,USES_DIAPusesMEDD
+C0004398,C0182098,USES,Autopsy,Otoscopes,diap,medd,1,USES_DIAPusesMEDD
+C0005558,C0016533,USES,Biopsy,Forceps,diap,medd,1,USES_DIAPusesMEDD
+C0005558,C0041158,USES,Biopsy,Trocar,diap,medd,1,USES_DIAPusesMEDD
+C0005558,C0178987,USES,Biopsy,Artificial Airways,diap,medd,1,USES_DIAPusesMEDD
+C0005558,C0493160,USES,Biopsy,"GRINDER, TISSUE",diap,medd,1,USES_DIAPusesMEDD
+C0005834,C0179064,USES,Collection of blood specimen for laboratory procedure,Anesthesia machine,diap,medd,1,USES_DIAPusesMEDD
+C0005834,C0182301,USES,Collection of blood specimen for laboratory procedure,Pipette (physical object),diap,medd,1,USES_DIAPusesMEDD
+C0005834,C0184108,USES,Collection of blood specimen for laboratory procedure,"TUBE, COLLECTION, CAPILLARY BLOOD",diap,medd,1,USES_DIAPusesMEDD
+C0005834,C0581447,USES,Collection of blood specimen for laboratory procedure,Arterial catheter,diap,medd,1,USES_DIAPusesMEDD
+C0005834,C0745442,USES,Collection of blood specimen for laboratory procedure,Intravenous Catheters,diap,medd,1,USES_DIAPusesMEDD
+C0005834,C1883522,USES,Collection of blood specimen for laboratory procedure,Vacutainer,diap,medd,1,USES_DIAPusesMEDD
+C0007723,C0336570,USES,Cephalometry,Measuring tape,diap,medd,1,USES_DIAPusesMEDD
+C0008307,C0183115,USES,Cholangiography,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0008310,C0180565,USES,Endoscopic Retrograde Cholangiopancreatography,Duodenoscopes,diap,medd,1,USES_DIAPusesMEDD
+C0011906,C0600597,USES,Differential Diagnosis,Oligonucleotide Arrays,diap,medd,1,USES_DIAPusesMEDD
+C0013516,C0182400,USES,Echocardiography,Probes,diap,medd,1,USES_DIAPusesMEDD
+C0017195,C0178987,USES,Endoscopy of stomach,Artificial Airways,diap,medd,1,USES_DIAPusesMEDD
+C0024129,C0021102,USES,Lung Volume Measurements,Implants,diap,medd,1,USES_DIAPusesMEDD
+C0024129,C0182319,USES,Lung Volume Measurements,Plethysmograph,diap,medd,1,USES_DIAPusesMEDD
+C0024485,C0183115,USES,Magnetic Resonance Imaging,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0024870,C3882039,USES,Mass Screening,Rectoscope,diap,medd,1,USES_DIAPusesMEDD
+C0027081,C0005978,USES,Myography,Bone Wires,diap,medd,1,USES_DIAPusesMEDD
+C0034107,C1140627,USES,Pulse taking,pulse generators,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0024861,USES,Radionuclide Imaging,Masks,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0179533,USES,Radionuclide Imaging,"Camera, device",diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0180321,USES,Radionuclide Imaging,Densitometer,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0182258,USES,Radionuclide Imaging,Microplate Reader,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0183115,USES,Radionuclide Imaging,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C0183396,USES,Radionuclide Imaging,Mass Spectrometers (device),diap,medd,1,USES_DIAPusesMEDD
+C0034606,C1626420,USES,Radionuclide Imaging,Confocal microscope,diap,medd,1,USES_DIAPusesMEDD
+C0034606,C3873738,USES,Radionuclide Imaging,Laser system,diap,medd,1,USES_DIAPusesMEDD
+C0040395,C0181342,USES,tomography,Injector,diap,medd,1,USES_DIAPusesMEDD
+C0040405,C0183115,USES,X-Ray Computed Tomography,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0040405,C0936234,USES,X-Ray Computed Tomography,Computed Tomography Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0041618,C0182400,USES,Ultrasonography,Probes,diap,medd,1,USES_DIAPusesMEDD
+C0041618,C1258018,USES,Ultrasonography,Microbubbles,diap,medd,1,USES_DIAPusesMEDD
+C0042815,C0024861,USES,Visual Analog Pain Scale,Masks,diap,medd,1,USES_DIAPusesMEDD
+C0087110,C0181813,USES,Treadmill Test,metabolic carts,diap,medd,1,USES_DIAPusesMEDD
+C0150411,C0179630,USES,Analysis of arterial blood gases and pH,Cartridge device,diap,medd,1,USES_DIAPusesMEDD
+C0150866,C0182555,USES,Biopsy of skin procedure,Punch,diap,medd,1,USES_DIAPusesMEDD
+C0184921,C0016533,USES,Excision biopsy,Forceps,diap,medd,1,USES_DIAPusesMEDD
+C0184924,C0182557,USES,Punch biopsy (procedure),"Punches, Biopsy (device)",diap,medd,1,USES_DIAPusesMEDD
+C0189381,C0039142,USES,Bronchial Lavage,Syringes,diap,medd,1,USES_DIAPusesMEDD
+C0199213,C0178987,USES,Physiologic measurement,Artificial Airways,diap,medd,1,USES_DIAPusesMEDD
+C0199236,C0024861,USES,family investigation,Masks,diap,medd,1,USES_DIAPusesMEDD
+C0199747,C2700619,USES,Allergy testing,Test Strip (device),diap,medd,1,USES_DIAPusesMEDD
+C0200000,C0179802,USES,Cystometrogram,Urinary catheter,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0179038,USES,Nuclear medicine procedure,"Analyzer, device",diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0181860,USES,Nuclear medicine procedure,Ultramicrotome,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0182258,USES,Nuclear medicine procedure,Microplate Reader,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0183115,USES,Nuclear medicine procedure,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0183400,USES,Nuclear medicine procedure,spectrophotometer,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0262880,USES,Nuclear medicine procedure,Transmission Electron Microscopes,diap,medd,1,USES_DIAPusesMEDD
+C0203634,C0600364,USES,Nuclear medicine procedure,Biosensors,diap,medd,1,USES_DIAPusesMEDD
+C0260180,C0182568,USES,Pupillometry,Pupillometer,diap,medd,1,USES_DIAPusesMEDD
+C0260285,C0021102,USES,Radio telemetry,Implants,diap,medd,1,USES_DIAPusesMEDD
+C0278372,C1136346,USES,Functional assessment,Protein Arrays,diap,medd,1,USES_DIAPusesMEDD
+C0302357,C0179038,USES,Test of Visual Evoked Responses in Children,"Analyzer, device",diap,medd,1,USES_DIAPusesMEDD
+C0302357,C0180799,USES,Test of Visual Evoked Responses in Children,explorers,diap,medd,1,USES_DIAPusesMEDD
+C0392823,C0178987,USES,Direct examination of larynx,Artificial Airways,diap,medd,1,USES_DIAPusesMEDD
+C0398523,C0027551,USES,Bone marrow aspiration procedure,Needle device,diap,medd,1,USES_DIAPusesMEDD
+C0419358,C0175723,USES,Exploration with a probe,Bands,diap,medd,1,USES_DIAPusesMEDD
+C0419360,C0181839,USES,Slit lamp biomicroscopy (procedure),Microscopes,diap,medd,1,USES_DIAPusesMEDD
+C0436191,C3875892,USES,Velocity measurement,Anemometer,diap,medd,1,USES_DIAPusesMEDD
+C0441633,C0179038,USES,Scanning,"Analyzer, device",diap,medd,1,USES_DIAPusesMEDD
+C0441633,C0492226,USES,Scanning,"SCANNER, FLUORESCENT",diap,medd,1,USES_DIAPusesMEDD
+C0449900,C0179533,USES,Contrast used,"Camera, device",diap,medd,1,USES_DIAPusesMEDD
+C0457575,C0777169,USES,Finger-prick sampling (procedure),Lancet,diap,medd,1,USES_DIAPusesMEDD
+C0497093,C0728990,USES,Sensitivity test,Clinical Use Template,diap,medd,1,USES_DIAPusesMEDD
+C0497093,C0879240,USES,Sensitivity test,Nasal Swabs,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C0016533,USES,Buccal smear procedure,Forceps,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C0181342,USES,Buccal smear procedure,Injector,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C0336630,USES,Buccal smear procedure,Endotracheal tube,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C0725865,USES,Buccal smear procedure,disposable,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C0879240,USES,Buccal smear procedure,Nasal Swabs,diap,medd,1,USES_DIAPusesMEDD
+C0581714,C2945625,USES,Buccal smear procedure,Feeding tube,diap,medd,1,USES_DIAPusesMEDD
+C0596350,C0181839,USES,communicable disease diagnosis (procedure),Microscopes,diap,medd,1,USES_DIAPusesMEDD
+C0596350,C1611676,USES,communicable disease diagnosis (procedure),Thermal Cycler,diap,medd,1,USES_DIAPusesMEDD
+C0596473,C0600364,USES,Early Diagnosis,Biosensors,diap,medd,1,USES_DIAPusesMEDD
+C0596473,C0872077,USES,Early Diagnosis,portable biomedical equipment,diap,medd,1,USES_DIAPusesMEDD
+C0596608,C0182400,USES,gel mobility shift assay,Probes,diap,medd,1,USES_DIAPusesMEDD
+C0596608,C0728990,USES,gel mobility shift assay,Clinical Use Template,diap,medd,1,USES_DIAPusesMEDD
+C0597356,C0600597,USES,rapid diagnosis,Oligonucleotide Arrays,diap,medd,1,USES_DIAPusesMEDD
+C0796357,C0600597,USES,Genetic Variation Analysis,Oligonucleotide Arrays,diap,medd,1,USES_DIAPusesMEDD
+C0796451,C0085104,USES,polymorphism analysis,Drug Delivery Systems,diap,medd,1,USES_DIAPusesMEDD
+C0852695,C0016533,USES,Biopsy of Mucosa,Forceps,diap,medd,1,USES_DIAPusesMEDD
+C0871813,C0472226,USES,medical diagnosis,Blood glucose meters (medical device),diap,medd,1,USES_DIAPusesMEDD
+C0872257,C0600364,USES,rapid technique,Biosensors,diap,medd,1,USES_DIAPusesMEDD
+C0886414,C0687607,USES,Body temperature measurement,"Thermometers, Electronic, Infrared, Ear",diap,medd,1,USES_DIAPusesMEDD
+C1318309,C0441188,USES,Core needle biopsy,Tru-cut needle,diap,medd,1,USES_DIAPusesMEDD
+C1512457,C0183115,USES,High Resolution Computed Tomography,Scanning Systems,diap,medd,1,USES_DIAPusesMEDD
+C1547107,C0179533,USES,Digital microscopy,"Camera, device",diap,medd,1,USES_DIAPusesMEDD
+C1548757,C1314650,USES,"Transport Media, Viral","SUPPLY, NOT OTHERWISE SPECIFIED",diap,medd,1,USES_DIAPusesMEDD
+C1655737,C0182400,USES,cardiac ultrasound,Probes,diap,medd,1,USES_DIAPusesMEDD
+C1962945,C1512629,USES,Radiographic imaging procedure,Imaging Device,diap,medd,1,USES_DIAPusesMEDD
+C1964257,C0005971,USES,Observation - diagnostic procedure,Bone plates,diap,medd,1,USES_DIAPusesMEDD
+C1964257,C0007963,USES,Observation - diagnostic procedure,Charts (device),diap,medd,1,USES_DIAPusesMEDD
+C1964257,C0181839,USES,Observation - diagnostic procedure,Microscopes,diap,medd,1,USES_DIAPusesMEDD
+C1964257,C0262878,USES,Observation - diagnostic procedure,"Microscopes, Electron, Scanning",diap,medd,1,USES_DIAPusesMEDD
+C1964257,C0262880,USES,Observation - diagnostic procedure,Transmission Electron Microscopes,diap,medd,1,USES_DIAPusesMEDD
+C1964257,C1626420,USES,Observation - diagnostic procedure,Confocal microscope,diap,medd,1,USES_DIAPusesMEDD
+C2349125,C2584423,USES,Vibration Response Imaging,Double lumen tracheobronchial tube,diap,medd,1,USES_DIAPusesMEDD
+C2959886,C0180748,USES,Cardiopulmonary Exercise Test,ergometers,diap,medd,1,USES_DIAPusesMEDD
+C3472245,C0180142,USES,Single Photon Emission Computed Tomography Computed Tomography,Gamma counter,diap,medd,1,USES_DIAPusesMEDD
+C3494219,C0182400,USES,Optical Imaging,Probes,diap,medd,1,USES_DIAPusesMEDD
+C3825266,C3881395,USES,Temperature measurements,Rectal probe,diap,medd,1,USES_DIAPusesMEDD
+C3898884,C0728475,USES,High-B-Value Diffusion-Weighted Imaging,ultra,diap,medd,1,USES_DIAPusesMEDD
+C4075962,C0728475,USES,Low dose computed tomography of thorax,ultra,diap,medd,1,USES_DIAPusesMEDD
+C4085887,C0182158,USES,Inspiratory Vital Capacity Test,Pads,diap,medd,1,USES_DIAPusesMEDD

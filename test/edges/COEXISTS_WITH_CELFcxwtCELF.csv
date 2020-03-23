@@ -1,0 +1,222 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003272,C0007587,COEXISTS_WITH,Antibody-Dependent Cellular Cytotoxicity,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C0007587,COEXISTS_WITH,Autophagy,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C0015283,COEXISTS_WITH,Autophagy,Exocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C0162638,COEXISTS_WITH,Autophagy,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C0206431,COEXISTS_WITH,Autophagy,Antigen Presentation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C0599952,COEXISTS_WITH,Autophagy,modulation by virus of host morphology or physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C1156273,COEXISTS_WITH,Autophagy,iron ion homeostasis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C1159455,COEXISTS_WITH,Autophagy,syncytium formation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C1160697,COEXISTS_WITH,Autophagy,non-lytic viral release,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C1326120,COEXISTS_WITH,Autophagy,cell activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C1524026,COEXISTS_WITH,Autophagy,"Metabolic Process, Cellular",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C2611772,COEXISTS_WITH,Autophagy,autophagosome assembly,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C2611918,COEXISTS_WITH,Autophagy,developmental programmed cell death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C2754100,COEXISTS_WITH,Autophagy,neuron death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C3271951,COEXISTS_WITH,Autophagy,macropinocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0004391,C4236733,COEXISTS_WITH,Autophagy,xenophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007582,C0007613,COEXISTS_WITH,Cell Communication,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007586,C0007595,COEXISTS_WITH,Cell Cycle,cell growth,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007586,C0026255,COEXISTS_WITH,Cell Cycle,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007586,C0596290,COEXISTS_WITH,Cell Cycle,Cell Proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007586,C1326474,COEXISTS_WITH,Cell Cycle,vesicle fusion,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007586,C1524026,COEXISTS_WITH,Cell Cycle,"Metabolic Process, Cellular",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C0004391,COEXISTS_WITH,Cell Death,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C0007595,COEXISTS_WITH,Cell Death,cell growth,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C0007613,COEXISTS_WITH,Cell Death,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C0162638,COEXISTS_WITH,Cell Death,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C0333904,COEXISTS_WITH,Cell Death,Karyopyknosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007587,C1155342,COEXISTS_WITH,Cell Death,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007590,C0007595,COEXISTS_WITH,Cell division,cell growth,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007590,C0026255,COEXISTS_WITH,Cell division,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007590,C1160186,COEXISTS_WITH,Cell division,unidirectional conjugation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007590,C3820816,COEXISTS_WITH,Cell division,quiescence,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007595,C0007613,COEXISTS_WITH,cell growth,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007595,C1159918,COEXISTS_WITH,cell growth,T cell selection,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007595,C1516337,COEXISTS_WITH,cell growth,Cell Cycle Phase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C0010813,COEXISTS_WITH,Cell physiology,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C0026255,COEXISTS_WITH,Cell physiology,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C0596290,COEXISTS_WITH,Cell physiology,Cell Proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C0599814,COEXISTS_WITH,Cell physiology,Intracellular Transport,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C0887840,COEXISTS_WITH,Cell physiology,Nuclear Export,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C1155939,COEXISTS_WITH,Cell physiology,cellular component organization,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007613,C1326212,COEXISTS_WITH,Cell physiology,neutrophil apoptotic process,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007620,C0007595,COEXISTS_WITH,Cell Survival,cell growth,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0007620,C2246476,COEXISTS_WITH,Cell Survival,immature T cell proliferation in thymus,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C0007587,COEXISTS_WITH,Cytokinesis,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C0014139,COEXISTS_WITH,Cytokinesis,Endocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C0015283,COEXISTS_WITH,Cytokinesis,Exocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C0162638,COEXISTS_WITH,Cytokinesis,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1157569,COEXISTS_WITH,Cytokinesis,viral translation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1159342,COEXISTS_WITH,Cytokinesis,Secretory Pathway,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1160692,COEXISTS_WITH,Cytokinesis,virus maturation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1160698,COEXISTS_WITH,Cytokinesis,viral budding,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1622911,COEXISTS_WITH,Cytokinesis,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1660003,COEXISTS_WITH,Cytokinesis,protein maturation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1660642,COEXISTS_WITH,Cytokinesis,cellular localization,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C1819371,COEXISTS_WITH,Cytokinesis,endocytic recycling,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C3821014,COEXISTS_WITH,Cytokinesis,viral egress,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010813,C4317072,COEXISTS_WITH,Cytokinesis,virion maturation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0010839,C0010813,COEXISTS_WITH,Cytoplasmic streaming,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0014139,C0206431,COEXISTS_WITH,Endocytosis,Antigen Presentation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0014139,C1159342,COEXISTS_WITH,Endocytosis,Secretory Pathway,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0014139,C1160698,COEXISTS_WITH,Endocytosis,viral budding,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0024426,C0007586,COEXISTS_WITH,Macrophage Activation,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0024426,C0007587,COEXISTS_WITH,Macrophage Activation,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0025251,C0162638,COEXISTS_WITH,Membrane Potentials,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0026255,C0007586,COEXISTS_WITH,Mitosis,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0026255,C0010813,COEXISTS_WITH,Mitosis,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0026255,C0596290,COEXISTS_WITH,Mitosis,Cell Proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0026255,C1155874,COEXISTS_WITH,Mitosis,Cell Cycle Checkpoints,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0026255,C1622911,COEXISTS_WITH,Mitosis,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0031308,C0162638,COEXISTS_WITH,Phagocytosis,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0031308,C1326120,COEXISTS_WITH,Phagocytosis,cell activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0031308,C1523908,COEXISTS_WITH,Phagocytosis,apoptotic cell clearance,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C0004391,COEXISTS_WITH,Signal Transduction,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C0024426,COEXISTS_WITH,Signal Transduction,Macrophage Activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C0031308,COEXISTS_WITH,Signal Transduction,Phagocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C0162638,COEXISTS_WITH,Signal Transduction,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C1155342,COEXISTS_WITH,Signal Transduction,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C1159339,COEXISTS_WITH,Signal Transduction,Protein Secretion,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0037083,C1523936,COEXISTS_WITH,Signal Transduction,cellular biosynthetic process,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0040682,C3814045,COEXISTS_WITH,cell transformation,post-anaphase microtubule array,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0079394,C0007586,COEXISTS_WITH,"Resting Phase, Cell Cycle",Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0004391,COEXISTS_WITH,Apoptosis,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0007582,COEXISTS_WITH,Apoptosis,Cell Communication,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0007586,COEXISTS_WITH,Apoptosis,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0007587,COEXISTS_WITH,Apoptosis,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0010813,COEXISTS_WITH,Apoptosis,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0025251,COEXISTS_WITH,Apoptosis,Membrane Potentials,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0037864,COEXISTS_WITH,Apoptosis,Spermatogenesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C0599952,COEXISTS_WITH,Apoptosis,modulation by virus of host morphology or physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1155342,COEXISTS_WITH,Apoptosis,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1155873,COEXISTS_WITH,Apoptosis,Cell Cycle Arrest,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1326205,COEXISTS_WITH,Apoptosis,Positive Regulation of Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1511002,COEXISTS_WITH,Apoptosis,b cell differentiation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1516334,COEXISTS_WITH,Apoptosis,Cell Cycle Progression,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1523908,COEXISTS_WITH,Apoptosis,apoptotic cell clearance,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1720920,COEXISTS_WITH,Apoptosis,"Membrane Potential, Mitochondrial",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1749565,COEXISTS_WITH,Apoptosis,nuclear morphology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C1816452,COEXISTS_WITH,Apoptosis,mitochondrial depolarization,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C2610958,COEXISTS_WITH,Apoptosis,necroptotic process,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C3546359,COEXISTS_WITH,Apoptosis,pro-apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0162638,C3825288,COEXISTS_WITH,Apoptosis,Cellular signal transduction,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0206431,C0004391,COEXISTS_WITH,Antigen Presentation,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0206431,C0596873,COEXISTS_WITH,Antigen Presentation,lymphocyte proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0206431,C1257986,COEXISTS_WITH,Antigen Presentation,Cross-Presentation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0282636,C0007613,COEXISTS_WITH,Cell Respiration,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0282636,C0031308,COEXISTS_WITH,Cell Respiration,Phagocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0302167,C2755756,COEXISTS_WITH,capping,cellular transcription,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0312860,C0031308,COEXISTS_WITH,"Neutrophil migration, function",Phagocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0544888,C0010813,COEXISTS_WITH,Mitotic arrest,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0596233,C0037083,COEXISTS_WITH,release of sequestered calcium ion into cytoplasm,Signal Transduction,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0596233,C1657605,COEXISTS_WITH,release of sequestered calcium ion into cytoplasm,meiotic cell cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0596290,C0007620,COEXISTS_WITH,Cell Proliferation,Cell Survival,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0596290,C3825288,COEXISTS_WITH,Cell Proliferation,Cellular signal transduction,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0596898,C0004391,COEXISTS_WITH,membrane biogenesis,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0597361,C0599896,COEXISTS_WITH,Receptor Mediated Endocytosis,trafficking,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0597601,C3821071,COEXISTS_WITH,Transcytosis,dendrite extension,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0598953,C1155982,COEXISTS_WITH,retrograde transport,actin filament polymerization,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0598954,C3824048,COEXISTS_WITH,fast axonal transport,neurofibrillary tangle assembly,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0599814,C1524026,COEXISTS_WITH,Intracellular Transport,"Metabolic Process, Cellular",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0678836,C0031308,COEXISTS_WITH,cell recognition,Phagocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0678836,C1523908,COEXISTS_WITH,cell recognition,apoptotic cell clearance,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0815089,C0004391,COEXISTS_WITH,Cell development,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0887837,C0599814,COEXISTS_WITH,Protein Sorting,Intracellular Transport,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C0887839,C1160700,COEXISTS_WITH,Nuclear Import,viral gene expression,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155013,C1515126,COEXISTS_WITH,T cell differentiation,T-Cell Development,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155046,C0007590,COEXISTS_WITH,T-Cell Proliferation,Cell division,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155046,C0206431,COEXISTS_WITH,T-Cell Proliferation,Antigen Presentation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155046,C1155065,COEXISTS_WITH,T-Cell Proliferation,T-Cell Activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155046,C1155229,COEXISTS_WITH,T-Cell Proliferation,Humoral immune response,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155046,C1159807,COEXISTS_WITH,T-Cell Proliferation,natural killer cell mediated cytotoxicity,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155064,C3159139,COEXISTS_WITH,NK Cell Activation,natural killer cell development,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155065,C1155046,COEXISTS_WITH,T-Cell Activation,T-Cell Proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155229,C1817908,COEXISTS_WITH,Humoral immune response,Cellular Immune Response,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155263,C1155080,COEXISTS_WITH,T-helper 2 type immune response,T-helper 1 type immune response,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155342,C0004391,COEXISTS_WITH,cellular response to unfolded protein,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155631,C0026255,COEXISTS_WITH,Chromosome Condensation,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155631,C0162638,COEXISTS_WITH,Chromosome Condensation,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155631,C1622911,COEXISTS_WITH,Chromosome Condensation,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155676,C0026255,COEXISTS_WITH,mitotic spindle organization in nucleus,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155873,C0007591,COEXISTS_WITH,Cell Cycle Arrest,Cell division phases,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155873,C1511002,COEXISTS_WITH,Cell Cycle Arrest,b cell differentiation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155874,C0007586,COEXISTS_WITH,Cell Cycle Checkpoints,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155874,C0007590,COEXISTS_WITH,Cell Cycle Checkpoints,Cell division,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1155874,C1159342,COEXISTS_WITH,Cell Cycle Checkpoints,Secretory Pathway,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156002,C1622501,COEXISTS_WITH,establishment of cell polarity,"Migration, Cell",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156086,C0004391,COEXISTS_WITH,pexophagy,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156126,C0004391,COEXISTS_WITH,vacuole organization,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156182,C0162638,COEXISTS_WITH,membrane disassembly,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156273,C0004391,COEXISTS_WITH,iron ion homeostasis,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1156309,C0010813,COEXISTS_WITH,syncytium formation by plasma membrane fusion,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1158770,C0007586,COEXISTS_WITH,Transcriptional Regulation,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1159342,C0599896,COEXISTS_WITH,Secretory Pathway,trafficking,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1159772,C1159342,COEXISTS_WITH,intracellular protein transport,Secretory Pathway,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160466,C0004391,COEXISTS_WITH,conjugation,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160466,C0599952,COEXISTS_WITH,conjugation,modulation by virus of host morphology or physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160466,C1326277,COEXISTS_WITH,conjugation,organelle fusion,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160466,C2936221,COEXISTS_WITH,conjugation,Entosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160466,C3271951,COEXISTS_WITH,conjugation,macropinocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1160609,C1155939,COEXISTS_WITH,extracellular matrix organization,cellular component organization,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1325417,C0026255,COEXISTS_WITH,vesicle-mediated transport,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1325887,C0014139,COEXISTS_WITH,focal adhesion assembly,Endocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326120,C0007582,COEXISTS_WITH,cell activation,Cell Communication,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326120,C0007613,COEXISTS_WITH,cell activation,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326120,C0008018,COEXISTS_WITH,cell activation,Chemotaxis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326120,C0031308,COEXISTS_WITH,cell activation,Phagocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326230,C2246476,COEXISTS_WITH,T cell homeostasis,immature T cell proliferation in thymus,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1326489,C0015283,COEXISTS_WITH,vesicle docking,Exocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1327414,C0004391,COEXISTS_WITH,cytokine secretion,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1327414,C0206431,COEXISTS_WITH,cytokine secretion,Antigen Presentation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1327415,C0004391,COEXISTS_WITH,interleukin-1 secretion,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1371607,C1155003,COEXISTS_WITH,Increased Extracellular Communication [PE],B-Cell Activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1450027,C1326121,COEXISTS_WITH,Cell Enlargement,astrocyte activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1450355,C1622911,COEXISTS_WITH,Prometaphase,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1512590,C1326154,COEXISTS_WITH,IL18 Signaling Pathway,natural killer cell proliferation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1516334,C0026255,COEXISTS_WITH,Cell Cycle Progression,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1516375,C0007590,COEXISTS_WITH,Cellular Tropism,Cell division,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1517347,C0026255,COEXISTS_WITH,G2-M Cell Cycle Checkpoint,Mitosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1519624,C1326393,COEXISTS_WITH,Transmembrane Transport,Golgi vesicle transport,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1523116,C1155342,COEXISTS_WITH,positive regulation of NF-kappaB transcription factor activity,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1523246,C1622911,COEXISTS_WITH,spindle elongation,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1621812,C1622911,COEXISTS_WITH,Metaphase,Anaphase,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1656379,C0010813,COEXISTS_WITH,actin bundling,Cytokinesis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1656555,C0599952,COEXISTS_WITH,viral entry into host cell,modulation by virus of host morphology or physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1656972,C0596991,COEXISTS_WITH,oligodendrocyte differentiation,myelination,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1658974,C0162638,COEXISTS_WITH,mitochondria-nucleus signaling pathway,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1660642,C0599952,COEXISTS_WITH,cellular localization,modulation by virus of host morphology or physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1660749,C0162638,COEXISTS_WITH,localization within cell,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1660771,C0007587,COEXISTS_WITH,Apoptosis of neurons,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1720920,C0162638,COEXISTS_WITH,"Membrane Potential, Mitochondrial",Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1816452,C1720920,COEXISTS_WITH,mitochondrial depolarization,"Membrane Potential, Mitochondrial",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1820119,C0004391,COEXISTS_WITH,Mitochondrial Degradation,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1820119,C0007590,COEXISTS_WITH,Mitochondrial Degradation,Cell division,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C1820119,C3494415,COEXISTS_WITH,Mitochondrial Degradation,Mitochondrial Dynamics,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2262820,C1720920,COEXISTS_WITH,membrane hyperpolarization,"Membrane Potential, Mitochondrial",celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2610414,C0014139,COEXISTS_WITH,transdifferentiation,Endocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2610698,C1155342,COEXISTS_WITH,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2610958,C0162638,COEXISTS_WITH,necroptotic process,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2610960,C0007587,COEXISTS_WITH,Pyroptosis,Cell Death,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2611772,C0004391,COEXISTS_WITH,autophagosome assembly,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2611772,C1326120,COEXISTS_WITH,autophagosome assembly,cell activation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2612729,C0887839,COEXISTS_WITH,cellular protein localization,Nuclear Import,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2753244,C0007613,COEXISTS_WITH,membrane organization,Cell physiology,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2754100,C0162638,COEXISTS_WITH,neuron death,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2755558,C1160698,COEXISTS_WITH,membrane fission,viral budding,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C2755756,C2611812,COEXISTS_WITH,cellular transcription,signaling cascade,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3158384,C0004391,COEXISTS_WITH,neurite outgrowth,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3178834,C1155872,COEXISTS_WITH,G1 Cell Cycle Arrest,Cell Cycle Control,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3178864,C0007586,COEXISTS_WITH,Intra-S Checkpoints,Cell Cycle,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3269125,C3271950,COEXISTS_WITH,ruffle assembly,micropinocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3271724,C1515126,COEXISTS_WITH,basal signaling,T-Cell Development,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3494415,C0162638,COEXISTS_WITH,Mitochondrial Dynamics,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3544373,C0014139,COEXISTS_WITH,vesicle scission,Endocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3544385,C0004391,COEXISTS_WITH,pro-survival,Autophagy,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3544385,C1155342,COEXISTS_WITH,pro-survival,cellular response to unfolded protein,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3548489,C2611772,COEXISTS_WITH,autophagosome maturation,autophagosome assembly,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3820502,C0162638,COEXISTS_WITH,caspase-independent cell death,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C3893391,C0007590,COEXISTS_WITH,microtubule formation,Cell division,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C4231795,C0596286,COEXISTS_WITH,lysosomal proteolysis,Cell Growth Regulation,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C4235041,C0162638,COEXISTS_WITH,blebbing,Apoptosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF
+C4235041,C3271950,COEXISTS_WITH,blebbing,micropinocytosis,celf,celf,1,COEXISTS_WITH_CELFcxwtCELF

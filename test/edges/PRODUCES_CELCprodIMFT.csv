@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0376613,PRODUCES,Plasma membrane,"Vaccines, DNA",celc,imft,1,PRODUCES_CELCprodIMFT
+C0008266,C0042210,PRODUCES,Chloroplasts,Vaccines,celc,imft,1,PRODUCES_CELCprodIMFT
+C0008266,C0887902,PRODUCES,Chloroplasts,"Vaccines, Edible",celc,imft,1,PRODUCES_CELCprodIMFT
+C0035553,C0003316,PRODUCES,Ribosomes,Epitopes,celc,imft,1,PRODUCES_CELCprodIMFT
+C0042760,C0003342,PRODUCES,Virion,"Antigens, Viral",celc,imft,1,PRODUCES_CELCprodIMFT
+C0042760,C0042210,PRODUCES,Virion,Vaccines,celc,imft,1,PRODUCES_CELCprodIMFT
+C0042760,C1311943,PRODUCES,Virion,FluMist,celc,imft,1,PRODUCES_CELCprodIMFT
+C0206524,C0042210,PRODUCES,Plastids,Vaccines,celc,imft,1,PRODUCES_CELCprodIMFT
+C0333785,C0041361,PRODUCES,Virus-like particles,Tumor Antigens,celc,imft,1,PRODUCES_CELCprodIMFT
+C0333785,C0042210,PRODUCES,Virus-like particles,Vaccines,celc,imft,1,PRODUCES_CELCprodIMFT
+C0333785,C0121459,PRODUCES,Virus-like particles,Hepatitis C Antigens,celc,imft,1,PRODUCES_CELCprodIMFT
+C0333785,C1624746,PRODUCES,Virus-like particles,Ebola virus Ag,celc,imft,1,PRODUCES_CELCprodIMFT
+C0699040,C1883036,PRODUCES,Cell surface,Single-Chain Antibodies,celc,imft,1,PRODUCES_CELCprodIMFT
+C1749467,C1883036,PRODUCES,soluble,Single-Chain Antibodies,celc,imft,1,PRODUCES_CELCprodIMFT
+C2350307,C0376613,PRODUCES,Cell-Derived Microparticles,"Vaccines, DNA",celc,imft,1,PRODUCES_CELCprodIMFT
+C2350307,C0456981,PRODUCES,Cell-Derived Microparticles,Specific antigen,celc,imft,1,PRODUCES_CELCprodIMFT
+C2350423,C0042742,PRODUCES,Gemini of Coiled Bodies,Viral Vaccines,celc,imft,1,PRODUCES_CELCprodIMFT

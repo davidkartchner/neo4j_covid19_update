@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003316,C0597551,CONVERTS_TO,Epitopes,synthetic peptide,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0003342,C0003313,CONVERTS_TO,"Antigens, Viral",Immune complex,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0005457,C0597551,CONVERTS_TO,"Binding Sites, Antibody",synthetic peptide,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0042210,C0003241,CONVERTS_TO,Vaccines,Antibodies,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0042210,C0021027,CONVERTS_TO,Vaccines,Immunoglobulins,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0042210,C1419141,CONVERTS_TO,Vaccines,PVR gene,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C0599597,C0597094,CONVERTS_TO,genetic vaccine,nuclease,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C1320124,C0597551,CONVERTS_TO,Malaria antigen,synthetic peptide,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C1883036,C0003241,CONVERTS_TO,Single-Chain Antibodies,Antibodies,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C1883036,C0003250,CONVERTS_TO,Single-Chain Antibodies,Monoclonal Antibodies,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C1883036,C0010590,CONVERTS_TO,Single-Chain Antibodies,Cycloserine,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C2825347,C0003241,CONVERTS_TO,"Immunoglobulin A, Human",Antibodies,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP
+C4282212,C0051979,CONVERTS_TO,IgG.serum,anti-IgG,imft,aapp,1,CONVERTS_TO_IMFTcvttAAPP

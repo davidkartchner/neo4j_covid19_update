@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012238,C0678723,NEG_AFFECTS,Digestion,Biologic Development,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF
+C0018270,C0000934,NEG_AFFECTS,Growth,Acclimatization,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF
+C0026649,C0042774,NEG_AFFECTS,Movement,Virus Replication,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF
+C0042774,C0018270,NEG_AFFECTS,Virus Replication,Growth,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF
+C0301872,C0042774,NEG_AFFECTS,Immune response,Virus Replication,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF
+C1819436,C0042774,NEG_AFFECTS,interleukin-1 production,Virus Replication,orgf,orgf,1,NEG_AFFECTS_ORGFnafctORGF

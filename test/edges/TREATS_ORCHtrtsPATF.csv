@@ -1,0 +1,200 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C3714514,TREATS,Acetaminophen,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0001392,C3714514,TREATS,Adamantane,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0001927,C0020461,TREATS,Albuterol,Hyperkalemia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0001962,C0036679,TREATS,Ethanol,Diastasis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0001962,C3714514,TREATS,Ethanol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002144,C0022650,TREATS,Allopurinol,Kidney Calculi,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002144,C2004491,TREATS,Allopurinol,Cicatrix,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002403,C3714514,TREATS,Amantadine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002556,C0036983,TREATS,Aminoglycosides,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002598,C0003811,TREATS,Amiodarone,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002598,C0004238,TREATS,Amiodarone,Atrial Fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002598,C0042514,TREATS,Amiodarone,"Tachycardia, Ventricular",orch,patf,1,TREATS_ORCHtrtsPATF
+C0002598,C0085612,TREATS,Amiodarone,Ventricular arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0002598,C0235480,TREATS,Amiodarone,Paroxysmal atrial fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0003695,C0021368,TREATS,Arachidonic Acid,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0003968,C0151763,TREATS,Ascorbic Acid,Liver damage,orch,patf,1,TREATS_ORCHtrtsPATF
+C0005117,C0021368,TREATS,Berberine,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0005304,C0016059,TREATS,Betaine,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0006644,C0020517,TREATS,Caffeine,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0006809,C0021368,TREATS,Camphor,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0006863,C3714514,TREATS,Cannabidiol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0006864,C0021368,TREATS,Cannabinoids,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0006931,C0021368,TREATS,Capsaicin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0007004,C3714514,TREATS,Carbohydrates,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0007158,C0003811,TREATS,Cardiac Glycosides,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0008269,C0012359,TREATS,Chloroquine,Pathological Dilatation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0008269,C0242648,TREATS,Chloroquine,Vertical Disease Transmission,orch,patf,1,TREATS_ORCHtrtsPATF
+C0008269,C3714514,TREATS,Chloroquine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0008286,C0020517,TREATS,Chlorpromazine,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0008809,C3714514,TREATS,Ciprofloxacin,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0009008,C0021361,TREATS,Clomiphene,Female infertility,orch,patf,2,TREATS_ORCHtrtsPATF
+C0010460,C0011304,TREATS,Cuprizone,Demyelination,orch,patf,1,TREATS_ORCHtrtsPATF
+C0010460,C0020507,TREATS,Cuprizone,Hyperplasia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0010460,C0020564,TREATS,Cuprizone,Hypertrophy,orch,patf,1,TREATS_ORCHtrtsPATF
+C0010583,C0020517,TREATS,Cyclophosphamide,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0012265,C0003811,TREATS,Digoxin,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0012265,C3714514,TREATS,Digoxin,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0012373,C0003811,TREATS,Diltiazem,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0014996,C0020517,TREATS,Ethers,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0016229,C0004238,TREATS,Flecainide,Atrial Fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0016229,C2585653,TREATS,Flecainide,Persistent atrial fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0016576,C0700185,TREATS,formic acid,Decalcification,orch,patf,1,TREATS_ORCHtrtsPATF
+C0020402,C0020517,TREATS,hydroxyurea,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0022237,C0036679,TREATS,Isopropyl Alcohol,Diastasis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023556,C0151692,TREATS,Levamisole,Impaired wound healing,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023556,C3714514,TREATS,Levamisole,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023660,C0042514,TREATS,Lidocaine,"Tachycardia, Ventricular",orch,patf,1,TREATS_ORCHtrtsPATF
+C0023810,C0020517,TREATS,Lipopolysaccharides,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023810,C0021368,TREATS,Lipopolysaccharides,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023810,C0332448,TREATS,Lipopolysaccharides,Infiltration,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023810,C1398094,TREATS,Lipopolysaccharides,induced; birth,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023810,C2911645,TREATS,Lipopolysaccharides,Weight Loss Adverse Event,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023828,C0028778,TREATS,Liposomes,Obstruction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0024730,C0006114,TREATS,Mannitol,Cerebral Edema,orch,patf,1,TREATS_ORCHtrtsPATF
+C0025746,C0036983,TREATS,Methylene blue,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
+C0025859,C2911645,TREATS,Metoprolol,Weight Loss Adverse Event,orch,patf,1,TREATS_ORCHtrtsPATF
+C0026534,C3714514,TREATS,Morantel,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0028908,C3714514,TREATS,Oils,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0029904,C0003811,TREATS,Ouabain,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0029904,C0004238,TREATS,Ouabain,Atrial Fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0030899,C0036982,TREATS,Pentoxifylline,"Shock, Hemorrhagic",orch,patf,1,TREATS_ORCHtrtsPATF
+C0031406,C0018188,TREATS,Phenindione,Granuloma,orch,patf,1,TREATS_ORCHtrtsPATF
+C0031463,C0021368,TREATS,Phenylbutazone,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0031623,C0028778,TREATS,Phosphatidylserines,Obstruction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0032594,C0020517,TREATS,Polysaccharides,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0032594,C1520005,TREATS,Polysaccharides,Viral Pathogenesis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0032857,C0043241,TREATS,Povidone-Iodine,Wound Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0032857,C0333355,TREATS,Povidone-Iodine,Inflammatory disease of mucous membrane,orch,patf,1,TREATS_ORCHtrtsPATF
+C0033487,C0151526,TREATS,Propofol,Premature Birth,orch,patf,1,TREATS_ORCHtrtsPATF
+C0033497,C3714514,TREATS,Propranolol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034235,C3714514,TREATS,Pyrantel,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034266,C0011304,TREATS,Pyridoxal Phosphate,Demyelination,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034392,C0021368,TREATS,Quercetin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034392,C0021655,TREATS,Quercetin,Insulin Resistance,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034392,C0332448,TREATS,Quercetin,Infiltration,orch,patf,1,TREATS_ORCHtrtsPATF
+C0034415,C0546959,TREATS,Quinidine Sulfate,Atrial tachycardia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0035179,C3714514,TREATS,Reserpine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0035629,C3714514,TREATS,Rimantadine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0037025,C3714514,TREATS,Sialic Acids,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0037707,C0151636,TREATS,Sotalol,Premature ventricular contractions,orch,patf,1,TREATS_ORCHtrtsPATF
+C0038317,C0021368,TREATS,Steroids,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0038317,C0036983,TREATS,Steroids,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
+C0038880,C0036974,TREATS,Suramin,Shock,orch,patf,1,TREATS_ORCHtrtsPATF
+C0038880,C1510411,TREATS,Suramin,metaplastic cell transformation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0039315,C0028778,TREATS,Tars,Obstruction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0039315,C1520005,TREATS,Tars,Viral Pathogenesis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0040613,C2937358,TREATS,Tranexamic Acid,Cerebral Hemorrhage,orch,patf,1,TREATS_ORCHtrtsPATF
+C0041175,C0024348,TREATS,Tromethamine,Lysis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0041175,C0028778,TREATS,Tromethamine,Obstruction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0041417,C0020517,TREATS,Tween 80,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0042874,C0020517,TREATS,Vitamin E,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0047895,C0020517,TREATS,4-(2-aminoethyl)benzenesulfonylfluoride,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0051561,C0021368,TREATS,amentoflavone,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0052573,C0016059,TREATS,astragalin,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0052573,C0333390,TREATS,astragalin,Chronic eosinophilic inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0052573,C1155266,TREATS,astragalin,inflammatory response,orch,patf,1,TREATS_ORCHtrtsPATF
+C0053509,C0021368,TREATS,beta-thujone,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0054053,C0011304,TREATS,brilliant green,Demyelination,orch,patf,1,TREATS_ORCHtrtsPATF
+C0054838,C0021368,TREATS,caryophyllene,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0058282,C0520863,TREATS,diminazene aceturate,Diastolic dysfunction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0060083,C0011304,TREATS,Fast Blue,Demyelination,orch,patf,1,TREATS_ORCHtrtsPATF
+C0061751,C0020517,TREATS,Glycyrrhizic Acid,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0061751,C0349725,TREATS,Glycyrrhizic Acid,Graft infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0063034,C0242781,TREATS,huperzine B,disease transmission,orch,patf,1,TREATS_ORCHtrtsPATF
+C0064368,C0232483,TREATS,"O,O-diisopropyl-S-benzylthiophosphate",Reflux,orch,patf,1,TREATS_ORCHtrtsPATF
+C0065751,C0003811,TREATS,matrine,Cardiac Arrhythmia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0066776,C0020517,TREATS,monophosphoryl lipid A,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0068788,C3714514,TREATS,nitazoxanide,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0071097,C0016059,TREATS,pioglitazone,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0071097,C0151763,TREATS,pioglitazone,Liver damage,orch,patf,1,TREATS_ORCHtrtsPATF
+C0071286,C0021368,TREATS,plumbagin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073096,C0021368,TREATS,resveratrol,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073096,C0021655,TREATS,resveratrol,Insulin Resistance,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073096,C3714514,TREATS,resveratrol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073561,C0035228,TREATS,Rolipram,Respiratory Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073591,C0021368,TREATS,rosoxacin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0073591,C3714514,TREATS,rosoxacin,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0074176,C0086565,TREATS,schizandrin C,Liver Dysfunction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0074992,C3714514,TREATS,sphingosine 1-phosphate,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0075810,C0007820,TREATS,tanshinone,Cerebrovascular Disorders,orch,patf,1,TREATS_ORCHtrtsPATF
+C0075857,C1704489,TREATS,tauroursodeoxycholic acid,Extended Rotated Sidebent,orch,patf,1,TREATS_ORCHtrtsPATF
+C0076379,C0021368,TREATS,theaflavin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0076840,C0013604,TREATS,torsemide,Edema,orch,patf,1,TREATS_ORCHtrtsPATF
+C0076992,C0152254,TREATS,triacsin C,Fatty degeneration,orch,patf,1,TREATS_ORCHtrtsPATF
+C0077536,C0020517,TREATS,tylophorine,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0085752,C1155266,TREATS,Adriamycin,inflammatory response,orch,patf,1,TREATS_ORCHtrtsPATF
+C0116569,C0036983,TREATS,esmolol,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
+C0117996,C0021368,TREATS,Fluticasone propionate,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0126174,C0016059,TREATS,Losartan,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0126174,C0151701,TREATS,Losartan,Pulmonary hemorrhage,orch,patf,1,TREATS_ORCHtrtsPATF
+C0128513,C1155266,TREATS,Milrinone,inflammatory response,orch,patf,1,TREATS_ORCHtrtsPATF
+C0134258,C0700148,TREATS,Xylometazoline hydrochloride,Congestion,orch,patf,1,TREATS_ORCHtrtsPATF
+C0134337,C0020517,TREATS,oxatomide,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0142831,C0021368,TREATS,sodium dehydroacetate,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0144576,C0016059,TREATS,Paclitaxel,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0162969,C0035228,TREATS,Chitosan,Respiratory Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0169014,C0027686,TREATS,erucylphosphocholine,Pathologic Neovascularization,orch,patf,1,TREATS_ORCHtrtsPATF
+C0216660,C3714514,TREATS,Zanamivir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0246904,C0036974,TREATS,Levosimendan,Shock,orch,patf,2,TREATS_ORCHtrtsPATF
+C0246904,C0036980,TREATS,Levosimendan,"Shock, Cardiogenic",orch,patf,1,TREATS_ORCHtrtsPATF
+C0246904,C0340515,TREATS,Levosimendan,Myocardial dysfunction,orch,patf,1,TREATS_ORCHtrtsPATF
+C0254211,C3714514,TREATS,arbidol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0281643,C3714514,TREATS,incomplete Freund's adjuvant,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0282563,C0476474,TREATS,Macrolides,persistent fever,orch,patf,1,TREATS_ORCHtrtsPATF
+C0282563,C3714514,TREATS,Macrolides,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0292818,C3714514,TREATS,Ritonavir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0297199,C0003130,TREATS,PO-2,Anoxia,orch,patf,1,TREATS_ORCHtrtsPATF
+C0297666,C0020517,TREATS,SB 203580,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0298067,C0016059,TREATS,pirfenidone,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C0298130,C0021368,TREATS,montelukast,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0302609,C0022650,TREATS,Xanthine Oxidase Inhibitors,Kidney Calculi,orch,patf,1,TREATS_ORCHtrtsPATF
+C0360714,C0004238,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Atrial Fibrillation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0360714,C3714514,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0376637,C3714514,TREATS,Indinavir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0388088,C0011304,TREATS,FTY-720,Demyelination,orch,patf,2,TREATS_ORCHtrtsPATF
+C0388088,C0021368,TREATS,FTY-720,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0388088,C0235029,TREATS,FTY-720,neurological complication,orch,patf,1,TREATS_ORCHtrtsPATF
+C0440015,C0013604,TREATS,Dandelion Extract,Edema,orch,patf,1,TREATS_ORCHtrtsPATF
+C0525678,C0032227,TREATS,rasagiline,Pleural effusion disorder,orch,patf,1,TREATS_ORCHtrtsPATF
+C0592024,C0041582,TREATS,Pylorid,Ulcer,orch,patf,1,TREATS_ORCHtrtsPATF
+C0631225,C3714514,TREATS,patchouli alcohol,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0637040,C0021655,TREATS,"tetrahydrobenzo-4,6-dimethylangelicin",Insulin Resistance,orch,patf,1,TREATS_ORCHtrtsPATF
+C0674432,C3714514,TREATS,lopinavir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0723179,C2699153,TREATS,SSD,Cell Invasion,orch,patf,1,TREATS_ORCHtrtsPATF
+C0728774,C0015376,TREATS,Vaseline,Extravasation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0752270,C3714514,TREATS,Echinacea Preparation,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0771683,C0021368,TREATS,undecan-2-one,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C0772037,C0041582,TREATS,ROSE HIPS,Ulcer,orch,patf,1,TREATS_ORCHtrtsPATF
+C0874161,C0020517,TREATS,Oseltamivir,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C0874161,C0162633,TREATS,Oseltamivir,Viral Shedding,orch,patf,1,TREATS_ORCHtrtsPATF
+C0874161,C0233315,TREATS,Oseltamivir,Premature birth of newborn,orch,patf,1,TREATS_ORCHtrtsPATF
+C0874161,C0333355,TREATS,Oseltamivir,Inflammatory disease of mucous membrane,orch,patf,1,TREATS_ORCHtrtsPATF
+C0874161,C3714514,TREATS,Oseltamivir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0885297,C0302158,TREATS,"Eosinum, eosin, Homeopathic preparation",Leucocytic infiltrate,orch,patf,1,TREATS_ORCHtrtsPATF
+C0949665,C3714514,TREATS,Fluoroquinolones,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C1138226,C3714514,TREATS,favipiravir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C1176309,C0020517,TREATS,bortezomib,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C1328819,C1520005,TREATS,Small Molecule,Viral Pathogenesis,orch,patf,1,TREATS_ORCHtrtsPATF
+C1328819,C3714514,TREATS,Small Molecule,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C1565750,C0152254,TREATS,sitagliptin,Fatty degeneration,orch,patf,1,TREATS_ORCHtrtsPATF
+C1675326,C3714514,TREATS,peramivir,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C1676720,C0021368,TREATS,yu ping feng san,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
+C1721377,C0016059,TREATS,nilotinib,Fibrosis,orch,patf,1,TREATS_ORCHtrtsPATF
+C1958300,C1264521,TREATS,veliparib,Effects of chemotherapy,orch,patf,1,TREATS_ORCHtrtsPATF
+C2350985,C2911645,TREATS,ER-319711,Weight Loss Adverse Event,orch,patf,1,TREATS_ORCHtrtsPATF
+C2728259,C0020517,TREATS,Program,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C2728259,C0024348,TREATS,Program,Lysis,orch,patf,1,TREATS_ORCHtrtsPATF
+C2728259,C0242781,TREATS,Program,disease transmission,orch,patf,1,TREATS_ORCHtrtsPATF
+C2728259,C3714514,TREATS,Program,Infection,orch,patf,2,TREATS_ORCHtrtsPATF
+C2926735,C0020517,TREATS,Duration,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C2926735,C0162633,TREATS,Duration,Viral Shedding,orch,patf,1,TREATS_ORCHtrtsPATF
+C2926735,C3714514,TREATS,Duration,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C2937289,C0020517,TREATS,Adapt (substance),Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C3252090,C0020517,TREATS,daclatasvir,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
+C3661133,C0030660,TREATS,ESI-09,Pathologic Processes,orch,patf,1,TREATS_ORCHtrtsPATF
+C3852512,C0022346,TREATS,dasabuvir,Icterus,orch,patf,1,TREATS_ORCHtrtsPATF
+C4050026,C0036679,TREATS,Matrix,Diastasis,orch,patf,1,TREATS_ORCHtrtsPATF
+C4050026,C3714514,TREATS,Matrix,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C4319834,C3714514,TREATS,B-cell lymphoma 2 inhibitor,Infection,orch,patf,1,TREATS_ORCHtrtsPATF

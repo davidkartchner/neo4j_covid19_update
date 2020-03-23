@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012476,C0028630,ISA,Dinucleoside Phosphates,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0028948,C0028630,ISA,Oligodeoxyribonucleotides,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0028948,C0028953,ISA,Oligodeoxyribonucleotides,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0028953,C0028630,ISA,Oligonucleotides,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0032416,C0028630,ISA,Poly T,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0034136,C0028621,ISA,Purine Nucleosides,Nucleosides,nnon,nnon,1,ISA_NNONisaNNON
+C0035736,C0028630,ISA,"RNA, Viral",Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0045143,C0028630,ISA,"2',5'-oligoadenylate",Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0045186,C0028630,ISA,2'-deoxyadenosine triphosphate,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0045228,C0028630,ISA,2'-O-methylguanosine,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0049092,C0028621,ISA,5-carbamoylmethyluridine,Nucleosides,nnon,nnon,1,ISA_NNONisaNNON
+C0049935,C0012476,ISA,7-methyl-diguanosine triphosphate,Dinucleoside Phosphates,nnon,nnon,1,ISA_NNONisaNNON
+C0049942,C0028630,ISA,7-methylguanosine,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0050078,C0011503,ISA,8-oxo-7-hydrodeoxyguanosine,Deoxyguanosine,nnon,nnon,1,ISA_NNONisaNNON
+C0053697,C0035548,ISA,"bis(3',5')-cyclic diguanylic acid",Ribonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0057441,C0028630,ISA,deoxyinosine,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0057470,C0028630,ISA,deoxyuridine triphosphate,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0057684,C0028630,ISA,diadenosine tetraphosphate,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0061994,C0012476,ISA,guanylyl-(3'-5')-guanosine,Dinucleoside Phosphates,nnon,nnon,1,ISA_NNONisaNNON
+C0067182,C0035546,ISA,N(4)-hydroxycytidine,Ribonucleosides,nnon,nnon,1,ISA_NNONisaNNON
+C0077901,C0012476,ISA,uridylyl-(3'-5')-adenosine,Dinucleoside Phosphates,nnon,nnon,1,ISA_NNONisaNNON
+C0078976,C0028630,ISA,Antisense Probes,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0164135,C0012476,ISA,uridylyl-(3'-5')-guanosine,Dinucleoside Phosphates,nnon,nnon,1,ISA_NNONisaNNON
+C0164135,C0028630,ISA,uridylyl-(3'-5')-guanosine,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0167195,C0597101,ISA,8-oxoguanine,nucleobase,nnon,nnon,1,ISA_NNONisaNNON
+C0206415,C0028630,ISA,Oligonucleotide Primers,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0206415,C0028953,ISA,Oligonucleotide Primers,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0217154,C0028953,ISA,thrombin aptamer,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0381956,C0597101,ISA,8-nitroguanine,nucleobase,nnon,nnon,1,ISA_NNONisaNNON
+C0599013,C0028630,ISA,aptamer,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0600500,C0028953,ISA,Peptide Nucleic Acids,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C0887909,C0028630,ISA,"RNA, Untranslated",Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C1311713,C0028630,ISA,locked nucleic acid,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C1567953,C0028953,ISA,DNA Aptamers,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C1567954,C0028953,ISA,RNA Aptamers,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C1744513,C1741114,ISA,AS1411,AGRO 100,nnon,nnon,1,ISA_NNONisaNNON
+C1881903,C0028953,ISA,Morpholinos,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C1955881,C0599651,ISA,Dideoxynucleotide Triphosphates,Dideoxynucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C2930586,C0028953,ISA,Short Hairpin RNA,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C2930586,C2936494,ISA,Short Hairpin RNA,"RNA, Small Untranslated",nnon,nnon,1,ISA_NNONisaNNON
+C2936494,C0028630,ISA,"RNA, Small Untranslated",Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C2982391,C0028630,ISA,Long Intergenic Non-Protein Coding RNA,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C2982391,C0887909,ISA,Long Intergenic Non-Protein Coding RNA,"RNA, Untranslated",nnon,nnon,1,ISA_NNONisaNNON
+C3272452,C0028630,ISA,Single-Stranded RNA,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C3272452,C0032550,ISA,Single-Stranded RNA,Polynucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C3272453,C0028630,ISA,Genomic DNA,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C3537372,C0028630,ISA,Bacterial 16S RNA,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C3641123,C0028953,ISA,NOX-H94,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C3830308,C0887909,ISA,Epstein-Barr Virus Early RNA,"RNA, Untranslated",nnon,nnon,1,ISA_NNONisaNNON
+C3830537,C0028630,ISA,Deoxyribonucleotide Triphosphate,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C4277666,C0028630,ISA,Antagomirs,Nucleotides,nnon,nnon,1,ISA_NNONisaNNON
+C4277666,C0028953,ISA,Antagomirs,Oligonucleotides,nnon,nnon,1,ISA_NNONisaNNON

@@ -1,0 +1,301 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003962,C0032227,COEXISTS_WITH,Ascites,Pleural effusion disorder,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0010840,C0332448,COEXISTS_WITH,Vacuolation,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0010840,C0333467,COEXISTS_WITH,Vacuolation,Cytopathic effect,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0013491,C4061114,COEXISTS_WITH,Ecchymosis,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0015663,C3714514,COEXISTS_WITH,Fasting,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0015663,C4061114,COEXISTS_WITH,Fasting,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0001349,COEXISTS_WITH,Hemorrhage,Acute-Phase Reaction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0013604,COEXISTS_WITH,Hemorrhage,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0014591,COEXISTS_WITH,Hemorrhage,Epistaxis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0015376,COEXISTS_WITH,Hemorrhage,Extravasation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0021368,COEXISTS_WITH,Hemorrhage,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0333197,COEXISTS_WITH,Hemorrhage,Fibrin blood clot,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0333276,COEXISTS_WITH,Hemorrhage,Acute hemorrhage,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C0333563,COEXISTS_WITH,Hemorrhage,Hyaline membrane,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0019080,C3714514,COEXISTS_WITH,Hemorrhage,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0020649,C0036974,COEXISTS_WITH,Hypotension,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0020649,C0036983,COEXISTS_WITH,Hypotension,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C0020517,COEXISTS_WITH,Problem,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C0021376,COEXISTS_WITH,Problem,Chronic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C0028778,COEXISTS_WITH,Problem,Obstruction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C0242781,COEXISTS_WITH,Problem,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C1520005,COEXISTS_WITH,Problem,Viral Pathogenesis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0033213,C3714514,COEXISTS_WITH,Problem,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0037420,C0242781,COEXISTS_WITH,Social Interaction,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0018188,COEXISTS_WITH,Stress,Granuloma,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0020564,COEXISTS_WITH,Stress,Hypertrophy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0021368,COEXISTS_WITH,Stress,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0021376,COEXISTS_WITH,Stress,Chronic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0030660,COEXISTS_WITH,Stress,Pathologic Processes,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0036983,COEXISTS_WITH,Stress,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C0333976,COEXISTS_WITH,Stress,Bilateral hyperplasia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038435,C1155266,COEXISTS_WITH,Stress,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0038999,C0301943,COEXISTS_WITH,Swelling,Graft reaction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0043094,C0021368,COEXISTS_WITH,Weight Gain,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0043094,C3714514,COEXISTS_WITH,Weight Gain,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0085639,C0020517,COEXISTS_WITH,Falls,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0085639,C0162633,COEXISTS_WITH,Falls,Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0086972,C0036974,COEXISTS_WITH,Separated from cohabitee,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0150598,C0026766,COEXISTS_WITH,Sets goals,Multiple Organ Failure,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0151578,C0151746,COEXISTS_WITH,Creatinine increased,Abnormal renal function,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0151683,C0023518,COEXISTS_WITH,Neutrophilia (finding),Leukocytosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0151878,C0085612,COEXISTS_WITH,Prolonged QT interval,Ventricular arrhythmia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0184522,C0036983,COEXISTS_WITH,Cardiovascular system alteration,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0205400,C0016059,COEXISTS_WITH,Thickened,Fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0205400,C0020507,COEXISTS_WITH,Thickened,Hyperplasia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0205400,C0332448,COEXISTS_WITH,Thickened,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0205400,C0333390,COEXISTS_WITH,Thickened,Chronic eosinophilic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0206076,C0242656,COEXISTS_WITH,Reproductive History,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C0011304,COEXISTS_WITH,Lesion,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C0018188,COEXISTS_WITH,Lesion,Granuloma,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C0020507,COEXISTS_WITH,Lesion,Hyperplasia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C0332448,COEXISTS_WITH,Lesion,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C0333276,COEXISTS_WITH,Lesion,Acute hemorrhage,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221198,C3714514,COEXISTS_WITH,Lesion,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0221204,C0020517,COEXISTS_WITH,Lytic lesion,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231162,C0003130,COEXISTS_WITH,Normal general body function,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231221,C3714514,COEXISTS_WITH,Asymptomatic,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231224,C0036974,COEXISTS_WITH,Crisis,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231224,C0242781,COEXISTS_WITH,Crisis,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231337,C1516670,COEXISTS_WITH,Senility,Clonal Expansion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231337,C3714514,COEXISTS_WITH,Senility,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231360,C3714514,COEXISTS_WITH,Elimination pattern,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231911,C3714514,COEXISTS_WITH,Paroxysmal cough,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0232166,C0242707,COEXISTS_WITH,Decreased cardiac function,"Ventricular Dysfunction, Right",fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0232370,C3714514,COEXISTS_WITH,Florid red complexion (finding),Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0239126,C0206277,COEXISTS_WITH,corticosteroid use,Fatal Outcome,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0239126,C3714514,COEXISTS_WITH,corticosteroid use,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0239574,C0700148,COEXISTS_WITH,Low grade fever,Congestion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0239574,C4061114,COEXISTS_WITH,Low grade fever,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0262926,C0020517,COEXISTS_WITH,Medical History,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0277698,C0242656,COEXISTS_WITH,"Victim, pedestrian in vehicular AND/OR traffic accident (finding)",Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0278250,C0027686,COEXISTS_WITH,Prognosis good,Pathologic Neovascularization,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0278252,C0021308,COEXISTS_WITH,Prognosis bad,Infarction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0278252,C0021368,COEXISTS_WITH,Prognosis bad,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0278252,C0021376,COEXISTS_WITH,Prognosis bad,Chronic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0278252,C0151763,COEXISTS_WITH,Prognosis bad,Liver damage,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0311395,C0521464,COEXISTS_WITH,Lameness,Edematous skin,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0332145,C0013604,COEXISTS_WITH,Postmortem Diagnosis,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0332575,C0013604,COEXISTS_WITH,Redness,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0333350,C0021368,COEXISTS_WITH,Pannus,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0333361,C0013604,COEXISTS_WITH,Acute inflammation,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0333361,C0021368,COEXISTS_WITH,Acute inflammation,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0333361,C0041582,COEXISTS_WITH,Acute inflammation,Ulcer,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0333361,C0332448,COEXISTS_WITH,Acute inflammation,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0338656,C0021368,COEXISTS_WITH,Impaired cognition,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0349790,C0392707,COEXISTS_WITH,Exacerbation of asthma,Atopy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0376618,C3658208,COEXISTS_WITH,Endotoxemia,Dysbiosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0376705,C0332448,COEXISTS_WITH,Viral Load result,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0424589,C0242781,COEXISTS_WITH,Vitality,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0424641,C0162633,COEXISTS_WITH,Decrease in height,Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0425946,C3714514,COEXISTS_WITH,Short menstrual periods,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0426199,C0035320,COEXISTS_WITH,Intact membranes,Retinal Neovascularization,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0436343,C3714514,COEXISTS_WITH,Symptom mild,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0436345,C3714514,COEXISTS_WITH,Symptom severe,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0436484,C0085612,COEXISTS_WITH,Echocardiogram normal,Ventricular arrhythmia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0436484,C0151636,COEXISTS_WITH,Echocardiogram normal,Premature ventricular contractions,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0436503,C0003130,COEXISTS_WITH,Standard chest X-ray abnormal,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0438717,C4061114,COEXISTS_WITH,Transaminases increased,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442726,C0020517,COEXISTS_WITH,Detected (finding),Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442731,C0020517,COEXISTS_WITH,Strains different,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442743,C0013604,COEXISTS_WITH,Noninflammatory,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442743,C0016059,COEXISTS_WITH,Noninflammatory,Fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442743,C0020507,COEXISTS_WITH,Noninflammatory,Hyperplasia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0442749,C0013687,COEXISTS_WITH,6/5,effusion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0449575,C0333197,COEXISTS_WITH,Histological finding,Fibrin blood clot,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0459423,C0025345,COEXISTS_WITH,Equivocal result,Menstruation Disturbances,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0476442,C3714514,COEXISTS_WITH,High antibody titer,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0489749,C0392676,COEXISTS_WITH,Rectal temperature,Hyperpyrexia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0517627,C0016059,COEXISTS_WITH,Infection status,Fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0517627,C3714514,COEXISTS_WITH,Infection status,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0522224,C0011304,COEXISTS_WITH,Paralysed,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0522224,C3714514,COEXISTS_WITH,Paralysed,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0522570,C3714514,COEXISTS_WITH,Focal inflammation,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0543419,C0233315,COEXISTS_WITH,Sequela of disorder,Premature birth of newborn,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0554101,C0392707,COEXISTS_WITH,Villous atrophy,Atopy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0577877,C3714514,COEXISTS_WITH,Lesion of nose,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0578022,C0700148,COEXISTS_WITH,Finding of body mass index,Congestion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0679250,C3714514,COEXISTS_WITH,Disease Outcome,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0682132,C0242656,COEXISTS_WITH,regional difference,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0686750,C0030660,COEXISTS_WITH,Well adult,Pathologic Processes,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0700292,C0332448,COEXISTS_WITH,Hypoxemia,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0742906,C0020517,COEXISTS_WITH,Elevated C-reactive protein,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0742906,C0036983,COEXISTS_WITH,Elevated C-reactive protein,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0743630,C0021368,COEXISTS_WITH,exacerbation acute,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0746319,C0333418,COEXISTS_WITH,lymph node positive,Non-necrotizing granulomatous inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0748864,C0020517,COEXISTS_WITH,small size,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0750310,C0342579,COEXISTS_WITH,volume depletion intravascular,Electrolyte imbalance,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0750484,C0235029,COEXISTS_WITH,Confirmation,neurological complication,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0750484,C0242781,COEXISTS_WITH,Confirmation,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0750484,C3714514,COEXISTS_WITH,Confirmation,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0750558,C3714514,COEXISTS_WITH,Unlikely,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0855758,C0013604,COEXISTS_WITH,protein total increased,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1116171,C3714514,COEXISTS_WITH,Vaccinated at,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1142114,C0029445,COEXISTS_WITH,bone marrow necrosis,Bone necrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1262477,C0013604,COEXISTS_WITH,Weight decreased,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1262477,C0242656,COEXISTS_WITH,Weight decreased,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1262477,C3714514,COEXISTS_WITH,Weight decreased,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1262477,C4061114,COEXISTS_WITH,Weight decreased,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290905,C0011560,COEXISTS_WITH,Discrepancy,Amyloid deposition,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290905,C0012359,COEXISTS_WITH,Discrepancy,Pathological Dilatation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290905,C0020517,COEXISTS_WITH,Discrepancy,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290905,C0600228,COEXISTS_WITH,Discrepancy,Cardiopulmonary Arrest,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290905,C3714514,COEXISTS_WITH,Discrepancy,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1290916,C0032227,COEXISTS_WITH,Radiologic finding,Pleural effusion disorder,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1291166,C0018188,COEXISTS_WITH,Increased porphyrin,Granuloma,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1291166,C0021368,COEXISTS_WITH,Increased porphyrin,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1299586,C0021368,COEXISTS_WITH,Has difficulty doing (qualifier value),Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1299586,C0036679,COEXISTS_WITH,Has difficulty doing (qualifier value),Diastasis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1299586,C0162633,COEXISTS_WITH,Has difficulty doing (qualifier value),Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1299586,C0242781,COEXISTS_WITH,Has difficulty doing (qualifier value),disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1318963,C0028778,COEXISTS_WITH,Readiness,Obstruction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1320226,C3714514,COEXISTS_WITH,Incubation period,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1320796,C0004144,COEXISTS_WITH,High airway pressure,Atelectasis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1334016,C3714514,COEXISTS_WITH,High Grade Lesion,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1334779,C0011304,COEXISTS_WITH,Mitotic Activity,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1334962,C1155266,COEXISTS_WITH,Polymorphonuclear Cell Infiltrate,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1334972,C0332448,COEXISTS_WITH,Nodular Pattern,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1444708,C0242656,COEXISTS_WITH,Likely outcome,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1444783,C0085612,COEXISTS_WITH,Instability,Ventricular arrhythmia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1446614,C3714514,COEXISTS_WITH,Convergent gaze,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1457868,C0242707,COEXISTS_WITH,Worse,"Ventricular Dysfunction, Right",fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1504363,C0919661,COEXISTS_WITH,temperature fluctuation,alternation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1519255,C0013604,COEXISTS_WITH,Serious Adverse Event,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1545588,C0011304,COEXISTS_WITH,Protection,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1545588,C0036983,COEXISTS_WITH,Protection,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1545588,C0162633,COEXISTS_WITH,Protection,Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1545588,C0242656,COEXISTS_WITH,Protection,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1545588,C3714514,COEXISTS_WITH,Protection,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1556280,C0036983,COEXISTS_WITH,CTCAE Grade 4 Hypotension,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1610642,C0003578,COEXISTS_WITH,Apparent life threatening event,Apnea,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1704258,C0333418,COEXISTS_WITH,Abnormality,Non-necrotizing granulomatous inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1707597,C0002170,COEXISTS_WITH,Cyst Formation,Alopecia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1709157,C0333563,COEXISTS_WITH,Negative Surgical Margin,Hyaline membrane,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1832073,C0004238,COEXISTS_WITH,Handling,Atrial Fibrillation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1832073,C0022650,COEXISTS_WITH,Handling,Kidney Calculi,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1832073,C0221333,COEXISTS_WITH,Handling,Hypouricemia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1834645,C0011164,COEXISTS_WITH,Acquired disorder,Abnormal degeneration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1834645,C0011304,COEXISTS_WITH,Acquired disorder,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C0003130,COEXISTS_WITH,Severe disorder,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C0022346,COEXISTS_WITH,Severe disorder,Icterus,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C0220981,COEXISTS_WITH,Severe disorder,Metabolic acidosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C0242656,COEXISTS_WITH,Severe disorder,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C0333467,COEXISTS_WITH,Severe disorder,Cytopathic effect,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C1155266,COEXISTS_WITH,Severe disorder,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C1520005,COEXISTS_WITH,Severe disorder,Viral Pathogenesis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836348,C3714514,COEXISTS_WITH,Severe disorder,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1836407,C0948031,COEXISTS_WITH,Early death,Primary Graft Dysfunction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1837496,C0011164,COEXISTS_WITH,Axonal degeneration,Abnormal degeneration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1844596,C0011164,COEXISTS_WITH,Spheroids,Abnormal degeneration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1844666,C0242656,COEXISTS_WITH,Immune dysregulation,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1846336,C3714514,COEXISTS_WITH,Small for age,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1846821,C0036983,COEXISTS_WITH,Abnormality of coagulation,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1858395,C3887486,COEXISTS_WITH,Tubular atrophy,Interstitial lung fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1863335,C1155266,COEXISTS_WITH,Usually progressive,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1883035,C0013604,COEXISTS_WITH,Single Cell Necrosis,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1883035,C0021368,COEXISTS_WITH,Single Cell Necrosis,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2674297,C1155266,COEXISTS_WITH,Lymphocytic inflammatory infiltrate,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2676468,C3714514,COEXISTS_WITH,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2748540,C0026766,COEXISTS_WITH,Mucosal bleeding,Multiple Organ Failure,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2748540,C0036974,COEXISTS_WITH,Mucosal bleeding,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2750118,C0333563,COEXISTS_WITH,Type II pneumocyte hyperplasia,Hyaline membrane,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2750120,C0333359,COEXISTS_WITH,Interstitial thickening,Perivascular inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2826279,C4061114,COEXISTS_WITH,Abnormal Finding,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2826565,C0333641,COEXISTS_WITH,Mild Chronic Inflammation,Atrophic,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2945640,C0151718,COEXISTS_WITH,compromise,Hypocholesterolemia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2945640,C3714514,COEXISTS_WITH,compromise,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C2983415,C0021376,COEXISTS_WITH,Persistent Disease,Chronic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3176122,C0684320,COEXISTS_WITH,Data points,Disease regression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3242274,C0020517,COEXISTS_WITH,new therapy,Hypersensitivity,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
+C3242274,C0021368,COEXISTS_WITH,new therapy,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3257923,C1704489,COEXISTS_WITH,Noise level,Extended Rotated Sidebent,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3272283,C0018944,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Hematoma,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3272283,C0036983,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3272283,C0151686,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Growth retardation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3272283,C4061114,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3275669,C0016059,COEXISTS_WITH,Increased fibrosis,Fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3278575,C0003130,COEXISTS_WITH,Increased IL-8,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3279575,C0010828,COEXISTS_WITH,Reticulated skin pigmentation,Cytopenia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3280118,C0242781,COEXISTS_WITH,Mild disorder,disease transmission,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3280118,C3714514,COEXISTS_WITH,Mild disorder,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3540840,C0162633,COEXISTS_WITH,Sign or Symptom,Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3540840,C0243083,COEXISTS_WITH,Sign or Symptom,associated disease,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3540840,C0333371,COEXISTS_WITH,Sign or Symptom,Ruptured abscess,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3540840,C2911645,COEXISTS_WITH,Sign or Symptom,Weight Loss Adverse Event,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3540840,C3714514,COEXISTS_WITH,Sign or Symptom,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3550269,C0011304,COEXISTS_WITH,Reactive gliosis,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3670500,C0011304,COEXISTS_WITH,Neuronal degeneration,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3670500,C0021368,COEXISTS_WITH,Neuronal degeneration,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3686869,C0036983,COEXISTS_WITH,Microthrombosis,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3687252,C0021368,COEXISTS_WITH,Eosinophilic inflammation,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3687361,C0332448,COEXISTS_WITH,Body condition,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3714738,C0004144,COEXISTS_WITH,Compliance,Atelectasis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3714738,C3714514,COEXISTS_WITH,Compliance,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3806166,C0040053,COEXISTS_WITH,Poor outcome,Thrombosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3806166,C0151526,COEXISTS_WITH,Poor outcome,Premature Birth,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3806166,C0442860,COEXISTS_WITH,Poor outcome,Intravascular thrombosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3806166,C1155266,COEXISTS_WITH,Poor outcome,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3806166,C3160769,COEXISTS_WITH,Poor outcome,Major bleeding problems,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3816499,C0011304,COEXISTS_WITH,Pathogenic,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3816499,C0016059,COEXISTS_WITH,Pathogenic,Fibrosis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3816499,C0021368,COEXISTS_WITH,Pathogenic,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3816499,C0332448,COEXISTS_WITH,Pathogenic,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3816499,C3714514,COEXISTS_WITH,Pathogenic,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3827002,C3714514,COEXISTS_WITH,Ground Glass Opacity,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3840892,C0242656,COEXISTS_WITH,Day 4,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3841448,C0021368,COEXISTS_WITH,Much worse,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842312,C3714514,COEXISTS_WITH,Not Often,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842672,C0332448,COEXISTS_WITH,Day 7,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842673,C0021368,COEXISTS_WITH,Day 6,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842673,C3714514,COEXISTS_WITH,Day 6,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842674,C3714514,COEXISTS_WITH,Day 5,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3842675,C0036983,COEXISTS_WITH,Day 3,Septic Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3843156,C3714514,COEXISTS_WITH,Less often,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3843661,C0020517,COEXISTS_WITH,Too little,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3843661,C3714514,COEXISTS_WITH,Too little,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3845593,C1155266,COEXISTS_WITH,Major change,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3845594,C0020517,COEXISTS_WITH,Slight change,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3872830,C1265970,COEXISTS_WITH,Inflammatory lesion,Focal proliferation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3887644,C0013604,COEXISTS_WITH,Inflammatory infiltrate,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3887644,C0332448,COEXISTS_WITH,Inflammatory infiltrate,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3890735,C0001349,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Acute-Phase Reaction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3890735,C0020517,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Hypersensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3890735,C0021368,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3890735,C1155266,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C3890735,C3714514,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4015136,C1155266,COEXISTS_WITH,Recurrent bronchiolitis,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4022575,C3714514,COEXISTS_WITH,Inertia,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4022803,C0021375,COEXISTS_WITH,Increased inflammatory response,allergic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4036115,C3714514,COEXISTS_WITH,Very mild,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4045969,C1520005,COEXISTS_WITH,Physical Barriers,Viral Pathogenesis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0011304,COEXISTS_WITH,Accumulation,Demyelination,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0013604,COEXISTS_WITH,Accumulation,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0015376,COEXISTS_WITH,Accumulation,Extravasation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0021368,COEXISTS_WITH,Accumulation,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0021376,COEXISTS_WITH,Accumulation,Chronic inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0085605,COEXISTS_WITH,Accumulation,Liver Failure,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0333197,COEXISTS_WITH,Accumulation,Fibrin blood clot,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C0333606,COEXISTS_WITH,Accumulation,Dystrophy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C1817997,COEXISTS_WITH,Accumulation,chronic inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4055506,C3714514,COEXISTS_WITH,Accumulation,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4068833,C0003130,COEXISTS_WITH,Vascularity,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086149,C0012359,COEXISTS_WITH,Centrilobular Opacity,Pathological Dilatation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086149,C0021368,COEXISTS_WITH,Centrilobular Opacity,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C0021368,COEXISTS_WITH,Exacerbation,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C0332448,COEXISTS_WITH,Exacerbation,Infiltration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C0392707,COEXISTS_WITH,Exacerbation,Atopy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C1155266,COEXISTS_WITH,Exacerbation,inflammatory response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C3714514,COEXISTS_WITH,Exacerbation,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4086268,C4061114,COEXISTS_WITH,Exacerbation,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4288131,C0333467,COEXISTS_WITH,Three or Four Days,Cytopathic effect,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4289767,C1265824,COEXISTS_WITH,Colonization,Persistent inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4321237,C0018188,COEXISTS_WITH,High Level,Granuloma,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4321237,C0021368,COEXISTS_WITH,High Level,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4321237,C0028778,COEXISTS_WITH,High Level,Obstruction,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4321237,C2911645,COEXISTS_WITH,High Level,Weight Loss Adverse Event,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4321237,C3714514,COEXISTS_WITH,High Level,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4479222,C0021368,COEXISTS_WITH,Increased apoptosis,Inflammation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4534306,C0003130,COEXISTS_WITH,Supplemental oxygen,Anoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4534363,C0036974,COEXISTS_WITH,At home,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C4539801,C0162633,COEXISTS_WITH,Frequent coughing,Viral Shedding,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF

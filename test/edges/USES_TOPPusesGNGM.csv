@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013216,C1332838,USES,Pharmacotherapy,Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0015252,C1511573,USES,removal technique,Cyclic AMP Response Element,topp,gngm,1,USES_TOPPusesGNGM
+C0017296,C0598467,USES,gene therapy,chimeric gene,topp,gngm,1,USES_TOPPusesGNGM
+C0020971,C0017272,USES,Immunization,Gene Library,topp,gngm,1,USES_TOPPusesGNGM
+C0020971,C1334043,USES,Immunization,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0020971,C1366332,USES,Immunization,IGK gene,topp,gngm,1,USES_TOPPusesGNGM
+C0020975,C1334043,USES,Secondary Immunization,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0021107,C0282641,USES,Implantation procedure,Transgenes,topp,gngm,1,USES_TOPPusesGNGM
+C0021107,C1257902,USES,Implantation procedure,Jumping Genes,topp,gngm,1,USES_TOPPusesGNGM
+C0021107,C1332838,USES,Implantation procedure,Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0021107,C1334043,USES,Implantation procedure,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0023690,C0042720,USES,Ligation,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C0042196,C1332838,USES,Vaccination,Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0042196,C1334043,USES,Vaccination,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0052712,C0282641,USES,doxorubicin/mitomycin/vinblastine protocol,Transgenes,topp,gngm,1,USES_TOPPusesGNGM
+C0079613,C0035018,USES,Adoptive Immunotherapy,REL gene,topp,gngm,1,USES_TOPPusesGNGM
+C0152060,C0035899,USES,Transection (procedure),Ribosomal RNA Genes,topp,gngm,1,USES_TOPPusesGNGM
+C0152060,C1332838,USES,Transection (procedure),Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0152060,C1334043,USES,Transection (procedure),Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0185026,C0042720,USES,Plication,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C0185026,C1334043,USES,Plication,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0185027,C0017346,USES,Imbrication (procedure),GAG Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0185027,C0017359,USES,Imbrication (procedure),"Genes, Overlapping",topp,gngm,1,USES_TOPPusesGNGM
+C0185027,C0017376,USES,Imbrication (procedure),"Genes, Viral",topp,gngm,1,USES_TOPPusesGNGM
+C0185027,C0079941,USES,Imbrication (procedure),Open Reading Frames,topp,gngm,1,USES_TOPPusesGNGM
+C0185027,C1334043,USES,Imbrication (procedure),Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0185115,C0017376,USES,Extraction,"Genes, Viral",topp,gngm,1,USES_TOPPusesGNGM
+C0185115,C0017430,USES,Extraction,Genomic Library,topp,gngm,1,USES_TOPPusesGNGM
+C0185115,C0042720,USES,Extraction,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C0185115,C0440471,USES,Extraction,Genetic Materials,topp,gngm,1,USES_TOPPusesGNGM
+C0185117,C1332838,USES,Expression procedure,Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0185117,C1333196,USES,Expression procedure,Cytokine Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0439775,C1511573,USES,Elevation procedure,Cyclic AMP Response Element,topp,gngm,1,USES_TOPPusesGNGM
+C0524865,C0042720,USES,Reconstructive Surgical Procedures,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C0524865,C0079941,USES,Reconstructive Surgical Procedures,Open Reading Frames,topp,gngm,1,USES_TOPPusesGNGM
+C0728940,C1449886,USES,Excision,"Adaptor Proteins, Signal Transducing",topp,gngm,1,USES_TOPPusesGNGM
+C0841790,C0599776,USES,caudal injection,RNA library,topp,gngm,1,USES_TOPPusesGNGM
+C0846672,C0017376,USES,systems therapy,"Genes, Viral",topp,gngm,1,USES_TOPPusesGNGM
+C0857127,C1333196,USES,Induction procedure,Cytokine Gene,topp,gngm,1,USES_TOPPusesGNGM
+C0947647,C0042720,USES,Manipulation procedure,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0017374,USES,Detection,Synthetic Genes,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0017376,USES,Detection,"Genes, Viral",topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0035899,USES,Detection,Ribosomal RNA Genes,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0042720,USES,Detection,Viral Genome,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0079941,USES,Detection,Open Reading Frames,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0206414,USES,Detection,"Genes, Reporter",topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C0440471,USES,Detection,Genetic Materials,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C1332838,USES,Detection,Candidate Disease Gene,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C1334043,USES,Detection,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C1335144,USES,Detection,Orthologous Gene,topp,gngm,1,USES_TOPPusesGNGM
+C1511790,C1335528,USES,Detection,Peptidase Gene,topp,gngm,1,USES_TOPPusesGNGM
+C1563738,C1449886,USES,Oncolytic Virotherapy,"Adaptor Proteins, Signal Transducing",topp,gngm,1,USES_TOPPusesGNGM
+C2347900,C1334043,USES,Rechallenge,Homologous Gene,topp,gngm,1,USES_TOPPusesGNGM

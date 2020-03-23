@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0003316,STIMULATES,Antigens,Epitopes,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C0042210,STIMULATES,Antigens,Vaccines,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C0042212,STIMULATES,Antigens,"Vaccines, Inactivated",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C0079600,STIMULATES,Antigens,Immunodominant Epitopes,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C0376613,STIMULATES,Antigens,"Vaccines, DNA",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C2825347,STIMULATES,Antigens,"Immunoglobulin A, Human",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0003320,C2986386,STIMULATES,Antigens,Virus-neutralizing Antibody,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0012854,C0376613,STIMULATES,DNA,"Vaccines, DNA",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0019588,C0021742,STIMULATES,Histamine,Interferon Inducers,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0032136,C0003333,STIMULATES,Plasmids,"Antigens, Heterophile",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0032136,C0376613,STIMULATES,Plasmids,"Vaccines, DNA",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0035696,C0042212,STIMULATES,"RNA, Messenger","Vaccines, Inactivated",bacs,imft,1,STIMULATES_BACSstimIMFT
+C0086860,C1519887,STIMULATES,promoter,Vaccine Antigen,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0242610,C0042210,STIMULATES,"Codon, Initiator",Vaccines,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0302583,C0166049,STIMULATES,Iron,Hepatitis C Antibodies,bacs,imft,1,STIMULATES_BACSstimIMFT
+C0596876,C0166049,STIMULATES,magnesium ions,Hepatitis C Antibodies,bacs,imft,1,STIMULATES_BACSstimIMFT
+C1764827,C0042210,STIMULATES,Isolate - microorganism,Vaccines,bacs,imft,1,STIMULATES_BACSstimIMFT
+C1764827,C2986386,STIMULATES,Isolate - microorganism,Virus-neutralizing Antibody,bacs,imft,1,STIMULATES_BACSstimIMFT

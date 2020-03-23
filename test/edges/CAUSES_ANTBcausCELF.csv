@@ -1,0 +1,26 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003233,C1325881,CAUSES,"Antibiotics, Aminoglycoside",biofilm formation,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0007587,CAUSES,Cycloheximide,Cell Death,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0010813,CAUSES,Cycloheximide,Cytokinesis,antb,celf,1,CAUSES_ANTBcausCELF
+C0010572,C0162638,CAUSES,Cycloheximide,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C0004391,CAUSES,Doxorubicin,Autophagy,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C0007620,CAUSES,Doxorubicin,Cell Survival,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C0162638,CAUSES,Doxorubicin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C1820119,CAUSES,Doxorubicin,Mitochondrial Degradation,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C2611952,CAUSES,Doxorubicin,muscle cell apoptotic process,antb,celf,1,CAUSES_ANTBcausCELF
+C0013089,C2611954,CAUSES,Doxorubicin,cardiac muscle cell apoptotic process,antb,celf,1,CAUSES_ANTBcausCELF
+C0013090,C0599733,CAUSES,Doxycycline,cell killing,antb,celf,1,CAUSES_ANTBcausCELF
+C0013090,C1820119,CAUSES,Doxycycline,Mitochondrial Degradation,antb,celf,1,CAUSES_ANTBcausCELF
+C0026933,C0301896,CAUSES,Mycophenolic Acid,Cell-Mediated Cytolysis,antb,celf,1,CAUSES_ANTBcausCELF
+C0038432,C0162638,CAUSES,Streptozocin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0052796,C0162638,CAUSES,Azithromycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0054036,C0014139,CAUSES,Brefeldin A,Endocytosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0054036,C1159342,CAUSES,Brefeldin A,Secretory Pathway,antb,celf,1,CAUSES_ANTBcausCELF
+C0055856,C0162638,CAUSES,Clarithromycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C0004391,CAUSES,Sirolimus,Autophagy,antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C0037083,CAUSES,Sirolimus,Signal Transduction,antb,celf,1,CAUSES_ANTBcausCELF
+C0072980,C1326207,CAUSES,Sirolimus,"Programmed Cell Death, Type II",antb,celf,1,CAUSES_ANTBcausCELF
+C0878412,C0600485,CAUSES,A-23187,Acrosome Reaction,antb,celf,1,CAUSES_ANTBcausCELF
+C1451406,C0162638,CAUSES,tulathromycin,Apoptosis,antb,celf,1,CAUSES_ANTBcausCELF
+C1451406,C3156099,CAUSES,tulathromycin,macrophage apoptotic process,antb,celf,1,CAUSES_ANTBcausCELF
+C1451406,C3546359,CAUSES,tulathromycin,pro-apoptosis,antb,celf,1,CAUSES_ANTBcausCELF

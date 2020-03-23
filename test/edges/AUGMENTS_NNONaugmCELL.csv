@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0028948,C0004561,AUGMENTS,Oligodeoxyribonucleotides,B-Lymphocytes,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0028948,C1956385,AUGMENTS,Oligodeoxyribonucleotides,Plasmacytoid Dendritic Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0028953,C1956385,AUGMENTS,Oligonucleotides,Plasmacytoid Dendritic Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0032400,C1956385,AUGMENTS,Poly A,Plasmacytoid Dendritic Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0035736,C0206116,AUGMENTS,"RNA, Viral",Microglia,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0035736,C1956385,AUGMENTS,"RNA, Viral",Plasmacytoid Dendritic Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0053697,C0022688,AUGMENTS,"bis(3',5')-cyclic diguanylic acid",Natural Killer Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0206415,C0009013,AUGMENTS,Oligonucleotide Primers,Clone Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0206415,C0017473,AUGMENTS,Oligonucleotide Primers,Germ Line,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0206415,C1953382,AUGMENTS,Oligonucleotide Primers,Forward primer,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0283683,C1513095,AUGMENTS,NAADP,Melanoma Cell,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C0599013,C1441322,AUGMENTS,aptamer,Viable cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C0004112,AUGMENTS,Transcript,Astrocytes,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C0022688,AUGMENTS,Transcript,Natural Killer Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C0024880,AUGMENTS,Transcript,mast cell,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C0206116,AUGMENTS,Transcript,Microglia,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C0440752,AUGMENTS,Transcript,Inflammatory cell,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C1519595,C1321301,AUGMENTS,Transcript,Peripheral blood mononuclear cell (cell),nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2930586,C0003315,AUGMENTS,Short Hairpin RNA,Antigen-Presenting Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2930586,C0024432,AUGMENTS,Short Hairpin RNA,macrophage,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2930586,C0682639,AUGMENTS,Short Hairpin RNA,Memory T-Lymphocyte,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2982391,C0011306,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Dendritic Cells,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2982391,C0016030,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Fibroblasts,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2982391,C0024432,AUGMENTS,Long Intergenic Non-Protein Coding RNA,macrophage,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2982391,C0026473,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Monocytes,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C2982391,C0334227,AUGMENTS,Long Intergenic Non-Protein Coding RNA,"Tumor cells, malignant",nnon,cell,1,AUGMENTS_NNONaugmCELL
+C3272452,C0024432,AUGMENTS,Single-Stranded RNA,macrophage,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C3272452,C1518997,AUGMENTS,Single-Stranded RNA,Peripheral Blood Lymphocyte,nnon,cell,1,AUGMENTS_NNONaugmCELL
+C3272453,C0007600,AUGMENTS,Genomic DNA,Cultured Cell Line,nnon,cell,1,AUGMENTS_NNONaugmCELL

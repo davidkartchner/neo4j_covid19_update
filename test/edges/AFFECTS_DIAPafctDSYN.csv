@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005558,C0019693,AFFECTS,Biopsy,HIV Infections,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0011906,C0009450,AFFECTS,Differential Diagnosis,Communicable Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0011906,C0275524,AFFECTS,Differential Diagnosis,Coinfection,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0011906,C1561643,AFFECTS,Differential Diagnosis,Chronic Kidney Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0011911,C2076600,AFFECTS,Laboratory Diagnosis,Influenza due to Influenza A virus subtype H1N1,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0030646,C0004096,AFFECTS,Patch Tests,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0037296,C0041296,AFFECTS,Hypersensitivity skin testing,Tuberculosis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0037981,C0004096,AFFECTS,Spirometry,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0040395,C0032285,AFFECTS,tomography,Pneumonia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0040395,C0178829,AFFECTS,tomography,reproductive system disorder,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0041290,C0041296,AFFECTS,Tuberculin Test,Tuberculosis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0041290,C0275524,AFFECTS,Tuberculin Test,Coinfection,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0041618,C0004364,AFFECTS,Ultrasonography,Autoimmune Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0041618,C0175778,AFFECTS,Ultrasonography,Larsen syndrome,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0041618,C3495919,AFFECTS,Ultrasonography,Enthesitis-Related Arthritis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0043299,C0032285,AFFECTS,Diagnostic radiologic examination,Pneumonia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0086143,C0041307,AFFECTS,Diagnostic tests,"Tuberculosis, Bovine",diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0086143,C1175175,AFFECTS,Diagnostic tests,Severe Acute Respiratory Syndrome,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0162734,C0009450,AFFECTS,Echo-Planar Imaging,Communicable Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0184922,C0032285,AFFECTS,Incisional biopsy - action,Pneumonia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0189381,C0032285,AFFECTS,Bronchial Lavage,Pneumonia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0202823,C0009450,AFFECTS,Chest CT,Communicable Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0203634,C0020490,AFFECTS,Nuclear medicine procedure,Hyperopia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0430022,C0042769,AFFECTS,diagnostic procedure,Virus Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0430022,C1175175,AFFECTS,diagnostic procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0430511,C0004096,AFFECTS,Vital capacity test,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0444186,C0041296,AFFECTS,Smear test,Tuberculosis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0596473,C0009450,AFFECTS,Early Diagnosis,Communicable Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0596473,C0022658,AFFECTS,Early Diagnosis,Kidney Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0596473,C0025289,AFFECTS,Early Diagnosis,Meningitis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0596473,C0041296,AFFECTS,Early Diagnosis,Tuberculosis,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0596473,C0205721,AFFECTS,Early Diagnosis,"Infections, Hospital",diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0597356,C0277527,AFFECTS,rapid diagnosis,Epidemic diarrhea,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0683454,C0004135,AFFECTS,internal-external locus of control scale,Ataxia Telangiectasia,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0683454,C0019247,AFFECTS,internal-external locus of control scale,Hereditary Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0699749,C0020542,AFFECTS,disease stage,Pulmonary Hypertension,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0849974,C0004096,AFFECTS,Pulmonary Function Test/Forced Expiratory Volume 1,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C0860888,C0940933,AFFECTS,"Tomography, Spiral Computed",infection as a complication,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1167856,C0275518,AFFECTS,blood smear test,Acute infectious disease,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1449681,C0020538,AFFECTS,"Blood Pressure Monitoring, Home",Hypertensive disease,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1516774,C0016627,AFFECTS,Computerized Thermal Imaging,Influenza in Birds,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1831759,C0007222,AFFECTS,pharmacological studies,Cardiovascular Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1882082,C0021400,AFFECTS,New Diagnosis Procedure,Influenza,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1964257,C0004096,AFFECTS,Observation - diagnostic procedure,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1964257,C0028754,AFFECTS,Observation - diagnostic procedure,Obesity,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1964257,C0035222,AFFECTS,Observation - diagnostic procedure,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1964257,C0042769,AFFECTS,Observation - diagnostic procedure,Virus Diseases,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C1964257,C1175175,AFFECTS,Observation - diagnostic procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C4042877,C0022660,AFFECTS,Clinical Decision-Making,"Kidney Failure, Acute",diap,dsyn,1,AFFECTS_DIAPafctDSYN
+C4050256,C0004096,AFFECTS,Impulse Oscillometry,Asthma,diap,dsyn,1,AFFECTS_DIAPafctDSYN

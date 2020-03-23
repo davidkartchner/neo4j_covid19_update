@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C1261322,ISA,angiogram,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0003885,C1261322,ISA,Arthrogram,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0004339,C1261322,ISA,Auscultation,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0004398,C0031809,ISA,Autopsy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0004398,C0582103,ISA,Autopsy,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0004398,C1261322,ISA,Autopsy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0006290,C0031809,ISA,Bronchoscopy,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0011906,C1261322,ISA,Differential Diagnosis,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0011923,C1261322,ISA,Diagnostic Imaging,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0013516,C1261322,ISA,Echocardiography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0013799,C0030695,ISA,"Electrocardiography, Ambulatory",Patient Monitoring,diap,hlca,1,ISA_DIAPisaHLCA
+C0014245,C1261322,ISA,Endoscopy (procedure),Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0017195,C1261322,ISA,Endoscopy of stomach,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0018793,C0031809,ISA,Heart Auscultation,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0024485,C1261322,ISA,Magnetic Resonance Imaging,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0024671,C0031809,ISA,Mammography,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0027853,C0031809,ISA,Neurologic Examination,Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0030247,C1261322,ISA,Palpation,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0033920,C1261322,ISA,Psychometrics,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0034108,C0031809,ISA,"Oximetry, Pulse",Physical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0037981,C1261322,ISA,Spirometry,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0041618,C1261322,ISA,Ultrasonography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0043299,C1261322,ISA,Diagnostic radiologic examination,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0086143,C1261322,ISA,Diagnostic tests,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0150866,C1261322,ISA,Biopsy of skin procedure,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0203683,C1261322,ISA,Radioisotope scan of lung,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0206077,C1261322,ISA,"Ultrasonography, Doppler, Transcranial",Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0242890,C1261322,ISA,Toxicity Tests,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0260180,C1261322,ISA,Pupillometry,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0430462,C1261322,ISA,Transthoracic echocardiography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0430501,C0582103,ISA,Microscopic Angioscopy,Medical Examination,diap,hlca,1,ISA_DIAPisaHLCA
+C0581714,C1261322,ISA,Buccal smear procedure,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C0596473,C1261322,ISA,Early Diagnosis,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1510483,C0034117,ISA,Fine needle aspiration biopsy,Puncture procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1510483,C1261322,ISA,Fine needle aspiration biopsy,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1536105,C1261322,ISA,Computed Tomography Angiography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1699633,C1261322,ISA,PET/CT scan,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1956110,C1261322,ISA,Cone-Beam Computed Tomography,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA
+C1964257,C1261322,ISA,Observation - diagnostic procedure,Evaluation procedure,diap,hlca,1,ISA_DIAPisaHLCA

@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0206333,C0450254,INTERACTS_WITH,Blood-Borne Pathogens,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0314732,C0445623,INTERACTS_WITH,Infectious agent,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0314732,C0450254,INTERACTS_WITH,Infectious agent,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0450254,INTERACTS_WITH,Microorganism,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0684063,INTERACTS_WITH,Microorganism,Eukaryota,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C1956108,INTERACTS_WITH,Microorganism,Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0314732,INTERACTS_WITH,Pathogenic organism,Infectious agent,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0445623,INTERACTS_WITH,Pathogenic organism,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0684063,INTERACTS_WITH,Pathogenic organism,Eukaryota,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C1628327,INTERACTS_WITH,Pathogenic organism,Zoonotic pathogen,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C1956108,INTERACTS_WITH,Pathogenic organism,Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C2985398,INTERACTS_WITH,Pathogenic organism,Intestinal Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C4267729,INTERACTS_WITH,Pathogenic organism,Respiratory pathogens,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0562641,C0450254,INTERACTS_WITH,Symbiont,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1562052,C0314732,INTERACTS_WITH,Enteropathogen,Infectious agent,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1628327,C0450254,INTERACTS_WITH,Zoonotic pathogen,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1956108,C0450254,INTERACTS_WITH,Microbiome,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1956108,C4018878,INTERACTS_WITH,Microbiome,Gastrointestinal Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C0445623,INTERACTS_WITH,Intestinal Microbiome,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C0450254,INTERACTS_WITH,Intestinal Microbiome,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C1956108,INTERACTS_WITH,Intestinal Microbiome,Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C3826980,C0450254,INTERACTS_WITH,Multi-Drug Resistant Organism,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C4018878,C0450254,INTERACTS_WITH,Gastrointestinal Microbiome,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C4267729,C2985398,INTERACTS_WITH,Respiratory pathogens,Intestinal Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM

@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010813,C0000934,PRECEDES,Cytokinesis,Acclimatization,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0010813,C0012238,PRECEDES,Cytokinesis,Digestion,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0010813,C0699900,PRECEDES,Cytokinesis,Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0014139,C0678723,PRECEDES,Endocytosis,Biologic Development,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0014139,C0699900,PRECEDES,Endocytosis,Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0597361,C0699900,PRECEDES,Receptor Mediated Endocytosis,Catabolism,celf,orgf,1,PRECEDES_CELFprcdORGF
+C0599952,C0042774,PRECEDES,modulation by virus of host morphology or physiology,Virus Replication,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1159342,C0560560,PRECEDES,Secretory Pathway,Moving,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0014948,PRECEDES,unidirectional conjugation,Estrus,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0015895,PRECEDES,unidirectional conjugation,Fertility,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160186,C0015914,PRECEDES,unidirectional conjugation,Fertilization,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1160466,C0025516,PRECEDES,conjugation,"Metabolic Detoxication, Drug",celf,orgf,1,PRECEDES_CELFprcdORGF
+C1257986,C0020966,PRECEDES,Cross-Presentation,Cellular Immunity,celf,orgf,1,PRECEDES_CELFprcdORGF
+C1516334,C1160185,PRECEDES,Cell Cycle Progression,transduction,celf,orgf,1,PRECEDES_CELFprcdORGF
+C4086370,C0018270,PRECEDES,Growth Behavior,Growth,celf,orgf,1,PRECEDES_CELFprcdORGF

@@ -1,0 +1,85 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002771,C0030193,TREATS,Analgesics,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0002771,C1321587,TREATS,Analgesics,Breathing abnormally deep,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0002771,C3714552,TREATS,Analgesics,Weakness,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003158,C0011991,TREATS,Anthelmintics,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003209,C0004941,TREATS,Anti-Inflammatory Agents,Behavioral Symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003209,C0030193,TREATS,Anti-Inflammatory Agents,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003209,C0231875,TREATS,Anti-Inflammatory Agents,Expiratory wheezing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003211,C0026858,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Musculoskeletal Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003211,C0030201,TREATS,"Anti-Inflammatory Agents, Non-Steroidal","Pain, Postoperative",phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003211,C0231528,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Myalgia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003297,C0232462,TREATS,Antiemetics,Decrease in appetite,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003299,C0036572,TREATS,Antiepileptic Agents,Seizures,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003360,C0010200,TREATS,Antihistamines,Coughing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003360,C0030193,TREATS,Antihistamines,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003360,C0740903,TREATS,Antihistamines,allergic symptom,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003374,C3714552,TREATS,Antimalarials,Weakness,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003402,C0011991,TREATS,Antioxidants,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003419,C0231218,TREATS,Antipyretics,Malaise,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003449,C0010200,TREATS,Antitussive Agents,Coughing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003449,C0036572,TREATS,Antitussive Agents,Seizures,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003451,C0030193,TREATS,Antiviral Agents,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003451,C0036572,TREATS,Antiviral Agents,Seizures,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003451,C0231218,TREATS,Antiviral Agents,Malaise,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0003451,C0392171,TREATS,Antiviral Agents,Influenza-like symptoms,phsu,sosy,2,TREATS_PHSUtrtsSOSY
+C0006684,C0003862,TREATS,Calcium Channel Blockers,Arthralgia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0007422,C0000727,TREATS,Cathartics,"Abdomen, Acute",phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0007422,C0700590,TREATS,Cathartics,Increased sweating,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0011777,C0018681,TREATS,Dexamethasone,Headache,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0011777,C0042571,TREATS,Dexamethasone,Vertigo,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0011777,C0042963,TREATS,Dexamethasone,Vomiting,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0012798,C0010200,TREATS,Diuretics,Coughing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0013231,C0030193,TREATS,"Drugs, Non-Prescription",Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0013231,C0085593,TREATS,"Drugs, Non-Prescription",Chills,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0013231,C0151828,TREATS,"Drugs, Non-Prescription",Injection site pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0013231,C0231218,TREATS,"Drugs, Non-Prescription",Malaise,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0015821,C0011991,TREATS,Fenbendazole,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0019592,C0010200,TREATS,Histamine H1 Antagonists,Coughing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0022230,C0392171,TREATS,Inosine Pranobex,Influenza-like symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0026698,C0231218,TREATS,mucolytic agents,Malaise,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0032414,C0006625,TREATS,Poly I-C,Cachexia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0032414,C0086439,TREATS,Poly I-C,Hypokinesia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0032950,C0427055,TREATS,prednisolone,Facial Paresis,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0035525,C0015672,TREATS,Ribavirin,Fatigue,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0035525,C0392171,TREATS,Ribavirin,Influenza-like symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0042105,C1535964,TREATS,Ursodiol,Cholestatic pruritus,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0054201,C0010200,TREATS,Budesonide,Coughing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0054201,C0043144,TREATS,Budesonide,Wheezing,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0057846,C2242814,TREATS,dichlorobenzyl alcohol,acute sore throat,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0085155,C0231218,TREATS,Generic Drugs,Malaise,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0085387,C0004941,TREATS,Cyclooxygenase Inhibitors,Behavioral Symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0146196,C0011991,TREATS,toltrazuril,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0163748,C0011991,TREATS,Diosmectite,Diarrhea,phsu,sosy,2,TREATS_PHSUtrtsSOSY
+C0220578,C0027497,TREATS,palonosetron,Nausea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0220578,C0042963,TREATS,palonosetron,Vomiting,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0225326,C0009806,TREATS,Fiber,Constipation,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0282556,C0037090,TREATS,Anti-Asthmatic Agents,"Signs and Symptoms, Respiratory",phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0302232,C0850149,TREATS,Demulcent,Dry cough,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0527316,C0030193,TREATS,donepezil,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0719214,C0027497,TREATS,century,Nausea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0732611,C0003862,TREATS,Selective Estrogen Receptor Modulators,Arthralgia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0732611,C0023218,TREATS,Selective Estrogen Receptor Modulators,Leg cramps,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0784478,C2242814,TREATS,Throat Lozenge,acute sore throat,phsu,sosy,2,TREATS_PHSUtrtsSOSY
+C0870261,C0599766,TREATS,channel blockers,Recovery of Function,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C0909027,C0000737,TREATS,dai-kenchu-to,Abdominal Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1136254,C0011991,TREATS,Microbicides,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1136312,C0231918,TREATS,"Histamine H1 Antagonists, Non-Sedating",Nose symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1366263,C0011991,TREATS,"Hyperimmune Colostrum, Bovine",Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1366263,C0042963,TREATS,"Hyperimmune Colostrum, Bovine",Vomiting,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1366263,C1443924,TREATS,"Hyperimmune Colostrum, Bovine",Severe diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1372955,C0030193,TREATS,Active ingredient,Pain,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1436328,C0917801,TREATS,Eszopiclone,Sleeplessness,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1443923,C0011991,TREATS,Oral rehydration solution,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1520007,C0231519,TREATS,viral vector,Gegenhalten,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1570906,C2936719,TREATS,vildagliptin,Mechanical Allodynia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1874451,C0037088,TREATS,Basis,Signs and Symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1874451,C0037090,TREATS,Basis,"Signs and Symptoms, Respiratory",phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1874451,C0086439,TREATS,Basis,Hypokinesia,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1874451,C0392171,TREATS,Basis,Influenza-like symptoms,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C1874451,C0401149,TREATS,Basis,Chronic constipation,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C3491954,C0542476,TREATS,Kai-Xin-San,Forgetful,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C3539125,C0010201,TREATS,other medicated shampoos in ATC,Chronic cough,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C3539125,C0042963,TREATS,other medicated shampoos in ATC,Vomiting,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C3539125,C0235309,TREATS,other medicated shampoos in ATC,Upset stomach,phsu,sosy,1,TREATS_PHSUtrtsSOSY
+C3539957,C0011991,TREATS,opium alkaloids and derivative combination cough suppressants,Diarrhea,phsu,sosy,1,TREATS_PHSUtrtsSOSY

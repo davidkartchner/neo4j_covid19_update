@@ -1,0 +1,124 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000702,C1817908,AUGMENTS,"DNA, A-Form",Cellular Immune Response,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0001443,C0010813,AUGMENTS,Adenosine,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0001443,C0162585,AUGMENTS,Adenosine,Ion Transport,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0001468,C0007586,AUGMENTS,Adenosine Phosphosulfate,Cell Cycle,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0001468,C0162638,AUGMENTS,Adenosine Phosphosulfate,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0002607,C0007587,AUGMENTS,Ammonia,Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0002607,C0162638,AUGMENTS,Ammonia,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0003320,C0003261,AUGMENTS,Antigens,Antibody Formation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0003320,C0206430,AUGMENTS,Antigens,Antigen Processing,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0004630,C0004391,AUGMENTS,Bacterial Toxins,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0005390,C1160657,AUGMENTS,Bile Acids,Virus Uncoating,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0006675,C0004391,AUGMENTS,Calcium,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0006675,C0007613,AUGMENTS,Calcium,Cell physiology,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0006675,C0025251,AUGMENTS,Calcium,Membrane Potentials,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0006675,C0162638,AUGMENTS,Calcium,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0007745,C0162638,AUGMENTS,Ceramides,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0008377,C0014139,AUGMENTS,Cholesterol,Endocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0008377,C0037083,AUGMENTS,Cholesterol,Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0008377,C1156309,AUGMENTS,Cholesterol,syncytium formation by plasma membrane fusion,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C0004391,AUGMENTS,DNA,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C0010813,AUGMENTS,DNA,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C0162638,AUGMENTS,DNA,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C1155008,AUGMENTS,DNA,b-cell proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C1155065,AUGMENTS,DNA,T-Cell Activation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C1155080,AUGMENTS,DNA,T-helper 1 type immune response,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012854,C1817908,AUGMENTS,DNA,Cellular Immune Response,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012929,C1327420,AUGMENTS,"DNA, Mitochondrial",interleukin-1 beta secretion,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0012968,C0004391,AUGMENTS,Docosahexaenoic Acids,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0013982,C0162638,AUGMENTS,Emodin,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0015687,C3156642,AUGMENTS,"Fatty Acids, Monounsaturated",clathrin-dependent endocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0016895,C4318743,AUGMENTS,Ganglioside GM1,membrane tubulation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0016945,C0003272,AUGMENTS,Galactose,Antibody-Dependent Cellular Cytotoxicity,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0017725,C1159527,AUGMENTS,Glucose,glucose uptake,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C0007590,AUGMENTS,Growth Factor,Cell division,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C0007620,AUGMENTS,Growth Factor,Cell Survival,bacs,celf,2,AUGMENTS_BACSaugmCELF
+C0018284,C0596290,AUGMENTS,Growth Factor,Cell Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C0596873,AUGMENTS,Growth Factor,lymphocyte proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C1155046,AUGMENTS,Growth Factor,T-Cell Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C1513082,AUGMENTS,Growth Factor,Megakaryocyte Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C1622501,AUGMENTS,Growth Factor,"Migration, Cell",bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018284,C3271951,AUGMENTS,Growth Factor,macropinocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0018353,C2611812,AUGMENTS,Guanosine Triphosphate,signaling cascade,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0019134,C0010813,AUGMENTS,heparin,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0019588,C0596290,AUGMENTS,Histamine,Cell Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0023546,C0031308,AUGMENTS,Leukotriene B4,Phagocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0023546,C0312860,AUGMENTS,Leukotriene B4,"Neutrophil migration, function",bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0026661,C0162638,AUGMENTS,mRNA Precursor,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0028928,C0004391,AUGMENTS,Oleic Acid,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0031676,C1155342,AUGMENTS,Phospholipids,cellular response to unfolded protein,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C0004391,AUGMENTS,Plasmids,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C0010813,AUGMENTS,Plasmids,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C0086982,AUGMENTS,Plasmids,Signal Transduction Pathways,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C0206431,AUGMENTS,Plasmids,Antigen Presentation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C0596290,AUGMENTS,Plasmids,Cell Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032136,C1511002,AUGMENTS,Plasmids,b cell differentiation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0032821,C1622501,AUGMENTS,Potassium,"Migration, Cell",bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0033554,C0162638,AUGMENTS,Prostaglandins,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0034085,C0008018,AUGMENTS,Pulmonary Surfactants,Chemotaxis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0034085,C0031308,AUGMENTS,Pulmonary Surfactants,Phagocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C0007587,AUGMENTS,"RNA, Double-Stranded",Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C0031308,AUGMENTS,"RNA, Double-Stranded",Phagocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C0037083,AUGMENTS,"RNA, Double-Stranded",Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C0086982,AUGMENTS,"RNA, Double-Stranded",Signal Transduction Pathways,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C0162638,AUGMENTS,"RNA, Double-Stranded",Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C1155046,AUGMENTS,"RNA, Double-Stranded",T-Cell Proliferation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C1156140,AUGMENTS,"RNA, Double-Stranded",ribosome biogenesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C2610958,AUGMENTS,"RNA, Double-Stranded",necroptotic process,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035693,C2611812,AUGMENTS,"RNA, Double-Stranded",signaling cascade,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035696,C0010813,AUGMENTS,"RNA, Messenger",Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035696,C1155342,AUGMENTS,"RNA, Messenger",cellular response to unfolded protein,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035696,C1156140,AUGMENTS,"RNA, Messenger",ribosome biogenesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035701,C0162638,AUGMENTS,Ribosomal RNA,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0035711,C1157569,AUGMENTS,Transfer RNA,viral translation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0037473,C1159527,AUGMENTS,Sodium,glucose uptake,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0037564,C0037083,AUGMENTS,Sodium Urate Monohydrate,Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0038636,C0004391,AUGMENTS,Sucrose,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0038727,C0887840,AUGMENTS,Sulfoglycosphingolipids,Nuclear Export,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0039705,C1326169,AUGMENTS,Tetrodotoxin,microglial cell activation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0040077,C1519167,AUGMENTS,Thymidine,Negative Regulation of S Phase,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0040549,C0086982,AUGMENTS,Toxin,Signal Transduction Pathways,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0040815,C0004391,AUGMENTS,Trehalose,Autophagy,bacs,celf,2,AUGMENTS_BACSaugmCELF
+C0043791,C1819041,AUGMENTS,"1,2-diacylglycerol",protein kinase activation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0056912,C0008018,AUGMENTS,cytidylyl-3'-5'-guanosine,Chemotaxis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0056912,C1326120,AUGMENTS,cytidylyl-3'-5'-guanosine,cell activation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0060060,C1326207,AUGMENTS,fangchinoline,"Programmed Cell Death, Type II",bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0067762,C0014139,AUGMENTS,N-Acetylneuraminic Acid,Endocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0076957,C0004391,AUGMENTS,tremortin,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0078517,C0004391,AUGMENTS,wortmannin,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0086860,C0037083,AUGMENTS,promoter,Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0086860,C0312861,AUGMENTS,promoter,Neutrophil chemotaxis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0003261,AUGMENTS,Reactive Oxygen Species,Antibody Formation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0008018,AUGMENTS,Reactive Oxygen Species,Chemotaxis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0015283,AUGMENTS,Reactive Oxygen Species,Exocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0037083,AUGMENTS,Reactive Oxygen Species,Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0162638,AUGMENTS,Reactive Oxygen Species,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C0282636,AUGMENTS,Reactive Oxygen Species,Cell Respiration,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0162772,C1160700,AUGMENTS,Reactive Oxygen Species,viral gene expression,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0242494,C0302167,AUGMENTS,Poly(A) Tail,capping,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0302583,C0007587,AUGMENTS,Iron,Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0600493,C1157569,AUGMENTS,5' Untranslated Regions,viral translation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0600508,C0007587,AUGMENTS,Response Elements,Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0600600,C0010813,AUGMENTS,3' Untranslated Regions,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0600680,C1157569,AUGMENTS,Untranslated Regions,viral translation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0600680,C1160701,AUGMENTS,Untranslated Regions,viral genome replication,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0751969,C0162638,AUGMENTS,Small Nucleolar RNA,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0919262,C0887840,AUGMENTS,"DNA, B-Form",Nuclear Export,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C0965735,C3820939,AUGMENTS,atractylenolide I,intestinal epithelial cell migration,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1099354,C0007587,AUGMENTS,"RNA, Small Interfering",Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1099354,C0162638,AUGMENTS,"RNA, Small Interfering",Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1099354,C1160466,AUGMENTS,"RNA, Small Interfering",conjugation,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1099354,C1160700,AUGMENTS,"RNA, Small Interfering",viral gene expression,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1101610,C0162638,AUGMENTS,MicroRNAs,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1136170,C0010813,AUGMENTS,Virulence Factors,Cytokinesis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1136170,C0031308,AUGMENTS,Virulence Factors,Phagocytosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1136170,C1155342,AUGMENTS,Virulence Factors,cellular response to unfolded protein,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1291185,C0037083,AUGMENTS,Microbial DNA,Signal Transduction,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1310768,C0086982,AUGMENTS,EPs 7630,Signal Transduction Pathways,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1337053,C0007587,AUGMENTS,pre-miRNA,Cell Death,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1450222,C0004391,AUGMENTS,Pogostone,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1450222,C0162638,AUGMENTS,Pogostone,Apoptosis,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C1562409,C0004391,AUGMENTS,Cholesterol derivative,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C3710730,C0004391,AUGMENTS,cyclic guanosine monophosphate-adenosine monophosphate,Autophagy,bacs,celf,1,AUGMENTS_BACSaugmCELF
+C3710730,C2611812,AUGMENTS,cyclic guanosine monophosphate-adenosine monophosphate,signaling cascade,bacs,celf,1,AUGMENTS_BACSaugmCELF

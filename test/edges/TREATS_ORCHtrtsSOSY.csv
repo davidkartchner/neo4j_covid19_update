@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000477,C0426980,TREATS,dalfampridine,Motor symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0000970,C0231918,TREATS,Acetaminophen,Nose symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0000970,C0392171,TREATS,Acetaminophen,Influenza-like symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0001927,C0010200,TREATS,Albuterol,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0001927,C0043144,TREATS,Albuterol,Wheezing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0001962,C0026837,TREATS,Ethanol,Muscle Rigidity,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0002772,C0027497,TREATS,"Analgesics, Opioid",Nausea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0002772,C0030193,TREATS,"Analgesics, Opioid",Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0002772,C0085631,TREATS,"Analgesics, Opioid",Agitation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0002772,C0596240,TREATS,"Analgesics, Opioid",Cancer Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0004057,C0231918,TREATS,Aspirin,Nose symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0004057,C0392171,TREATS,Aspirin,Influenza-like symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0004963,C0030193,TREATS,Diphenhydramine Hydrochloride,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0006949,C0036572,TREATS,Carbamazepine,Seizures,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0008269,C0030193,TREATS,Chloroquine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0008286,C0027497,TREATS,Chlorpromazine,Nausea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0008809,C0011991,TREATS,Ciprofloxacin,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0009214,C0030193,TREATS,Codeine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0010620,C0030193,TREATS,Cyproheptadine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0012522,C0740903,TREATS,Diphenhydramine,allergic symptom,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0017696,C0043144,TREATS,Glucans,Wheezing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0018305,C0010200,TREATS,Guaifenesin,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0020336,C0038187,TREATS,Hydroxychloroquine,Starvation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0020404,C0740903,TREATS,Hydroxyzine,allergic symptom,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0020740,C0231218,TREATS,Ibuprofen,Malaise,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0021246,C0010200,TREATS,Indomethacin,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0023810,C0030794,TREATS,Lipopolysaccharides,Pelvic Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0023992,C0011991,TREATS,Loperamide,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0023992,C1443924,TREATS,Loperamide,Severe diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0024056,C0085631,TREATS,Loxapine,Agitation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0024730,C0018681,TREATS,Mannitol,Headache,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0024730,C0037088,TREATS,Mannitol,Signs and Symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0025598,C0497406,TREATS,Metformin,Overweight,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0025617,C0014724,TREATS,Methane,Eructation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0025853,C0750323,TREATS,Metoclopramide,Intractable vomiting,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0025872,C0011991,TREATS,Metronidazole,Diarrhea,orch,sosy,2,TREATS_ORCHtrtsSOSY
+C0026549,C0030193,TREATS,Morphine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0028179,C0011991,TREATS,Nitroimidazoles,Diarrhea,orch,sosy,2,TREATS_ORCHtrtsSOSY
+C0028978,C0010200,TREATS,Omeprazole,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0029112,C0010200,TREATS,Opium,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0029112,C1443924,TREATS,Opium,Severe diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0031463,C0026858,TREATS,Phenylbutazone,Musculoskeletal Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0033229,C0750323,TREATS,Prochlorperazine,Intractable vomiting,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0038317,C0030193,TREATS,Steroids,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0038317,C0043144,TREATS,Steroids,Wheezing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0039294,C0011991,TREATS,Tannic Acid,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0040989,C0042963,TREATS,Triflupromazine,Vomiting,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0049506,C0030193,TREATS,Mirtazapine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0049506,C0232462,TREATS,Mirtazapine,Decrease in appetite,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0051920,C0037763,TREATS,anisodamine,Spasm,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0060503,C0030193,TREATS,flunixin meglumine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0061851,C0750323,TREATS,Ondansetron,Intractable vomiting,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0064368,C0010201,TREATS,"O,O-diisopropyl-S-benzylthiophosphate",Chronic cough,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0065180,C0740903,TREATS,Loratadine,allergic symptom,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0066969,C0000737,TREATS,mustard oil,Abdominal Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0068788,C0011991,TREATS,nitazoxanide,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0069751,C0030193,TREATS,oxcarbazepine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0073096,C0000765,TREATS,resveratrol,Excessive body weight gain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0073096,C0011991,TREATS,resveratrol,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0073096,C0036572,TREATS,resveratrol,Seizures,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0074393,C1535964,TREATS,Sertraline,Cholestatic pruritus,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0074992,C0011991,TREATS,sphingosine 1-phosphate,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0075246,C0011991,TREATS,stevioside,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0076836,C0038187,TREATS,Toremifene,Starvation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0078442,C0030193,TREATS,epinastine,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0078847,C0917801,TREATS,zopiclone,Sleeplessness,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0085171,C0038187,TREATS,Aphidicolin,Starvation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0106552,C0011991,TREATS,Bismuth Salicylate,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0113293,C0085631,TREATS,Dexmedetomidine,Agitation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0137027,C0009806,TREATS,Picolax,Constipation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0144237,C0004604,TREATS,Silvan,Back Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0144237,C0231528,TREATS,Silvan,Myalgia,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0221793,C0013404,TREATS,Opiate Alkaloids,Dyspnea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0296800,C0740903,TREATS,fexofenadine,allergic symptom,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0298130,C0010200,TREATS,montelukast,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0298130,C0231918,TREATS,montelukast,Nose symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0359916,C0010200,TREATS,Phenolics,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0525129,C0019209,TREATS,"WY 14,643",Hepatomegaly,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0525678,C0231218,TREATS,rasagiline,Malaise,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0596577,C0030193,TREATS,Flavonoids,Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0596577,C0036572,TREATS,Flavonoids,Seizures,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0631516,C0000737,TREATS,"15-methyl-8-aza-16-oxagona-1,3,5(10),13-tetraen-17-one",Abdominal Pain,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0722001,C0015672,TREATS,Nausea Control,Fatigue,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0752270,C0242429,TREATS,Echinacea Preparation,Sore Throat,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0755562,C3714552,TREATS,U 0126,Weakness,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0874161,C0004134,TREATS,Oseltamivir,Ataxia,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0874161,C0011991,TREATS,Oseltamivir,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0874161,C0042963,TREATS,Oseltamivir,Vomiting,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0874161,C0231528,TREATS,Oseltamivir,Myalgia,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0874161,C0392171,TREATS,Oseltamivir,Influenza-like symptoms,orch,sosy,2,TREATS_ORCHtrtsSOSY
+C0908935,C0740903,TREATS,desloratadine,allergic symptom,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C0935989,C0013404,TREATS,imatinib,Dyspnea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C1455147,C0037088,TREATS,dasatinib,Signs and Symptoms,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C1871004,C0232462,TREATS,maropitant,Decrease in appetite,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2717875,C0009806,TREATS,Prebiotics,Constipation,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2717875,C0011991,TREATS,Prebiotics,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2926735,C0010200,TREATS,Duration,Coughing,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2926735,C0011991,TREATS,Duration,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2926735,C0034642,TREATS,Duration,Rales,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C2926735,C0036572,TREATS,Duration,Seizures,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C3256127,C0011991,TREATS,Bos taurus colostrum preparation,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY
+C4548092,C0011991,TREATS,KDU731,Diarrhea,orch,sosy,1,TREATS_ORCHtrtsSOSY

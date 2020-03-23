@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C1514849,AUGMENTS,Autophagy,Replication-Associated Process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007586,C0598312,AUGMENTS,Cell Cycle,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007595,C1171362,AUGMENTS,cell growth,protein expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0007613,C0282572,AUGMENTS,Cell physiology,"Frameshifting, Ribosomal",celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C0040649,AUGMENTS,Cytokinesis,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1158480,AUGMENTS,Cytokinesis,Depurination,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1158513,AUGMENTS,Cytokinesis,double-strand break repair via homologous recombination,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1511695,AUGMENTS,Cytokinesis,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1518406,AUGMENTS,Cytokinesis,Non-Homologous DNA End-Joining,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0010813,C1519619,AUGMENTS,Cytokinesis,Translational Repression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0015283,C0598312,AUGMENTS,Exocytosis,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0037083,C0040649,AUGMENTS,Signal Transduction,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C0037083,C0162493,AUGMENTS,Signal Transduction,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0162638,C0598312,AUGMENTS,Apoptosis,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0162638,C1158016,AUGMENTS,Apoptosis,rRNA catabolic process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0162638,C1512167,AUGMENTS,Apoptosis,Ectopic Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C0302167,C1519613,AUGMENTS,capping,Translation Initiation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155065,C0040649,AUGMENTS,T-Cell Activation,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155065,C0162493,AUGMENTS,T-Cell Activation,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C0017262,AUGMENTS,cellular response to unfolded protein,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C0040649,AUGMENTS,cellular response to unfolded protein,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C0599177,AUGMENTS,cellular response to unfolded protein,protein activation,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155342,C2260797,AUGMENTS,cellular response to unfolded protein,RNase activity,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155873,C0598312,AUGMENTS,Cell Cycle Arrest,DNA Replication,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1155873,C1751194,AUGMENTS,Cell Cycle Arrest,DNA damage checkpoint,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1156140,C0040649,AUGMENTS,ribosome biogenesis,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1160716,C0034865,AUGMENTS,viral transmission,"Recombination, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1325881,C0040649,AUGMENTS,biofilm formation,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C1523250,C1511695,AUGMENTS,establishment of RNA localization,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1622911,C1149630,AUGMENTS,Anaphase,NAD-dependent histone deacetylase activity,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1622911,C1156152,AUGMENTS,Anaphase,rRNA processing,celf,genf,1,AUGMENTS_CELFaugmGENF
+C1817588,C1511695,AUGMENTS,membrane invagination,DNA Sequence Rearrangement,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2611812,C0040649,AUGMENTS,signaling cascade,"Transcription, Genetic",celf,genf,1,AUGMENTS_CELFaugmGENF
+C2611812,C1148673,AUGMENTS,signaling cascade,dna binding,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2755756,C0017262,AUGMENTS,cellular transcription,Gene Expression,celf,genf,1,AUGMENTS_CELFaugmGENF
+C2755756,C0020202,AUGMENTS,cellular transcription,Crossbreeding,celf,genf,1,AUGMENTS_CELFaugmGENF
+C3158802,C1519614,AUGMENTS,stress granule disassembly,Genetic Translation Process,celf,genf,1,AUGMENTS_CELFaugmGENF
+C3178864,C1751194,AUGMENTS,Intra-S Checkpoints,DNA damage checkpoint,celf,genf,1,AUGMENTS_CELFaugmGENF
+C3546359,C0162493,AUGMENTS,pro-apoptosis,Transcriptional Activation,celf,genf,1,AUGMENTS_CELFaugmGENF

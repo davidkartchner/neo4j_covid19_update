@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005800,C0013832,USES,Blood Gas Analysis,Electrolytes,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0002615,USES,Cell Count,Ammonium Chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0006711,USES,Cell Count,calcium phosphate,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0016327,USES,Cell Count,Fluorides,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0020281,USES,Cell Count,Hydrogen Peroxide,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0043047,USES,Cell Count,Water,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0052418,USES,Cell Count,arsenite,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0074719,USES,Cell Count,sodium arsenite,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0074770,USES,Cell Count,sodium sulfide,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0772313,USES,Cell Count,colloidal silver,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C0790233,USES,Cell Count,Distilled water,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C1512523,USES,Cell Count,hydrochloride,lbpr,inch,1,USES_LBPRusesINCH
+C0007584,C3536832,USES,Cell Count,Air,lbpr,inch,1,USES_LBPRusesINCH
+C0007703,C0055134,USES,Centrifugation,cesium chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0007703,C0074748,USES,Centrifugation,sodium nitrate,lbpr,inch,1,USES_LBPRusesINCH
+C0007703,C0621573,USES,Centrifugation,triethylammonium bicarbonate,lbpr,inch,1,USES_LBPRusesINCH
+C0007704,C0055134,USES,"Centrifugation, Density Gradient",cesium chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0008553,C0621573,USES,"Chromatography, DEAE-Cellulose",triethylammonium bicarbonate,lbpr,inch,1,USES_LBPRusesINCH
+C0008562,C0043047,USES,High pressure liquid chromatography procedure,Water,lbpr,inch,1,USES_LBPRusesINCH
+C0013855,C0006020,USES,Electrophoresis,boric acid,lbpr,inch,1,USES_LBPRusesINCH
+C0016318,C0016327,USES,Fluorescent Antibody Technique,Fluorides,lbpr,inch,1,USES_LBPRusesINCH
+C0022885,C0043047,USES,Laboratory Procedures,Water,lbpr,inch,1,USES_LBPRusesINCH
+C0022885,C2919405,USES,Laboratory Procedures,Tap water,lbpr,inch,1,USES_LBPRusesINCH
+C0041609,C0055134,USES,Ultracentrifugation,cesium chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0041609,C0065088,USES,Ultracentrifugation,Lithium Chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0041609,C0211241,USES,Ultracentrifugation,cesium bromide,lbpr,inch,1,USES_LBPRusesINCH
+C0079240,C0043047,USES,Dilution technique,Water,lbpr,inch,1,USES_LBPRusesINCH
+C0085194,C0031730,USES,Negative Staining,Phosphotungstic Acid,lbpr,inch,1,USES_LBPRusesINCH
+C0085672,C0065094,USES,Microbiology procedure,lithium sulfate,lbpr,inch,1,USES_LBPRusesINCH
+C0200345,C3536832,USES,Specimen Collection,Air,lbpr,inch,1,USES_LBPRusesINCH
+C0200363,C0025552,USES,Specimen preparation,Metals,lbpr,inch,1,USES_LBPRusesINCH
+C0200363,C0790233,USES,Specimen preparation,Distilled water,lbpr,inch,1,USES_LBPRusesINCH
+C0201242,C0051522,USES,Animal inoculation,aluminum sulfate,lbpr,inch,1,USES_LBPRusesINCH
+C0242842,C0303749,USES,"Microscopy, Confocal",Bleach,lbpr,inch,1,USES_LBPRusesINCH
+C0597428,C0055134,USES,Sedimentation procedure,cesium chloride,lbpr,inch,1,USES_LBPRusesINCH
+C0599953,C0076733,USES,Virus Inactivation,titanium dioxide,lbpr,inch,1,USES_LBPRusesINCH
+C0678118,C0031730,USES,Transmission Electron Microscopy,Phosphotungstic Acid,lbpr,inch,1,USES_LBPRusesINCH
+C0920504,C0016327,USES,embryonic cell culture,Fluorides,lbpr,inch,1,USES_LBPRusesINCH
+C1441554,C0036085,USES,Direct assay,"Saline Solution, Hypertonic",lbpr,inch,1,USES_LBPRusesINCH
+C1441565,C0043047,USES,Elution,Water,lbpr,inch,1,USES_LBPRusesINCH
+C1441565,C0621573,USES,Elution,triethylammonium bicarbonate,lbpr,inch,1,USES_LBPRusesINCH
+C1449619,C0036085,USES,Culture Techniques,"Saline Solution, Hypertonic",lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0009359,USES,Assay,Gold Colloid,lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0016327,USES,Assay,Fluorides,lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0034320,USES,Assay,Diphosphates,lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0036085,USES,Assay,"Saline Solution, Hypertonic",lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0077513,USES,Assay,tungstate,lbpr,inch,1,USES_LBPRusesINCH
+C1510438,C0790233,USES,Assay,Distilled water,lbpr,inch,1,USES_LBPRusesINCH
+C1511148,C0043047,USES,Biological Testing,Water,lbpr,inch,1,USES_LBPRusesINCH
+C1516952,C0055134,USES,Equilibrium Centrifugation,cesium chloride,lbpr,inch,1,USES_LBPRusesINCH
+C2717789,C0043047,USES,"Chromatography, Reversed-Phase Liquid",Water,lbpr,inch,1,USES_LBPRusesINCH
+C2717789,C0621573,USES,"Chromatography, Reversed-Phase Liquid",triethylammonium bicarbonate,lbpr,inch,1,USES_LBPRusesINCH
+C2733022,C0043047,USES,Quantitative PCR analysis,Water,lbpr,inch,1,USES_LBPRusesINCH
+C3178849,C0009359,USES,Immunochromatography,Gold Colloid,lbpr,inch,1,USES_LBPRusesINCH
+C3178850,C0009359,USES,Immunochromatographic Assay,Gold Colloid,lbpr,inch,1,USES_LBPRusesINCH
+C3484173,C0051522,USES,Vaccination panel,aluminum sulfate,lbpr,inch,1,USES_LBPRusesINCH

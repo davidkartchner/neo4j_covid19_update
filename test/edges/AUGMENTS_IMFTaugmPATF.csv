@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0021368,AUGMENTS,Immunologic Adjuvants,Inflammation,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0001551,C1155266,AUGMENTS,Immunologic Adjuvants,inflammatory response,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0001697,C0020517,AUGMENTS,Aeroallergen,Hypersensitivity,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0002092,C2717792,AUGMENTS,Allergens,Airway Remodeling,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0003342,C0020517,AUGMENTS,"Antigens, Viral",Hypersensitivity,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0003342,C0021368,AUGMENTS,"Antigens, Viral",Inflammation,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0018593,C0020522,AUGMENTS,Haptens,Delayed Hypersensitivity,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0042210,C0162633,AUGMENTS,Vaccines,Viral Shedding,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0079600,C0024348,AUGMENTS,Immunodominant Epitopes,Lysis,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0079600,C0332448,AUGMENTS,Immunodominant Epitopes,Infiltration,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0086413,C0021368,AUGMENTS,HIV Vaccine,Inflammation,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0376613,C1155266,AUGMENTS,"Vaccines, DNA",inflammatory response,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C0887892,C0332448,AUGMENTS,"Vaccines, Subunit",Infiltration,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C1291777,C0020517,AUGMENTS,Protein antigen,Hypersensitivity,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C1440710,C0020517,AUGMENTS,HIV 1 gp41,Hypersensitivity,imft,patf,1,AUGMENTS_IMFTaugmPATF
+C1883036,C0036679,AUGMENTS,Single-Chain Antibodies,Diastasis,imft,patf,1,AUGMENTS_IMFTaugmPATF

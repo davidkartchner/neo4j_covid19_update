@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003044,C0005658,ISA,Animal bite,bite injury,inpo,inpo,1,ISA_INPOisaINPO
+C0004161,C0043251,ISA,Athletic Injuries,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0016658,C0043251,ISA,Fracture,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0035126,C0043251,ISA,Reperfusion Injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0037379,C0040533,ISA,Snake Bites,Toxic effect of venom,inpo,inpo,1,ISA_INPOisaINPO
+C0043242,C0332671,ISA,Superficial abrasion,Superficial injury,inpo,inpo,1,ISA_INPOisaINPO
+C0043246,C0043251,ISA,Laceration,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0085094,C0043251,ISA,Closed head injuries,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0178316,C0016658,ISA,Fracture of upper limb,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C0235378,C0041755,ISA,Hepatotoxicity,Adverse reaction to drug,inpo,inpo,1,ISA_INPOisaINPO
+C0238037,C0016542,ISA,Foreign body in bronchus,Foreign Bodies,inpo,inpo,1,ISA_INPOisaINPO
+C0242488,C0273115,ISA,Acute Lung Injury,Lung Injury,inpo,inpo,1,ISA_INPOisaINPO
+C0262414,C0043251,ISA,Fracture of cervical spine,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0681630,C0043251,ISA,pedestrian accident,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0701836,C0043251,ISA,Thermal burn,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0018674,ISA,Traumatic Brain Injury,Craniocerebral Trauma,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0043251,ISA,Traumatic Brain Injury,Wounds and Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0270611,ISA,Traumatic Brain Injury,Brain Injuries,inpo,inpo,1,ISA_INPOisaINPO
+C0876926,C0751792,ISA,Traumatic Brain Injury,"Trauma, Nervous System",inpo,inpo,1,ISA_INPOisaINPO
+C1265651,C0561852,ISA,Microfractures,Bone injury,inpo,inpo,1,ISA_INPOisaINPO
+C1542178,C0016658,ISA,Fracture of lower leg,Fracture,inpo,inpo,1,ISA_INPOisaINPO
+C2350350,C0273115,ISA,Ventilator-Induced Lung Injury,Lung Injury,inpo,inpo,1,ISA_INPOisaINPO

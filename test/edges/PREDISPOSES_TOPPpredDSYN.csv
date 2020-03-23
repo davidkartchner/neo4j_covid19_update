@@ -1,0 +1,125 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007202,C0022660,PREDISPOSES,Cardiopulmonary Bypass,"Kidney Failure, Acute",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0007876,C0282687,PREDISPOSES,Cesarean section,"Hemorrhagic Fever, Ebola",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0010042,C0022336,PREDISPOSES,Keratoplasty,Creutzfeldt-Jakob disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0011946,C0010356,PREDISPOSES,Dialysis procedure,Cross Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0012683,C0949083,PREDISPOSES,Disinfection,Hospital acquired pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0013806,C0011847,PREDISPOSES,Electroconvulsive Therapy,Diabetes,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0013806,C0730328,PREDISPOSES,Electroconvulsive Therapy,Central Serous Chorioretinopathy,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0014327,C0032290,PREDISPOSES,Enteral Nutrition,Aspiration Pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0014327,C1701940,PREDISPOSES,Enteral Nutrition,"Pneumonia, Ventilator-Associated",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0015357,C0010356,PREDISPOSES,Extracorporeal Membrane Oxygenation,Cross Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0015357,C0022660,PREDISPOSES,Extracorporeal Membrane Oxygenation,"Kidney Failure, Acute",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0015915,C0376329,PREDISPOSES,Fertilization in Vitro,New Variant Creutzfeldt-Jakob Disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017118,C0041296,PREDISPOSES,Gastrectomy,Tuberculosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0010356,PREDISPOSES,gene therapy,Cross Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0021400,PREDISPOSES,gene therapy,Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0024117,PREDISPOSES,gene therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0035243,PREDISPOSES,gene therapy,Respiratory Tract Infections,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0238013,PREDISPOSES,gene therapy,Invasive aspergillosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0243026,PREDISPOSES,gene therapy,Sepsis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C0276289,PREDISPOSES,gene therapy,Zika Virus Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C1320214,PREDISPOSES,gene therapy,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C3277428,PREDISPOSES,gene therapy,Severe viral infections,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0017296,C4505065,PREDISPOSES,gene therapy,Noncommunicable Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0018821,C0272285,PREDISPOSES,Cardiac Surgery procedures,Heparin-induced thrombocytopenia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0019857,C0036690,PREDISPOSES,Home Childbirth,Septicemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0020971,C0276500,PREDISPOSES,Immunization,Human immunodeficiency virus I infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0020972,C1405308,PREDISPOSES,Immunization Schedule,Vaccine-Associated Paralytic Poliomyelitis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0021079,C0025007,PREDISPOSES,Therapeutic immunosuppression,Measles,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0021925,C1175175,PREDISPOSES,Intubation,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0021932,C0021400,PREDISPOSES,"Intubation, Intratracheal",Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0021932,C1175175,PREDISPOSES,"Intubation, Intratracheal",Severe Acute Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0033972,C0036690,PREDISPOSES,"Psychotherapy, Multiple",Septicemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0034386,C0010356,PREDISPOSES,Quarantine,Cross Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0036716,C0349410,PREDISPOSES,Serial Extraction,Single organ dysfunction,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040732,C0022336,PREDISPOSES,Transplantation,Creutzfeldt-Jakob disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040732,C0041296,PREDISPOSES,Transplantation,Tuberculosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040732,C0042749,PREDISPOSES,Transplantation,Viremia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040732,C0042769,PREDISPOSES,Transplantation,Virus Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040732,C1535939,PREDISPOSES,Transplantation,Pneumocystis jiroveci pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040739,C0022660,PREDISPOSES,"Transplantation, Homologous","Kidney Failure, Acute",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040861,C0038454,PREDISPOSES,Triage,Cerebrovascular accident,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0040861,C0282687,PREDISPOSES,Triage,"Hemorrhagic Fever, Ebola",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042019,C0042029,PREDISPOSES,Urinary Catheterization,Urinary tract infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C0004096,PREDISPOSES,Vaccination,Asthma,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C0014059,PREDISPOSES,Vaccination,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C0021400,PREDISPOSES,Vaccination,Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C0032870,PREDISPOSES,Vaccination,Poxviridae Infections,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C0747676,PREDISPOSES,Vaccination,pneumonia childhood,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C1320214,PREDISPOSES,Vaccination,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C1373218,PREDISPOSES,Vaccination,Decreased Immunologic Activity [PE],topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042196,C2076600,PREDISPOSES,Vaccination,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042200,C0021400,PREDISPOSES,Influenza vaccination,Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0042200,C0042214,PREDISPOSES,Influenza vaccination,Vaccinia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0079613,C0002395,PREDISPOSES,Adoptive Immunotherapy,Alzheimer's Disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0079646,C0022336,PREDISPOSES,Islets of Langerhans Transplantation,Creutzfeldt-Jakob disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0149783,C0020456,PREDISPOSES,Steroid therapy,Hyperglycemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0149783,C0038826,PREDISPOSES,Steroid therapy,Superinfection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0150141,C0043528,PREDISPOSES,Bathing,Zoonoses,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0152060,C0036690,PREDISPOSES,Transection (procedure),Septicemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0152060,C1264606,PREDISPOSES,Transection (procedure),Persistent infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185003,C0016627,PREDISPOSES,Reparative closure,Influenza in Birds,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185027,C0275524,PREDISPOSES,Imbrication (procedure),Coinfection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185114,C1175175,PREDISPOSES,Manual reduction,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185115,C0002871,PREDISPOSES,Extraction,Anemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185115,C0948343,PREDISPOSES,Extraction,Transfusion-Related Acute Lung Injury,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0185115,C3472181,PREDISPOSES,Extraction,Severe dehydration,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199176,C0016663,PREDISPOSES,Prophylactic treatment,Pathological fracture,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199176,C0032290,PREDISPOSES,Prophylactic treatment,Aspiration Pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199470,C0035222,PREDISPOSES,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199470,C0149725,PREDISPOSES,Mechanical ventilation,Lower respiratory tract infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199779,C0007642,PREDISPOSES,Administration of antibiotic,Cellulitis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199779,C0019061,PREDISPOSES,Administration of antibiotic,Hemolytic-Uremic Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199779,C0029882,PREDISPOSES,Administration of antibiotic,Otitis Media,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199779,C0031157,PREDISPOSES,Administration of antibiotic,Peritonsillar Abscess,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0199779,C0037199,PREDISPOSES,Administration of antibiotic,Sinusitis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0204727,C0009450,PREDISPOSES,Isolation procedure,Communicable Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0278347,C0274435,PREDISPOSES,Transfusion of plasma,Transfusion Reaction,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0278911,C0011849,PREDISPOSES,ifosfamide/lomustine/vinblastine,Diabetes Mellitus,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0280090,C3534575,PREDISPOSES,aminoglutethimide/danazol/hydrocortisone/tamoxifen,Animal Health,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0280274,C0004623,PREDISPOSES,Antiviral Therapy,Bacterial Infections,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0281481,C0041296,PREDISPOSES,anti-tumor necrosis factor therapy,Tuberculosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0281481,C0740451,PREDISPOSES,anti-tumor necrosis factor therapy,Granulomatous disorder,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0282402,C0008312,PREDISPOSES,Hormone replacement therapy,Primary biliary cirrhosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0282515,C0022521,PREDISPOSES,Chemoprevention,Kartagener Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0349707,C0006267,PREDISPOSES,Aspiration-action,Bronchiectasis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0349707,C0035222,PREDISPOSES,Aspiration-action,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0376450,C0085692,PREDISPOSES,Transplantation Conditioning,Hemorrhagic cystitis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0376495,C0001486,PREDISPOSES,Retreatments,Adenovirus Infections,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0376495,C0025007,PREDISPOSES,Retreatments,Measles,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0412808,C0694549,PREDISPOSES,Active cooling of patient,Community acquired pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0472699,C0018133,PREDISPOSES,Hemopoietic stem cell transplant,Graft-vs-Host Disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0472699,C0035220,PREDISPOSES,Hemopoietic stem cell transplant,"Respiratory Distress Syndrome, Newborn",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0472699,C0042769,PREDISPOSES,Hemopoietic stem cell transplant,Virus Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0472699,C1535939,PREDISPOSES,Hemopoietic stem cell transplant,Pneumocystis jiroveci pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0599989,C0042769,PREDISPOSES,Transplant immunosuppression,Virus Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0677850,C0038826,PREDISPOSES,adjuvant therapy,Superinfection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0679698,C0872315,PREDISPOSES,disease prevention,"Communicable Diseases, Emerging",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0747424,C0006840,PREDISPOSES,penicillin treatment,Candidiasis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0808232,C0002736,PREDISPOSES,Therapeutic Intervention,Amyotrophic Lateral Sclerosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0814435,C0010356,PREDISPOSES,early identification,Cross Infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0814435,C0018802,PREDISPOSES,early identification,Congestive heart failure,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0860359,C0032285,PREDISPOSES,Reintubation Procedure,Pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0860359,C0949083,PREDISPOSES,Reintubation Procedure,Hospital acquired pneumonia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0920298,C0008679,PREDISPOSES,Weight maintenance regimen,Chronic disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0920467,C0021400,PREDISPOSES,disorder control (procedure),Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0935563,C0019196,PREDISPOSES,Piercing procedure,Hepatitis C,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C0947647,C0009450,PREDISPOSES,Manipulation procedure,Communicable Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1261381,C0002871,PREDISPOSES,Destructive procedure (surgical),Anemia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1261381,C0149725,PREDISPOSES,Destructive procedure (surgical),Lower respiratory tract infection,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1511790,C0004610,PREDISPOSES,Detection,Bacteremia,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1511790,C0009450,PREDISPOSES,Detection,Communicable Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1511790,C0010418,PREDISPOSES,Detection,Cryptosporidiosis,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1511790,C0043124,PREDISPOSES,Detection,West Nile Fever,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1511790,C0376538,PREDISPOSES,Detection,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1512034,C0018133,PREDISPOSES,Donor Lymphocyte Infusion,Graft-vs-Host Disease,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1531698,C0009450,PREDISPOSES,Active monitoring,Communicable Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1708063,C0238644,PREDISPOSES,First line treatment,"Anemia, severe",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1963724,C0007222,PREDISPOSES,Antiretroviral therapy,Cardiovascular Diseases,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1963724,C0011860,PREDISPOSES,Antiretroviral therapy,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1997883,C0021400,PREDISPOSES,Noninvasive Ventilation,Influenza,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C1997883,C1175175,PREDISPOSES,Noninvasive Ventilation,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C2349751,C1175175,PREDISPOSES,Invasive positive pressure ventilation,Severe Acute Respiratory Syndrome,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C2987620,C0748168,PREDISPOSES,Inoculation,Pulmonary Pathology,topp,dsyn,1,PREDISPOSES_TOPPpredDSYN
+C3540512,C0018572,PREDISPOSES,Circumferential Supracrestal Fiberotomy,"Hand, Foot and Mouth Disease",topp,dsyn,1,PREDISPOSES_TOPPpredDSYN

@@ -1,0 +1,735 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0026649,AUGMENTS,Actins,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002199,C1155328,AUGMENTS,Interferon-alpha,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002199,C1819426,AUGMENTS,Interferon-alpha,chemokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002199,C1819431,AUGMENTS,Interferon-alpha,interferon-alpha production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002520,C0005615,AUGMENTS,Amino Acids,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002520,C0018270,AUGMENTS,Amino Acids,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002520,C0042774,AUGMENTS,Amino Acids,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002520,C0301872,AUGMENTS,Amino Acids,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0002529,C0301872,AUGMENTS,Amino Acyl-tRNA Synthetases,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003009,C0005823,AUGMENTS,angiotensin II,Blood Pressure,aapp,orgf,2,AUGMENTS_AAPPaugmORGF
+C0003009,C0232338,AUGMENTS,angiotensin II,Blood flow,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0005615,AUGMENTS,Antibodies,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0020967,AUGMENTS,Antibodies,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0026649,AUGMENTS,Antibodies,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0042774,AUGMENTS,Antibodies,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0043084,AUGMENTS,Antibodies,Weaning,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003241,C0301872,AUGMENTS,Antibodies,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003250,C0301872,AUGMENTS,Monoclonal Antibodies,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003313,C0020967,AUGMENTS,Immune complex,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003313,C0301872,AUGMENTS,Immune complex,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003313,C0678723,AUGMENTS,Immune complex,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003313,C1155328,AUGMENTS,Immune complex,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003595,C0678723,AUGMENTS,Apolipoprotein E,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0003995,C0000934,AUGMENTS,Asparagine,Acclimatization,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0005789,C0301872,AUGMENTS,Blood Coagulation Factor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0007292,C0301872,AUGMENTS,Carrier Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0008356,C0301872,AUGMENTS,Cholera Toxin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0009316,C0018270,AUGMENTS,Colistin,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0009498,C0301872,AUGMENTS,Complement System Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C0005615,AUGMENTS,Cycloserine,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C0042774,AUGMENTS,Cycloserine,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C0301872,AUGMENTS,Cycloserine,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C0678723,AUGMENTS,Cycloserine,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C1327413,AUGMENTS,Cycloserine,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010590,C1654934,AUGMENTS,Cycloserine,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0010798,C0032961,AUGMENTS,Cytochromes,Pregnancy,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0012524,C0301872,AUGMENTS,Catechol Oxidase,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0013729,C0042774,AUGMENTS,Eukaryotic Initiation Factor-2,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0015683,C0025519,AUGMENTS,Fatty-acid synthase,Metabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0016194,C0020967,AUGMENTS,Flagellin,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0016194,C0301872,AUGMENTS,Flagellin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017030,C0699900,AUGMENTS,gamma-Crystallins,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017278,C0678723,AUGMENTS,"Gene Products, env",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017649,C2985494,AUGMENTS,Globulins,Resorption,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017757,C1155328,AUGMENTS,Glucosephosphate Dehydrogenase,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017789,C0018270,AUGMENTS,Glutamates,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017968,C0042774,AUGMENTS,Glycoproteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0017968,C0301872,AUGMENTS,Glycoproteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0018850,C0282498,AUGMENTS,Heat shock proteins,Heat-Shock Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0019630,C0301872,AUGMENTS,Histocompatibility Antigens Class II,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0019630,C1819447,AUGMENTS,Histocompatibility Antigens Class II,interleukin-2 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0019643,C3825510,AUGMENTS,Histone Deacetylase,Viruses--Reproduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0019822,C0042774,AUGMENTS,HN Protein,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0020197,C0005615,AUGMENTS,Hyaluronidase,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0020197,C0018270,AUGMENTS,Hyaluronidase,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0020838,C1819437,AUGMENTS,Secretory Immunoglobulin A,interleukin-10 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0020838,C1819459,AUGMENTS,Secretory Immunoglobulin A,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0020857,C0020966,AUGMENTS,IgG2A,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021027,C0301872,AUGMENTS,Immunoglobulins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021032,C0301872,AUGMENTS,Immunoglobulin Fc Fragments,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021641,C0005615,AUGMENTS,Insulin,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021641,C0699900,AUGMENTS,Insulin,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021699,C0042774,AUGMENTS,Integral Membrane Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021699,C0301872,AUGMENTS,Integral Membrane Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021701,C0043240,AUGMENTS,Integrins,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021701,C0699900,AUGMENTS,Integrins,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021701,C1510470,AUGMENTS,Integrins,Motility,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021743,C0042774,AUGMENTS,Interferon Type I,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021743,C0678209,AUGMENTS,Interferon Type I,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021743,C1155328,AUGMENTS,Interferon Type I,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021745,C1155328,AUGMENTS,Interferon Type II,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021745,C1654934,AUGMENTS,Interferon Type II,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021747,C0042774,AUGMENTS,Interferons,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021747,C0301872,AUGMENTS,Interferons,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021747,C0678209,AUGMENTS,Interferons,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021747,C1155328,AUGMENTS,Interferons,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021755,C0301872,AUGMENTS,Interleukin-1,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021755,C0596570,AUGMENTS,Interleukin-1,fibrogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021755,C0678209,AUGMENTS,Interleukin-1,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021755,C1749719,AUGMENTS,Interleukin-1,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021755,C1819444,AUGMENTS,Interleukin-1,interleukin-17 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021756,C0018270,AUGMENTS,Interleukin-2,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021756,C0020967,AUGMENTS,Interleukin-2,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021756,C0301872,AUGMENTS,Interleukin-2,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021756,C1327413,AUGMENTS,Interleukin-2,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C0005615,AUGMENTS,Interleukin-4,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C0018270,AUGMENTS,Interleukin-4,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C0301872,AUGMENTS,Interleukin-4,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C0678723,AUGMENTS,Interleukin-4,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C1819439,AUGMENTS,Interleukin-4,interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021758,C4255265,AUGMENTS,Interleukin-4,Neuronal Outgrowth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021760,C0043240,AUGMENTS,Interleukin-6,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021760,C0301872,AUGMENTS,Interleukin-6,Immune response,aapp,orgf,2,AUGMENTS_AAPPaugmORGF
+C0021760,C1749719,AUGMENTS,Interleukin-6,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021760,C1817749,AUGMENTS,Interleukin-6,T cell cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021760,C1819459,AUGMENTS,Interleukin-6,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0021764,C0301872,AUGMENTS,Interleukins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0022709,C0005823,AUGMENTS,Peptidyl-Dipeptidase A,Blood Pressure,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0022942,C0018270,AUGMENTS,Lactoferrin,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023206,C0042774,AUGMENTS,Lectin,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023206,C1160185,AUGMENTS,Lectin,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023206,C1327441,AUGMENTS,Lectin,negative regulation of inflammatory response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023689,C0026649,AUGMENTS,Ligase,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023689,C0042774,AUGMENTS,Ligase,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0023820,C0301872,AUGMENTS,Lipoproteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0024518,C0301872,AUGMENTS,Major Histocompatibility Complex,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025234,C0301872,AUGMENTS,Melitten,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025248,C0301872,AUGMENTS,Membrane Glycoproteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025248,C1160185,AUGMENTS,Membrane Glycoproteins,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025252,C0026649,AUGMENTS,Membrane Proteins,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025252,C0301872,AUGMENTS,Membrane Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0025831,C1749719,AUGMENTS,Methyltransferase,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0026682,C0019868,AUGMENTS,Mucins,Homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0026682,C0026649,AUGMENTS,Mucins,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0027803,C0042774,AUGMENTS,Neuraminidase,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0027803,C1510470,AUGMENTS,Neuraminidase,Motility,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0027893,C0013470,AUGMENTS,neuropeptide Y,Eating,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0027895,C0003618,AUGMENTS,Neuropeptides,Desire for food,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0028589,C0042774,AUGMENTS,Nuclear Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0028608,C0042774,AUGMENTS,Nucleolar Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0028612,C0042774,AUGMENTS,Nucleoproteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0028612,C0301872,AUGMENTS,Nucleoproteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0028623,C0043240,AUGMENTS,Nucleosomes,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0029005,C0301872,AUGMENTS,Oncogene Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0029923,C0020966,AUGMENTS,Ovalbumin,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0029923,C0301872,AUGMENTS,Ovalbumin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0030940,C0012238,AUGMENTS,Peptide Hydrolases,Digestion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0032583,C0042774,AUGMENTS,Polyproteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0033634,C0042774,AUGMENTS,Protein Kinase C,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034790,C1155328,AUGMENTS,T-Cell Receptor,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034800,C0301872,AUGMENTS,"Receptors, Cell Surface",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034805,C0020967,AUGMENTS,Fc Receptor,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034805,C0301872,AUGMENTS,Fc Receptor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034861,C0042774,AUGMENTS,Recombinant Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034861,C0301872,AUGMENTS,Recombinant Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0034862,C0301872,AUGMENTS,"Vaccines, Recombinant",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0035681,C0000934,AUGMENTS,DNA-Directed RNA Polymerase,Acclimatization,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0035685,C0042774,AUGMENTS,RNA-Directed RNA Polymerase,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0035923,C0301872,AUGMENTS,Rubella virus vaccine,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0036100,C0301872,AUGMENTS,Salivary Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0039617,C0301872,AUGMENTS,tetanus toxin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0039815,C1160185,AUGMENTS,Thermolysin,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040648,C0699900,AUGMENTS,TRANSCRIPTION FACTOR,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040648,C1155281,AUGMENTS,TRANSCRIPTION FACTOR,systemic acquired resistance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040690,C0001811,AUGMENTS,Transforming Growth Factor beta,Aging,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040691,C0001811,AUGMENTS,Transforming Growth Factors,Aging,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040691,C0043240,AUGMENTS,Transforming Growth Factors,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0040691,C1819444,AUGMENTS,Transforming Growth Factors,interleukin-17 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0041236,C0018270,AUGMENTS,TRYPSIN,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0041236,C0042774,AUGMENTS,TRYPSIN,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0041368,C0037817,AUGMENTS,Tumor Necrosis Factors,Speech,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0041538,C0699900,AUGMENTS,Ubiquitin,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0042711,C0014653,AUGMENTS,Viral Envelope Proteins,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0042711,C1654934,AUGMENTS,Viral Envelope Proteins,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0042736,C0005615,AUGMENTS,Viral Proteins,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0042736,C0042774,AUGMENTS,Viral Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0042736,C0301872,AUGMENTS,Viral Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0051755,C0043240,AUGMENTS,Amphiregulin,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0051755,C1523351,AUGMENTS,Amphiregulin,tissue homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0052591,C0005615,AUGMENTS,atelocollagen,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054252,C0042774,AUGMENTS,Buthionine Sulfoximine,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054543,C0301872,AUGMENTS,calreticulin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054543,C0678723,AUGMENTS,calreticulin,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054757,C0042774,AUGMENTS,carboxypeptidase H,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054871,C0301872,AUGMENTS,Cathepsin L,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0054943,C0012238,AUGMENTS,ALANINE AMINOPEPTIDASE,Digestion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0055023,C0018270,AUGMENTS,Vitronectin,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0055633,C0301872,AUGMENTS,Chromogranin A,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0055633,C0699900,AUGMENTS,Chromogranin A,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0055782,C0301872,AUGMENTS,circumsporozoite protein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0056193,C0004614,AUGMENTS,C4bp complement protein,Bacterial Adhesion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057256,C0043240,AUGMENTS,Defensins,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057256,C0301872,AUGMENTS,Defensins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057256,C0678209,AUGMENTS,Defensins,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057256,C1155328,AUGMENTS,Defensins,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057256,C1749719,AUGMENTS,Defensins,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0057738,C1563744,AUGMENTS,Diazepam Binding Inhibitor,Lipogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0058610,C0042774,AUGMENTS,HSP40 Heat-Shock Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0058610,C0301872,AUGMENTS,HSP40 Heat-Shock Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0058988,C0018270,AUGMENTS,Eukaryotic Initiation Factor-4E,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0058991,C0018270,AUGMENTS,Eukaryotic Initiation Factor-5,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0059973,C1160185,AUGMENTS,ezrin,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0060320,C0042774,AUGMENTS,fibrillarin,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0060911,C1160185,AUGMENTS,"G protein, vesicular stomatitis virus",transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0062534,C0018270,AUGMENTS,Hepatocyte Growth Factor,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0063699,C0301872,AUGMENTS,Interferon Receptor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0063700,C0042774,AUGMENTS,Interferon Regulatory Factor 1,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0065693,C1160185,AUGMENTS,Mannose-Binding Lectins,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0065827,C0026649,AUGMENTS,Measles Virus Nucleoprotein,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0065827,C0042774,AUGMENTS,Measles Virus Nucleoprotein,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0065827,C0301872,AUGMENTS,Measles Virus Nucleoprotein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0065827,C1327413,AUGMENTS,Measles Virus Nucleoprotein,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0069139,C0042774,AUGMENTS,nucleolin,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0069141,C0018270,AUGMENTS,nucleophosmin,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0069676,C0301872,AUGMENTS,osteopontin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0070410,C0005615,AUGMENTS,perforin,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0071795,C0011065,AUGMENTS,2-5A-dependent ribonuclease,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0072108,C0699900,AUGMENTS,Proliferating Cell Nuclear Antigen,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0073240,C0042774,AUGMENTS,Ribonuclease III,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0075337,C0301872,AUGMENTS,"structural-GP protein, Bos taurus",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0076628,C0678723,AUGMENTS,thymus-leukemia antigens,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0077401,C0011065,AUGMENTS,Troponin I,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0077503,C0301872,AUGMENTS,Tumor Necrosis Factor Receptor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0077678,C0043240,AUGMENTS,ubiquitin-protein ligase,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0078058,C0018270,AUGMENTS,Vascular Endothelial Growth Factor A,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079073,C0014653,AUGMENTS,c-src Genes,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0001811,AUGMENTS,cytokine,Aging,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0005615,AUGMENTS,cytokine,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0020966,AUGMENTS,cytokine,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0042774,AUGMENTS,cytokine,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0043240,AUGMENTS,cytokine,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0301872,AUGMENTS,cytokine,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0678209,AUGMENTS,cytokine,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C0678723,AUGMENTS,cytokine,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C1155328,AUGMENTS,cytokine,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C1327413,AUGMENTS,cytokine,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C1819430,AUGMENTS,cytokine,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079189,C1819439,AUGMENTS,cytokine,interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079323,C0018270,AUGMENTS,Extracellular Matrix Proteins,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079405,C0042774,AUGMENTS,"Gene Products, vpr",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079405,C0043240,AUGMENTS,"Gene Products, vpr",Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079419,C0018270,AUGMENTS,TP53 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079419,C0301872,AUGMENTS,TP53 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079419,C0699900,AUGMENTS,TP53 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079423,C0042774,AUGMENTS,"Genes, vpr",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079459,C1819459,AUGMENTS,Granulocyte Colony-Stimulating Factor,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079460,C0301872,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079460,C0678723,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079633,C0009253,AUGMENTS,Interleukin-8,Coitus,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079904,C0042774,AUGMENTS,NF-kappa B,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079904,C0301872,AUGMENTS,NF-kappa B,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0079904,C1155328,AUGMENTS,NF-kappa B,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0080222,C1819426,AUGMENTS,"TGFB1 protein, human",chemokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0082731,C0042774,AUGMENTS,Glycine dehydrogenase (decarboxylating),Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0084692,C0032961,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Pregnancy,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0084692,C1327413,AUGMENTS,Pulmonary Surfactant-Associated Protein D,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0084692,C1819464,AUGMENTS,Pulmonary Surfactant-Associated Protein D,tumor necrosis factor production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0084795,C0699900,AUGMENTS,Tristetraprolin,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0085177,C1327413,AUGMENTS,RNA-Binding Proteins,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0085295,C0043240,AUGMENTS,Interleukin-10,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0085295,C0678723,AUGMENTS,Interleukin-10,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0085828,C1327413,AUGMENTS,Transcription Factor AP-1,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0086376,C0019868,AUGMENTS,GTP-Binding Proteins,Homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0086376,C0301872,AUGMENTS,GTP-Binding Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0090388,C0301872,AUGMENTS,14-3-3 Proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0108187,C0042774,AUGMENTS,Calnexin,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0108187,C0678723,AUGMENTS,Calnexin,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0108801,C0301872,AUGMENTS,"TFRC protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0108801,C1749719,AUGMENTS,"TFRC protein, human",Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0109273,C0678723,AUGMENTS,chaperonin,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0111429,C0699900,AUGMENTS,Cyclin E,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0115922,C0042774,AUGMENTS,endogenous pyrogen,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0120285,C1155285,AUGMENTS,Green Fluorescent Proteins,virus induced gene silencing (VIGS),aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0123759,C0020966,AUGMENTS,Interleukin-12,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0123759,C0301872,AUGMENTS,Interleukin-12,Immune response,aapp,orgf,2,AUGMENTS_AAPPaugmORGF
+C0123759,C0678209,AUGMENTS,Interleukin-12,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0123759,C1155328,AUGMENTS,Interleukin-12,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0123759,C3159140,AUGMENTS,Interleukin-12,interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0139905,C0042774,AUGMENTS,"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0140079,C0699900,AUGMENTS,Insulin-Like Growth Factor Receptor,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0142251,C0678723,AUGMENTS,Sialic Acid Binding Ig-like Lectin 1,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0147083,C0018270,AUGMENTS,tryptic soy broth,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0164198,C0042774,AUGMENTS,Cyclophilin A,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0164198,C0301872,AUGMENTS,Cyclophilin A,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0164786,C0025519,AUGMENTS,Proto-Oncogene Proteins c-akt,Metabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0164786,C0042774,AUGMENTS,Proto-Oncogene Proteins c-akt,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0164786,C1819464,AUGMENTS,Proto-Oncogene Proteins c-akt,tumor necrosis factor production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0166418,C0043240,AUGMENTS,Peroxisome Proliferator-Activated Receptors,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0166418,C1819464,AUGMENTS,Peroxisome Proliferator-Activated Receptors,tumor necrosis factor production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0169658,C0042774,AUGMENTS,Janus kinase 1,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0169658,C0043240,AUGMENTS,Janus kinase 1,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0171998,C0018270,AUGMENTS,noggin,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0173532,C0042774,AUGMENTS,cyclin D3,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0174680,C0018270,AUGMENTS,Cyclin D1,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0178887,C0026649,AUGMENTS,virus envelope,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0178887,C0301872,AUGMENTS,virus envelope,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0208355,C0042774,AUGMENTS,multicatalytic endopeptidase complex,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0208355,C0699900,AUGMENTS,multicatalytic endopeptidase complex,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0213321,C0023796,AUGMENTS,pigment epithelium-derived factor,Lipolysis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0214743,C0043240,AUGMENTS,Interleukin-13,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0214743,C0678723,AUGMENTS,Interleukin-13,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0214743,C1327413,AUGMENTS,Interleukin-13,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0214743,C1819439,AUGMENTS,Interleukin-13,interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0218504,C0043240,AUGMENTS,Chemokine CXCL12,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0242210,C0042774,AUGMENTS,Binding Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0242275,C0018270,AUGMENTS,Epidermal Growth Factor,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0242275,C0678723,AUGMENTS,Epidermal Growth Factor,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0242275,C1510470,AUGMENTS,Epidermal Growth Factor,Motility,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0242853,C0042774,AUGMENTS,ras Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0243040,C0301872,AUGMENTS,"Adhesins, Bacterial",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0243043,C0042774,AUGMENTS,Heat-Shock Proteins 70,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0244989,C1327413,AUGMENTS,Glycogen Synthase Kinase 3,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0245355,C0042774,AUGMENTS,ras GTPase-Activating Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0248007,C0020967,AUGMENTS,B-Cell Lymphoma 6 Protein,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0253050,C0678723,AUGMENTS,Stat3 protein,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0257572,C1819462,AUGMENTS,"TNFSF4 protein, human",interleukin-9 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282554,C0042774,AUGMENTS,chemokine,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282554,C0043240,AUGMENTS,chemokine,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282554,C0301872,AUGMENTS,chemokine,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282554,C1819430,AUGMENTS,chemokine,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282682,C0301872,AUGMENTS,"Antibodies, Blocking",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0282682,C0678723,AUGMENTS,"Antibodies, Blocking",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0286330,C0042774,AUGMENTS,26S proteasome,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0286330,C1654934,AUGMENTS,26S proteasome,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0286749,C0025519,AUGMENTS,alkaline peptidase,Metabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0287750,C1327413,AUGMENTS,Transcription Factor CHOP,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0287990,C0678723,AUGMENTS,paired basic amino acid cleaving enzyme,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0290266,C0301872,AUGMENTS,"FOXG1B protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0290378,C1819437,AUGMENTS,"ADAM11 protein, human",interleukin-10 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0291573,C0018270,AUGMENTS,caspase-3,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0295022,C0301872,AUGMENTS,TNF receptor-associated factor 3,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0295022,C1819430,AUGMENTS,TNF receptor-associated factor 3,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0299544,C0301872,AUGMENTS,Interferon Regulatory Factor 4,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0299583,C0301872,AUGMENTS,leptin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0301508,C0020966,AUGMENTS,Yellow Fever Vaccine,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0301521,C0020966,AUGMENTS,therapeutic vaccine,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0301521,C0301872,AUGMENTS,therapeutic vaccine,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0301846,C0020966,AUGMENTS,Incomplete antibody,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0301846,C0301872,AUGMENTS,Incomplete antibody,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0305052,C0042774,AUGMENTS,Gamma globulin serum,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0305052,C1155328,AUGMENTS,Gamma globulin serum,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0308550,C0301872,AUGMENTS,BRSV,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0358321,C0018270,AUGMENTS,Immune Globulin (Human),Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0358321,C0301872,AUGMENTS,Immune Globulin (Human),Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0376515,C0011065,AUGMENTS,BCL2 gene,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0376659,C0301872,AUGMENTS,Cancer Vaccines,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0378910,C0005615,AUGMENTS,Lymphocyte antigen CD66A,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0378910,C0011065,AUGMENTS,Lymphocyte antigen CD66A,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0378910,C0014653,AUGMENTS,Lymphocyte antigen CD66A,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0378910,C0042774,AUGMENTS,Lymphocyte antigen CD66A,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0384768,C0042774,AUGMENTS,"IRF3 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0384768,C1155328,AUGMENTS,"IRF3 protein, human",Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0390113,C0043240,AUGMENTS,"ARMET protein, human",Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0390769,C0042774,AUGMENTS,"SMARCA3 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0443640,C0301872,AUGMENTS,Specific antibody,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0443640,C0699900,AUGMENTS,Specific antibody,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0457610,C0005615,AUGMENTS,Measles-rubella vaccine (live),Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0475463,C0301872,AUGMENTS,"Antibodies, Neutralizing",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0528480,C0301872,AUGMENTS,Presenilin-2,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0530129,C1327413,AUGMENTS,TNF receptor-associated factor 6,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0534519,C0042774,AUGMENTS,Caspase-1,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0534519,C0678723,AUGMENTS,Caspase-1,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0582263,C0042774,AUGMENTS,Structural protein,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0582263,C0699900,AUGMENTS,Structural protein,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0597357,C0014653,AUGMENTS,receptor,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0597357,C0301872,AUGMENTS,receptor,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0597357,C1155328,AUGMENTS,receptor,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0597427,C0301872,AUGMENTS,secretory protein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0597551,C0301872,AUGMENTS,synthetic peptide,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0599220,C0018270,AUGMENTS,Protein Subunits,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0599220,C0042774,AUGMENTS,Protein Subunits,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0599220,C0301872,AUGMENTS,Protein Subunits,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0599561,C0301872,AUGMENTS,e protein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0623362,C1510470,AUGMENTS,Matrix Metalloproteinases,Motility,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0664336,C0301872,AUGMENTS,survivin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0666411,C0301872,AUGMENTS,Interferon Regulatory Factor-7,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0667830,C0011065,AUGMENTS,caspase-8,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0668201,C0301872,AUGMENTS,OmpF protein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0670896,C0301872,AUGMENTS,Toll-like receptors,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0670896,C1155328,AUGMENTS,Toll-like receptors,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0682967,C0018270,AUGMENTS,primary aminoacid,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0684153,C0042774,AUGMENTS,Mitochondrial Aspartate Aminotransferase,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0699918,C0012238,AUGMENTS,Elastases,Digestion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0700271,C0005615,AUGMENTS,"M Protein, multiple myeloma",Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0700271,C0301872,AUGMENTS,"M Protein, multiple myeloma",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0700271,C0678723,AUGMENTS,"M Protein, multiple myeloma",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0754727,C1819461,AUGMENTS,"TLR2 protein, human",interleukin-8 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0755295,C0042774,AUGMENTS,"FBXW7 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0756801,C0026649,AUGMENTS,epsin,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0765174,C0598357,AUGMENTS,"NFAT5 protein, human",salt balance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0812198,C0011065,AUGMENTS,BAX gene,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0812257,C0042774,AUGMENTS,DDX6 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0815047,C0301872,AUGMENTS,regulatory proteins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0910406,C0282498,AUGMENTS,"ORF2 protein, Hepatitis E virus",Heat-Shock Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0911116,C0678723,AUGMENTS,Inducible T-Cell Co-Stimulator Ligand,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0913092,C0042774,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0913092,C0301872,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0913092,C1160185,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0961814,C0043240,AUGMENTS,interleukin-22,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0962190,C0020967,AUGMENTS,interleukin-21,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0962190,C1819444,AUGMENTS,interleukin-21,interleukin-17 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0963806,C0678723,AUGMENTS,phenol-soluble modulin,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0965245,C1327413,AUGMENTS,"CD274 protein, human",cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0971207,C0301872,AUGMENTS,"TLR7 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0971226,C0042774,AUGMENTS,EBV-encoded nuclear antigen 1,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C0972232,C0023796,AUGMENTS,fibroblast growth factor 21,Lipolysis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1120843,C0042774,AUGMENTS,mitogen-activated protein kinase p38,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1136376,C0301872,AUGMENTS,"Receptors, C-Type Lectin",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1143949,C0301872,AUGMENTS,"TNFSF10 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1174094,C0699900,AUGMENTS,"IL28B protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1176244,C0301872,AUGMENTS,"DARC protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1180347,C1327413,AUGMENTS,Protein complex,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1256770,C0005615,AUGMENTS,Vascular Endothelial Growth Factors,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1256770,C0043240,AUGMENTS,Vascular Endothelial Growth Factors,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1257646,C0001811,AUGMENTS,"PON1 protein, human",Aging,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1259013,C0019868,AUGMENTS,"IL2RB protein, human",Homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1259013,C0301872,AUGMENTS,"IL2RB protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1305923,C0026649,AUGMENTS,Polypeptides,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1305923,C0699900,AUGMENTS,Polypeptides,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1307407,C0042774,AUGMENTS,"FRAP1 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1309025,C0301872,AUGMENTS,"SH2D3A protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1309025,C0699900,AUGMENTS,"SH2D3A protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1309025,C1654934,AUGMENTS,"SH2D3A protein, human",Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1309483,C0042774,AUGMENTS,"DICER1 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1309483,C0699900,AUGMENTS,"DICER1 protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310463,C0301872,AUGMENTS,"IFIH1 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C0042767,AUGMENTS,"DDX58 protein, human",Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C0042774,AUGMENTS,"DDX58 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C0301872,AUGMENTS,"DDX58 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C0678723,AUGMENTS,"DDX58 protein, human",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C1155328,AUGMENTS,"DDX58 protein, human",Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1310468,C1819430,AUGMENTS,"DDX58 protein, human",type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1313407,C1160185,AUGMENTS,"HAVCR1 protein, human",transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1313494,C0301872,AUGMENTS,"TLR3 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1321919,C0301872,AUGMENTS,"TLR4 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332395,C0011065,AUGMENTS,BCL2-Related 2 Protein,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332397,C0011065,AUGMENTS,BCL2L1 gene,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332669,C0301872,AUGMENTS,CAV1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332701,C1749719,AUGMENTS,CCR6 gene,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332707,C0042774,AUGMENTS,CD209 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1332749,C0018270,AUGMENTS,HERC5 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333225,C0018270,AUGMENTS,DLG1 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333257,C0043240,AUGMENTS,DUSP1 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333282,C0042774,AUGMENTS,Deubiquitinating Enzymes,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333343,C0026649,AUGMENTS,EPS15 gene,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333530,C0011065,AUGMENTS,FADD gene,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333682,C0042774,AUGMENTS,NOP53 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1333908,C0043240,AUGMENTS,HMGB1 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334033,C0699900,AUGMENTS,"HDAC5 protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334078,C0018270,AUGMENTS,IFITM1 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334081,C0042774,AUGMENTS,IFNAR1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334126,C0699900,AUGMENTS,CXCR2 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334134,C0042774,AUGMENTS,IRAK1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334139,C0699900,AUGMENTS,IRF3 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334139,C1155328,AUGMENTS,IRF3 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334139,C1819430,AUGMENTS,IRF3 gene,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334189,C0042774,AUGMENTS,"IGF2R protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334888,C0699900,AUGMENTS,"NMI protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1334894,C0042774,AUGMENTS,NPM1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335071,C1654934,AUGMENTS,Nuclear LIM Interactor-Interacting Factor 2,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335283,C0014653,AUGMENTS,PTPN6 gene,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335439,C0042774,AUGMENTS,Polymerase,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335439,C0301872,AUGMENTS,Polymerase,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335439,C1819459,AUGMENTS,Polymerase,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335818,C0042774,AUGMENTS,SH2D3C gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335841,C0018270,AUGMENTS,SMARCA2 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335841,C0042774,AUGMENTS,SMARCA2 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335872,C0042774,AUGMENTS,STAT1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335872,C3824609,AUGMENTS,STAT1 gene,cellular response to virus,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335877,C0043240,AUGMENTS,STAT6 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1335962,C0042774,AUGMENTS,Signaling Protein,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336636,C0042774,AUGMENTS,TLR4 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336636,C0301872,AUGMENTS,TLR4 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336636,C0678723,AUGMENTS,TLR4 gene,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336636,C1327413,AUGMENTS,TLR4 gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336763,C0008810,AUGMENTS,Toll-Like Receptor Family Gene,Circadian Rhythms,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336763,C0301872,AUGMENTS,Toll-Like Receptor Family Gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336763,C1155328,AUGMENTS,Toll-Like Receptor Family Gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336763,C1327413,AUGMENTS,Toll-Like Receptor Family Gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336763,C1749719,AUGMENTS,Toll-Like Receptor Family Gene,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1336776,C0042774,AUGMENTS,Transcription Coactivator,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1367307,C0043240,AUGMENTS,STAT3 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1367307,C1327441,AUGMENTS,STAT3 gene,negative regulation of inflammatory response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412056,C0301872,AUGMENTS,AAVS1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412113,C0232338,AUGMENTS,SLC33A1 gene,Blood flow,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412417,C0014653,AUGMENTS,ANXA1 gene,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412533,C0043240,AUGMENTS,ARIH1 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412533,C0301872,AUGMENTS,ARIH1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412617,C0042774,AUGMENTS,ATF4 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412831,C0699900,AUGMENTS,BST2 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1412995,C1819437,AUGMENTS,C3AR1 gene,interleukin-10 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413188,C0011065,AUGMENTS,CCR2 gene,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413210,C1654934,AUGMENTS,CD1D gene,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413661,C0234194,AUGMENTS,COX8A gene,Nociception,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413844,C1155328,AUGMENTS,CYBB gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413909,C0301872,AUGMENTS,DARS gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413962,C0042774,AUGMENTS,DDX3X gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413963,C0042774,AUGMENTS,DDX5 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413966,C0301872,AUGMENTS,DHX9 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1413978,C0301875,AUGMENTS,DEFB4A gene,Primary immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414028,C0042774,AUGMENTS,DGCR8 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414141,C0301872,AUGMENTS,DPP4 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414197,C0301872,AUGMENTS,DUX4 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414270,C0699900,AUGMENTS,EEF1A1 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414314,C0042774,AUGMENTS,EGR1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414333,C0042774,AUGMENTS,AGO2 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414444,C0042774,AUGMENTS,ERN1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414444,C0699900,AUGMENTS,ERN1 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414444,C1819459,AUGMENTS,ERN1 gene,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414609,C0042774,AUGMENTS,FGL2 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414609,C0678209,AUGMENTS,FGL2 gene,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414609,C1155328,AUGMENTS,FGL2 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1414609,C1327413,AUGMENTS,FGL2 gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415099,C0018270,AUGMENTS,GLDC gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415099,C0042774,AUGMENTS,GLDC gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415351,C0301872,AUGMENTS,GTPBP1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415489,C0018270,AUGMENTS,HBZ gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415638,C0699900,AUGMENTS,HNRNPD gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415761,C0043240,AUGMENTS,HSPA5 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415761,C0301872,AUGMENTS,HSPA5 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415761,C1510470,AUGMENTS,HSPA5 gene,Motility,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415782,C0301872,AUGMENTS,HSPD1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415887,C1136180,AUGMENTS,IFI27 gene,Disease Resistance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415888,C0019868,AUGMENTS,IFI30 gene,Homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415888,C0043240,AUGMENTS,IFI30 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415897,C0018270,AUGMENTS,IFITM2 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415897,C0042774,AUGMENTS,IFITM2 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415897,C1160185,AUGMENTS,IFITM2 gene,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415898,C0018270,AUGMENTS,IFITM3 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415898,C0026559,AUGMENTS,IFITM3 gene,Morphogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415898,C0042774,AUGMENTS,IFITM3 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415898,C1136180,AUGMENTS,IFITM3 gene,Disease Resistance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1415898,C1160185,AUGMENTS,IFITM3 gene,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416390,C0018270,AUGMENTS,IL17D gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416475,C0042767,AUGMENTS,IRF7 gene,Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416475,C1155328,AUGMENTS,IRF7 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416475,C1819430,AUGMENTS,IRF7 gene,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416479,C0042774,AUGMENTS,IRF9 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416608,C0042774,AUGMENTS,KCNN1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416857,C0301872,AUGMENTS,LILRB1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1416994,C0699900,AUGMENTS,MAN1B1 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1417005,C0042774,AUGMENTS,MAP1LC3A gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1417530,C0042774,AUGMENTS,MYD88 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1417530,C1155328,AUGMENTS,MYD88 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1417679,C0699900,AUGMENTS,NES gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418215,C0301872,AUGMENTS,P2RX7 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418224,C0018270,AUGMENTS,P4HB gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418597,C0032961,AUGMENTS,PITX3 gene,Pregnancy,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418597,C1516559,AUGMENTS,PITX3 gene,Circulatory Process,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418655,C1155328,AUGMENTS,PLP2 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418789,C0005615,AUGMENTS,PPFIBP1 gene,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418793,C0001811,AUGMENTS,PPIA gene,Aging,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1418793,C0699900,AUGMENTS,PPIA gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1419141,C0301872,AUGMENTS,PVR gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1419277,C0301872,AUGMENTS,RASA1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1419632,C0301872,AUGMENTS,RPL15 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1419939,C0042774,AUGMENTS,SEL1L gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1420369,C0699900,AUGMENTS,SPP1 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1420393,C0018270,AUGMENTS,SQSTM1 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1420464,C1160185,AUGMENTS,AURKB gene,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1420731,C0042774,AUGMENTS,TIAL1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421270,C0018270,AUGMENTS,UBA7 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421277,C0018270,AUGMENTS,UBE2E2 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421392,C0042767,AUGMENTS,USP15 gene,Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421392,C3824609,AUGMENTS,USP15 gene,cellular response to virus,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421395,C0042774,AUGMENTS,USP18 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421402,C0042767,AUGMENTS,USP25 gene,Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421429,C0042774,AUGMENTS,VTRNA1-1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421429,C1654934,AUGMENTS,VTRNA1-1 gene,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421479,C0026649,AUGMENTS,WASF1 gene,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421479,C0301872,AUGMENTS,WASF1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421527,C1327413,AUGMENTS,XBP1 gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421527,C1819464,AUGMENTS,XBP1 gene,tumor necrosis factor production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421554,C0301872,AUGMENTS,YME1L1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421554,C1749719,AUGMENTS,YME1L1 gene,Adaptive Immune Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421554,C1819430,AUGMENTS,YME1L1 gene,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421785,C0042767,AUGMENTS,RNF114 gene,Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1421876,C0678723,AUGMENTS,AICDA gene,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422036,C0020967,AUGMENTS,ERVW-1 gene,Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422039,C0042774,AUGMENTS,B3GNT3 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422055,C0042774,AUGMENTS,POLE3 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422064,C0005823,AUGMENTS,ACE2 gene,Blood Pressure,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422064,C0014653,AUGMENTS,ACE2 gene,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422064,C0678723,AUGMENTS,ACE2 gene,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422064,C1327441,AUGMENTS,ACE2 gene,negative regulation of inflammatory response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422246,C0042774,AUGMENTS,CPSF6 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422424,C0005615,AUGMENTS,ARHGAP9 gene,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422565,C0018270,AUGMENTS,C1QTNF3 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1422629,C0042774,AUGMENTS,DHX36 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1423842,C0020966,AUGMENTS,NELFCD gene,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1423842,C1327413,AUGMENTS,NELFCD gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1423884,C0042774,AUGMENTS,WNT3A gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1423944,C1563744,AUGMENTS,PAK4 gene,Lipogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424146,C0678209,AUGMENTS,TRIM5 gene,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424146,C0699900,AUGMENTS,TRIM5 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424147,C0042774,AUGMENTS,TRIM6 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424242,C1327413,AUGMENTS,CARD9 gene,cytokine production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424250,C1819459,AUGMENTS,NLRP3 gene,interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424319,C0042774,AUGMENTS,ADAP2 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424593,C0042774,AUGMENTS,SOCS5 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424650,C0301872,AUGMENTS,IFI44 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424660,C0013123,AUGMENTS,IVNS1ABP gene,Water consumption,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1424930,C0678209,AUGMENTS,APOBEC3G gene,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1425330,C0026649,AUGMENTS,P2RY12 gene,Movement,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1425942,C0042774,AUGMENTS,SCARA3 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1426653,C0699900,AUGMENTS,USP30 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1426957,C0042774,AUGMENTS,LSM1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1428924,C0005615,AUGMENTS,PLA2G2F gene,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1429678,C0042774,AUGMENTS,"TIA1 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1431343,C0009253,AUGMENTS,"GDF15 protein, human",Coitus,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1431343,C1819439,AUGMENTS,"GDF15 protein, human",interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1435283,C0678723,AUGMENTS,"MHC2TA protein, human",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1448238,C0301872,AUGMENTS,"FCGR2A protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1454489,C0042774,AUGMENTS,"MAPT protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1454489,C0699900,AUGMENTS,"MAPT protein, human",Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1506928,C0042774,AUGMENTS,"E2F1 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1521898,C0301872,AUGMENTS,"FCGR3A protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1522002,C0301872,AUGMENTS,RNA Recognition Motif,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1527233,C0301872,AUGMENTS,Recombinant Immune Globulin,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1537399,C3159140,AUGMENTS,IFIH1 gene,interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1537424,C0042774,AUGMENTS,IRGM gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1537799,C0042774,AUGMENTS,MIR145 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1538071,C0042774,AUGMENTS,VSIG4 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1538124,C0042774,AUGMENTS,XRN1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1538134,C0699900,AUGMENTS,YTHDF2 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1538864,C0042767,AUGMENTS,RNF166 gene,Virus Activation,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1538864,C3159140,AUGMENTS,RNF166 gene,interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1539221,C0301872,AUGMENTS,DCLK3 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1539233,C0042774,AUGMENTS,DDX58 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1539479,C0014653,AUGMENTS,FATE1 gene,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1539598,C0301872,AUGMENTS,GPRC5A gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1539895,C0042774,AUGMENTS,SUMO1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540035,C0042774,AUGMENTS,TNRC6A gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540056,C0699900,AUGMENTS,TRIM21 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540210,C0042774,AUGMENTS,ASZ1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540210,C0301872,AUGMENTS,ASZ1 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540289,C0301872,AUGMENTS,CD200 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540289,C1819430,AUGMENTS,CD200 gene,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1540290,C0042774,AUGMENTS,CD200R1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1564779,C0301872,AUGMENTS,"Heat-Shock Proteins, Small",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1564904,C0043240,AUGMENTS,Catenins,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1564907,C0042774,AUGMENTS,"Receptors, Pattern Recognition",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1564907,C0301872,AUGMENTS,"Receptors, Pattern Recognition",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1564907,C1155328,AUGMENTS,"Receptors, Pattern Recognition",Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1565114,C0011065,AUGMENTS,Apoptosis Inhibiting Proteins,Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1565860,C3156706,AUGMENTS,"PTGS2 protein, human",interleukin-32 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1624602,C0301872,AUGMENTS,Anti-Antibodies,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1624602,C1654934,AUGMENTS,Anti-Antibodies,Immune Evasion,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1667752,C1819439,AUGMENTS,"IL33 protein, human",interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1698754,C0009253,AUGMENTS,"IL6 protein, human",Coitus,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1699801,C0019868,AUGMENTS,"IL9 protein, human",Homeostasis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1699801,C0301872,AUGMENTS,"IL9 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1700887,C0301872,AUGMENTS,"IL2RA protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1702088,C1819458,AUGMENTS,"IL5 protein, human",interleukin-5 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1705010,C1160185,AUGMENTS,TNC wt Allele,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1705827,C0699900,AUGMENTS,SAT1 wt Allele,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1706005,C0301872,AUGMENTS,CD40LG wt Allele,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1706821,C0301872,AUGMENTS,Antigen Gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1718989,C1819436,AUGMENTS,Streptococcus pneumoniae serotype (antigen),interleukin-1 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1720998,C0042774,AUGMENTS,DEAD-box RNA Helicases,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1748474,C0678723,AUGMENTS,Endosomal Sorting Complexes Required for Transport,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1823437,C1155328,AUGMENTS,TMEM173 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1823437,C1819430,AUGMENTS,TMEM173 gene,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1823437,C3159140,AUGMENTS,TMEM173 gene,interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1823938,C0042774,AUGMENTS,ZCRB1 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1824180,C0043240,AUGMENTS,C5AR1 gene,Wound Healing,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1824180,C1819437,AUGMENTS,C5AR1 gene,interleukin-10 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825293,C1819461,AUGMENTS,FFAR2 gene,interleukin-8 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825497,C0018270,AUGMENTS,ATG5 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825497,C0042774,AUGMENTS,ATG5 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825497,C1819436,AUGMENTS,ATG5 gene,interleukin-1 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825498,C0042774,AUGMENTS,ATG7 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825598,C0005615,AUGMENTS,IMPACT gene,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825598,C0014653,AUGMENTS,IMPACT gene,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825598,C0301872,AUGMENTS,IMPACT gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825621,C0018270,AUGMENTS,ISG15 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825621,C0042774,AUGMENTS,ISG15 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825621,C0301872,AUGMENTS,ISG15 gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1825621,C1155328,AUGMENTS,ISG15 gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1826583,C0699900,AUGMENTS,PICK1 gene,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1826758,C0678723,AUGMENTS,RAB7A gene,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1864770,C0301872,AUGMENTS,MAVS gene,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1864770,C1155328,AUGMENTS,MAVS gene,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1865043,C0042774,AUGMENTS,ATG12 gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1880011,C0301872,AUGMENTS,Removab,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1955903,C0678723,AUGMENTS,Chemokine CXCL13,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1956096,C0699900,AUGMENTS,Ubiquitinated Proteins,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C1956109,C0014653,AUGMENTS,Human Microbiome,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2002636,C0042774,AUGMENTS,3C proteases,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2744535,C0301872,AUGMENTS,"CD69 protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2744535,C2584321,AUGMENTS,"CD69 protein, human",Reaching,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2744539,C0301872,AUGMENTS,"THBD protein, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2744579,C0678723,AUGMENTS,"ATP8A2 protein, human",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2825836,C0699900,AUGMENTS,Recombinant Human Epidermal Growth Factor,Catabolism,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936243,C0005615,AUGMENTS,Cell-Penetrating Peptides,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0026559,AUGMENTS,Inflammasomes,Morphogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0042774,AUGMENTS,Inflammasomes,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0301872,AUGMENTS,Inflammasomes,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0596570,AUGMENTS,Inflammasomes,fibrogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0598358,AUGMENTS,Inflammasomes,ionic balance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0678209,AUGMENTS,Inflammasomes,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C0678723,AUGMENTS,Inflammasomes,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C1155328,AUGMENTS,Inflammasomes,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C1563744,AUGMENTS,Inflammasomes,Lipogenesis,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C1819430,AUGMENTS,Inflammasomes,type I interferon production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2936529,C1819436,AUGMENTS,Inflammasomes,interleukin-1 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2945724,C0042774,AUGMENTS,f-protein,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2945724,C0301872,AUGMENTS,f-protein,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2985420,C0301872,AUGMENTS,CD276 Antigen,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2985420,C1819439,AUGMENTS,CD276 Antigen,interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C2986620,C0042774,AUGMENTS,BECN1 wt Allele,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3273474,C0042774,AUGMENTS,Cytospin-B,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3470496,C0018270,AUGMENTS,IFNG-AS1 gene,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3538735,C0018270,AUGMENTS,AMH wt Allele,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3540595,C0020966,AUGMENTS,CD8A wt Allele,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3540595,C0301872,AUGMENTS,CD8A wt Allele,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3540595,C0678209,AUGMENTS,CD8A wt Allele,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3541895,C0301872,AUGMENTS,FCGR1A wt Allele,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3642279,C0042774,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3658343,C0301872,AUGMENTS,"Genes, Microbial",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3710914,C0042774,AUGMENTS,"EIF2AK2 protein, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3710914,C1155328,AUGMENTS,"EIF2AK2 protein, human",Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3711684,C0301872,AUGMENTS,"S protein, severe acute respiratory syndrome coronavirus",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3715113,C0005615,AUGMENTS,HSD11B1 wt Allele,Birth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3812695,C0014653,AUGMENTS,LPAR3 wt Allele,Equilibrium,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3813576,C1160185,AUGMENTS,MAD2L1 wt Allele,transduction,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3813609,C0301872,AUGMENTS,TBX4 wt Allele,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3815103,C0042774,AUGMENTS,MRLN gene,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3824812,C0598358,AUGMENTS,TRP channels,ionic balance,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3849701,C0678723,AUGMENTS,"interleukin 18 protein, human",Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3849701,C1155328,AUGMENTS,"interleukin 18 protein, human",Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3849701,C1819439,AUGMENTS,"interleukin 18 protein, human",interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3887655,C0042774,AUGMENTS,Recombinant Platelet Factor 4,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3890397,C1155328,AUGMENTS,PRKAA1 wt Allele,Antiviral Response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3891304,C0018270,AUGMENTS,"Cathelicidin LL-37, human",Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3891304,C1819459,AUGMENTS,"Cathelicidin LL-37, human",interleukin-6 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3891560,C0301872,AUGMENTS,Alarmins,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C3891560,C0678723,AUGMENTS,Alarmins,Biologic Development,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4048280,C0020966,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4048280,C0042774,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4048280,C0301872,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4048280,C0678209,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4049595,C0020966,AUGMENTS,HLA Complex,Cellular Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4049595,C0301872,AUGMENTS,HLA Complex,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4049595,C0678209,AUGMENTS,HLA Complex,Adaptive Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4049595,C1819439,AUGMENTS,HLA Complex,interleukin-12 production,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4050150,C0301872,AUGMENTS,PLEC wt Allele,Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4277514,C0042774,AUGMENTS,Tripartite Motif Proteins,Virus Replication,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4281806,C0032961,AUGMENTS,Neural Cell Adhesion Molecule 1,Pregnancy,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4281807,C0020967,AUGMENTS,"Vitronectin, human",Humoral Immunity,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4281807,C0301872,AUGMENTS,"Vitronectin, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4282042,C0301872,AUGMENTS,"Toll-Like Receptor 1, human",Immune response,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4282114,C0011065,AUGMENTS,"Bcl-2-Like Protein 11, human",Cessation of life,aapp,orgf,1,AUGMENTS_AAPPaugmORGF
+C4321494,C0018270,AUGMENTS,Interleukin-35,Growth,aapp,orgf,1,AUGMENTS_AAPPaugmORGF

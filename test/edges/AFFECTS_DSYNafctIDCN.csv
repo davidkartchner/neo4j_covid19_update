@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004096,C0009488,AFFECTS,Asthma,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0009450,C0087130,AFFECTS,Communicable Diseases,Uncertainty,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0011847,C0009488,AFFECTS,Diabetes,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0011849,C0009488,AFFECTS,Diabetes Mellitus,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0018799,C0009488,AFFECTS,Heart Diseases,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0020538,C0009488,AFFECTS,Hypertensive disease,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0022658,C0009488,AFFECTS,Kidney Diseases,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0024117,C0009488,AFFECTS,Chronic Obstructive Airway Disease,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0028754,C0009488,AFFECTS,Obesity,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0028754,C0022702,AFFECTS,Obesity,Kinetics,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0032285,C0022702,AFFECTS,Pneumonia,Kinetics,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0035243,C0009488,AFFECTS,Respiratory Tract Infections,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0038454,C0009488,AFFECTS,Cerebrovascular accident,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0042769,C0022702,AFFECTS,Virus Diseases,Kinetics,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0206750,C0009488,AFFECTS,Coronavirus Infections,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0275518,C0022702,AFFECTS,Acute infectious disease,Kinetics,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0275522,C0087130,AFFECTS,Asymptomatic Infections,Uncertainty,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0275524,C0009488,AFFECTS,Coinfection,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C0746102,C0009488,AFFECTS,Chronic lung disease,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C1145670,C0009488,AFFECTS,Respiratory Failure,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C1175175,C0009488,AFFECTS,Severe Acute Respiratory Syndrome,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN
+C3694279,C0009488,AFFECTS,Middle East Respiratory Syndrome,Comorbidity,dsyn,idcn,1,AFFECTS_DSYNafctIDCN

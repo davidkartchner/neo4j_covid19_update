@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012155,C0000934,AFFECTS,Diet,Acclimatization,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0001811,AFFECTS,Diet,Aging,food,orgf,1,AFFECTS_FOODafctORGF
+C0012155,C0014653,AFFECTS,Diet,Equilibrium,food,orgf,1,AFFECTS_FOODafctORGF
+C0016452,C0026649,AFFECTS,Food,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C0025017,C0026649,AFFECTS,Meat,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C0206208,C0018270,AFFECTS,Seafood,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C0242295,C0014653,AFFECTS,Dietary Supplements,Equilibrium,food,orgf,1,AFFECTS_FOODafctORGF
+C0242295,C0018270,AFFECTS,Dietary Supplements,Growth,food,orgf,1,AFFECTS_FOODafctORGF
+C0349966,C0042774,AFFECTS,Figs - dietary,Virus Replication,food,orgf,1,AFFECTS_FOODafctORGF
+C0359583,C0042774,AFFECTS,enrich,Virus Replication,food,orgf,1,AFFECTS_FOODafctORGF
+C0452867,C0026649,AFFECTS,Pork,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C0597423,C0025519,AFFECTS,Saturated fat,Metabolism,food,orgf,1,AFFECTS_FOODafctORGF
+C0678695,C0301872,AFFECTS,Nutrients,Immune response,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0005823,AFFECTS,Pivot,Blood Pressure,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0014653,AFFECTS,Pivot,Equilibrium,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0019868,AFFECTS,Pivot,Homeostasis,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0020966,AFFECTS,Pivot,Cellular Immunity,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0026559,AFFECTS,Pivot,Morphogenesis,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0026649,AFFECTS,Pivot,Movement,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0301872,AFFECTS,Pivot,Immune response,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C0597462,AFFECTS,Pivot,skeletal regeneration,food,orgf,1,AFFECTS_FOODafctORGF
+C2947019,C1155328,AFFECTS,Pivot,Antiviral Response,food,orgf,1,AFFECTS_FOODafctORGF

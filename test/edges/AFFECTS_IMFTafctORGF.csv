@@ -1,0 +1,49 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0005615,AFFECTS,Immunologic Adjuvants,Birth,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C0020967,AFFECTS,Immunologic Adjuvants,Humoral Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C0032971,AFFECTS,Immunologic Adjuvants,Pregnancy Maintenance,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C0301872,AFFECTS,Immunologic Adjuvants,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C0678723,AFFECTS,Immunologic Adjuvants,Biologic Development,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C0678889,AFFECTS,Immunologic Adjuvants,Immunoregulation,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0001551,C1749719,AFFECTS,Immunologic Adjuvants,Adaptive Immune Response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003316,C0000934,AFFECTS,Epitopes,Acclimatization,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003316,C0001811,AFFECTS,Epitopes,Aging,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003316,C0042774,AFFECTS,Epitopes,Virus Replication,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003316,C0301872,AFFECTS,Epitopes,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003316,C1752856,AFFECTS,Epitopes,Host-Pathogen Interactions,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003335,C0301872,AFFECTS,"Antigens, Neoplasm",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0003342,C0301872,AFFECTS,"Antigens, Viral",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0019168,C0042774,AFFECTS,Hepatitis B Surface Antigens,Virus Replication,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0000934,AFFECTS,Vaccines,Acclimatization,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0005615,AFFECTS,Vaccines,Birth,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0011065,AFFECTS,Vaccines,Cessation of life,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0011167,AFFECTS,Vaccines,Deglutition,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0015895,AFFECTS,Vaccines,Fertility,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0020966,AFFECTS,Vaccines,Cellular Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0020967,AFFECTS,Vaccines,Humoral Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0035150,AFFECTS,Vaccines,Reproduction,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0042774,AFFECTS,Vaccines,Virus Replication,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0301872,AFFECTS,Vaccines,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C0678209,AFFECTS,Vaccines,Adaptive Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C1516559,AFFECTS,Vaccines,Circulatory Process,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042210,C1749719,AFFECTS,Vaccines,Adaptive Immune Response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042211,C0301872,AFFECTS,"Vaccines, Attenuated",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042212,C0020966,AFFECTS,"Vaccines, Inactivated",Cellular Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042212,C0020967,AFFECTS,"Vaccines, Inactivated",Humoral Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042212,C0301872,AFFECTS,"Vaccines, Inactivated",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042742,C1155328,AFFECTS,Viral Vaccines,Antiviral Response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0042771,C0042774,AFFECTS,Virus inhibitors,Virus Replication,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0085408,C0301872,AFFECTS,ISCOMs,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0166049,C1155328,AFFECTS,Hepatitis C Antibodies,Antiviral Response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0282580,C0020966,AFFECTS,"Epitopes, T-Lymphocyte",Cellular Immunity,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0282580,C0301872,AFFECTS,"Epitopes, T-Lymphocyte",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0312561,C0009253,AFFECTS,Homologous antigen,Coitus,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0376613,C0005615,AFFECTS,"Vaccines, DNA",Birth,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0456981,C0301872,AFFECTS,Specific antigen,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0521390,C0042034,AFFECTS,neuronal,Urination,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0887894,C0011065,AFFECTS,Respiratory Syncytial Virus Vaccines,Cessation of life,imft,orgf,1,AFFECTS_IMFTafctORGF
+C0887902,C0015895,AFFECTS,"Vaccines, Edible",Fertility,imft,orgf,1,AFFECTS_IMFTafctORGF
+C1515333,C0301872,AFFECTS,tetanus toxoid helper peptide,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C1516086,C0005615,AFFECTS,Attenuated Live Virus Vaccine,Birth,imft,orgf,1,AFFECTS_IMFTafctORGF
+C1519887,C0301872,AFFECTS,Vaccine Antigen,Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF
+C2825347,C0301872,AFFECTS,"Immunoglobulin A, Human",Immune response,imft,orgf,1,AFFECTS_IMFTafctORGF

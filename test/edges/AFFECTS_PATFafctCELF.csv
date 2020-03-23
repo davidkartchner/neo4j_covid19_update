@@ -1,0 +1,87 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003130,C0007586,AFFECTS,Anoxia,Cell Cycle,patf,celf,1,AFFECTS_PATFafctCELF
+C0003130,C0596290,AFFECTS,Anoxia,Cell Proliferation,patf,celf,1,AFFECTS_PATFafctCELF
+C0003130,C1820119,AFFECTS,Anoxia,Mitochondrial Degradation,patf,celf,1,AFFECTS_PATFafctCELF
+C0003860,C0003261,AFFECTS,Arteritis,Antibody Formation,patf,celf,1,AFFECTS_PATFafctCELF
+C0011304,C0004462,AFFECTS,Demyelination,Axonal Transport,patf,celf,1,AFFECTS_PATFafctCELF
+C0011304,C1326169,AFFECTS,Demyelination,microglial cell activation,patf,celf,1,AFFECTS_PATFafctCELF
+C0016059,C0004391,AFFECTS,Fibrosis,Autophagy,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0004391,AFFECTS,Hypersensitivity,Autophagy,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0007586,AFFECTS,Hypersensitivity,Cell Cycle,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0007587,AFFECTS,Hypersensitivity,Cell Death,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0007595,AFFECTS,Hypersensitivity,cell growth,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0007620,AFFECTS,Hypersensitivity,Cell Survival,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0014139,AFFECTS,Hypersensitivity,Endocytosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0037083,AFFECTS,Hypersensitivity,Signal Transduction,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0162638,AFFECTS,Hypersensitivity,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C0596290,AFFECTS,Hypersensitivity,Cell Proliferation,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C1156238,AFFECTS,Hypersensitivity,cell morphogenesis,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C1160716,AFFECTS,Hypersensitivity,viral transmission,patf,celf,1,AFFECTS_PATFafctCELF
+C0020517,C1516334,AFFECTS,Hypersensitivity,Cell Cycle Progression,patf,celf,1,AFFECTS_PATFafctCELF
+C0020564,C0007582,AFFECTS,Hypertrophy,Cell Communication,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C0007613,AFFECTS,Inflammation,Cell physiology,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C0037083,AFFECTS,Inflammation,Signal Transduction,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C0162638,AFFECTS,Inflammation,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C0596290,AFFECTS,Inflammation,Cell Proliferation,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1155342,AFFECTS,Inflammation,cellular response to unfolded protein,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1159762,AFFECTS,Inflammation,opsonization,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1159954,AFFECTS,Inflammation,monocyte differentiation,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1160700,AFFECTS,Inflammation,viral gene expression,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1318468,AFFECTS,Inflammation,cell mediated immune response,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C1523298,AFFECTS,Inflammation,epithelial to mesenchymal transition,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C2610958,AFFECTS,Inflammation,necroptotic process,patf,celf,1,AFFECTS_PATFafctCELF
+C0021368,C4327687,AFFECTS,Inflammation,macrophage migration,patf,celf,1,AFFECTS_PATFafctCELF
+C0021375,C1155263,AFFECTS,allergic inflammation,T-helper 2 type immune response,patf,celf,1,AFFECTS_PATFafctCELF
+C0021376,C0024426,AFFECTS,Chronic inflammation,Macrophage Activation,patf,celf,1,AFFECTS_PATFafctCELF
+C0021376,C1820119,AFFECTS,Chronic inflammation,Mitochondrial Degradation,patf,celf,1,AFFECTS_PATFafctCELF
+C0021655,C1159527,AFFECTS,Insulin Resistance,glucose uptake,patf,celf,1,AFFECTS_PATFafctCELF
+C0021655,C1820119,AFFECTS,Insulin Resistance,Mitochondrial Degradation,patf,celf,1,AFFECTS_PATFafctCELF
+C0024348,C2754100,AFFECTS,Lysis,neuron death,patf,celf,1,AFFECTS_PATFafctCELF
+C0027540,C0007587,AFFECTS,Necrosis,Cell Death,patf,celf,1,AFFECTS_PATFafctCELF
+C0027540,C0162638,AFFECTS,Necrosis,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0027540,C1155263,AFFECTS,Necrosis,T-helper 2 type immune response,patf,celf,1,AFFECTS_PATFafctCELF
+C0027540,C3546359,AFFECTS,Necrosis,pro-apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0027686,C0162638,AFFECTS,Pathologic Neovascularization,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C0028778,C3544385,AFFECTS,Obstruction,pro-survival,patf,celf,1,AFFECTS_PATFafctCELF
+C0028778,C4245966,AFFECTS,Obstruction,Cell restriction,patf,celf,1,AFFECTS_PATFafctCELF
+C0030660,C0004391,AFFECTS,Pathologic Processes,Autophagy,patf,celf,1,AFFECTS_PATFafctCELF
+C0030660,C1524026,AFFECTS,Pathologic Processes,"Metabolic Process, Cellular",patf,celf,1,AFFECTS_PATFafctCELF
+C0151718,C1156309,AFFECTS,Hypocholesterolemia,syncytium formation by plasma membrane fusion,patf,celf,1,AFFECTS_PATFafctCELF
+C0151763,C0024426,AFFECTS,Liver damage,Macrophage Activation,patf,celf,1,AFFECTS_PATFafctCELF
+C0242656,C0162585,AFFECTS,Disease Progression,Ion Transport,patf,celf,1,AFFECTS_PATFafctCELF
+C0242656,C1160700,AFFECTS,Disease Progression,viral gene expression,patf,celf,1,AFFECTS_PATFafctCELF
+C0332448,C0003272,AFFECTS,Infiltration,Antibody-Dependent Cellular Cytotoxicity,patf,celf,1,AFFECTS_PATFafctCELF
+C0332448,C1155065,AFFECTS,Infiltration,T-Cell Activation,patf,celf,1,AFFECTS_PATFafctCELF
+C0332448,C1159954,AFFECTS,Infiltration,monocyte differentiation,patf,celf,1,AFFECTS_PATFafctCELF
+C0332448,C1327414,AFFECTS,Infiltration,cytokine secretion,patf,celf,1,AFFECTS_PATFafctCELF
+C0333467,C0007587,AFFECTS,Cytopathic effect,Cell Death,patf,celf,1,AFFECTS_PATFafctCELF
+C0544688,C0007595,AFFECTS,complication of disease,cell growth,patf,celf,1,AFFECTS_PATFafctCELF
+C0854457,C1160716,AFFECTS,Direct disease transmission,viral transmission,patf,celf,1,AFFECTS_PATFafctCELF
+C0920563,C0024426,AFFECTS,Insulin Sensitivity,Macrophage Activation,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0007587,AFFECTS,inflammatory response,Cell Death,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0007613,AFFECTS,inflammatory response,Cell physiology,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0008018,AFFECTS,inflammatory response,Chemotaxis,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0031308,AFFECTS,inflammatory response,Phagocytosis,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0037083,AFFECTS,inflammatory response,Signal Transduction,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0162585,AFFECTS,inflammatory response,Ion Transport,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0162638,AFFECTS,inflammatory response,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C0206431,AFFECTS,inflammatory response,Antigen Presentation,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C1622858,AFFECTS,inflammatory response,apoptosis signaling,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C2244223,AFFECTS,inflammatory response,cellular homeostasis,patf,celf,1,AFFECTS_PATFafctCELF
+C1155266,C2754100,AFFECTS,inflammatory response,neuron death,patf,celf,1,AFFECTS_PATFafctCELF
+C1383860,C2611954,AFFECTS,Cardiac Hypertrophy,cardiac muscle cell apoptotic process,patf,celf,1,AFFECTS_PATFafctCELF
+C1398094,C0007586,AFFECTS,induced; birth,Cell Cycle,patf,celf,1,AFFECTS_PATFafctCELF
+C1398094,C0007595,AFFECTS,induced; birth,cell growth,patf,celf,1,AFFECTS_PATFafctCELF
+C1398094,C2611812,AFFECTS,induced; birth,signaling cascade,patf,celf,1,AFFECTS_PATFafctCELF
+C1520005,C0162638,AFFECTS,Viral Pathogenesis,Apoptosis,patf,celf,1,AFFECTS_PATFafctCELF
+C1704489,C0004391,AFFECTS,Extended Rotated Sidebent,Autophagy,patf,celf,1,AFFECTS_PATFafctCELF
+C2004491,C0232976,AFFECTS,Cicatrix,Spermiogenesis,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C0206431,AFFECTS,Infection,Antigen Presentation,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C0887839,AFFECTS,Infection,Nuclear Import,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C1155229,AFFECTS,Infection,Humoral immune response,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C1160700,AFFECTS,Infection,viral gene expression,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C1160701,AFFECTS,Infection,viral genome replication,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C1160716,AFFECTS,Infection,viral transmission,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C1540661,AFFECTS,Infection,cell fate,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C2244223,AFFECTS,Infection,cellular homeostasis,patf,celf,1,AFFECTS_PATFafctCELF
+C3714514,C2610698,AFFECTS,Infection,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,patf,celf,1,AFFECTS_PATFafctCELF

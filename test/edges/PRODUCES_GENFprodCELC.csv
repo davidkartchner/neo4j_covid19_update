@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C1749467,PRODUCES,Alternative Splicing,soluble,genf,celc,1,PRODUCES_GENFprodCELC
+C0012899,C0007623,PRODUCES,DNA Repair,Cell Wall,genf,celc,1,PRODUCES_GENFprodCELC
+C0017263,C0007623,PRODUCES,Gene Expression Regulation,Cell Wall,genf,celc,1,PRODUCES_GENFprodCELC
+C0026882,C0042760,PRODUCES,Mutation,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C0035380,C0042760,PRODUCES,Reverse Transcription,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C0040649,C0010834,PRODUCES,"Transcription, Genetic",Cytoplasm,genf,celc,1,PRODUCES_GENFprodCELC
+C0040649,C0019397,PRODUCES,"Transcription, Genetic",Heterochromatin,genf,celc,1,PRODUCES_GENFprodCELC
+C0040649,C0042760,PRODUCES,"Transcription, Genetic",Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C0162493,C1167093,PRODUCES,Transcriptional Activation,SWI/SNF complex,genf,celc,1,PRODUCES_GENFprodCELC
+C0282572,C1749467,PRODUCES,"Frameshifting, Ribosomal",soluble,genf,celc,1,PRODUCES_GENFprodCELC
+C0598312,C1167093,PRODUCES,DNA Replication,SWI/SNF complex,genf,celc,1,PRODUCES_GENFprodCELC
+C0598496,C0042760,PRODUCES,Gene Silencing,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1136031,C0010834,PRODUCES,RNA Interference,Cytoplasm,genf,celc,1,PRODUCES_GENFprodCELC
+C1148807,C0042760,PRODUCES,endonuclease activity,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1152412,C0010834,PRODUCES,RNA-directed RNA polymerase activity,Cytoplasm,genf,celc,1,PRODUCES_GENFprodCELC
+C1171362,C0042760,PRODUCES,protein expression,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1511695,C0042760,PRODUCES,DNA Sequence Rearrangement,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1512167,C0042760,PRODUCES,Ectopic Gene Expression,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1512167,C0206524,PRODUCES,Ectopic Gene Expression,Plastids,genf,celc,1,PRODUCES_GENFprodCELC
+C1519323,C0042760,PRODUCES,Silent Mutation,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C1519614,C0042760,PRODUCES,Genetic Translation Process,Virion,genf,celc,1,PRODUCES_GENFprodCELC
+C3158452,C0042760,PRODUCES,"transcription, RNA-templated",Virion,genf,celc,1,PRODUCES_GENFprodCELC

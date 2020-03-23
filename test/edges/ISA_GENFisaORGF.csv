@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012899,C0301872,ISA,DNA Repair,Immune response,genf,orgf,1,ISA_GENFisaORGF
+C0012899,C1154988,ISA,DNA Repair,defense response,genf,orgf,1,ISA_GENFisaORGF
+C0017262,C0025519,ISA,Gene Expression,Metabolism,genf,orgf,1,ISA_GENFisaORGF
+C0034865,C0035150,ISA,"Recombination, Genetic",Reproduction,genf,orgf,1,ISA_GENFisaORGF
+C0035380,C0025519,ISA,Reverse Transcription,Metabolism,genf,orgf,1,ISA_GENFisaORGF
+C0035380,C0042774,ISA,Reverse Transcription,Virus Replication,genf,orgf,1,ISA_GENFisaORGF
+C1136031,C0301872,ISA,RNA Interference,Immune response,genf,orgf,1,ISA_GENFisaORGF
+C1158013,C0699900,ISA,Nonsense Mediated mRNA Decay,Catabolism,genf,orgf,1,ISA_GENFisaORGF

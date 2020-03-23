@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006826,C0004391,AFFECTS,Malignant Neoplasms,Autophagy,neop,celf,2,AFFECTS_NEOPafctCELF
+C0006826,C0007587,AFFECTS,Malignant Neoplasms,Cell Death,neop,celf,1,AFFECTS_NEOPafctCELF
+C0006826,C0007613,AFFECTS,Malignant Neoplasms,Cell physiology,neop,celf,1,AFFECTS_NEOPafctCELF
+C0006826,C0007620,AFFECTS,Malignant Neoplasms,Cell Survival,neop,celf,1,AFFECTS_NEOPafctCELF
+C0006826,C0596290,AFFECTS,Malignant Neoplasms,Cell Proliferation,neop,celf,1,AFFECTS_NEOPafctCELF
+C0006826,C1155080,AFFECTS,Malignant Neoplasms,T-helper 1 type immune response,neop,celf,1,AFFECTS_NEOPafctCELF
+C0006826,C1155229,AFFECTS,Malignant Neoplasms,Humoral immune response,neop,celf,1,AFFECTS_NEOPafctCELF
+C0007621,C0162638,AFFECTS,Neoplastic Cell Transformation,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C0014522,C0007586,AFFECTS,Epidermodysplasia Verruciformis,Cell Cycle,neop,celf,1,AFFECTS_NEOPafctCELF
+C0023473,C3544385,AFFECTS,"Myeloid Leukemia, Chronic",pro-survival,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027627,C1155342,AFFECTS,Neoplasm Metastasis,cellular response to unfolded protein,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027651,C0007620,AFFECTS,Neoplasms,Cell Survival,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027651,C0162638,AFFECTS,Neoplasms,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027651,C1326356,AFFECTS,Neoplasms,amino acid import,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027651,C2610698,AFFECTS,Neoplasms,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,neop,celf,1,AFFECTS_NEOPafctCELF
+C0027651,C3156665,AFFECTS,Neoplasms,interleukin-6 secretion,neop,celf,1,AFFECTS_NEOPafctCELF
+C0205770,C0014139,AFFECTS,Choroid Plexus Papilloma,Endocytosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C0205770,C3271950,AFFECTS,Choroid Plexus Papilloma,micropinocytosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C0334463,C0007586,AFFECTS,Malignant Fibrous Histiocytoma,Cell Cycle,neop,celf,1,AFFECTS_NEOPafctCELF
+C0334463,C0007613,AFFECTS,Malignant Fibrous Histiocytoma,Cell physiology,neop,celf,1,AFFECTS_NEOPafctCELF
+C0334463,C4245966,AFFECTS,Malignant Fibrous Histiocytoma,Cell restriction,neop,celf,1,AFFECTS_NEOPafctCELF
+C0598934,C0004391,AFFECTS,tumor growth,Autophagy,neop,celf,1,AFFECTS_NEOPafctCELF
+C0598934,C0162638,AFFECTS,tumor growth,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C0598934,C0596290,AFFECTS,tumor growth,Cell Proliferation,neop,celf,1,AFFECTS_NEOPafctCELF
+C0699790,C0596290,AFFECTS,Colon Carcinoma,Cell Proliferation,neop,celf,1,AFFECTS_NEOPafctCELF
+C0853879,C0007595,AFFECTS,Invasive carcinoma of breast,cell growth,neop,celf,1,AFFECTS_NEOPafctCELF
+C1391732,C0004391,AFFECTS,Cancer Wasting,Autophagy,neop,celf,1,AFFECTS_NEOPafctCELF
+C1516857,C0162638,AFFECTS,Serous Endometrial Intraepithelial Carcinoma,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C1516857,C1326205,AFFECTS,Serous Endometrial Intraepithelial Carcinoma,Positive Regulation of Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C1519670,C0004391,AFFECTS,Tumor Angiogenesis,Autophagy,neop,celf,1,AFFECTS_NEOPafctCELF
+C1519670,C0037083,AFFECTS,Tumor Angiogenesis,Signal Transduction,neop,celf,1,AFFECTS_NEOPafctCELF
+C1519670,C0162638,AFFECTS,Tumor Angiogenesis,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C2239176,C0162638,AFFECTS,Liver carcinoma,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C2239176,C0596290,AFFECTS,Liver carcinoma,Cell Proliferation,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C0004391,AFFECTS,Secondary Neoplasm,Autophagy,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C0037083,AFFECTS,Secondary Neoplasm,Signal Transduction,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C0162638,AFFECTS,Secondary Neoplasm,Apoptosis,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C0596290,AFFECTS,Secondary Neoplasm,Cell Proliferation,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C1517052,AFFECTS,Secondary Neoplasm,Extracellular Matrix Degradation,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C1523298,AFFECTS,Secondary Neoplasm,epithelial to mesenchymal transition,neop,celf,1,AFFECTS_NEOPafctCELF
+C2939419,C1622501,AFFECTS,Secondary Neoplasm,"Migration, Cell",neop,celf,1,AFFECTS_NEOPafctCELF

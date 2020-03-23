@@ -1,0 +1,146 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002716,C0596402,CAUSES,Amyloid,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0002716,C0599732,CAUSES,Amyloid,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0003009,C0242606,CAUSES,angiotensin II,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0003241,C0282632,CAUSES,Antibodies,Antibody-Dependent Enhancement,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0003241,C0596402,CAUSES,Antibodies,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0003242,C0596402,CAUSES,"Antibodies, Anti-Idiotypic",cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0004358,C0027746,CAUSES,Autoantibodies,Nerve Degeneration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0004358,C0596402,CAUSES,Autoantibodies,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0005740,C0012860,CAUSES,Bleomycin,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0005740,C1511667,CAUSES,Bleomycin,"DNA Breaks, Double-Stranded",aapp,comd,1,CAUSES_AAPPcausCOMD
+C0006560,C0242606,CAUSES,C-reactive protein,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0009630,C0596402,CAUSES,Concanavalin A,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0010682,C0596402,CAUSES,Cystine,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0010749,C0242606,CAUSES,Cytochromes c,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0010762,C0596402,CAUSES,Cytochrome P450,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0011519,C0872150,CAUSES,Deoxyribonuclease I,DNA Strand Break,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0012863,C0872150,CAUSES,Topoisomerase II,DNA Strand Break,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0012920,C0872150,CAUSES,"DNA Topoisomerases, Type I",DNA Strand Break,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0013729,C1516373,CAUSES,Eukaryotic Initiation Factor-2,Cellular Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0016006,C0599732,CAUSES,Fibrinogen,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0016055,C0599732,CAUSES,Fibronectins,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0017789,C0242606,CAUSES,Glutamates,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0017817,C0242606,CAUSES,Glutathione,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0017968,C0596402,CAUSES,Glycoproteins,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0019046,C0242606,CAUSES,Hemoglobin,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0021699,C3178870,CAUSES,Integral Membrane Proteins,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0021755,C3178870,CAUSES,Interleukin-1,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0021758,C0025568,CAUSES,Interleukin-4,Metaplasia,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0021760,C0242606,CAUSES,Interleukin-6,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0023570,C0242606,CAUSES,Levodopa,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0023820,C0599732,CAUSES,Lipoproteins,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0024337,C0596402,CAUSES,Lysine,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0025252,C3178870,CAUSES,Membrane Proteins,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0027803,C0012860,CAUSES,Neuraminidase,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0034802,C1512116,CAUSES,Epidermal Growth Factor Receptor,EGFR Gene Amplification,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0034805,C0282632,CAUSES,Fc Receptor,Antibody-Dependent Enhancement,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0035367,C0012860,CAUSES,Retroviridae Proteins,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0035569,C0596402,CAUSES,Ricin,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0038838,C0242606,CAUSES,Superoxide Dismutase,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0040627,C3178870,CAUSES,Trans-Activators,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0042666,C0242606,CAUSES,Vimentin,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0042711,C0012860,CAUSES,Viral Envelope Proteins,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0042736,C0544910,CAUSES,Viral Proteins,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0042736,C0596402,CAUSES,Viral Proteins,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0042736,C3178870,CAUSES,Viral Proteins,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0054757,C0599732,CAUSES,carboxypeptidase H,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0056889,C3178870,CAUSES,Cystic Fibrosis Transmembrane Conductance Regulator,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0069065,C0541642,CAUSES,Viral Nonstructural Proteins,Membrane Alteration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0072354,C0596402,CAUSES,Protein Disulfide-Isomerases,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0077844,C0544910,CAUSES,Uracil phosphoribosyltransferase,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079189,C0025568,CAUSES,cytokine,Metaplasia,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079189,C0027746,CAUSES,cytokine,Nerve Degeneration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079189,C0242606,CAUSES,cytokine,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079189,C0596402,CAUSES,cytokine,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079189,C3178870,CAUSES,cytokine,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079405,C0012860,CAUSES,"Gene Products, vpr",DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079419,C0012860,CAUSES,TP53 gene,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0079904,C0242606,CAUSES,NF-kappa B,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0082584,C0079380,CAUSES,Tacrolimus Binding Proteins,Frameshift Mutation function,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0087071,C1515263,CAUSES,Telomerase,Telomere Shortening,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0118522,C0242606,CAUSES,GA-Binding Protein Transcription Factor,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0118522,C0599732,CAUSES,GA-Binding Protein Transcription Factor,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0120285,C3178870,CAUSES,Green Fluorescent Proteins,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0170168,C0596402,CAUSES,Mitogen Activated Protein Kinase 1,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0173532,C0544462,CAUSES,cyclin D3,Defective assembly,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0214743,C0025568,CAUSES,Interleukin-13,Metaplasia,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0293060,C3178870,CAUSES,FKBP12-rapamycin associated protein,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0296814,C0599732,CAUSES,NK-lysin,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0369247,C0282632,CAUSES,G Ab,Antibody-Dependent Enhancement,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0385333,C1257806,CAUSES,Cyclin B1,Chromosomal Instability,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0387583,C0012860,CAUSES,cyclooxygenase 2,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0443640,C0596402,CAUSES,Specific antibody,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0475463,C0282632,CAUSES,"Antibodies, Neutralizing",Antibody-Dependent Enhancement,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0597357,C0599732,CAUSES,receptor,cell injury,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0599220,C0242606,CAUSES,Protein Subunits,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0599561,C3178870,CAUSES,e protein,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0669372,C0242606,CAUSES,"NOS2A protein, human",Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0919428,C0596402,CAUSES,NQO1 gene,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0919521,C1257806,CAUSES,PTTG1 gene,Chromosomal Instability,aapp,comd,1,CAUSES_AAPPcausCOMD
+C0969720,C0544910,CAUSES,Exportins,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1120843,C0544951,CAUSES,mitogen-activated protein kinase p38,Cytoplasmic accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1172465,C0012860,CAUSES,"H2AX protein, human",DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1325318,C0012860,CAUSES,DNA Replication Factor,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1332386,C0541642,CAUSES,BCAR3 gene,Membrane Alteration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1333206,C0919532,CAUSES,DDR1 gene,Genomic Instability,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1334885,C0544951,CAUSES,NMI gene,Cytoplasmic accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1335240,C0242606,CAUSES,PPP1CA gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1335818,C0541642,CAUSES,SH2D3C gene,Membrane Alteration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1367307,C1512032,CAUSES,STAT3 gene,Dominant-Negative Mutation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1384551,C0012860,CAUSES,"TRIM25 protein, human",DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1412617,C0012860,CAUSES,ATF4 gene,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1412622,C3178870,CAUSES,ATF6 gene,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1413947,C0012860,CAUSES,DDIT3 gene,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1414444,C0596402,CAUSES,ERN1 gene,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1414805,C1516373,CAUSES,MTOR gene,Cellular Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1415351,C0596402,CAUSES,GTPBP1 gene,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1415761,C0596402,CAUSES,HSPA5 gene,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1415761,C3178870,CAUSES,HSPA5 gene,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1415894,C4476796,CAUSES,IFIT2 gene,Increased reactive oxygen species production,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1416842,C3178870,CAUSES,LHB gene,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1417679,C0544910,CAUSES,NES gene,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1417771,C0242606,CAUSES,NOX4 gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1417898,C0544910,CAUSES,NXF1 gene,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1419032,C2985437,CAUSES,PSMD2 gene,Null Allele,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1419147,C0544910,CAUSES,PEX19 gene,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1419277,C4545193,CAUSES,RASA1 gene,Partial deletion,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1420002,C0242606,CAUSES,SFTPA1 gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1420588,C0544950,CAUSES,TARDBP gene,Cytoplasmic aggregate,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1421386,C0919532,CAUSES,USP1 gene,Genomic Instability,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1421527,C0079380,CAUSES,XBP1 gene,Frameshift Mutation function,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1424232,C0027746,CAUSES,TRIM32 gene,Nerve Degeneration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1426334,C0242606,CAUSES,EIF2AK4 gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1427590,C0242606,CAUSES,DIABLO gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1428200,C0012860,CAUSES,TIPARP gene,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1429678,C0544950,CAUSES,"TIA1 protein, human",Cytoplasmic aggregate,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1442514,C0010827,CAUSES,MAPKAPK2 gene,"Cytopathogenic Effect, Viral",aapp,comd,1,CAUSES_AAPPcausCOMD
+C1442738,C0544910,CAUSES,PABPC1 gene,Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1448177,C0596402,CAUSES,"TNF protein, human",cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1454489,C0596402,CAUSES,"MAPT protein, human",cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1456389,C0242606,CAUSES,NOX1 gene,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1456454,C0027746,CAUSES,Amyloid Proteins,Nerve Degeneration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1540210,C4545193,CAUSES,ASZ1 gene,Partial deletion,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1564907,C0398740,CAUSES,"Receptors, Pattern Recognition",Impaired phagocytosis,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1565860,C0242606,CAUSES,"PTGS2 protein, human",Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1699801,C0544910,CAUSES,"IL9 protein, human",Nuclear accumulation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1702088,C0025568,CAUSES,"IL5 protein, human",Metaplasia,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1705982,C0541642,CAUSES,KRAS wt Allele,Membrane Alteration,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1823437,C1516373,CAUSES,TMEM173 gene,Cellular Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1825325,C0544950,CAUSES,G3BP1 gene,Cytoplasmic aggregate,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1825598,C0012860,CAUSES,IMPACT gene,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1831600,C0596402,CAUSES,Revival,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1880731,C0012860,CAUSES,Fanconi Anemia Group J Protein,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1883559,C0242606,CAUSES,Wild Type,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C1956003,C0012860,CAUSES,Protein Phosphatase 1,DNA Damage,aapp,comd,1,CAUSES_AAPPcausCOMD
+C2239486,C0596402,CAUSES,GEN1 gene,cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C2744535,C0242606,CAUSES,"CD69 protein, human",Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C2744579,C0596402,CAUSES,"ATP8A2 protein, human",cytotoxicity,aapp,comd,1,CAUSES_AAPPcausCOMD
+C2746079,C3178870,CAUSES,Anti-dsDNA Antibody,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3273474,C3178870,CAUSES,Cytospin-B,Endoplasmic Reticulum Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3538756,C0242606,CAUSES,NLRP1 wt Allele,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3539622,C1515263,CAUSES,B3GAT1 wt Allele,Telomere Shortening,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3642462,C0242606,CAUSES,F2 Gene Product,Oxidative Stress,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3816168,C0544886,CAUSES,B-Cell Receptor Complex,Somatic mutation,aapp,comd,1,CAUSES_AAPPcausCOMD
+C3887624,C1706803,CAUSES,Human Neprilysin,Amyloidogenesis,aapp,comd,1,CAUSES_AAPPcausCOMD
+C4281807,C0282632,CAUSES,"Vitronectin, human",Antibody-Dependent Enhancement,aapp,comd,1,CAUSES_AAPPcausCOMD

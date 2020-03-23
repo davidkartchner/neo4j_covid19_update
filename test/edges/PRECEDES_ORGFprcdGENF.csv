@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005615,C0017262,PRECEDES,Birth,Gene Expression,orgf,genf,1,PRECEDES_ORGFprcdGENF
+C0005615,C0040649,PRECEDES,Birth,"Transcription, Genetic",orgf,genf,1,PRECEDES_ORGFprcdGENF
+C0005615,C1136031,PRECEDES,Birth,RNA Interference,orgf,genf,1,PRECEDES_ORGFprcdGENF
+C0042774,C0035380,PRECEDES,Virus Replication,Reverse Transcription,orgf,genf,1,PRECEDES_ORGFprcdGENF
+C0042774,C0040649,PRECEDES,Virus Replication,"Transcription, Genetic",orgf,genf,1,PRECEDES_ORGFprcdGENF
+C1160185,C1136031,PRECEDES,transduction,RNA Interference,orgf,genf,1,PRECEDES_ORGFprcdGENF

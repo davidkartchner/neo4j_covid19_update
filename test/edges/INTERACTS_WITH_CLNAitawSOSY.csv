@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0032930,C0574785,INTERACTS_WITH,Precipitating Factors,Lower Urinary Tract Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0043144,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Wheezing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0851473,C0036572,INTERACTS_WITH,temperature conditions,Seizures,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2599617,C0036572,INTERACTS_WITH,a wave,Seizures,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2713234,C0030193,INTERACTS_WITH,Mood:-:Point in time:^Patient:-,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2741673,C0010200,INTERACTS_WITH,Account number:Identifier:Point in time:^Patient:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0010200,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0011991,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3166387,C0086132,INTERACTS_WITH,Suicidality,Depressive Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3173575,C0010200,INTERACTS_WITH,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3173575,C0037090,INTERACTS_WITH,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,"Signs and Symptoms, Respiratory",clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3538984,C0086132,INTERACTS_WITH,Social Risk Factor,Depressive Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3830527,C0039070,INTERACTS_WITH,Detectable,Syncope,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY

@@ -1,0 +1,67 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0203634,PRECEDES,"Administration, Oral",Nuclear medicine procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0003893,C1319201,PRECEDES,Arthroplasty,Timed up and go mobility test,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0007202,C0005893,PRECEDES,Cardiopulmonary Bypass,Body mass index procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0007202,C0451306,PRECEDES,Cardiopulmonary Bypass,Mini-mental state examination,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0007203,C0376529,PRECEDES,Cardiopulmonary Resuscitation,Capnography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0007435,C0202784,PRECEDES,"Catheterization, Central Venous",Routine chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0013216,C0598801,PRECEDES,Pharmacotherapy,Diffusion weighted imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0015252,C0024485,PRECEDES,removal technique,Magnetic Resonance Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0015252,C1964257,PRECEDES,removal technique,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0018821,C0004339,PRECEDES,Cardiac Surgery procedures,Auscultation,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0018821,C0039985,PRECEDES,Cardiac Surgery procedures,Plain chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0018821,C0041618,PRECEDES,Cardiac Surgery procedures,Ultrasonography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0018821,C1537007,PRECEDES,Cardiac Surgery procedures,Diffusion Tensor Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0020971,C0683454,PRECEDES,Immunization,internal-external locus of control scale,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0020971,C1964257,PRECEDES,Immunization,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0020975,C0004398,PRECEDES,Secondary Immunization,Autopsy,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021083,C0027431,PRECEDES,Immunotherapy,Nasal Provocation Tests,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021485,C1964257,PRECEDES,Injection of therapeutic agent,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021925,C0006290,PRECEDES,Intubation,Bronchoscopy,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021925,C0202784,PRECEDES,Intubation,Routine chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021925,C4304110,PRECEDES,Intubation,Expiratory CT,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0021932,C3161394,PRECEDES,"Intubation, Intratracheal",Mini-bronchoalveolar lavage,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0022671,C0040405,PRECEDES,Kidney Transplantation,X-Ray Computed Tomography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0024128,C0683454,PRECEDES,Lung Transplantation,internal-external locus of control scale,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0040732,C0004398,PRECEDES,Transplantation,Autopsy,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0040732,C0150866,PRECEDES,Transplantation,Biopsy of skin procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0040732,C2350281,PRECEDES,Transplantation,X-Ray Microtomography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0004398,PRECEDES,Vaccination,Autopsy,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0005834,PRECEDES,Vaccination,Collection of blood specimen for laboratory procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0011906,PRECEDES,Vaccination,Differential Diagnosis,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0086143,PRECEDES,Vaccination,Diagnostic tests,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0150866,PRECEDES,Vaccination,Biopsy of skin procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0189381,PRECEDES,Vaccination,Bronchial Lavage,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0203634,PRECEDES,Vaccination,Nuclear medicine procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0430022,PRECEDES,Vaccination,diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C0849974,PRECEDES,Vaccination,Pulmonary Function Test/Forced Expiratory Volume 1,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0042196,C1964257,PRECEDES,Vaccination,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0149783,C0024485,PRECEDES,Steroid therapy,Magnetic Resonance Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0162352,C0430565,PRECEDES,Allergen Immunotherapy,Ophthalmic mucous membrane test,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0184898,C0004398,PRECEDES,Surgical incisions,Autopsy,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0185115,C0005560,PRECEDES,Extraction,Needle biopsy procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0185115,C0079835,PRECEDES,Extraction,"Microscopy, Immunoelectron",topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0185115,C1964257,PRECEDES,Extraction,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0199470,C0455252,PRECEDES,Mechanical ventilation,Collection of sputum (procedure),topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0199779,C0011923,PRECEDES,Administration of antibiotic,Diagnostic Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0204774,C0034606,PRECEDES,Soaking Procedure,Radionuclide Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0204774,C0262485,PRECEDES,Soaking Procedure,Flash,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0436307,C0024485,PRECEDES,Chemoradiotherapy,Magnetic Resonance Imaging,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0436307,C0376443,PRECEDES,Chemoradiotherapy,Endoscopic Ultrasound,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0472699,C0032743,PRECEDES,Hemopoietic stem cell transplant,Positron-Emission Tomography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0472699,C0040395,PRECEDES,Hemopoietic stem cell transplant,tomography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0574032,C0041618,PRECEDES,Infusion procedures,Ultrasonography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0574032,C3161394,PRECEDES,Infusion procedures,Mini-bronchoalveolar lavage,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0678812,C0860888,PRECEDES,systemic administration,"Tomography, Spiral Computed",topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0729536,C0002978,PRECEDES,Uterine Artery Embolization,angiogram,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0742344,C0202784,PRECEDES,chest tube placement,Routine chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0744381,C0005834,PRECEDES,GENTAMICIN Administration,Collection of blood specimen for laboratory procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0749724,C0039985,PRECEDES,tuberculosis treatment,Plain chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C0843887,C0039985,PRECEDES,Therapeutic Pleural aspiration,Plain chest X-ray,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1293130,C0013516,PRECEDES,Stabilization,Echocardiography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1456587,C1964257,PRECEDES,Bariatric Surgery,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1532338,C0013516,PRECEDES,Percutaneous Coronary Intervention,Echocardiography,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1659427,C0030735,PRECEDES,Nebulization,Peak expiratory flow rate measurement,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1659427,C0189381,PRECEDES,Nebulization,Bronchial Lavage,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C1868981,C3161394,PRECEDES,Invasive mechanical ventilation NOS,Mini-bronchoalveolar lavage,topp,diap,1,PRECEDES_TOPPprcdDIAP
+C2242628,C1964257,PRECEDES,Fecal Microbiota Transplantation,Observation - diagnostic procedure,topp,diap,1,PRECEDES_TOPPprcdDIAP

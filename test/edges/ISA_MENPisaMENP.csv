@@ -1,0 +1,38 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002957,C0013987,ISA,Anger,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0002957,C0935620,ISA,Anger,Emotional states,menp,menp,1,ISA_MENPisaMENP
+C0004268,C0004448,ISA,Attention,Awareness,menp,menp,1,ISA_MENPisaMENP
+C0004268,C0030971,ISA,Attention,Perception,menp,menp,1,ISA_MENPisaMENP
+C0004448,C0030971,ISA,Awareness,Perception,menp,menp,1,ISA_MENPisaMENP
+C0006019,C0013987,ISA,Boredom,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0010297,C0025361,ISA,Creativity,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0013987,C0025361,ISA,Emotions,Mental Processes,menp,menp,1,ISA_MENPisaMENP
+C0015726,C0013987,ISA,Fear (Mental Process),Emotions,menp,menp,1,ISA_MENPisaMENP
+C0018592,C0013987,ISA,Happiness,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0024028,C0013987,ISA,Love,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0030971,C0009240,ISA,Perception,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0034770,C0229992,ISA,Mental Recall,Psyche structure,menp,menp,1,ISA_MENPisaMENP
+C0036938,C0013987,ISA,Shame,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0080101,C0013987,ISA,Regret,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0086045,C0004268,ISA,Mental concentration,Attention,menp,menp,1,ISA_MENPisaMENP
+C0086045,C0004448,ISA,Mental concentration,Awareness,menp,menp,1,ISA_MENPisaMENP
+C0175631,C0039869,ISA,Imagery,"Thinking, function",menp,menp,1,ISA_MENPisaMENP
+C0233421,C0004268,ISA,Selective inattention,Attention,menp,menp,1,ISA_MENPisaMENP
+C0233495,C0013987,ISA,Feeling mixed emotions,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0233820,C0039869,ISA,Insight,"Thinking, function",menp,menp,1,ISA_MENPisaMENP
+C0237428,C0004271,ISA,Optimism,Attitude,menp,menp,1,ISA_MENPisaMENP
+C0237428,C0031208,ISA,Optimism,Personality,menp,menp,1,ISA_MENPisaMENP
+C0237607,C0596545,ISA,Practice Experience,Experience,menp,menp,1,ISA_MENPisaMENP
+C0424134,C0004271,ISA,Pessimism,Attitude,menp,menp,1,ISA_MENPisaMENP
+C0459920,C0039869,ISA,Abstract thinking ability,"Thinking, function",menp,menp,1,ISA_MENPisaMENP
+C0542316,C0009240,ISA,Visual memory,Cognition,menp,menp,1,ISA_MENPisaMENP
+C0543488,C0021704,ISA,Interested,Intelligence,menp,menp,1,ISA_MENPisaMENP
+C0543488,C0026605,ISA,Interested,Motivation,menp,menp,1,ISA_MENPisaMENP
+C0596130,C0030971,ISA,attribution,Perception,menp,menp,1,ISA_MENPisaMENP
+C0600564,C0004271,ISA,Self Efficacy,Attitude,menp,menp,1,ISA_MENPisaMENP
+C0600564,C0030971,ISA,Self Efficacy,Perception,menp,menp,1,ISA_MENPisaMENP
+C0679111,C0013987,ISA,resentment,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0683287,C0013987,ISA,sympathy,Emotions,menp,menp,1,ISA_MENPisaMENP
+C0870433,C0013987,ISA,Dissatisfaction,Emotions,menp,menp,1,ISA_MENPisaMENP
+C3536794,C0013987,ISA,Sad mood,Emotions,menp,menp,1,ISA_MENPisaMENP
+C3850156,C0009240,ISA,Interoception,Cognition,menp,menp,1,ISA_MENPisaMENP

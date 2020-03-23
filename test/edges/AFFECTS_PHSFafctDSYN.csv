@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0178238,AFFECTS,Blood Circulation,Intestinal infectious disease (disorder),phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0016017,C0012739,AFFECTS,Fibrinolysis,Disseminated Intravascular Coagulation,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0004364,AFFECTS,Immunity,Autoimmune Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0007453,AFFECTS,Immunity,Cattle Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0009450,AFFECTS,Immunity,Communicable Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0019693,AFFECTS,Immunity,HIV Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0021390,AFFECTS,Immunity,Inflammatory Bowel Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0021400,AFFECTS,Immunity,Influenza,phsf,dsyn,2,AFFECTS_PHSFafctDSYN
+C0020964,C0026769,AFFECTS,Immunity,Multiple Sclerosis,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0028754,AFFECTS,Immunity,Obesity,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0031887,AFFECTS,Immunity,Picornaviridae Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0035243,AFFECTS,Immunity,Respiratory Tract Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0039292,AFFECTS,Immunity,Tangier Disease,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0042769,AFFECTS,Immunity,Virus Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0162534,AFFECTS,Immunity,Prion Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0206752,AFFECTS,Immunity,Alphavirus Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0243010,AFFECTS,Immunity,Viral Encephalitis,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0276289,AFFECTS,Immunity,Zika Virus Infection,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C0872315,AFFECTS,Immunity,"Communicable Diseases, Emerging",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C1318705,AFFECTS,Immunity,Effusive feline infectious peritonitis,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C1373218,AFFECTS,Immunity,Decreased Immunologic Activity [PE],phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0020964,C1860224,AFFECTS,Immunity,ABLEPHARON-MACROSTOMIA SYNDROME,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0004096,AFFECTS,Respiration,Asthma,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0005779,AFFECTS,Respiration,Blood Coagulation Disorders,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0007682,AFFECTS,Respiration,CNS disorder,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0010356,AFFECTS,Respiration,Cross Infection,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0035222,AFFECTS,Respiration,"Respiratory Distress Syndrome, Adult",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0242676,AFFECTS,Respiration,"Positive-Pressure Respiration, Intrinsic",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0242852,AFFECTS,Respiration,Proliferative vitreoretinopathy,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0035203,C0264490,AFFECTS,Respiration,Acute respiratory failure,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0042380,C0042373,AFFECTS,Vascular resistance,Vascular Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0242732,C0035222,AFFECTS,Tropism,"Respiratory Distress Syndrome, Adult",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0242732,C0042769,AFFECTS,Tropism,Virus Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0242732,C1264606,AFFECTS,Tropism,Persistent infection,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0002895,AFFECTS,Uptake,"Anemia, Sickle Cell",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0003723,AFFECTS,Uptake,Arbovirus Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0021400,AFFECTS,Uptake,Influenza,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0042769,AFFECTS,Uptake,Virus Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0276311,AFFECTS,Uptake,Bovine viral diarrhea,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0243144,C0742343,AFFECTS,Uptake,Acute Chest Syndrome,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C0544570,C0021359,AFFECTS,Bactericidal activity,Infertility,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1135927,C1175175,AFFECTS,"Immunity, Herd",Severe Acute Respiratory Syndrome,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1328821,C0042769,AFFECTS,tissue tropism,Virus Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1511613,C0024291,AFFECTS,Cytokine Signaling Process,"Lymphohistiocytosis, Hemophagocytic",phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1512827,C0035235,AFFECTS,Interferon Signaling Process,Respiratory Syncytial Virus Infections,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1512827,C1175175,AFFECTS,Interferon Signaling Process,Severe Acute Respiratory Syndrome,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0001175,AFFECTS,Resistance Process,Acquired Immunodeficiency Syndrome,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0004096,AFFECTS,Resistance Process,Asthma,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0024117,AFFECTS,Resistance Process,Chronic Obstructive Airway Disease,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0042769,AFFECTS,Resistance Process,Virus Diseases,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0243026,AFFECTS,Resistance Process,Sepsis,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C0276500,AFFECTS,Resistance Process,Human immunodeficiency virus I infection,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C1514892,C1860224,AFFECTS,Resistance Process,ABLEPHARON-MACROSTOMIA SYNDROME,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C2256362,C0043528,AFFECTS,system process,Zoonoses,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C2262744,C0858744,AFFECTS,lipid homeostasis,infection induced,phsf,dsyn,1,AFFECTS_PHSFafctDSYN
+C3714584,C1333810,AFFECTS,"Transformation, function",Genital Human Papillomavirus Infection,phsf,dsyn,1,AFFECTS_PHSFafctDSYN

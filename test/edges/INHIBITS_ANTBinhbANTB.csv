@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002499,C0007559,INHIBITS,Amikacin,Ceftazidime,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0003232,C0008947,INHIBITS,Antibiotics,Clindamycin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0003232,C0022914,INHIBITS,Antibiotics,Lactams,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0008947,C0003232,INHIBITS,Clindamycin,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0008947,C0035608,INHIBITS,Clindamycin,Rifampin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0022914,C0003232,INHIBITS,Lactams,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0035608,C0055856,INHIBITS,Rifampin,Clarithromycin,antb,antb,1,INHIBITS_ANTBinhbANTB

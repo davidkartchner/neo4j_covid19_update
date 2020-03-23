@@ -1,0 +1,106 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0085259,USES,"Administration, Intranasal",Mupirocin,topp,antb,1,USES_TOPPusesANTB
+C0001561,C0027603,USES,"Administration, Intravaginal",Neomycin,topp,antb,1,USES_TOPPusesANTB
+C0001563,C0003232,USES,"Administration, Oral",Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0001563,C0013090,USES,"Administration, Oral",Doxycycline,topp,antb,1,USES_TOPPusesANTB
+C0001563,C0027603,USES,"Administration, Oral",Neomycin,topp,antb,1,USES_TOPPusesANTB
+C0001563,C0030842,USES,"Administration, Oral",Penicillins,topp,antb,1,USES_TOPPusesANTB
+C0001563,C0052796,USES,"Administration, Oral",Azithromycin,topp,antb,1,USES_TOPPusesANTB
+C0001566,C0052796,USES,"Administration, Topical",Azithromycin,topp,antb,1,USES_TOPPusesANTB
+C0001566,C0085259,USES,"Administration, Topical",Mupirocin,topp,antb,1,USES_TOPPusesANTB
+C0002766,C0003232,USES,Pain management,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0003232,USES,Combined Modality Therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0010572,USES,Combined Modality Therapy,Cycloheximide,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0022914,USES,Combined Modality Therapy,Lactams,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0026458,USES,Combined Modality Therapy,Monobactams,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0035608,USES,Combined Modality Therapy,Rifampin,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0073987,USES,Combined Modality Therapy,salinomycin,topp,antb,1,USES_TOPPusesANTB
+C0009429,C0304320,USES,Combined Modality Therapy,Third generation cephalosporin,topp,antb,1,USES_TOPPusesANTB
+C0009429,C1451406,USES,Combined Modality Therapy,tulathromycin,topp,antb,1,USES_TOPPusesANTB
+C0009429,C2964258,USES,Combined Modality Therapy,Oseltamivir+Zanamivir,topp,antb,1,USES_TOPPusesANTB
+C0011121,C0003232,USES,Decontamination,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0011121,C0085259,USES,Decontamination,Mupirocin,topp,antb,1,USES_TOPPusesANTB
+C0013216,C0003232,USES,Pharmacotherapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0013216,C0013089,USES,Pharmacotherapy,Doxorubicin,topp,antb,1,USES_TOPPusesANTB
+C0015252,C0035608,USES,removal technique,Rifampin,topp,antb,1,USES_TOPPusesANTB
+C0021485,C0030829,USES,Injection of therapeutic agent,penicillin G benzathine,topp,antb,1,USES_TOPPusesANTB
+C0031740,C0003232,USES,Photochemotherapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0032113,C0003232,USES,Plasma Exchange,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0033972,C0003232,USES,"Psychotherapy, Multiple",Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0033972,C0022914,USES,"Psychotherapy, Multiple",Lactams,topp,antb,1,USES_TOPPusesANTB
+C0035239,C0003232,USES,Respiratory Therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0003232,USES,Treatment Protocols,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0013090,USES,Treatment Protocols,Doxycycline,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0014806,USES,Treatment Protocols,Erythromycin,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0035608,USES,Treatment Protocols,Rifampin,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0052796,USES,Treatment Protocols,Azithromycin,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0085259,USES,Treatment Protocols,Mupirocin,topp,antb,1,USES_TOPPusesANTB
+C0040808,C0723916,USES,Treatment Protocols,Triple Antibiotic,topp,antb,1,USES_TOPPusesANTB
+C0042196,C0003232,USES,Vaccination,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0079613,C0054036,USES,Adoptive Immunotherapy,Brefeldin A,topp,antb,1,USES_TOPPusesANTB
+C0079613,C0072980,USES,Adoptive Immunotherapy,Sirolimus,topp,antb,1,USES_TOPPusesANTB
+C0085405,C0003232,USES,Salvage Therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0150755,C0310367,USES,Safety precautions,Today,topp,antb,1,USES_TOPPusesANTB
+C0152060,C0013089,USES,Transection (procedure),Doxorubicin,topp,antb,1,USES_TOPPusesANTB
+C0185115,C0013090,USES,Extraction,Doxycycline,topp,antb,1,USES_TOPPusesANTB
+C0199176,C0003232,USES,Prophylactic treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0199779,C0003232,USES,Administration of antibiotic,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0199779,C0003240,USES,Administration of antibiotic,Macrolide Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0199779,C0022914,USES,Administration of antibiotic,Lactams,topp,antb,1,USES_TOPPusesANTB
+C0199779,C0147814,USES,Administration of antibiotic,Unasyn,topp,antb,1,USES_TOPPusesANTB
+C0199779,C3854019,USES,Administration of antibiotic,Gentamicin,topp,antb,1,USES_TOPPusesANTB
+C0204727,C0003232,USES,Isolation procedure,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0204727,C0059374,USES,Isolation procedure,enrofloxacin,topp,antb,1,USES_TOPPusesANTB
+C0259961,C0003232,USES,parenteral therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0279772,C0003240,USES,cisplatin/cyclophosphamide/doxorubicin/misonidazole,Macrolide Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0338237,C0003232,USES,Antibiotic therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0338237,C0066005,USES,Antibiotic therapy,meropenem,topp,antb,1,USES_TOPPusesANTB
+C0349707,C0304320,USES,Aspiration-action,Third generation cephalosporin,topp,antb,1,USES_TOPPusesANTB
+C0374505,C0003232,USES,Group Therapies,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0444735,C0003232,USES,Intermittent administration,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0455142,C0003232,USES,Intravenous therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0455142,C0026933,USES,Intravenous therapy,Mycophenolic Acid,topp,antb,1,USES_TOPPusesANTB
+C0559681,C0002645,USES,Oral antibiotic therapy,Amoxicillin,topp,antb,1,USES_TOPPusesANTB
+C0677850,C0003232,USES,adjuvant therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0678812,C0003232,USES,systemic administration,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0678823,C0003232,USES,parenteral administration,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0679698,C0003232,USES,disease prevention,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0683465,C0003232,USES,novel AODU treatment method,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0683465,C0279516,USES,novel AODU treatment method,Anti-Bacterial Agents,topp,antb,1,USES_TOPPusesANTB
+C0683517,C0003232,USES,Involuntary Treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0683517,C0054066,USES,Involuntary Treatment,Amoxicillin / Clavulanate,topp,antb,1,USES_TOPPusesANTB
+C0683517,C0729072,USES,Involuntary Treatment,Synulox,topp,antb,1,USES_TOPPusesANTB
+C0683525,C0279516,USES,treatment options,Anti-Bacterial Agents,topp,antb,1,USES_TOPPusesANTB
+C0877629,C0279516,USES,infection prophylaxis,Anti-Bacterial Agents,topp,antb,1,USES_TOPPusesANTB
+C0887947,C0003232,USES,"Antiretroviral Therapy, Highly Active",Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0920467,C0003232,USES,disorder control (procedure),Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C0920467,C0310367,USES,disorder control (procedure),Today,topp,antb,1,USES_TOPPusesANTB
+C0935576,C0003232,USES,treatment guideline,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1283255,C0003232,USES,Restore - action,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1293130,C0010572,USES,Stabilization,Cycloheximide,topp,antb,1,USES_TOPPusesANTB
+C1299597,C0003232,USES,Empirical therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1299597,C0279516,USES,Empirical therapy,Anti-Bacterial Agents,topp,antb,1,USES_TOPPusesANTB
+C1299597,C0304320,USES,Empirical therapy,Third generation cephalosporin,topp,antb,1,USES_TOPPusesANTB
+C1443861,C0003240,USES,Post-Exposure Prophylaxis,Macrolide Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1511790,C0003232,USES,Detection,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1511790,C0016610,USES,Detection,Fosfomycin,topp,antb,1,USES_TOPPusesANTB
+C1511790,C0035608,USES,Detection,Rifampin,topp,antb,1,USES_TOPPusesANTB
+C1515119,C0003232,USES,systemic therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1659427,C0003232,USES,Nebulization,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1708063,C0003232,USES,First line treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1710038,C0003232,USES,Second line treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C1710038,C0055003,USES,Second line treatment,cefepime,topp,antb,1,USES_TOPPusesANTB
+C1963724,C0003232,USES,Antiretroviral therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C2936405,C0003232,USES,Drug Repositioning,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C2936643,C0003232,USES,Standard of Care,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C2945704,C0003232,USES,Conventional Treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C2945704,C0013089,USES,Conventional Treatment,Doxorubicin,topp,antb,1,USES_TOPPusesANTB
+C2985566,C0003232,USES,Targeted Therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C2986592,C0003232,USES,Definitive Treatment,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C3177188,C0003232,USES,Early Therapy,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C3177188,C0279516,USES,Early Therapy,Anti-Bacterial Agents,topp,antb,1,USES_TOPPusesANTB
+C3858690,C0002499,USES,adjunctive treatment,Amikacin,topp,antb,1,USES_TOPPusesANTB
+C3858690,C0007561,USES,adjunctive treatment,Ceftriaxone,topp,antb,1,USES_TOPPusesANTB
+C4520447,C0003232,USES,Decolonization,Antibiotics,topp,antb,1,USES_TOPPusesANTB
+C4520447,C0085259,USES,Decolonization,Mupirocin,topp,antb,1,USES_TOPPusesANTB
+C4526535,C0003232,USES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Antibiotics,topp,antb,1,USES_TOPPusesANTB

@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004561,C0178913,PRODUCES,B-Lymphocytes,Blood specimen,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C0036087,PRODUCES,Cultured Cell Line,saliva,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0007600,C1550101,PRODUCES,Cultured Cell Line,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0009013,C1550101,PRODUCES,Clone Cells,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0014597,C2753459,PRODUCES,Epithelial Cells,mucus layer,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0014792,C0032105,PRODUCES,Erythrocytes,Plasma,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0020204,C0003964,PRODUCES,Hybridomas,Peritoneal Fluid (body substance),cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0020204,C0005889,PRODUCES,Hybridomas,Body Fluids,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0020204,C1550101,PRODUCES,Hybridomas,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0022688,C3641255,PRODUCES,Natural Killer Cells,Lavage Fluid,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0032112,C0229671,PRODUCES,Plasma Cells,Serum,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0085236,C1550101,PRODUCES,"Macrophages, Alveolar",Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0085236,C4266466,PRODUCES,"Macrophages, Alveolar",Blood pool,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0225338,C0026727,PRODUCES,Columnar epithelial cell,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0506994,C0026727,PRODUCES,Goblet Cells,Mucous body substance,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0506994,C0225392,PRODUCES,Goblet Cells,Nasal mucus,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0506994,C2753459,PRODUCES,Goblet Cells,mucus layer,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0552639,C0042036,PRODUCES,tubular cells,Urine,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C0682638,C0229671,PRODUCES,memory b cell,Serum,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1268006,C0229664,PRODUCES,Neutrophilic granulocytic cell,peripheral blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1321301,C0229664,PRODUCES,Peripheral blood mononuclear cell (cell),peripheral blood,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1321301,C1550101,PRODUCES,Peripheral blood mononuclear cell (cell),Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU
+C1512977,C1550101,PRODUCES,Mammalian Cell,Supernatant,cell,bdsu,1,PRODUCES_CELLprodBDSU

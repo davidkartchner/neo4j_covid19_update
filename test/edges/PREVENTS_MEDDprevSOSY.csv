@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004726,C0030193,PREVENTS,Bandage,Pain,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0024861,C0010200,PREVENTS,Masks,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0032042,C0015672,PREVENTS,Placebos,Fatigue,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0042497,C0010200,PREVENTS,Mechanical Ventilator,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0085590,C0026821,PREVENTS,catheter device,Muscle Cramp,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0178987,C0392674,PREVENTS,Artificial Airways,Exhaustion,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0972401,C0011991,PREVENTS,Boards (medical device),Diarrhea,medd,sosy,1,PREVENTS_MEDDprevSOSY

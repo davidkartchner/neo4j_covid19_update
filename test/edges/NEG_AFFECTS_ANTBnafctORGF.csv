@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0000934,NEG_AFFECTS,Antibiotics,Acclimatization,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C0011065,NEG_AFFECTS,Antibiotics,Cessation of life,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C0018270,NEG_AFFECTS,Antibiotics,Growth,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C0042774,NEG_AFFECTS,Antibiotics,Virus Replication,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C0301872,NEG_AFFECTS,Antibiotics,Immune response,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C1136180,NEG_AFFECTS,Antibiotics,Disease Resistance,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0003232,C1327413,NEG_AFFECTS,Antibiotics,cytokine production,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0007561,C1516559,NEG_AFFECTS,Ceftriaxone,Circulatory Process,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0035608,C1516559,NEG_AFFECTS,Rifampin,Circulatory Process,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0052796,C1516559,NEG_AFFECTS,Azithromycin,Circulatory Process,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0066005,C1516559,NEG_AFFECTS,meropenem,Circulatory Process,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF
+C0279516,C0018270,NEG_AFFECTS,Anti-Bacterial Agents,Growth,antb,orgf,1,NEG_AFFECTS_ANTBnafctORGF

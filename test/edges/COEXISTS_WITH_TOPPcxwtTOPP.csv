@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0037943,COEXISTS_WITH,Immunization,Spinal Puncture,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0021485,C0199171,COEXISTS_WITH,Injection of therapeutic agent,Medical procedure,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0037943,C0199779,COEXISTS_WITH,Spinal Puncture,Administration of antibiotic,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0184641,C0034386,COEXISTS_WITH,personal safety,Quarantine,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0199171,C1997883,COEXISTS_WITH,Medical procedure,Noninvasive Ventilation,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0199176,C1113679,COEXISTS_WITH,Prophylactic treatment,patient safety,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0204727,C0814435,COEXISTS_WITH,Isolation procedure,early identification,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0419121,C0419117,COEXISTS_WITH,Passive exercise,Active exercise,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0600015,C0034386,COEXISTS_WITH,Emotional support,Quarantine,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0600015,C0199176,COEXISTS_WITH,Emotional support,Prophylactic treatment,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0700325,C0204727,COEXISTS_WITH,Patient observation,Isolation procedure,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0700325,C1531698,COEXISTS_WITH,Patient observation,Active monitoring,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0729338,C1443867,COEXISTS_WITH,Care provision regimes,Standard precautions,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0814435,C0204727,COEXISTS_WITH,early identification,Isolation procedure,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C0947323,C1135929,COEXISTS_WITH,Dispensing medication,Mass Vaccination,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C1443870,C0199171,COEXISTS_WITH,Respiratory secretion precautions,Medical procedure,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP
+C2049629,C1171177,COEXISTS_WITH,placement of indwelling catheter PICC line,Adult care,topp,topp,1,COEXISTS_WITH_TOPPcxwtTOPP

@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012655,C0009450,PREDISPOSES,Disease susceptibility,Communicable Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0231832,C0009443,PREDISPOSES,Respiratory rate,Common Cold,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0231832,C0032326,PREDISPOSES,Respiratory rate,Pneumothorax,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0231832,C0264219,PREDISPOSES,Respiratory rate,Acute respiratory disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0232337,C0007222,PREDISPOSES,Vascular function,Cardiovascular Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0366513,C0020538,PREDISPOSES,Insulin regular:Mass:Pt:Dose:Qn,Hypertensive disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0370005,C0162700,PREDISPOSES,Specimen volume,Tick-Borne Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0424678,C0275524,PREDISPOSES,Lean body mass,Coinfection,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0521982,C0016627,PREDISPOSES,Response to treatment,Influenza in Birds,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0521982,C0021400,PREDISPOSES,Response to treatment,Influenza,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0683325,C0022882,PREDISPOSES,clinical aspects,Laboratory Infection,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0683325,C0032285,PREDISPOSES,clinical aspects,Pneumonia,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0683325,C0405580,PREDISPOSES,clinical aspects,Adrenal cortical hypofunction,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0683325,C1175175,PREDISPOSES,clinical aspects,Severe Acute Respiratory Syndrome,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0802741,C0024117,PREDISPOSES,Volume at 1.0 s post forced expiration/Vital capacity.forced:Volume Ratio:Point in time:Respiratory system:Quantitative,Chronic Obstructive Airway Disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C0802741,C0264492,PREDISPOSES,Volume at 1.0 s post forced expiration/Vital capacity.forced:Volume Ratio:Point in time:Respiratory system:Quantitative,Chronic respiratory failure,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C1511876,C0004623,PREDISPOSES,Diagnostic Factor,Bacterial Infections,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C1716529,C0008679,PREDISPOSES,Social security number:Identifier:Point in time:^Patient:Nominal,Chronic disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C1953352,C1264039,PREDISPOSES,"Amino acid change:Finding:Point in time:Whole blood/Tissue, unspecified:Nominal:Molecular Genetics","von Willebrand Disease, Type 1",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C1977902,C0022660,PREDISPOSES,Iohexol renal clearance:Volume Rate:Point in time:Urine+Serum/Plasma:Quantitative,"Kidney Failure, Acute",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2359945,C0022658,PREDISPOSES,Immunosuppressive drugs attachment:Find:Pt:^Patient:Doc,Kidney Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2360551,C0016627,PREDISPOSES,Letter:Finding:Point in time:{Setting}:Document:{Provider},Influenza in Birds,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0004096,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Asthma,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0004364,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Autoimmune Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0009450,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Communicable Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0016627,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Influenza in Birds,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0019097,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,"Hemorrhagic Fever, Argentinian",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0019101,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Hemorrhagic Fever with Renal Syndrome,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0020503,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,"Hyperparathyroidism, Secondary",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0024198,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Lyme Disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0034063,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Pulmonary Edema,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0035690,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,RNA Virus Infections,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0041296,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Tuberculosis,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0042769,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Virus Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0043528,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Zoonoses,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0282687,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,"Hemorrhagic Fever, Ebola",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C0747676,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,pneumonia childhood,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C1175175,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Severe Acute Respiratory Syndrome,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C1264606,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Persistent infection,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C1280469,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Podoconiosis,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2926606,C1320214,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Invasive Streptococcus pneumoniae disease,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C2979880,C0003047,PREDISPOSES,Subjective:Finding:Point in time:^Patient:Narrative,Animal Diseases,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C3173575,C0035243,PREDISPOSES,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,Respiratory Tract Infections,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C3173575,C0038395,PREDISPOSES,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,Streptococcal Infections,clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C3176928,C0085209,PREDISPOSES,Condition status,"Encephalopathy, Bovine Spongiform",clna,dsyn,1,PREDISPOSES_CLNApredDSYN
+C3830527,C0019693,PREDISPOSES,Detectable,HIV Infections,clna,dsyn,1,PREDISPOSES_CLNApredDSYN

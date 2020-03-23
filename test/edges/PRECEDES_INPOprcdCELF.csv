@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0035126,C0162638,PRECEDES,Reperfusion Injury,Apoptosis,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0085742,C2754100,PRECEDES,"Injuries, Acute Brain",neuron death,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0161479,C0596290,PRECEDES,Nerve injury,Cell Proliferation,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0262593,C0162638,PRECEDES,Peripheral Nerve Injuries,Apoptosis,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0270611,C0007587,PRECEDES,Brain Injuries,Cell Death,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0270611,C1656972,PRECEDES,Brain Injuries,oligodendrocyte differentiation,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0340652,C1326120,PRECEDES,Injury of artery,cell activation,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0410256,C2265845,PRECEDES,muscle injury,satellite cell self-renewal,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0410256,C3820816,PRECEDES,muscle injury,quiescence,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0560617,C1820119,PRECEDES,knocked out,Mitochondrial Degradation,inpo,celf,1,PRECEDES_INPOprcdCELF
+C0560617,C2265845,PRECEDES,knocked out,satellite cell self-renewal,inpo,celf,1,PRECEDES_INPOprcdCELF
+C1264238,C1656972,PRECEDES,Injury of central nervous system,oligodendrocyte differentiation,inpo,celf,1,PRECEDES_INPOprcdCELF
+C1264238,C1753129,PRECEDES,Injury of central nervous system,neuron projection morphogenesis,inpo,celf,1,PRECEDES_INPOprcdCELF

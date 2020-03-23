@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000731,C3540840,ISA,Abdomen distended,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0000734,C3540840,ISA,Abdominal mass,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0003962,C3540840,ISA,Ascites,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0013491,C0019080,ISA,Ecchymosis,Hemorrhage,fndg,fndg,1,ISA_FNDGisaFNDG
+C0015967,C0221198,ISA,Fever,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C0015967,C0262926,ISA,Fever,Medical History,fndg,fndg,1,ISA_FNDGisaFNDG
+C0015967,C3540840,ISA,Fever,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0015967,C4021768,ISA,Fever,Abnormality of metabolism/homeostasis,fndg,fndg,1,ISA_FNDGisaFNDG
+C0018800,C0221198,ISA,Cardiomegaly,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C0019699,C0456984,ISA,HIV Seropositivity,Test Result,fndg,fndg,1,ISA_FNDGisaFNDG
+C0020649,C0700292,ISA,Hypotension,Hypoxemia,fndg,fndg,1,ISA_FNDGisaFNDG
+C0023380,C3540840,ISA,Lethargy,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0030318,C0677660,ISA,Panic,Emotional problems,fndg,fndg,1,ISA_FNDGisaFNDG
+C0033119,C0278060,ISA,Puncture wound,Mental state,fndg,fndg,1,ISA_FNDGisaFNDG
+C0038455,C0007165,ISA,Stroke Volume,Cardiac Output,fndg,fndg,1,ISA_FNDGisaFNDG
+C0038999,C0221198,ISA,Swelling,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C0041667,C3540840,ISA,Underweight,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0231221,C3540840,ISA,Asymptomatic,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0235195,C3540840,ISA,Sedated state,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0239574,C3540840,ISA,Low grade fever,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0240968,C3540840,ISA,SCROTAL CYANOSIS,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0241889,C0262926,ISA,Family history,Medical History,fndg,fndg,1,ISA_FNDGisaFNDG
+C0277786,C3540840,ISA,Chief complaint (finding),Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0277939,C0037301,ISA,Crow's feet,Skin Wrinkling,fndg,fndg,1,ISA_FNDGisaFNDG
+C0423224,C3540840,ISA,Sunken eyes,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0424561,C0019080,ISA,Bleeds profusely,Hemorrhage,fndg,fndg,1,ISA_FNDGisaFNDG
+C0424589,C0424575,ISA,Vitality,General health,fndg,fndg,1,ISA_FNDGisaFNDG
+C0473237,C0018965,ISA,Frank hematuria,Hematuria,fndg,fndg,1,ISA_FNDGisaFNDG
+C0476486,C3540840,ISA,Generalized enlarged lymph nodes,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0476644,C0038435,ISA,Physical and emotional exhaustion state,Stress,fndg,fndg,1,ISA_FNDGisaFNDG
+C0497156,C0221198,ISA,Lymphadenopathy,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C0522224,C3540840,ISA,Paralysed,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C0544726,C0221198,ISA,Hole Finding,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C1262477,C3540840,ISA,Weight decreased,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C1320226,C0449416,ISA,Incubation period,Source,fndg,fndg,1,ISA_FNDGisaFNDG
+C1334016,C0221198,ISA,High Grade Lesion,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C1442858,C0221198,ISA,Surgical fistula,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C1513269,C0221198,ISA,Microcyst,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C1518345,C0221198,ISA,Nodular lesions,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG
+C2139046,C3540840,ISA,mass of larynx,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C2220266,C0262926,ISA,exposure history,Medical History,fndg,fndg,1,ISA_FNDGisaFNDG
+C3472705,C3540840,ISA,Mild dehydration,Sign or Symptom,fndg,fndg,1,ISA_FNDGisaFNDG
+C3827002,C1290916,ISA,Ground Glass Opacity,Radiologic finding,fndg,fndg,1,ISA_FNDGisaFNDG
+C4313323,C0221198,ISA,Viral-induced pneumonia,Lesion,fndg,fndg,1,ISA_FNDGisaFNDG

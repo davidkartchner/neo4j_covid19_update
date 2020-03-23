@@ -1,0 +1,35 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017262,C0040649,COEXISTS_WITH,Gene Expression,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0017262,C3537096,COEXISTS_WITH,Gene Expression,Translational Regulation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0026882,C0012899,COEXISTS_WITH,Mutation,DNA Repair,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0026882,C0034865,COEXISTS_WITH,Mutation,"Recombination, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0026882,C1152412,COEXISTS_WITH,Mutation,RNA-directed RNA polymerase activity,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0034865,C0026882,COEXISTS_WITH,"Recombination, Genetic",Mutation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0034865,C0032529,COEXISTS_WITH,"Recombination, Genetic",Genetic Polymorphism,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0034865,C0035380,COEXISTS_WITH,"Recombination, Genetic",Reverse Transcription,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0035380,C0017262,COEXISTS_WITH,Reverse Transcription,Gene Expression,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0035687,C0002345,COEXISTS_WITH,RNA Splicing,Alternative Splicing,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0035687,C0040649,COEXISTS_WITH,RNA Splicing,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0040649,C0282572,COEXISTS_WITH,"Transcription, Genetic","Frameshifting, Ribosomal",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0040649,C1514849,COEXISTS_WITH,"Transcription, Genetic",Replication-Associated Process,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0162782,C0040649,COEXISTS_WITH,RNA Editing,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0282572,C0678935,COEXISTS_WITH,"Frameshifting, Ribosomal",RNA translation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0282572,C1157562,COEXISTS_WITH,"Frameshifting, Ribosomal",translational elongation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0596610,C2610186,COEXISTS_WITH,gene interaction,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0598312,C0034865,COEXISTS_WITH,DNA Replication,"Recombination, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0599945,C0040649,COEXISTS_WITH,antitermination,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0678713,C0040649,COEXISTS_WITH,DNA template,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C0683143,C0040649,COEXISTS_WITH,RNA metabolic process,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1136031,C0017263,COEXISTS_WITH,RNA Interference,Gene Expression Regulation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1148846,C1622445,COEXISTS_WITH,RNA Binding,rRNA synthesis,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1152412,C1514849,COEXISTS_WITH,RNA-directed RNA polymerase activity,Replication-Associated Process,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1158016,C1749515,COEXISTS_WITH,rRNA catabolic process,apoptotic DNA fragmentation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1158816,C0040649,COEXISTS_WITH,mRNA transcription,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1158830,C0040649,COEXISTS_WITH,Transcription Initiation,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1511695,C1623415,COEXISTS_WITH,DNA Sequence Rearrangement,RNA chemical synthesis,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1519613,C1157562,COEXISTS_WITH,Translation Initiation,translational elongation,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C1956002,C0035380,COEXISTS_WITH,INDEL Mutation,Reverse Transcription,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C2243194,C0040649,COEXISTS_WITH,mRNA editing,"Transcription, Genetic",genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C2247938,C0035380,COEXISTS_WITH,RNA chaperone,Reverse Transcription,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C2610186,C1158728,COEXISTS_WITH,"nuclear mRNA cis splicing, via spliceosome",RNA Processing,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF
+C3549230,C0598312,COEXISTS_WITH,interstrand cross-link repair,DNA Replication,genf,genf,1,COEXISTS_WITH_GENFcxwtGENF

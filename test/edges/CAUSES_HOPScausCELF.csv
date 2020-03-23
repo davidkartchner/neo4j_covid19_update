@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000097,C0037083,CAUSES,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",Signal Transduction,hops,celf,1,CAUSES_HOPScausCELF
+C0000097,C0162638,CAUSES,"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0007587,CAUSES,1-Methyl-4-phenylpyridinium,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0007620,CAUSES,1-Methyl-4-phenylpyridinium,Cell Survival,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C0162638,CAUSES,1-Methyl-4-phenylpyridinium,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C1155229,CAUSES,1-Methyl-4-phenylpyridinium,Humoral immune response,hops,celf,1,CAUSES_HOPScausCELF
+C0000098,C1720920,CAUSES,1-Methyl-4-phenylpyridinium,"Membrane Potential, Mitochondrial",hops,celf,1,CAUSES_HOPScausCELF
+C0002073,C0162638,CAUSES,Alkylating Agents,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0014264,C0014139,CAUSES,Endotoxins,Endocytosis,hops,celf,1,CAUSES_HOPScausCELF
+C0014264,C0015283,CAUSES,Endotoxins,Exocytosis,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C0004391,CAUSES,Methamphetamine,Autophagy,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C0007587,CAUSES,Methamphetamine,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C0162638,CAUSES,Methamphetamine,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C1326207,CAUSES,Methamphetamine,"Programmed Cell Death, Type II",hops,celf,1,CAUSES_HOPScausCELF
+C0025611,C3544385,CAUSES,Methamphetamine,pro-survival,hops,celf,1,CAUSES_HOPScausCELF
+C0028017,C0162638,CAUSES,Niclosamide,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0032829,C2613267,CAUSES,Potassium Dichromate,sporulation,hops,celf,1,CAUSES_HOPScausCELF
+C0035871,C0162638,CAUSES,Rotenone,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C0007587,CAUSES,Tetradecanoylphorbol Acetate,Cell Death,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C0024426,CAUSES,Tetradecanoylphorbol Acetate,Macrophage Activation,hops,celf,1,CAUSES_HOPScausCELF
+C0039654,C1155065,CAUSES,Tetradecanoylphorbol Acetate,T-Cell Activation,hops,celf,1,CAUSES_HOPScausCELF
+C0039736,C0162638,CAUSES,Thalidomide,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0040329,C0596290,CAUSES,Tobacco,Cell Proliferation,hops,celf,1,CAUSES_HOPScausCELF
+C0057445,C0010813,CAUSES,deoxynivalenol,Cytokinesis,hops,celf,1,CAUSES_HOPScausCELF
+C0057454,C0004391,CAUSES,deoxypodophyllotoxin,Autophagy,hops,celf,1,CAUSES_HOPScausCELF
+C0057454,C0162638,CAUSES,deoxypodophyllotoxin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0069299,C0004391,CAUSES,ochratoxin A,Autophagy,hops,celf,1,CAUSES_HOPScausCELF
+C0074447,C0162638,CAUSES,Shiga Toxin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0076374,C0162638,CAUSES,Thapsigargin,Apoptosis,hops,celf,1,CAUSES_HOPScausCELF
+C0076374,C1155342,CAUSES,Thapsigargin,cellular response to unfolded protein,hops,celf,1,CAUSES_HOPScausCELF

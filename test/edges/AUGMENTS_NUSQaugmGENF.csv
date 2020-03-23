@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C0034865,AUGMENTS,Base Sequence,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0086908,C0034865,AUGMENTS,Repetitive Region,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0012899,AUGMENTS,DNA Sequence,DNA Repair,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0034865,AUGMENTS,DNA Sequence,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0282572,AUGMENTS,DNA Sequence,"Frameshifting, Ribosomal",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0597600,AUGMENTS,DNA Sequence,Transcription Termination,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0598496,AUGMENTS,DNA Sequence,Gene Silencing,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0599773,AUGMENTS,DNA Sequence,Homologous Recombination,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162327,C0017393,AUGMENTS,RNA Sequence,Genetic Markers,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1512886,C0678935,AUGMENTS,Internal Ribosome Entry Sites,RNA translation,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1512886,C1519613,AUGMENTS,Internal Ribosome Entry Sites,Translation Initiation,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1512886,C1519614,AUGMENTS,Internal Ribosome Entry Sites,Genetic Translation Process,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1517336,C0040649,AUGMENTS,G-Quadruplexes,"Transcription, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1517336,C0282572,AUGMENTS,G-Quadruplexes,"Frameshifting, Ribosomal",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1517336,C2610186,AUGMENTS,G-Quadruplexes,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C3178796,C0282572,AUGMENTS,Nucleotide Motifs,"Frameshifting, Ribosomal",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C4086445,C1623415,AUGMENTS,High Occupancy Target Region,RNA chemical synthesis,nusq,genf,1,AUGMENTS_NUSQaugmGENF

@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012860,C0012899,AFFECTS,DNA Damage,DNA Repair,comd,genf,1,AFFECTS_COMDafctGENF
+C0012860,C0017262,AFFECTS,DNA Damage,Gene Expression,comd,genf,1,AFFECTS_COMDafctGENF
+C0012860,C0026882,AFFECTS,DNA Damage,Mutation,comd,genf,1,AFFECTS_COMDafctGENF
+C0012860,C0598312,AFFECTS,DNA Damage,DNA Replication,comd,genf,1,AFFECTS_COMDafctGENF
+C0242606,C0040649,AFFECTS,Oxidative Stress,"Transcription, Genetic",comd,genf,1,AFFECTS_COMDafctGENF
+C0242606,C0162493,AFFECTS,Oxidative Stress,Transcriptional Activation,comd,genf,1,AFFECTS_COMDafctGENF
+C0596402,C0079868,AFFECTS,cytotoxicity,"Mutagenesis, Insertional",comd,genf,1,AFFECTS_COMDafctGENF
+C0596402,C0525038,AFFECTS,cytotoxicity,Amino Acid Substitution,comd,genf,1,AFFECTS_COMDafctGENF
+C0872150,C0012899,AFFECTS,DNA Strand Break,DNA Repair,comd,genf,1,AFFECTS_COMDafctGENF
+C1511667,C0599773,AFFECTS,"DNA Breaks, Double-Stranded",Homologous Recombination,comd,genf,1,AFFECTS_COMDafctGENF
+C1516516,C0017262,AFFECTS,Chromosomal Duplication,Gene Expression,comd,genf,1,AFFECTS_COMDafctGENF
+C2985434,C2610186,AFFECTS,Disease-causing Mutation,"nuclear mRNA cis splicing, via spliceosome",comd,genf,1,AFFECTS_COMDafctGENF
+C2985439,C0314627,AFFECTS,De novo mutation,Gene function,comd,genf,1,AFFECTS_COMDafctGENF
+C3178870,C2610186,AFFECTS,Endoplasmic Reticulum Stress,"nuclear mRNA cis splicing, via spliceosome",comd,genf,1,AFFECTS_COMDafctGENF
+C4289654,C0026882,AFFECTS,EGFR Exon 21 Mutation,Mutation,comd,genf,1,AFFECTS_COMDafctGENF

@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0021368,AFFECTS,Blood Circulation,Inflammation,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0020964,C0011304,AFFECTS,Immunity,Demyelination,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0020964,C0021368,AFFECTS,Immunity,Inflammation,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0020964,C0162633,AFFECTS,Immunity,Viral Shedding,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0020964,C1155266,AFFECTS,Immunity,inflammatory response,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0020964,C3714514,AFFECTS,Immunity,Infection,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0035203,C0242781,AFFECTS,Respiration,disease transmission,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0035203,C3714514,AFFECTS,Respiration,Infection,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0035203,C4287874,AFFECTS,Respiration,Droplet Transmission,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0242732,C3714514,AFFECTS,Tropism,Infection,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0243144,C0021368,AFFECTS,Uptake,Inflammation,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0243144,C0024348,AFFECTS,Uptake,Lysis,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0243144,C0027540,AFFECTS,Uptake,Necrosis,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0751982,C0242656,AFFECTS,Neutrophil Infiltration,Disease Progression,phsf,patf,1,AFFECTS_PHSFafctPATF
+C0870882,C3714514,AFFECTS,metabolic rates,Infection,phsf,patf,1,AFFECTS_PHSFafctPATF
+C1326961,C0021655,AFFECTS,glucose homeostasis,Insulin Resistance,phsf,patf,1,AFFECTS_PHSFafctPATF
+C1512827,C1155266,AFFECTS,Interferon Signaling Process,inflammatory response,phsf,patf,1,AFFECTS_PHSFafctPATF
+C1514503,C0040053,AFFECTS,Prostaglandin Production,Thrombosis,phsf,patf,1,AFFECTS_PHSFafctPATF
+C1514892,C0020517,AFFECTS,Resistance Process,Hypersensitivity,phsf,patf,1,AFFECTS_PHSFafctPATF
+C1514892,C3714514,AFFECTS,Resistance Process,Infection,phsf,patf,1,AFFECTS_PHSFafctPATF
+C2246232,C1155266,AFFECTS,neurotrophin production,inflammatory response,phsf,patf,1,AFFECTS_PHSFafctPATF
+C3179159,C0857353,AFFECTS,Sedative Effect,Hypotensive,phsf,patf,1,AFFECTS_PHSFafctPATF

@@ -1,0 +1,520 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004618,C4289767,DIAGNOSES,Bacterial Count Measurement,Colonization,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005507,C0577877,DIAGNOSES,Biological Assay,Lesion of nose,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005771,C3816499,DIAGNOSES,Blood Cell Count,Pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005790,C0151872,DIAGNOSES,Blood coagulation tests,Prothrombin time increased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005800,C0700292,DIAGNOSES,Blood Gas Analysis,Hypoxemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005845,C0020625,DIAGNOSES,Blood urea nitrogen measurement,Hyponatremia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005845,C0232807,DIAGNOSES,Blood urea nitrogen measurement,Decreased renal function,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C0038435,DIAGNOSES,Western Blotting,Stress,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C0278252,DIAGNOSES,Western Blotting,Prognosis bad,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C0562577,DIAGNOSES,Western Blotting,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C0580846,DIAGNOSES,Western Blotting,Does pull,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C1320396,DIAGNOSES,Western Blotting,Maternal status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C1444656,DIAGNOSES,Western Blotting,Indicated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C1545588,DIAGNOSES,Western Blotting,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C1709157,DIAGNOSES,Western Blotting,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C1821718,DIAGNOSES,Western Blotting,Diminished productivity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C3715215,DIAGNOSES,Western Blotting,S1,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C3845593,DIAGNOSES,Western Blotting,Major change,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C4036057,DIAGNOSES,Western Blotting,Too low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C4055506,DIAGNOSES,Western Blotting,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0005863,C4321237,DIAGNOSES,Western Blotting,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0029053,DIAGNOSES,Cell Count,Decreased translucency,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0038435,DIAGNOSES,Cell Count,Stress,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0043094,DIAGNOSES,Cell Count,Weight Gain,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0085393,DIAGNOSES,Cell Count,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0221198,DIAGNOSES,Cell Count,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0231162,DIAGNOSES,Cell Count,Normal general body function,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0231184,DIAGNOSES,Cell Count,Inefficiency,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0231337,DIAGNOSES,Cell Count,Senility,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0231974,DIAGNOSES,Cell Count,Anatomical dead space,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0237029,DIAGNOSES,Cell Count,Endometrium normal,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0240341,DIAGNOSES,Cell Count,Micrographia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0241863,DIAGNOSES,Cell Count,diabetic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0332155,DIAGNOSES,Cell Count,Did not receive therapy or drug for,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0332509,DIAGNOSES,Cell Count,Increased size (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0332575,DIAGNOSES,Cell Count,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0333361,DIAGNOSES,Cell Count,Acute inflammation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0338656,DIAGNOSES,Cell Count,Impaired cognition,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0422837,DIAGNOSES,Cell Count,Neurological observations,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0424470,DIAGNOSES,Cell Count,Undressed,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0424589,DIAGNOSES,Cell Count,Vitality,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0424641,DIAGNOSES,Cell Count,Decrease in height,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0425710,DIAGNOSES,Cell Count,Peripheral perfusion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0425946,DIAGNOSES,Cell Count,Short menstrual periods,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0429585,DIAGNOSES,Cell Count,Refraction measurement findings,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0456913,DIAGNOSES,Cell Count,Cold medium,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0544452,DIAGNOSES,Cell Count,Disease remission,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0560435,DIAGNOSES,Cell Count,Does skip,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0562577,DIAGNOSES,Cell Count,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0577059,DIAGNOSES,Cell Count,Liver normal,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0596020,DIAGNOSES,Cell Count,Does hit (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0679218,DIAGNOSES,Cell Count,Resting state,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0728725,DIAGNOSES,Cell Count,Low pH,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0746961,DIAGNOSES,Cell Count,Oxygen saturation below reference range,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0748864,DIAGNOSES,Cell Count,small size,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0750484,DIAGNOSES,Cell Count,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0860801,DIAGNOSES,Cell Count,Glucose low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0860803,DIAGNOSES,Cell Count,glucose high,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0860970,DIAGNOSES,Cell Count,Normal calcium level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1290916,DIAGNOSES,Cell Count,Radiologic finding,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1290955,DIAGNOSES,Cell Count,drug dependent,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1334779,DIAGNOSES,Cell Count,Mitotic Activity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1444656,DIAGNOSES,Cell Count,Indicated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1444708,DIAGNOSES,Cell Count,Likely outcome,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1513363,DIAGNOSES,Cell Count,Mixed Cellular Population,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1545588,DIAGNOSES,Cell Count,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1709157,DIAGNOSES,Cell Count,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1821461,DIAGNOSES,Cell Count,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1821718,DIAGNOSES,Cell Count,Diminished productivity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1838681,DIAGNOSES,Cell Count,Rapidly progressive,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1844596,DIAGNOSES,Cell Count,Spheroids,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1862763,DIAGNOSES,Cell Count,Small airways,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C1868500,DIAGNOSES,Cell Count,Variable expression,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C2126310,DIAGNOSES,Cell Count,blue Plaque,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C2221199,DIAGNOSES,Cell Count,Numerous vesicles,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3273930,DIAGNOSES,Cell Count,Tumor Mass,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3808831,DIAGNOSES,Cell Count,Normal T cells,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3840880,DIAGNOSES,Cell Count,Traffic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3842085,DIAGNOSES,Cell Count,7 mm,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3842672,DIAGNOSES,Cell Count,Day 7,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3842674,DIAGNOSES,Cell Count,Day 5,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3842675,DIAGNOSES,Cell Count,Day 3,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3845260,DIAGNOSES,Cell Count,Minimal activity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C3845594,DIAGNOSES,Cell Count,Slight change,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4021734,DIAGNOSES,Cell Count,Abnormality of mitochondrial metabolism,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4048267,DIAGNOSES,Cell Count,Cytoplasmic vacuolation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4054080,DIAGNOSES,Cell Count,Regimen-Limiting Toxicity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4055506,DIAGNOSES,Cell Count,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4073113,DIAGNOSES,Cell Count,Vitreous haze,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4086268,DIAGNOSES,Cell Count,Exacerbation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4266464,DIAGNOSES,Cell Count,Gated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4321237,DIAGNOSES,Cell Count,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4479222,DIAGNOSES,Cell Count,Increased apoptosis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007584,C4484175,DIAGNOSES,Cell Count,Growth phase,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007585,C2585744,DIAGNOSES,Cell Culture Techniques,Virus present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0007703,C1709157,DIAGNOSES,Centrifugation,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0008559,C3890735,DIAGNOSES,Gel Chromatography,Complete Response with Incomplete Platelet Recovery,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0008562,C3843263,DIAGNOSES,High pressure liquid chromatography procedure,Line 4,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0008630,C0241158,DIAGNOSES,Chromosome Mapping,Scar Tissue,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0085702,DIAGNOSES,Complete Blood Count,Monocytosis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0151539,DIAGNOSES,Complete Blood Count,Blood urea increased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0239935,DIAGNOSES,Complete Blood Count,Hematocrit increased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0239981,DIAGNOSES,Complete Blood Count,Hypoalbuminemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0518609,DIAGNOSES,Complete Blood Count,consideration,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C0744727,DIAGNOSES,Complete Blood Count,Hematocrit decreased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C1306855,DIAGNOSES,Complete Blood Count,Erythrocyte agglutination,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C1858586,DIAGNOSES,Complete Blood Count,Mild anemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0009555,C3843640,DIAGNOSES,Complete Blood Count,> 2/day,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0010405,C3494749,DIAGNOSES,Cryopreservation,Animal - origin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0010818,C1996949,DIAGNOSES,Cytological Techniques,Conjunctival nodule,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0010818,C3670581,DIAGNOSES,Cytological Techniques,Degenerative change in neutrophil,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0011321,C0562577,DIAGNOSES,Densitometry,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0013855,C1709795,DIAGNOSES,Electrophoresis,Quantitative Result,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0013855,C4055506,DIAGNOSES,Electrophoresis,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0024032,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Low Birth Weights,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0085393,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0151729,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Increased immunoglobulin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0221738,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,NONSPECIFIC REACTION,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0332575,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0442793,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,N36,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0449411,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0456136,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Normal birth weight,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C0746619,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,monoclonal,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C1833334,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Early-onset,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C3540840,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C3842672,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Day 7,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C3843504,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,1 - 3,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C4055506,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C4321237,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014441,C4321335,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Moderate Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0014772,C4266464,DIAGNOSES,Red Blood Cell Count measurement,Gated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016263,C0332155,DIAGNOSES,Flow Cytometry,Did not receive therapy or drug for,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016263,C4055506,DIAGNOSES,Flow Cytometry,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016263,C4321237,DIAGNOSES,Flow Cytometry,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016318,C0332575,DIAGNOSES,Fluorescent Antibody Technique,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016318,C0442759,DIAGNOSES,Fluorescent Antibody Technique,3/6,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016318,C1335761,DIAGNOSES,Fluorescent Antibody Technique,Honeycomb Pattern,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0016318,C4321237,DIAGNOSES,Fluorescent Antibody Technique,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C0151849,DIAGNOSES,Hematologic Tests,Alkaline phosphatase raised,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C0231221,DIAGNOSES,Hematologic Tests,Asymptomatic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C0241013,DIAGNOSES,Hematologic Tests,Increased serum ferritin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C0392386,DIAGNOSES,Hematologic Tests,Decreased platelet count,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C0750426,DIAGNOSES,Hematologic Tests,White blood cell count increased (lab result),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C2931322,DIAGNOSES,Hematologic Tests,T-Lymphocytopenia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0018941,C4086268,DIAGNOSES,Hematologic Tests,Exacerbation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0019637,C0205400,DIAGNOSES,Histological Techniques,Thickened,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0019637,C0221198,DIAGNOSES,Histological Techniques,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0019637,C2826565,DIAGNOSES,Histological Techniques,Mild Chronic Inflammation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0019637,C4055506,DIAGNOSES,Histological Techniques,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0020980,C0332145,DIAGNOSES,Immunoassay method,Postmortem Diagnosis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0020985,C0041667,DIAGNOSES,Immunoblotting,Underweight,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0020985,C0562577,DIAGNOSES,Immunoblotting,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0020985,C0580846,DIAGNOSES,Immunoblotting,Does pull,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0020985,C4055506,DIAGNOSES,Immunoblotting,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C0221198,DIAGNOSES,Immunohistochemistry,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C0332575,DIAGNOSES,Immunohistochemistry,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C0442757,DIAGNOSES,Immunohistochemistry,3/4,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C0577059,DIAGNOSES,Immunohistochemistry,Liver normal,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C0748810,DIAGNOSES,Immunohistochemistry,skin lesion papular,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C1262477,DIAGNOSES,Immunohistochemistry,Weight decreased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C1265608,DIAGNOSES,Immunohistochemistry,Decreased density,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C1333299,DIAGNOSES,Immunohistochemistry,Diffuse Pattern,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C1841996,DIAGNOSES,Immunohistochemistry,Glomerular tufts,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C1879646,DIAGNOSES,Immunohistochemistry,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C3840892,DIAGNOSES,Immunohistochemistry,Day 4,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C3872830,DIAGNOSES,Immunohistochemistry,Inflammatory lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C4055506,DIAGNOSES,Immunohistochemistry,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021044,C4321237,DIAGNOSES,Immunohistochemistry,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0021067,C0240341,DIAGNOSES,Immunoperoxidase Techniques,Micrographia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0015663,DIAGNOSES,Laboratory Procedures,Fasting,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0085393,DIAGNOSES,Laboratory Procedures,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0085639,DIAGNOSES,Laboratory Procedures,Falls,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0151632,DIAGNOSES,Laboratory Procedures,ESR raised,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0235996,DIAGNOSES,Laboratory Procedures,Elevated liver enzymes,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0311468,DIAGNOSES,Laboratory Procedures,Increased bilirubin level (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0438717,DIAGNOSES,Laboratory Procedures,Transaminases increased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0442767,DIAGNOSES,Laboratory Procedures,1/36,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0449411,DIAGNOSES,Laboratory Procedures,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0600140,DIAGNOSES,Laboratory Procedures,Does run (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0677946,DIAGNOSES,Laboratory Procedures,Stable Disease,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0686744,DIAGNOSES,Laboratory Procedures,Well child,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0742906,DIAGNOSES,Laboratory Procedures,Elevated C-reactive protein,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0744727,DIAGNOSES,Laboratory Procedures,Hematocrit decreased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C0750484,DIAGNOSES,Laboratory Procedures,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1290905,DIAGNOSES,Laboratory Procedures,Discrepancy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1318963,DIAGNOSES,Laboratory Procedures,Readiness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1320716,DIAGNOSES,Laboratory Procedures,Cardiovascular event,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1446377,DIAGNOSES,Laboratory Procedures,Mental health problem,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1516998,DIAGNOSES,Laboratory Procedures,Exogenous Factors,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1709157,DIAGNOSES,Laboratory Procedures,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1710572,DIAGNOSES,Laboratory Procedures,Unnecessary Therapy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1844383,DIAGNOSES,Laboratory Procedures,Recurrent bacterial infection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1856453,DIAGNOSES,Laboratory Procedures,Mild thrombocytopenia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1859430,DIAGNOSES,Laboratory Procedures,Life-threatening infections,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C1879646,DIAGNOSES,Laboratory Procedures,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C2676433,DIAGNOSES,Laboratory Procedures,Increased serum bile acids,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C2825972,DIAGNOSES,Laboratory Procedures,Cant,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3160879,DIAGNOSES,Laboratory Procedures,Macrolide resistance,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3242226,DIAGNOSES,Laboratory Procedures,information change,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3272281,DIAGNOSES,Laboratory Procedures,American College of Cardiology/American Heart Association Lesion Complexity Score A,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3272283,DIAGNOSES,Laboratory Procedures,American College of Cardiology/American Heart Association Lesion Complexity Score C,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3533236,DIAGNOSES,Laboratory Procedures,Mean score,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3540840,DIAGNOSES,Laboratory Procedures,Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3714745,DIAGNOSES,Laboratory Procedures,Malabsorption,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3806482,DIAGNOSES,Laboratory Procedures,Recurrent respiratory infections,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3816499,DIAGNOSES,Laboratory Procedures,Pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C3840694,DIAGNOSES,Laboratory Procedures,10-14,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C4036057,DIAGNOSES,Laboratory Procedures,Too low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C4289767,DIAGNOSES,Laboratory Procedures,Colonization,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C4321237,DIAGNOSES,Laboratory Procedures,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0022885,C4534506,DIAGNOSES,Laboratory Procedures,One reactive,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023508,C0424595,DIAGNOSES,White Blood Cell Count procedure,Undifferentiated illness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023508,C0857460,DIAGNOSES,White Blood Cell Count procedure,Increased number of platelets,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023509,C1395724,DIAGNOSES,"Lymphocyte Culture Test, Mixed",donor lymphocytes,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023509,C4321237,DIAGNOSES,"Lymphocyte Culture Test, Mixed",High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023901,C0438717,DIAGNOSES,Liver Function Tests,Transaminases increased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0023901,C3275700,DIAGNOSES,Liver Function Tests,Hepatic inflammation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C0221198,DIAGNOSES,Microscopy,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C0442748,DIAGNOSES,Microscopy,6/4,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C0750484,DIAGNOSES,Microscopy,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C1709157,DIAGNOSES,Microscopy,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C3843708,DIAGNOSES,Microscopy,29+,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026018,C4321237,DIAGNOSES,Microscopy,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C0038435,DIAGNOSES,Electron Microscopy,Stress,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C0205400,DIAGNOSES,Electron Microscopy,Thickened,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C0449411,DIAGNOSES,Electron Microscopy,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C1299586,DIAGNOSES,Electron Microscopy,Has difficulty doing (qualifier value),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C1821461,DIAGNOSES,Electron Microscopy,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C3841382,DIAGNOSES,Electron Microscopy,Rolled,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C4013295,DIAGNOSES,Electron Microscopy,Swollen mitochondria,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C4055506,DIAGNOSES,Electron Microscopy,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026022,C4321237,DIAGNOSES,"Microscopy, Fluorescence",High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0027944,C1545588,DIAGNOSES,Neutralization Tests,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0027944,C3715215,DIAGNOSES,Neutralization Tests,S1,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0029392,C0857322,DIAGNOSES,Osmotic Fragility test,anaemic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0032102,C0332155,DIAGNOSES,plaque assay,Did not receive therapy or drug for,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0032102,C0750558,DIAGNOSES,plaque assay,Unlikely,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0032102,C3842673,DIAGNOSES,plaque assay,Day 6,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0034584,C3280118,DIAGNOSES,Radioimmunoprecipitation Assay,Mild disorder,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0035269,C4321237,DIAGNOSES,Restriction Mapping,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0036743,C0085393,DIAGNOSES,Serologic tests,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0036743,C0686744,DIAGNOSES,Serologic tests,Well child,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0036743,C0686750,DIAGNOSES,Serologic tests,Well adult,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0036828,C3843708,DIAGNOSES,Serum Alanine Transaminase tests,29+,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0037813,C0337664,DIAGNOSES,Mass Spectrometry,Smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0037813,C0516943,DIAGNOSES,Mass Spectrometry,patience,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0037813,C0596020,DIAGNOSES,Mass Spectrometry,Does hit (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0037813,C0600140,DIAGNOSES,Mass Spectrometry,Does run (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0040284,C0442726,DIAGNOSES,Tissue culture,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0041394,C3890735,DIAGNOSES,Turbidimetry,Complete Response with Incomplete Platelet Recovery,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0042014,C0281986,DIAGNOSES,Urinalysis,Sterile pyuria,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0042014,C0332575,DIAGNOSES,Urinalysis,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0042014,C1518681,DIAGNOSES,Urinalysis,Outcome of Therapy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C0456913,DIAGNOSES,Dilution technique,Cold medium,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C0562577,DIAGNOSES,Dilution technique,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C0600140,DIAGNOSES,Dilution technique,Does run (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C1709157,DIAGNOSES,Dilution technique,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C1821461,DIAGNOSES,Dilution technique,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079240,C4321237,DIAGNOSES,Dilution technique,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079604,C1299586,DIAGNOSES,Immunofluorescence Microscopy,Has difficulty doing (qualifier value),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079604,C1858709,DIAGNOSES,Immunofluorescence Microscopy,"HEPATIC FIBROSIS, SEVERE, SUSCEPTIBILITY TO, DUE TO SCHISTOSOMA MANSONI INFECTION",lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0079604,C3840892,DIAGNOSES,Immunofluorescence Microscopy,Day 4,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0085188,C0003962,DIAGNOSES,Cryoultramicrotomy,Ascites,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0086890,C0560175,DIAGNOSES,Quick Test for Liver Function,Carrier of disorder,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0086890,C0750484,DIAGNOSES,Quick Test for Liver Function,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C0033213,DIAGNOSES,Sequence Analysis,Problem,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C0459423,DIAGNOSES,Sequence Analysis,Equivocal result,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C0541749,DIAGNOSES,Sequence Analysis,Does turn (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C1519789,DIAGNOSES,Sequence Analysis,Unexpected Adverse Event,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C1821461,DIAGNOSES,Sequence Analysis,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C1865782,DIAGNOSES,Sequence Analysis,CEREBELLAR DEGENERATION-RELATED AUTOANTIGEN 3,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C1866431,DIAGNOSES,Sequence Analysis,"LEPTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 1",lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C3843057,DIAGNOSES,Sequence Analysis,Second half,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C4036057,DIAGNOSES,Sequence Analysis,Too low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0162801,C4489118,DIAGNOSES,Sequence Analysis,Near complete,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0178539,C0221198,DIAGNOSES,Cellular,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200345,C0449411,DIAGNOSES,Specimen Collection,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200345,C1299448,DIAGNOSES,Specimen Collection,Patient ventilated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200345,C3540840,DIAGNOSES,Specimen Collection,Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200363,C4288557,DIAGNOSES,Specimen preparation,One Activity Hour,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200633,C0701159,DIAGNOSES,Neutrophil count (procedure),Patient in hospital,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200633,C2826293,DIAGNOSES,Neutrophil count (procedure),Clinical Significance,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200635,C2749595,DIAGNOSES,Lymphocyte Count measurement,Decreased T cells,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200638,C1861874,DIAGNOSES,Eosinophil count procedure,Severe atopic dermatitis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200665,C0085393,DIAGNOSES,Platelet mean volume determination (procedure),Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200676,C0221198,DIAGNOSES,"Iron stain method, blood or bone marrow",Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200676,C4055506,DIAGNOSES,"Iron stain method, blood or bone marrow",Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200931,C0728899,DIAGNOSES,Polymerase chain reaction analysis,Intoxication,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200931,C3476546,DIAGNOSES,Polymerase chain reaction analysis,Symptoms score,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200931,C3827002,DIAGNOSES,Polymerase chain reaction analysis,Ground Glass Opacity,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200931,C4054479,DIAGNOSES,Polymerase chain reaction analysis,Molecular Response,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200932,C0458074,DIAGNOSES,Nucleic Acid Amplification Tests,Human immunodeficiency virus (HIV) status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200932,C1879646,DIAGNOSES,Nucleic Acid Amplification Tests,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200949,C1859430,DIAGNOSES,Blood culture,Life-threatening infections,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200949,C2826279,DIAGNOSES,Blood culture,Abnormal Finding,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200955,C0449411,DIAGNOSES,Viral culture procedure,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200955,C3715215,DIAGNOSES,Viral culture procedure,S1,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200955,C3843058,DIAGNOSES,Viral culture procedure,First half,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200955,C3843504,DIAGNOSES,Viral culture procedure,1 - 3,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0200955,C4321237,DIAGNOSES,Viral culture procedure,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201284,C0449411,DIAGNOSES,Fluorescent antibody measurement,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201409,C0517627,DIAGNOSES,Toluidine red unheated serum test,Infection status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201487,C3844397,DIAGNOSES,Hepatitis C antibody measurement,Initial screen,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201591,C4321237,DIAGNOSES,Interferon assay,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201617,C4314584,DIAGNOSES,Primed lymphocyte test,Disseminated coagulopathy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201720,C1268601,DIAGNOSES,Serum protein electrophoresis,Hyperbetaglobulinemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201720,C3841937,DIAGNOSES,Serum protein electrophoresis,Clean-up,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201811,C0085393,DIAGNOSES,Fecal occult blood test,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201927,C0020598,DIAGNOSES,Measurement of serum ionized calcium,Hypocalcemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201950,C2675556,DIAGNOSES,Cholesterol measurement test,"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3",lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201971,C0750484,DIAGNOSES,Cosyntropin test,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202084,C1116171,DIAGNOSES,Immunoglobulin M measurement,Vaccinated at,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202098,C0425710,DIAGNOSES,Insulin measurement,Peripheral perfusion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202113,C0151905,DIAGNOSES,Lactate dehydrogenase measurement,Increased alanine aminotransferase,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202144,C3806166,DIAGNOSES,Neuron specific enolase measurement,Poor outcome,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202311,C0428279,DIAGNOSES,Aluminum measurement,Finding of creatinine level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0202311,C0686750,DIAGNOSES,Aluminum measurement,Well adult,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0206691,C1545588,DIAGNOSES,Electroporation,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0242842,C0517627,DIAGNOSES,"Microscopy, Confocal",Infection status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0242842,C3845593,DIAGNOSES,"Microscopy, Confocal",Major change,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0282647,C3715215,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",S1,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0282649,C0424595,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Undifferentiated illness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0337438,C0857322,DIAGNOSES,Glucose measurement,anaemic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0369671,C4313322,DIAGNOSES,Microscopic observation,Alveolar damage,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0373680,C1518340,DIAGNOSES,Myoglobin measurement,No Evidence of Disease,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0427408,C3714745,DIAGNOSES,Serum vitamin B12 measurement,Malabsorption,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0427460,C3890735,DIAGNOSES,Red cell distribution width determination,Complete Response with Incomplete Platelet Recovery,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0427743,C1262477,DIAGNOSES,"Glucose concentration, test strip measurement",Weight decreased,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430027,C4321237,DIAGNOSES,biochemical test,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430385,C0221198,DIAGNOSES,Sample macroscopy,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430400,C3845275,DIAGNOSES,Laboratory culture,Germline,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430400,C4289767,DIAGNOSES,Laboratory culture,Colonization,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430402,C3890735,DIAGNOSES,Bacterial culture (procedure),Complete Response with Incomplete Platelet Recovery,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430404,C0018965,DIAGNOSES,Urine for culture,Hematuria,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430404,C0686744,DIAGNOSES,Urine for culture,Well child,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0430425,C0332575,DIAGNOSES,Procedure to identify antibody,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0441073,C0332575,DIAGNOSES,Bright field,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0445138,C0233174,DIAGNOSES,Nucleic acid analysis,Synclitism,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0459958,C1261323,DIAGNOSES,HIV screen,Changing job (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C0231221,DIAGNOSES,Antibody titer measurement,Asymptomatic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C0239984,DIAGNOSES,Antibody titer measurement,Increased IgA level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C1290905,DIAGNOSES,Antibody titer measurement,Discrepancy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C1545588,DIAGNOSES,Antibody titer measurement,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C1704632,DIAGNOSES,Antibody titer measurement,Disease Response,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C1859770,DIAGNOSES,Antibody titer measurement,Normal eyelashes,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C3540840,DIAGNOSES,Antibody titer measurement,Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0474643,C4321237,DIAGNOSES,Antibody titer measurement,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0487602,C0221198,DIAGNOSES,Staining method,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0519825,C0239981,DIAGNOSES,Comprehensive Metabolic Panel,Hypoalbuminemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523207,C0019080,DIAGNOSES,Hematoxylin and eosin stain method,Hemorrhage,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523207,C0522570,DIAGNOSES,Hematoxylin and eosin stain method,Focal inflammation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523213,C3686832,DIAGNOSES,Periodic acid Schiff stain method,Glycogen accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523452,C1881358,DIAGNOSES,Adenosine diphosphate measurement,Large Mass,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523459,C0424589,DIAGNOSES,Alanine measurement,Vitality,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523459,C1545588,DIAGNOSES,Alanine measurement,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0523891,C0020625,DIAGNOSES,Serum sodium measurement,Hyponatremia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0580327,C0750484,DIAGNOSES,Antibody studies (procedure),Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0596932,C0085393,DIAGNOSES,microorganism culture,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0597452,C1864785,DIAGNOSES,Single-Cell Analysis,Normal kidneys,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0597717,C0332575,DIAGNOSES,Fluorescence Resonance Energy Transfer,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0600209,C0003962,DIAGNOSES,SDS-PAGE,Ascites,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0600209,C0728725,DIAGNOSES,SDS-PAGE,Low pH,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0600209,C3843262,DIAGNOSES,SDS-PAGE,Line 5,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0678637,C0235195,DIAGNOSES,enzyme degradation,Sedated state,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0679560,C0595998,DIAGNOSES,Genetic screening method,Household composition,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0679560,C1821461,DIAGNOSES,Genetic screening method,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0679560,C4264438,DIAGNOSES,Genetic screening method,Compound heterozygous,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0681827,C1836348,DIAGNOSES,laboratory studies,Severe disorder,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0702196,C1306855,DIAGNOSES,Blood investigation,Erythrocyte agglutination,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0752248,C0558187,DIAGNOSES,Gene Expression Profiling,Lactation established (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0806957,C0427965,DIAGNOSES,Microbial susceptibility tests,Antimicrobial susceptibility,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0848397,C0750558,DIAGNOSES,Throat culture,Unlikely,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0856667,C3842672,DIAGNOSES,plasma urea,Day 7,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0856667,C3842676,DIAGNOSES,plasma urea,Day 2,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0872318,C0150637,DIAGNOSES,Liquid Chromatography Mass Spectrometry,assessment.initial,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0878565,C0234518,DIAGNOSES,Electrocardiogram J wave,Slurred speech,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0883003,C0337664,DIAGNOSES,Differential panel,Smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0883003,C3887644,DIAGNOSES,Differential panel,Inflammatory infiltrate,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0919386,C0019080,DIAGNOSES,Pathology procedure,Hemorrhage,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0919386,C0086972,DIAGNOSES,Pathology procedure,Separated from cohabitee,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0919386,C0332575,DIAGNOSES,Pathology procedure,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0919386,C0337664,DIAGNOSES,Pathology procedure,Smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0919386,C0337672,DIAGNOSES,Pathology procedure,Non-smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0920508,C1299586,DIAGNOSES,Enzyme-Linked Immunospot Assay,Has difficulty doing (qualifier value),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0946326,C1545588,DIAGNOSES,pulmonary studies,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C0332575,DIAGNOSES,Scientific Study,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C0337664,DIAGNOSES,Scientific Study,Smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C0489557,DIAGNOSES,Scientific Study,Identifying information,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C1879646,DIAGNOSES,Scientific Study,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C1953367,DIAGNOSES,Scientific Study,Reference sequence,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0947630,C4321237,DIAGNOSES,Scientific Study,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0948762,C3890735,DIAGNOSES,Absolute neutrophil count,Complete Response with Incomplete Platelet Recovery,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0949466,C0562577,DIAGNOSES,Western Blot,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0949466,C0748024,DIAGNOSES,Western Blot,protein elevated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0949466,C1444656,DIAGNOSES,Western Blot,Indicated,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0949466,C4036057,DIAGNOSES,Western Blot,Too low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0949466,C4055506,DIAGNOSES,Western Blot,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1096202,C0221198,DIAGNOSES,Lipoprotein (a) measurement,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1167909,C4266412,DIAGNOSES,T lymphocyte count,CD8 ratio,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1167997,C0241590,DIAGNOSES,5-hydroxyindolacetic acid in urine measurement,diluted urine,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1254361,C0679838,DIAGNOSES,Laboratory Diagnostic Method,Misdiagnosis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1261148,C4289767,DIAGNOSES,Microbial antigen assay,Colonization,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1261478,C4321237,DIAGNOSES,Viral load measurement,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1271681,C0562577,DIAGNOSES,Total white blood count,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1273421,C2597943,DIAGNOSES,Viral studies,Index case,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1273421,C3816499,DIAGNOSES,Viral studies,Pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1277793,C1836348,DIAGNOSES,Specific antibody measurement,Severe disorder,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1285572,C4321237,DIAGNOSES,Phenotype determination,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1294356,C0349790,DIAGNOSES,Detection of virus procedure,Exacerbation of asthma,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1294356,C0424576,DIAGNOSES,Detection of virus procedure,Fit and well,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1294356,C0449411,DIAGNOSES,Detection of virus procedure,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1294356,C1320226,DIAGNOSES,Detection of virus procedure,Incubation period,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1294356,C4086268,DIAGNOSES,Detection of virus procedure,Exacerbation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1319309,C2751835,DIAGNOSES,Hematoxylin stain method,Apoptotic nuclei,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1370231,C0221198,DIAGNOSES,Count of Unspecified Cells,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1441604,C0150637,DIAGNOSES,High sensitivity,assessment.initial,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1441604,C0221198,DIAGNOSES,High sensitivity,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1441604,C0442726,DIAGNOSES,High sensitivity,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1441604,C3816499,DIAGNOSES,High sensitivity,Pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1441647,C1545588,DIAGNOSES,Microscopy.electron.negative stain,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1446165,C4049797,DIAGNOSES,Immature reticulocyte fraction,Chaos,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1449575,C1709157,DIAGNOSES,Microarray Analysis,Negative Surgical Margin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1449619,C4264624,DIAGNOSES,Culture Techniques,Likely pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1449705,C0278252,DIAGNOSES,Co-Immunoprecipitation,Prognosis bad,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0015663,DIAGNOSES,Assay,Fasting,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0020580,DIAGNOSES,Assay,Hypesthesia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0038435,DIAGNOSES,Assay,Stress,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0085393,DIAGNOSES,Assay,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0151729,DIAGNOSES,Assay,Increased immunoglobulin,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0278252,DIAGNOSES,Assay,Prognosis bad,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0332575,DIAGNOSES,Assay,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0337664,DIAGNOSES,Assay,Smoker,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0342917,DIAGNOSES,Assay,Deficiency of micronutrients,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0442726,DIAGNOSES,Assay,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0442749,DIAGNOSES,Assay,6/5,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0449411,DIAGNOSES,Assay,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0517627,DIAGNOSES,Assay,Infection status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0596020,DIAGNOSES,Assay,Does hit (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0600140,DIAGNOSES,Assay,Does run (finding),lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0683314,DIAGNOSES,Assay,personal health,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0686750,DIAGNOSES,Assay,Well adult,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0728725,DIAGNOSES,Assay,Low pH,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C0750484,DIAGNOSES,Assay,Confirmation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1545588,DIAGNOSES,Assay,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1550518,DIAGNOSES,Assay,incapable,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1709795,DIAGNOSES,Assay,Quantitative Result,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1821461,DIAGNOSES,Assay,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1832073,DIAGNOSES,Assay,Handling,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1837514,DIAGNOSES,Assay,Phenotypic Variation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1846546,DIAGNOSES,Assay,Recurrent sinopulmonary infections,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1853237,DIAGNOSES,Assay,Isolated cases,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1855067,DIAGNOSES,Assay,B lymphocytopenia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C1879646,DIAGNOSES,Assay,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3176122,DIAGNOSES,Assay,Data points,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3540840,DIAGNOSES,Assay,Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3806482,DIAGNOSES,Assay,Recurrent respiratory infections,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3816499,DIAGNOSES,Assay,Pathogenic,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3840593,DIAGNOSES,Assay,Trial 1,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3844397,DIAGNOSES,Assay,Initial screen,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C3845287,DIAGNOSES,Assay,Weak positive,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4036061,DIAGNOSES,Assay,Drug-drug,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4038931,DIAGNOSES,Assay,Bacteria present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4055506,DIAGNOSES,Assay,Accumulation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4072750,DIAGNOSES,Assay,Gastrointestinal pathogens,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4288557,DIAGNOSES,Assay,One Activity Hour,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4289767,DIAGNOSES,Assay,Colonization,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4321237,DIAGNOSES,Assay,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1510438,C4534506,DIAGNOSES,Assay,One reactive,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1511124,C1545588,DIAGNOSES,"Bioassay, In Vivo",Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1513388,C0231224,DIAGNOSES,Molecular Diagnosis,Crisis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1522279,C0221198,DIAGNOSES,Iron Staining Method,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1535922,C4321237,DIAGNOSES,Procalcitonin measurement,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1882495,C0562577,DIAGNOSES,Protein Expression Analysis,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C1955172,C4321237,DIAGNOSES,Antibody investigation,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2347644,C0332575,DIAGNOSES,Positive Selection,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2347644,C0600140,DIAGNOSES,Positive Selection,Does run (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2347644,C3844397,DIAGNOSES,Positive Selection,Initial screen,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2697666,C0221203,DIAGNOSES,Immunoenzyme Procedure,Vesicular rash,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2697666,C0442726,DIAGNOSES,Immunoenzyme Procedure,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2697666,C0449411,DIAGNOSES,Immunoenzyme Procedure,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2697666,C0518609,DIAGNOSES,Immunoenzyme Procedure,consideration,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2717977,C0424641,DIAGNOSES,Enzyme Assays,Decrease in height,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2718003,C0596020,DIAGNOSES,High-Throughput Screening Methods,Does hit (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C2733022,C4321237,DIAGNOSES,Quantitative PCR analysis,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3146302,C0424589,DIAGNOSES,Mutagenesis Procedure,Vitality,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3146302,C1865782,DIAGNOSES,Mutagenesis Procedure,CEREBELLAR DEGENERATION-RELATED AUTOANTIGEN 3,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3178894,C0349790,DIAGNOSES,Genotyping Techniques,Exacerbation of asthma,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3484173,C4321237,DIAGNOSES,Vaccination panel,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3641325,C0442726,DIAGNOSES,High Performance Liquid Chromatography Mass Spectrometry,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3641616,C4086268,DIAGNOSES,CD4 Cell to Lymphocyte Ratio Measurement,Exacerbation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3714764,C0449411,DIAGNOSES,Restriction fragment length polymorphism technique,Causative_agents,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3811745,C0221198,DIAGNOSES,Mast Cell Count,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3811844,C0332575,DIAGNOSES,Estimated Glomerular Filtration Rate,Redness,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3811844,C4230430,DIAGNOSES,Estimated Glomerular Filtration Rate,Inflammatory lung disease,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3812195,C0562577,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Mocking,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3812195,C0577305,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Multiple lesions,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3812195,C1545588,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3812195,C1836348,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Severe disorder,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3812195,C1864676,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Glial activation,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3820394,C4321237,DIAGNOSES,Thrombin to Antithrombin Ratio Measurement,High Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3827370,C3845593,DIAGNOSES,Flow Microscopy,Major change,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3830326,C0015663,DIAGNOSES,Electrochemiluminescence,Fasting,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C3854164,C1821461,DIAGNOSES,Genome sequence analysis,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4049918,C0541749,DIAGNOSES,Liquid Chromatography/Tandem Mass Spectrometry,Does turn (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4049928,C0686750,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,Well adult,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4049928,C1545588,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,Protection,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4049928,C4321335,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,Moderate Level,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4053868,C0743630,DIAGNOSES,Viral Identification,exacerbation acute,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4054524,C0600140,DIAGNOSES,Microneutralization Assay,Does run (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4055064,C0476442,DIAGNOSES,Endpoint Dilution Assay,High antibody titer,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4288189,C0038435,DIAGNOSES,Staining Intensity,Stress,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4288879,C3887644,DIAGNOSES,Interleukin 12 Beta Measurement,Inflammatory infiltrate,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4318456,C0860801,DIAGNOSES,Zaire Ebolavirus Measurement,Glucose low,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4318939,C0442751,DIAGNOSES,Nasal Swab (procedure),Distance vision 6/9,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4318939,C1519789,DIAGNOSES,Nasal Swab (procedure),Unexpected Adverse Event,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4318939,C2585744,DIAGNOSES,Nasal Swab (procedure),Virus present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4318939,C3540840,DIAGNOSES,Nasal Swab (procedure),Sign or Symptom,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4321306,C0449439,DIAGNOSES,Nasal Wash and Collection,Carrier status,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C4525806,C0442726,DIAGNOSES,Population Sequencing,Detected (finding),lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG

@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0162638,PRECEDES,Autophagy,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007587,C0007586,PRECEDES,Cell Death,Cell Cycle,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007587,C2610958,PRECEDES,Cell Death,necroptotic process,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007590,C0007595,PRECEDES,Cell division,cell growth,celf,celf,1,PRECEDES_CELFprcdCELF
+C0010813,C0597601,PRECEDES,Cytokinesis,Transcytosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0010813,C1156248,PRECEDES,Cytokinesis,pseudohyphal growth,celf,celf,1,PRECEDES_CELFprcdCELF
+C0010813,C1519624,PRECEDES,Cytokinesis,Transmembrane Transport,celf,celf,1,PRECEDES_CELFprcdCELF
+C0014139,C0010813,PRECEDES,Endocytosis,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0015283,C0599702,PRECEDES,Exocytosis,reuptake,celf,celf,1,PRECEDES_CELFprcdCELF
+C0026255,C0007586,PRECEDES,Mitosis,Cell Cycle,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C0085416,PRECEDES,Phagocytosis,Respiratory Burst,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C0162638,PRECEDES,Phagocytosis,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0598952,C0010813,PRECEDES,anterograde transport,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0599952,C0007582,PRECEDES,modulation by virus of host morphology or physiology,Cell Communication,celf,celf,1,PRECEDES_CELFprcdCELF
+C1154393,C0277921,PRECEDES,leukocyte cell-cell adhesion,Diapedesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155065,C0162638,PRECEDES,T-Cell Activation,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155342,C0162638,PRECEDES,cellular response to unfolded protein,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155812,C2613267,PRECEDES,meiosis I,sporulation,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155873,C0162638,PRECEDES,Cell Cycle Arrest,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160698,C0010813,PRECEDES,viral budding,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1816452,C1820119,PRECEDES,mitochondrial depolarization,Mitochondrial Degradation,celf,celf,1,PRECEDES_CELFprcdCELF
+C2613267,C0025186,PRECEDES,sporulation,Meiosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C4235236,C0007586,PRECEDES,exit from meiosis,Cell Cycle,celf,celf,1,PRECEDES_CELFprcdCELF

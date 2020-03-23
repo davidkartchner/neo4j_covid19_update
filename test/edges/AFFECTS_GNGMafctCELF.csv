@@ -1,0 +1,191 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017339,C0010813,AFFECTS,"Genes, Bacterial",Cytokinesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017345,C1156140,AFFECTS,"Genes, Fungal",ribosome biogenesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017349,C1155065,AFFECTS,"Genes, MHC Class II",T-Cell Activation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017376,C0162638,AFFECTS,"Genes, Viral",Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017376,C0599952,AFFECTS,"Genes, Viral",modulation by virus of host morphology or physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017376,C1524026,AFFECTS,"Genes, Viral","Metabolic Process, Cellular",gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017376,C3546359,AFFECTS,"Genes, Viral",pro-apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0017376,C3820514,AFFECTS,"Genes, Viral",bacteriophage maturation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0029073,C1523936,AFFECTS,Operon,cellular biosynthetic process,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0042720,C0037083,AFFECTS,Viral Genome,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079068,C0596290,AFFECTS,c-myc Genes,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C0007613,AFFECTS,Tumor Suppressor Genes,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C0162638,AFFECTS,Tumor Suppressor Genes,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C0596290,AFFECTS,Tumor Suppressor Genes,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C1155873,AFFECTS,Tumor Suppressor Genes,Cell Cycle Arrest,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C1516334,AFFECTS,Tumor Suppressor Genes,Cell Cycle Progression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079427,C1524026,AFFECTS,Tumor Suppressor Genes,"Metabolic Process, Cellular",gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079941,C0037083,AFFECTS,Open Reading Frames,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079941,C0162638,AFFECTS,Open Reading Frames,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079941,C0599952,AFFECTS,Open Reading Frames,modulation by virus of host morphology or physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079941,C1157569,AFFECTS,Open Reading Frames,viral translation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0079941,C1160700,AFFECTS,Open Reading Frames,viral gene expression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0282641,C0007595,AFFECTS,Transgenes,cell growth,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0282641,C0007613,AFFECTS,Transgenes,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0440471,C1157569,AFFECTS,Genetic Materials,viral translation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0599770,C0037083,AFFECTS,genetic element,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0599770,C0206431,AFFECTS,genetic element,Antigen Presentation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0599770,C0599952,AFFECTS,genetic element,modulation by virus of host morphology or physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0600449,C1155872,AFFECTS,"Genes, Essential",Cell Cycle Control,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0812235,C0014139,AFFECTS,RHOB gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C0919453,C2754100,AFFECTS,cancer-predisposing genes,neuron death,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1314855,C0162638,AFFECTS,tumor protein D52-like 1,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332826,C0007595,AFFECTS,CYP1A2 gene,cell growth,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0007595,AFFECTS,Candidate Disease Gene,cell growth,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0014139,AFFECTS,Candidate Disease Gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0037083,AFFECTS,Candidate Disease Gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0041904,AFFECTS,Candidate Disease Gene,Up-Regulation (Physiology),gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0162638,AFFECTS,Candidate Disease Gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0596290,AFFECTS,Candidate Disease Gene,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0599895,AFFECTS,Candidate Disease Gene,protein transport,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C0599952,AFFECTS,Candidate Disease Gene,modulation by virus of host morphology or physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C1155873,AFFECTS,Candidate Disease Gene,Cell Cycle Arrest,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1332838,C1326160,AFFECTS,Candidate Disease Gene,activated T cell proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1333200,C0014139,AFFECTS,Cytoskeletal Gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1333609,C0007613,AFFECTS,Fibroblast Growth Factor Receptor Family Gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C0004391,AFFECTS,Homologous Gene,Autophagy,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C0037083,AFFECTS,Homologous Gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C0086982,AFFECTS,Homologous Gene,Signal Transduction Pathways,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C1156140,AFFECTS,Homologous Gene,ribosome biogenesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C1511002,AFFECTS,Homologous Gene,b cell differentiation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C1660008,AFFECTS,Homologous Gene,Golgi localization,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C1660749,AFFECTS,Homologous Gene,localization within cell,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334043,C2755756,AFFECTS,Homologous Gene,cellular transcription,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334083,C2611812,AFFECTS,IFNGR1 gene,signaling cascade,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334084,C2611812,AFFECTS,IFNGR2 gene,signaling cascade,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334469,C0037083,AFFECTS,SMAD6 gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1334470,C0037083,AFFECTS,SMAD7 gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1335144,C1660749,AFFECTS,Orthologous Gene,localization within cell,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1335208,C0596290,AFFECTS,PHB gene,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1336686,C1656555,AFFECTS,TSSC4 gene,viral entry into host cell,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1336927,C0037083,AFFECTS,VAV3 gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412278,C0162638,AFFECTS,AGER gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412442,C0014139,AFFECTS,AP2A2 gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412674,C1156277,AFFECTS,ATP6V1B2 gene,zinc homeostasis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412799,C0007586,AFFECTS,BLCAP gene,Cell Cycle,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412799,C0162638,AFFECTS,BLCAP gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1412799,C0596290,AFFECTS,BLCAP gene,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413108,C0007613,AFFECTS,CAPG gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413132,C0162638,AFFECTS,CASP3 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413175,C1516334,AFFECTS,CCND3 gene,Cell Cycle Progression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413706,C0037864,AFFECTS,CREM gene,Spermatogenesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413712,C0007613,AFFECTS,CRIP1 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413763,C0007577,AFFECTS,VCAN gene,Cell Adhesion,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413778,C0162638,AFFECTS,CSTA gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413778,C0206431,AFFECTS,CSTA gene,Antigen Presentation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413892,C0596898,AFFECTS,CYP51A1 gene,membrane biogenesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413906,C3546359,AFFECTS,DAPK1 gene,pro-apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1413961,C0887840,AFFECTS,DDX21 gene,Nuclear Export,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414069,C0037083,AFFECTS,DLK1 gene,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414159,C1657987,AFFECTS,DSCAM gene,neuron development,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414301,C2244314,AFFECTS,EFNA2 gene,cellular component assembly,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414321,C0014139,AFFECTS,EHD4 gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414478,C0007595,AFFECTS,MPZL2 gene,cell growth,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414545,C1157569,AFFECTS,FBP2 gene,viral translation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414546,C0031308,AFFECTS,FCAR gene,Phagocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414628,C3158983,AFFECTS,FKBP6 gene,mitochondrial permeability transition,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414634,C2611812,AFFECTS,FLII gene,signaling cascade,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1414878,C0007613,AFFECTS,FXYD5 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1415384,C0007613,AFFECTS,H1F0 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1415391,C0007613,AFFECTS,H1FX gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1415497,C0086982,AFFECTS,HCLS1 gene,Signal Transduction Pathways,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1415735,C0007613,AFFECTS,HSBP1 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1415884,C0007613,AFFECTS,IER3 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416443,C1155013,AFFECTS,INPP4B gene,T cell differentiation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416457,C1160700,AFFECTS,INSM1 gene,viral gene expression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416500,C1156141,AFFECTS,EIF6 gene,ribosome assembly,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416670,C0887840,AFFECTS,KLK10 gene,Nuclear Export,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416698,C0599814,AFFECTS,KIF2C gene,Intracellular Transport,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416717,C1159909,AFFECTS,KRT14 gene,keratinocyte differentiation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416922,C2611812,AFFECTS,LRRFIP2 gene,signaling cascade,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1416997,C0010813,AFFECTS,MAN2B1 gene,Cytokinesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1417056,C0007613,AFFECTS,LAPTM4A gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1418270,C1820119,AFFECTS,PRKN gene,Mitochondrial Degradation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1418406,C0015283,AFFECTS,PDCD6 gene,Exocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1418546,C0007613,AFFECTS,SERPINI1 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1418913,C3158362,AFFECTS,PRKCB gene,B cell development,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1419018,C0206431,AFFECTS,PSMB8 gene,Antigen Presentation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1419106,C0007620,AFFECTS,PTPN4 gene,Cell Survival,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1419589,C0162638,AFFECTS,RNY1 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1419730,C0007613,AFFECTS,RPS27A gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1419850,C1156031,AFFECTS,STMN2 gene,Microtubule Depolymerization Process,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420044,C0041904,AFFECTS,SI gene,Up-Regulation (Physiology),gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420071,C0007613,AFFECTS,SIRT2 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420099,C1159471,AFFECTS,SLC14A2 gene,urea transport,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420300,C0598953,AFFECTS,SNX1 gene,retrograde transport,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420472,C0007581,AFFECTS,NEK4 gene,Cellular Senescence,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420522,C2244314,AFFECTS,SUPT16H gene,cellular component assembly,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420583,C0206431,AFFECTS,TAPBP gene,Antigen Presentation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1420851,C1155065,AFFECTS,TOB1 gene,T-Cell Activation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1421389,C0004391,AFFECTS,USP12P1 gene,Autophagy,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1421397,C1155874,AFFECTS,USP2 gene,Cell Cycle Checkpoints,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1421409,C0007613,AFFECTS,USP9X gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1421423,C3548489,AFFECTS,VAMP8 gene,autophagosome maturation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1422060,C0007613,AFFECTS,ATP11A gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1422271,C0162638,AFFECTS,BAG6 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1422519,C0014139,AFFECTS,CD2AP gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1423014,C0596290,AFFECTS,PPP1R14A gene,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1423063,C1720920,AFFECTS,SIRT3 gene,"Membrane Potential, Mitochondrial",gngm,celf,1,AFFECTS_GNGMafctCELF
+C1423544,C0014139,AFFECTS,PICALM gene,Endocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1423882,C0596290,AFFECTS,RERG gene,Cell Proliferation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424582,C0015283,AFFECTS,NREP gene,Exocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424654,C0007613,AFFECTS,CDC42EP3 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424672,C1817605,AFFECTS,OLIG1 gene,oligodendrocyte development,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424721,C0162638,AFFECTS,FAIM2 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424724,C0007587,AFFECTS,SARM1 gene,Cell Death,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424724,C2754100,AFFECTS,SARM1 gene,neuron death,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1424934,C0007613,AFFECTS,ARID5A gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1425182,C0007581,AFFECTS,SENP1 gene,Cellular Senescence,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1425370,C0887840,AFFECTS,DDX56 gene,Nuclear Export,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1425417,C0007613,AFFECTS,RNF130 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1425683,C0013081,AFFECTS,RIOK1 gene,Down-Regulation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1425702,C0887840,AFFECTS,DDX47 gene,Nuclear Export,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1426201,C0007586,AFFECTS,TP53I3 gene,Cell Cycle,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1426233,C0007586,AFFECTS,TADA3 gene,Cell Cycle,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1426354,C1155874,AFFECTS,CLSPN gene,Cell Cycle Checkpoints,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1426648,C0013081,AFFECTS,USP31 gene,Down-Regulation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1426869,C2613267,AFFECTS,SCOC gene,sporulation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1427165,C1156277,AFFECTS,SLC39A14 gene,zinc homeostasis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1427656,C2610947,AFFECTS,ANO1 gene,mucus secretion,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1427830,C1160700,AFFECTS,KDM4A gene,viral gene expression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1427880,C0007613,AFFECTS,BRK1 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1428046,C0086982,AFFECTS,C10orf10 gene,Signal Transduction Pathways,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1428202,C0007613,AFFECTS,FMNL3 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1428775,C3548489,AFFECTS,PLEKHM1 gene,autophagosome maturation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1428880,C0010813,AFFECTS,CASC1 gene,Cytokinesis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1428971,C0015283,AFFECTS,SCRN2 gene,Exocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1449886,C0004391,AFFECTS,"Adaptor Proteins, Signal Transducing",Autophagy,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1449886,C0037083,AFFECTS,"Adaptor Proteins, Signal Transducing",Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1449886,C1749558,AFFECTS,"Adaptor Proteins, Signal Transducing",vesicle coating,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1517488,C0007613,AFFECTS,Gene Family,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1517488,C0037083,AFFECTS,Gene Family,Signal Transduction,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1517488,C0162638,AFFECTS,Gene Family,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1533585,C1660749,AFFECTS,Fusion Gene,localization within cell,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1537447,C0004391,AFFECTS,RUBCN gene,Autophagy,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1537709,C1155872,AFFECTS,MIR15A gene,Cell Cycle Control,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1537709,C3178834,AFFECTS,MIR15A gene,G1 Cell Cycle Arrest,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1537996,C1160700,AFFECTS,MT-RNR1 gene,viral gene expression,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1538464,C0162638,AFFECTS,CIAPIN1 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1538873,C1820119,AFFECTS,RNF185 gene,Mitochondrial Degradation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1539137,C0007613,AFFECTS,CREG1 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1539511,C1155003,AFFECTS,FCRL1 gene,B-Cell Activation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1539859,C0162638,AFFECTS,ST3GAL1 gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1539996,C0015283,AFFECTS,TMEM27 gene,Exocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1565159,C1155065,AFFECTS,"WASL protein, human",T-Cell Activation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1565159,C1155982,AFFECTS,"WASL protein, human",actin filament polymerization,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1567848,C0007620,AFFECTS,"Genes, Neoplasm",Cell Survival,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1705325,C3271951,AFFECTS,PIK3CG wt Allele,macropinocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1822784,C0230871,AFFECTS,MIEF1 gene,Mitochondrial Fission,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1823267,C1156246,AFFECTS,THA1P gene,filamentous growth,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1823519,C0007613,AFFECTS,TSPAN31 gene,Cell physiology,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1823796,C0031308,AFFECTS,TSACC gene,Phagocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1825022,C3158362,AFFECTS,EBF1 gene,B cell development,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1825140,C0031308,AFFECTS,MIGA1 gene,Phagocytosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1825499,C0004391,AFFECTS,ATG9A gene,Autophagy,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1825525,C2611772,AFFECTS,HS1BP3 gene,autophagosome assembly,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1825590,C1155003,AFFECTS,IKZF3 gene,B-Cell Activation,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1826767,C1156019,AFFECTS,RASSF7 gene,microtubule cytoskeleton organization,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1836172,C1327439,AFFECTS,MZB1 gene,immunoglobulin secretion,gngm,celf,1,AFFECTS_GNGMafctCELF
+C1836945,C0162638,AFFECTS,RICTOR gene,Apoptosis,gngm,celf,1,AFFECTS_GNGMafctCELF
+C2239803,C4235581,AFFECTS,CDHR2 gene,brush border assembly,gngm,celf,1,AFFECTS_GNGMafctCELF

@@ -1,0 +1,1676 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0029883,TREATS,Adenoidectomy,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001559,C0009443,TREATS,Inhalation Drug Administration,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001560,C0009443,TREATS,"Administration, Intranasal",Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001560,C0010674,TREATS,"Administration, Intranasal",Cystic Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001560,C0032310,TREATS,"Administration, Intranasal","Pneumonia, Viral",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001560,C0042769,TREATS,"Administration, Intranasal",Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001560,C0276500,TREATS,"Administration, Intranasal",Human immunodeficiency virus I infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001563,C0011603,TREATS,"Administration, Oral",Dermatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001563,C0017574,TREATS,"Administration, Oral",Gingivitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001563,C0026946,TREATS,"Administration, Oral",Mycoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001563,C0267446,TREATS,"Administration, Oral",Acute gastroenteritis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0001563,C1318706,TREATS,"Administration, Oral",Noneffusive feline infectious peritonitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001566,C0009443,TREATS,"Administration, Topical",Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001566,C0009663,TREATS,"Administration, Topical",Condylomata Acuminata,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001566,C0948873,TREATS,"Administration, Topical",flu symptoms,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0001632,C0001622,TREATS,Adrenalectomy,Adrenal Gland Hyperfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002766,C0010340,TREATS,Pain management,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002766,C0242966,TREATS,Pain management,Systemic Inflammatory Response Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002915,C0031350,TREATS,General Anesthesia,Pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002928,C0021051,TREATS,Spinal Anesthesia,Immunologic Deficiency Syndromes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002928,C0276289,TREATS,Spinal Anesthesia,Zika Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002928,C1262296,TREATS,Spinal Anesthesia,testicular infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002997,C0027051,TREATS,"Angioplasty, Balloon, Coronary",Myocardial Infarction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0002997,C0155626,TREATS,"Angioplasty, Balloon, Coronary",Acute myocardial infarction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0003611,C0008312,TREATS,Appendectomy,Primary biliary cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0004708,C0340375,TREATS,Balloon Valvuloplasty,Subaortic stenosis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0005435,C0015695,TREATS,Biliopancreatic Diversion,Fatty Liver,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005435,C0028754,TREATS,Biliopancreatic Diversion,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005527,C0003872,TREATS,Biological Response Modifier Therapy,"Arthritis, Psoriatic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005527,C0003873,TREATS,Biological Response Modifier Therapy,Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005527,C0035435,TREATS,Biological Response Modifier Therapy,Rheumatism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005527,C0038013,TREATS,Biological Response Modifier Therapy,Ankylosing spondylitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005841,C0005779,TREATS,Blood Transfusion,Blood Coagulation Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005841,C0010340,TREATS,Blood Transfusion,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005857,C0018995,TREATS,Bloodletting,Hemochromatosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005961,C0018133,TREATS,Bone Marrow Transplantation,Graft-vs-Host Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005961,C0520680,TREATS,Bone Marrow Transplantation,"Sleep Apnea, Central",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0005961,C0678236,TREATS,Bone Marrow Transplantation,Rare Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007202,C0042769,TREATS,Cardiopulmonary Bypass,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007203,C0340861,TREATS,Cardiopulmonary Resuscitation,Electromechanical dissociation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007203,C1175175,TREATS,Cardiopulmonary Resuscitation,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007203,C3665783,TREATS,Cardiopulmonary Resuscitation,Obstructive shock,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007203,C3694279,TREATS,Cardiopulmonary Resuscitation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007876,C0005779,TREATS,Cesarean section,Blood Coagulation Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0007876,C0015930,TREATS,Cesarean section,Fetal Distress,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0008320,C0005424,TREATS,Cholecystectomy procedure,Biliary Tract Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0008320,C0008311,TREATS,Cholecystectomy procedure,Cholangitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0008971,C0006271,TREATS,Clinical Protocols,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009244,C0015674,TREATS,Cognitive Therapy,Chronic Fatigue Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0003864,TREATS,Combined Modality Therapy,Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0017563,TREATS,Combined Modality Therapy,Gingival Diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0009429,C0019693,TREATS,Combined Modality Therapy,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0020192,TREATS,Combined Modality Therapy,Hyaline Membrane Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0021400,TREATS,Combined Modality Therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0024530,TREATS,Combined Modality Therapy,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0030499,TREATS,Combined Modality Therapy,Parasitic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0032285,TREATS,Combined Modality Therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0035690,TREATS,Combined Modality Therapy,RNA Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0042769,TREATS,Combined Modality Therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0151317,TREATS,Combined Modality Therapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0238097,TREATS,Combined Modality Therapy,Cytomegalovirus encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0242723,TREATS,Combined Modality Therapy,Parasitemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0276500,TREATS,Combined Modality Therapy,Human immunodeficiency virus I infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0497169,TREATS,Combined Modality Therapy,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C0524910,TREATS,Combined Modality Therapy,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0009429,C3694279,TREATS,Combined Modality Therapy,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0010055,C0022660,TREATS,Coronary Artery Bypass Surgery,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0010332,C0032285,TREATS,Crisis Intervention,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0010705,C0451641,TREATS,Cystostomy,Urolithiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011079,C0004030,TREATS,Debridement,Aspergillosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011121,C0021400,TREATS,Decontamination,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011946,C0002871,TREATS,Dialysis procedure,Anemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011946,C0022660,TREATS,Dialysis procedure,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011946,C0022661,TREATS,Dialysis procedure,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0011946,C4479344,TREATS,Dialysis procedure,"SCLEROSING CHOLANGITIS, NEONATAL",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0012167,C0028754,TREATS,Reducing diet,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0012683,C3495919,TREATS,Disinfection,Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013103,C0041912,TREATS,Drainage procedure,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0004364,TREATS,Pharmacotherapy,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0004610,TREATS,Pharmacotherapy,Bacteremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0006271,TREATS,Pharmacotherapy,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0006309,TREATS,Pharmacotherapy,Brucellosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0009450,TREATS,Pharmacotherapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0011847,TREATS,Pharmacotherapy,Diabetes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0015674,TREATS,Pharmacotherapy,Chronic Fatigue Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0019348,TREATS,Pharmacotherapy,Herpes Simplex Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0020538,TREATS,Pharmacotherapy,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0022661,TREATS,Pharmacotherapy,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0023530,TREATS,Pharmacotherapy,Leukopenia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0024117,TREATS,Pharmacotherapy,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0024530,TREATS,Pharmacotherapy,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0029456,TREATS,Pharmacotherapy,Osteoporosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0030312,TREATS,Pharmacotherapy,Pancytopenia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0032285,TREATS,Pharmacotherapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0035243,TREATS,Pharmacotherapy,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0038454,TREATS,Pharmacotherapy,Cerebrovascular accident,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0041327,TREATS,Pharmacotherapy,"Tuberculosis, Pulmonary",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0042769,TREATS,Pharmacotherapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0149725,TREATS,Pharmacotherapy,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0151317,TREATS,Pharmacotherapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0746408,TREATS,Pharmacotherapy,mass lesion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C0746883,TREATS,Pharmacotherapy,Febrile Neutropenia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0013216,C1175175,TREATS,Pharmacotherapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013216,C3648852,TREATS,Pharmacotherapy,Herpes Simplex Virus 1 encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013218,C0021400,TREATS,Combination Drug Therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013459,C0036690,TREATS,Early Mobilization,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013778,C0948268,TREATS,Electric Countershock,Hemodynamic instability,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C0010340,TREATS,Electroconvulsive Therapy,Critical Illness,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0013806,C0019247,TREATS,Electroconvulsive Therapy,Hereditary Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C0021051,TREATS,Electroconvulsive Therapy,Immunologic Deficiency Syndromes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C0024117,TREATS,Electroconvulsive Therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C0035204,TREATS,Electroconvulsive Therapy,Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C0036690,TREATS,Electroconvulsive Therapy,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0013806,C0877445,TREATS,Electroconvulsive Therapy,Candidemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C1145670,TREATS,Electroconvulsive Therapy,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C1701940,TREATS,Electroconvulsive Therapy,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013806,C1719672,TREATS,Electroconvulsive Therapy,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013931,C0041909,TREATS,"Embolization, Therapeutic",Upper gastrointestinal hemorrhage,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013969,C0003175,TREATS,Emergency treatment,Anthrax disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013969,C0004096,TREATS,Emergency treatment,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0013969,C0016470,TREATS,Emergency treatment,Food Allergy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0014327,C0010340,TREATS,Enteral Nutrition,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015236,C0282548,TREATS,"Exchange Transfusion, Whole Blood",Leukostasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015252,C0023895,TREATS,removal technique,Liver diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015252,C0024115,TREATS,removal technique,Lung diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015252,C0041912,TREATS,removal technique,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015252,C1318484,TREATS,removal technique,Chimera disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0004096,TREATS,Extracorporeal Membrane Oxygenation,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0010340,TREATS,Extracorporeal Membrane Oxygenation,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0018801,TREATS,Extracorporeal Membrane Oxygenation,Heart failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C0021400,TREATS,Extracorporeal Membrane Oxygenation,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C0024141,TREATS,Extracorporeal Membrane Oxygenation,"Lupus Erythematosus, Systemic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0027059,TREATS,Extracorporeal Membrane Oxygenation,Myocarditis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0032285,TREATS,Extracorporeal Membrane Oxygenation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0035222,TREATS,Extracorporeal Membrane Oxygenation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C0035243,TREATS,Extracorporeal Membrane Oxygenation,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0036690,TREATS,Extracorporeal Membrane Oxygenation,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0038218,TREATS,Extracorporeal Membrane Oxygenation,Status Asthmaticus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0038644,TREATS,Extracorporeal Membrane Oxygenation,Sudden infant death syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0264490,TREATS,Extracorporeal Membrane Oxygenation,Acute respiratory failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C0340194,TREATS,Extracorporeal Membrane Oxygenation,Respiratory failure without hypercapnia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C0521648,TREATS,Extracorporeal Membrane Oxygenation,Neonatal respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C1145670,TREATS,Extracorporeal Membrane Oxygenation,Respiratory Failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C1175175,TREATS,Extracorporeal Membrane Oxygenation,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C1281998,TREATS,Extracorporeal Membrane Oxygenation,Refractory heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C1852551,TREATS,Extracorporeal Membrane Oxygenation,Epithelial Recurrent Erosion Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C2062441,TREATS,Extracorporeal Membrane Oxygenation,Influenza A,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0015357,C2076600,TREATS,Extracorporeal Membrane Oxygenation,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0015357,C3694279,TREATS,Extracorporeal Membrane Oxygenation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0016419,C0009443,TREATS,"Medicine, Folk",Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0016419,C0017178,TREATS,"Medicine, Folk",Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0016419,C0033575,TREATS,"Medicine, Folk",Prostatic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0016419,C0035455,TREATS,"Medicine, Folk",Rhinitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0016419,C0037274,TREATS,"Medicine, Folk",Dermatologic disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017118,C0015695,TREATS,Gastrectomy,Fatty Liver,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017118,C0028754,TREATS,Gastrectomy,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0001175,TREATS,gene therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0004623,TREATS,gene therapy,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0007222,TREATS,gene therapy,Cardiovascular Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0007682,TREATS,gene therapy,CNS disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0008679,TREATS,gene therapy,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0008780,TREATS,gene therapy,Ciliary Motility Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0009319,TREATS,gene therapy,Colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0010034,TREATS,gene therapy,Corneal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0019189,TREATS,gene therapy,"Hepatitis, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0019247,TREATS,gene therapy,Hereditary Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0019693,TREATS,gene therapy,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0026850,TREATS,gene therapy,Muscular Dystrophy,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0017296,C0032269,TREATS,gene therapy,Pneumococcal Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0037176,TREATS,gene therapy,Single-Gene Defects,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0042769,TREATS,gene therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0151317,TREATS,gene therapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0175969,TREATS,gene therapy,incurable diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0221757,TREATS,gene therapy,alpha 1-Antitrypsin Deficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0275524,TREATS,gene therapy,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0376538,TREATS,gene therapy,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0678236,TREATS,gene therapy,Rare Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0684275,TREATS,gene therapy,"Hemophilia, NOS",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C0699949,TREATS,gene therapy,airway disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0017296,C3495919,TREATS,gene therapy,Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018247,C0029883,TREATS,Grommet Insertion,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018821,C0010054,TREATS,Cardiac Surgery procedures,Coronary Arteriosclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018821,C0087086,TREATS,Cardiac Surgery procedures,Thrombus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018821,C0152021,TREATS,Cardiac Surgery procedures,Congenital heart disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018821,C0856738,TREATS,Cardiac Surgery procedures,triple vessel disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018823,C0018801,TREATS,Heart Transplantation,Heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018823,C0022660,TREATS,Heart Transplantation,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0018878,C0011615,TREATS,Heliotherapy,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C0018802,TREATS,Hemodialysis,Congestive heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C0019101,TREATS,Hemodialysis,Hemorrhagic Fever with Renal Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C0022660,TREATS,Hemodialysis,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C0022661,TREATS,Hemodialysis,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C0041948,TREATS,Hemodialysis,Uremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019004,C1561643,TREATS,Hemodialysis,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019014,C0035222,TREATS,Hemofiltration,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0019063,C0036690,TREATS,Hemoperfusion,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019063,C1719672,TREATS,Hemoperfusion,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0019540,C0035222,TREATS,High-Frequency Jet Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020674,C0009421,TREATS,"Hypothermia, Induced",Comatose,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020944,C0009450,TREATS,Immobilization,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020944,C2676739,TREATS,Immobilization,Chromosome 2q32-Q33 Deletion Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0009450,TREATS,Immunization,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0012546,TREATS,Immunization,Diphtheria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0013080,TREATS,Immunization,Down Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0017160,TREATS,Immunization,Gastroenteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0017162,TREATS,Immunization,"Gastroenteritis, Transmissible, of Swine",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0020971,C0019163,TREATS,Immunization,Hepatitis B,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0021400,TREATS,Immunization,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0024894,TREATS,Immunization,Mastitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0025007,TREATS,Immunization,Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0032371,TREATS,Immunization,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0033036,TREATS,Immunization,Atrial Premature Complexes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0037354,TREATS,Immunization,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0039614,TREATS,Immunization,Tetanus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C0343312,TREATS,Immunization,Tetanus neonatorum,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020971,C4505065,TREATS,Immunization,Noncommunicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020972,C0009450,TREATS,Immunization Schedule,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0004610,TREATS,passive immunization procedure,Bacteremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0009450,TREATS,passive immunization procedure,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0018802,TREATS,passive immunization procedure,Congestive heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0024117,TREATS,passive immunization procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0032371,TREATS,passive immunization procedure,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C0729555,TREATS,passive immunization procedure,Infection of digestive system,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020974,C1175175,TREATS,passive immunization procedure,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0020975,C0019159,TREATS,Secondary Immunization,Hepatitis A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0020975,C3887949,TREATS,Secondary Immunization,Apparent mineralocorticoid excess,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C0004364,TREATS,Therapeutic immunosuppression,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C0018133,TREATS,Therapeutic immunosuppression,Graft-vs-Host Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C0021831,TREATS,Therapeutic immunosuppression,Intestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C0026769,TREATS,Therapeutic immunosuppression,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C0497169,TREATS,Therapeutic immunosuppression,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021079,C1535950,TREATS,Therapeutic immunosuppression,Gastrointestinal inflammation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0004364,TREATS,Immunotherapy,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0009450,TREATS,Immunotherapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0011615,TREATS,Immunotherapy,"Dermatitis, Atopic",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0021083,C0016470,TREATS,Immunotherapy,Food Allergy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0018133,TREATS,Immunotherapy,Graft-vs-Host Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0019101,TREATS,Immunotherapy,Hemorrhagic Fever with Renal Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0024437,TREATS,Immunotherapy,Macular degeneration,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0027765,TREATS,Immunotherapy,nervous system disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0035455,TREATS,Immunotherapy,Rhinitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0036690,TREATS,Immunotherapy,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0042769,TREATS,Immunotherapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0151317,TREATS,Immunotherapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0155877,TREATS,Immunotherapy,Allergic asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0339952,TREATS,Immunotherapy,Secondary bacterial pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0559469,TREATS,Immunotherapy,Allergy to eggs,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C0947961,TREATS,Immunotherapy,Atopic condition,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C1112681,TREATS,Immunotherapy,cockroach allergy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021083,C3277428,TREATS,Immunotherapy,Severe viral infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021107,C0020538,TREATS,Implantation procedure,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021107,C0034087,TREATS,Implantation procedure,Pulmonary valve disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021107,C0034088,TREATS,Implantation procedure,Pulmonary Valve Insufficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021107,C0155700,TREATS,Implantation procedure,Mobitz type II atrioventricular block,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021107,C1318484,TREATS,Implantation procedure,Chimera disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021459,C0004096,TREATS,Inhalation Therapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021459,C0149512,TREATS,Inhalation Therapy,Acute sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021493,C0235989,TREATS,"Injections, Intraperitoneal",Renal interstitial fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021925,C0032285,TREATS,Intubation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021925,C0035222,TREATS,Intubation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0021925,C0035436,TREATS,Intubation,Rheumatic Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021925,C0264490,TREATS,Intubation,Acute respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021925,C1145670,TREATS,Intubation,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021925,C1175175,TREATS,Intubation,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C0024115,TREATS,"Intubation, Intratracheal",Lung diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0021932,C0026265,TREATS,"Intubation, Intratracheal",Diseases of mitral valve,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C0032285,TREATS,"Intubation, Intratracheal",Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C0264490,TREATS,"Intubation, Intratracheal",Acute respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C0264491,TREATS,"Intubation, Intratracheal",Acute-on-chronic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C1175175,TREATS,"Intubation, Intratracheal",Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0021932,C3694279,TREATS,"Intubation, Intratracheal",Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022100,C0004096,TREATS,Irrigation,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022100,C0024530,TREATS,Irrigation,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022100,C0149516,TREATS,Irrigation,Chronic sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022100,C0392663,TREATS,Irrigation,Infection by Wuchereria bancrofti,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022100,C0729771,TREATS,Irrigation,Infective pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022671,C0002726,TREATS,Kidney Transplantation,Amyloidosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0022671,C1561643,TREATS,Kidney Transplantation,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023035,C0031154,TREATS,Suture of abdominal wall,Peritonitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023038,C0021845,TREATS,Laparotomy,Intestinal Perforation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023038,C0031154,TREATS,Laparotomy,Peritonitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023038,C1142110,TREATS,Laparotomy,Abdominal Compartment Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023690,C0009319,TREATS,Ligation,Colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023911,C0023895,TREATS,Transplantation of liver,Liver diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0023911,C0034155,TREATS,Transplantation of liver,"Purpura, Thrombotic Thrombocytopenic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0024128,C0010674,TREATS,Lung Transplantation,Cystic Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0024128,C0020538,TREATS,Lung Transplantation,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0024128,C0024117,TREATS,Lung Transplantation,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0024128,C0034069,TREATS,Lung Transplantation,Pulmonary Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0024203,C0036202,TREATS,Lymph node excision,Sarcoidosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0027484,C0021400,TREATS,Natural Childbirth assistance,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0027695,C1969372,TREATS,Nephrectomy,Tubulointerstitial fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0029168,C0008354,TREATS,Oral Rehydration Therapy,Cholera,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0029168,C0011175,TREATS,Oral Rehydration Therapy,Dehydration,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0029168,C0740441,TREATS,Oral Rehydration Therapy,Acute diarrhea,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0029216,C0004364,TREATS,Organ Transplantation,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0029216,C0679247,TREATS,Organ Transplantation,Terminal illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0030547,C0205721,TREATS,Parenteral Nutrition,"Infections, Hospital",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0030693,C0009450,TREATS,Patient Isolation,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0031041,C0007177,TREATS,Pericardiostomy,Cardiac Tamponade,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0031140,C0740394,TREATS,"Peritoneal Dialysis, Continuous Ambulatory",Hyperuricemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0031740,C0398650,TREATS,Photochemotherapy,Immune thrombocytopenic purpura,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0031740,C0432252,TREATS,Photochemotherapy,Osteoporosis with pseudoglioma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0031765,C0020433,TREATS,Phototherapy,Hyperbilirubinemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032113,C0032285,TREATS,Plasma Exchange,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032113,C0034155,TREATS,Plasma Exchange,"Purpura, Thrombotic Thrombocytopenic",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0032113,C0036690,TREATS,Plasma Exchange,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032113,C0242966,TREATS,Plasma Exchange,Systemic Inflammatory Response Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032113,C0398650,TREATS,Plasma Exchange,Immune thrombocytopenic purpura,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032134,C0018378,TREATS,Plasmapheresis,Guillain-Barre Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032720,C0154830,TREATS,Surgical Portosystemic Shunt,Proliferative diabetic retinopathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032740,C0032285,TREATS,Positive End-Expiratory Pressure,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0032740,C0035222,TREATS,Positive End-Expiratory Pressure,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0032740,C0242852,TREATS,Positive End-Expiratory Pressure,Proliferative vitreoretinopathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0033144,C0008679,TREATS,Primary Prevention,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0033144,C0036916,TREATS,Primary Prevention,Sexually Transmitted Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0033972,C2062441,TREATS,"Psychotherapy, Multiple",Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0004610,TREATS,Quarantine,Bacteremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0009450,TREATS,Quarantine,Communicable Diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0034386,C0010674,TREATS,Quarantine,Cystic Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0016627,TREATS,Quarantine,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0021400,TREATS,Quarantine,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0024530,TREATS,Quarantine,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0037354,TREATS,Quarantine,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0041296,TREATS,Quarantine,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0043395,TREATS,Quarantine,Yellow Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0206750,TREATS,Quarantine,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0270724,TREATS,Quarantine,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0277548,TREATS,Quarantine,Epidemic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C0872315,TREATS,Quarantine,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034386,C1175175,TREATS,Quarantine,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034997,C0013369,TREATS,Rehydration,Dysentery,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034997,C0339916,TREATS,Rehydration,Viral upper respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0034997,C0376300,TREATS,Rehydration,Dengue Shock Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035139,C0010674,TREATS,Surgical Replantation,Cystic Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035139,C0011860,TREATS,Surgical Replantation,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035139,C0029342,TREATS,Surgical Replantation,Orthomyxoviridae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035139,C0031106,TREATS,Surgical Replantation,"Periodontitis, Juvenile",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035139,C0036690,TREATS,Surgical Replantation,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0035205,C0276340,TREATS,"Respiration, Artificial",Respiratory syncytial virus bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035205,C0400887,TREATS,"Respiration, Artificial",Nonspecific reactive hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035273,C0010340,TREATS,Resuscitation procedure,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035273,C0022660,TREATS,Resuscitation procedure,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035273,C0036690,TREATS,Resuscitation procedure,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0035273,C1145670,TREATS,Resuscitation procedure,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035273,C1561643,TREATS,Resuscitation procedure,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035273,C1719672,TREATS,Resuscitation procedure,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035822,C0009450,TREATS,Role playing therapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035822,C0021400,TREATS,Role playing therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0035822,C0032285,TREATS,Role playing therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0037943,C0007684,TREATS,Spinal Puncture,Central Nervous System Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0037943,C0009952,TREATS,Spinal Puncture,Febrile Convulsions,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0037943,C0021400,TREATS,Spinal Puncture,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0037943,C0025290,TREATS,Spinal Puncture,Aseptic Meningitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0037943,C0041228,TREATS,Spinal Puncture,African Trypanosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0037943,C1175175,TREATS,Spinal Puncture,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0038280,C0400914,TREATS,Sterilization for infection control,Acute hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0038288,C0014518,TREATS,Sexual sterilization,Toxic Epidermal Necrolysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0038638,C0035222,TREATS,Suction drainage,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0038897,C0022660,TREATS,Cardiovascular Surgical Procedures,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0038904,C0019294,TREATS,Minor Surgical Procedures,"Hernia, Inguinal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0039548,C0010340,TREATS,terminal patient care,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0039548,C0022661,TREATS,terminal patient care,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0039548,C1561643,TREATS,terminal patient care,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040423,C0008312,TREATS,Tonsillectomy,Primary biliary cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040423,C0031350,TREATS,Tonsillectomy,Pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040423,C0940933,TREATS,Tonsillectomy,infection as a complication,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040440,C0031099,TREATS,Tooth Extraction,Periodontitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040508,C1623038,TREATS,Total Hip Replacement (procedure),Cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040590,C0010340,TREATS,Tracheostomy procedure,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040590,C0032285,TREATS,Tracheostomy procedure,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0040590,C1145670,TREATS,Tracheostomy procedure,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040590,C1701940,TREATS,Tracheostomy procedure,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0004364,TREATS,Transplantation,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0008312,TREATS,Transplantation,Primary biliary cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0019196,TREATS,Transplantation,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0020097,TREATS,Transplantation,HTLV-I Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0027765,TREATS,Transplantation,nervous system disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0036992,TREATS,Transplantation,Short Bowel Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0151317,TREATS,Transplantation,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0302809,TREATS,Transplantation,Fulminant hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0342317,TREATS,Transplantation,Loss of hypoglycemic warning,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0349410,TREATS,Transplantation,Single organ dysfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0520680,TREATS,Transplantation,"Sleep Apnea, Central",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0524909,TREATS,Transplantation,"Hepatitis B, Chronic",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0040732,C0566602,TREATS,Transplantation,Primary sclerosing cholangitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0745744,TREATS,Transplantation,End Stage Liver Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C0851734,TREATS,Transplantation,Hepatic Metabolic derangement,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040732,C1719788,TREATS,Transplantation,Episodic ataxia type 1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040739,C0085110,TREATS,"Transplantation, Homologous",Severe Combined Immunodeficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0004364,TREATS,Treatment Protocols,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0004771,TREATS,Treatment Protocols,Bartonella Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0010346,TREATS,Treatment Protocols,Crohn Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0011615,TREATS,Treatment Protocols,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0014518,TREATS,Treatment Protocols,Toxic Epidermal Necrolysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0016627,TREATS,Treatment Protocols,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0023281,TREATS,Treatment Protocols,Leishmaniasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0024291,TREATS,Treatment Protocols,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0025289,TREATS,Treatment Protocols,Meningitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0028754,TREATS,Treatment Protocols,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0032285,TREATS,Treatment Protocols,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0040808,C0035222,TREATS,Treatment Protocols,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0036202,TREATS,Treatment Protocols,Sarcoidosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0038454,TREATS,Treatment Protocols,Cerebrovascular accident,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0087086,TREATS,Treatment Protocols,Thrombus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0206750,TREATS,Treatment Protocols,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0497169,TREATS,Treatment Protocols,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0520680,TREATS,Treatment Protocols,"Sleep Apnea, Central",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0694549,TREATS,Treatment Protocols,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0742343,TREATS,Treatment Protocols,Acute Chest Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C0749769,TREATS,Treatment Protocols,underlying infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C1175175,TREATS,Treatment Protocols,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C1290344,TREATS,Treatment Protocols,Nonspecific interstitial pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C1535939,TREATS,Treatment Protocols,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C1623038,TREATS,Treatment Protocols,Cirrhosis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0040808,C1701940,TREATS,Treatment Protocols,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C2882221,TREATS,Treatment Protocols,Acute pulmonary embolism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C3694279,TREATS,Treatment Protocols,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040808,C3714534,TREATS,Treatment Protocols,dowling-degos disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040861,C0021400,TREATS,Triage,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040861,C0032285,TREATS,Triage,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0040861,C0872315,TREATS,Triage,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0041281,C0010340,TREATS,Tube feeding of patient,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0041450,C0029877,TREATS,Tympanostomy Tube Insertion,Ear Inflammation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0041450,C0029883,TREATS,Tympanostomy Tube Insertion,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0002395,TREATS,Vaccination,Alzheimer's Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0004096,TREATS,Vaccination,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0006277,TREATS,Vaccination,Bronchitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0008049,TREATS,Vaccination,Chickenpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0008354,TREATS,Vaccination,Cholera,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0008679,TREATS,Vaccination,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0009187,TREATS,Vaccination,Coccidiosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0009450,TREATS,Vaccination,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0011854,TREATS,Vaccination,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0014038,TREATS,Vaccination,Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0016052,TREATS,Vaccination,Fibromuscular Dysplasia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0016627,TREATS,Vaccination,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0017168,TREATS,Vaccination,Gastroesophageal reflux disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0018801,TREATS,Vaccination,Heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0019163,TREATS,Vaccination,Hepatitis B,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0019243,TREATS,Vaccination,"Angioedemas, Hereditary",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0019693,TREATS,Vaccination,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0019841,TREATS,Vaccination,Classical Swine Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0021400,TREATS,Vaccination,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0042196,C0023290,TREATS,Vaccination,"Leishmaniasis, Visceral",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0023364,TREATS,Vaccination,Leptospirosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0023860,TREATS,Vaccination,Listeriosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0024117,TREATS,Vaccination,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0024530,TREATS,Vaccination,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0025007,TREATS,Vaccination,Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0026780,TREATS,Vaccination,Mumps,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0029342,TREATS,Vaccination,Orthomyxoviridae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0029882,TREATS,Vaccination,Otitis Media,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0032300,TREATS,Vaccination,Lobar Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0032371,TREATS,Vaccination,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0035235,TREATS,Vaccination,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0035637,TREATS,Vaccination,Rinderpest,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0035920,TREATS,Vaccination,Rubella,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0036323,TREATS,Vaccination,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0036916,TREATS,Vaccination,Sexually Transmitted Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0037354,TREATS,Vaccination,Smallpox,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0042196,C0040425,TREATS,Vaccination,Tonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0042267,TREATS,Vaccination,Vaginitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0042749,TREATS,Vaccination,Viremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0042769,TREATS,Vaccination,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0043395,TREATS,Vaccination,Yellow Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0043528,TREATS,Vaccination,Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0149516,TREATS,Vaccination,Chronic sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0149678,TREATS,Vaccination,Epstein-Barr Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0149869,TREATS,Vaccination,Spasmodic Croup,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0151317,TREATS,Vaccination,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0206750,TREATS,Vaccination,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0243026,TREATS,Vaccination,Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0268732,TREATS,Vaccination,Nephritic syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0270724,TREATS,Vaccination,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0275524,TREATS,Vaccination,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0276311,TREATS,Vaccination,Bovine viral diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0276356,TREATS,Vaccination,Equine influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0282687,TREATS,Vaccination,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0339901,TREATS,Vaccination,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0343641,TREATS,Vaccination,Human papilloma virus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0376538,TREATS,Vaccination,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0740304,TREATS,Vaccination,copd exacerbation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0744369,TREATS,Vaccination,Lesion of genitalia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C0796126,TREATS,Vaccination,AICARDI-GOUTIERES SYNDROME 1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C1096155,TREATS,Vaccination,Macrophage Activation Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C1321098,TREATS,Vaccination,Human rabies,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C1535917,TREATS,Vaccination,Nipah Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C2062441,TREATS,Vaccination,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C2712889,TREATS,Vaccination,Novel H1N1 influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C3495919,TREATS,Vaccination,Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C3694279,TREATS,Vaccination,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C3899656,TREATS,Vaccination,Pediatric Infectious Disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042196,C4288963,TREATS,Vaccination,Hepatitis C Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C0004096,TREATS,Influenza vaccination,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C0011860,TREATS,Influenza vaccination,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C0021400,TREATS,Influenza vaccination,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C0024117,TREATS,Influenza vaccination,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C0271429,TREATS,Influenza vaccination,Acute otitis media,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C2062441,TREATS,Influenza vaccination,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C2076600,TREATS,Influenza vaccination,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0042200,C3495559,TREATS,Influenza vaccination,Juvenile arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0052712,C0037354,TREATS,doxorubicin/mitomycin/vinblastine protocol,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0056286,C0155877,TREATS,cyclophosphamide/prednisone/procarbazine/vincristine protocol,Allergic asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0056633,C0042769,TREATS,cyclophosphamide/prednisone/vincristine protocol,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0057163,C0004623,TREATS,DAV regimen,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0057163,C0021400,TREATS,DAV regimen,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0057163,C0043124,TREATS,DAV regimen,West Nile Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0065764,C0029456,TREATS,bleomycin/cisplatin/methotrexate protocol,Osteoporosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0072634,C1640363,TREATS,bleomycin/cisplatin/vinblastine protocol,Vector-transmitted infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0079613,C0004096,TREATS,Adoptive Immunotherapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0079613,C0042769,TREATS,Adoptive Immunotherapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0079613,C0151317,TREATS,Adoptive Immunotherapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0079646,C0011847,TREATS,Islets of Langerhans Transplantation,Diabetes,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0079646,C0011854,TREATS,Islets of Langerhans Transplantation,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0079646,C0342317,TREATS,Islets of Langerhans Transplantation,Loss of hypoglycemic warning,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0083765,C0520680,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,"Sleep Apnea, Central",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085198,C0022660,TREATS,Esophagectomy,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085203,C0001622,TREATS,Radiosurgery,Adrenal Gland Hyperfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085405,C0001175,TREATS,Salvage Therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085405,C0034069,TREATS,Salvage Therapy,Pulmonary Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085405,C0035222,TREATS,Salvage Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085405,C0497169,TREATS,Salvage Therapy,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085405,C1535939,TREATS,Salvage Therapy,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0085430,C0018133,TREATS,Blood Component Transfusion,Graft-vs-Host Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086153,C0017178,TREATS,Dietary Modification,Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086153,C0598427,TREATS,Dietary Modification,idiopathic hyperlipemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086153,C1257753,TREATS,Dietary Modification,Child Malnutrition,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086153,C2316401,TREATS,Dietary Modification,Chronic kidney disease stage 1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086252,C0002871,TREATS,Red Blood Cell Transfusion,Anemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086252,C0010340,TREATS,Red Blood Cell Transfusion,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086818,C0040034,TREATS,Platelet Transfusion,Thrombocytopenia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086818,C0243026,TREATS,Platelet Transfusion,Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086904,C0267446,TREATS,Oral rehydration procedure,Acute gastroenteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0086904,C0740441,TREATS,Oral rehydration procedure,Acute diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0087123,C0029883,TREATS,Tympanostomy,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0001339,TREATS,Steroid therapy,Acute pancreatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0002878,TREATS,Steroid therapy,"Anemia, Hemolytic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0011053,TREATS,Steroid therapy,Deafness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0015469,TREATS,Steroid therapy,Facial paralysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0024117,TREATS,Steroid therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0027059,TREATS,Steroid therapy,Myocarditis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0032285,TREATS,Steroid therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0032310,TREATS,Steroid therapy,"Pneumonia, Viral",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0035222,TREATS,Steroid therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0149783,C0036690,TREATS,Steroid therapy,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0155862,TREATS,Steroid therapy,Streptococcal pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C0694549,TREATS,Steroid therapy,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0149783,C1175175,TREATS,Steroid therapy,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0149783,C2014414,TREATS,Steroid therapy,orthopedic disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150137,C0032285,TREATS,Artificial airway management,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150138,C0011168,TREATS,Aspiration precautions,Deglutition Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150211,C0024530,TREATS,Environmental care procedure,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150211,C0036323,TREATS,Environmental care procedure,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150238,C0001339,TREATS,Fluid resuscitation,Acute pancreatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150238,C0010340,TREATS,Fluid resuscitation,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150238,C0035222,TREATS,Fluid resuscitation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150238,C0036690,TREATS,Fluid resuscitation,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0150238,C1145670,TREATS,Fluid resuscitation,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150238,C1719672,TREATS,Fluid resuscitation,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150413,C0019693,TREATS,HIV prevention,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150413,C0497169,TREATS,HIV prevention,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150638,C0035235,TREATS,Preventing injury,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0150638,C0085437,TREATS,Preventing injury,"Meningitis, Bacterial",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152054,C2930619,TREATS,Therapeutic tactile stimulation,Sex Differentiation Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0001175,TREATS,Transection (procedure),Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0003850,TREATS,Transection (procedure),Arteriosclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0004096,TREATS,Transection (procedure),Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0009450,TREATS,Transection (procedure),Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0013369,TREATS,Transection (procedure),Dysentery,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0013570,TREATS,Transection (procedure),"Ecthyma, Contagious",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0019112,TREATS,Transection (procedure),Hemorrhoids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0019555,TREATS,Transection (procedure),"Hip Dislocation, Congenital",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0021390,TREATS,Transection (procedure),Inflammatory Bowel Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0024115,TREATS,Transection (procedure),Lung diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0024117,TREATS,Transection (procedure),Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0024530,TREATS,Transection (procedure),Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0030499,TREATS,Transection (procedure),Parasitic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0035585,TREATS,Transection (procedure),Rickettsia Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0036323,TREATS,Transection (procedure),Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0041296,TREATS,Transection (procedure),Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0042749,TREATS,Transection (procedure),Viremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0042769,TREATS,Transection (procedure),Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0043528,TREATS,Transection (procedure),Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0339901,TREATS,Transection (procedure),Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0342895,TREATS,Transection (procedure),Fish-Eye Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C0796085,TREATS,Transection (procedure),Nance-Horan syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C1175175,TREATS,Transection (procedure),Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C3272758,TREATS,Transection (procedure),Pediatric Viral Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0152060,C3495919,TREATS,Transection (procedure),Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0162352,C0011615,TREATS,Allergen Immunotherapy,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0162577,C0149810,TREATS,Angioplasty,VERTEBROBASILAR STENOSIS,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0162578,C0751956,TREATS,Thrombectomy,Acute Cerebrovascular Accidents,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0175795,C0149871,TREATS,oral medication,Deep Vein Thrombosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0184930,C0007868,TREATS,Loop electrosurgical excision procedure,Cervical dysplasia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185003,C0009450,TREATS,Reparative closure,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185003,C0018572,TREATS,Reparative closure,"Hand, Foot and Mouth Disease",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185003,C0021400,TREATS,Reparative closure,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0021400,TREATS,Imbrication (procedure),Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0022660,TREATS,Imbrication (procedure),"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0030305,TREATS,Imbrication (procedure),Pancreatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0032310,TREATS,Imbrication (procedure),"Pneumonia, Viral",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0151317,TREATS,Imbrication (procedure),Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C0263541,TREATS,Imbrication (procedure),Equine laminitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185027,C1561643,TREATS,Imbrication (procedure),Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185111,C0042769,TREATS,Surgical Manipulation,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0001883,TREATS,Extraction,Airway Obstruction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0009450,TREATS,Extraction,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0023890,TREATS,Extraction,Liver Cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0025289,TREATS,Extraction,Meningitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0029883,TREATS,Extraction,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0032285,TREATS,Extraction,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0035222,TREATS,Extraction,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0041296,TREATS,Extraction,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0206750,TREATS,Extraction,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0276500,TREATS,Extraction,Human immunodeficiency virus I infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C0745283,TREATS,Extraction,INFECTIOUS PROCESS,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C1290884,TREATS,Extraction,Inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185115,C1561643,TREATS,Extraction,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185117,C0024530,TREATS,Expression procedure,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185414,C0026850,TREATS,Plastic operation on muscle,Muscular Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0185468,C0264517,TREATS,Muscle transplantation,Pulmonary necrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0189476,C0032326,TREATS,Insertion of pleural tube drain,Pneumothorax,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0189477,C0014013,TREATS,Thoracentesis,"Empyema, Pleural",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0194133,C0022660,TREATS,Local perfusion of kidney,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0194211,C0041956,TREATS,Incision of ureter,Ureteral obstruction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0198482,C0008312,TREATS,Operation on abdominal region,Primary biliary cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199171,C0872315,TREATS,Medical procedure,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199171,C1449563,TREATS,Medical procedure,"Cardiomyopathy, Familial Idiopathic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0001175,TREATS,Prophylactic treatment,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0003175,TREATS,Prophylactic treatment,Anthrax disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0004623,TREATS,Prophylactic treatment,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0006277,TREATS,Prophylactic treatment,Bronchitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0008679,TREATS,Prophylactic treatment,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0009450,TREATS,Prophylactic treatment,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0010340,TREATS,Prophylactic treatment,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0010356,TREATS,Prophylactic treatment,Cross Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0010823,TREATS,Prophylactic treatment,Cytomegalovirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0011311,TREATS,Prophylactic treatment,Dengue Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0011847,TREATS,Prophylactic treatment,Diabetes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0011849,TREATS,Prophylactic treatment,Diabetes Mellitus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0013533,TREATS,Prophylactic treatment,Echovirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0016052,TREATS,Prophylactic treatment,Fibromuscular Dysplasia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0016627,TREATS,Prophylactic treatment,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0021400,TREATS,Prophylactic treatment,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199176,C0021831,TREATS,Prophylactic treatment,Intestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0022660,TREATS,Prophylactic treatment,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0023281,TREATS,Prophylactic treatment,Leishmaniasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0024117,TREATS,Prophylactic treatment,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0024530,TREATS,Prophylactic treatment,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0025229,TREATS,Prophylactic treatment,Melioidosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0032285,TREATS,Prophylactic treatment,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0032371,TREATS,Prophylactic treatment,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0034215,TREATS,Prophylactic treatment,Pyometra,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0035243,TREATS,Prophylactic treatment,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0036323,TREATS,Prophylactic treatment,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0036690,TREATS,Prophylactic treatment,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0041296,TREATS,Prophylactic treatment,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0042721,TREATS,Prophylactic treatment,Viral hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0042769,TREATS,Prophylactic treatment,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0043528,TREATS,Prophylactic treatment,Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0085437,TREATS,Prophylactic treatment,"Meningitis, Bacterial",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0151317,TREATS,Prophylactic treatment,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0162534,TREATS,Prophylactic treatment,Prion Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0178829,TREATS,Prophylactic treatment,reproductive system disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0206750,TREATS,Prophylactic treatment,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0242786,TREATS,Prophylactic treatment,High-Risk Pregnancy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0267446,TREATS,Prophylactic treatment,Acute gastroenteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0276088,TREATS,Prophylactic treatment,Escherichia coli septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0276289,TREATS,Prophylactic treatment,Zika Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0277527,TREATS,Prophylactic treatment,Epidemic diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0277550,TREATS,Prophylactic treatment,Endemic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0282687,TREATS,Prophylactic treatment,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0339901,TREATS,Prophylactic treatment,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0340100,TREATS,Prophylactic treatment,High altitude pulmonary edema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0554628,TREATS,Prophylactic treatment,Group A Streptococcal Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0740766,TREATS,Prophylactic treatment,acute pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C0948998,TREATS,Prophylactic treatment,Viral Contagious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C1112577,TREATS,Prophylactic treatment,Granulomatous Gastritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C1175175,TREATS,Prophylactic treatment,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C1321098,TREATS,Prophylactic treatment,Human rabies,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C1442786,TREATS,Prophylactic treatment,Acute respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C1519680,TREATS,Prophylactic treatment,Tumor Immunity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199176,C3694279,TREATS,Prophylactic treatment,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199451,C0398350,TREATS,Continuous Positive Airway Pressure,Acute cardiac pulmonary edema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199451,C0520679,TREATS,Continuous Positive Airway Pressure,"Sleep Apnea, Obstructive",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199451,C0746982,TREATS,Continuous Positive Airway Pressure,obstructive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199451,C1175175,TREATS,Continuous Positive Airway Pressure,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199467,C0010674,TREATS,Physiotherapy of chest,Cystic Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0006271,TREATS,Mechanical ventilation,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0010340,TREATS,Mechanical ventilation,Critical Illness,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199470,C0027059,TREATS,Mechanical ventilation,Myocarditis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0032285,TREATS,Mechanical ventilation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0035222,TREATS,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199470,C0035243,TREATS,Mechanical ventilation,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0036690,TREATS,Mechanical ventilation,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0038220,TREATS,Mechanical ventilation,Status Epilepticus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0038525,TREATS,Mechanical ventilation,Subarachnoid Hemorrhage,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0149725,TREATS,Mechanical ventilation,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0206526,TREATS,Mechanical ventilation,"Tuberculosis, Multidrug-Resistant",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0264490,TREATS,Mechanical ventilation,Acute respiratory failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199470,C0264492,TREATS,Mechanical ventilation,Chronic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0600260,TREATS,Mechanical ventilation,"Lung Diseases, Obstructive",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0746102,TREATS,Mechanical ventilation,Chronic lung disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C0948008,TREATS,Mechanical ventilation,Ischemic stroke,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199470,C1719672,TREATS,Mechanical ventilation,Severe Sepsis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199470,C1960052,TREATS,Mechanical ventilation,Chronic hypercapnic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0004623,TREATS,Administration of antibiotic,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0004626,TREATS,Administration of antibiotic,"Pneumonia, Bacterial",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199779,C0008679,TREATS,Administration of antibiotic,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0010340,TREATS,Administration of antibiotic,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0024117,TREATS,Administration of antibiotic,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0031350,TREATS,Administration of antibiotic,Pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0032285,TREATS,Administration of antibiotic,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199779,C0032300,TREATS,Administration of antibiotic,Lobar Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0032310,TREATS,Administration of antibiotic,"Pneumonia, Viral",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0035243,TREATS,Administration of antibiotic,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0041296,TREATS,Administration of antibiotic,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0041912,TREATS,Administration of antibiotic,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0042769,TREATS,Administration of antibiotic,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0149514,TREATS,Administration of antibiotic,Acute bronchitis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0199779,C0149725,TREATS,Administration of antibiotic,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0271429,TREATS,Administration of antibiotic,Acute otitis media,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0442886,TREATS,Administration of antibiotic,Secondary Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0694549,TREATS,Administration of antibiotic,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C0702135,TREATS,Administration of antibiotic,Primary atypical pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199779,C1412002,TREATS,Administration of antibiotic,Atypical pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199782,C0010340,TREATS,Administration of insulin,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199798,C0016627,TREATS,human vaccination,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199798,C1321098,TREATS,human vaccination,Human rabies,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199798,C1336827,TREATS,human vaccination,Tropical Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199798,C2936328,TREATS,human vaccination,Neglected Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199809,C0032371,TREATS,Poliomyelitis vaccination,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199859,C1096155,TREATS,Deworming,Macrophage Activation Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199962,C0038525,TREATS,Transfusion of packed red blood cells,Subarachnoid Hemorrhage,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0199974,C0004364,TREATS,Cytokine therapy,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0004576,TREATS,Isolation procedure,Babesiosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0006271,TREATS,Isolation procedure,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0009450,TREATS,Isolation procedure,Communicable Diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0204727,C0010340,TREATS,Isolation procedure,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0014518,TREATS,Isolation procedure,Toxic Epidermal Necrolysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0021400,TREATS,Isolation procedure,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0204727,C0025007,TREATS,Isolation procedure,Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0030807,TREATS,Isolation procedure,Pemphigus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0032285,TREATS,Isolation procedure,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0204727,C0037354,TREATS,Isolation procedure,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0041296,TREATS,Isolation procedure,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0205721,TREATS,Isolation procedure,"Infections, Hospital",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0206750,TREATS,Isolation procedure,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0275522,TREATS,Isolation procedure,Asymptomatic Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0275524,TREATS,Isolation procedure,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0339901,TREATS,Isolation procedure,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0343401,TREATS,Isolation procedure,MRSA - Methicillin resistant Staphylococcus aureus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0442886,TREATS,Isolation procedure,Secondary Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0730328,TREATS,Isolation procedure,Central Serous Chorioretinopathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C0872315,TREATS,Isolation procedure,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204727,C1175175,TREATS,Isolation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0204727,C3694279,TREATS,Isolation procedure,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204819,C0009421,TREATS,"Intubation, Nasogastric",Comatose,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204901,C0010340,TREATS,Hemodynamic measurements,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0204901,C0035222,TREATS,Hemodynamic measurements,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0205991,C0042769,TREATS,Administration of vaccine to produce active immunity,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206058,C0022660,TREATS,Elective Surgical Procedures,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206058,C0022661,TREATS,Elective Surgical Procedures,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206074,C0010340,TREATS,Renal Replacement Therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206074,C0022660,TREATS,Renal Replacement Therapy,"Kidney Failure, Acute",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0206074,C0022661,TREATS,Renal Replacement Therapy,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206074,C0264490,TREATS,Renal Replacement Therapy,Acute respiratory failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0206074,C1145670,TREATS,Renal Replacement Therapy,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206074,C1535939,TREATS,Renal Replacement Therapy,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206074,C3694279,TREATS,Renal Replacement Therapy,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206075,C0022660,TREATS,Hemodiafiltration,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206373,C0018133,TREATS,Photopheresis,Graft-vs-Host Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206373,C0265514,TREATS,Photopheresis,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0206373,C1290884,TREATS,Photopheresis,Inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0237125,C0206526,TREATS,Drugs regimen,"Tuberculosis, Multidrug-Resistant",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0009450,TREATS,Serotherapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0012546,TREATS,Serotherapy,Diphtheria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0032300,TREATS,Serotherapy,Lobar Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0039614,TREATS,Serotherapy,Tetanus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0042109,TREATS,Serotherapy,Urticaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0263338,TREATS,Serotherapy,Chronic urticaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242348,C0275524,TREATS,Serotherapy,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242388,C0006271,TREATS,Phytotherapy,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242388,C0035455,TREATS,Phytotherapy,Rhinitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242389,C0038358,TREATS,Folk Remedies,Gastric ulcer,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242739,C0010340,TREATS,Nutritional Support,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242783,C0009450,TREATS,Disease Notification,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0242970,C0740441,TREATS,Fat-Restricted Diet,Acute diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0262756,C0010340,TREATS,respiratory management,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0262756,C0035222,TREATS,respiratory management,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0278261,C0003507,TREATS,plasty,Aortic Valve Stenosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0278261,C0020542,TREATS,plasty,Pulmonary Hypertension,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279023,C0023976,TREATS,chemosensitization/potentiation,Long QT Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279025,C0020538,TREATS,Hormone Therapy,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279027,C0024117,TREATS,"Laser Therapy, Low-Level",Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279030,C0019163,TREATS,interferon therapy,Hepatitis B,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279030,C0019196,TREATS,interferon therapy,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279030,C0042769,TREATS,interferon therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279030,C0341439,TREATS,interferon therapy,Chronic liver disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279030,C0524910,TREATS,interferon therapy,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279033,C0010340,TREATS,Replacement therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279033,C0019247,TREATS,Replacement therapy,Hereditary Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279033,C0020595,TREATS,Replacement therapy,Hypoaldosteronism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279033,C0022660,TREATS,Replacement therapy,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0279033,C0036690,TREATS,Replacement therapy,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0279694,C0282312,TREATS,Monoclonal Antibody Therapy,Bubonic Plague,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0001486,TREATS,Antiviral Therapy,Adenovirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0014061,TREATS,Antiviral Therapy,Tick-Borne Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0021400,TREATS,Antiviral Therapy,Influenza,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0280274,C0031887,TREATS,Antiviral Therapy,Picornaviridae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0032285,TREATS,Antiviral Therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0035222,TREATS,Antiviral Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0035235,TREATS,Antiviral Therapy,Respiratory Syncytial Virus Infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0280274,C0035243,TREATS,Antiviral Therapy,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0041912,TREATS,Antiviral Therapy,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0042749,TREATS,Antiviral Therapy,Viremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0042769,TREATS,Antiviral Therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0149725,TREATS,Antiviral Therapy,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0151317,TREATS,Antiviral Therapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0206608,TREATS,Antiviral Therapy,Flavivirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0206750,TREATS,Antiviral Therapy,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0243010,TREATS,Antiviral Therapy,Viral Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0276156,TREATS,Antiviral Therapy,Adenoviral pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0276226,TREATS,Antiviral Therapy,Herpes encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0276289,TREATS,Antiviral Therapy,Zika Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0456909,TREATS,Antiviral Therapy,Blindness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0524910,TREATS,Antiviral Therapy,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0729777,TREATS,Antiviral Therapy,Corneal infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C0872315,TREATS,Antiviral Therapy,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C1145670,TREATS,Antiviral Therapy,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C1175175,TREATS,Antiviral Therapy,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0280274,C2062441,TREATS,Antiviral Therapy,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280274,C2712971,TREATS,Antiviral Therapy,Enteritis due to Norovirus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0280603,C0038395,TREATS,fluorouracil/methotrexate protocol,Streptococcal Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281163,C0035204,TREATS,educational intervention,Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281163,C0042721,TREATS,educational intervention,Viral hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281176,C0009450,TREATS,antibody therapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281176,C0014378,TREATS,antibody therapy,Enterovirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281176,C0015397,TREATS,antibody therapy,Disorder of eye,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281176,C0019693,TREATS,antibody therapy,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0281481,C0003873,TREATS,anti-tumor necrosis factor therapy,Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0282515,C0012546,TREATS,Chemoprevention,Diphtheria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0282515,C0023343,TREATS,Chemoprevention,Leprosy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0282515,C0036323,TREATS,Chemoprevention,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0301589,C0342895,TREATS,Calorie diet,Fish-Eye Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C0007682,TREATS,Cell Therapy,CNS disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C0021053,TREATS,Cell Therapy,Immune System Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C0021400,TREATS,Cell Therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C0026769,TREATS,Cell Therapy,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C0038454,TREATS,Cell Therapy,Cerebrovascular accident,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C1290882,TREATS,Cell Therapy,Chronic nervous system disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302189,C1290885,TREATS,Cell Therapy,Acute inflammatory disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0302559,C0271428,TREATS,Cochlear implant procedure,Disorder of middle ear,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0337280,C0549423,TREATS,Fenestration procedure,Obstructive Hydrocephalus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0004623,TREATS,Antibiotic therapy,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0004626,TREATS,Antibiotic therapy,"Pneumonia, Bacterial",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0338237,C0006267,TREATS,Antibiotic therapy,Bronchiectasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0010340,TREATS,Antibiotic therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0032285,TREATS,Antibiotic therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0032300,TREATS,Antibiotic therapy,Lobar Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0035243,TREATS,Antibiotic therapy,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0043528,TREATS,Antibiotic therapy,Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0149725,TREATS,Antibiotic therapy,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0275556,TREATS,Antibiotic therapy,Acute bacterial sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0276092,TREATS,Antibiotic therapy,Neonatal colibacillosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0339901,TREATS,Antibiotic therapy,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0694549,TREATS,Antibiotic therapy,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C0877148,TREATS,Antibiotic therapy,pharyngotonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C1561643,TREATS,Antibiotic therapy,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C1701940,TREATS,Antibiotic therapy,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0338237,C2317131,TREATS,Antibiotic therapy,Acute rhinosinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0006271,TREATS,Supportive care,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0009421,TREATS,Supportive care,Comatose,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0010340,TREATS,Supportive care,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0014059,TREATS,Supportive care,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0017160,TREATS,Supportive care,Gastroenteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0019099,TREATS,Supportive care,"Hemorrhagic Fever, Crimean",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0021400,TREATS,Supportive care,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0025007,TREATS,Supportive care,Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0035222,TREATS,Supportive care,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0035235,TREATS,Supportive care,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0036690,TREATS,Supportive care,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0040034,TREATS,Supportive care,Thrombocytopenia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0042769,TREATS,Supportive care,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0151882,TREATS,Supportive care,Purpuric rash,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0206750,TREATS,Supportive care,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0282687,TREATS,Supportive care,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0398689,TREATS,Supportive care,"Hyper-IgM Immunodeficiency Syndrome, Type 1",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0749769,TREATS,Supportive care,underlying infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C0940933,TREATS,Supportive care,infection as a complication,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C1318706,TREATS,Supportive care,Noneffusive feline infectious peritonitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C3495919,TREATS,Supportive care,Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0344211,C3694279,TREATS,Supportive care,Middle East Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0349707,C0006267,TREATS,Aspiration-action,Bronchiectasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0349707,C0006271,TREATS,Aspiration-action,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0349707,C0023240,TREATS,Aspiration-action,Legionellosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0349707,C0032285,TREATS,Aspiration-action,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0349707,C1175175,TREATS,Aspiration-action,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0349707,C3161208,TREATS,Aspiration-action,Persistent air leak,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376466,C0022660,TREATS,Ischemic Preconditioning,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376495,C0019196,TREATS,Retreatments,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376495,C0031099,TREATS,Retreatments,Periodontitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376495,C0276311,TREATS,Retreatments,Bovine viral diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376518,C0014057,TREATS,Adoptive Transfer,Japanese Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376518,C0042769,TREATS,Adoptive Transfer,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0376518,C0679225,TREATS,Adoptive Transfer,multiple pathologies,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0392920,C1373218,TREATS,Chemotherapy Regimen,Decreased Immunologic Activity [PE],topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0394162,C0030567,TREATS,Deep Brain Stimulation,Parkinson Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0396565,C0020542,TREATS,Lung excision,Pulmonary Hypertension,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0400447,C0600452,TREATS,Orthotopic liver transplant,Hepatopulmonary Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0413381,C0004096,TREATS,Subcutaneous immunotherapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0418981,C0003873,TREATS,Medical therapy,Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419005,C0035222,TREATS,Airway Pressure Release Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419017,C0035222,TREATS,High frequency oscillatory ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419017,C0043167,TREATS,High frequency oscillatory ventilation,Pertussis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419017,C3694279,TREATS,High frequency oscillatory ventilation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419035,C0520679,TREATS,Domiciliary ventilation,"Sleep Apnea, Obstructive",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419117,C0010340,TREATS,Active exercise,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419688,C0032064,TREATS,First cholera vaccination,Plague,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419707,C0154830,TREATS,Pneumococcal vaccination,Proliferative diabetic retinopathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419707,C0395866,TREATS,Pneumococcal vaccination,Recurrent acute otitis media,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419786,C0004623,TREATS,Infection surveillance,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419786,C0032285,TREATS,Infection surveillance,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419786,C0339901,TREATS,Infection surveillance,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0419786,C3534575,TREATS,Infection surveillance,Animal Health,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0002395,TREATS,Elevation procedure,Alzheimer's Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0003486,TREATS,Elevation procedure,Aortic Aneurysm,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0004096,TREATS,Elevation procedure,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0016627,TREATS,Elevation procedure,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0023374,TREATS,Elevation procedure,Lesch-Nyhan Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0027059,TREATS,Elevation procedure,Myocarditis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0032285,TREATS,Elevation procedure,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0035222,TREATS,Elevation procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0041296,TREATS,Elevation procedure,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0242852,TREATS,Elevation procedure,Proliferative vitreoretinopathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0339510,TREATS,Elevation procedure,Vitelliform Macular Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C0595921,TREATS,Elevation procedure,Intraocular pressure disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C1175175,TREATS,Elevation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0439775,C1561643,TREATS,Elevation procedure,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441509,C0005779,TREATS,Coagulation procedure,Blood Coagulation Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441509,C0019189,TREATS,Coagulation procedure,"Hepatitis, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441509,C0024437,TREATS,Coagulation procedure,Macular degeneration,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441509,C0035222,TREATS,Coagulation procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0441509,C0036690,TREATS,Coagulation procedure,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441509,C2718001,TREATS,Coagulation procedure,Protein Misfolding Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441516,C0021400,TREATS,Demand (clinical),Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441516,C0025007,TREATS,Demand (clinical),Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441516,C0035204,TREATS,Demand (clinical),Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441516,C0036690,TREATS,Demand (clinical),Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0441615,C0740401,TREATS,Patch repair,Duodenal ulcer perforation,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0442968,C0010278,TREATS,Functional endoscopic sinus surgery,Craniosynostosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0444735,C1701940,TREATS,Intermittent administration,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0444889,C0035222,TREATS,Continuous infusion,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0452275,C0027709,TREATS,Purine restricted diet,Nephrocalcinosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0452275,C0451641,TREATS,Purine restricted diet,Urolithiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0452376,C0021831,TREATS,Elimination diet,Intestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0455142,C0008354,TREATS,Intravenous therapy,Cholera,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0455142,C0018801,TREATS,Intravenous therapy,Heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0459914,C0015469,TREATS,Conservative Treatment,Facial paralysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0459914,C0022660,TREATS,Conservative Treatment,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0459914,C0035222,TREATS,Conservative Treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472676,C0022660,TREATS,Intermittent hemodialysis,"Kidney Failure, Acute",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0472676,C0036690,TREATS,Intermittent hemodialysis,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472676,C0041948,TREATS,Intermittent hemodialysis,Uremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472679,C0018802,TREATS,Continuous hemodialysis,Congestive heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472681,C0022660,TREATS,Continuous venovenous hemodialysis,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472682,C0022660,TREATS,Intermittent hemofiltration,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472688,C0010340,TREATS,Continuous venovenous hemodiafiltration,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0010823,TREATS,Hemopoietic stem cell transplant,Cytomegalovirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0021051,TREATS,Hemopoietic stem cell transplant,Immunologic Deficiency Syndromes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0024291,TREATS,Hemopoietic stem cell transplant,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0032285,TREATS,Hemopoietic stem cell transplant,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0035243,TREATS,Hemopoietic stem cell transplant,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0042769,TREATS,Hemopoietic stem cell transplant,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0085110,TREATS,Hemopoietic stem cell transplant,Severe Combined Immunodeficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0149725,TREATS,Hemopoietic stem cell transplant,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0238013,TREATS,Hemopoietic stem cell transplant,Invasive aspergillosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0275522,TREATS,Hemopoietic stem cell transplant,Asymptomatic Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0398686,TREATS,Hemopoietic stem cell transplant,Primary immune deficiency disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0398689,TREATS,Hemopoietic stem cell transplant,"Hyper-IgM Immunodeficiency Syndrome, Type 1",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C0877203,TREATS,Hemopoietic stem cell transplant,Viral Respiratory Tract Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C1274233,TREATS,Hemopoietic stem cell transplant,T-lymphocyte immunodeficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0472699,C1535939,TREATS,Hemopoietic stem cell transplant,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0474178,C1561643,TREATS,Psychological counseling,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0474232,C0019163,TREATS,Hepatitis B vaccination,Hepatitis B,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0520484,C0009450,TREATS,Xenograft procedure,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0520484,C0011847,TREATS,Xenograft procedure,Diabetes,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0520484,C0349410,TREATS,Xenograft procedure,Single organ dysfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0521210,C0009443,TREATS,Resection of polyp,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0524850,C0041318,TREATS,Neurosurgical Procedures,"Tuberculosis, Meningeal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0524865,C0016627,TREATS,Reconstructive Surgical Procedures,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0524865,C0042769,TREATS,Reconstructive Surgical Procedures,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0524865,C1318484,TREATS,Reconstructive Surgical Procedures,Chimera disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0005398,TREATS,Operative Surgical Procedures,"Cholestasis, Extrahepatic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0008350,TREATS,Operative Surgical Procedures,Cholelithiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0008679,TREATS,Operative Surgical Procedures,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0010340,TREATS,Operative Surgical Procedures,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0021933,TREATS,Operative Surgical Procedures,Intussusception,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0022408,TREATS,Operative Surgical Procedures,Arthropathy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0023343,TREATS,Operative Surgical Procedures,Leprosy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0031099,TREATS,Operative Surgical Procedures,Periodontitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0036323,TREATS,Operative Surgical Procedures,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0040592,TREATS,Operative Surgical Procedures,Trachoma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0042029,TREATS,Operative Surgical Procedures,Urinary tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0149516,TREATS,Operative Surgical Procedures,Chronic sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0268006,TREATS,Operative Surgical Procedures,Acute hyponatremia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0277554,TREATS,Operative Surgical Procedures,primary disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C0342731,TREATS,Operative Surgical Procedures,Deficiency of mevalonate kinase,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0543467,C1856053,TREATS,Operative Surgical Procedures,Hydranencephaly with Renal Aplasia-Dysplasia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C0014057,TREATS,Ablation,Japanese Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C0042721,TREATS,Ablation,Viral hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C0042769,TREATS,Ablation,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C0276479,TREATS,Ablation,Murine hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C0277192,TREATS,Ablation,Infection by Spirocerca,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0547070,C1096155,TREATS,Ablation,Macrophage Activation Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0553741,C0010340,TREATS,Fluid Management,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0553741,C0035222,TREATS,Fluid Management,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0553741,C0036690,TREATS,Fluid Management,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0553891,C3694279,TREATS,Tracheal Extubation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0554804,C0035222,TREATS,Assisted breathing,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0554804,C1175175,TREATS,Assisted breathing,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0012546,TREATS,travel vaccinations,Diphtheria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0019159,TREATS,travel vaccinations,Hepatitis A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0019163,TREATS,travel vaccinations,Hepatitis B,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0032371,TREATS,travel vaccinations,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0039614,TREATS,travel vaccinations,Tetanus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0555961,C0041471,TREATS,travel vaccinations,TYPHUS,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0556030,C0021400,TREATS,Repositioning (procedure),Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0557061,C0026946,TREATS,Discussion (procedure),Mycoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0557061,C0032285,TREATS,Discussion (procedure),Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0558380,C0035222,TREATS,Emergency cesarean section,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0559680,C0032285,TREATS,Intravenous antibiotic therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0559681,C0456103,TREATS,Oral antibiotic therapy,Sepsis of the newborn,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0561929,C0018799,TREATS,N-3 fatty acid supplementation,Heart Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0562319,C0010054,TREATS,Examination of heart,Coronary Arteriosclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0574032,C0009443,TREATS,Infusion procedures,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0574032,C0011847,TREATS,Infusion procedures,Diabetes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0574032,C0042384,TREATS,Infusion procedures,Vasculitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0574032,C0151798,TREATS,Infusion procedures,Hepatic necrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0578554,C0024117,TREATS,Inhaled bronchodilator therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0581528,C0267941,TREATS,Close observation,"Pancreatitis, Acute Necrotizing",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0581602,C1290886,TREATS,Structural modification,Chronic inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0584877,C0005779,TREATS,Percutaneous tracheostomy,Blood Coagulation Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0584877,C0010340,TREATS,Percutaneous tracheostomy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0596171,C0009450,TREATS,Tissue Engineering,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0596171,C0263661,TREATS,Tissue Engineering,Disorder of skeletal system,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597092,C0021400,TREATS,nosocomial infection control,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597092,C1175175,TREATS,nosocomial infection control,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597409,C0265514,TREATS,retransplantation,Dermatofibrosis lenticularis disseminata,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0597749,C0026769,TREATS,active sensitization,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597750,C0016627,TREATS,antigen challenge,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597815,C0006271,TREATS,crystal healing,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597815,C0035235,TREATS,crystal healing,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597815,C3495919,TREATS,crystal healing,Enthesitis-Related Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0597834,C0036690,TREATS,transcutaneous stimulation,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0598391,C0017205,TREATS,Enzyme Replacement Therapy,Gaucher Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0598391,C0267963,TREATS,Enzyme Replacement Therapy,Exocrine pancreatic insufficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0599917,C3694279,TREATS,intervention program,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600015,C0021290,TREATS,Emotional support,Neonatal disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C0016627,TREATS,"Immunotherapy, Passive",Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C0021400,TREATS,"Immunotherapy, Passive",Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C0042769,TREATS,"Immunotherapy, Passive",Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C1175175,TREATS,"Immunotherapy, Passive",Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C1290884,TREATS,"Immunotherapy, Passive",Inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0600249,C1306856,TREATS,"Immunotherapy, Passive",Megaloblastic anemia due to inborn errors of metabolism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0641423,C0019196,TREATS,ACT regimen,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677616,C0038379,TREATS,Plastic Surgical Procedures,Strabismus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0004096,TREATS,adjuvant therapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0006271,TREATS,adjuvant therapy,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0009450,TREATS,adjuvant therapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0010414,TREATS,adjuvant therapy,Infection by Cryptococcus neoformans,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0019693,TREATS,adjuvant therapy,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0023240,TREATS,adjuvant therapy,Legionellosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0035222,TREATS,adjuvant therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0035235,TREATS,adjuvant therapy,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0036690,TREATS,adjuvant therapy,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0042769,TREATS,adjuvant therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0153017,TREATS,adjuvant therapy,Varicella Zoster Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0276088,TREATS,adjuvant therapy,Escherichia coli septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C0740441,TREATS,adjuvant therapy,Acute diarrhea,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0677850,C0854706,TREATS,adjuvant therapy,neonatal infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C1175175,TREATS,adjuvant therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C1535939,TREATS,adjuvant therapy,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677850,C1719672,TREATS,adjuvant therapy,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677881,C1688637,TREATS,Cytotoxic Chemotherapy,Intraoperative floppy iris syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677908,C0009324,TREATS,Maintenance therapy,Ulcerative Colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0677908,C0011615,TREATS,Maintenance therapy,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678026,C0010340,TREATS,Antifungal therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678026,C0153252,TREATS,Antifungal therapy,Systemic candidiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678812,C0003873,TREATS,systemic administration,Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678812,C0004364,TREATS,systemic administration,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678812,C0024141,TREATS,systemic administration,"Lupus Erythematosus, Systemic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678812,C0151317,TREATS,systemic administration,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0678812,C0153252,TREATS,systemic administration,Systemic candidiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679624,C0007222,TREATS,medical treatment method,Cardiovascular Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679624,C0497169,TREATS,medical treatment method,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679624,C1290344,TREATS,medical treatment method,Nonspecific interstitial pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679637,C0022660,TREATS,major surgery,"Kidney Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679637,C0036690,TREATS,major surgery,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679637,C1861172,TREATS,major surgery,Venous Thromboembolism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C0009450,TREATS,disease prevention,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C0020498,TREATS,disease prevention,"Hyperostosis, Diffuse Idiopathic Skeletal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C0021400,TREATS,disease prevention,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C0037354,TREATS,disease prevention,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C1175175,TREATS,disease prevention,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679698,C3694279,TREATS,disease prevention,Middle East Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0679699,C0004096,TREATS,Secondary Prevention,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679699,C0006271,TREATS,Secondary Prevention,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679721,C0001175,TREATS,prevention service,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679750,C0020538,TREATS,prevention through information dissemination,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0679750,C0152915,TREATS,prevention through information dissemination,Acute miliary tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683174,C0011615,TREATS,topical application,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683174,C0343641,TREATS,topical application,Human papilloma virus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0004096,TREATS,novel AODU treatment method,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0009450,TREATS,novel AODU treatment method,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0010340,TREATS,novel AODU treatment method,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0021400,TREATS,novel AODU treatment method,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0022661,TREATS,novel AODU treatment method,"Kidney Failure, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0024117,TREATS,novel AODU treatment method,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0026769,TREATS,novel AODU treatment method,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0027765,TREATS,novel AODU treatment method,nervous system disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0036690,TREATS,novel AODU treatment method,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0282687,TREATS,novel AODU treatment method,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C0872315,TREATS,novel AODU treatment method,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C1145670,TREATS,novel AODU treatment method,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683465,C1175175,TREATS,novel AODU treatment method,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0001206,TREATS,treatment options,Acromegaly,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0001622,TREATS,treatment options,Adrenal Gland Hyperfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0004096,TREATS,treatment options,Asthma,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0683525,C0009443,TREATS,treatment options,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0009450,TREATS,treatment options,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0011615,TREATS,treatment options,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0011860,TREATS,treatment options,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0012979,TREATS,treatment options,Dog Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0013264,TREATS,treatment options,"Muscular Dystrophy, Duchenne",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0016627,TREATS,treatment options,Influenza in Birds,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0683525,C0018818,TREATS,treatment options,Ventricular Septal Defects,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0020550,TREATS,treatment options,Hyperthyroidism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0021390,TREATS,treatment options,Inflammatory Bowel Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0021400,TREATS,treatment options,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0023092,TREATS,treatment options,Lassa Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0023241,TREATS,treatment options,Legionnaires' Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0023524,TREATS,treatment options,"Leukoencephalopathy, Progressive Multifocal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0024117,TREATS,treatment options,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0035222,TREATS,treatment options,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0035235,TREATS,treatment options,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0037140,TREATS,treatment options,B Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0040250,TREATS,treatment options,Tinea Capitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0040425,TREATS,treatment options,Tonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0042769,TREATS,treatment options,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0151317,TREATS,treatment options,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0155877,TREATS,treatment options,Allergic asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0242770,TREATS,treatment options,Bronchiolitis Obliterans Organizing Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0264219,TREATS,treatment options,Acute respiratory disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0275524,TREATS,treatment options,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0282687,TREATS,treatment options,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0343401,TREATS,treatment options,MRSA - Methicillin resistant Staphylococcus aureus infection,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0683525,C0400966,TREATS,treatment options,Non-alcoholic Fatty Liver Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0524851,TREATS,treatment options,Neurodegenerative Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0524910,TREATS,treatment options,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0678236,TREATS,treatment options,Rare Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0679225,TREATS,treatment options,multiple pathologies,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0746102,TREATS,treatment options,Chronic lung disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C0948755,TREATS,treatment options,Pulmonary failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C1175175,TREATS,treatment options,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0683525,C2062441,TREATS,treatment options,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C2936328,TREATS,treatment options,Neglected Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C3277428,TREATS,treatment options,Severe viral infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0683525,C3694279,TREATS,treatment options,Middle East Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0684199,C0014518,TREATS,Homeopathy,Toxic Epidermal Necrolysis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0684199,C0024894,TREATS,Homeopathy,Mastitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0684199,C0276467,TREATS,Homeopathy,Neonatal calf diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0687710,C1883524,TREATS,Bioprosthesis procedure,Valvular stenosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0695341,C0021400,TREATS,common procedures,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0695434,C0032269,TREATS,oscillations,Pneumococcal Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0695434,C2062441,TREATS,oscillations,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0001487,TREATS,Patient observation,"Adenovirus Infections, Human",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0021400,TREATS,Patient observation,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0030499,TREATS,Patient observation,Parasitic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0032285,TREATS,Patient observation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0035243,TREATS,Patient observation,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0275522,TREATS,Patient observation,Asymptomatic Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0276832,TREATS,Patient observation,Congenital malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0277527,TREATS,Patient observation,Epidemic diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0339901,TREATS,Patient observation,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C0729531,TREATS,Patient observation,Viral respiratory infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0700325,C1535939,TREATS,Patient observation,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0729536,C0237022,TREATS,Uterine Artery Embolization,Multiple Fibroids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0741847,C0041956,TREATS,Bypass,Ureteral obstruction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0741847,C0442886,TREATS,Bypass,Secondary Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0741847,C0451641,TREATS,Bypass,Urolithiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0744425,C0014378,TREATS,glucocorticoid therapy,Enterovirus Infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0744425,C0042769,TREATS,glucocorticoid therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0744425,C1175175,TREATS,glucocorticoid therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0747649,C0041327,TREATS,Partial Pneumonectomy,"Tuberculosis, Pulmonary",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0747791,C0694549,TREATS,prednisone treatment,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0749724,C0041296,TREATS,tuberculosis treatment,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0752151,C0014009,TREATS,"Thoracic Surgery, Video-Assisted",Empyema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0010054,TREATS,Therapeutic Intervention,Coronary Arteriosclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0013264,TREATS,Therapeutic Intervention,"Muscular Dystrophy, Duchenne",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0026769,TREATS,Therapeutic Intervention,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0032326,TREATS,Therapeutic Intervention,Pneumothorax,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0034069,TREATS,Therapeutic Intervention,Pulmonary Fibrosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0035222,TREATS,Therapeutic Intervention,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0042769,TREATS,Therapeutic Intervention,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0151317,TREATS,Therapeutic Intervention,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0206608,TREATS,Therapeutic Intervention,Flavivirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C0276447,TREATS,Therapeutic Intervention,Rhinovirus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0808232,C1290884,TREATS,Therapeutic Intervention,Inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0813207,C0020255,TREATS,Creation of shunt,Hydrocephalus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0814357,C0019348,TREATS,universal prevention,Herpes Simplex Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0814435,C0001175,TREATS,early identification,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0814435,C0036690,TREATS,early identification,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0814435,C3534575,TREATS,early identification,Animal Health,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0851680,C0009443,TREATS,Nasal Therapies,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0857208,C0021400,TREATS,routine immunization,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0870527,C0282687,TREATS,Exposure Therapy,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0872145,C1449563,TREATS,Directly Observed Therapy,"Cardiomyopathy, Familial Idiopathic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0872259,C1096063,TREATS,"Transcranial Magnetic Stimulation, Repetitive",Drug Resistant Epilepsy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0872278,C0011615,TREATS,stem cell therapy,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0872278,C0027059,TREATS,stem cell therapy,Myocarditis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0877629,C0024117,TREATS,infection prophylaxis,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0887947,C0001175,TREATS,"Antiretroviral Therapy, Highly Active",Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0887947,C0019693,TREATS,"Antiretroviral Therapy, Highly Active",HIV Infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C0887947,C0029118,TREATS,"Antiretroviral Therapy, Highly Active",Opportunistic Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0887947,C0276500,TREATS,"Antiretroviral Therapy, Highly Active",Human immunodeficiency virus I infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0887947,C0343053,TREATS,"Antiretroviral Therapy, Highly Active",Flexural psoriasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0887947,C0497169,TREATS,"Antiretroviral Therapy, Highly Active",hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0917927,C0151740,TREATS,Breast-Conserving Surgery,Intracranial Hypertension,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920298,C0028754,TREATS,Weight maintenance regimen,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0003047,TREATS,disorder control (procedure),Animal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0004096,TREATS,disorder control (procedure),Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0013502,TREATS,disorder control (procedure),Echinococcosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0024530,TREATS,disorder control (procedure),Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0025229,TREATS,disorder control (procedure),Melioidosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0036323,TREATS,disorder control (procedure),Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0043528,TREATS,disorder control (procedure),Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0277550,TREATS,disorder control (procedure),Endemic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C0872315,TREATS,disorder control (procedure),"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C1336827,TREATS,disorder control (procedure),Tropical Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0920467,C3534575,TREATS,disorder control (procedure),Animal Health,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0006840,TREATS,treatment guideline,Candidiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0011615,TREATS,treatment guideline,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0015230,TREATS,treatment guideline,Exanthema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0016627,TREATS,treatment guideline,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0021400,TREATS,treatment guideline,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0021832,TREATS,treatment guideline,"Intestinal Diseases, Parasitic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0027051,TREATS,treatment guideline,Myocardial Infarction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0032285,TREATS,treatment guideline,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0206750,TREATS,treatment guideline,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0935576,C0694549,TREATS,treatment guideline,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0936077,C0006271,TREATS,Complementary therapies,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0947647,C0002395,TREATS,Manipulation procedure,Alzheimer's Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0947647,C0014038,TREATS,Manipulation procedure,Encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0947647,C1318484,TREATS,Manipulation procedure,Chimera disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0947647,C3534575,TREATS,Manipulation procedure,Animal Health,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0947734,C0162557,TREATS,Vascular Therapies,"Liver Failure, Acute",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0009324,TREATS,"Therapies, Investigational",Ulcerative Colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0009450,TREATS,"Therapies, Investigational",Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0010346,TREATS,"Therapies, Investigational",Crohn Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0021400,TREATS,"Therapies, Investigational",Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0282687,TREATS,"Therapies, Investigational","Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C0949266,C0872315,TREATS,"Therapies, Investigational","Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1095959,C0041912,TREATS,saline gargle,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1096021,C0026691,TREATS,antiplatelet therapy,Mucocutaneous Lymph Node Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1096021,C1719672,TREATS,antiplatelet therapy,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1096024,C0004096,TREATS,anti inflammatory drug therapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135474,C0021400,TREATS,Nitric oxide therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135474,C0035222,TREATS,Nitric oxide therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135493,C0034050,TREATS,Whole lung lavage,Pulmonary Alveolar Proteinosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135809,C0028754,TREATS,Caloric Restriction,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135929,C0006309,TREATS,Mass Vaccination,Brucellosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135929,C0037354,TREATS,Mass Vaccination,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135929,C0043395,TREATS,Mass Vaccination,Yellow Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1135929,C0270724,TREATS,Mass Vaccination,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1136080,C0021400,TREATS,Innovative Therapies,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1141958,C0035222,TREATS,anti-infective therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1142085,C0019693,TREATS,Migraine prophylaxis,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1148475,C0006271,TREATS,Complementary and alternative medicine,Bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1148475,C0008679,TREATS,Complementary and alternative medicine,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1148475,C0021390,TREATS,Complementary and alternative medicine,Inflammatory Bowel Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1167956,C1281998,TREATS,Cardiac Resynchronization Therapy,Refractory heart failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1261381,C0003873,TREATS,Destructive procedure (surgical),Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1261381,C0085110,TREATS,Destructive procedure (surgical),Severe Combined Immunodeficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1261381,C0206750,TREATS,Destructive procedure (surgical),Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1273412,C0021359,TREATS,Chinese herbal medicine,Infertility,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1273412,C0021400,TREATS,Chinese herbal medicine,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1273412,C0033046,TREATS,Chinese herbal medicine,Premenstrual syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1274136,C0009443,TREATS,Symptom control (regime/therapy),Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1274136,C0042769,TREATS,Symptom control (regime/therapy),Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0035222,TREATS,Therapeutic regimen,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0035235,TREATS,Therapeutic regimen,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0042769,TREATS,Therapeutic regimen,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0085437,TREATS,Therapeutic regimen,"Meningitis, Bacterial",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0242917,TREATS,Therapeutic regimen,Filoviridae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1276413,C0282687,TREATS,Therapeutic regimen,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1278454,C0021400,TREATS,Statin prophylaxis,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C0021400,TREATS,Exploration procedure,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C0036690,TREATS,Exploration procedure,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C0162309,TREATS,Exploration procedure,Adrenoleukodystrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C0242994,TREATS,Exploration procedure,Hantavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C0524851,TREATS,Exploration procedure,Neurodegenerative Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1280903,C1561643,TREATS,Exploration procedure,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1285306,C0026769,TREATS,Immune system destructive procedure,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1293130,C0015458,TREATS,Stabilization,Facial Hemiatrophy,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1293130,C0265514,TREATS,Stabilization,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1293365,C0024117,TREATS,Lung destructive procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1298802,C0004096,TREATS,Emergency procedure,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299597,C0021400,TREATS,Empirical therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299597,C0032285,TREATS,Empirical therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299597,C0205721,TREATS,Empirical therapy,"Infections, Hospital",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299597,C0275556,TREATS,Empirical therapy,Acute bacterial sinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299597,C1175175,TREATS,Empirical therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1299622,C0004623,TREATS,Empirical antibiotic therapy,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1303150,C0497169,TREATS,Disease management program (regime/therapy),hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1304879,C0277554,TREATS,Electroencephalographic monitoring regime,primary disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1320204,C0311213,TREATS,Rabies prophylaxis,Dermatitis verrucosa,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1328288,C0019357,TREATS,In vivo GENETIC,"Keratitis, Herpetic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1328288,C0021400,TREATS,In vivo GENETIC,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443861,C0003175,TREATS,Post-Exposure Prophylaxis,Anthrax disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443861,C0010246,TREATS,Post-Exposure Prophylaxis,Coxsackievirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443861,C0021400,TREATS,Post-Exposure Prophylaxis,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443861,C0025007,TREATS,Post-Exposure Prophylaxis,Measles,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443861,C2076600,TREATS,Post-Exposure Prophylaxis,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443869,C1175175,TREATS,Airborne precautions,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1443869,C3694279,TREATS,Airborne precautions,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1455871,C0024117,TREATS,Non-invasive positive pressure (NIPPV),Chronic Obstructive Airway Disease,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1455871,C0264490,TREATS,Non-invasive positive pressure (NIPPV),Acute respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1455871,C1960052,TREATS,Non-invasive positive pressure (NIPPV),Chronic hypercapnic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1456094,C0272236,TREATS,allogeneic hematopoietic stem cell transplant with purging,Hyperimmunoglobulin M syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0001344,TREATS,Detection,Acute pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0001752,TREATS,Detection,African swine fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0004096,TREATS,Detection,Asthma,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0004364,TREATS,Detection,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0004626,TREATS,Detection,"Pneumonia, Bacterial",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0006271,TREATS,Detection,Bronchiolitis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0007453,TREATS,Detection,Cattle Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0009450,TREATS,Detection,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0009952,TREATS,Detection,Febrile Convulsions,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0010340,TREATS,Detection,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0010346,TREATS,Detection,Crohn Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0011311,TREATS,Detection,Dengue Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0014038,TREATS,Detection,Encephalitis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0014335,TREATS,Detection,Enteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0016627,TREATS,Detection,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0018572,TREATS,Detection,"Hand, Foot and Mouth Disease",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0018799,TREATS,Detection,Heart Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0021400,TREATS,Detection,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0021831,TREATS,Detection,Intestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0022658,TREATS,Detection,Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0022876,TREATS,Detection,Premature Obstetric Labor,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0023281,TREATS,Detection,Leishmaniasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0024117,TREATS,Detection,Chronic Obstructive Airway Disease,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0024530,TREATS,Detection,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0025289,TREATS,Detection,Meningitis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0027697,TREATS,Detection,Nephritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0029882,TREATS,Detection,Otitis Media,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0029883,TREATS,Detection,Otitis Media with Effusion,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0030389,TREATS,Detection,Parainfluenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0032080,TREATS,Detection,Plant Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0032285,TREATS,Detection,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0032371,TREATS,Detection,Poliomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0035204,TREATS,Detection,Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0035235,TREATS,Detection,Respiratory Syncytial Virus Infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0035243,TREATS,Detection,Respiratory Tract Infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0036472,TREATS,Detection,Scrub Typhus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0036916,TREATS,Detection,Sexually Transmitted Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0037231,TREATS,Detection,Sjogren-Larsson Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0037354,TREATS,Detection,Smallpox,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0040425,TREATS,Detection,Tonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0040586,TREATS,Detection,Tracheobronchitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0041296,TREATS,Detection,Tuberculosis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0042384,TREATS,Detection,Vasculitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0042769,TREATS,Detection,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0043528,TREATS,Detection,Zoonoses,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0149725,TREATS,Detection,Lower respiratory tract infection,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0206750,TREATS,Detection,Coronavirus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0242723,TREATS,Detection,Parasitemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0263541,TREATS,Detection,Equine laminitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0275524,TREATS,Detection,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0277550,TREATS,Detection,Endemic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0282687,TREATS,Detection,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0339901,TREATS,Detection,Acute respiratory infections,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0340896,TREATS,Detection,Vascular graft infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0343537,TREATS,Detection,Specific viral infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0343641,TREATS,Detection,Human papilloma virus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0376538,TREATS,Detection,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0396000,TREATS,Detection,Acute viral pharyngitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0497169,TREATS,Detection,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0524910,TREATS,Detection,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0549463,TREATS,Detection,X-Linked Lymphoproliferative Disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0598303,TREATS,Detection,insect disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0694549,TREATS,Detection,Community acquired pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0746883,TREATS,Detection,Febrile Neutropenia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C0858321,TREATS,Detection,Plasmodium vivax infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0872054,TREATS,Detection,latent infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C0872315,TREATS,Detection,"Communicable Diseases, Emerging",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1175175,TREATS,Detection,Severe Acute Respiratory Syndrome,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1511790,C1290816,TREATS,Detection,Post-weaning multisystemic wasting syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1320214,TREATS,Detection,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1412002,TREATS,Detection,Atypical pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1442786,TREATS,Detection,Acute respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1849394,TREATS,Detection,Enhanced S-Cone Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C1856053,TREATS,Detection,Hydranencephaly with Renal Aplasia-Dysplasia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C2062441,TREATS,Detection,Influenza A,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C3824759,TREATS,Detection,Flaviviral diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1511790,C4303092,TREATS,Detection,Cystic echinococcosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1512034,C0042769,TREATS,Donor Lymphocyte Infusion,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0009443,TREATS,Acupuncture and Oriental Medicine,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0009450,TREATS,Acupuncture and Oriental Medicine,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0010340,TREATS,Acupuncture and Oriental Medicine,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0016627,TREATS,Acupuncture and Oriental Medicine,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0017178,TREATS,Acupuncture and Oriental Medicine,Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0019189,TREATS,Acupuncture and Oriental Medicine,"Hepatitis, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0023890,TREATS,Acupuncture and Oriental Medicine,Liver Cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0023895,TREATS,Acupuncture and Oriental Medicine,Liver diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0024530,TREATS,Acupuncture and Oriental Medicine,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0035222,TREATS,Acupuncture and Oriental Medicine,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0041912,TREATS,Acupuncture and Oriental Medicine,Upper Respiratory Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0085207,TREATS,Acupuncture and Oriental Medicine,Gestational Diabetes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0239946,TREATS,Acupuncture and Oriental Medicine,"Fibrosis, Liver",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0267797,TREATS,Acupuncture and Oriental Medicine,Acute hepatitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C0948998,TREATS,Acupuncture and Oriental Medicine,Viral Contagious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1515884,C1175175,TREATS,Acupuncture and Oriental Medicine,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1517925,C0277556,TREATS,Local Therapy,Recurrent disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1522449,C0520680,TREATS,Therapeutic radiology procedure,"Sleep Apnea, Central",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1527075,C0036323,TREATS,Revision procedure,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1531698,C1175175,TREATS,Active monitoring,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1531698,C3694279,TREATS,Active monitoring,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1532338,C0087086,TREATS,Percutaneous Coronary Intervention,Thrombus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1532338,C0155626,TREATS,Percutaneous Coronary Intervention,Acute myocardial infarction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1533734,C0028077,TREATS,Administration procedure,Night Blindness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1563738,C0152244,TREATS,Oncolytic Virotherapy,"Bone Cysts, Aneurysmal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1627346,C0037933,TREATS,Feeding regime,Spinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1638311,C0694549,TREATS,Blood glucose management,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1656259,C0004096,TREATS,preventive Drugs,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1659427,C0004096,TREATS,Nebulization,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1704532,C0024291,TREATS,Active Method,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1704532,C0267446,TREATS,Active Method,Acute gastroenteritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1704536,C0009450,TREATS,Direct Method,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1704536,C1719672,TREATS,Direct Method,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1705576,C0025521,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Inborn Errors of Metabolism,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1705576,C0085110,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Severe Combined Immunodeficiency,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1707814,C4288963,TREATS,Dose Reduced,Hepatitis C Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0009324,TREATS,First line treatment,Ulcerative Colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0020538,TREATS,First line treatment,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0022658,TREATS,First line treatment,Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0024530,TREATS,First line treatment,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0032269,TREATS,First line treatment,Pneumococcal Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0032285,TREATS,First line treatment,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0268022,TREATS,First line treatment,Acute hyperkalemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1708063,C0270627,TREATS,First line treatment,"Myelitis, Acute Transverse",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0272285,TREATS,First line treatment,Heparin-induced thrombocytopenia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0349410,TREATS,First line treatment,Single organ dysfunction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0497169,TREATS,First line treatment,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0850666,TREATS,First line treatment,Infection caused by Helicobacter pylori,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0856825,TREATS,First line treatment,Acute GVH disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C0877148,TREATS,First line treatment,pharyngotonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C1535939,TREATS,First line treatment,Pneumocystis jiroveci pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1708063,C1696371,TREATS,First line treatment,Bacterial tonsillitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1710038,C0023241,TREATS,Second line treatment,Legionnaires' Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1710038,C2317131,TREATS,Second line treatment,Acute rhinosinusitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1710089,C0265514,TREATS,Single Lung Transplantation,Dermatofibrosis lenticularis disseminata,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1720825,C0010340,TREATS,Therapeutic Drug Monitoring,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1737238,C0024141,TREATS,Extracorporeal Shockwave Therapy,"Lupus Erythematosus, Systemic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1737238,C0026857,TREATS,Extracorporeal Shockwave Therapy,Musculoskeletal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1868981,C0010340,TREATS,Invasive mechanical ventilation NOS,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1868981,C0035222,TREATS,Invasive mechanical ventilation NOS,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1868981,C0264490,TREATS,Invasive mechanical ventilation NOS,Acute respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1868981,C0339901,TREATS,Invasive mechanical ventilation NOS,Acute respiratory infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1868981,C1145670,TREATS,Invasive mechanical ventilation NOS,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1882127,C0017178,TREATS,Nutritional Intervention,Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1882340,C0266929,TREATS,Periodontal Treatment,Chronic Periodontitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1883520,C0009450,TREATS,VePesid-Ifosfamide-Platinol Regimen,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1883583,C0004096,TREATS,Yoga,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1955637,C0021400,TREATS,Intra-operative neurophysiologic monitoring,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1960832,C0015695,TREATS,Partitioning of stomach using band,Fatty Liver,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1960832,C0028754,TREATS,Partitioning of stomach using band,Obesity,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963724,C0008312,TREATS,Antiretroviral therapy,Primary biliary cirrhosis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1963724,C0019693,TREATS,Antiretroviral therapy,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963724,C0041296,TREATS,Antiretroviral therapy,Tuberculosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963724,C0497169,TREATS,Antiretroviral therapy,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963758,C0004096,TREATS,Immunomodulation,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963758,C0004364,TREATS,Immunomodulation,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963758,C0026769,TREATS,Immunomodulation,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963758,C0036690,TREATS,Immunomodulation,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1963758,C1561643,TREATS,Immunomodulation,Chronic Kidney Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1964029,C0007684,TREATS,early/brief intervention/therapy (treatment),Central Nervous System Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1964029,C0011847,TREATS,early/brief intervention/therapy (treatment),Diabetes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1964029,C0020542,TREATS,early/brief intervention/therapy (treatment),Pulmonary Hypertension,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1964029,C0036690,TREATS,early/brief intervention/therapy (treatment),Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1997883,C0010340,TREATS,Noninvasive Ventilation,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1997883,C0024117,TREATS,Noninvasive Ventilation,Chronic Obstructive Airway Disease,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C0032285,TREATS,Noninvasive Ventilation,Pneumonia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C0035222,TREATS,Noninvasive Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C0264490,TREATS,Noninvasive Ventilation,Acute respiratory failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C0398350,TREATS,Noninvasive Ventilation,Acute cardiac pulmonary edema,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C0694549,TREATS,Noninvasive Ventilation,Community acquired pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1997883,C1145670,TREATS,Noninvasive Ventilation,Respiratory Failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C1997883,C2076600,TREATS,Noninvasive Ventilation,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1997883,C3694279,TREATS,Noninvasive Ventilation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C1997883,C4039867,TREATS,Noninvasive Ventilation,Acute hypoxemic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0014356,TREATS,Fecal Microbiota Transplantation,Enterocolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0014358,TREATS,Fecal Microbiota Transplantation,"Enterocolitis, Pseudomembranous",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0017178,TREATS,Fecal Microbiota Transplantation,Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0021390,TREATS,Fecal Microbiota Transplantation,Inflammatory Bowel Diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C2242628,C0021831,TREATS,Fecal Microbiota Transplantation,Intestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0235952,TREATS,Fecal Microbiota Transplantation,Clostridium difficile diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0238106,TREATS,Fecal Microbiota Transplantation,Clostridium difficile colitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0276276,TREATS,Fecal Microbiota Transplantation,Canine parvovirus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0343386,TREATS,Fecal Microbiota Transplantation,Clostridium difficile infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0740441,TREATS,Fecal Microbiota Transplantation,Acute diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2242628,C0743178,TREATS,Fecal Microbiota Transplantation,Intractable diarrhea,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2348331,C0021400,TREATS,Dose Regimen,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2348331,C0042769,TREATS,Dose Regimen,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2348331,C0149725,TREATS,Dose Regimen,Lower respiratory tract infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349740,C0032285,TREATS,Non-invasive mechanical ventilation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349740,C2076600,TREATS,Non-invasive mechanical ventilation,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C0024117,TREATS,Invasive positive pressure ventilation,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C0032285,TREATS,Invasive positive pressure ventilation,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C0042769,TREATS,Invasive positive pressure ventilation,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C0264490,TREATS,Invasive positive pressure ventilation,Acute respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C0264492,TREATS,Invasive positive pressure ventilation,Chronic respiratory failure,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C2349751,C0948268,TREATS,Invasive positive pressure ventilation,Hemodynamic instability,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C1145670,TREATS,Invasive positive pressure ventilation,Respiratory Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C1175175,TREATS,Invasive positive pressure ventilation,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2349751,C3694279,TREATS,Invasive positive pressure ventilation,Middle East Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2350432,C0036690,TREATS,Vagus Nerve Stimulation,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2711962,C0015674,TREATS,Graded exercise therapy,Chronic Fatigue Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2717817,C0740392,TREATS,Decompressive Craniectomy,"Infarction, Middle Cerebral Artery",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2718059,C0008679,TREATS,Precision Medicine,Chronic disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2718059,C0009450,TREATS,Precision Medicine,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2718059,C0025517,TREATS,Precision Medicine,Metabolic Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2718059,C0678236,TREATS,Precision Medicine,Rare Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2718088,C0035222,TREATS,High-Frequency Oscillation Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2735670,C0013884,TREATS,Medication intervention,Filarial Elephantiases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2825951,C0036690,TREATS,Adjunctive Orthodontic Procedure,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2825951,C0042769,TREATS,Adjunctive Orthodontic Procedure,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0003873,TREATS,Current Therapy,Rheumatoid Arthritis,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C2827774,C0004096,TREATS,Current Therapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0004364,TREATS,Current Therapy,Autoimmune Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0007222,TREATS,Current Therapy,Cardiovascular Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0009443,TREATS,Current Therapy,Common Cold,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0009450,TREATS,Current Therapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0016627,TREATS,Current Therapy,Influenza in Birds,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0019196,TREATS,Current Therapy,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0020538,TREATS,Current Therapy,Hypertensive disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0021400,TREATS,Current Therapy,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0024530,TREATS,Current Therapy,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0026769,TREATS,Current Therapy,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0032064,TREATS,Current Therapy,Plague,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0035235,TREATS,Current Therapy,Respiratory Syncytial Virus Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0042769,TREATS,Current Therapy,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0276446,TREATS,Current Therapy,Murine encephalomyelitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0282687,TREATS,Current Therapy,"Hemorrhagic Fever, Ebola",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0497169,TREATS,Current Therapy,hiv-infection/aids,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0524909,TREATS,Current Therapy,"Hepatitis B, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C0524910,TREATS,Current Therapy,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827774,C1290884,TREATS,Current Therapy,Inflammatory disorder,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2827950,C0032064,TREATS,Previous and Current Therapy,Plague,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2922974,C3266262,TREATS,Polypharmacy,Multiple Chronic Conditions,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936173,C0155626,TREATS,Percutaneous Transluminal Coronary Angioplasty,Acute myocardial infarction,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C0014347,TREATS,Drug Repositioning,Enterobacteriaceae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C0021400,TREATS,Drug Repositioning,Influenza,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C0029342,TREATS,Drug Repositioning,Orthomyxoviridae Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C0035222,TREATS,Drug Repositioning,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C0151317,TREATS,Drug Repositioning,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C1175175,TREATS,Drug Repositioning,Severe Acute Respiratory Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936405,C2936328,TREATS,Drug Repositioning,Neglected Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0008312,TREATS,Standard of Care,Primary biliary cirrhosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0009782,TREATS,Standard of Care,Connective Tissue Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0017178,TREATS,Standard of Care,Gastrointestinal Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0019196,TREATS,Standard of Care,Hepatitis C,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0035222,TREATS,Standard of Care,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0042384,TREATS,Standard of Care,Vasculitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0524910,TREATS,Standard of Care,"Hepatitis C, Chronic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C0679247,TREATS,Standard of Care,Terminal illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C1960052,TREATS,Standard of Care,Chronic hypercapnic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2936643,C4288963,TREATS,Standard of Care,Hepatitis C Virus Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0003873,TREATS,Conventional Treatment,Rheumatoid Arthritis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0011849,TREATS,Conventional Treatment,Diabetes Mellitus,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0013238,TREATS,Conventional Treatment,Dry Eye Syndromes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0024117,TREATS,Conventional Treatment,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0032285,TREATS,Conventional Treatment,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0033860,TREATS,Conventional Treatment,Psoriasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C0702166,TREATS,Conventional Treatment,Acne,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2945704,C4039867,TREATS,Conventional Treatment,Acute hypoxemic respiratory failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0009450,TREATS,Targeted Therapy,Communicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0035222,TREATS,Targeted Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0036685,TREATS,Targeted Therapy,gram negative sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0036690,TREATS,Targeted Therapy,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0153252,TREATS,Targeted Therapy,Systemic candidiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0276340,TREATS,Targeted Therapy,Respiratory syncytial virus bronchiolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C0745744,TREATS,Targeted Therapy,End Stage Liver Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2985566,C4303148,TREATS,Targeted Therapy,Meningitis caused by Streptococcus agalactiae,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986502,C0001175,TREATS,Zheng,Acquired Immunodeficiency Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986502,C1719672,TREATS,Zheng,Severe Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0004623,TREATS,Definitive Treatment,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0006267,TREATS,Definitive Treatment,Bronchiectasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0042769,TREATS,Definitive Treatment,Virus Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0079035,TREATS,Definitive Treatment,Bradyarrhythmia (disorder),topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0221406,TREATS,Definitive Treatment,Pituitary-dependent Cushing's disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2986592,C0265514,TREATS,Definitive Treatment,Dermatofibrosis lenticularis disseminata,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C2987620,C0019243,TREATS,Inoculation,"Angioedemas, Hereditary",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3164735,C0035222,TREATS,Noninvasive positive pressure ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3165428,C1331543,TREATS,Treating Dermatoses,Puerperal pyrexia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3177188,C0010340,TREATS,Early Therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3177188,C0021051,TREATS,Early Therapy,Immunologic Deficiency Syndromes,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3177188,C0032285,TREATS,Early Therapy,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3177188,C0151317,TREATS,Early Therapy,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3177188,C0948089,TREATS,Early Therapy,Acute Coronary Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3178854,C0036690,TREATS,Neurally Adjusted Ventilatory Assist,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3267174,C0010340,TREATS,Blood Glucose control,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3267174,C0036690,TREATS,Blood Glucose control,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3275122,C0442886,TREATS,Pacemaker Procedure,Secondary Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3469597,C0860204,TREATS,Administration of medication,Cholestatic liver disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0007684,TREATS,Circumferential Supracrestal Fiberotomy,Central Nervous System Infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0014059,TREATS,Circumferential Supracrestal Fiberotomy,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0015674,TREATS,Circumferential Supracrestal Fiberotomy,Chronic Fatigue Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0026769,TREATS,Circumferential Supracrestal Fiberotomy,Multiple Sclerosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0393639,TREATS,Circumferential Supracrestal Fiberotomy,Hashimoto's encephalitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3540512,C0751967,TREATS,Circumferential Supracrestal Fiberotomy,"Multiple Sclerosis, Relapsing-Remitting",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3649547,C0010340,TREATS,Continuous renal replacement therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3649547,C0022660,TREATS,Continuous renal replacement therapy,"Kidney Failure, Acute",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C3649547,C0022661,TREATS,Continuous renal replacement therapy,"Kidney Failure, Chronic",topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C3649547,C0035078,TREATS,Continuous renal replacement therapy,Kidney Failure,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3649547,C0035436,TREATS,Continuous renal replacement therapy,Rheumatic Fever,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3649547,C0036690,TREATS,Continuous renal replacement therapy,Septicemia,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C3649547,C1561643,TREATS,Continuous renal replacement therapy,Chronic Kidney Diseases,topp,dsyn,2,TREATS_TOPPtrtsDSYN
+C3650834,C0019101,TREATS,Electrolyte therapy,Hemorrhagic Fever with Renal Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3650840,C0398689,TREATS,Traditional therapy,"Hyper-IgM Immunodeficiency Syndrome, Type 1",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3658308,C0343401,TREATS,Patient Care Bundles,MRSA - Methicillin resistant Staphylococcus aureus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3658366,C0011615,TREATS,Sublingual Immunotherapy,"Dermatitis, Atopic",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3661918,C0032285,TREATS,Pneumococcal conjugate vaccination,Pneumonia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3661922,C0035222,TREATS,Surfactant replacement therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3665674,C0010340,TREATS,Warburg Therapy,Critical Illness,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3665674,C0035243,TREATS,Warburg Therapy,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3665674,C0398350,TREATS,Warburg Therapy,Acute cardiac pulmonary edema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3714568,C0004096,TREATS,Aerosol therapy,Asthma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3714568,C0024117,TREATS,Aerosol therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3714568,C0035204,TREATS,Aerosol therapy,Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3714568,C0040586,TREATS,Aerosol therapy,Tracheobronchitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3714568,C1701940,TREATS,Aerosol therapy,"Pneumonia, Ventilator-Associated",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3825792,C0035222,TREATS,Pressure breathing,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3825792,C0398350,TREATS,Pressure breathing,Acute cardiac pulmonary edema,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3846112,C1096155,TREATS,"Radiosurgery, Stereotactic",Macrophage Activation Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3850098,C0019693,TREATS,Pre-Exposure Prophylaxis,HIV Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3850098,C0024530,TREATS,Pre-Exposure Prophylaxis,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0014356,TREATS,adjunctive treatment,Enterocolitis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0024535,TREATS,adjunctive treatment,"Malaria, Falciparum",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0025295,TREATS,adjunctive treatment,"Meningitis, Pneumococcal",topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0036690,TREATS,adjunctive treatment,Septicemia,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0151317,TREATS,adjunctive treatment,Chronic infectious disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C3858690,C0275524,TREATS,adjunctive treatment,Coinfection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4042855,C0024115,TREATS,RNAi Therapeutics,Lung diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4042855,C0024117,TREATS,RNAi Therapeutics,Chronic Obstructive Airway Disease,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4042855,C0035204,TREATS,RNAi Therapeutics,Respiration Disorders,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4042855,C0035243,TREATS,RNAi Therapeutics,Respiratory Tract Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4042855,C0242383,TREATS,RNAi Therapeutics,Age related macular degeneration,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4277645,C0004623,TREATS,Phage Therapy,Bacterial Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4277645,C0014836,TREATS,Phage Therapy,Escherichia coli Infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4316303,C0004030,TREATS,Infusion Therapy,Aspergillosis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0013884,TREATS,Mass Drug Administration,Filarial Elephantiases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0018889,TREATS,Mass Drug Administration,Helminthiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0024530,TREATS,Mass Drug Administration,Malaria,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0027583,TREATS,Mass Drug Administration,Nematode infections,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0029001,TREATS,Mass Drug Administration,Onchocerciasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0036323,TREATS,Mass Drug Administration,Schistosomiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C0040592,TREATS,Mass Drug Administration,Trachoma,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505223,C4505065,TREATS,Mass Drug Administration,Noncommunicable Diseases,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4505336,C2919886,TREATS,"Diet, High-Protein Low-Carbohydrate",Magnesium ammonium phosphate urolithiasis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4520447,C0343401,TREATS,Decolonization,MRSA - Methicillin resistant Staphylococcus aureus infection,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4524538,C0243026,TREATS,Whole Blood or Product Procurement,Sepsis,topp,dsyn,1,TREATS_TOPPtrtsDSYN
+C4526535,C1096155,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Macrophage Activation Syndrome,topp,dsyn,1,TREATS_TOPPtrtsDSYN

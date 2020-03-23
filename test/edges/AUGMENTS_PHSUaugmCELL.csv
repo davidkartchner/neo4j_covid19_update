@@ -1,0 +1,55 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002763,C0024432,AUGMENTS,Central Nervous System Stimulants,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0003209,C0011306,AUGMENTS,Anti-Inflammatory Agents,Dendritic Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0003209,C0024432,AUGMENTS,Anti-Inflammatory Agents,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0003209,C0206116,AUGMENTS,Anti-Inflammatory Agents,Microglia,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0003402,C4042840,AUGMENTS,Antioxidants,RAW 264.7 Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0011777,C0024432,AUGMENTS,Dexamethasone,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0004112,AUGMENTS,Poly I-C,Astrocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0014597,AUGMENTS,Poly I-C,Epithelial Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0022688,AUGMENTS,Poly I-C,Natural Killer Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0024432,AUGMENTS,Poly I-C,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0027836,AUGMENTS,Poly I-C,Neuroglia,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0027950,AUGMENTS,Poly I-C,neutrophil,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0206116,AUGMENTS,Poly I-C,Microglia,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0227525,AUGMENTS,Poly I-C,Hepatocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0553257,AUGMENTS,Poly I-C,Epithelial cell of renal tubule,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C0882833,AUGMENTS,Poly I-C,CD3+CD4+ cell,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C1257739,AUGMENTS,Poly I-C,NIH 3T3 Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C1321301,AUGMENTS,Poly I-C,Peripheral blood mononuclear cell (cell),phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032414,C1523993,AUGMENTS,Poly I-C,Leukocyte - Monocyte - Macrophage (MMHCC),phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0032950,C0024432,AUGMENTS,prednisolone,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0050063,C0018873,AUGMENTS,8-chloro-cyclic adenosine monophosphate,HeLa Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0070166,C0005821,AUGMENTS,clopidogrel,Blood Platelets,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0085387,C4086555,AUGMENTS,Cyclooxygenase Inhibitors,M2 Macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0304402,C0039195,AUGMENTS,Stimulant,Cytotoxic T-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0456388,C0014792,AUGMENTS,Blood product,Erythrocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0599934,C0018894,AUGMENTS,"Vaccines, Peptide",Helper-Inducer T-Lymphocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0599934,C0039195,AUGMENTS,"Vaccines, Peptide",Cytotoxic T-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0599934,C0242629,AUGMENTS,"Vaccines, Peptide",CD8-Positive T-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0718215,C0024432,AUGMENTS,ACIDOPHILUS,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0003315,AUGMENTS,CPG-ODN,Antigen-Presenting Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0004561,AUGMENTS,CPG-ODN,B-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0022688,AUGMENTS,CPG-ODN,Natural Killer Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0024432,AUGMENTS,CPG-ODN,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0026473,AUGMENTS,CPG-ODN,Monocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0039194,AUGMENTS,CPG-ODN,T-Lymphocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0206116,AUGMENTS,CPG-ODN,Microglia,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0242632,AUGMENTS,CPG-ODN,T-helper cell type 1,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0682638,AUGMENTS,CPG-ODN,memory b cell,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C0682639,AUGMENTS,CPG-ODN,Memory T-Lymphocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C1956385,AUGMENTS,CPG-ODN,Plasmacytoid Dendritic Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C0914671,C4330475,AUGMENTS,CPG-ODN,Immune Cell,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C1134664,C0600531,AUGMENTS,CpG 7909,U937 Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C1520007,C0242629,AUGMENTS,viral vector,CD8-Positive T-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C1827106,C0027950,AUGMENTS,Dipeptidyl-Peptidase IV Inhibitors,neutrophil,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C1874451,C0022688,AUGMENTS,Basis,Natural Killer Cells,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C2936609,C0440752,AUGMENTS,Phosphodiesterase 4 Inhibitors,Inflammatory cell,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C2987634,C0005821,AUGMENTS,Agonist,Blood Platelets,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C2987634,C0039194,AUGMENTS,Agonist,T-Lymphocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C3539125,C0004561,AUGMENTS,other medicated shampoos in ATC,B-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C3539125,C0022567,AUGMENTS,other medicated shampoos in ATC,keratinocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C3539125,C0024432,AUGMENTS,other medicated shampoos in ATC,macrophage,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C3539125,C0206116,AUGMENTS,other medicated shampoos in ATC,Microglia,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C3539125,C0682639,AUGMENTS,other medicated shampoos in ATC,Memory T-Lymphocyte,phsu,cell,1,AUGMENTS_PHSUaugmCELL
+C4305807,C0242629,AUGMENTS,LC16M8,CD8-Positive T-Lymphocytes,phsu,cell,1,AUGMENTS_PHSUaugmCELL

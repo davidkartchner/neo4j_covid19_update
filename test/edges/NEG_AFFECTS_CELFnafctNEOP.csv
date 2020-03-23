@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007587,C0596263,NEG_AFFECTS,Cell Death,Carcinogenesis,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP
+C0162638,C0178874,NEG_AFFECTS,Apoptosis,Tumor Progression,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP
+C0162638,C2939419,NEG_AFFECTS,Apoptosis,Secondary Neoplasm,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP
+C0872097,C2939419,NEG_AFFECTS,Anoikis,Secondary Neoplasm,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP
+C1155872,C2939419,NEG_AFFECTS,Cell Cycle Control,Secondary Neoplasm,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP
+C1622501,C0027627,NEG_AFFECTS,"Migration, Cell",Neoplasm Metastasis,celf,neop,1,NEG_AFFECTS_CELFnafctNEOP

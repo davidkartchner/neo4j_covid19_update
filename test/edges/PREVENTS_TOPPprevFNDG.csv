@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0015967,PREVENTS,Immunization,Fever,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0020971,C4321237,PREVENTS,Immunization,High Level,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0021485,C0015967,PREVENTS,Injection of therapeutic agent,Fever,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0021485,C1142480,PREVENTS,Injection of therapeutic agent,Vaccination site reaction,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0034991,C4049797,PREVENTS,Rehabilitation therapy,Chaos,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0040674,C0015967,PREVENTS,Transposition procedure,Fever,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0042196,C1545588,PREVENTS,Vaccination,Protection,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0042196,C3841427,PREVENTS,Vaccination,Medical reasons,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0184643,C0860603,PREVENTS,Mental health care,Anxiety symptoms,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0185908,C0019080,PREVENTS,Operative procedure on spine,Hemorrhage,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0199779,C3890735,PREVENTS,Administration of antibiotic,Complete Response with Incomplete Platelet Recovery,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0203597,C0015967,PREVENTS,hyperthermia treatment,Fever,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0259961,C0015967,PREVENTS,parenteral therapy,Fever,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0441509,C0019080,PREVENTS,Coagulation procedure,Hemorrhage,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0683468,C0019080,PREVENTS,invasive treatment,Hemorrhage,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0920467,C3845593,PREVENTS,disorder control (procedure),Major change,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C0947647,C0019080,PREVENTS,Manipulation procedure,Hemorrhage,topp,fndg,1,PREVENTS_TOPPprevFNDG
+C3650840,C0543419,PREVENTS,Traditional therapy,Sequela of disorder,topp,fndg,1,PREVENTS_TOPPprevFNDG

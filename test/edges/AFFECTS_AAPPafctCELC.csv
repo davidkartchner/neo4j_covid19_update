@@ -1,0 +1,621 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0007603,AFFECTS,Actins,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001271,C0010853,AFFECTS,Actins,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001271,C0175996,AFFECTS,Actins,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001271,C1383501,AFFECTS,Actins,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001457,C0175996,AFFECTS,ADENOSINE DEAMINASE,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001457,C0521119,AFFECTS,ADENOSINE DEAMINASE,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001473,C0034850,AFFECTS,Adenosine Triphosphatases,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001473,C0932050,AFFECTS,Adenosine Triphosphatases,Intercellular matrix component,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001473,C1523846,AFFECTS,Adenosine Triphosphatases,lysosomal lumen,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001473,C2350332,AFFECTS,Adenosine Triphosphatases,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001479,C0007603,AFFECTS,Na(+)-K(+)-Exchanging ATPase,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001479,C1383501,AFFECTS,Na(+)-K(+)-Exchanging ATPase,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0001898,C0596901,AFFECTS,Alanine,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002059,C0596901,AFFECTS,Alkaline Phosphatase,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002520,C0007603,AFFECTS,Amino Acids,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002520,C0010834,AFFECTS,Amino Acids,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002520,C0010851,AFFECTS,Amino Acids,Cytoskeletal Filaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002520,C0596901,AFFECTS,Amino Acids,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002529,C0010834,AFFECTS,Amino Acyl-tRNA Synthetases,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0002529,C0026237,AFFECTS,Amino Acyl-tRNA Synthetases,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003009,C0175996,AFFECTS,angiotensin II,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003009,C0521119,AFFECTS,angiotensin II,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003241,C0042760,AFFECTS,Antibodies,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003250,C0042760,AFFECTS,Monoclonal Antibodies,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003250,C0887869,AFFECTS,Monoclonal Antibodies,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0003591,C0042760,AFFECTS,Apolipoproteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0004358,C0026237,AFFECTS,Autoantibodies,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0004627,C1325742,AFFECTS,Bacterial Proteins,Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0007292,C1325742,AFFECTS,Carrier Proteins,Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0008546,C1167121,AFFECTS,Chromatin,DNA replication factor A complex location,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0008905,C0032592,AFFECTS,Clathrin,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0008905,C0887883,AFFECTS,Clathrin,Early endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0008905,C1166872,AFFECTS,Clathrin,clathrin coat,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0009325,C0932050,AFFECTS,Collagen,Intercellular matrix component,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0009498,C1749467,AFFECTS,Complement System Proteins,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0009498,C1819995,AFFECTS,Complement System Proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0009506,C0206181,AFFECTS,Complement 3,Presynaptic Terminals,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010536,C0175996,AFFECTS,Cyclic GMP-Dependent Protein Kinases,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010590,C1749467,AFFECTS,Cycloserine,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010654,C0596901,AFFECTS,Cysteine,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010656,C0230625,AFFECTS,caspase,cell process structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010656,C0887870,AFFECTS,caspase,Focal Adhesions,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010749,C0026237,AFFECTS,Cytochromes c,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0010852,C0230822,AFFECTS,Cytoskeletal Proteins,Autolysosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0012873,C1516511,AFFECTS,DNA Modification Methylases,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0013352,C0008778,AFFECTS,Dynein ATPase,Cilia,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0013729,C0026237,AFFECTS,Eukaryotic Initiation Factor-2,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0013729,C1325596,AFFECTS,Eukaryotic Initiation Factor-2,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0014241,C1383501,AFFECTS,Endoribonucleases,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0016055,C0175996,AFFECTS,Fibronectins,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0016055,C0932050,AFFECTS,Fibronectins,Intercellular matrix component,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0016955,C0042760,AFFECTS,Galactosidase,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017278,C0596901,AFFECTS,"Gene Products, env",Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017278,C0887869,AFFECTS,"Gene Products, env",Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017278,C1819995,AFFECTS,"Gene Products, env",Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017360,C0042760,AFFECTS,pol genes,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017360,C0596901,AFFECTS,pol genes,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017687,C0024369,AFFECTS,Glucagon,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017968,C0007603,AFFECTS,Glycoproteins,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017968,C0887869,AFFECTS,Glycoproteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017968,C1268457,AFFECTS,Glycoproteins,Viral core,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0017968,C1819995,AFFECTS,Glycoproteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0010853,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0025979,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0026046,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Microtubules,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0034850,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0596901,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C0887904,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Stress Fibers,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0018296,C1166748,AFFECTS,Guanosine Triphosphate Phosphohydrolases,COPII vesicle,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019046,C1268457,AFFECTS,Hemoglobin,Viral core,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019629,C1325636,AFFECTS,Histocompatibility Antigens Class I,TAP complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019630,C1171348,AFFECTS,Histocompatibility Antigens Class II,Immunological Synapses,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019643,C1516511,AFFECTS,Histone Deacetylase,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019647,C1819995,AFFECTS,Histone H3,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019652,C1516511,AFFECTS,Histones,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0019878,C0598268,AFFECTS,homocysteine,Endoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0020289,C0175996,AFFECTS,Hydrolase,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021088,C0175996,AFFECTS,IMP Dehydrogenase,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021666,C0007610,AFFECTS,insulin-like growth factor 2,Cell Nucleus,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021699,C0007603,AFFECTS,Integral Membrane Proteins,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021699,C0024369,AFFECTS,Integral Membrane Proteins,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021699,C0887838,AFFECTS,Integral Membrane Proteins,trans-Golgi Network,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021699,C1166848,AFFECTS,Integral Membrane Proteins,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021699,C1167024,AFFECTS,Integral Membrane Proteins,food vacuole,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021701,C1817257,AFFECTS,Integrins,nexin complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021747,C1325834,AFFECTS,Interferons,viral glycoprotein,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021747,C1749467,AFFECTS,Interferons,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0021758,C0004461,AFFECTS,Interleukin-4,Axon,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0022984,C0932050,AFFECTS,Laminin,Intercellular matrix component,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023206,C0007623,AFFECTS,Lectin,Cell Wall,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023206,C0010853,AFFECTS,Lectin,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023206,C1523873,AFFECTS,Lectin,receptor complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023401,C0596901,AFFECTS,Leucine,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023689,C0230625,AFFECTS,Ligase,cell process structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023820,C0042760,AFFECTS,Lipoproteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023820,C0598099,AFFECTS,Lipoproteins,cell envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023821,C2350332,AFFECTS,High Density Lipoproteins,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023821,C3894683,AFFECTS,High Density Lipoproteins,Extracellular Vesicles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0023823,C0042760,AFFECTS,Low-Density Lipoproteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0024337,C1511625,AFFECTS,Lysine,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025234,C0023768,AFFECTS,Melitten,Lipid Bilayers,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025248,C0887869,AFFECTS,Membrane Glycoproteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025248,C1819995,AFFECTS,Membrane Glycoproteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025252,C0035553,AFFECTS,Membrane Proteins,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025252,C0042219,AFFECTS,Membrane Proteins,Vacuole,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025252,C0596901,AFFECTS,Membrane Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025252,C1167250,AFFECTS,Membrane Proteins,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0025831,C0010834,AFFECTS,Methyltransferase,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0026045,C0175996,AFFECTS,Microtubule-Associated Proteins,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0027108,C0035553,AFFECTS,Myosin Light Chains,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0027120,C0026046,AFFECTS,Myosin Light Chain Kinase,Microtubules,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0027215,C1749467,AFFECTS,N-Cadherins,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0027895,C0521119,AFFECTS,Neuropeptides,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0028589,C1325653,AFFECTS,Nuclear Proteins,Mitochondrial electron transport chain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0028623,C1512460,AFFECTS,Nucleosomes,Higher Order Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030940,C0042760,AFFECTS,Peptide Hydrolases,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030940,C1167317,AFFECTS,Peptide Hydrolases,vesicle membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030940,C1819995,AFFECTS,Peptide Hydrolases,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030943,C1819995,AFFECTS,Peptide Initiation Factors,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030946,C0042760,AFFECTS,Endopeptidases,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030946,C0596901,AFFECTS,Endopeptidases,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030946,C0887869,AFFECTS,Endopeptidases,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0030946,C1523873,AFFECTS,Endopeptidases,receptor complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0031689,C0230625,AFFECTS,Phosphoproteins,cell process structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0031727,C0010853,AFFECTS,Phosphotransferases,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0031727,C0026046,AFFECTS,Phosphotransferases,Microtubules,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0032089,C0042760,AFFECTS,Plant Proteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034789,C0025979,AFFECTS,"Receptors, Antigen, B-Cell",Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034789,C0596901,AFFECTS,"Receptors, Antigen, B-Cell",Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034789,C1820038,AFFECTS,"Receptors, Antigen, B-Cell",cytoskeletal part,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034800,C0175996,AFFECTS,"Receptors, Cell Surface",Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034805,C0521119,AFFECTS,Fc Receptor,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034821,C0042760,AFFECTS,Low Density Lipoprotein Receptor,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0034848,C0699040,AFFECTS,"Receptors, Virus",Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0035544,C0042760,AFFECTS,Ribonucleoproteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0035552,C0010834,AFFECTS,Ribosomal Proteins,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0036774,C0596901,AFFECTS,"Serum Albumin, Bovine",Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0040648,C0042760,AFFECTS,TRANSCRIPTION FACTOR,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0040648,C0175996,AFFECTS,TRANSCRIPTION FACTOR,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0040648,C0699040,AFFECTS,TRANSCRIPTION FACTOR,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0040691,C1749467,AFFECTS,Transforming Growth Factors,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0041236,C1523873,AFFECTS,TRYPSIN,receptor complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0041485,C1511625,AFFECTS,Tyrosine,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0041538,C1167160,AFFECTS,Ubiquitin,signalosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0041538,C1167519,AFFECTS,Ubiquitin,viral capsid,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0041538,C1819995,AFFECTS,Ubiquitin,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042287,C1819995,AFFECTS,Valinomycin,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042666,C0699040,AFFECTS,Vimentin,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042666,C1749467,AFFECTS,Vimentin,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042666,C1819995,AFFECTS,Vimentin,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042711,C0023768,AFFECTS,Viral Envelope Proteins,Lipid Bilayers,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042711,C0042760,AFFECTS,Viral Envelope Proteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042711,C0596901,AFFECTS,Viral Envelope Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042711,C1179907,AFFECTS,Viral Envelope Proteins,Wall of endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042717,C1167398,AFFECTS,Viral Fusion Proteins,Viral envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042717,C1325742,AFFECTS,Viral Fusion Proteins,Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042717,C1819995,AFFECTS,Viral Fusion Proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0007637,AFFECTS,Viral Proteins,Inclusion Bodies,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0010834,AFFECTS,Viral Proteins,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0035553,AFFECTS,Viral Proteins,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0042760,AFFECTS,Viral Proteins,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0230625,AFFECTS,Viral Proteins,cell process structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0230770,AFFECTS,Viral Proteins,"Endoplasmic reticulum, membrane",aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0243092,AFFECTS,Viral Proteins,Cellular Structures,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C0596901,AFFECTS,Viral Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C1325596,AFFECTS,Viral Proteins,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C1621975,AFFECTS,Viral Proteins,organelle membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C1749467,AFFECTS,Viral Proteins,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C1819995,AFFECTS,Viral Proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0042736,C2247081,AFFECTS,Viral Proteins,host cell membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0044602,C0010853,AFFECTS,1-Phosphatidylinositol 3-Kinase,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0044602,C1179907,AFFECTS,1-Phosphatidylinositol 3-Kinase,Wall of endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0054757,C0025979,AFFECTS,carboxypeptidase H,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0055817,C1819995,AFFECTS,citrate carrier,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0056080,C0025979,AFFECTS,cofilin,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0057144,C1186713,AFFECTS,Daptomycin,Wall of late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0057256,C1819995,AFFECTS,Defensins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0058361,C0521119,AFFECTS,Cathepsin C,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0058610,C0010834,AFFECTS,HSP40 Heat-Shock Proteins,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0058988,C0010834,AFFECTS,Eukaryotic Initiation Factor-4E,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0058990,C2754094,AFFECTS,Eukaryotic Initiation Factor-4G,translation initiation complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0059377,C0597729,AFFECTS,Nidogen,Spindle Pole Body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0059984,C0887869,AFFECTS,F-actin-binding proteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0062503,C0521119,AFFECTS,Heparan Sulfate Proteoglycans,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0062776,C1516511,AFFECTS,histone methyltransferase,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0063695,C0699040,AFFECTS,Intercellular adhesion molecule 1,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0063700,C0032592,AFFECTS,Interferon Regulatory Factor 1,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0064612,C0596901,AFFECTS,lactose permease,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0065400,C0024369,AFFECTS,lysosomal proteins,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0065401,C0230822,AFFECTS,Lysosome-Associated Membrane Glycoproteins,Autolysosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0065827,C0042760,AFFECTS,Measles Virus Nucleoprotein,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0065827,C1325596,AFFECTS,Measles Virus Nucleoprotein,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0065827,C3271954,AFFECTS,Measles Virus Nucleoprotein,macropinosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0068613,C0085103,AFFECTS,"Tenascin, human",Neurites,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0069304,C1516511,AFFECTS,"POU5F1 protein, human",Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0071795,C1325596,AFFECTS,2-5A-dependent ribonuclease,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0072354,C0042760,AFFECTS,Protein Disulfide-Isomerases,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0072792,C0042760,AFFECTS,Pyruvate Dehydrogenase (Lipoamide),Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0073256,C0230779,AFFECTS,ribophorin,Rough endoplasmic reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0074512,C0596901,AFFECTS,Signal Recognition Particle,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0075212,C0024369,AFFECTS,Cystatin B,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0078056,C0699040,AFFECTS,Vascular Cell Adhesion Molecule-1,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0078208,C2752541,AFFECTS,Vesicle-Associated Membrane Proteins,contact site,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0079073,C3271954,AFFECTS,c-src Genes,macropinosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0079423,C0175996,AFFECTS,"Genes, vpr",Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0079633,C0010834,AFFECTS,Interleukin-8,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0081714,C0175996,AFFECTS,"Antigens, CD147",Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0081757,C2611786,AFFECTS,Coatomer beta Subunit,endoplasmic reticulum-Golgi intermediate compartment,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0082584,C0175996,AFFECTS,Tacrolimus Binding Proteins,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0084178,C1167179,AFFECTS,prohibitin,viral replication complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0084178,C1819995,AFFECTS,prohibitin,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0084378,C1325696,AFFECTS,RNA Helicase,apolipoprotein B mRNA editing enzyme complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0085536,C1511625,AFFECTS,Protein Tyrosine Phosphatase,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0086376,C0333785,AFFECTS,GTP-Binding Proteins,Virus-like particles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0086376,C0887869,AFFECTS,GTP-Binding Proteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0086376,C1511625,AFFECTS,GTP-Binding Proteins,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0103404,C0025979,AFFECTS,Annexin A2,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0119082,C0596901,AFFECTS,gephyrin,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0120285,C0596901,AFFECTS,Green Fluorescent Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0120285,C1819995,AFFECTS,Green Fluorescent Proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0120285,C2262706,AFFECTS,Green Fluorescent Proteins,recycling endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0120465,C0026046,AFFECTS,Guanine Nucleotide Exchange Factors,Microtubules,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0121463,C0230704,AFFECTS,"nucleocapsid protein, Hepatitis C virus",Lipid droplet,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0134235,C0598099,AFFECTS,OspA protein,cell envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0143595,C0699040,AFFECTS,"auR protein, Staphylococcus aureus",Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0146495,C0230595,AFFECTS,Probable Transcription Factor PML,Intranuclear body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0162768,C0018042,AFFECTS,Fusion protein,Golgi Apparatus,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0162768,C0042760,AFFECTS,Fusion protein,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0162768,C0596901,AFFECTS,Fusion protein,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0162768,C0887869,AFFECTS,Fusion protein,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0162768,C1749467,AFFECTS,Fusion protein,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0164198,C1167519,AFFECTS,Cyclophilin A,viral capsid,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0164786,C0025979,AFFECTS,Proto-Oncogene Proteins c-akt,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0165073,C0039065,AFFECTS,Synucleins,Synaptic Vesicles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0165117,C0025979,AFFECTS,jasplakinolide,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0166418,C0521119,AFFECTS,Peroxisome Proliferator-Activated Receptors,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0166418,C1268457,AFFECTS,Peroxisome Proliferator-Activated Receptors,Viral core,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0170168,C0521119,AFFECTS,Mitogen Activated Protein Kinase 1,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0173532,C0175996,AFFECTS,cyclin D3,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0174045,C2752456,AFFECTS,rho GTP-Binding Proteins,host cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0178774,C0007603,AFFECTS,Nucleocapsid,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0178827,C0007603,AFFECTS,replicase,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0178827,C0021868,AFFECTS,replicase,Intracellular Membranes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0178827,C1819995,AFFECTS,replicase,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0208355,C0175996,AFFECTS,multicatalytic endopeptidase complex,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0208355,C1516511,AFFECTS,multicatalytic endopeptidase complex,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0210704,C0042760,AFFECTS,nsP2 proteinase,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0215407,C0025979,AFFECTS,Cortactin,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0217529,C0042760,AFFECTS,Sterol Regulatory Element Binding Protein 1,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0218352,C0042760,AFFECTS,growth arrest-specific protein 6,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0242210,C0010853,AFFECTS,Binding Proteins,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0242210,C0887869,AFFECTS,Binding Proteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0242391,C0887869,AFFECTS,Cell Membrane Proteins,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0242392,C1819995,AFFECTS,Cell Surface Proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243040,C0887869,AFFECTS,"Adhesins, Bacterial",Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243041,C0010853,AFFECTS,Molecular Chaperones,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243041,C0699040,AFFECTS,Molecular Chaperones,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243041,C1383501,AFFECTS,Molecular Chaperones,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243043,C0014239,AFFECTS,Heat-Shock Proteins 70,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243043,C0025979,AFFECTS,Heat-Shock Proteins 70,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243043,C0026237,AFFECTS,Heat-Shock Proteins 70,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243044,C0007603,AFFECTS,HSP90 Heat-Shock Proteins,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243044,C0025979,AFFECTS,HSP90 Heat-Shock Proteins,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243044,C0032592,AFFECTS,HSP90 Heat-Shock Proteins,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243044,C2350332,AFFECTS,HSP90 Heat-Shock Proteins,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0243044,C3271954,AFFECTS,HSP90 Heat-Shock Proteins,macropinosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0246694,C0175996,AFFECTS,MG 132,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0248441,C0230625,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",cell process structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0251914,C0042760,AFFECTS,"PDIA3 protein, human",Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0252902,C0025979,AFFECTS,"PKN1 protein, human",Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0284655,C0018042,AFFECTS,"mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase",Golgi Apparatus,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0287990,C0175996,AFFECTS,paired basic amino acid cleaving enzyme,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0287990,C1622204,AFFECTS,paired basic amino acid cleaving enzyme,envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0287990,C1819995,AFFECTS,paired basic amino acid cleaving enzyme,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0288968,C0230770,AFFECTS,cysteine string protein,"Endoplasmic reticulum, membrane",aapp,celc,1,AFFECTS_AAPPafctCELC
+C0290178,C2754022,AFFECTS,"PLK1 protein, human",contractile ring,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0292147,C1167519,AFFECTS,Importins,viral capsid,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0298973,C0596901,AFFECTS,Ataxia Telangiectasia Mutated Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0299456,C0175996,AFFECTS,ran-binding protein 2,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0300140,C0010853,AFFECTS,"EEF1A1 protein, human",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0300824,C0596901,AFFECTS,SNAP receptor,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0305052,C0035553,AFFECTS,Gamma globulin serum,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0305052,C0175996,AFFECTS,Gamma globulin serum,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0305052,C1819995,AFFECTS,Gamma globulin serum,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0311448,C0175996,AFFECTS,Abnormal protein,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0376182,C0596901,AFFECTS,Glutamic Acids,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0376515,C0023768,AFFECTS,BCL2 gene,Lipid Bilayers,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0377707,C0032592,AFFECTS,Nuclease Sensitive Element Binding Protein 1,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0378910,C1167322,AFFECTS,Lymphocyte antigen CD66A,integral to membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0380202,C0887885,AFFECTS,syntaxin 6,Clathrin-Coated Vesicles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0385927,C0034850,AFFECTS,synaptojanin,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0387687,C0042760,AFFECTS,Chemokine (C-C Motif) Receptor 5,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0443640,C3850090,AFFECTS,Specific antibody,Extracellular Traps,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0475463,C0007603,AFFECTS,"Antibodies, Neutralizing",Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0475463,C0042760,AFFECTS,"Antibodies, Neutralizing",Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0529196,C0042760,AFFECTS,ADAM17 Protein,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0534164,C3821310,AFFECTS,transcription factor DP-1,membrane region,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0534858,C0230653,AFFECTS,caveolin-2,Caveolae,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0582263,C0007603,AFFECTS,Structural protein,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0582263,C0887869,AFFECTS,Structural protein,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0582263,C1167250,AFFECTS,Structural protein,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0582263,C1819995,AFFECTS,Structural protein,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0596902,C0699040,AFFECTS,Membrane Transport Proteins,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597094,C0225328,AFFECTS,nuclease,Fibril - cell component,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597336,C1516511,AFFECTS,Quantitative Trait Loci,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597357,C0014780,AFFECTS,receptor,Erythrocyte Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597357,C0175996,AFFECTS,receptor,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597357,C3269134,AFFECTS,receptor,Apoptotic Bodies,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597427,C0596901,AFFECTS,secretory protein,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0597721,C1511625,AFFECTS,Janus kinase,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C0007603,AFFECTS,Protein Subunits,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C0034850,AFFECTS,Protein Subunits,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C1166840,AFFECTS,Protein Subunits,oligosaccharyltransferase complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C1325733,AFFECTS,Protein Subunits,RNA polymerase complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C1383501,AFFECTS,Protein Subunits,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C1819995,AFFECTS,Protein Subunits,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599220,C4327160,AFFECTS,Protein Subunits,tethering complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C0010853,AFFECTS,e protein,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C0029219,AFFECTS,e protein,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C0042760,AFFECTS,e protein,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C0596901,AFFECTS,e protein,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C1167250,AFFECTS,e protein,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599561,C1167398,AFFECTS,e protein,Viral envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0599947,C0035553,AFFECTS,release factor,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0623362,C0887870,AFFECTS,Matrix Metalloproteinases,Focal Adhesions,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0633227,C0175996,AFFECTS,thioredoxin peroxidase,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0633231,C0596901,AFFECTS,"S100A6 protein, human",Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0663914,C1819995,AFFECTS,IkappaB kinase,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0664943,C1325635,AFFECTS,tapasin,MHC class I peptide loading complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0665313,C0014239,AFFECTS,"activating transcription factor 6, human",Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0667830,C0026237,AFFECTS,caspase-8,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0669443,C1518439,AFFECTS,CCCTC-binding factor,Nuclear Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0670896,C0596901,AFFECTS,Toll-like receptors,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0699919,C0175996,AFFECTS,Cathepsins B,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0699919,C1819995,AFFECTS,Cathepsins B,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0700271,C0042760,AFFECTS,"M Protein, multiple myeloma",Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0700271,C0333785,AFFECTS,"M Protein, multiple myeloma",Virus-like particles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0700271,C0887869,AFFECTS,"M Protein, multiple myeloma",Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0728747,C1819995,AFFECTS,trastuzumab,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0751984,C0596901,AFFECTS,Monomeric GTP-Binding Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0752065,C0596901,AFFECTS,rab GTP-Binding Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0752065,C2350332,AFFECTS,rab GTP-Binding Proteins,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0758336,C1819995,AFFECTS,trypsin-like serine protease,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0760488,C0230704,AFFECTS,perilipin 2,Lipid droplet,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0763396,C0026237,AFFECTS,Apoptosis Inducing Factor,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0812234,C0025979,AFFECTS,RHOA gene,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0815043,C0010853,AFFECTS,"Protein, Organized by Function",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0815047,C1819995,AFFECTS,regulatory proteins,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0872306,C1749467,AFFECTS,Yeast Proteins,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0879468,C0596901,AFFECTS,CSF1R gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0887901,C0887883,AFFECTS,Caveolins,Early endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0914267,C3269134,AFFECTS,phosphatidylserine receptor,Apoptotic Bodies,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0917721,C0010853,AFFECTS,"p16 protease, Human immunodeficiency virus 1",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0949610,C0026237,AFFECTS,Mitochondrial Proteins,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0949610,C0029219,AFFECTS,Mitochondrial Proteins,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0949610,C1383501,AFFECTS,Mitochondrial Proteins,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0949879,C0010834,AFFECTS,Nuclear Pore Complex Proteins,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C0950430,C0042760,AFFECTS,Bacillus intermedius ribonuclease,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1099914,C1749467,AFFECTS,"IL12B protein, human",soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1135986,C0596901,AFFECTS,Vesicular Transport Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1142652,C0010834,AFFECTS,"NR4A2 protein, human",Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1142652,C0596901,AFFECTS,"NR4A2 protein, human",Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1142652,C1622967,AFFECTS,"NR4A2 protein, human",cell periphery,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1143167,C1622615,AFFECTS,"APOBEC3G protein, human",cullin-RING ubiquitin ligase complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1143167,C1819995,AFFECTS,"APOBEC3G protein, human",Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1143976,C0887838,AFFECTS,"TREM2 protein, human",trans-Golgi Network,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1179132,C0887869,AFFECTS,Scaffold protein,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1305923,C0699040,AFFECTS,Polypeptides,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1305923,C3887595,AFFECTS,Polypeptides,Autophagosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1307407,C0026237,AFFECTS,"FRAP1 protein, human",Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1309025,C1167317,AFFECTS,"SH2D3A protein, human",vesicle membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1309025,C1753319,AFFECTS,"SH2D3A protein, human","Ribosome Subunits, Small, Eukaryotic",aapp,celc,1,AFFECTS_AAPPafctCELC
+C1309025,C1819995,AFFECTS,"SH2D3A protein, human",Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1309370,C0887869,AFFECTS,"CADM1 protein, human",Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1309483,C1325583,AFFECTS,"DICER1 protein, human",central element,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1310468,C0010851,AFFECTS,"DDX58 protein, human",Cytoskeletal Filaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1310468,C0010853,AFFECTS,"DDX58 protein, human",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1310468,C0026237,AFFECTS,"DDX58 protein, human",Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1310468,C1325596,AFFECTS,"DDX58 protein, human",P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1311453,C0042760,AFFECTS,Nedd4 Ubiquitin Protein Ligases,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1312700,C1819995,AFFECTS,"FABP1 protein, human",Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1332386,C0521119,AFFECTS,BCAR3 gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1332669,C0010853,AFFECTS,CAV1 gene,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1332749,C0032592,AFFECTS,HERC5 gene,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333203,C1167110,AFFECTS,DAXX gene,PML body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333343,C0596901,AFFECTS,EPS15 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333498,C1749467,AFFECTS,Extracellular Protein,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333682,C0042760,AFFECTS,NOP53 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333682,C0175996,AFFECTS,NOP53 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1333682,C0521119,AFFECTS,NOP53 gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334046,C0010853,AFFECTS,"Genes, Housekeeping",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334078,C0042760,AFFECTS,IFITM1 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334078,C0596901,AFFECTS,IFITM1 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334139,C3824424,AFFECTS,IRF3 gene,STING complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334283,C0042760,AFFECTS,Ion Channel Protein,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1334885,C0010834,AFFECTS,NMI gene,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1335439,C1179907,AFFECTS,Polymerase,Wall of endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1335439,C1819995,AFFECTS,Polymerase,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1335818,C0029219,AFFECTS,SH2D3C gene,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1335818,C0596901,AFFECTS,SH2D3C gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1335818,C1383501,AFFECTS,SH2D3C gene,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1336641,C1325834,AFFECTS,TMPRSS2 gene,viral glycoprotein,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1336641,C1819995,AFFECTS,TMPRSS2 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1336655,C0175996,AFFECTS,TOLLIP gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1336678,C4236736,AFFECTS,TSG101 gene,intracellular vesicle,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1337107,C0028587,AFFECTS,MXD1 gene,Nuclear Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1367710,C3850088,AFFECTS,C5 gene,Neutrophil Extracellular Traps,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412323,C0175996,AFFECTS,AKR1B10 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412425,C0596901,AFFECTS,ANXA4 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412458,C0175996,AFFECTS,APBA3 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412504,C0175996,AFFECTS,ARF1 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412504,C0596901,AFFECTS,ARF1 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412622,C0175996,AFFECTS,ATF6 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412628,C1819995,AFFECTS,ATP1A1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412785,C0596901,AFFECTS,BECN1 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412831,C1167250,AFFECTS,BST2 gene,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412831,C1325834,AFFECTS,BST2 gene,viral glycoprotein,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1412995,C0206181,AFFECTS,C3AR1 gene,Presynaptic Terminals,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1413421,C0230704,AFFECTS,CIDEA gene,Lipid droplet,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1413584,C2752541,AFFECTS,COL4A3BP gene,contact site,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1413907,C0026237,AFFECTS,DAPK2 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1413949,C1819995,AFFECTS,DDOST gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1414333,C1167506,AFFECTS,AGO2 gene,RNA-induced silencing complex location,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1414444,C0014239,AFFECTS,ERN1 gene,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1414672,C0596901,AFFECTS,FOXD3 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1414968,C0007603,AFFECTS,GAPDH gene,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1414968,C0042760,AFFECTS,GAPDH gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415002,C0010853,AFFECTS,GBF1 gene,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415002,C1749467,AFFECTS,GBF1 gene,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415189,C0175996,AFFECTS,GP5 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415189,C0887869,AFFECTS,GP5 gene,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415351,C0042760,AFFECTS,GTPBP1 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415351,C1167322,AFFECTS,GTPBP1 gene,integral to membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415351,C1819995,AFFECTS,GTPBP1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415375,C4235135,AFFECTS,GYPC gene,glycoprotein complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415545,C2828355,AFFECTS,HINT1 gene,IgG2c,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415715,C0029219,AFFECTS,AGFG1 gene,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415715,C0887838,AFFECTS,AGFG1 gene,trans-Golgi Network,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415715,C2350332,AFFECTS,AGFG1 gene,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415761,C0014239,AFFECTS,HSPA5 gene,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415888,C1325834,AFFECTS,IFI30 gene,viral glycoprotein,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C0024369,AFFECTS,IFITM3 gene,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C0031310,AFFECTS,IFITM3 gene,Phagosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C0034850,AFFECTS,IFITM3 gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C0175996,AFFECTS,IFITM3 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C0521119,AFFECTS,IFITM3 gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C1166848,AFFECTS,IFITM3 gene,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C1622204,AFFECTS,IFITM3 gene,envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1415898,C1819995,AFFECTS,IFITM3 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1416400,C0597729,AFFECTS,IL1RL1 gene,Spindle Pole Body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1416540,C2350332,AFFECTS,KARS gene,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1416705,C0028587,AFFECTS,KPNB1 gene,Nuclear Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1416877,C0010834,AFFECTS,LMNA gene,Cytoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1416877,C0242607,AFFECTS,LMNA gene,Microtubule-Organizing Center,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417005,C0023768,AFFECTS,MAP1LC3A gene,Lipid Bilayers,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417005,C0026046,AFFECTS,MAP1LC3A gene,Microtubules,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417005,C0521119,AFFECTS,MAP1LC3A gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417005,C0596901,AFFECTS,MAP1LC3A gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417005,C3158115,AFFECTS,MAP1LC3A gene,phagophore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417196,C1167250,AFFECTS,MLYCD gene,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417510,C0008658,AFFECTS,MX1 gene,"Chromosomes, Human, Pair 16",aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417510,C0026237,AFFECTS,MX1 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417510,C1819995,AFFECTS,MX1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417546,C0035553,AFFECTS,MYL1 gene,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417547,C0035553,AFFECTS,MYL2 gene,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417548,C0035553,AFFECTS,MYL3 gene,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417613,C0521119,AFFECTS,NCL gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417659,C0034850,AFFECTS,NEDD4 gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417776,C0024369,AFFECTS,NPC1 gene,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417776,C0034850,AFFECTS,NPC1 gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417776,C1819995,AFFECTS,NPC1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417921,C0042760,AFFECTS,OAZ1 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1417921,C1819995,AFFECTS,OAZ1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1418407,C4236736,AFFECTS,PDCD6IP gene,intracellular vesicle,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1418597,C0175996,AFFECTS,PITX3 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1418793,C0042760,AFFECTS,PPIA gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1418795,C1166837,AFFECTS,PPIB gene,Cavity of endoplasmic reticulum cistern,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419189,C2262706,AFFECTS,RAB11A gene,recycling endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419195,C0029219,AFFECTS,RAB27A gene,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419212,C0887883,AFFECTS,RAB5A gene,Early endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419212,C1166848,AFFECTS,RAB5A gene,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419215,C0034850,AFFECTS,RAB6A gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419221,C0014239,AFFECTS,RABAC1 gene,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419227,C0025979,AFFECTS,RAC1 gene,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419263,C0007637,AFFECTS,IPO7 gene,Inclusion Bodies,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419325,C1819995,AFFECTS,OPN1LW gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1419741,C0035553,AFFECTS,RPS6 gene,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1420016,C1518774,AFFECTS,SGTA gene,PA700 Regulatory Module,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1420399,C0042760,AFFECTS,SREBF2 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1420578,C0597729,AFFECTS,TAGLN gene,Spindle Pole Body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1420699,C0024369,AFFECTS,TFEB gene,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1420799,C1819995,AFFECTS,TNFAIP3 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421350,C0011305,AFFECTS,ULK1 gene,Dendrites,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421351,C0042760,AFFECTS,UMOD gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421395,C0175996,AFFECTS,USP18 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421424,C0175996,AFFECTS,VAPA gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421466,C1166848,AFFECTS,VPS41 gene,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421527,C1167250,AFFECTS,XBP1 gene,lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421544,C0028587,AFFECTS,XPO1 gene,Nuclear Pore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421544,C0596901,AFFECTS,XPO1 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1421924,C3158115,AFFECTS,GABARAPL2 gene,phagophore,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422036,C0007603,AFFECTS,ERVW-1 gene,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422036,C1325834,AFFECTS,ERVW-1 gene,viral glycoprotein,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422055,C1167406,AFFECTS,POLE3 gene,viral integration complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422064,C0699040,AFFECTS,ACE2 gene,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422064,C0887869,AFFECTS,ACE2 gene,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422134,C0085103,AFFECTS,MACF1 gene,Neurites,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1422179,C1819995,AFFECTS,HERPUD1 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1423062,C0034850,AFFECTS,SIRT1 gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1424250,C0026237,AFFECTS,NLRP3 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1424319,C0024369,AFFECTS,ADAP2 gene,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1424319,C1622372,AFFECTS,ADAP2 gene,ruffle membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1424319,C3271954,AFFECTS,ADAP2 gene,macropinosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1424661,C0032592,AFFECTS,TXNIP gene,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1425534,C0007603,AFFECTS,ZDHHC2 gene,Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1425967,C0025979,AFFECTS,TBC1D3 gene,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1426511,C0018042,AFFECTS,GBP5 gene,Golgi Apparatus,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1426941,C0887879,AFFECTS,MTSS1 gene,Cell Surface Extensions,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427020,C1166848,AFFECTS,VPS39 gene,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427119,C0042760,AFFECTS,ANKFY1 gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427119,C3271954,AFFECTS,ANKFY1 gene,macropinosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427303,C0035553,AFFECTS,SEC63 gene,Ribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427382,C0026237,AFFECTS,RHOT1 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427504,C0230715,AFFECTS,MLIP gene,A band,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1427812,C2350332,AFFECTS,PDLIM7 gene,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1428430,C0032592,AFFECTS,DDIT4 gene,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1447045,C0042760,AFFECTS,"EGR1 protein, human",Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1448177,C1749467,AFFECTS,"TNF protein, human",soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1449159,C1749467,AFFECTS,"CCL2 protein, human",soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1453853,C1819995,AFFECTS,"WNK1 protein, human",Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1456447,C1383501,AFFECTS,"SLC6A2 protein, human",Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1504769,C0026237,AFFECTS,"DFFB protein, human",Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1537621,C2752281,AFFECTS,LSM11 gene,histone locus body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1538301,C1749467,AFFECTS,ATXN3 gene,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1539221,C1383501,AFFECTS,DCLK3 gene,Cytoplasmic matrix,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1539614,C1622204,AFFECTS,GREM1 gene,envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1539907,C0596901,AFFECTS,SYVN1 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1540210,C0010853,AFFECTS,ASZ1 gene,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1540210,C0034850,AFFECTS,ASZ1 gene,Endosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1540210,C0175996,AFFECTS,ASZ1 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1564139,C0007709,AFFECTS,Mutant Proteins,Centromere,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1564139,C0596901,AFFECTS,Mutant Proteins,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1565114,C0026237,AFFECTS,Apoptosis Inhibiting Proteins,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1624602,C0042760,AFFECTS,Anti-Antibodies,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1705504,C1749467,AFFECTS,HTATIP wt Allele,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1705982,C0596901,AFFECTS,KRAS wt Allele,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1705982,C1325596,AFFECTS,KRAS wt Allele,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1710602,C3887595,AFFECTS,VIPR1 wt Allele,Autophagosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1748474,C1166848,AFFECTS,Endosomal Sorting Complexes Required for Transport,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1823138,C1819995,AFFECTS,STT3A gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1823619,C0597729,AFFECTS,VEGFA gene,Spindle Pole Body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1824672,C0175996,AFFECTS,CD93 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825368,C0001216,AFFECTS,GLIPR1L1 gene,Acrosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825497,C0596901,AFFECTS,ATG5 gene,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825497,C1818669,AFFECTS,ATG5 gene,membrane extension,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825546,C0014239,AFFECTS,HSP90B1 gene,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C0025979,AFFECTS,IMPACT gene,Microfilaments,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C0032592,AFFECTS,IMPACT gene,Polyribosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C0042760,AFFECTS,IMPACT gene,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C0175996,AFFECTS,IMPACT gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C1167322,AFFECTS,IMPACT gene,integral to membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825598,C1819995,AFFECTS,IMPACT gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825621,C0026237,AFFECTS,ISG15 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825621,C0029219,AFFECTS,ISG15 gene,Organelles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825621,C0521119,AFFECTS,ISG15 gene,Extracellular,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825621,C1819995,AFFECTS,ISG15 gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1825621,C2350332,AFFECTS,ISG15 gene,Exosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1826560,C0887869,AFFECTS,PDPN gene,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1826726,C0085103,AFFECTS,PRTG gene,Neurites,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1826755,C0175996,AFFECTS,RAB2A gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1826758,C0887883,AFFECTS,RAB7A gene,Early endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1826758,C1166848,AFFECTS,RAB7A gene,late endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1842829,C1819995,AFFECTS,SELENOS gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1864770,C0026237,AFFECTS,MAVS gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1864770,C1819995,AFFECTS,MAVS gene,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1955992,C0597234,AFFECTS,"Genome, Chloroplast",photosystem,aapp,celc,1,AFFECTS_AAPPafctCELC
+C1956035,C0010853,AFFECTS,Protein Interaction Motifs,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2239547,C0026237,AFFECTS,ACOD1 gene,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2681309,C1167179,AFFECTS,C19orf66 gene,viral replication complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2681309,C1325596,AFFECTS,C19orf66 gene,P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2681848,C0887879,AFFECTS,MTSS1L gene,Cell Surface Extensions,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2681866,C1167109,AFFECTS,NEAT1 gene,paraspeckles,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2699119,C0010853,AFFECTS,ARPP21 gene,Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2717904,C0042760,AFFECTS,Endosomal Sorting Complex Required for Transport II,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2744535,C0026237,AFFECTS,"CD69 protein, human",Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2827563,C0887869,AFFECTS,HBG1 wt Allele,Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2936363,C2611787,AFFECTS,Sorting Nexins,late Golgi,aapp,celc,1,AFFECTS_AAPPafctCELC
+C2986620,C1166803,AFFECTS,BECN1 wt Allele,phosphatidylinositol 3-kinase complex,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3271456,C0699040,AFFECTS,AP1 complex,Cell surface,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3273474,C0230704,AFFECTS,Cytospin-B,Lipid droplet,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3273837,C0596901,AFFECTS,S100B wt Allele,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3538714,C1511625,AFFECTS,TTN wt Allele,Cytoplasmic Domain,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3539688,C0024369,AFFECTS,DEGS1 wt Allele,Lysosomes,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3539754,C0014239,AFFECTS,RAB5C wt Allele,Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3540252,C0028584,AFFECTS,PYURF gene,Nuclear Envelope,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3540595,C1171348,AFFECTS,CD8A wt Allele,Immunological Synapses,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3541708,C0175996,AFFECTS,IFNL4 gene,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3642279,C0596901,AFFECTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3642322,C0026237,AFFECTS,CAD Protein,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3710914,C0014239,AFFECTS,"EIF2AK2 protein, human",Endoplasmic Reticulum,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3710914,C1325596,AFFECTS,"EIF2AK2 protein, human",P-body,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3711667,C0042760,AFFECTS,"ARHGEF5 protein, human",Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3811127,C0042760,AFFECTS,SULT1E1 wt Allele,Virion,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3811127,C1819995,AFFECTS,SULT1E1 wt Allele,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3811720,C0026237,AFFECTS,MIR22 wt Allele,Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3812373,C1749467,AFFECTS,CHAF1A wt Allele,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3812695,C1167322,AFFECTS,LPAR3 wt Allele,integral to membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3813576,C1325744,AFFECTS,MAD2L1 wt Allele,subapical complex location,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3849574,C0026237,AFFECTS,"EPHB2 protein, human",Mitochondria,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3849574,C1167250,AFFECTS,"EPHB2 protein, human",lipid raft,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3849574,C1179907,AFFECTS,"EPHB2 protein, human",Wall of endosome,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3887655,C1819995,AFFECTS,Recombinant Platelet Factor 4,Host Cell,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3891304,C3549194,AFFECTS,"Cathelicidin LL-37, human",viral membrane,aapp,celc,1,AFFECTS_AAPPafctCELC
+C3898882,C1516511,AFFECTS,Histone H3 Acetyl Lys27,Chromatin Structure,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4049595,C1749467,AFFECTS,HLA Complex,soluble,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4084937,C0175996,AFFECTS,Antimicrobial Peptide,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4281724,C0175996,AFFECTS,Protein S100-A9,Protoplasm,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4281805,C0010853,AFFECTS,"T-Cell-Specific Surface Glycoprotein CD28, human",Cytoskeleton,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4281807,C0887869,AFFECTS,"Vitronectin, human",Cell-Matrix Junction,aapp,celc,1,AFFECTS_AAPPafctCELC
+C4317106,C0007603,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Plasma membrane,aapp,celc,1,AFFECTS_AAPPafctCELC

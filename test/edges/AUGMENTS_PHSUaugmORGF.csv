@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003204,C0043240,AUGMENTS,Anti-Infective Agents,Wound Healing,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003209,C0018841,AUGMENTS,Anti-Inflammatory Agents,Thermogenesis,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003209,C0043240,AUGMENTS,Anti-Inflammatory Agents,Wound Healing,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003209,C1819437,AUGMENTS,Anti-Inflammatory Agents,interleukin-10 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003392,C0699900,AUGMENTS,Antineoplastic Agents,Catabolism,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003402,C0011065,AUGMENTS,Antioxidants,Cessation of life,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003402,C0025516,AUGMENTS,Antioxidants,"Metabolic Detoxication, Drug",phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003451,C0005615,AUGMENTS,Antiviral Agents,Birth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003451,C0042774,AUGMENTS,Antiviral Agents,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0003451,C0301872,AUGMENTS,Antiviral Agents,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0004482,C0011065,AUGMENTS,Azathioprine,Cessation of life,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0005525,C0042774,AUGMENTS,Biological Response Modifiers,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0005525,C0301872,AUGMENTS,Biological Response Modifiers,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0005525,C1749719,AUGMENTS,Biological Response Modifiers,Adaptive Immune Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0014930,C0011065,AUGMENTS,Estrogen Antagonists,Cessation of life,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0022230,C1819436,AUGMENTS,Inosine Pranobex,interleukin-1 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0022230,C1819447,AUGMENTS,Inosine Pranobex,interleukin-2 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C0011065,AUGMENTS,Poly I-C,Cessation of life,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C0037361,AUGMENTS,Poly I-C,Smell Perception,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C0042774,AUGMENTS,Poly I-C,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C0678723,AUGMENTS,Poly I-C,Biologic Development,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C1155328,AUGMENTS,Poly I-C,Antiviral Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C1327413,AUGMENTS,Poly I-C,cytokine production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C1819459,AUGMENTS,Poly I-C,interleukin-6 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032414,C1819464,AUGMENTS,Poly I-C,tumor necrosis factor production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0032950,C0301872,AUGMENTS,prednisolone,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0035525,C1155328,AUGMENTS,Ribavirin,Antiviral Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0133819,C0042774,AUGMENTS,oligoadenylate,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0310255,C0000934,AUGMENTS,survive,Acclimatization,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0599934,C0020966,AUGMENTS,"Vaccines, Peptide",Cellular Immunity,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0599934,C0301872,AUGMENTS,"Vaccines, Peptide",Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0601906,C0018270,AUGMENTS,PH.3,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0718215,C0678209,AUGMENTS,ACIDOPHILUS,Adaptive Immunity,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0718215,C1327413,AUGMENTS,ACIDOPHILUS,cytokine production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0718215,C1749719,AUGMENTS,ACIDOPHILUS,Adaptive Immune Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0914671,C0301872,AUGMENTS,CPG-ODN,Immune response,phsu,orgf,2,AUGMENTS_PHSUaugmORGF
+C0965351,C0301872,AUGMENTS,CpG ODN 1826,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C0982374,C0018270,AUGMENTS,RICE BRAN,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1136254,C0018270,AUGMENTS,Microbicides,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1136254,C0301872,AUGMENTS,Microbicides,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1373060,C0018270,AUGMENTS,Nitric Oxide Synthase Inhibitor,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1443927,C0178747,AUGMENTS,Sheep blood agar,microorganism growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1510693,C0301872,AUGMENTS,AS02A,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1516312,C0042774,AUGMENTS,Caspase Inhibitors,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1520007,C0301872,AUGMENTS,viral vector,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1520007,C1820370,AUGMENTS,viral vector,flowering,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1709545,C0026649,AUGMENTS,Piperine Extract (Standardized),Movement,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1874451,C0018270,AUGMENTS,Basis,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1874451,C1563744,AUGMENTS,Basis,Lipogenesis,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1874451,C1749719,AUGMENTS,Basis,Adaptive Immune Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1875235,C0005615,AUGMENTS,Helium / Oxygen,Birth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C1875384,C0301872,AUGMENTS,INVESTIGATIONAL VACCINES,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2698851,C0018270,AUGMENTS,POMx,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2746052,C1160185,AUGMENTS,mTOR Inhibitor,transduction,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2954564,C0042774,AUGMENTS,Suppressor,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C0013470,AUGMENTS,Agonist,Eating,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C0301872,AUGMENTS,Agonist,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C1155328,AUGMENTS,Agonist,Antiviral Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C1327413,AUGMENTS,Agonist,cytokine production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C1819430,AUGMENTS,Agonist,type I interferon production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C1819436,AUGMENTS,Agonist,interleukin-1 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C2987634,C1819439,AUGMENTS,Agonist,interleukin-12 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C0000934,AUGMENTS,other medicated shampoos in ATC,Acclimatization,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C0018270,AUGMENTS,other medicated shampoos in ATC,Growth,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C0020967,AUGMENTS,other medicated shampoos in ATC,Humoral Immunity,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C0042774,AUGMENTS,other medicated shampoos in ATC,Virus Replication,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C0301872,AUGMENTS,other medicated shampoos in ATC,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C1155328,AUGMENTS,other medicated shampoos in ATC,Antiviral Response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539125,C1819437,AUGMENTS,other medicated shampoos in ATC,interleukin-10 production,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3539957,C0301872,AUGMENTS,opium alkaloids and derivative combination cough suppressants,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3543842,C0015895,AUGMENTS,TONICS,Fertility,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C3653518,C0301872,AUGMENTS,CALCIUM HOMEOSTASIS,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C4305807,C0301872,AUGMENTS,LC16M8,Immune response,phsu,orgf,1,AUGMENTS_PHSUaugmORGF
+C4305807,C0678723,AUGMENTS,LC16M8,Biologic Development,phsu,orgf,1,AUGMENTS_PHSUaugmORGF

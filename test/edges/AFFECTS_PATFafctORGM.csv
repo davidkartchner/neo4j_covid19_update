@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015376,C0445623,AFFECTS,Extravasation,Microorganism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0016059,C1956108,AFFECTS,Fibrosis,Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C0020517,C0450254,AFFECTS,Hypersensitivity,Pathogenic organism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0020522,C0445623,AFFECTS,Delayed Hypersensitivity,Microorganism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0021368,C0445623,AFFECTS,Inflammation,Microorganism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0021368,C0450254,AFFECTS,Inflammation,Pathogenic organism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0021368,C1956108,AFFECTS,Inflammation,Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C0021368,C2985398,AFFECTS,Inflammation,Intestinal Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C0231302,C2985398,AFFECTS,Physical stress,Intestinal Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C0242656,C0445623,AFFECTS,Disease Progression,Microorganism,patf,orgm,1,AFFECTS_PATFafctORGM
+C0332448,C1956108,AFFECTS,Infiltration,Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C0854457,C4086236,AFFECTS,Direct disease transmission,Definitive Host,patf,orgm,1,AFFECTS_PATFafctORGM
+C1520005,C0450254,AFFECTS,Viral Pathogenesis,Pathogenic organism,patf,orgm,1,AFFECTS_PATFafctORGM
+C3658208,C2985398,AFFECTS,Dysbiosis,Intestinal Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C3714514,C0314732,AFFECTS,Infection,Infectious agent,patf,orgm,1,AFFECTS_PATFafctORGM
+C3714514,C0445623,AFFECTS,Infection,Microorganism,patf,orgm,1,AFFECTS_PATFafctORGM
+C3714514,C0450254,AFFECTS,Infection,Pathogenic organism,patf,orgm,1,AFFECTS_PATFafctORGM
+C3714514,C1956108,AFFECTS,Infection,Microbiome,patf,orgm,1,AFFECTS_PATFafctORGM
+C4061114,C4267729,AFFECTS,Acute illness,Respiratory pathogens,patf,orgm,1,AFFECTS_PATFafctORGM

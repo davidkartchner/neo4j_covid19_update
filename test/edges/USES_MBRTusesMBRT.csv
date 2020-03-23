@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005861,C0599161,USES,Northern Blotting,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0242574,C0599161,USES,Nested Polymerase Chain Reaction,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0242574,C1514628,USES,Nested Polymerase Chain Reaction,Quantitative Reverse Transcriptase PCR,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C0242574,USES,Reverse Transcriptase Polymerase Chain Reaction,Nested Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C1511897,USES,Reverse Transcriptase Polymerase Chain Reaction,Dideoxy Chain Termination DNA Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C1513384,USES,Reverse Transcriptase Polymerase Chain Reaction,Molecular Genetic Technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C1514628,USES,Reverse Transcriptase Polymerase Chain Reaction,Quantitative Reverse Transcriptase PCR,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C1709846,USES,Reverse Transcriptase Polymerase Chain Reaction,Real-Time Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0599161,C3640076,USES,Reverse Transcriptase Polymerase Chain Reaction,Whole Genome Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0683224,C3640076,USES,QTL mapping,Whole Genome Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C0920648,C0599161,USES,RNA amplification,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1136345,C0597731,USES,Protein Microarray Analysis,Surface Plasmon Resonance,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1328887,C2936622,USES,genome sequencing,Massively-Parallel Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1328887,C3839010,USES,genome sequencing,Ribonucleic acid extraction technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1511897,C2936622,USES,Dideoxy Chain Termination DNA Sequencing,Massively-Parallel Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1511897,C3640076,USES,Dideoxy Chain Termination DNA Sequencing,Whole Genome Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1513384,C0599161,USES,Molecular Genetic Technique,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1513384,C1709846,USES,Molecular Genetic Technique,Real-Time Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1514433,C3897601,USES,Primer Extension,Single Nucleotide Polymorphism Array,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1514534,C1514628,USES,Protein Analysis,Quantitative Reverse Transcriptase PCR,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1515232,C0600528,USES,TdT-Mediated dUTP Nick End Labeling Assay,In Situ Nick-End Labeling,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1519025,C2936622,USES,Phage Display,Massively-Parallel Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1519305,C0599161,USES,Shotgun Sequencing,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C0599161,USES,Real-Time Polymerase Chain Reaction,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C1514628,USES,Real-Time Polymerase Chain Reaction,Quantitative Reverse Transcriptase PCR,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C1522053,USES,Real-Time Polymerase Chain Reaction,DNA Microarray format,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C1880945,USES,Real-Time Polymerase Chain Reaction,Gene Expression Analysis,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C3179032,USES,Real-Time Polymerase Chain Reaction,Multiplex Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C3839010,USES,Real-Time Polymerase Chain Reaction,Ribonucleic acid extraction technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1709846,C3839098,USES,Real-Time Polymerase Chain Reaction,Deoxyribonucleic acid extraction technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C1880945,C1709846,USES,Gene Expression Analysis,Real-Time Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2350277,C3897601,USES,Genome-Wide Association Study,Single Nucleotide Polymorphism Array,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2936621,C2936622,USES,High-Throughput Nucleotide Sequencing,Massively-Parallel Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2936621,C3839010,USES,High-Throughput Nucleotide Sequencing,Ribonucleic acid extraction technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2936622,C3179032,USES,Massively-Parallel Sequencing,Multiplex Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2936622,C3640076,USES,Massively-Parallel Sequencing,Whole Genome Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C2936622,C3897601,USES,Massively-Parallel Sequencing,Single Nucleotide Polymorphism Array,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3179032,C0599161,USES,Multiplex Polymerase Chain Reaction,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3640076,C1511897,USES,Whole Genome Sequencing,Dideoxy Chain Termination DNA Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3640076,C2936622,USES,Whole Genome Sequencing,Massively-Parallel Sequencing,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3640076,C3839010,USES,Whole Genome Sequencing,Ribonucleic acid extraction technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3831112,C1513400,USES,ChIP-On-Chip,Molecular Profiling,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3839010,C0599161,USES,Ribonucleic acid extraction technique,Reverse Transcriptase Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3839010,C1513384,USES,Ribonucleic acid extraction technique,Molecular Genetic Technique,mbrt,mbrt,1,USES_MBRTusesMBRT
+C3839010,C1709846,USES,Ribonucleic acid extraction technique,Real-Time Polymerase Chain Reaction,mbrt,mbrt,1,USES_MBRTusesMBRT

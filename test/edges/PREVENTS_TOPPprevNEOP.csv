@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013216,C0687702,PREVENTS,Pharmacotherapy,Cancer Remission,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0027627,PREVENTS,Immunization,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0027651,PREVENTS,Immunization,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0153676,PREVENTS,Immunization,Secondary malignant neoplasm of lung,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C0598934,PREVENTS,Immunization,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0020971,C2939419,PREVENTS,Immunization,Secondary Neoplasm,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0021083,C0699753,PREVENTS,Immunotherapy,Cancer Relapse,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0021493,C0598934,PREVENTS,"Injections, Intraperitoneal",tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0034386,C0027627,PREVENTS,Quarantine,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0006826,PREVENTS,Vaccination,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0027651,PREVENTS,Vaccination,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0032463,PREVENTS,Vaccination,Polycythemia Vera,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0042196,C0598934,PREVENTS,Vaccination,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0204727,C0027627,PREVENTS,Isolation procedure,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0280274,C2239176,PREVENTS,Antiviral Therapy,Liver carcinoma,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0281187,C0677898,PREVENTS,early detection of cervical cancer,invasive cancer,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0302189,C0178874,PREVENTS,Cell Therapy,Tumor Progression,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0454530,C0007114,PREVENTS,Ultraviolet B therapy,Malignant neoplasm of skin,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0520484,C0598934,PREVENTS,Xenograft procedure,tumor growth,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0543467,C0006826,PREVENTS,Operative Surgical Procedures,Malignant Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0547070,C0027651,PREVENTS,Ablation,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C0678812,C0027651,PREVENTS,systemic administration,Neoplasms,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1273412,C0178874,PREVENTS,Chinese herbal medicine,Tumor Progression,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1443861,C0027627,PREVENTS,Post-Exposure Prophylaxis,Neoplasm Metastasis,topp,neop,1,PREVENTS_TOPPprevNEOP
+C1443861,C1266119,PREVENTS,Post-Exposure Prophylaxis,Solitary fibrous tumor,topp,neop,1,PREVENTS_TOPPprevNEOP
+C2985566,C0178874,PREVENTS,Targeted Therapy,Tumor Progression,topp,neop,1,PREVENTS_TOPPprevNEOP

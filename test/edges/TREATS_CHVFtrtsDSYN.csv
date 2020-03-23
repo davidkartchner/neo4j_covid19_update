@@ -1,0 +1,152 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004635,C0032285,TREATS,bactericide,Pneumonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0004635,C0242994,TREATS,bactericide,Hantavirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0011740,C0042769,TREATS,Detergents,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033262,C0003864,TREATS,Prodrugs,Arthritis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033262,C0019247,TREATS,Prodrugs,Hereditary Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033262,C0206608,TREATS,Prodrugs,Flavivirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033262,C0282687,TREATS,Prodrugs,"Hemorrhagic Fever, Ebola",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033613,C0010414,TREATS,Protective Agents,Infection by Cryptococcus neoformans,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033613,C0023364,TREATS,Protective Agents,Leptospirosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0033613,C4055183,TREATS,Protective Agents,Contrast - Induced Nephropathy,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0085158,C0032080,TREATS,Agrochemicals,Plant Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0085403,C0028754,TREATS,Oxidants,Obesity,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0086466,C0008679,TREATS,Injectables,Chronic disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0004364,TREATS,antagonists,Autoimmune Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0009450,TREATS,antagonists,Communicable Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0021053,TREATS,antagonists,Immune System Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0027765,TREATS,antagonists,nervous system disorder,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0036690,TREATS,antagonists,Septicemia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243076,C0042769,TREATS,antagonists,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0002395,TREATS,inhibitors,Alzheimer's Disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0004623,TREATS,inhibitors,Bacterial Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0007222,TREATS,inhibitors,Cardiovascular Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0008312,TREATS,inhibitors,Primary biliary cirrhosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0009319,TREATS,inhibitors,Colitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0009450,TREATS,inhibitors,Communicable Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0011847,TREATS,inhibitors,Diabetes,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0011849,TREATS,inhibitors,Diabetes Mellitus,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0011860,TREATS,inhibitors,"Diabetes Mellitus, Non-Insulin-Dependent",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0014378,TREATS,inhibitors,Enterovirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0015696,TREATS,inhibitors,"Fatty Liver, Alcoholic",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0016667,TREATS,inhibitors,Fragile X Syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0019104,TREATS,inhibitors,"Hemorrhagic Fevers, Viral",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0019196,TREATS,inhibitors,Hepatitis C,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0019693,TREATS,inhibitors,HIV Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0020443,TREATS,inhibitors,Hypercholesterolemia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0020498,TREATS,inhibitors,"Hyperostosis, Diffuse Idiopathic Skeletal",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0021053,TREATS,inhibitors,Immune System Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0021400,TREATS,inhibitors,Influenza,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0024115,TREATS,inhibitors,Lung diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0024117,TREATS,inhibitors,Chronic Obstructive Airway Disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0024440,TREATS,inhibitors,"Macular Edema, Cystoid",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0025517,TREATS,inhibitors,Metabolic Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0026848,TREATS,inhibitors,Myopathy,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0029408,TREATS,inhibitors,Degenerative polyarthritis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0031887,TREATS,inhibitors,Picornaviridae Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0032285,TREATS,inhibitors,Pneumonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0032290,TREATS,inhibitors,Aspiration Pneumonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0035309,TREATS,inhibitors,Retinal Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0036330,TREATS,inhibitors,Schistosomiasis mansoni,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0041228,TREATS,inhibitors,African Trypanosomiasis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0041296,TREATS,inhibitors,Tuberculosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0042029,TREATS,inhibitors,Urinary tract infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0042769,TREATS,inhibitors,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0151317,TREATS,inhibitors,Chronic infectious disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0206750,TREATS,inhibitors,Coronavirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0242339,TREATS,inhibitors,Dyslipidemias,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0276289,TREATS,inhibitors,Zika Virus Infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0276500,TREATS,inhibitors,Human immunodeficiency virus I infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0282687,TREATS,inhibitors,"Hemorrhagic Fever, Ebola",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0341439,TREATS,inhibitors,Chronic liver disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0342895,TREATS,inhibitors,Fish-Eye Disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0729531,TREATS,inhibitors,Viral respiratory infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0730328,TREATS,inhibitors,Central Serous Chorioretinopathy,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C0751956,TREATS,inhibitors,Acute Cerebrovascular Accidents,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C1175175,TREATS,inhibitors,Severe Acute Respiratory Syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C1264606,TREATS,inhibitors,Persistent infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C1290884,TREATS,inhibitors,Inflammatory disorder,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C1443953,TREATS,inhibitors,Acute viral disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C2931826,TREATS,inhibitors,Potassium aggravated myotonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0243077,C3495919,TREATS,inhibitors,Enthesitis-Related Arthritis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0000817,TREATS,Agent,"Abortion, Septic",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0001311,TREATS,Agent,Acute bronchiolitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0001339,TREATS,Agent,Acute pancreatitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0002871,TREATS,Agent,Anemia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0003873,TREATS,Agent,Rheumatoid Arthritis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0004096,TREATS,Agent,Asthma,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0004364,TREATS,Agent,Autoimmune Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0006267,TREATS,Agent,Bronchiectasis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0006309,TREATS,Agent,Brucellosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0007222,TREATS,Agent,Cardiovascular Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0008679,TREATS,Agent,Chronic disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0009326,TREATS,Agent,Collagen Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0009450,TREATS,Agent,Communicable Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0010246,TREATS,Agent,Coxsackievirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0010823,TREATS,Agent,Cytomegalovirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0011847,TREATS,Agent,Diabetes,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0011849,TREATS,Agent,Diabetes Mellitus,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0014057,TREATS,Agent,Japanese Encephalitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0014175,TREATS,Agent,Endometriosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0016470,TREATS,Agent,Food Allergy,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0016627,TREATS,Agent,Influenza in Birds,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0018801,TREATS,Agent,Heart failure,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0018802,TREATS,Agent,Congestive heart failure,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0019163,TREATS,Agent,Hepatitis B,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0019693,TREATS,Agent,HIV Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0020538,TREATS,Agent,Hypertensive disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0021053,TREATS,Agent,Immune System Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0021390,TREATS,Agent,Inflammatory Bowel Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0021400,TREATS,Agent,Influenza,chvf,dsyn,2,TREATS_CHVFtrtsDSYN
+C0450442,C0022658,TREATS,Agent,Kidney Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0023281,TREATS,Agent,Leishmaniasis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0023895,TREATS,Agent,Liver diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0026769,TREATS,Agent,Multiple Sclerosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0026946,TREATS,Agent,Mycoses,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0030499,TREATS,Agent,Parasitic Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0032285,TREATS,Agent,Pneumonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0032371,TREATS,Agent,Poliomyelitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0035243,TREATS,Agent,Respiratory Tract Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0037354,TREATS,Agent,Smallpox,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0038160,TREATS,Agent,Staphylococcal Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0041227,TREATS,Agent,Trypanosomiasis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0042769,TREATS,Agent,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0043528,TREATS,Agent,Zoonoses,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0085437,TREATS,Agent,"Meningitis, Bacterial",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0085786,TREATS,Agent,Hamman-Rich syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0149725,TREATS,Agent,Lower respiratory tract infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0151317,TREATS,Agent,Chronic infectious disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0151650,TREATS,Agent,Renal fibrosis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0231341,TREATS,Agent,Premature aging syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0231567,TREATS,Agent,Bone resorption disorder,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0238190,TREATS,Agent,Inclusion Body Myositis (disorder),chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0270724,TREATS,Agent,Infantile Neuroaxonal Dystrophy,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0275524,TREATS,Agent,Coinfection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0339901,TREATS,Agent,Acute respiratory infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0442886,TREATS,Agent,Secondary Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0524851,TREATS,Agent,Neurodegenerative Disorders,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0740441,TREATS,Agent,Acute diarrhea,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0741103,TREATS,Agent,Allergy to antibiotic,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C0751967,TREATS,Agent,"Multiple Sclerosis, Relapsing-Remitting",chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C1175175,TREATS,Agent,Severe Acute Respiratory Syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C1258039,TREATS,Agent,Henipavirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C1535939,TREATS,Agent,Pneumocystis jiroveci pneumonia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C2317131,TREATS,Agent,Acute rhinosinusitis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C3266628,TREATS,Agent,Persistent asthma,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C3495919,TREATS,Agent,Enthesitis-Related Arthritis,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C3694279,TREATS,Agent,Middle East Respiratory Syndrome,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0450442,C3853962,TREATS,Agent,Enterovirus 71 infection,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0597061,C0343537,TREATS,neurotransmitter antagonist,Specific viral infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C0872051,C0021400,TREATS,ion channel blocker,Influenza,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1513403,C0004096,TREATS,Molecular Target,Asthma,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1513403,C0017205,TREATS,Molecular Target,Gaucher Disease,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1513403,C0206750,TREATS,Molecular Target,Coronavirus Infections,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1513403,C0524851,TREATS,Molecular Target,Neurodegenerative Disorders,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1519886,C0009450,TREATS,vaccine adjuvant,Communicable Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1519886,C0036690,TREATS,vaccine adjuvant,Septicemia,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1519886,C0042769,TREATS,vaccine adjuvant,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1550600,C0021390,TREATS,Ingredient,Inflammatory Bowel Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C1550600,C0021831,TREATS,Ingredient,Intestinal Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C2347609,C0042769,TREATS,Chemical Probe,Virus Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C2828102,C0017921,TREATS,Pharmacological Chaperone,Glycogen storage disease type II,chvf,dsyn,1,TREATS_CHVFtrtsDSYN
+C2828102,C0019247,TREATS,Pharmacological Chaperone,Hereditary Diseases,chvf,dsyn,1,TREATS_CHVFtrtsDSYN

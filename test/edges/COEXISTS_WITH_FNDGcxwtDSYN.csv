@@ -1,0 +1,1251 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000731,C0030446,COEXISTS_WITH,Abdomen distended,Paralytic Ileus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0003962,C0023890,COEXISTS_WITH,Ascites,Liver Cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0007166,C0020538,COEXISTS_WITH,Low Cardiac Output,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0007166,C0020542,COEXISTS_WITH,Low Cardiac Output,Pulmonary Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0008767,C0085786,COEXISTS_WITH,Cicatrization,Hamman-Rich syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0008767,C0206062,COEXISTS_WITH,Cicatrization,"Lung Diseases, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0008767,C0275518,COEXISTS_WITH,Cicatrization,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0010840,C0276093,COEXISTS_WITH,Vacuolation,Edema disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0010840,C1852373,COEXISTS_WITH,Vacuolation,Mitochondrial encephalopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0011071,C0014544,COEXISTS_WITH,Sudden death,Epilepsy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0011071,C0035235,COEXISTS_WITH,Sudden death,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0011071,C0040425,COEXISTS_WITH,Sudden death,Tonsillitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0011071,C0391922,COEXISTS_WITH,Sudden death,Hemorrhagic enteritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015663,C0343752,COEXISTS_WITH,Fasting,Acute HIV infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015663,C0600327,COEXISTS_WITH,Fasting,Toxic Shock Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015663,C0752304,COEXISTS_WITH,Fasting,Hypoxic-Ischemic Encephalopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015663,C4505456,COEXISTS_WITH,Fasting,HIV Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0004623,COEXISTS_WITH,Fever,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0006271,COEXISTS_WITH,Fever,Bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0009450,COEXISTS_WITH,Fever,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0009952,COEXISTS_WITH,Fever,Febrile Convulsions,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0021400,COEXISTS_WITH,Fever,Influenza,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0023364,COEXISTS_WITH,Fever,Leptospirosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0023530,COEXISTS_WITH,Fever,Leukopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0031256,COEXISTS_WITH,Fever,Petechiae,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0032285,COEXISTS_WITH,Fever,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0034150,COEXISTS_WITH,Fever,Purpura,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0035204,COEXISTS_WITH,Fever,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0041296,COEXISTS_WITH,Fever,Tuberculosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0042029,COEXISTS_WITH,Fever,Urinary tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0235896,COEXISTS_WITH,Fever,Pulmonary Infiltrate,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C0267446,COEXISTS_WITH,Fever,Acute gastroenteritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C1175175,COEXISTS_WITH,Fever,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C1701940,COEXISTS_WITH,Fever,"Pneumonia, Ventilator-Associated",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0015967,C3687301,COEXISTS_WITH,Fever,Bovine herpesvirus 1 infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0018932,C0009319,COEXISTS_WITH,Hematochezia,Colitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0001752,COEXISTS_WITH,Hemorrhage,African swine fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0011311,COEXISTS_WITH,Hemorrhage,Dengue Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0019069,COEXISTS_WITH,Hemorrhage,Hemophilia A,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0019087,COEXISTS_WITH,Hemorrhage,Hemorrhagic Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0040034,COEXISTS_WITH,Hemorrhage,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0206061,COEXISTS_WITH,Hemorrhage,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0272286,COEXISTS_WITH,Hemorrhage,Thrombocytopenia due to platelet alloimmunization,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0282687,COEXISTS_WITH,Hemorrhage,"Hemorrhagic Fever, Ebola",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0376300,COEXISTS_WITH,Hemorrhage,Dengue Shock Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0546817,COEXISTS_WITH,Hemorrhage,Fluid overload,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0549493,COEXISTS_WITH,Hemorrhage,Alveolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C0872315,COEXISTS_WITH,Hemorrhage,"Communicable Diseases, Emerging",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C1370824,COEXISTS_WITH,Hemorrhage,Interstitial emphysema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019080,C2750737,COEXISTS_WITH,Hemorrhage,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0019521,C0042740,COEXISTS_WITH,Hiccup,Viral syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020557,C0876991,COEXISTS_WITH,Hypertriglyceridemia,Histiocytosis haematophagic,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020598,C0010340,COEXISTS_WITH,Hypocalcemia,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020625,C0011175,COEXISTS_WITH,Hyponatremia,Dehydration,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020625,C0021141,COEXISTS_WITH,Hyponatremia,Inappropriate ADH Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020625,C0026936,COEXISTS_WITH,Hyponatremia,Mycoplasma Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020625,C0035243,COEXISTS_WITH,Hyponatremia,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020625,C0694549,COEXISTS_WITH,Hyponatremia,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020649,C0010054,COEXISTS_WITH,Hypotension,Coronary Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020649,C0010340,COEXISTS_WITH,Hypotension,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0020649,C0221043,COEXISTS_WITH,Hypotension,Liddle Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0022107,C0025290,COEXISTS_WITH,Irritable Mood,Aseptic Meningitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0023380,C0032285,COEXISTS_WITH,Lethargy,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0024032,C0743841,COEXISTS_WITH,Low Birth Weights,Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0027080,C0035078,COEXISTS_WITH,Myoglobinuria,Kidney Failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0027854,C0035243,COEXISTS_WITH,Neurologic Manifestations,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0027854,C0042769,COEXISTS_WITH,Neurologic Manifestations,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0027854,C0746556,COEXISTS_WITH,Neurologic Manifestations,metabolic disturbance,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0028084,C0010340,COEXISTS_WITH,Nightmares,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0029053,C0029132,COEXISTS_WITH,Decreased translucency,Disorder of the optic nerve,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0029053,C0275524,COEXISTS_WITH,Decreased translucency,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0030318,C0009952,COEXISTS_WITH,Panic,Febrile Convulsions,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0030318,C1175175,COEXISTS_WITH,Panic,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0004096,COEXISTS_WITH,Problem,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0009450,COEXISTS_WITH,Problem,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0015230,COEXISTS_WITH,Problem,Exanthema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0016627,COEXISTS_WITH,Problem,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0017160,COEXISTS_WITH,Problem,Gastroenteritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0021400,COEXISTS_WITH,Problem,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0024115,COEXISTS_WITH,Problem,Lung diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0024117,COEXISTS_WITH,Problem,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0042769,COEXISTS_WITH,Problem,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0043528,COEXISTS_WITH,Problem,Zoonoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0238288,COEXISTS_WITH,Problem,"Muscular Dystrophy, Facioscapulohumeral",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0275524,COEXISTS_WITH,Problem,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0282687,COEXISTS_WITH,Problem,"Hemorrhagic Fever, Ebola",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0694549,COEXISTS_WITH,Problem,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C0743841,COEXISTS_WITH,Problem,Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C1175175,COEXISTS_WITH,Problem,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C1856053,COEXISTS_WITH,Problem,Hydranencephaly with Renal Aplasia-Dysplasia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0033213,C3495919,COEXISTS_WITH,Problem,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0018801,COEXISTS_WITH,Stress,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0021400,COEXISTS_WITH,Stress,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0026918,COEXISTS_WITH,Stress,Mycobacterium Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0028754,COEXISTS_WITH,Stress,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0035235,COEXISTS_WITH,Stress,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0036690,COEXISTS_WITH,Stress,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0042769,COEXISTS_WITH,Stress,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0085695,COEXISTS_WITH,Stress,Chronic gastritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0149678,COEXISTS_WITH,Stress,Epstein-Barr Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0206750,COEXISTS_WITH,Stress,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0275522,COEXISTS_WITH,Stress,Asymptomatic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C0442867,COEXISTS_WITH,Stress,malignant disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038435,C1175175,COEXISTS_WITH,Stress,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038999,C0042769,COEXISTS_WITH,Swelling,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038999,C1175175,COEXISTS_WITH,Swelling,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0038999,C1698510,COEXISTS_WITH,Swelling,Bacterial otitis media,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0040434,C0020538,COEXISTS_WITH,Tooth Discoloration,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0041657,C0036690,COEXISTS_WITH,Unconscious State,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0041667,C0679247,COEXISTS_WITH,Underweight,Terminal illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0041667,C1290816,COEXISTS_WITH,Underweight,Post-weaning multisystemic wasting syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0043094,C0028754,COEXISTS_WITH,Weight Gain,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0043094,C0034063,COEXISTS_WITH,Weight Gain,Pulmonary Edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0043094,C0035222,COEXISTS_WITH,Weight Gain,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0080274,C0042384,COEXISTS_WITH,Urinary Retention,Vasculitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0085393,C0275518,COEXISTS_WITH,Immunocompromised Host,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0085393,C0311386,COEXISTS_WITH,Immunocompromised Host,Isosporiasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0085393,C0343398,COEXISTS_WITH,Immunocompromised Host,Cyclosporiasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0085639,C0019158,COEXISTS_WITH,Falls,Hepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0149610,C0035204,COEXISTS_WITH,ABNORMAL PHYSICAL FINDING,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151539,C0242528,COEXISTS_WITH,Blood urea increased,Azotemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151578,C0554309,COEXISTS_WITH,Creatinine increased,Prerenal uremia syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151683,C0001314,COEXISTS_WITH,Neutrophilia (finding),Acute Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151683,C0740304,COEXISTS_WITH,Neutrophilia (finding),copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151683,C0742343,COEXISTS_WITH,Neutrophilia (finding),Acute Chest Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151683,C1175175,COEXISTS_WITH,Neutrophilia (finding),Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151723,C0021390,COEXISTS_WITH,Hypomagnesemia,Inflammatory Bowel Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151723,C1561643,COEXISTS_WITH,Hypomagnesemia,Chronic Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151729,C0021400,COEXISTS_WITH,Increased immunoglobulin,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151889,C2902981,COEXISTS_WITH,Hyperreflexia,Neurogenic bladder dysfunction NOS,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0151905,C0035235,COEXISTS_WITH,Increased alanine aminotransferase,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0156543,C0032285,COEXISTS_WITH,Unspecified Abortion,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0156543,C0376538,COEXISTS_WITH,Unspecified Abortion,Porcine Reproductive and Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0184547,C1561643,COEXISTS_WITH,Altered immunity,Chronic Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0010674,COEXISTS_WITH,Thickened,Cystic Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0021831,COEXISTS_WITH,Thickened,Intestinal Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0026266,COEXISTS_WITH,Thickened,Mitral Valve Insufficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0033141,COEXISTS_WITH,Thickened,"Cardiomyopathies, Primary",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0206061,COEXISTS_WITH,Thickened,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0264383,COEXISTS_WITH,Thickened,Organized pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C0347950,COEXISTS_WITH,Thickened,Asthma attack,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0205400,C2074898,COEXISTS_WITH,Thickened,chronic Lung Inflammations,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0206076,C0004096,COEXISTS_WITH,Reproductive History,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0206076,C0009450,COEXISTS_WITH,Reproductive History,Communicable Diseases,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C0206076,C0035242,COEXISTS_WITH,Reproductive History,Respiratory Tract Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0206076,C0041296,COEXISTS_WITH,Reproductive History,Tuberculosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0206076,C0041327,COEXISTS_WITH,Reproductive History,"Tuberculosis, Pulmonary",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0206275,C0008679,COEXISTS_WITH,Widowhood,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0008312,COEXISTS_WITH,Lesion,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0009443,COEXISTS_WITH,Lesion,Common Cold,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0011871,COEXISTS_WITH,Lesion,Diabetic peripheral angiopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0018799,COEXISTS_WITH,Lesion,Heart Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0019191,COEXISTS_WITH,Lesion,Infectious Canine Hepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0020455,COEXISTS_WITH,Lesion,Hypergammaglobulinemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0022116,COEXISTS_WITH,Lesion,Ischemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0022658,COEXISTS_WITH,Lesion,Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0022661,COEXISTS_WITH,Lesion,"Kidney Failure, Chronic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0026691,COEXISTS_WITH,Lesion,Mucocutaneous Lymph Node Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0026769,COEXISTS_WITH,Lesion,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0030305,COEXISTS_WITH,Lesion,Pancreatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0035235,COEXISTS_WITH,Lesion,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0037199,COEXISTS_WITH,Lesion,Sinusitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0042384,COEXISTS_WITH,Lesion,Vasculitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0042769,COEXISTS_WITH,Lesion,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0175697,COEXISTS_WITH,Lesion,Van der Woude syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0206061,COEXISTS_WITH,Lesion,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0242528,COEXISTS_WITH,Lesion,Azotemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0275524,COEXISTS_WITH,Lesion,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0442886,COEXISTS_WITH,Lesion,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0748168,COEXISTS_WITH,Lesion,Pulmonary Pathology,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C0878544,COEXISTS_WITH,Lesion,Cardiomyopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C1852467,COEXISTS_WITH,Lesion,"Creutzfeldt-Jakob Disease, Sporadic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221198,C3686944,COEXISTS_WITH,Lesion,Bronchointerstitial pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221725,C0740304,COEXISTS_WITH,Obstruction of bronchus,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0221738,C0021053,COEXISTS_WITH,NONSPECIFIC REACTION,Immune System Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231162,C0042769,COEXISTS_WITH,Normal general body function,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C0015230,COEXISTS_WITH,Asymptomatic,Exanthema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C0023281,COEXISTS_WITH,Asymptomatic,Leishmaniasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C0023374,COEXISTS_WITH,Asymptomatic,Lesch-Nyhan Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C0206750,COEXISTS_WITH,Asymptomatic,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C1264606,COEXISTS_WITH,Asymptomatic,Persistent infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C2076600,COEXISTS_WITH,Asymptomatic,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231221,C3670470,COEXISTS_WITH,Asymptomatic,Perivasculitis of skin,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231224,C0009450,COEXISTS_WITH,Crisis,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231224,C0282687,COEXISTS_WITH,Crisis,"Hemorrhagic Fever, Ebola",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231224,C1175175,COEXISTS_WITH,Crisis,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231225,C0041912,COEXISTS_WITH,Pain crisis,Upper Respiratory Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0010392,COEXISTS_WITH,Senility,Crush syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0011847,COEXISTS_WITH,Senility,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0020097,COEXISTS_WITH,Senility,HTLV-I Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0022660,COEXISTS_WITH,Senility,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0035204,COEXISTS_WITH,Senility,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0151317,COEXISTS_WITH,Senility,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0524851,COEXISTS_WITH,Senility,Neurodegenerative Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C0740304,COEXISTS_WITH,Senility,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C1370824,COEXISTS_WITH,Senility,Interstitial emphysema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C1561643,COEXISTS_WITH,Senility,Chronic Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C3694279,COEXISTS_WITH,Senility,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231337,C3874414,COEXISTS_WITH,Senility,Human metapneumovirus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231686,C0014038,COEXISTS_WITH,"Gait, Unsteady",Encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231686,C0027765,COEXISTS_WITH,"Gait, Unsteady",nervous system disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231901,C0022660,COEXISTS_WITH,Intraabdominal pressure,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0231911,C0043167,COEXISTS_WITH,Paroxysmal cough,Pertussis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232310,C0018799,COEXISTS_WITH,P mitrale (finding),Heart Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232459,C0019101,COEXISTS_WITH,Abnormal digestive tract function,Hemorrhagic Fever with Renal Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232459,C0036992,COEXISTS_WITH,Abnormal digestive tract function,Short Bowel Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232459,C0242994,COEXISTS_WITH,Abnormal digestive tract function,Hantavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232459,C0267963,COEXISTS_WITH,Abnormal digestive tract function,Exocrine pancreatic insufficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0232807,C0035078,COEXISTS_WITH,Decreased renal function,Kidney Failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0233174,C0021400,COEXISTS_WITH,Synclitism,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0233481,C0021400,COEXISTS_WITH,Worried,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0233481,C1175175,COEXISTS_WITH,Worried,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0233481,C2076600,COEXISTS_WITH,Worried,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0233849,C0007570,COEXISTS_WITH,Personality Traits,Celiac Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0234543,C0751523,COEXISTS_WITH,Post-ictal state,Non-Convulsive Status Epilepticus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0234866,C0010380,COEXISTS_WITH,Barking cough,Croup,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0234918,C0275518,COEXISTS_WITH,Morbilliform rash,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0235061,C0016514,COEXISTS_WITH,POLIO-LIKE PARALYSIS,Foot-and-Mouth Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0235109,C1175175,COEXISTS_WITH,Mental distress,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0235855,C0178238,COEXISTS_WITH,sepsis secondary,Intestinal infectious disease (disorder),fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0235874,C0004096,COEXISTS_WITH,Disease Exacerbation,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0238200,C0021390,COEXISTS_WITH,INVASIVE ESCHERICHIA COLI,Inflammatory Bowel Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239126,C0004096,COEXISTS_WITH,corticosteroid use,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239126,C0032310,COEXISTS_WITH,corticosteroid use,"Pneumonia, Viral",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239202,C0035222,COEXISTS_WITH,"Dyspnea, progressive","Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239516,C0018378,COEXISTS_WITH,Unilateral facial paralysis,Guillain-Barre Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239573,C0275518,COEXISTS_WITH,"Fever, high-grade",Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239573,C0872315,COEXISTS_WITH,"Fever, high-grade","Communicable Diseases, Emerging",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239574,C0275518,COEXISTS_WITH,Low grade fever,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239981,C0020538,COEXISTS_WITH,Hypoalbuminemia,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239981,C0021831,COEXISTS_WITH,Hypoalbuminemia,Intestinal Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239981,C0027726,COEXISTS_WITH,Hypoalbuminemia,Nephrotic Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239984,C0042769,COEXISTS_WITH,Increased IgA level,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239997,C0009663,COEXISTS_WITH,Maternal infection,Condylomata Acuminata,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239997,C0747845,COEXISTS_WITH,Maternal infection,early pregnancy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239998,C0006267,COEXISTS_WITH,Recurrent infections,Bronchiectasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239998,C0015674,COEXISTS_WITH,Recurrent infections,Chronic Fatigue Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239998,C0019247,COEXISTS_WITH,Recurrent infections,Hereditary Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0239998,C0264220,COEXISTS_WITH,Recurrent infections,Chronic disease of respiratory system,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0240417,C0010340,COEXISTS_WITH,Form of muscle,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0240421,C1839615,COEXISTS_WITH,Progressive muscle weakness,X-linked myopathy with excessive autophagy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0240607,C0011311,COEXISTS_WITH,orbital pain,Dengue Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0240618,C0042769,COEXISTS_WITH,ozone exposure,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241115,C0729552,COEXISTS_WITH,red skin lesion,Genital infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241224,C0014059,COEXISTS_WITH,Spinal cord lesion,"Encephalomyelitis, Acute Disseminated",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241224,C0026769,COEXISTS_WITH,Spinal cord lesion,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241334,C0856238,COEXISTS_WITH,TEMPERATE CLIMATE,influenza (epidemic),fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241526,C0151317,COEXISTS_WITH,Unresponsiveness,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241657,C0023092,COEXISTS_WITH,Abnormality of the vasculature,Lassa Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0241863,C3888198,COEXISTS_WITH,diabetic,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0259752,C0022638,COEXISTS_WITH,Hyperosmolarity,Ketosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0262926,C0004096,COEXISTS_WITH,Medical History,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0262926,C0007570,COEXISTS_WITH,Medical History,Celiac Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0262926,C0747676,COEXISTS_WITH,Medical History,pneumonia childhood,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277608,C1565489,COEXISTS_WITH,Death in hospital,Renal Insufficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277653,C0042769,COEXISTS_WITH,Fratricide,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277786,C0004245,COEXISTS_WITH,Chief complaint (finding),Atrioventricular Block,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277786,C0021400,COEXISTS_WITH,Chief complaint (finding),Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277786,C0037052,COEXISTS_WITH,Chief complaint (finding),Sick Sinus Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277786,C0746883,COEXISTS_WITH,Chief complaint (finding),Febrile Neutropenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0277814,C0008049,COEXISTS_WITH,Sitting position,Chickenpox,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278250,C0035235,COEXISTS_WITH,Prognosis good,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0004626,COEXISTS_WITH,Prognosis bad,"Pneumonia, Bacterial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0007222,COEXISTS_WITH,Prognosis bad,Cardiovascular Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0008370,COEXISTS_WITH,Prognosis bad,Cholestasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0009763,COEXISTS_WITH,Prognosis bad,Conjunctivitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0020456,COEXISTS_WITH,Prognosis bad,Hyperglycemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0020542,COEXISTS_WITH,Prognosis bad,Pulmonary Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0032326,COEXISTS_WITH,Prognosis bad,Pneumothorax,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0033141,COEXISTS_WITH,Prognosis bad,"Cardiomyopathies, Primary",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0035222,COEXISTS_WITH,Prognosis bad,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0040034,COEXISTS_WITH,Prognosis bad,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0042024,COEXISTS_WITH,Prognosis bad,Urinary Incontinence,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0042384,COEXISTS_WITH,Prognosis bad,Vasculitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0271429,COEXISTS_WITH,Prognosis bad,Acute otitis media,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0275524,COEXISTS_WITH,Prognosis bad,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0341439,COEXISTS_WITH,Prognosis bad,Chronic liver disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0405580,COEXISTS_WITH,Prognosis bad,Adrenal cortical hypofunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C0856825,COEXISTS_WITH,Prognosis bad,Acute GVH disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C1688637,COEXISTS_WITH,Prognosis bad,Intraoperative floppy iris syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C1719672,COEXISTS_WITH,Prognosis bad,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278252,C1832661,COEXISTS_WITH,Prognosis bad,ANOPHTHALMIA AND PULMONARY HYPOPLASIA,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0278253,C0020542,COEXISTS_WITH,Guarded prognosis,Pulmonary Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0311395,C0037299,COEXISTS_WITH,Lameness,Skin Ulcer,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0311395,C3670036,COEXISTS_WITH,Lameness,Pituitary pars intermedia dysfunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0311422,C0017658,COEXISTS_WITH,Increased fluid pressure,Glomerulonephritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0332509,C0042769,COEXISTS_WITH,Increased size (finding),Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0332575,C0009450,COEXISTS_WITH,Redness,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0332575,C0020498,COEXISTS_WITH,Redness,"Hyperostosis, Diffuse Idiopathic Skeletal",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0332575,C0035235,COEXISTS_WITH,Redness,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333350,C0003873,COEXISTS_WITH,Pannus,Rheumatoid Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0009450,COEXISTS_WITH,Acute inflammation,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0035222,COEXISTS_WITH,Acute inflammation,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0035243,COEXISTS_WITH,Acute inflammation,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0042721,COEXISTS_WITH,Acute inflammation,Viral hepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0042769,COEXISTS_WITH,Acute inflammation,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0085786,COEXISTS_WITH,Acute inflammation,Hamman-Rich syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0333361,C0243010,COEXISTS_WITH,Acute inflammation,Viral Encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0338656,C0010418,COEXISTS_WITH,Impaired cognition,Cryptosporidiosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0338656,C0015674,COEXISTS_WITH,Impaired cognition,Chronic Fatigue Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0338656,C0027765,COEXISTS_WITH,Impaired cognition,nervous system disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0342952,C0010340,COEXISTS_WITH,Hypermetabolism,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0344232,C0019693,COEXISTS_WITH,Blurred vision,HIV Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349482,C0004903,COEXISTS_WITH,High birth weight,Beckwith-Wiedemann Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0004096,COEXISTS_WITH,Exacerbation of asthma,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0024117,COEXISTS_WITH,Exacerbation of asthma,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0035243,COEXISTS_WITH,Exacerbation of asthma,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0041912,COEXISTS_WITH,Exacerbation of asthma,Upper Respiratory Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0042769,COEXISTS_WITH,Exacerbation of asthma,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0349790,C0149725,COEXISTS_WITH,Exacerbation of asthma,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0376618,C0036690,COEXISTS_WITH,Endotoxemia,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0376618,C1719672,COEXISTS_WITH,Endotoxemia,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0376705,C0043124,COEXISTS_WITH,Viral Load result,West Nile Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0403723,C0011849,COEXISTS_WITH,Candiduria,Diabetes Mellitus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0403723,C0042075,COEXISTS_WITH,Candiduria,Urologic Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0403723,C1373218,COEXISTS_WITH,Candiduria,Decreased Immunologic Activity [PE],fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0412771,C0035222,COEXISTS_WITH,Spontaneous respiration,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0422837,C0020538,COEXISTS_WITH,Neurological observations,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0423421,C0008780,COEXISTS_WITH,Atrophic macular change,Ciliary Motility Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0423421,C0854723,COEXISTS_WITH,Atrophic macular change,Retinal Dystrophies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424099,C0036690,COEXISTS_WITH,Reduced concentration,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424295,C0024291,COEXISTS_WITH,Hyperactive behavior,"Lymphohistiocytosis, Hemophagocytic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424316,C0035222,COEXISTS_WITH,Exuberance,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424316,C0035243,COEXISTS_WITH,Exuberance,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424543,C0032768,COEXISTS_WITH,Response to pain finding,Postherpetic neuralgia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424561,C0007222,COEXISTS_WITH,Bleeds profusely,Cardiovascular Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424589,C0011849,COEXISTS_WITH,Vitality,Diabetes Mellitus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424589,C0015674,COEXISTS_WITH,Vitality,Chronic Fatigue Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0424768,C0032302,COEXISTS_WITH,Prolonged fever,Mycoplasma pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0425382,C0042769,COEXISTS_WITH,Personal status - Adopted,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0425514,C0740304,COEXISTS_WITH,Sputum volume,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0426857,C0024141,COEXISTS_WITH,Short arm,"Lupus Erythematosus, Systemic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0427184,C0042769,COEXISTS_WITH,No incoordination,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0427457,C0024312,COEXISTS_WITH,RBC count low,Lymphopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0427564,C0010340,COEXISTS_WITH,Platelet count normal,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428167,C0521530,COEXISTS_WITH,Inspired fraction of oxygen,Lung consolidation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428776,C0020542,COEXISTS_WITH,Cardiac index,Pulmonary Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428776,C0036690,COEXISTS_WITH,Cardiac index,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428776,C0878544,COEXISTS_WITH,Cardiac index,Cardiomyopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428886,C0242966,COEXISTS_WITH,Mean blood pressure,Systemic Inflammatory Response Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0428886,C1290884,COEXISTS_WITH,Mean blood pressure,Inflammatory disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0429029,C0151814,COEXISTS_WITH,ST segment,Coronary Occlusion,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0429706,C0008677,COEXISTS_WITH,Forced expiratory volume in 1 second finding,"Bronchitis, Chronic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0429706,C0024117,COEXISTS_WITH,Forced expiratory volume in 1 second finding,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0429807,C0878773,COEXISTS_WITH,Bladder capacity,Overactive Bladder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0429826,C3160917,COEXISTS_WITH,Dysfunctional voiding of urine,Bladder Pain Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436331,C0206019,COEXISTS_WITH,Symptom aggravating factors,HIV Encephalopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C0035204,COEXISTS_WITH,Symptom mild,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C0035243,COEXISTS_WITH,Symptom mild,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C0040558,COEXISTS_WITH,Symptom mild,Toxoplasmosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C0276289,COEXISTS_WITH,Symptom mild,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C0276447,COEXISTS_WITH,Symptom mild,Rhinovirus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C1175175,COEXISTS_WITH,Symptom mild,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C3694279,COEXISTS_WITH,Symptom mild,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436343,C3874414,COEXISTS_WITH,Symptom mild,Human metapneumovirus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0004096,COEXISTS_WITH,Symptom severe,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0004623,COEXISTS_WITH,Symptom severe,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0008679,COEXISTS_WITH,Symptom severe,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0021400,COEXISTS_WITH,Symptom severe,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0032285,COEXISTS_WITH,Symptom severe,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0206750,COEXISTS_WITH,Symptom severe,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C0275524,COEXISTS_WITH,Symptom severe,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C1175175,COEXISTS_WITH,Symptom severe,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436345,C2062441,COEXISTS_WITH,Symptom severe,Influenza A,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0436503,C0025517,COEXISTS_WITH,Standard chest X-ray abnormal,Metabolic Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0438717,C0019189,COEXISTS_WITH,Transaminases increased,"Hepatitis, Chronic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442726,C0009450,COEXISTS_WITH,Detected (finding),Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442726,C0275524,COEXISTS_WITH,Detected (finding),Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442731,C0263541,COEXISTS_WITH,Strains different,Equine laminitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442743,C0023794,COEXISTS_WITH,Noninflammatory,Lipoidosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442743,C0037274,COEXISTS_WITH,Noninflammatory,Dermatologic disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442743,C3670865,COEXISTS_WITH,Noninflammatory,Alopecia X,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442743,C3672027,COEXISTS_WITH,Noninflammatory,Reactive hepatopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442749,C0021400,COEXISTS_WITH,6/5,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442749,C0032285,COEXISTS_WITH,6/5,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442749,C0694549,COEXISTS_WITH,6/5,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442759,C0432252,COEXISTS_WITH,3/6,Osteoporosis with pseudoglioma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442760,C2750737,COEXISTS_WITH,3/9,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0442794,C0016627,COEXISTS_WITH,N48,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0443213,C0006271,COEXISTS_WITH,Extrusion,Bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449381,C0024282,COEXISTS_WITH,Observation parameter,Lymphocytosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0008312,COEXISTS_WITH,Causative_agents,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0021831,COEXISTS_WITH,Causative_agents,Intestinal Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0026769,COEXISTS_WITH,Causative_agents,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0032285,COEXISTS_WITH,Causative_agents,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0035243,COEXISTS_WITH,Causative_agents,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0042769,COEXISTS_WITH,Causative_agents,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0149725,COEXISTS_WITH,Causative_agents,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0449411,C0275524,COEXISTS_WITH,Causative_agents,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0450093,C0021400,COEXISTS_WITH,Very large,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0455610,C0567439,COEXISTS_WITH,H/O: surgery,Genetic syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0455825,C0853897,COEXISTS_WITH,Left ventricular mass,Diabetic Cardiomyopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0456240,C0036690,COEXISTS_WITH,Core body temperature,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0456541,C0028432,COEXISTS_WITH,Nasal deviation,Nose Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0457776,C0025164,COEXISTS_WITH,Functional occlusion,Megaesophagus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0458247,C0442874,COEXISTS_WITH,Allodynia,Neuropathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0459190,C0018133,COEXISTS_WITH,Arch trunk position,Graft-vs-Host Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0459425,C3824825,COEXISTS_WITH,Indeterminate result,SARS (Disease),fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0459868,C0085436,COEXISTS_WITH,First relationship,"Meningitis, Cryptococcal",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0475269,C0024530,COEXISTS_WITH,Tumor grade G1,Malaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0476442,C0206750,COEXISTS_WITH,High antibody titer,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0489749,C0042749,COEXISTS_WITH,Rectal temperature,Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0497156,C0275518,COEXISTS_WITH,Lymphadenopathy,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0497247,C0028756,COEXISTS_WITH,Increase in blood pressure,"Obesity, Morbid",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0517627,C0024530,COEXISTS_WITH,Infection status,Malaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0517627,C0206750,COEXISTS_WITH,Infection status,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518003,C0152230,COEXISTS_WITH,autonomic function,Cholinergic urticaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518010,C0021400,COEXISTS_WITH,body mass,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518010,C0275524,COEXISTS_WITH,body mass,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518505,C0019112,COEXISTS_WITH,Does shave (finding),Hemorrhoids,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C0001752,COEXISTS_WITH,consideration,African swine fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C0009450,COEXISTS_WITH,consideration,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C0021051,COEXISTS_WITH,consideration,Immunologic Deficiency Syndromes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C0042769,COEXISTS_WITH,consideration,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C0270724,COEXISTS_WITH,consideration,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C1175175,COEXISTS_WITH,consideration,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0518609,C3495919,COEXISTS_WITH,consideration,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0521654,C0026769,COEXISTS_WITH,Neurologic Deficits,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0521654,C3495919,COEXISTS_WITH,Neurologic Deficits,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522224,C0014070,COEXISTS_WITH,Paralysed,Encephalomyelitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522224,C0015469,COEXISTS_WITH,Paralysed,Facial paralysis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522224,C0018378,COEXISTS_WITH,Paralysed,Guillain-Barre Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522224,C0021051,COEXISTS_WITH,Paralysed,Immunologic Deficiency Syndromes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522224,C1175175,COEXISTS_WITH,Paralysed,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522567,C0151798,COEXISTS_WITH,Mild inflammation,Hepatic necrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522567,C1290344,COEXISTS_WITH,Mild inflammation,Nonspecific interstitial pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0029118,COEXISTS_WITH,Severe inflammation,Opportunistic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0032285,COEXISTS_WITH,Severe inflammation,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0035235,COEXISTS_WITH,Severe inflammation,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0036690,COEXISTS_WITH,Severe inflammation,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0042769,COEXISTS_WITH,Severe inflammation,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0206750,COEXISTS_WITH,Severe inflammation,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0275782,COEXISTS_WITH,Severe inflammation,Fowl typhoid,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C0339901,COEXISTS_WITH,Severe inflammation,Acute respiratory infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0522569,C1175175,COEXISTS_WITH,Severe inflammation,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0541749,C0042769,COEXISTS_WITH,Does turn (finding),Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0541794,C0013264,COEXISTS_WITH,Skeletal muscle atrophy,"Muscular Dystrophy, Duchenne",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0541794,C0026848,COEXISTS_WITH,Skeletal muscle atrophy,Myopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0541875,C0003873,COEXISTS_WITH,destruction joint,Rheumatoid Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0542042,C0014070,COEXISTS_WITH,IMMUNE IMBALANCE,Encephalomyelitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0542571,C0019158,COEXISTS_WITH,Facial edema,Hepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0542571,C0031256,COEXISTS_WITH,Facial edema,Petechiae,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0542571,C0878624,COEXISTS_WITH,Facial edema,lung cavity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C0035222,COEXISTS_WITH,Sequela of disorder,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C0085437,COEXISTS_WITH,Sequela of disorder,"Meningitis, Bacterial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C0275522,COEXISTS_WITH,Sequela of disorder,Asymptomatic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C0276289,COEXISTS_WITH,Sequela of disorder,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C1175175,COEXISTS_WITH,Sequela of disorder,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C1518296,COEXISTS_WITH,Sequela of disorder,Neuropathogenesis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0543419,C3694279,COEXISTS_WITH,Sequela of disorder,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0544077,C0032285,COEXISTS_WITH,"Etiology, secondary",Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0544452,C0263338,COEXISTS_WITH,Disease remission,Chronic urticaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0549409,C0040034,COEXISTS_WITH,Packed cell volume increased,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0549649,C0035243,COEXISTS_WITH,MISUSE,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0554101,C1290807,COEXISTS_WITH,Villous atrophy,Diarrheal disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0556044,C1260386,COEXISTS_WITH,Amino acid requirement,Glucocorticoid-remediable aldosteronism,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0556223,C0004096,COEXISTS_WITH,Vegetable intake,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0557090,C1175175,COEXISTS_WITH,Closest relatives,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0558141,C1854469,COEXISTS_WITH,Transsexual (finding),Noonan Syndrome 2,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0560175,C0275518,COEXISTS_WITH,Carrier of disorder,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0560219,C0023895,COEXISTS_WITH,Alcohol intake above recommended sensible limits,Liver diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0566001,C3694279,COEXISTS_WITH,Does communicate,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0566701,C0000786,COEXISTS_WITH,Placenta infected,Spontaneous abortion,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0577914,C0042769,COEXISTS_WITH,Lung finding,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0578022,C0010054,COEXISTS_WITH,Finding of body mass index,Coronary Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0578022,C0948008,COEXISTS_WITH,Finding of body mass index,Ischemic stroke,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0578671,C0042769,COEXISTS_WITH,Does move,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0595929,C0011847,COEXISTS_WITH,Serum cholesterol raised,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0595929,C0011860,COEXISTS_WITH,Serum cholesterol raised,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0598463,C0024117,COEXISTS_WITH,Functional Status,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0598463,C0340044,COEXISTS_WITH,Functional Status,Acute exacerbation of chronic obstructive airways disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0600109,C0021400,COEXISTS_WITH,Willing,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0600109,C1175175,COEXISTS_WITH,Willing,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0677874,C0042769,COEXISTS_WITH,In complete remission,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0677946,C0024117,COEXISTS_WITH,Stable Disease,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679246,C0010674,COEXISTS_WITH,advanced disease,Cystic Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679246,C0035243,COEXISTS_WITH,advanced disease,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679246,C0275524,COEXISTS_WITH,advanced disease,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679250,C0042769,COEXISTS_WITH,Disease Outcome,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679250,C0275518,COEXISTS_WITH,Disease Outcome,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0679250,C1384600,COEXISTS_WITH,Disease Outcome,Systemic onset juvenile chronic arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0682132,C0001622,COEXISTS_WITH,regional difference,Adrenal Gland Hyperfunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0682132,C0277548,COEXISTS_WITH,regional difference,Epidemic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0682141,C0008679,COEXISTS_WITH,Religious affiliation,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683314,C0031350,COEXISTS_WITH,personal health,Pharyngitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683317,C0024115,COEXISTS_WITH,activity level,Lung diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683320,C0270724,COEXISTS_WITH,unwellness,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683321,C1657111,COEXISTS_WITH,poor health,non specific disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683521,C0018801,COEXISTS_WITH,patient condition,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683836,C1175175,COEXISTS_WITH,Source of information,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683954,C0009450,COEXISTS_WITH,research results,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683954,C0017178,COEXISTS_WITH,research results,Gastrointestinal Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683954,C0267792,COEXISTS_WITH,research results,hepatobiliary disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0683954,C0376538,COEXISTS_WITH,research results,Porcine Reproductive and Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0686744,C0021400,COEXISTS_WITH,Well child,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0686744,C0035243,COEXISTS_WITH,Well child,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0686744,C0149725,COEXISTS_WITH,Well child,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0686744,C0275524,COEXISTS_WITH,Well child,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0686744,C1145670,COEXISTS_WITH,Well child,Respiratory Failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700292,C0006271,COEXISTS_WITH,Hypoxemia,Bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700292,C0035222,COEXISTS_WITH,Hypoxemia,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700292,C0042769,COEXISTS_WITH,Hypoxemia,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700292,C0472390,COEXISTS_WITH,Hypoxemia,High altitude cerebral edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700572,C0029408,COEXISTS_WITH,Reduced mobility,Degenerative polyarthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0700572,C0151317,COEXISTS_WITH,Reduced mobility,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0728725,C1175175,COEXISTS_WITH,Low pH,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0728899,C0039614,COEXISTS_WITH,Intoxication,Tetanus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0730261,C1175175,COEXISTS_WITH,Attending clinic,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743284,C0009450,COEXISTS_WITH,drug exposure,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743626,C3694279,COEXISTS_WITH,etiology unknown,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0004096,COEXISTS_WITH,exacerbation acute,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0024117,COEXISTS_WITH,exacerbation acute,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0032285,COEXISTS_WITH,exacerbation acute,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0034069,COEXISTS_WITH,exacerbation acute,Pulmonary Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0042769,COEXISTS_WITH,exacerbation acute,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C0206062,COEXISTS_WITH,exacerbation acute,"Lung Diseases, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0743630,C3280586,COEXISTS_WITH,exacerbation acute,Mannose-Binding Protein Deficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0745041,C0035869,COEXISTS_WITH,prolonged hospitalization,Rotavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0745242,C0007570,COEXISTS_WITH,Immunoglobulin deficiency,Celiac Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0746619,C0016627,COEXISTS_WITH,monoclonal,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0746619,C0024291,COEXISTS_WITH,monoclonal,"Lymphohistiocytosis, Hemophagocytic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750394,C0004610,COEXISTS_WITH,White blood cell count decreased,Bacteremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C0016627,COEXISTS_WITH,Confirmation,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C0276045,COEXISTS_WITH,Confirmation,Contagious caprine pleuropneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C0694549,COEXISTS_WITH,Confirmation,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C0878751,COEXISTS_WITH,Confirmation,late pregnancy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C2931826,COEXISTS_WITH,Confirmation,Potassium aggravated myotonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750484,C3694279,COEXISTS_WITH,Confirmation,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C0011847,COEXISTS_WITH,Unlikely,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C0035235,COEXISTS_WITH,Unlikely,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C0085786,COEXISTS_WITH,Unlikely,Hamman-Rich syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C1175175,COEXISTS_WITH,Unlikely,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C1853566,COEXISTS_WITH,Unlikely,Genitopatellar Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0750558,C3160718,COEXISTS_WITH,Unlikely,"PARKINSON DISEASE, LATE-ONSET",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0751054,C0743841,COEXISTS_WITH,"Consciousness, Level Altered",Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0795692,C0349489,COEXISTS_WITH,Hyperlactatemia,Fetal Hypoxia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0796572,C0276138,COEXISTS_WITH,Hematogenous spread,Viral myocarditis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0847557,C0042769,COEXISTS_WITH,Decrease lung function,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0853068,C0020676,COEXISTS_WITH,Decreased glomerular filtration rate,Hypothyroidism,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0853068,C0036690,COEXISTS_WITH,Decreased glomerular filtration rate,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0853068,C0271803,COEXISTS_WITH,Decreased glomerular filtration rate,Iatrogenic hypothyroidism,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0853068,C1561643,COEXISTS_WITH,Decreased glomerular filtration rate,Chronic Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0860603,C3694279,COEXISTS_WITH,Anxiety symptoms,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0868658,C2076600,COEXISTS_WITH,health advice,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0877006,C0036690,COEXISTS_WITH,cholinesterase inhibition,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C0947313,C0035243,COEXISTS_WITH,History of immunization,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0004364,COEXISTS_WITH,Weight decreased,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0018133,COEXISTS_WITH,Weight decreased,Graft-vs-Host Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0034063,COEXISTS_WITH,Weight decreased,Pulmonary Edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0035235,COEXISTS_WITH,Weight decreased,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0036690,COEXISTS_WITH,Weight decreased,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0151317,COEXISTS_WITH,Weight decreased,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C0275518,COEXISTS_WITH,Weight decreased,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C1290816,COEXISTS_WITH,Weight decreased,Post-weaning multisystemic wasting syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C1719672,COEXISTS_WITH,Weight decreased,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1262477,C3874414,COEXISTS_WITH,Weight decreased,Human metapneumovirus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1275743,C0001622,COEXISTS_WITH,Co-morbid conditions,Adrenal Gland Hyperfunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1275743,C0035235,COEXISTS_WITH,Co-morbid conditions,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1281905,C0520679,COEXISTS_WITH,At risk of disease,"Sleep Apnea, Obstructive",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1287347,C0242994,COEXISTS_WITH,Finding of serum electrolyte levels,Hantavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0004096,COEXISTS_WITH,Discrepancy,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0021400,COEXISTS_WITH,Discrepancy,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0022661,COEXISTS_WITH,Discrepancy,"Kidney Failure, Chronic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0023281,COEXISTS_WITH,Discrepancy,Leishmaniasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0042769,COEXISTS_WITH,Discrepancy,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0206750,COEXISTS_WITH,Discrepancy,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0276289,COEXISTS_WITH,Discrepancy,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290905,C0343752,COEXISTS_WITH,Discrepancy,Acute HIV infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290916,C0032300,COEXISTS_WITH,Radiologic finding,Lobar Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1290916,C0264490,COEXISTS_WITH,Radiologic finding,Acute respiratory failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299448,C0035222,COEXISTS_WITH,Patient ventilated,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0001311,COEXISTS_WITH,Has difficulty doing (qualifier value),Acute bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0009450,COEXISTS_WITH,Has difficulty doing (qualifier value),Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0010340,COEXISTS_WITH,Has difficulty doing (qualifier value),Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0015230,COEXISTS_WITH,Has difficulty doing (qualifier value),Exanthema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0016627,COEXISTS_WITH,Has difficulty doing (qualifier value),Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0030305,COEXISTS_WITH,Has difficulty doing (qualifier value),Pancreatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0034063,COEXISTS_WITH,Has difficulty doing (qualifier value),Pulmonary Edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0036690,COEXISTS_WITH,Has difficulty doing (qualifier value),Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0042749,COEXISTS_WITH,Has difficulty doing (qualifier value),Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0042769,COEXISTS_WITH,Has difficulty doing (qualifier value),Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0149725,COEXISTS_WITH,Has difficulty doing (qualifier value),Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0151317,COEXISTS_WITH,Has difficulty doing (qualifier value),Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0242852,COEXISTS_WITH,Has difficulty doing (qualifier value),Proliferative vitreoretinopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0275524,COEXISTS_WITH,Has difficulty doing (qualifier value),Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C0340427,COEXISTS_WITH,Has difficulty doing (qualifier value),Familial dilated cardiomyopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C1373218,COEXISTS_WITH,Has difficulty doing (qualifier value),Decreased Immunologic Activity [PE],fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C1535917,COEXISTS_WITH,Has difficulty doing (qualifier value),Nipah Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C2076600,COEXISTS_WITH,Has difficulty doing (qualifier value),Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C2936328,COEXISTS_WITH,Has difficulty doing (qualifier value),Neglected Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C3495919,COEXISTS_WITH,Has difficulty doing (qualifier value),Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C3863587,COEXISTS_WITH,Has difficulty doing (qualifier value),enterovirus d68 infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C4288963,COEXISTS_WITH,Has difficulty doing (qualifier value),Hepatitis C Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1299586,C4290000,COEXISTS_WITH,Has difficulty doing (qualifier value),Acute Flaccid Myelitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1306857,C0151317,COEXISTS_WITH,Hyperglobulinemia,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1306857,C0267988,COEXISTS_WITH,Hyperglobulinemia,Hyperproteinemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1317600,C0035585,COEXISTS_WITH,patient symptoms,Rickettsia Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1318963,C0009450,COEXISTS_WITH,Readiness,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1318963,C0021400,COEXISTS_WITH,Readiness,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1318963,C0154830,COEXISTS_WITH,Readiness,Proliferative diabetic retinopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1318963,C0270724,COEXISTS_WITH,Readiness,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0015230,COEXISTS_WITH,Incubation period,Exanthema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0032285,COEXISTS_WITH,Incubation period,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0042749,COEXISTS_WITH,Incubation period,Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0042769,COEXISTS_WITH,Incubation period,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0679247,COEXISTS_WITH,Incubation period,Terminal illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C0877203,COEXISTS_WITH,Incubation period,Viral Respiratory Tract Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C1175175,COEXISTS_WITH,Incubation period,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320226,C3694279,COEXISTS_WITH,Incubation period,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1320716,C0020538,COEXISTS_WITH,Cardiovascular event,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1334016,C0035112,COEXISTS_WITH,High Grade Lesion,Reoviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1334016,C0849867,COEXISTS_WITH,High Grade Lesion,Widespread Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1334819,C0004364,COEXISTS_WITH,Multifocal Lesion,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1382398,C0019101,COEXISTS_WITH,Increased capillary permeability (finding),Hemorrhagic Fever with Renal Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1411275,C0042769,COEXISTS_WITH,Sick person,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1442858,C0018799,COEXISTS_WITH,Surgical fistula,Heart Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1446614,C0042769,COEXISTS_WITH,Convergent gaze,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1446614,C3694279,COEXISTS_WITH,Convergent gaze,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0004096,COEXISTS_WITH,Worse,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0004623,COEXISTS_WITH,Worse,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0024117,COEXISTS_WITH,Worse,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0030389,COEXISTS_WITH,Worse,Parainfluenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0149725,COEXISTS_WITH,Worse,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0241831,COEXISTS_WITH,Worse,CEREBRAL SALT-WASTING SYNDROME,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1457868,C0729531,COEXISTS_WITH,Worse,Viral respiratory infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1514241,C1852467,COEXISTS_WITH,Positive Finding,"Creutzfeldt-Jakob Disease, Sporadic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1516998,C0004096,COEXISTS_WITH,Exogenous Factors,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1516998,C0004698,COEXISTS_WITH,Exogenous Factors,Balkan Nephropathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1516998,C0016627,COEXISTS_WITH,Exogenous Factors,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1516998,C0043528,COEXISTS_WITH,Exogenous Factors,Zoonoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1516998,C0154830,COEXISTS_WITH,Exogenous Factors,Proliferative diabetic retinopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1517029,C0242917,COEXISTS_WITH,Extensive Necrosis,Filoviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1517029,C0264366,COEXISTS_WITH,Extensive Necrosis,Necrotizing bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1517940,C0153252,COEXISTS_WITH,Long Term Survivorship,Systemic candidiasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1518340,C0031350,COEXISTS_WITH,No Evidence of Disease,Pharyngitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1518340,C1262020,COEXISTS_WITH,No Evidence of Disease,diffuse alveolar damage,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1519255,C0021400,COEXISTS_WITH,Serious Adverse Event,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1519353,C2242541,COEXISTS_WITH,Skin Papule,Subcutaneous fungal disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1522133,C0008312,COEXISTS_WITH,Hypercholesterolemia result,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1533098,C0042769,COEXISTS_WITH,Panleukopenia,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1533098,C0243026,COEXISTS_WITH,Panleukopenia,Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0004623,COEXISTS_WITH,Protection,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0004626,COEXISTS_WITH,Protection,"Pneumonia, Bacterial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0007222,COEXISTS_WITH,Protection,Cardiovascular Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0007684,COEXISTS_WITH,Protection,Central Nervous System Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0009450,COEXISTS_WITH,Protection,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0011847,COEXISTS_WITH,Protection,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0016627,COEXISTS_WITH,Protection,Influenza in Birds,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0019348,COEXISTS_WITH,Protection,Herpes Simplex Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0021400,COEXISTS_WITH,Protection,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0024530,COEXISTS_WITH,Protection,Malaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0027765,COEXISTS_WITH,Protection,nervous system disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0032285,COEXISTS_WITH,Protection,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0035235,COEXISTS_WITH,Protection,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0036690,COEXISTS_WITH,Protection,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0041296,COEXISTS_WITH,Protection,Tuberculosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0042769,COEXISTS_WITH,Protection,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0043124,COEXISTS_WITH,Protection,West Nile Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0270724,COEXISTS_WITH,Protection,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0275544,COEXISTS_WITH,Protection,Congenital infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0276289,COEXISTS_WITH,Protection,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0276500,COEXISTS_WITH,Protection,Human immunodeficiency virus I infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0596773,COEXISTS_WITH,Protection,Infectious Encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0729531,COEXISTS_WITH,Protection,Viral respiratory infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C0858318,COEXISTS_WITH,Protection,Plasmodium falciparum infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C1145670,COEXISTS_WITH,Protection,Respiratory Failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C1175175,COEXISTS_WITH,Protection,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C1264606,COEXISTS_WITH,Protection,Persistent infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C1860224,COEXISTS_WITH,Protection,ABLEPHARON-MACROSTOMIA SYNDROME,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545588,C2712971,COEXISTS_WITH,Protection,Enteritis due to Norovirus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1545750,C0041912,COEXISTS_WITH,Second hand smoke exposure,Upper Respiratory Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1556280,C1719672,COEXISTS_WITH,CTCAE Grade 4 Hypotension,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1559312,C0277527,COEXISTS_WITH,CTCAE Grade 5 Diarrhea,Epidemic diarrhea,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1630409,C4082764,COEXISTS_WITH,6/3,Gastrointestinal infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1690939,C0018213,COEXISTS_WITH,20/25,Graves Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1699631,C0749769,COEXISTS_WITH,Decreased absolute lymphocytes,underlying infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704257,C0085860,COEXISTS_WITH,Molecular Genetic Abnormality,"Autoimmune Syndrome Type II, Polyglandular",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704258,C0023976,COEXISTS_WITH,Abnormality,Long QT Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704258,C0034069,COEXISTS_WITH,Abnormality,Pulmonary Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704632,C0036690,COEXISTS_WITH,Disease Response,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704632,C0042769,COEXISTS_WITH,Disease Response,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1704632,C0151317,COEXISTS_WITH,Disease Response,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1706353,C0011175,COEXISTS_WITH,Crack,Dehydration,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1706712,C0007453,COEXISTS_WITH,Additional Therapy,Cattle Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1706712,C0026946,COEXISTS_WITH,Additional Therapy,Mycoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1706712,C0042384,COEXISTS_WITH,Additional Therapy,Vasculitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1706753,C0276426,COEXISTS_WITH,Aggravated Disease,Poliomyelitis of mouse,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1707597,C0263641,COEXISTS_WITH,Cyst Formation,Epithelial hyperplasia of skin,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1709157,C0009443,COEXISTS_WITH,Negative Surgical Margin,Common Cold,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1709157,C0009450,COEXISTS_WITH,Negative Surgical Margin,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1709770,C0035222,COEXISTS_WITH,Pulmonary Dysfunction,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1821461,C0206750,COEXISTS_WITH,Close Relationship,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1821718,C0206061,COEXISTS_WITH,Diminished productivity,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1821718,C0376538,COEXISTS_WITH,Diminished productivity,Porcine Reproductive and Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1821718,C0694549,COEXISTS_WITH,Diminished productivity,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832072,C0010356,COEXISTS_WITH,Accommodation,Cross Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832073,C0154830,COEXISTS_WITH,Handling,Proliferative diabetic retinopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832338,C0004364,COEXISTS_WITH,Axonal loss,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832338,C0026769,COEXISTS_WITH,Axonal loss,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832338,C1290886,COEXISTS_WITH,Axonal loss,Chronic inflammatory disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832406,C0004623,COEXISTS_WITH,Severe clinical course,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1832406,C0442886,COEXISTS_WITH,Severe clinical course,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1833334,C0023530,COEXISTS_WITH,Early-onset,Leukopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1833334,C0024312,COEXISTS_WITH,Early-onset,Lymphopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836003,C0018378,COEXISTS_WITH,Facial diplegia,Guillain-Barre Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0003850,COEXISTS_WITH,Severe disorder,Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0004623,COEXISTS_WITH,Severe disorder,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0009450,COEXISTS_WITH,Severe disorder,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0011847,COEXISTS_WITH,Severe disorder,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0011849,COEXISTS_WITH,Severe disorder,Diabetes Mellitus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0014457,COEXISTS_WITH,Severe disorder,Eosinophilia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0016514,COEXISTS_WITH,Severe disorder,Foot-and-Mouth Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0016627,COEXISTS_WITH,Severe disorder,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0019100,COEXISTS_WITH,Severe disorder,Severe Dengue,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0021400,COEXISTS_WITH,Severe disorder,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0022660,COEXISTS_WITH,Severe disorder,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0024312,COEXISTS_WITH,Severe disorder,Lymphopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0025290,COEXISTS_WITH,Severe disorder,Aseptic Meningitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0026636,COEXISTS_WITH,Severe disorder,Mouth Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0027051,COEXISTS_WITH,Severe disorder,Myocardial Infarction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0028754,COEXISTS_WITH,Severe disorder,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0032285,COEXISTS_WITH,Severe disorder,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0034063,COEXISTS_WITH,Severe disorder,Pulmonary Edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0035222,COEXISTS_WITH,Severe disorder,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0035235,COEXISTS_WITH,Severe disorder,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0035243,COEXISTS_WITH,Severe disorder,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0038454,COEXISTS_WITH,Severe disorder,Cerebrovascular accident,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0042769,COEXISTS_WITH,Severe disorder,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0206750,COEXISTS_WITH,Severe disorder,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0238074,COEXISTS_WITH,Severe disorder,Chronic pulmonary heart disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0270724,COEXISTS_WITH,Severe disorder,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0275524,COEXISTS_WITH,Severe disorder,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0276289,COEXISTS_WITH,Severe disorder,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0339901,COEXISTS_WITH,Severe disorder,Acute respiratory infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0343537,COEXISTS_WITH,Severe disorder,Specific viral infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0349412,COEXISTS_WITH,Severe disorder,Refractory shock,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0442886,COEXISTS_WITH,Severe disorder,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C0694549,COEXISTS_WITH,Severe disorder,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C1175175,COEXISTS_WITH,Severe disorder,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C3694279,COEXISTS_WITH,Severe disorder,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836348,C3853962,COEXISTS_WITH,Severe disorder,Enterovirus 71 infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1836775,C0012979,COEXISTS_WITH,Mild disease course,Dog Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1837256,C3241937,COEXISTS_WITH,Macrovesicular hepatic steatosis,Nonalcoholic Steatohepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1837385,C0276457,COEXISTS_WITH,Poor growth,Avian malabsorption syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1837496,C0011303,COEXISTS_WITH,Axonal degeneration,Demyelinating Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1837496,C0014070,COEXISTS_WITH,Axonal degeneration,Encephalomyelitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1837514,C0041296,COEXISTS_WITH,Phenotypic Variation,Tuberculosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838681,C0032285,COEXISTS_WITH,Rapidly progressive,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838681,C0242966,COEXISTS_WITH,Rapidly progressive,Systemic Inflammatory Response Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838681,C0276500,COEXISTS_WITH,Rapidly progressive,Human immunodeficiency virus I infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838681,C0343752,COEXISTS_WITH,Rapidly progressive,Acute HIV infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838681,C0393483,COEXISTS_WITH,Rapidly progressive,Brainstem encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838994,C0019099,COEXISTS_WITH,Rapid onset,"Hemorrhagic Fever, Crimean",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1838994,C1443953,COEXISTS_WITH,Rapid onset,Acute viral disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1839606,C0034186,COEXISTS_WITH,Low-molecular-weight proteinuria,Pyelonephritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1839606,C0268731,COEXISTS_WITH,Low-molecular-weight proteinuria,Renal glomerular disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1839970,C0024291,COEXISTS_WITH,Fulminant infectious mononucleosis,"Lymphohistiocytosis, Hemophagocytic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0004623,COEXISTS_WITH,Severe course,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0008679,COEXISTS_WITH,Severe course,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0014061,COEXISTS_WITH,Severe course,Tick-Borne Encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0016627,COEXISTS_WITH,Severe course,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0032285,COEXISTS_WITH,Severe course,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0242994,COEXISTS_WITH,Severe course,Hantavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C0343386,COEXISTS_WITH,Severe course,Clostridium difficile infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1842211,C1373218,COEXISTS_WITH,Severe course,Decreased Immunologic Activity [PE],fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1843643,C0085581,COEXISTS_WITH,Nocturnal hypoventilation,Restrictive lung disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1844662,C0023530,COEXISTS_WITH,Unexplained fevers,Leukopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1844666,C0011615,COEXISTS_WITH,Immune dysregulation,"Dermatitis, Atopic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1844666,C0282687,COEXISTS_WITH,Immune dysregulation,"Hemorrhagic Fever, Ebola",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1846821,C0282687,COEXISTS_WITH,Abnormality of coagulation,"Hemorrhagic Fever, Ebola",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1846821,C1719672,COEXISTS_WITH,Abnormality of coagulation,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1849403,C0008312,COEXISTS_WITH,Mildly elevated transaminases,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1852220,C0009450,COEXISTS_WITH,Phenotypic heterogeneity,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1852477,C0242723,COEXISTS_WITH,Normal cerebrospinal fluid,Parasitemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1853237,C0016627,COEXISTS_WITH,Isolated cases,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1853237,C0043528,COEXISTS_WITH,Isolated cases,Zoonoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1853237,C0149678,COEXISTS_WITH,Isolated cases,Epstein-Barr Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1854494,C0019693,COEXISTS_WITH,Slow progression,HIV Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1854838,C0008679,COEXISTS_WITH,Progressive neurologic deterioration,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1855073,C0009450,COEXISTS_WITH,"Mortality, Premature",Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1855204,C1175175,COEXISTS_WITH,Cellular immunodeficiency,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1855330,C0678236,COEXISTS_WITH,Cerebral hypoplasia,Rare Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1855585,C2076600,COEXISTS_WITH,Mild phenotype,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1855872,C0015674,COEXISTS_WITH,Multiple autoantibodies,Chronic Fatigue Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1856381,C0036690,COEXISTS_WITH,Glucose-6-phosphate deficiency,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1856453,C0275522,COEXISTS_WITH,Mild thrombocytopenia,Asymptomatic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1859430,C1290325,COEXISTS_WITH,Life-threatening infections,Disorder of lower respiratory system,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1859884,C0008055,COEXISTS_WITH,Chronic joint pain,Chikungunya Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1859884,C0743841,COEXISTS_WITH,Chronic joint pain,Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1864570,C0011860,COEXISTS_WITH,Insulin insensitivity,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1864676,C1264606,COEXISTS_WITH,Glial activation,Persistent infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1879646,C1175175,COEXISTS_WITH,Affected Area,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1882083,C0018801,COEXISTS_WITH,New York Heart Association Class,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1960560,C0009421,COEXISTS_WITH,Dystonic tremor,Comatose,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1969875,C0011854,COEXISTS_WITH,Beta-cell dysfunction,"Diabetes Mellitus, Insulin-Dependent",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1969875,C0011860,COEXISTS_WITH,Beta-cell dysfunction,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1969875,C0028754,COEXISTS_WITH,Beta-cell dysfunction,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1998319,C1264606,COEXISTS_WITH,Functional capacity,Persistent infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1998720,C0277548,COEXISTS_WITH,Effective Communication,Epidemic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C1998726,C0016627,COEXISTS_WITH,Adequate Knowledge,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2220378,C4289841,COEXISTS_WITH,severe Allergic disorders,Canine Lymphoma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2230297,C0007194,COEXISTS_WITH,Apical systolic murmur,Hypertrophic Cardiomyopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2315245,C0006277,COEXISTS_WITH,Agonal respiration,Bronchitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2364300,C0010340,COEXISTS_WITH,Actual Adequate Hydration,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2585744,C0008679,COEXISTS_WITH,Virus present,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2585744,C0022521,COEXISTS_WITH,Virus present,Kartagener Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2597943,C0021400,COEXISTS_WITH,Index case,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2597943,C0442886,COEXISTS_WITH,Index case,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2673622,C0235840,COEXISTS_WITH,Mucosal lesions,Neonatal diarrhea,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2675477,C0035112,COEXISTS_WITH,"MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3",Reoviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2676468,C0275521,COEXISTS_WITH,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",Clinical infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2677484,C0740304,COEXISTS_WITH,Impaired immune responses,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2707345,C0206750,COEXISTS_WITH,Entry type,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2732728,C0019243,COEXISTS_WITH,Short stature for age,"Angioedemas, Hereditary",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2748540,C0009421,COEXISTS_WITH,Mucosal bleeding,Comatose,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2749398,C0549493,COEXISTS_WITH,Thickened alveolar septa,Alveolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2749764,C0019101,COEXISTS_WITH,Renal tubular degeneration,Hemorrhagic Fever with Renal Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2750120,C0206061,COEXISTS_WITH,Interstitial thickening,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2825142,C0021400,COEXISTS_WITH,Experimental Result,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2825972,C0036690,COEXISTS_WITH,Cant,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826244,C0019191,COEXISTS_WITH,Life Threatening,Infectious Canine Hepatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826244,C0162429,COEXISTS_WITH,Life Threatening,Malnutrition,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826244,C0275518,COEXISTS_WITH,Life Threatening,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826244,C1175175,COEXISTS_WITH,Life Threatening,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826279,C0032285,COEXISTS_WITH,Abnormal Finding,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826293,C0004096,COEXISTS_WITH,Clinical Significance,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2826293,C0035204,COEXISTS_WITH,Clinical Significance,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2945640,C0015230,COEXISTS_WITH,compromise,Exanthema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2945640,C0025007,COEXISTS_WITH,compromise,Measles,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2945640,C0035222,COEXISTS_WITH,compromise,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2985294,C0276289,COEXISTS_WITH,Fourth Stage of Labor,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C2986501,C0010054,COEXISTS_WITH,Blood Stasis,Coronary Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3150192,C0020538,COEXISTS_WITH,Myocyte hypertrophy,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3150238,C0023364,COEXISTS_WITH,Variable manifestations,Leptospirosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3150238,C0043528,COEXISTS_WITH,Variable manifestations,Zoonoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3150267,C0018799,COEXISTS_WITH,Increased plasma renin activity,Heart Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3151529,C0008525,COEXISTS_WITH,Lethal,Choroideremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3151529,C0035222,COEXISTS_WITH,Lethal,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3151529,C0265252,COEXISTS_WITH,Lethal,Coffin-Lowry syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3151529,C1565489,COEXISTS_WITH,Lethal,Renal Insufficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3242228,C0872315,COEXISTS_WITH,new information,"Communicable Diseases, Emerging",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3242228,C0878751,COEXISTS_WITH,new information,late pregnancy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3242274,C0004096,COEXISTS_WITH,new therapy,Asthma,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C3242274,C0023895,COEXISTS_WITH,new therapy,Liver diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3242274,C0024117,COEXISTS_WITH,new therapy,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3251812,C0151744,COEXISTS_WITH,Bleeding risk,Myocardial Ischemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3263685,C0020455,COEXISTS_WITH,Hormone abnormality,Hypergammaglobulinemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272281,C0036690,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score A,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272281,C1145670,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score A,Respiratory Failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272281,C1856053,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score A,Hydranencephaly with Renal Aplasia-Dysplasia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272281,C2076600,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score A,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0001622,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Adrenal Gland Hyperfunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0002395,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Alzheimer's Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0006271,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Bronchiolitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0008354,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Cholera,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0008679,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0011847,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0011849,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Diabetes Mellitus,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0011860,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0016627,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0019100,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Severe Dengue,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0022660,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0023241,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Legionnaires' Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0023895,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Liver diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0032285,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0035235,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0042749,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0042842,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Vitamin A Deficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0162429,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Malnutrition,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0275524,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0339901,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Acute respiratory infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C0876973,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Infectious disease of lung,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C1565489,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Renal Insufficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C2076600,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C3495919,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272283,C3669463,COEXISTS_WITH,American College of Cardiology/American Heart Association Lesion Complexity Score C,Feline immunodeficiency virus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272304,C0276138,COEXISTS_WITH,Coronary Vessel Lesion,Viral myocarditis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3272629,C1443953,COEXISTS_WITH,Epithelial Damage,Acute viral disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3275700,C0275518,COEXISTS_WITH,Hepatic inflammation,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3275700,C0341439,COEXISTS_WITH,Hepatic inflammation,Chronic liver disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3277906,C0027059,COEXISTS_WITH,Cardiac dysfunction,Myocarditis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3277906,C0276500,COEXISTS_WITH,Cardiac dysfunction,Human immunodeficiency virus I infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3277906,C0853897,COEXISTS_WITH,Cardiac dysfunction,Diabetic Cardiomyopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3278574,C0003873,COEXISTS_WITH,Increased IL-6,Rheumatoid Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3278584,C3670487,COEXISTS_WITH,Mononuclear cell infiltrates,Nonsuppurative meningoencephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3279575,C0559758,COEXISTS_WITH,Reticulated skin pigmentation,MULTISYSTEM DISORDER,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280118,C0004623,COEXISTS_WITH,Mild disorder,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280118,C0042769,COEXISTS_WITH,Mild disorder,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280118,C0206750,COEXISTS_WITH,Mild disorder,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280118,C0275524,COEXISTS_WITH,Mild disorder,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280118,C0276289,COEXISTS_WITH,Mild disorder,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280504,C3472181,COEXISTS_WITH,Crypt hyperplasia,Severe dehydration,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3280565,C0149756,COEXISTS_WITH,Degenerating fibers,"Fasciitis, Plantar",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3476546,C0024117,COEXISTS_WITH,Symptoms score,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3476546,C0275518,COEXISTS_WITH,Symptoms score,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3483978,C1175175,COEXISTS_WITH,Anxiety score,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3494459,C0275524,COEXISTS_WITH,Sequential Organ Failure Assessment Scores,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3533163,C0021400,COEXISTS_WITH,Total symptom score,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3533163,C0041912,COEXISTS_WITH,Total symptom score,Upper Respiratory Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3533236,C0035235,COEXISTS_WITH,Mean score,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3533236,C1175175,COEXISTS_WITH,Mean score,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0004364,COEXISTS_WITH,Sign or Symptom,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0007453,COEXISTS_WITH,Sign or Symptom,Cattle Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0009450,COEXISTS_WITH,Sign or Symptom,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0014013,COEXISTS_WITH,Sign or Symptom,"Empyema, Pleural",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0014038,COEXISTS_WITH,Sign or Symptom,Encephalitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0014457,COEXISTS_WITH,Sign or Symptom,Eosinophilia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0015544,COEXISTS_WITH,Sign or Symptom,Failure to Thrive,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0021400,COEXISTS_WITH,Sign or Symptom,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0022658,COEXISTS_WITH,Sign or Symptom,Kidney Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0029408,COEXISTS_WITH,Sign or Symptom,Degenerative polyarthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0030305,COEXISTS_WITH,Sign or Symptom,Pancreatitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0032285,COEXISTS_WITH,Sign or Symptom,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0035235,COEXISTS_WITH,Sign or Symptom,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0035369,COEXISTS_WITH,Sign or Symptom,Retroviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0151317,COEXISTS_WITH,Sign or Symptom,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0151740,COEXISTS_WITH,Sign or Symptom,Intracranial Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0267582,COEXISTS_WITH,Sign or Symptom,Stricture of rectum,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0277555,COEXISTS_WITH,Sign or Symptom,"Secondary disease, NOS",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0349410,COEXISTS_WITH,Sign or Symptom,Single organ dysfunction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C0748168,COEXISTS_WITH,Sign or Symptom,Pulmonary Pathology,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C1290816,COEXISTS_WITH,Sign or Symptom,Post-weaning multisystemic wasting syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3540840,C1443953,COEXISTS_WITH,Sign or Symptom,Acute viral disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3550794,C0040034,COEXISTS_WITH,Impaired platelet function,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3551069,C0040034,COEXISTS_WITH,Decreased platelet function,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3670500,C0026769,COEXISTS_WITH,Neuronal degeneration,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3670501,C0085584,COEXISTS_WITH,Neuronal vacuolation,Encephalopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3671958,C0009450,COEXISTS_WITH,Reproductive failure,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3671958,C0039006,COEXISTS_WITH,Reproductive failure,Swine Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3671958,C0376538,COEXISTS_WITH,Reproductive failure,Porcine Reproductive and Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3671958,C0878751,COEXISTS_WITH,Reproductive failure,late pregnancy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3686869,C0034065,COEXISTS_WITH,Microthrombosis,Pulmonary Embolism,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3686869,C0035222,COEXISTS_WITH,Microthrombosis,"Respiratory Distress Syndrome, Adult",fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C3686869,C0036690,COEXISTS_WITH,Microthrombosis,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3686869,C0149871,COEXISTS_WITH,Microthrombosis,Deep Vein Thrombosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0004096,COEXISTS_WITH,Eosinophilic inflammation,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0010278,COEXISTS_WITH,Eosinophilic inflammation,Craniosynostosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0014335,COEXISTS_WITH,Eosinophilic inflammation,Enteritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0024117,COEXISTS_WITH,Eosinophilic inflammation,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0149516,COEXISTS_WITH,Eosinophilic inflammation,Chronic sinusitis,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C3687252,C0413234,COEXISTS_WITH,Eosinophilic inflammation,Acute allergic reaction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C0009443,COEXISTS_WITH,Compliance,Common Cold,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C0021400,COEXISTS_WITH,Compliance,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C0205721,COEXISTS_WITH,Compliance,"Infections, Hospital",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C0343401,COEXISTS_WITH,Compliance,MRSA - Methicillin resistant Staphylococcus aureus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C1175175,COEXISTS_WITH,Compliance,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C2076600,COEXISTS_WITH,Compliance,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714738,C3495919,COEXISTS_WITH,Compliance,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714745,C0021390,COEXISTS_WITH,Malabsorption,Inflammatory Bowel Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714745,C0235840,COEXISTS_WITH,Malabsorption,Neonatal diarrhea,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714745,C0341305,COEXISTS_WITH,Malabsorption,Autoimmune enteropathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3714745,C1862596,COEXISTS_WITH,Malabsorption,Familial hypobetalipoproteinemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0002871,COEXISTS_WITH,Poor outcome,Anemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0004030,COEXISTS_WITH,Poor outcome,Aspergillosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0009450,COEXISTS_WITH,Poor outcome,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0010340,COEXISTS_WITH,Poor outcome,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0011847,COEXISTS_WITH,Poor outcome,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0019655,COEXISTS_WITH,Poor outcome,Histoplasmosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0020538,COEXISTS_WITH,Poor outcome,Hypertensive disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0022660,COEXISTS_WITH,Poor outcome,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0023530,COEXISTS_WITH,Poor outcome,Leukopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0023895,COEXISTS_WITH,Poor outcome,Liver diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0024291,COEXISTS_WITH,Poor outcome,"Lymphohistiocytosis, Hemophagocytic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0032285,COEXISTS_WITH,Poor outcome,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0036690,COEXISTS_WITH,Poor outcome,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0040034,COEXISTS_WITH,Poor outcome,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0205721,COEXISTS_WITH,Poor outcome,"Infections, Hospital",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0275524,COEXISTS_WITH,Poor outcome,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0343537,COEXISTS_WITH,Poor outcome,Specific viral infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0546817,COEXISTS_WITH,Poor outcome,Fluid overload,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0740848,COEXISTS_WITH,Poor outcome,Chronic Obstructive Pulmonary Disease EXACERBATION,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C0851887,COEXISTS_WITH,Poor outcome,Adenoviral infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C1373218,COEXISTS_WITH,Poor outcome,Decreased Immunologic Activity [PE],fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C1504431,COEXISTS_WITH,Poor outcome,Idiopathic pneumonia syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3806166,C1719672,COEXISTS_WITH,Poor outcome,Severe Sepsis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3808831,C0442886,COEXISTS_WITH,Normal T cells,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3808948,C0028754,COEXISTS_WITH,Decreased adiponectin,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0004096,COEXISTS_WITH,Pathogenic,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0008055,COEXISTS_WITH,Pathogenic,Chikungunya Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0015231,COEXISTS_WITH,Pathogenic,Exanthema Subitum,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0026769,COEXISTS_WITH,Pathogenic,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0032285,COEXISTS_WITH,Pathogenic,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0042029,COEXISTS_WITH,Pathogenic,Urinary tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0042373,COEXISTS_WITH,Pathogenic,Vascular Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0042769,COEXISTS_WITH,Pathogenic,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0085584,COEXISTS_WITH,Pathogenic,Encephalopathies,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0149725,COEXISTS_WITH,Pathogenic,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0275518,COEXISTS_WITH,Pathogenic,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C0694549,COEXISTS_WITH,Pathogenic,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C1258039,COEXISTS_WITH,Pathogenic,Henipavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C1370824,COEXISTS_WITH,Pathogenic,Interstitial emphysema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3816499,C3495919,COEXISTS_WITH,Pathogenic,Enthesitis-Related Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3827002,C0042769,COEXISTS_WITH,Ground Glass Opacity,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3827002,C0085786,COEXISTS_WITH,Ground Glass Opacity,Hamman-Rich syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3827002,C0149725,COEXISTS_WITH,Ground Glass Opacity,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3827002,C1290884,COEXISTS_WITH,Ground Glass Opacity,Inflammatory disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3840423,C0017168,COEXISTS_WITH,Body condition score,Gastroesophageal reflux disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3840622,C0008312,COEXISTS_WITH,5 - 9,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3840862,C0018802,COEXISTS_WITH,75+ years,Congestive heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3840862,C0024117,COEXISTS_WITH,75+ years,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3840892,C0275518,COEXISTS_WITH,Day 4,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3841448,C0009443,COEXISTS_WITH,Much worse,Common Cold,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3841448,C0021400,COEXISTS_WITH,Much worse,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3841750,C0021400,COEXISTS_WITH,Mass gathering,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3841750,C0270724,COEXISTS_WITH,Mass gathering,Infantile Neuroaxonal Dystrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3841750,C3694279,COEXISTS_WITH,Mass gathering,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842312,C0009443,COEXISTS_WITH,Not Often,Common Cold,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842312,C0275524,COEXISTS_WITH,Not Often,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842337,C0035243,COEXISTS_WITH,0 days,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842337,C0343401,COEXISTS_WITH,0 days,MRSA - Methicillin resistant Staphylococcus aureus infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842672,C0042769,COEXISTS_WITH,Day 7,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842672,C0155626,COEXISTS_WITH,Day 7,Acute myocardial infarction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842674,C0040034,COEXISTS_WITH,Day 5,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842674,C0042749,COEXISTS_WITH,Day 5,Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842675,C0020498,COEXISTS_WITH,Day 3,"Hyperostosis, Diffuse Idiopathic Skeletal",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842675,C0600327,COEXISTS_WITH,Day 3,Toxic Shock Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3842677,C0023092,COEXISTS_WITH,Very hard,Lassa Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843066,C0042769,COEXISTS_WITH,2 to 3 days,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843259,C0019243,COEXISTS_WITH,Line 8,"Angioedemas, Hereditary",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843504,C0023374,COEXISTS_WITH,1 - 3,Lesch-Nyhan Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843504,C0275524,COEXISTS_WITH,1 - 3,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843504,C1856053,COEXISTS_WITH,1 - 3,Hydranencephaly with Renal Aplasia-Dysplasia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843647,C0271429,COEXISTS_WITH,> 2 years,Acute otitis media,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843661,C0019099,COEXISTS_WITH,Too little,"Hemorrhagic Fever, Crimean",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843661,C0030920,COEXISTS_WITH,Too little,Peptic Ulcer,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3843708,C0042769,COEXISTS_WITH,29+,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3844397,C0035869,COEXISTS_WITH,Initial screen,Rotavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3844729,C0876973,COEXISTS_WITH,Very Important,Infectious disease of lung,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3845261,C0751583,COEXISTS_WITH,No activity,"Encephalitis, West Nile Fever",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3845593,C0276446,COEXISTS_WITH,Major change,Murine encephalomyelitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3845594,C1096155,COEXISTS_WITH,Slight change,Macrophage Activation Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3845726,C0205721,COEXISTS_WITH,Staffing level,"Infections, Hospital",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3845919,C0021831,COEXISTS_WITH,Absorptive,Intestinal Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3846398,C0001175,COEXISTS_WITH,"Staged, NOS",Acquired Immunodeficiency Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3854605,C0020542,COEXISTS_WITH,Mean Pulmonary Arterial Pressure,Pulmonary Hypertension,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3854605,C0035222,COEXISTS_WITH,Mean Pulmonary Arterial Pressure,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3869780,C0009450,COEXISTS_WITH,Health concerns,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3872830,C0024266,COEXISTS_WITH,Inflammatory lesion,Lymphocytic Choriomeningitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3872830,C0026769,COEXISTS_WITH,Inflammatory lesion,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3872830,C0042769,COEXISTS_WITH,Inflammatory lesion,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3872830,C0751967,COEXISTS_WITH,Inflammatory lesion,"Multiple Sclerosis, Relapsing-Remitting",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3887644,C0206061,COEXISTS_WITH,Inflammatory infiltrate,"Pneumonia, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0004698,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Balkan Nephropathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0009450,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Communicable Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0010054,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Coronary Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0035243,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0042769,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0242994,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Hantavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0275524,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C3890735,C0740304,COEXISTS_WITH,Complete Response with Incomplete Platelet Recovery,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4012443,C0264361,COEXISTS_WITH,Airway abnormalities,Traction bronchiectasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4015720,C0009447,COEXISTS_WITH,Recurrent stomatitis,Common Variable Immunodeficiency,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4021734,C0026847,COEXISTS_WITH,Abnormality of mitochondrial metabolism,Spinal Muscular Atrophy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4021734,C0028754,COEXISTS_WITH,Abnormality of mitochondrial metabolism,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4021734,C0036690,COEXISTS_WITH,Abnormality of mitochondrial metabolism,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4022719,C0018378,COEXISTS_WITH,Unilateral facial palsy,Guillain-Barre Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4022803,C0024117,COEXISTS_WITH,Increased inflammatory response,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4036057,C0004096,COEXISTS_WITH,Too low,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4036057,C0275524,COEXISTS_WITH,Too low,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4036115,C0004096,COEXISTS_WITH,Very mild,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4036283,C0019159,COEXISTS_WITH,Basic knowledge,Hepatitis A,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4036464,C0010356,COEXISTS_WITH,Total nursing personnel,Cross Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4038931,C0041912,COEXISTS_WITH,Bacteria present,Upper Respiratory Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4039344,C0032870,COEXISTS_WITH,J3,Poxviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4045969,C0011847,COEXISTS_WITH,Physical Barriers,Diabetes,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4047662,C0034069,COEXISTS_WITH,Altered microbiota,Pulmonary Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4049797,C1175175,COEXISTS_WITH,Chaos,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4050309,C0019247,COEXISTS_WITH,Central Nervous System Involvement,Hereditary Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4050309,C0021400,COEXISTS_WITH,Central Nervous System Involvement,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4050309,C0040553,COEXISTS_WITH,Central Nervous System Involvement,Toxocariasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4050309,C0743841,COEXISTS_WITH,Central Nervous System Involvement,Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4054230,C0036690,COEXISTS_WITH,Pathologic Response,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4054315,C0023281,COEXISTS_WITH,Organomegaly,Leishmaniasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4054987,C0206750,COEXISTS_WITH,Favorable Response,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055062,C1175175,COEXISTS_WITH,Enhanced Pause,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055086,C0694549,COEXISTS_WITH,Early Relapse,Community acquired pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055223,C0032285,COEXISTS_WITH,Clinical Response,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055264,C0275518,COEXISTS_WITH,Cellular Debris,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0001314,COEXISTS_WITH,Accumulation,Acute Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0002395,COEXISTS_WITH,Accumulation,Alzheimer's Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0003850,COEXISTS_WITH,Accumulation,Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0004364,COEXISTS_WITH,Accumulation,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0007684,COEXISTS_WITH,Accumulation,Central Nervous System Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0008679,COEXISTS_WITH,Accumulation,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0010246,COEXISTS_WITH,Accumulation,Coxsackievirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0010340,COEXISTS_WITH,Accumulation,Critical Illness,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0011303,COEXISTS_WITH,Accumulation,Demyelinating Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0015674,COEXISTS_WITH,Accumulation,Chronic Fatigue Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0015695,COEXISTS_WITH,Accumulation,Fatty Liver,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0016977,COEXISTS_WITH,Accumulation,Gall Bladder Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0018889,COEXISTS_WITH,Accumulation,Helminthiasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0019196,COEXISTS_WITH,Accumulation,Hepatitis C,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0019247,COEXISTS_WITH,Accumulation,Hereditary Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0019621,COEXISTS_WITH,Accumulation,"Histiocytosis, Langerhans-Cell",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0021400,COEXISTS_WITH,Accumulation,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0022336,COEXISTS_WITH,Accumulation,Creutzfeldt-Jakob disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0022660,COEXISTS_WITH,Accumulation,"Kidney Failure, Acute",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0023374,COEXISTS_WITH,Accumulation,Lesch-Nyhan Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0024115,COEXISTS_WITH,Accumulation,Lung diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0026769,COEXISTS_WITH,Accumulation,Multiple Sclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0026780,COEXISTS_WITH,Accumulation,Mumps,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0027877,COEXISTS_WITH,Accumulation,Neuronal Ceroid-Lipofuscinoses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0028064,COEXISTS_WITH,Accumulation,Niemann-Pick Diseases,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0028754,COEXISTS_WITH,Accumulation,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0030567,COEXISTS_WITH,Accumulation,Parkinson Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0034063,COEXISTS_WITH,Accumulation,Pulmonary Edema,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0035455,COEXISTS_WITH,Accumulation,Rhinitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0041326,COEXISTS_WITH,Accumulation,Pleural Tuberculosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0042769,COEXISTS_WITH,Accumulation,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0085078,COEXISTS_WITH,Accumulation,Lysosomal Storage Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0151317,COEXISTS_WITH,Accumulation,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0151650,COEXISTS_WITH,Accumulation,Renal fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0206062,COEXISTS_WITH,Accumulation,"Lung Diseases, Interstitial",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0221052,COEXISTS_WITH,Accumulation,Chronic berylliosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0264383,COEXISTS_WITH,Accumulation,Organized pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0339578,COEXISTS_WITH,Accumulation,Corticosteroid-induced glaucoma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0524851,COEXISTS_WITH,Accumulation,Neurodegenerative Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0678236,COEXISTS_WITH,Accumulation,Rare Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0729531,COEXISTS_WITH,Accumulation,Viral respiratory infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C0878677,COEXISTS_WITH,Accumulation,Glycogen Storage Disease Type IIb,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C1096155,COEXISTS_WITH,Accumulation,Macrophage Activation Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C1175175,COEXISTS_WITH,Accumulation,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C1285162,COEXISTS_WITH,Accumulation,Degenerative disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C1290886,COEXISTS_WITH,Accumulation,Chronic inflammatory disorder,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C2900458,COEXISTS_WITH,Accumulation,Viral encephalomyelitis NOS,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C2931826,COEXISTS_WITH,Accumulation,Potassium aggravated myotonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C3550973,COEXISTS_WITH,Accumulation,NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 5,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4055506,C4288963,COEXISTS_WITH,Accumulation,Hepatitis C Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4068819,C0018801,COEXISTS_WITH,Late systolic,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4068822,C0018801,COEXISTS_WITH,Early diastolic,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4068833,C3714496,COEXISTS_WITH,Vascularity,Chronic obstructive pulmonary disease of horses,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4071825,C0010054,COEXISTS_WITH,Calcium score,Coronary Arteriosclerosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4072750,C0017160,COEXISTS_WITH,Gastrointestinal pathogens,Gastroenteritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086149,C0024117,COEXISTS_WITH,Centrilobular Opacity,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0004096,COEXISTS_WITH,Exacerbation,Asthma,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0004623,COEXISTS_WITH,Exacerbation,Bacterial Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0006267,COEXISTS_WITH,Exacerbation,Bronchiectasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0008679,COEXISTS_WITH,Exacerbation,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0010674,COEXISTS_WITH,Exacerbation,Cystic Fibrosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0014457,COEXISTS_WITH,Exacerbation,Eosinophilia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0016627,COEXISTS_WITH,Exacerbation,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0024115,COEXISTS_WITH,Exacerbation,Lung diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0024117,COEXISTS_WITH,Exacerbation,Chronic Obstructive Airway Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0030389,COEXISTS_WITH,Exacerbation,Parainfluenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0032285,COEXISTS_WITH,Exacerbation,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0035204,COEXISTS_WITH,Exacerbation,Respiration Disorders,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0035243,COEXISTS_WITH,Exacerbation,Respiratory Tract Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0042769,COEXISTS_WITH,Exacerbation,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0149516,COEXISTS_WITH,Exacerbation,Chronic sinusitis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0149725,COEXISTS_WITH,Exacerbation,Lower respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0206750,COEXISTS_WITH,Exacerbation,Coronavirus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0264408,COEXISTS_WITH,Exacerbation,Childhood asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0275524,COEXISTS_WITH,Exacerbation,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0442886,COEXISTS_WITH,Exacerbation,Secondary Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0740304,COEXISTS_WITH,Exacerbation,copd exacerbation,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4086268,C0877203,COEXISTS_WITH,Exacerbation,Viral Respiratory Tract Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4228360,C0015625,COEXISTS_WITH,"Bone marrow failure, progressive",Fanconi Anemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4228837,C1290344,COEXISTS_WITH,Lymphocytic interstitial infiltration,Nonspecific interstitial pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4266412,C0019101,COEXISTS_WITH,CD8 ratio,Hemorrhagic Fever with Renal Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4288557,C0020498,COEXISTS_WITH,One Activity Hour,"Hyperostosis, Diffuse Idiopathic Skeletal",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0004096,COEXISTS_WITH,Colonization,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0006015,COEXISTS_WITH,Colonization,Bordetella Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0006267,COEXISTS_WITH,Colonization,Bronchiectasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0008679,COEXISTS_WITH,Colonization,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0023860,COEXISTS_WITH,Colonization,Listeriosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0032300,COEXISTS_WITH,Colonization,Lobar Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0035235,COEXISTS_WITH,Colonization,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0042769,COEXISTS_WITH,Colonization,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0275522,COEXISTS_WITH,Colonization,Asymptomatic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0275524,COEXISTS_WITH,Colonization,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0339916,COEXISTS_WITH,Colonization,Viral upper respiratory tract infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0746102,COEXISTS_WITH,Colonization,Chronic lung disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C0856238,COEXISTS_WITH,Colonization,influenza (epidemic),fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C1301752,COEXISTS_WITH,Colonization,Respiratory morbidity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C1373218,COEXISTS_WITH,Colonization,Decreased Immunologic Activity [PE],fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4289767,C2020625,COEXISTS_WITH,Colonization,Group B Streptococcal Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4310915,C0035235,COEXISTS_WITH,TLR4 POLYMORPHISM,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4313322,C0018801,COEXISTS_WITH,Alveolar damage,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4313322,C3686944,COEXISTS_WITH,Alveolar damage,Bronchointerstitial pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4314275,C0040034,COEXISTS_WITH,Increased bleeding,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4314584,C0035220,COEXISTS_WITH,Disseminated coagulopathy,"Respiratory Distress Syndrome, Newborn",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4314584,C0398623,COEXISTS_WITH,Disseminated coagulopathy,Thrombophilia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4314862,C1175175,COEXISTS_WITH,Pre-term delivery,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4314862,C3694279,COEXISTS_WITH,Pre-term delivery,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0001314,COEXISTS_WITH,High Level,Acute Disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0003873,COEXISTS_WITH,High Level,Rheumatoid Arthritis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0004096,COEXISTS_WITH,High Level,Asthma,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0004364,COEXISTS_WITH,High Level,Autoimmune Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0004610,COEXISTS_WITH,High Level,Bacteremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0006267,COEXISTS_WITH,High Level,Bronchiectasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0007684,COEXISTS_WITH,High Level,Central Nervous System Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0008312,COEXISTS_WITH,High Level,Primary biliary cirrhosis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0016627,COEXISTS_WITH,High Level,Influenza in Birds,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0017980,COEXISTS_WITH,High Level,"Glycosuria, Renal",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0018801,COEXISTS_WITH,High Level,Heart failure,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0018889,COEXISTS_WITH,High Level,Helminthiasis,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0019163,COEXISTS_WITH,High Level,Hepatitis B,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0019348,COEXISTS_WITH,High Level,Herpes Simplex Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0019372,COEXISTS_WITH,High Level,Herpesviridae Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0019693,COEXISTS_WITH,High Level,HIV Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0021400,COEXISTS_WITH,High Level,Influenza,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0023895,COEXISTS_WITH,High Level,Liver diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0024440,COEXISTS_WITH,High Level,"Macular Edema, Cystoid",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0028754,COEXISTS_WITH,High Level,Obesity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0032285,COEXISTS_WITH,High Level,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0032310,COEXISTS_WITH,High Level,"Pneumonia, Viral",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0032914,COEXISTS_WITH,High Level,Pre-Eclampsia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0035222,COEXISTS_WITH,High Level,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0036690,COEXISTS_WITH,High Level,Septicemia,fndg,dsyn,2,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0040034,COEXISTS_WITH,High Level,Thrombocytopenia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0042749,COEXISTS_WITH,High Level,Viremia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0042769,COEXISTS_WITH,High Level,Virus Diseases,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0043124,COEXISTS_WITH,High Level,West Nile Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0151317,COEXISTS_WITH,High Level,Chronic infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0155626,COEXISTS_WITH,High Level,Acute myocardial infarction,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0175778,COEXISTS_WITH,High Level,Larsen syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0205721,COEXISTS_WITH,High Level,"Infections, Hospital",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0262520,COEXISTS_WITH,High Level,HYMENOPTERA HYPERSENSITIVITY,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0275518,COEXISTS_WITH,High Level,Acute infectious disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0275522,COEXISTS_WITH,High Level,Asymptomatic Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0275524,COEXISTS_WITH,High Level,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0276289,COEXISTS_WITH,High Level,Zika Virus Infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0473219,COEXISTS_WITH,High Level,Renal hypouricemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0520680,COEXISTS_WITH,High Level,"Sleep Apnea, Central",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0524909,COEXISTS_WITH,High Level,"Hepatitis B, Chronic",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0743841,COEXISTS_WITH,High Level,Disorder characterized by fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0752304,COEXISTS_WITH,High Level,Hypoxic-Ischemic Encephalopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0850741,COEXISTS_WITH,High Level,smokers lung,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C0851887,COEXISTS_WITH,High Level,Adenoviral infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1175175,COEXISTS_WITH,High Level,Severe Acute Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1257763,COEXISTS_WITH,High Level,Overnutrition,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1264606,COEXISTS_WITH,High Level,Persistent infection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1504369,COEXISTS_WITH,High Level,Allergic disorder of respiratory system,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1697878,COEXISTS_WITH,High Level,BK virus nephropathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C1849235,COEXISTS_WITH,High Level,Short Stature-Obesity Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C2076600,COEXISTS_WITH,High Level,Influenza due to Influenza A virus subtype H1N1,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C2712360,COEXISTS_WITH,High Level,Severe hypoxic ischemic encephalopathy,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C3277428,COEXISTS_WITH,High Level,Severe viral infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C3694279,COEXISTS_WITH,High Level,Middle East Respiratory Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C3887645,COEXISTS_WITH,High Level,Job Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4321237,C4543807,COEXISTS_WITH,High Level,Clinical malaria,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4330381,C0242966,COEXISTS_WITH,Hypothyroxinemia,Systemic Inflammatory Response Syndrome,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4479222,C0036690,COEXISTS_WITH,Increased apoptosis,Septicemia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4479222,C0043124,COEXISTS_WITH,Increased apoptosis,West Nile Fever,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4528302,C0032285,COEXISTS_WITH,Necrosis and Infiltrate,Pneumonia,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4533736,C0035222,COEXISTS_WITH,Low pressure,"Respiratory Distress Syndrome, Adult",fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4534306,C0008679,COEXISTS_WITH,Supplemental oxygen,Chronic disease,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4534306,C0035235,COEXISTS_WITH,Supplemental oxygen,Respiratory Syncytial Virus Infections,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4534306,C1301752,COEXISTS_WITH,Supplemental oxygen,Respiratory morbidity,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN
+C4545792,C0275524,COEXISTS_WITH,KPS (Karnofsky Performance Status) score,Coinfection,fndg,dsyn,1,COEXISTS_WITH_FNDGcxwtDSYN

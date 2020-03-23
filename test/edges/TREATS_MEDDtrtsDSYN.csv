@@ -1,0 +1,209 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006086,C0021400,TREATS,Braces-Orthopedic appliances,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0007963,C0009450,TREATS,Charts (device),Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0008034,C0035222,TREATS,Chest Tubes,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0009450,TREATS,"Condoms, Male",Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0014836,TREATS,"Condoms, Male",Escherichia coli Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0021400,TREATS,"Condoms, Male",Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0024530,TREATS,"Condoms, Male",Malaria,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0041296,TREATS,"Condoms, Male",Tuberculosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0042769,TREATS,"Condoms, Male",Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0206750,TREATS,"Condoms, Male",Coronavirus Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0276500,TREATS,"Condoms, Male",Human immunodeficiency virus I infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C0497169,TREATS,"Condoms, Male",hiv-infection/aids,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C1373218,TREATS,"Condoms, Male",Decreased Immunologic Activity [PE],medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C2062441,TREATS,"Condoms, Male",Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C3694279,TREATS,"Condoms, Male",Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0009653,C3887658,TREATS,"Condoms, Male","PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0021461,C0004096,TREATS,Inhaler,Asthma,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0021461,C0006277,TREATS,Inhaler,Bronchitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0021461,C0024115,TREATS,Inhaler,Lung diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0021461,C0024117,TREATS,Inhaler,Chronic Obstructive Airway Disease,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0021461,C0155877,TREATS,Inhaler,Allergic asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0024861,C0021400,TREATS,Masks,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0024861,C0034072,TREATS,Masks,Cor pulmonale,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0024861,C1175175,TREATS,Masks,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0024861,C2062441,TREATS,Masks,Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0027524,C0004096,TREATS,Nebulizers,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0027524,C0024115,TREATS,Nebulizers,Lung diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0027524,C4523782,TREATS,Nebulizers,Inflammatory airway disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0004096,TREATS,Placebos,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0006267,TREATS,Placebos,Bronchiectasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0008677,TREATS,Placebos,"Bronchitis, Chronic",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0009443,TREATS,Placebos,Common Cold,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0010340,TREATS,Placebos,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0011849,TREATS,Placebos,Diabetes Mellitus,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0011860,TREATS,Placebos,"Diabetes Mellitus, Non-Insulin-Dependent",medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0018801,TREATS,Placebos,Heart failure,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0020538,TREATS,Placebos,Hypertensive disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0021400,TREATS,Placebos,Influenza,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0024117,TREATS,Placebos,Chronic Obstructive Airway Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0029883,TREATS,Placebos,Otitis Media with Effusion,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0032285,TREATS,Placebos,Pneumonia,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0035222,TREATS,Placebos,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0041912,TREATS,Placebos,Upper Respiratory Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0042769,TREATS,Placebos,Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0085786,TREATS,Placebos,Hamman-Rich syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0155877,TREATS,Placebos,Allergic asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0276447,TREATS,Placebos,Rhinovirus infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0339901,TREATS,Placebos,Acute respiratory infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0521839,TREATS,Placebos,Influenza-like illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C0740441,TREATS,Placebos,Acute diarrhea,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C1719672,TREATS,Placebos,Severe Sepsis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C2062441,TREATS,Placebos,Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0032042,C2317131,TREATS,Placebos,Acute rhinosinusitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0038257,C0041956,TREATS,"Stent, device",Ureteral obstruction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0038257,C0041972,TREATS,"Stent, device",Urethral Obstruction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0038257,C0149810,TREATS,"Stent, device",VERTEBROBASILAR STENOSIS,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0039142,C0042749,TREATS,Syringes,Viremia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C0010340,TREATS,Mechanical Ventilator,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C0021400,TREATS,Mechanical Ventilator,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C0041296,TREATS,Mechanical Ventilator,Tuberculosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C0206526,TREATS,Mechanical Ventilator,"Tuberculosis, Multidrug-Resistant",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C1175175,TREATS,Mechanical Ventilator,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0042497,C3694279,TREATS,Mechanical Ventilator,Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0011860,TREATS,Drug Delivery Systems,"Diabetes Mellitus, Non-Insulin-Dependent",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0019693,TREATS,Drug Delivery Systems,HIV Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0021400,TREATS,Drug Delivery Systems,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0035204,TREATS,Drug Delivery Systems,Respiration Disorders,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0042769,TREATS,Drug Delivery Systems,Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0206750,TREATS,Drug Delivery Systems,Coronavirus Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0276289,TREATS,Drug Delivery Systems,Zika Virus Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C0524851,TREATS,Drug Delivery Systems,Neurodegenerative Disorders,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085104,C1290884,TREATS,Drug Delivery Systems,Inflammatory disorder,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085590,C0010340,TREATS,catheter device,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085590,C0036690,TREATS,catheter device,Septicemia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0085678,C0010340,TREATS,Nasogastric tube,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0086510,C0021359,TREATS,Kirschner Wires,Infertility,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0087153,C0021400,TREATS,Ventilator - respiratory equipment,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0087153,C0154830,TREATS,Ventilator - respiratory equipment,Proliferative diabetic retinopathy,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0087153,C1175175,TREATS,Ventilator - respiratory equipment,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0175723,C0242301,TREATS,Bands,furuncle,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0175730,C0029883,TREATS,biomedical tube device,Otitis Media with Effusion,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178951,C0004096,TREATS,accelerometers,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178987,C0002106,TREATS,Artificial Airways,Allergic pneumonia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178987,C0004096,TREATS,Artificial Airways,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178987,C0024117,TREATS,Artificial Airways,Chronic Obstructive Airway Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178987,C0149725,TREATS,Artificial Airways,Lower respiratory tract infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0178987,C1443953,TREATS,Artificial Airways,Acute viral disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179433,C0006267,TREATS,Flexible bronchoscope,Bronchiectasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179433,C0235896,TREATS,Flexible bronchoscope,Pulmonary Infiltrate,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C0001327,TREATS,Nasal Cannula,Acute laryngitis,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0179574,C0009443,TREATS,Nasal Cannula,Common Cold,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C0010356,TREATS,Nasal Cannula,Cross Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C0948268,TREATS,Nasal Cannula,Hemodynamic instability,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C1145670,TREATS,Nasal Cannula,Respiratory Failure,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C1175175,TREATS,Nasal Cannula,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179574,C3694279,TREATS,Nasal Cannula,Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179790,C0035222,TREATS,"Swan-Ganz catheter, device","Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0179958,C0004096,TREATS,Cleaning Device,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180112,C0004096,TREATS,Controllers,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180112,C0006277,TREATS,Controllers,Bronchitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180112,C0151317,TREATS,Controllers,Chronic infectious disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180153,C0154830,TREATS,Covers (device),Proliferative diabetic retinopathy,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180153,C0376538,TREATS,Covers (device),Porcine Reproductive and Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180266,C0020498,TREATS,CUVETTES,"Hyperostosis, Diffuse Idiopathic Skeletal",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180279,C0524851,TREATS,automated flow cytometers,Neurodegenerative Disorders,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180309,C0038220,TREATS,Automated External Defibrillators,Status Epilepticus,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180459,C0026265,TREATS,Disks (device),Diseases of mitral valve,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180565,C0005398,TREATS,Duodenoscopes,"Cholestasis, Extrahepatic",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0180859,C0020498,TREATS,filter papers,"Hyperostosis, Diffuse Idiopathic Skeletal",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181001,C0042769,TREATS,Mouth gag,Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181033,C1175175,TREATS,germicidal lamps,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181209,C0014518,TREATS,Hook,Toxic Epidermal Necrolysis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181233,C0035222,TREATS,Heat and moisture exchanger,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181722,C0009450,TREATS,manifold,Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181758,C0034072,TREATS,Surgical face mask,Cor pulmonale,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0181845,C0020542,TREATS,Electron microscope,Pulmonary Hypertension,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C0016627,TREATS,Probes,Influenza in Birds,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C0206750,TREATS,Probes,Coronavirus Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C0276357,TREATS,Probes,Swine influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C0858318,TREATS,Probes,Plasmodium falciparum infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C2062441,TREATS,Probes,Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C2076600,TREATS,Probes,Influenza due to Influenza A virus subtype H1N1,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182400,C3887654,TREATS,Probes,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182537,C0007193,TREATS,pump (device),"Cardiomyopathy, Dilated",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C0009450,TREATS,Regulators (device),Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C0036690,TREATS,Regulators (device),Septicemia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C0162309,TREATS,Regulators (device),Adrenoleukodystrophy,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C0730328,TREATS,Regulators (device),Central Serous Chorioretinopathy,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C1290884,TREATS,Regulators (device),Inflammatory disorder,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0182953,C4288963,TREATS,Regulators (device),Hepatitis C Virus Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183427,C0022882,TREATS,Sphygmomanometers,Laboratory Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183479,C1175175,TREATS,Spreader,Severe Acute Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183518,C0041952,TREATS,Ureteric stent,Ureterolithiasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183518,C0041956,TREATS,Ureteric stent,Ureteral obstruction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183518,C0242528,TREATS,Ureteric stent,Azotemia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183559,C0022882,TREATS,Stethoscopes,Laboratory Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183699,C0153091,TREATS,Scrotal support,Mumps orchitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0183716,C3495919,TREATS,bolsters,Enthesitis-Related Arthritis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0184252,C0006111,TREATS,Medical Valves,Brain Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0221874,C0004096,TREATS,spacer device,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0262880,C1833296,TREATS,Transmission Electron Microscopes,"FRONTOTEMPORAL DEMENTIA, CHROMOSOME 3-LINKED",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0336573,C0010340,TREATS,Life support equipment,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0336630,C0010340,TREATS,Endotracheal tube,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0336630,C1701940,TREATS,Endotracheal tube,"Pneumonia, Ventilator-Associated",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0441117,C0035222,TREATS,Inspiratory limb,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0441290,C0041972,TREATS,Metal stent,Urethral Obstruction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0441291,C0041972,TREATS,Self-expanding stent,Urethral Obstruction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0493436,C0017178,TREATS,CAMPYLOBACTER SPP.,Gastrointestinal Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0745442,C0014335,TREATS,Intravenous Catheters,Enteritis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0878826,C0011847,TREATS,"Analyzers, Physiologic, Middle Ear, Acoustic Reflectometry",Diabetes,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879017,C0021832,TREATS,examination stools,"Intestinal Diseases, Parasitic",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C0007453,TREATS,Nasal Swabs,Cattle Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C0017160,TREATS,Nasal Swabs,Gastroenteritis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C0036946,TREATS,Nasal Swabs,Sheep Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C0206750,TREATS,Nasal Swabs,Coronavirus Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C0339901,TREATS,Nasal Swabs,Acute respiratory infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879240,C1096155,TREATS,Nasal Swabs,Macrophage Activation Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0879241,C0021359,TREATS,Pharyngeal Swabs,Infertility,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0972401,C0006309,TREATS,Boards (medical device),Brucellosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0972401,C0009450,TREATS,Boards (medical device),Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0972401,C3899656,TREATS,Boards (medical device),Pediatric Infectious Disorder,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0993596,C0024115,TREATS,Metered Dose Inhaler,Lung diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C0993756,C0017601,TREATS,Adhesion barrier,Glaucoma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139730,C0009450,TREATS,monitoring systems,Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139730,C0018572,TREATS,monitoring systems,"Hand, Foot and Mouth Disease",medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C1139730,C0021400,TREATS,monitoring systems,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139730,C0025007,TREATS,monitoring systems,Measles,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139730,C0041296,TREATS,monitoring systems,Tuberculosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139930,C0276289,TREATS,Device Plate,Zika Virus Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1139930,C0520680,TREATS,Device Plate,"Sleep Apnea, Central",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1145640,C0005779,TREATS,"Central venous catheter, device",Blood Coagulation Disorders,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1273532,C2676739,TREATS,Diagnostic device,Chromosome 2q32-Q33 Deletion Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1299681,C0042167,TREATS,Intravitreal implant,"Uveitis, Posterior",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1314650,C0009450,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1314650,C0021400,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1314650,C0036323,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Schistosomiasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1314650,C0037274,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Dermatologic disorders,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1317862,C0029883,TREATS,VENTILATION TUBE,Otitis Media with Effusion,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1322644,C0037354,TREATS,"Bifurcated needle, device",Smallpox,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1512629,C1394891,TREATS,Imaging Device,Intrinsic Factor Deficiency,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1553642,C0022521,TREATS,Maxillary left lateral incisor abutment,Kartagener Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1553642,C3694279,TREATS,Maxillary left lateral incisor abutment,Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1553645,C0022521,TREATS,Maxillary left second premolar abutment,Kartagener Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1553645,C3694279,TREATS,Maxillary left second premolar abutment,Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1553646,C3694279,TREATS,Maxillary left first molar abutment,Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0001175,TREATS,BARRIER,Acquired Immunodeficiency Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0002395,TREATS,BARRIER,Alzheimer's Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0009450,TREATS,BARRIER,Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0010340,TREATS,BARRIER,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0011615,TREATS,BARRIER,"Dermatitis, Atopic",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0019196,TREATS,BARRIER,Hepatitis C,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0019693,TREATS,BARRIER,HIV Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0024117,TREATS,BARRIER,Chronic Obstructive Airway Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0024530,TREATS,BARRIER,Malaria,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0035222,TREATS,BARRIER,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0041296,TREATS,BARRIER,Tuberculosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0042769,TREATS,BARRIER,Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0043528,TREATS,BARRIER,Zoonoses,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C0270724,TREATS,BARRIER,Infantile Neuroaxonal Dystrophy,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1706912,C1535939,TREATS,BARRIER,Pneumocystis jiroveci pneumonia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C1968515,C3160718,TREATS,Pack (physical object),"PARKINSON DISEASE, LATE-ONSET",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C2363670,C1864389,TREATS,developers,PREMATURE CHROMATID SEPARATION TRAIT,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C2711456,C0010340,TREATS,Intermittent pneumatic compression stockings,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C3495449,C0009450,TREATS,Mobility aid,Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C3495449,C0010340,TREATS,Mobility aid,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C3495449,C0019243,TREATS,Mobility aid,"Angioedemas, Hereditary",medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C3495449,C0155626,TREATS,Mobility aid,Acute myocardial infarction,medd,dsyn,1,TREATS_MEDDtrtsDSYN
+C3873020,C0036690,TREATS,Hemofilter,Septicemia,medd,dsyn,1,TREATS_MEDDtrtsDSYN

@@ -1,0 +1,67 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001026,C0026237,AFFECTS,Acetyl Coenzyme A,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0001443,C0035553,AFFECTS,Adenosine,Ribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0003320,C0014239,AFFECTS,Antigens,Endoplasmic Reticulum,bacs,celc,1,AFFECTS_BACSafctCELC
+C0003320,C1749467,AFFECTS,Antigens,soluble,bacs,celc,1,AFFECTS_BACSafctCELC
+C0003320,C1819995,AFFECTS,Antigens,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0003320,C2754943,AFFECTS,Antigens,IgG antibody,bacs,celc,1,AFFECTS_BACSafctCELC
+C0006353,C0026237,AFFECTS,Buffers,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0006353,C0596901,AFFECTS,Buffers,Membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0006675,C0026237,AFFECTS,Calcium,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0006675,C0028584,AFFECTS,Calcium,Nuclear Envelope,bacs,celc,1,AFFECTS_BACSafctCELC
+C0008377,C0230653,AFFECTS,Cholesterol,Caveolae,bacs,celc,1,AFFECTS_BACSafctCELC
+C0008377,C1167250,AFFECTS,Cholesterol,lipid raft,bacs,celc,1,AFFECTS_BACSafctCELC
+C0008377,C1819995,AFFECTS,Cholesterol,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0008377,C2610566,AFFECTS,Cholesterol,yolk,bacs,celc,1,AFFECTS_BACSafctCELC
+C0009221,C0035553,AFFECTS,Codon (nucleotide sequence),Ribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0010738,C0025979,AFFECTS,Cytochalasin D,Microfilaments,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012854,C0007592,AFFECTS,DNA,Cell Extracts,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012854,C0007603,AFFECTS,DNA,Plasma membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012854,C1167519,AFFECTS,DNA,viral capsid,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012854,C1516511,AFFECTS,DNA,Chromatin Structure,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012929,C0026237,AFFECTS,"DNA, Mitochondrial",Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012931,C0019397,AFFECTS,Recombinant DNA,Heterochromatin,bacs,celc,1,AFFECTS_BACSafctCELC
+C0012934,C1516511,AFFECTS,"DNA, Satellite",Chromatin Structure,bacs,celc,1,AFFECTS_BACSafctCELC
+C0013982,C0026237,AFFECTS,Emodin,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0013982,C0042760,AFFECTS,Emodin,Virion,bacs,celc,1,AFFECTS_BACSafctCELC
+C0015684,C0596901,AFFECTS,Fatty Acids,Membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0016895,C1622204,AFFECTS,Ganglioside GM1,envelope,bacs,celc,1,AFFECTS_BACSafctCELC
+C0017215,C1167117,AFFECTS,GC Rich Sequence,replication fork,bacs,celc,1,AFFECTS_BACSafctCELC
+C0017725,C0042760,AFFECTS,Glucose,Virion,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018284,C1749467,AFFECTS,Growth Factor,soluble,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018353,C0021868,AFFECTS,Guanosine Triphosphate,Intracellular Membranes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018909,C0887869,AFFECTS,Hemagglutinin,Cell-Matrix Junction,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018909,C1325756,AFFECTS,Hemagglutinin,apoplast,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018909,C1819995,AFFECTS,Hemagglutinin,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0018909,C2752468,AFFECTS,Hemagglutinin,host cell endosome membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0019143,C0032592,AFFECTS,Heparitin Sulfate,Polyribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0019588,C1167322,AFFECTS,Histamine,integral to membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0020196,C0887869,AFFECTS,Hyaluronic Acid,Cell-Matrix Junction,bacs,celc,1,AFFECTS_BACSafctCELC
+C0028606,C1167121,AFFECTS,Nucleic Acids,DNA replication factor A complex location,bacs,celc,1,AFFECTS_BACSafctCELC
+C0031676,C0596901,AFFECTS,Phospholipids,Membrane,bacs,celc,1,AFFECTS_BACSafctCELC
+C0035693,C0034850,AFFECTS,"RNA, Double-Stranded",Endosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0035693,C1819995,AFFECTS,"RNA, Double-Stranded",Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0035696,C0032592,AFFECTS,"RNA, Messenger",Polyribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0035696,C0035553,AFFECTS,"RNA, Messenger",Ribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0035696,C1819347,AFFECTS,"RNA, Messenger",actin filament bundle,bacs,celc,1,AFFECTS_BACSafctCELC
+C0040549,C0026237,AFFECTS,Toxin,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C0040549,C0699040,AFFECTS,Toxin,Cell surface,bacs,celc,1,AFFECTS_BACSafctCELC
+C0082774,C0032592,AFFECTS,"RNA, Guide",Polyribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0206008,C1819995,AFFECTS,2-Mercaptoethanesulfonic Acid,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0242611,C0032592,AFFECTS,"Codon, Terminator",Polyribosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C0314768,C1819995,AFFECTS,Bacterial exotoxin,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C0536566,C0521119,AFFECTS,suilysin,Extracellular,bacs,celc,1,AFFECTS_BACSafctCELC
+C0600680,C1167528,AFFECTS,Untranslated Regions,RNA viral genome,bacs,celc,1,AFFECTS_BACSafctCELC
+C1099354,C0042760,AFFECTS,"RNA, Small Interfering",Virion,bacs,celc,1,AFFECTS_BACSafctCELC
+C1099354,C0175996,AFFECTS,"RNA, Small Interfering",Protoplasm,bacs,celc,1,AFFECTS_BACSafctCELC
+C1099354,C0887883,AFFECTS,"RNA, Small Interfering",Early endosome,bacs,celc,1,AFFECTS_BACSafctCELC
+C1099354,C1166848,AFFECTS,"RNA, Small Interfering",late endosome,bacs,celc,1,AFFECTS_BACSafctCELC
+C1101610,C0026237,AFFECTS,MicroRNAs,Mitochondria,bacs,celc,1,AFFECTS_BACSafctCELC
+C1101610,C1166607,AFFECTS,MicroRNAs,cellular_component,bacs,celc,1,AFFECTS_BACSafctCELC
+C1101610,C1819995,AFFECTS,MicroRNAs,Host Cell,bacs,celc,1,AFFECTS_BACSafctCELC
+C1136191,C0019397,AFFECTS,Boundary Elements,Heterochromatin,bacs,celc,1,AFFECTS_BACSafctCELC
+C1506352,C0175996,AFFECTS,silvestrol,Protoplasm,bacs,celc,1,AFFECTS_BACSafctCELC
+C1519315,C0034850,AFFECTS,Signaling Molecule,Endosomes,bacs,celc,1,AFFECTS_BACSafctCELC
+C1764827,C0004461,AFFECTS,Isolate - microorganism,Axon,bacs,celc,1,AFFECTS_BACSafctCELC
+C2936590,C3548406,AFFECTS,Riboswitch,terminal loop,bacs,celc,1,AFFECTS_BACSafctCELC
+C3714516,C0010834,AFFECTS,tetraspanin-enriched microdomain,Cytoplasm,bacs,celc,1,AFFECTS_BACSafctCELC

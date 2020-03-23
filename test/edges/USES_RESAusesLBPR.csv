@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008976,C0032520,USES,Clinical Trials,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0009015,C0032520,USES,Cloning,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0014503,C0032520,USES,Epidemiologic Methods,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0034656,C0032520,USES,Randomization,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0038136,C0032520,USES,Standardization,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0150105,C0032520,USES,Random Sampling,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0237944,C0032520,USES,Verification of Theories,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0302523,C0005863,USES,Observation in research,Western Blotting,resa,lbpr,1,USES_RESAusesLBPR
+C0679083,C0032520,USES,simulation,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0005863,USES,research study,Western Blotting,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0008630,USES,research study,Chromosome Mapping,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0013786,USES,research study,Electric stimulation technique,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0032520,USES,research study,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0162788,USES,research study,In Situ Hybridization,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0162789,USES,research study,Fluorescent in Situ Hybridization,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0242831,USES,research study,Epitope Mapping,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0282668,USES,research study,Random Amplified Polymorphic DNA Technique,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0598888,USES,research study,gene cloning,resa,lbpr,1,USES_RESAusesLBPR
+C0681814,C0752248,USES,research study,Gene Expression Profiling,resa,lbpr,1,USES_RESAusesLBPR
+C0681815,C0032520,USES,trial study,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0681829,C0162788,USES,in vivo study,In Situ Hybridization,resa,lbpr,1,USES_RESAusesLBPR
+C0681908,C0032520,USES,testing protocols,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0681919,C0005863,USES,quantitative data analysis,Western Blotting,resa,lbpr,1,USES_RESAusesLBPR
+C0683941,C0032520,USES,comparative analysis,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C0887961,C0032520,USES,Endpoint Assay,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1328902,C0032520,USES,human DNA sequencing,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1510568,C0032520,USES,Quantitative procedures,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1513778,C3811844,USES,Mutation Detection,Estimated Glomerular Filtration Rate,resa,lbpr,1,USES_RESAusesLBPR
+C1516365,C1510438,USES,Cellular Assay,Assay,resa,lbpr,1,USES_RESAusesLBPR
+C1516769,C0242831,USES,Computational Technique,Epitope Mapping,resa,lbpr,1,USES_RESAusesLBPR
+C1519068,C0008630,USES,Phylogenetic Analysis,Chromosome Mapping,resa,lbpr,1,USES_RESAusesLBPR
+C1519068,C0032520,USES,Phylogenetic Analysis,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1519068,C0751970,USES,Phylogenetic Analysis,"Sequence Analysis, Protein",resa,lbpr,1,USES_RESAusesLBPR
+C1519068,C2986505,USES,Phylogenetic Analysis,Genomic Profile,resa,lbpr,1,USES_RESAusesLBPR
+C1519941,C0005863,USES,Validation,Western Blotting,resa,lbpr,1,USES_RESAusesLBPR
+C1519941,C0032520,USES,Validation,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1656250,C0752248,USES,positional cloning,Gene Expression Profiling,resa,lbpr,1,USES_RESAusesLBPR
+C1657306,C0032520,USES,Reverse Genetics,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C1882115,C0032520,USES,Normalize,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0005863,USES,Study,Western Blotting,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0014441,USES,Study,Enzyme-Linked Immunosorbent Assay,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0026006,USES,Study,Micronucleus Tests,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0032520,USES,Study,Polymerase Chain Reaction,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0035269,USES,Study,Restriction Mapping,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0162788,USES,Study,In Situ Hybridization,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0162789,USES,Study,Fluorescent in Situ Hybridization,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0162801,USES,Study,Sequence Analysis,resa,lbpr,1,USES_RESAusesLBPR
+C2603343,C0752248,USES,Study,Gene Expression Profiling,resa,lbpr,1,USES_RESAusesLBPR
+C2936546,C0162801,USES,Molecular Typing,Sequence Analysis,resa,lbpr,1,USES_RESAusesLBPR
+C3899698,C1510438,USES,Cell Proliferation Assay,Assay,resa,lbpr,1,USES_RESAusesLBPR

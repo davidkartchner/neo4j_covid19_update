@@ -1,0 +1,619 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002627,C0242786,DIAGNOSES,Amniocentesis,High-Risk Pregnancy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0002978,C0340896,DIAGNOSES,angiogram,Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0002978,C1719672,DIAGNOSES,angiogram,Severe Sepsis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0003515,C0340161,DIAGNOSES,Aortography,Hematomediastinum,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004339,C0004096,DIAGNOSES,Auscultation,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004339,C0007453,DIAGNOSES,Auscultation,Cattle Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004339,C0018802,DIAGNOSES,Auscultation,Congestive heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004339,C0024117,DIAGNOSES,Auscultation,Chronic Obstructive Airway Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004339,C0032285,DIAGNOSES,Auscultation,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0000786,DIAGNOSES,Autopsy,Spontaneous abortion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0003850,DIAGNOSES,Autopsy,Arteriosclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0006271,DIAGNOSES,Autopsy,Bronchiolitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0006285,DIAGNOSES,Autopsy,Bronchopneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0006663,DIAGNOSES,Autopsy,Calcinosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0007453,DIAGNOSES,Autopsy,Cattle Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0010340,DIAGNOSES,Autopsy,Critical Illness,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0014335,DIAGNOSES,Autopsy,Enteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0018799,DIAGNOSES,Autopsy,Heart Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0018801,DIAGNOSES,Autopsy,Heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0021400,DIAGNOSES,Autopsy,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0021933,DIAGNOSES,Autopsy,Intussusception,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0025310,DIAGNOSES,Autopsy,Meningoencephalomyelitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0026846,DIAGNOSES,Autopsy,Muscular Atrophy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0027707,DIAGNOSES,Autopsy,"Nephritis, Interstitial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0031039,DIAGNOSES,Autopsy,Pericardial effusion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0031154,DIAGNOSES,Autopsy,Peritonitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0031256,DIAGNOSES,Autopsy,Petechiae,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0032285,DIAGNOSES,Autopsy,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0034063,DIAGNOSES,Autopsy,Pulmonary Edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0035204,DIAGNOSES,Autopsy,Respiration Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0035436,DIAGNOSES,Autopsy,Rheumatic Fever,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0038353,DIAGNOSES,Autopsy,Gastric Dilatation,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0040584,DIAGNOSES,Autopsy,Tracheitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0042143,DIAGNOSES,Autopsy,Uterine Rupture,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0042708,DIAGNOSES,Autopsy,Viral enteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0042769,DIAGNOSES,Autopsy,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0151798,DIAGNOSES,Autopsy,Hepatic necrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0152262,DIAGNOSES,Autopsy,Cystitis cystica,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0206750,DIAGNOSES,Autopsy,Coronavirus Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0242073,DIAGNOSES,Autopsy,Pulmonary congestion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0264515,DIAGNOSES,Autopsy,"Pneumonia, Necrotizing",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0267230,DIAGNOSES,Autopsy,Abomasitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0267453,DIAGNOSES,Autopsy,Fibrinous enteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0272410,DIAGNOSES,Autopsy,Splenitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0275524,DIAGNOSES,Autopsy,Coinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0276289,DIAGNOSES,Autopsy,Zika Virus Infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0333997,DIAGNOSES,Autopsy,Lymphoid hyperplasia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0339965,DIAGNOSES,Autopsy,Hemorrhagic pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0391922,DIAGNOSES,Autopsy,Hemorrhagic enteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C0392175,DIAGNOSES,Autopsy,Hemorrhage of kidney,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C1175175,DIAGNOSES,Autopsy,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C1262020,DIAGNOSES,Autopsy,diffuse alveolar damage,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C1262313,DIAGNOSES,Autopsy,Invasive Fungal Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C1279945,DIAGNOSES,Autopsy,Acute interstitial pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C1845609,DIAGNOSES,Autopsy,Lymphoid depletion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C3472181,DIAGNOSES,Autopsy,Severe dehydration,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0004398,C3714509,DIAGNOSES,Autopsy,Nutrition Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0007570,DIAGNOSES,Biopsy,Celiac Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0008312,DIAGNOSES,Biopsy,Primary biliary cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0019158,DIAGNOSES,Biopsy,Hepatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0019189,DIAGNOSES,Biopsy,"Hepatitis, Chronic",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0021359,DIAGNOSES,Biopsy,Infertility,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0021831,DIAGNOSES,Biopsy,Intestinal Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0022660,DIAGNOSES,Biopsy,"Kidney Failure, Acute",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0023895,DIAGNOSES,Biopsy,Liver diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0024205,DIAGNOSES,Biopsy,Lymphadenitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0027121,DIAGNOSES,Biopsy,Myositis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0032285,DIAGNOSES,Biopsy,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0042373,DIAGNOSES,Biopsy,Vascular Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0085306,DIAGNOSES,Biopsy,Feline infectious peritonitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0242770,DIAGNOSES,Biopsy,Bronchiolitis Obliterans Organizing Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0264515,DIAGNOSES,Biopsy,"Pneumonia, Necrotizing",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0267446,DIAGNOSES,Biopsy,Acute gastroenteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0276253,DIAGNOSES,Biopsy,Cytomegaloviral pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0343537,DIAGNOSES,Biopsy,Specific viral infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0524851,DIAGNOSES,Biopsy,Neurodegenerative Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C0549493,DIAGNOSES,Biopsy,Alveolitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C1262020,DIAGNOSES,Biopsy,diffuse alveolar damage,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C1262202,DIAGNOSES,Biopsy,lymphocytic alveolitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C1394254,DIAGNOSES,Biopsy,Cryptitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C1397307,DIAGNOSES,Biopsy,Cardiac fibrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C1963747,DIAGNOSES,Biopsy,Herpes simplex hepatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005558,C3854224,DIAGNOSES,Biopsy,Acute idiopathic pulmonary fibrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0005954,C0277556,DIAGNOSES,Bone marrow biopsy,Recurrent disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006282,C0006285,DIAGNOSES,Contrast bronchogram,Bronchopneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006282,C0740940,DIAGNOSES,Contrast bronchogram,ALVEOLAR Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006290,C0004096,DIAGNOSES,Bronchoscopy,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006290,C0024282,DIAGNOSES,Bronchoscopy,Lymphocytosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006290,C0041327,DIAGNOSES,Bronchoscopy,"Tuberculosis, Pulmonary",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006290,C0235896,DIAGNOSES,Bronchoscopy,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0006290,C1701940,DIAGNOSES,Bronchoscopy,"Pneumonia, Ventilator-Associated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0007438,C0745157,DIAGNOSES,Swan-Ganz Catheterization,hypokinesis global,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0009378,C0238106,DIAGNOSES,colonoscopy,Clostridium difficile colitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0009450,DIAGNOSES,Differential Diagnosis,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0029342,DIAGNOSES,Differential Diagnosis,Orthomyxoviridae Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0032285,DIAGNOSES,Differential Diagnosis,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0032310,DIAGNOSES,Differential Diagnosis,"Pneumonia, Viral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0035204,DIAGNOSES,Differential Diagnosis,Respiration Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0035222,DIAGNOSES,Differential Diagnosis,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0035455,DIAGNOSES,Differential Diagnosis,Rhinitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0206062,DIAGNOSES,Differential Diagnosis,"Lung Diseases, Interstitial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0206750,DIAGNOSES,Differential Diagnosis,Coronavirus Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0275524,DIAGNOSES,Differential Diagnosis,Coinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C0340154,DIAGNOSES,Differential Diagnosis,Acute mediastinitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011906,C1175175,DIAGNOSES,Differential Diagnosis,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0003047,DIAGNOSES,Laboratory Diagnosis,Animal Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0006277,DIAGNOSES,Laboratory Diagnosis,Bronchitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0011636,DIAGNOSES,Laboratory Diagnosis,Dermatophytosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0040558,DIAGNOSES,Laboratory Diagnosis,Toxoplasmosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0276289,DIAGNOSES,Laboratory Diagnosis,Zika Virus Infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011911,C0796085,DIAGNOSES,Laboratory Diagnosis,Nance-Horan syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011923,C0002880,DIAGNOSES,Diagnostic Imaging,Autoimmune hemolytic anemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011923,C0009450,DIAGNOSES,Diagnostic Imaging,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011923,C0037921,DIAGNOSES,Diagnostic Imaging,Spinal ataxia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011923,C1640363,DIAGNOSES,Diagnostic Imaging,Vector-transmitted infectious disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011930,C0339901,DIAGNOSES,"Diagnostic Tests, Routine",Acute respiratory infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011930,C0343055,DIAGNOSES,"Diagnostic Tests, Routine",Generalized pustular psoriasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0011933,C1290884,DIAGNOSES,diagnostic use,Inflammatory disorder,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0007193,DIAGNOSES,Echocardiography,"Cardiomyopathy, Dilated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0007194,DIAGNOSES,Echocardiography,Hypertrophic Cardiomyopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0007196,DIAGNOSES,Echocardiography,Restrictive cardiomyopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0008350,DIAGNOSES,Echocardiography,Cholelithiasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0010051,DIAGNOSES,Echocardiography,Coronary Aneurysm,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0014121,DIAGNOSES,Echocardiography,Bacterial Endocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0015695,DIAGNOSES,Echocardiography,Fatty Liver,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0016522,DIAGNOSES,Echocardiography,"Foramen Ovale, Patent",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0018801,DIAGNOSES,Echocardiography,Heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0018802,DIAGNOSES,Echocardiography,Congestive heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0027051,DIAGNOSES,Echocardiography,Myocardial Infarction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0027059,DIAGNOSES,Echocardiography,Myocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0031039,DIAGNOSES,Echocardiography,Pericardial effusion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0031046,DIAGNOSES,Echocardiography,Pericarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0034063,DIAGNOSES,Echocardiography,Pulmonary Edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0035439,DIAGNOSES,Echocardiography,Rheumatic Heart Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0036690,DIAGNOSES,Echocardiography,Septicemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0040961,DIAGNOSES,Echocardiography,Tricuspid Valve Insufficiency,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0264865,DIAGNOSES,Echocardiography,Valvular endocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0546817,DIAGNOSES,Echocardiography,Fluid overload,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0685102,DIAGNOSES,Echocardiography,Feline hypertrophic cardiomyopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0741276,DIAGNOSES,Echocardiography,ATRIAL ENLARGEMENT,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0745157,DIAGNOSES,Echocardiography,hypokinesis global,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0745674,DIAGNOSES,Echocardiography,Dilated left ventricle,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C0865575,DIAGNOSES,Echocardiography,Chronic Mitral valve disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C1290384,DIAGNOSES,Echocardiography,Structural disorder of heart,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C1719672,DIAGNOSES,Echocardiography,Severe Sepsis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C1739395,DIAGNOSES,Echocardiography,Takotsubo Cardiomyopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C3266753,DIAGNOSES,Echocardiography,Severe left ventricular systolic dysfunction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C3274789,DIAGNOSES,Echocardiography,Structural Heart Abnormality,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013516,C3825545,DIAGNOSES,Echocardiography,Veterinary cardiology,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013520,C0018801,DIAGNOSES,"Echocardiography, Doppler",Heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013521,C0277132,DIAGNOSES,"Echocardiography, Doppler, Color",Infection by Aelurostrongylus,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013819,C0009421,DIAGNOSES,Electroencephalography,Comatose,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0013819,C0151740,DIAGNOSES,Electroencephalography,Intracranial Hypertension,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0014245,C0004030,DIAGNOSES,Endoscopy (procedure),Aspergillosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0017195,C0013298,DIAGNOSES,Endoscopy of stomach,Duodenitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0004096,DIAGNOSES,Pulmonary function tests,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0011615,DIAGNOSES,Pulmonary function tests,"Dermatitis, Atopic",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0024115,DIAGNOSES,Pulmonary function tests,Lung diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0085581,DIAGNOSES,Pulmonary function tests,Restrictive lung disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0155877,DIAGNOSES,Pulmonary function tests,Allergic asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024119,C0264408,DIAGNOSES,Pulmonary function tests,Childhood asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0008373,DIAGNOSES,Magnetic Resonance Imaging,Cholesteatoma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0009450,DIAGNOSES,Magnetic Resonance Imaging,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0014059,DIAGNOSES,Magnetic Resonance Imaging,"Encephalomyelitis, Acute Disseminated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0018378,DIAGNOSES,Magnetic Resonance Imaging,Guillain-Barre Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0023520,DIAGNOSES,Magnetic Resonance Imaging,Leukodystrophy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0023890,DIAGNOSES,Magnetic Resonance Imaging,Liver Cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0026769,DIAGNOSES,Magnetic Resonance Imaging,Multiple Sclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0026976,DIAGNOSES,Magnetic Resonance Imaging,"Myelitis, Transverse",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0027059,DIAGNOSES,Magnetic Resonance Imaging,Myocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0029134,DIAGNOSES,Magnetic Resonance Imaging,Optic Neuritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0029408,DIAGNOSES,Magnetic Resonance Imaging,Degenerative polyarthritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0038012,DIAGNOSES,Magnetic Resonance Imaging,Spondylitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0038013,DIAGNOSES,Magnetic Resonance Imaging,Ankylosing spondylitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0038525,DIAGNOSES,Magnetic Resonance Imaging,Subarachnoid Hemorrhage,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0038539,DIAGNOSES,Magnetic Resonance Imaging,"Empyema, Subdural",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0042384,DIAGNOSES,Magnetic Resonance Imaging,Vasculitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0085306,DIAGNOSES,Magnetic Resonance Imaging,Feline infectious peritonitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0151740,DIAGNOSES,Magnetic Resonance Imaging,Intracranial Hypertension,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0236073,DIAGNOSES,Magnetic Resonance Imaging,Cerebellar infarction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0238051,DIAGNOSES,Magnetic Resonance Imaging,Cerebral Angiitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0238288,DIAGNOSES,Magnetic Resonance Imaging,"Muscular Dystrophy, Facioscapulohumeral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0241950,DIAGNOSES,Magnetic Resonance Imaging,bowel infarction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0270612,DIAGNOSES,Magnetic Resonance Imaging,Leukoencephalopathies,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0281799,DIAGNOSES,Magnetic Resonance Imaging,Spinal stenosis in cervical region with myelopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0340896,DIAGNOSES,Magnetic Resonance Imaging,Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0400966,DIAGNOSES,Magnetic Resonance Imaging,Non-alcoholic Fatty Liver Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0748903,DIAGNOSES,Magnetic Resonance Imaging,spinal cord involvement,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0751843,DIAGNOSES,Magnetic Resonance Imaging,"Infarction, Anterior Cerebral Artery",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C0948162,DIAGNOSES,Magnetic Resonance Imaging,Edema of bone marrow,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0024485,C1623038,DIAGNOSES,Magnetic Resonance Imaging,Cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0027853,C0155338,DIAGNOSES,Neurologic Examination,Total ophthalmoplegia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0027853,C0205858,DIAGNOSES,Neurologic Examination,General Paralysis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0027853,C0235927,DIAGNOSES,Neurologic Examination,Vestibulocerebellar ataxia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0027853,C0730322,DIAGNOSES,Neurologic Examination,Multiple evanescent white dot syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0027902,C0023944,DIAGNOSES,Neuropsychological Tests,Locked-In Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0029090,C2033345,DIAGNOSES,Ophthalmoscopy,Edema of optic disc of bilateral eyes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0029161,C0011860,DIAGNOSES,Oral Glucose Tolerance Test,"Diabetes Mellitus, Non-Insulin-Dependent",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0030247,C1096155,DIAGNOSES,Palpation,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0030646,C0016052,DIAGNOSES,Patch Tests,Fibromuscular Dysplasia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0031746,C1860224,DIAGNOSES,Photofluorography,ABLEPHARON-MACROSTOMIA SYNDROME,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0032743,C0019655,DIAGNOSES,Positron-Emission Tomography,Histoplasmosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0032743,C1262313,DIAGNOSES,Positron-Emission Tomography,Invasive Fungal Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0004623,DIAGNOSES,Radionuclide Imaging,Bacterial Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0006267,DIAGNOSES,Radionuclide Imaging,Bronchiectasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0009225,DIAGNOSES,Radionuclide Imaging,Coenuriasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0009450,DIAGNOSES,Radionuclide Imaging,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0010340,DIAGNOSES,Radionuclide Imaging,Critical Illness,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0031542,DIAGNOSES,Radionuclide Imaging,Phlebitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0032285,DIAGNOSES,Radionuclide Imaging,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0151740,DIAGNOSES,Radionuclide Imaging,Intracranial Hypertension,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0206062,DIAGNOSES,Radionuclide Imaging,"Lung Diseases, Interstitial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0235896,DIAGNOSES,Radionuclide Imaging,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0265514,DIAGNOSES,Radionuclide Imaging,Dermatofibrosis lenticularis disseminata,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0442874,DIAGNOSES,Radionuclide Imaging,Neuropathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0546817,DIAGNOSES,Radionuclide Imaging,Fluid overload,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0729531,DIAGNOSES,Radionuclide Imaging,Viral respiratory infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C0730322,DIAGNOSES,Radionuclide Imaging,Multiple evanescent white dot syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C1096155,DIAGNOSES,Radionuclide Imaging,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C1175175,DIAGNOSES,Radionuclide Imaging,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0034606,C1394891,DIAGNOSES,Radionuclide Imaging,Intrinsic Factor Deficiency,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0037296,C0004096,DIAGNOSES,Hypersensitivity skin testing,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0037296,C0023281,DIAGNOSES,Hypersensitivity skin testing,Leishmaniasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0037981,C0001883,DIAGNOSES,Spirometry,Airway Obstruction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0037981,C0024117,DIAGNOSES,Spirometry,Chronic Obstructive Airway Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0037981,C0042769,DIAGNOSES,Spirometry,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039810,C0034735,DIAGNOSES,thermography,Raynaud Phenomenon,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0002871,DIAGNOSES,Plain chest X-ray,Anemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0004626,DIAGNOSES,Plain chest X-ray,"Pneumonia, Bacterial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0006285,DIAGNOSES,Plain chest X-ray,Bronchopneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0019655,DIAGNOSES,Plain chest X-ray,Histoplasmosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0020312,DIAGNOSES,Plain chest X-ray,Hydrothorax,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0032285,DIAGNOSES,Plain chest X-ray,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0032310,DIAGNOSES,Plain chest X-ray,"Pneumonia, Viral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0032326,DIAGNOSES,Plain chest X-ray,Pneumothorax,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0034063,DIAGNOSES,Plain chest X-ray,Pulmonary Edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0034069,DIAGNOSES,Plain chest X-ray,Pulmonary Fibrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0035243,DIAGNOSES,Plain chest X-ray,Respiratory Tract Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0038826,DIAGNOSES,Plain chest X-ray,Superinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0039239,DIAGNOSES,Plain chest X-ray,Sinus Tachycardia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0041296,DIAGNOSES,Plain chest X-ray,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0206061,DIAGNOSES,Plain chest X-ray,"Pneumonia, Interstitial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0235896,DIAGNOSES,Plain chest X-ray,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0264364,DIAGNOSES,Plain chest X-ray,Bronchiolar disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0264545,DIAGNOSES,Plain chest X-ray,Thickening of pleura,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0521530,DIAGNOSES,Plain chest X-ray,Lung consolidation,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C0747676,DIAGNOSES,Plain chest X-ray,pneumonia childhood,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C1300643,DIAGNOSES,Plain chest X-ray,Bilateral bronchopneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C2076600,DIAGNOSES,Plain chest X-ray,Influenza due to Influenza A virus subtype H1N1,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0039985,C3694279,DIAGNOSES,Plain chest X-ray,Middle East Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040017,C0398623,DIAGNOSES,Thrombelastography,Thrombophilia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0006267,DIAGNOSES,tomography,Bronchiectasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0010278,DIAGNOSES,tomography,Craniosynostosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0021933,DIAGNOSES,tomography,Intussusception,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0022578,DIAGNOSES,tomography,Keratoconus,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0023890,DIAGNOSES,tomography,Liver Cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0032285,DIAGNOSES,tomography,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0035204,DIAGNOSES,tomography,Respiration Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0036690,DIAGNOSES,tomography,Septicemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0149516,DIAGNOSES,tomography,Chronic sinusitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0206062,DIAGNOSES,tomography,"Lung Diseases, Interstitial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0264364,DIAGNOSES,tomography,Bronchiolar disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0400966,DIAGNOSES,tomography,Non-alcoholic Fatty Liver Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0597984,DIAGNOSES,tomography,Biliary stricture,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0600260,DIAGNOSES,tomography,"Lung Diseases, Obstructive",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0748159,DIAGNOSES,tomography,pulmonary involvement,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C0748168,DIAGNOSES,tomography,Pulmonary Pathology,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C1142578,DIAGNOSES,tomography,Bilateral pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C1262313,DIAGNOSES,tomography,Invasive Fungal Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C1623038,DIAGNOSES,tomography,Cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040395,C2676739,DIAGNOSES,tomography,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040398,C0032285,DIAGNOSES,"Tomography, Emission-Computed",Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040399,C0340896,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040404,C0004096,DIAGNOSES,"Tomography, X-Ray",Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0006267,DIAGNOSES,X-Ray Computed Tomography,Bronchiectasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0032285,DIAGNOSES,X-Ray Computed Tomography,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0035222,DIAGNOSES,X-Ray Computed Tomography,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0038539,DIAGNOSES,X-Ray Computed Tomography,"Empyema, Subdural",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0151945,DIAGNOSES,X-Ray Computed Tomography,Thrombosis of cerebral veins,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0235896,DIAGNOSES,X-Ray Computed Tomography,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C0876973,DIAGNOSES,X-Ray Computed Tomography,Infectious disease of lung,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C1142578,DIAGNOSES,X-Ray Computed Tomography,Bilateral pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C1175175,DIAGNOSES,X-Ray Computed Tomography,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C2676739,DIAGNOSES,X-Ray Computed Tomography,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0040405,C3178801,DIAGNOSES,X-Ray Computed Tomography,"Stroke, Lacunar",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041290,C0026919,DIAGNOSES,Tuberculin Test,"Mycobacterium Infections, Nontuberculous",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041290,C0041296,DIAGNOSES,Tuberculin Test,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041290,C0041326,DIAGNOSES,Tuberculin Test,Pleural Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041290,C0872054,DIAGNOSES,Tuberculin Test,latent infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041290,C1609538,DIAGNOSES,Tuberculin Test,Latent Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0001403,DIAGNOSES,Ultrasonography,Addison Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0007453,DIAGNOSES,Ultrasonography,Cattle Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0008311,DIAGNOSES,Ultrasonography,Cholangitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0014175,DIAGNOSES,Ultrasonography,Endometriosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0015695,DIAGNOSES,Ultrasonography,Fatty Liver,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0020295,DIAGNOSES,Ultrasonography,Hydronephrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0030305,DIAGNOSES,Ultrasonography,Pancreatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0032285,DIAGNOSES,Ultrasonography,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0149871,DIAGNOSES,Ultrasonography,Deep Vein Thrombosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0151740,DIAGNOSES,Ultrasonography,Intracranial Hypertension,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0155773,DIAGNOSES,Ultrasonography,Portal vein thrombosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0342500,DIAGNOSES,Ultrasonography,Adrenal mass,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0398350,DIAGNOSES,Ultrasonography,Acute cardiac pulmonary edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0400966,DIAGNOSES,Ultrasonography,Non-alcoholic Fatty Liver Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0521530,DIAGNOSES,Ultrasonography,Lung consolidation,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0522614,DIAGNOSES,Ultrasonography,Diffuse hypertrophy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0677944,DIAGNOSES,Ultrasonography,Sentinel node (disorder),diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0694549,DIAGNOSES,Ultrasonography,Community acquired pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C0747676,DIAGNOSES,Ultrasonography,pneumonia childhood,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C1096155,DIAGNOSES,Ultrasonography,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C1561643,DIAGNOSES,Ultrasonography,Chronic Kidney Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C2062441,DIAGNOSES,Ultrasonography,Influenza A,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0041618,C4085595,DIAGNOSES,Ultrasonography,AL-RAQAD SYNDROME,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0042070,C0042580,DIAGNOSES,Urography,Vesico-Ureteral Reflux,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0042815,C0004096,DIAGNOSES,Visual Analog Pain Scale,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0042815,C0520679,DIAGNOSES,Visual Analog Pain Scale,"Sleep Apnea, Obstructive",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0042825,C0017601,DIAGNOSES,Visual field study,Glaucoma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0043299,C0009450,DIAGNOSES,Diagnostic radiologic examination,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0043299,C0032285,DIAGNOSES,Diagnostic radiologic examination,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0043299,C0043528,DIAGNOSES,Diagnostic radiologic examination,Zoonoses,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0043299,C0849867,DIAGNOSES,Diagnostic radiologic examination,Widespread Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0043299,C0876973,DIAGNOSES,Diagnostic radiologic examination,Infectious disease of lung,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0079304,C0014869,DIAGNOSES,Esophagogastroduodenoscopy,Peptic Esophagitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0079835,C1306856,DIAGNOSES,"Microscopy, Immunoelectron",Megaloblastic anemia due to inborn errors of metabolism,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0080264,C1701940,DIAGNOSES,"Ultrasonography, Mammary","Pneumonia, Ventilator-Associated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0085532,C0008679,DIAGNOSES,Coronary angiography,Chronic disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0085532,C0010054,DIAGNOSES,Coronary angiography,Coronary Arteriosclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0085532,C0011847,DIAGNOSES,Coronary angiography,Diabetes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0085853,C0029883,DIAGNOSES,Tympanometry,Otitis Media with Effusion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0085853,C0271429,DIAGNOSES,Tympanometry,Acute otitis media,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0002395,DIAGNOSES,Diagnostic tests,Alzheimer's Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0004626,DIAGNOSES,Diagnostic tests,"Pneumonia, Bacterial",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0004771,DIAGNOSES,Diagnostic tests,Bartonella Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0006271,DIAGNOSES,Diagnostic tests,Bronchiolitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0009450,DIAGNOSES,Diagnostic tests,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0016052,DIAGNOSES,Diagnostic tests,Fibromuscular Dysplasia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0021400,DIAGNOSES,Diagnostic tests,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0023281,DIAGNOSES,Diagnostic tests,Leishmaniasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0023530,DIAGNOSES,Diagnostic tests,Leukopenia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0024530,DIAGNOSES,Diagnostic tests,Malaria,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0042769,DIAGNOSES,Diagnostic tests,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0238644,DIAGNOSES,Diagnostic tests,"Anemia, severe",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0264219,DIAGNOSES,Diagnostic tests,Acute respiratory disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0275524,DIAGNOSES,Diagnostic tests,Coinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0694549,DIAGNOSES,Diagnostic tests,Community acquired pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C0752235,DIAGNOSES,Diagnostic tests,Lyme Neuroborreliosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0086143,C1175175,DIAGNOSES,Diagnostic tests,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0087028,C0524620,DIAGNOSES,Step Test,Metabolic Syndrome X,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0087028,C3670036,DIAGNOSES,Step Test,Pituitary pars intermedia dysfunction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150411,C0035222,DIAGNOSES,Analysis of arterial blood gases and pH,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150411,C0268032,DIAGNOSES,Analysis of arterial blood gases and pH,Compensated metabolic acidosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150411,C0340194,DIAGNOSES,Analysis of arterial blood gases and pH,Respiratory failure without hypercapnia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150496,C0007194,DIAGNOSES,Cardiac monitoring,Hypertrophic Cardiomyopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150866,C0008728,DIAGNOSES,Biopsy of skin procedure,Eosinophilic granulomatosis with polyangiitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150866,C0011603,DIAGNOSES,Biopsy of skin procedure,Dermatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0150866,C1262091,DIAGNOSES,Biopsy of skin procedure,Lymphocytic infiltration,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0162701,C0037315,DIAGNOSES,Polysomnography,Sleep Apnea Syndromes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0162701,C0520679,DIAGNOSES,Polysomnography,"Sleep Apnea, Obstructive",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0176531,C0041326,DIAGNOSES,Biopsy of pleura (procedure),Pleural Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0177803,C0270627,DIAGNOSES,Magnetic Resonance Imaging (MRI) of Spine,"Myelitis, Acute Transverse",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0184921,C0242770,DIAGNOSES,Excision biopsy,Bronchiolitis Obliterans Organizing Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0184922,C0235896,DIAGNOSES,Incisional biopsy - action,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0185283,C0238288,DIAGNOSES,Muscle biopsy,"Muscular Dystrophy, Facioscapulohumeral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0189024,C1262006,DIAGNOSES,Endoscopy of nose,Bacterial sinusitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0191244,C0854532,DIAGNOSES,Biopsy of pericardium,Myopericarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0192867,C0009319,DIAGNOSES,Biopsy of colon,Colitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0192867,C0021390,DIAGNOSES,Biopsy of colon,Inflammatory Bowel Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0193050,C0270938,DIAGNOSES,Biopsy of rectum (procedure),Equine grass sickness,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0194073,C0008728,DIAGNOSES,Kidney biopsy,Eosinophilic granulomatosis with polyangiitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0194073,C0017668,DIAGNOSES,Kidney biopsy,Focal glomerulosclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0200000,C0005686,DIAGNOSES,Cystometrogram,Urinary Bladder Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0200045,C0020295,DIAGNOSES,Manual pelvic examination (procedure),Hydronephrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0200778,C0036690,DIAGNOSES,"Necropsy (autopsy), gross examination only; without CNS",Septicemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202616,C0086795,DIAGNOSES,"Radiologic examination, osseous survey, complete",Pfaundler-Hurler Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202691,C1527311,DIAGNOSES,CAT scan of head,Brain Edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202732,C0024959,DIAGNOSES,Radiography of nasal sinuses,Maxillary Sinusitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0006267,DIAGNOSES,Chest CT,Bronchiectasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0018801,DIAGNOSES,Chest CT,Heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0026946,DIAGNOSES,Chest CT,Mycoses,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0032285,DIAGNOSES,Chest CT,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0032310,DIAGNOSES,Chest CT,"Pneumonia, Viral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0034069,DIAGNOSES,Chest CT,Pulmonary Fibrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0041327,DIAGNOSES,Chest CT,"Tuberculosis, Pulmonary",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0149725,DIAGNOSES,Chest CT,Lower respiratory tract infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0521530,DIAGNOSES,Chest CT,Lung consolidation,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C0747635,DIAGNOSES,Chest CT,Bilateral pleural effusion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C1142578,DIAGNOSES,Chest CT,Bilateral pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C2676739,DIAGNOSES,Chest CT,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C3694279,DIAGNOSES,Chest CT,Middle East Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202823,C4476767,DIAGNOSES,Chest CT,Diffuse alveolar hemorrhage,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202850,C0010051,DIAGNOSES,Cardiac tomography,Coronary Aneurysm,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0202850,C0340896,DIAGNOSES,Cardiac tomography,Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0203240,C0029453,DIAGNOSES,Radiography of wrist,Osteopenia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0203634,C0340896,DIAGNOSES,Nuclear medicine procedure,Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0206054,C0014121,DIAGNOSES,"Echocardiography, Transesophageal",Bacterial Endocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0206054,C0087086,DIAGNOSES,"Echocardiography, Transesophageal",Thrombus,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0260180,C0009450,DIAGNOSES,Pupillometry,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0260180,C0011847,DIAGNOSES,Pupillometry,Diabetes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0376335,C0341439,DIAGNOSES,fMRI,Chronic liver disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0376529,C1175175,DIAGNOSES,Capnography,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0398523,C0151773,DIAGNOSES,Bone marrow aspiration procedure,Bone marrow depression,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0399805,C0033680,DIAGNOSES,Biopsy of duodenum,Protein-Losing Enteropathies,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0412585,C0007785,DIAGNOSES,CAT scan of brain,Cerebral Infarction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0412675,C0014059,DIAGNOSES,MRI brain procedure,"Encephalomyelitis, Acute Disseminated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0412675,C0270627,DIAGNOSES,MRI brain procedure,"Myelitis, Acute Transverse",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0001314,DIAGNOSES,diagnostic procedure,Acute Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0021400,DIAGNOSES,diagnostic procedure,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0022104,DIAGNOSES,diagnostic procedure,Irritable Bowel Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0023281,DIAGNOSES,diagnostic procedure,Leishmaniasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0029342,DIAGNOSES,diagnostic procedure,Orthomyxoviridae Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0032269,DIAGNOSES,diagnostic procedure,Pneumococcal Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0035243,DIAGNOSES,diagnostic procedure,Respiratory Tract Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0036690,DIAGNOSES,diagnostic procedure,Septicemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0041296,DIAGNOSES,diagnostic procedure,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0042769,DIAGNOSES,diagnostic procedure,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C0694549,DIAGNOSES,diagnostic procedure,Community acquired pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430022,C1175175,DIAGNOSES,diagnostic procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430456,C0948089,DIAGNOSES,12 lead ECG,Acute Coronary Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430479,C0151815,DIAGNOSES,Arterial blood flow test,mesenteric occlusion,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430501,C0036421,DIAGNOSES,Microscopic Angioscopy,Systemic Scleroderma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430561,C0004096,DIAGNOSES,Skin prick test,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430561,C0041327,DIAGNOSES,Skin prick test,"Tuberculosis, Pulmonary",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430561,C1960047,DIAGNOSES,Skin prick test,Moderate persistent asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430568,C0520679,DIAGNOSES,Oral provocation test,"Sleep Apnea, Obstructive",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430568,C0746949,DIAGNOSES,Oral provocation test,nsaid allergy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430701,C0017168,DIAGNOSES,Esophageal pH Monitoring,Gastroesophageal reflux disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0430807,C1135188,DIAGNOSES,Sensory nerve conduction study,Critical illness myopathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0008780,DIAGNOSES,Diagnostic assessment,Ciliary Motility Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0009450,DIAGNOSES,Diagnostic assessment,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0014013,DIAGNOSES,Diagnostic assessment,"Empyema, Pleural",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0021831,DIAGNOSES,Diagnostic assessment,Intestinal Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0026691,DIAGNOSES,Diagnostic assessment,Mucocutaneous Lymph Node Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0431080,C0264364,DIAGNOSES,Diagnostic assessment,Bronchiolar disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0444186,C0149678,DIAGNOSES,Smear test,Epstein-Barr Virus Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0444186,C0858318,DIAGNOSES,Smear test,Plasmodium falciparum infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0455973,C0011847,DIAGNOSES,Retinoscopy,Diabetes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0497093,C0016627,DIAGNOSES,Sensitivity test,Influenza in Birds,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0497093,C0442886,DIAGNOSES,Sensitivity test,Secondary Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0524957,C0022578,DIAGNOSES,Corneal Topography,Keratoconus,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0542504,C3825545,DIAGNOSES,Standard ECG,Veterinary cardiology,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0558534,C0023895,DIAGNOSES,Percutaneous liver biopsy,Liver diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0576453,C0021390,DIAGNOSES,Biopsy of ileum,Inflammatory Bowel Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C0013570,DIAGNOSES,Buccal smear procedure,"Ecthyma, Contagious",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C0021400,DIAGNOSES,Buccal smear procedure,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C0035243,DIAGNOSES,Buccal smear procedure,Respiratory Tract Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C0042769,DIAGNOSES,Buccal smear procedure,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C1175175,DIAGNOSES,Buccal smear procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0581714,C1257845,DIAGNOSES,Buccal smear procedure,"Enteritis, Pseudomembranous",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596350,C0004623,DIAGNOSES,communicable disease diagnosis (procedure),Bacterial Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596350,C0024530,DIAGNOSES,communicable disease diagnosis (procedure),Malaria,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0002395,DIAGNOSES,Early Diagnosis,Alzheimer's Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0009450,DIAGNOSES,Early Diagnosis,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0011860,DIAGNOSES,Early Diagnosis,"Diabetes Mellitus, Non-Insulin-Dependent",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0019158,DIAGNOSES,Early Diagnosis,Hepatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0023895,DIAGNOSES,Early Diagnosis,Liver diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0029342,DIAGNOSES,Early Diagnosis,Orthomyxoviridae Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0039128,DIAGNOSES,Early Diagnosis,Syphilis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0235430,DIAGNOSES,Early Diagnosis,Ketonemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0235896,DIAGNOSES,Early Diagnosis,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0275518,DIAGNOSES,Early Diagnosis,Acute infectious disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0524851,DIAGNOSES,Early Diagnosis,Neurodegenerative Disorders,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0596473,C0746883,DIAGNOSES,Early Diagnosis,Febrile Neutropenia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597266,C0600260,DIAGNOSES,polygraphy,"Lung Diseases, Obstructive",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0003864,DIAGNOSES,rapid diagnosis,Arthritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0009450,DIAGNOSES,rapid diagnosis,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0021400,DIAGNOSES,rapid diagnosis,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0036690,DIAGNOSES,rapid diagnosis,Septicemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0041466,DIAGNOSES,rapid diagnosis,Typhoid Fever,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0597356,C0155626,DIAGNOSES,rapid diagnosis,Acute myocardial infarction,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0598801,C0014038,DIAGNOSES,Diffusion weighted imaging,Encephalitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0679557,C4049006,DIAGNOSES,histological diagnosis,Selective immunoglobulin A deficiency,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0679575,C0007684,DIAGNOSES,Neuroimaging,Central Nervous System Infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0679575,C0018378,DIAGNOSES,Neuroimaging,Guillain-Barre Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0679575,C0730322,DIAGNOSES,Neuroimaging,Multiple evanescent white dot syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0679575,C0751956,DIAGNOSES,Neuroimaging,Acute Cerebrovascular Accidents,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C0021400,DIAGNOSES,internal-external locus of control scale,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C0032285,DIAGNOSES,internal-external locus of control scale,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C0270724,DIAGNOSES,internal-external locus of control scale,Infantile Neuroaxonal Dystrophy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C0275524,DIAGNOSES,internal-external locus of control scale,Coinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C0376356,DIAGNOSES,internal-external locus of control scale,Premenstrual Tension,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C1290886,DIAGNOSES,internal-external locus of control scale,Chronic inflammatory disorder,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0683454,C2076600,DIAGNOSES,internal-external locus of control scale,Influenza due to Influenza A virus subtype H1N1,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0699749,C1175175,DIAGNOSES,disease stage,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0740463,C0004096,DIAGNOSES,Biopsy of bronchus,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0001768,DIAGNOSES,work up,Agammaglobulinemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0004610,DIAGNOSES,work up,Bacteremia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0004623,DIAGNOSES,work up,Bacterial Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0006267,DIAGNOSES,work up,Bronchiectasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0009450,DIAGNOSES,work up,Communicable Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0021051,DIAGNOSES,work up,Immunologic Deficiency Syndromes,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0032285,DIAGNOSES,work up,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0085082,DIAGNOSES,work up,Fungemia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C0264515,DIAGNOSES,work up,"Pneumonia, Necrotizing",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0750430,C2103602,DIAGNOSES,work up,Autoimmune Primary Adrenal Insufficiency,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0796357,C4288963,DIAGNOSES,Genetic Variation Analysis,Hepatitis C Virus Infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0849974,C0004096,DIAGNOSES,Pulmonary Function Test/Forced Expiratory Volume 1,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0852695,C0021390,DIAGNOSES,Biopsy of Mucosa,Inflammatory Bowel Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0852695,C0038358,DIAGNOSES,Biopsy of Mucosa,Gastric ulcer,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0860888,C0034065,DIAGNOSES,"Tomography, Spiral Computed",Pulmonary Embolism,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0863477,C1262202,DIAGNOSES,transbronchial lung biopsy,lymphocytic alveolitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0872186,C1846721,DIAGNOSES,high throughput analysis,"Laryngeal Atresia, Encephalocele, and Limb Deformities",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0872257,C0021400,DIAGNOSES,rapid technique,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0872257,C0339901,DIAGNOSES,rapid technique,Acute respiratory infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0872257,C0729531,DIAGNOSES,rapid technique,Viral respiratory infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0877853,C2062441,DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",Influenza A,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0883613,C0024115,DIAGNOSES,ultrasound chest,Lung diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0883613,C0032285,DIAGNOSES,ultrasound chest,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0883613,C0032326,DIAGNOSES,ultrasound chest,Pneumothorax,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0920149,C0029456,DIAGNOSES,Bone densitometry procedure,Osteoporosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0920550,C0001175,DIAGNOSES,HIV diagnosis,Acquired Immunodeficiency Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0920550,C0019693,DIAGNOSES,HIV diagnosis,HIV Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0920550,C0041296,DIAGNOSES,HIV diagnosis,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0920688,C0024117,DIAGNOSES,cancer diagnosis,Chronic Obstructive Airway Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0948501,C0008325,DIAGNOSES,Ultrasound examination,Cholecystitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C0948501,C0019158,DIAGNOSES,Ultrasound examination,Hepatitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1141922,C0035455,DIAGNOSES,Inhibitory antibodies,Rhinitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1167856,C0024530,DIAGNOSES,blood smear test,Malaria,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1168023,C1719672,DIAGNOSES,gastric ph,Severe Sepsis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1282548,C0341439,DIAGNOSES,Examination by method,Chronic liver disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1304836,C0041296,DIAGNOSES,Mantoux test,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1304881,C0018801,DIAGNOSES,Myocardial biopsy,Heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1304881,C0027059,DIAGNOSES,Myocardial biopsy,Myocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1306645,C0032285,DIAGNOSES,Plain x-ray,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1306645,C0340896,DIAGNOSES,Plain x-ray,Vascular graft infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1306645,C0876973,DIAGNOSES,Plain x-ray,Infectious disease of lung,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1306645,C3694279,DIAGNOSES,Plain x-ray,Middle East Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1318509,C1096155,DIAGNOSES,Esophagram,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1510486,C0029456,DIAGNOSES,Dual-Energy X-Ray Absorptiometry,Osteoporosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1512457,C0041296,DIAGNOSES,High Resolution Computed Tomography,Tuberculosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1512457,C0521530,DIAGNOSES,High Resolution Computed Tomography,Lung consolidation,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1512457,C1112402,DIAGNOSES,High Resolution Computed Tomography,lupus pneumonitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1512457,C1175175,DIAGNOSES,High Resolution Computed Tomography,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1512457,C2676739,DIAGNOSES,High Resolution Computed Tomography,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1513743,C0730322,DIAGNOSES,Multimodal Imaging,Multiple evanescent white dot syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1517324,C0035222,DIAGNOSES,Functional Imaging,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1536105,C0010054,DIAGNOSES,Computed Tomography Angiography,Coronary Arteriosclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1536105,C1328840,DIAGNOSES,Computed Tomography Angiography,Autoimmune Lymphoproliferative Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1537007,C0026769,DIAGNOSES,Diffusion Tensor Imaging,Multiple Sclerosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1547864,C1701940,DIAGNOSES,Specimen Collection Method,"Pneumonia, Ventilator-Associated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1548752,C0021400,DIAGNOSES,"Transport Media,",Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1623258,C0027059,DIAGNOSES,Electrocardiography,Myocarditis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1660599,C0014866,DIAGNOSES,videofluoroscopy,Esophageal Stenosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1660599,C0017168,DIAGNOSES,videofluoroscopy,Gastroesophageal reflux disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1660599,C0267063,DIAGNOSES,videofluoroscopy,Spasm of the cricopharyngeus muscle,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1660599,C3489393,DIAGNOSES,videofluoroscopy,Hiatal Hernia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1881134,C0025517,DIAGNOSES,Image Study,Metabolic Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1881134,C0037199,DIAGNOSES,Image Study,Sinusitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1881134,C0085582,DIAGNOSES,Image Study,Retrobulbar Neuritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1881134,C0276156,DIAGNOSES,Image Study,Adenoviral pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0001126,DIAGNOSES,Observation - diagnostic procedure,Renal tubular acidosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0004364,DIAGNOSES,Observation - diagnostic procedure,Autoimmune Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0008312,DIAGNOSES,Observation - diagnostic procedure,Primary biliary cirrhosis,diap,dsyn,2,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0019101,DIAGNOSES,Observation - diagnostic procedure,Hemorrhagic Fever with Renal Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0019693,DIAGNOSES,Observation - diagnostic procedure,HIV Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0021400,DIAGNOSES,Observation - diagnostic procedure,Influenza,diap,dsyn,2,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0022340,DIAGNOSES,Observation - diagnostic procedure,Late-Infantile Neuronal Ceroid Lipfuscinosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0022408,DIAGNOSES,Observation - diagnostic procedure,Arthropathy,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0023283,DIAGNOSES,Observation - diagnostic procedure,"Leishmaniasis, Cutaneous",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0024117,DIAGNOSES,Observation - diagnostic procedure,Chronic Obstructive Airway Disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0024814,DIAGNOSES,Observation - diagnostic procedure,Marinesco-Sjogren syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0032285,DIAGNOSES,Observation - diagnostic procedure,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0034069,DIAGNOSES,Observation - diagnostic procedure,Pulmonary Fibrosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0039254,DIAGNOSES,Observation - diagnostic procedure,Teniasis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0042749,DIAGNOSES,Observation - diagnostic procedure,Viremia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0042769,DIAGNOSES,Observation - diagnostic procedure,Virus Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0158940,DIAGNOSES,Observation - diagnostic procedure,Transitory tachypnea of newborn,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0206608,DIAGNOSES,Observation - diagnostic procedure,Flavivirus Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0238472,DIAGNOSES,Observation - diagnostic procedure,"TOXOPLASMOSIS, CHRONIC",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0242994,DIAGNOSES,Observation - diagnostic procedure,Hantavirus Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0270814,DIAGNOSES,Observation - diagnostic procedure,Spastic syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0275518,DIAGNOSES,Observation - diagnostic procedure,Acute infectious disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0275524,DIAGNOSES,Observation - diagnostic procedure,Coinfection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0276446,DIAGNOSES,Observation - diagnostic procedure,Murine encephalomyelitis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0276500,DIAGNOSES,Observation - diagnostic procedure,Human immunodeficiency virus I infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0277550,DIAGNOSES,Observation - diagnostic procedure,Endemic Diseases,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0406570,DIAGNOSES,Observation - diagnostic procedure,Fibrotic disorder of skin,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0497169,DIAGNOSES,Observation - diagnostic procedure,hiv-infection/aids,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C0858318,DIAGNOSES,Observation - diagnostic procedure,Plasmodium falciparum infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C1175175,DIAGNOSES,Observation - diagnostic procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C1415817,DIAGNOSES,Observation - diagnostic procedure,"HETEROTAXY, VISCERAL, 2, AUTOSOMAL",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C1698484,DIAGNOSES,Observation - diagnostic procedure,Mucosal Infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C1964257,C1856053,DIAGNOSES,Observation - diagnostic procedure,Hydranencephaly with Renal Aplasia-Dysplasia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2348813,C0014335,DIAGNOSES,Transabdominal Ultrasound,Enteritis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2348813,C0015695,DIAGNOSES,Transabdominal Ultrasound,Fatty Liver,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2348813,C0155773,DIAGNOSES,Transabdominal Ultrasound,Portal vein thrombosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2348813,C1096155,DIAGNOSES,Transabdominal Ultrasound,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2348813,C1623038,DIAGNOSES,Transabdominal Ultrasound,Cirrhosis,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2350281,C1096155,DIAGNOSES,X-Ray Microtomography,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2370811,C4543758,DIAGNOSES,Bronchial brush biopsy,Protracted bronchitis caused by bacterium,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2457026,C0025164,DIAGNOSES,Plain Radiography of Chest,Megaesophagus,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2983609,C0026918,DIAGNOSES,Gross Pathologic Examination,Mycobacterium Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C2985498,C0017168,DIAGNOSES,Intraesophageal Impedance pH Monitoring,Gastroesophageal reflux disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3179130,C0004096,DIAGNOSES,Multidetector Computed Tomography,Asthma,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3829180,C1096155,DIAGNOSES,Mass Measurement,Macrophage Activation Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0018802,DIAGNOSES,Chest radiograph,Congestive heart failure,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0021400,DIAGNOSES,Chest radiograph,Influenza,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0032285,DIAGNOSES,Chest radiograph,Pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0032310,DIAGNOSES,Chest radiograph,"Pneumonia, Viral",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0034063,DIAGNOSES,Chest radiograph,Pulmonary Edema,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0035222,DIAGNOSES,Chest radiograph,"Respiratory Distress Syndrome, Adult",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0235896,DIAGNOSES,Chest radiograph,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0339952,DIAGNOSES,Chest radiograph,Secondary bacterial pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0585105,DIAGNOSES,Chest radiograph,Right lower zone pneumonia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C0872054,DIAGNOSES,Chest radiograph,latent infection,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C1701940,DIAGNOSES,Chest radiograph,"Pneumonia, Ventilator-Associated",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C3842377,C2676739,DIAGNOSES,Chest radiograph,Chromosome 2q32-Q33 Deletion Syndrome,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4039193,C0005398,DIAGNOSES,Fluoroscopic cholangiogram,"Cholestasis, Extrahepatic",diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4042877,C0024530,DIAGNOSES,Clinical Decision-Making,Malaria,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4045986,C0034735,DIAGNOSES,Videocapillaroscopy,Raynaud Phenomenon,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4045994,C0751956,DIAGNOSES,Neurosonology,Acute Cerebrovascular Accidents,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4075962,C0235896,DIAGNOSES,Low dose computed tomography of thorax,Pulmonary Infiltrate,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4075962,C0876973,DIAGNOSES,Low dose computed tomography of thorax,Infectious disease of lung,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4075962,C1262313,DIAGNOSES,Low dose computed tomography of thorax,Invasive Fungal Infections,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4075962,C1394891,DIAGNOSES,Low dose computed tomography of thorax,Intrinsic Factor Deficiency,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4075962,C2721563,DIAGNOSES,Low dose computed tomography of thorax,Infectious pneumonias,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4086729,C1262020,DIAGNOSES,Pathologic Examination,diffuse alveolar damage,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4521453,C0277556,DIAGNOSES,FDG-Positron Emission Tomography and Computed Tomography Scan,Recurrent disease,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN
+C4522043,C0398623,DIAGNOSES,Liver Ultrasonographic Elastography,Thrombophilia,diap,dsyn,1,DIAGNOSES_DIAPdiagDSYN

@@ -1,0 +1,626 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0024400,TREATS,"Administration, Intranasal",Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C0025919,TREATS,"Administration, Intranasal","Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C0025933,TREATS,"Administration, Intranasal","Mice, Obese",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C0026809,TREATS,"Administration, Intranasal",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C0034693,TREATS,"Administration, Intranasal",Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C0085979,TREATS,"Administration, Intranasal",Cavia,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001560,C1520150,TREATS,"Administration, Intranasal",Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001561,C0324889,TREATS,"Administration, Intravaginal",Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0007450,TREATS,"Administration, Oral",Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0012984,TREATS,"Administration, Oral",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0015859,TREATS,"Administration, Oral",Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0025919,TREATS,"Administration, Oral","Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0026809,TREATS,"Administration, Oral",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0034693,TREATS,"Administration, Oral",Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0039005,TREATS,"Administration, Oral",Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C0324889,TREATS,"Administration, Oral",Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001563,C1511362,TREATS,"Administration, Oral",C3H/HeJ Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001566,C0007450,TREATS,"Administration, Topical",Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001566,C0026809,TREATS,"Administration, Topical",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0001632,C0012984,TREATS,Adrenalectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002688,C0012984,TREATS,Amputation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002766,C0012984,TREATS,Pain management,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002766,C0026809,TREATS,Pain management,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0007450,TREATS,Anesthesia procedures,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0012984,TREATS,Anesthesia procedures,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0019944,TREATS,Anesthesia procedures,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0026809,TREATS,Anesthesia procedures,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0033147,TREATS,Anesthesia procedures,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0034715,TREATS,Anesthesia procedures,"Rats, Sprague-Dawley",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0039005,TREATS,Anesthesia procedures,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002903,C0324889,TREATS,Anesthesia procedures,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002915,C0007450,TREATS,General Anesthesia,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002915,C0012984,TREATS,General Anesthesia,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002915,C0324889,TREATS,General Anesthesia,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002920,C0324547,TREATS,"Anesthesia, Intravenous",New Zealand Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002921,C0012984,TREATS,Local anesthesia,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0002921,C0324889,TREATS,Local anesthesia,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0004704,C0012984,TREATS,Balloon Dilatation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0004708,C0012984,TREATS,Balloon Valvuloplasty,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0005527,C0034693,TREATS,Biological Response Modifier Therapy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0005841,C0007450,TREATS,Blood Transfusion,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0005841,C0012984,TREATS,Blood Transfusion,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0007202,C0012984,TREATS,Cardiopulmonary Bypass,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0007430,C0012984,TREATS,Catheterization,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0008320,C0012984,TREATS,Cholecystectomy procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0008971,C0012984,TREATS,Clinical Protocols,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C0007450,TREATS,Combined Modality Therapy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C0012984,TREATS,Combined Modality Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C0024398,TREATS,Combined Modality Therapy,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C0025919,TREATS,Combined Modality Therapy,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C0026809,TREATS,Combined Modality Therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0009429,C1521751,TREATS,Combined Modality Therapy,C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0010651,C0007450,TREATS,Cystectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0011079,C0012984,TREATS,Debridement,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0011307,C0034705,TREATS,Denervation,"Rats, Inbred SHR",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0011946,C0012984,TREATS,Dialysis procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0012167,C0007450,TREATS,Reducing diet,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0012358,C0012984,TREATS,Dilatation and Curettage,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0007450,TREATS,Pharmacotherapy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0007452,TREATS,Pharmacotherapy,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0012984,TREATS,Pharmacotherapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0019944,TREATS,Pharmacotherapy,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0026809,TREATS,Pharmacotherapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0033147,TREATS,Pharmacotherapy,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013216,C0034693,TREATS,Pharmacotherapy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013778,C0012984,TREATS,Electric Countershock,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013806,C0026809,TREATS,Electroconvulsive Therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013806,C0324889,TREATS,Electroconvulsive Therapy,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0013931,C0012984,TREATS,"Embolization, Therapeutic",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015250,C0039005,TREATS,Complete excision,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015252,C0007450,TREATS,removal technique,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015252,C0019944,TREATS,removal technique,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015252,C0026809,TREATS,removal technique,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015357,C0026809,TREATS,Extracorporeal Membrane Oxygenation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0015915,C0039005,TREATS,Fertilization in Vitro,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0007452,TREATS,gene therapy,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0007970,TREATS,gene therapy,Cheetahs,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0025932,TREATS,gene therapy,"Mice, Nude",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0025936,TREATS,gene therapy,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0026809,TREATS,gene therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0034693,TREATS,gene therapy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0035804,TREATS,gene therapy,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0039005,TREATS,gene therapy,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0043219,TREATS,gene therapy,Woodchucks,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C0325277,TREATS,gene therapy,Oryx,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C1135183,TREATS,gene therapy,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C1519130,TREATS,gene therapy,SCID Beige Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0017296,C1671525,TREATS,gene therapy,Laurasiatheria,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0019009,C0039005,TREATS,Hemodilution,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020632,C0007450,TREATS,Hypophysectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0007452,TREATS,Immunization,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0012984,TREATS,Immunization,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0015859,TREATS,Immunization,Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0018019,TREATS,Immunization,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0018557,TREATS,Immunization,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0019944,TREATS,Immunization,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0024398,TREATS,Immunization,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0024399,TREATS,Immunization,Macaca fascicularis,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0024400,TREATS,Immunization,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0025919,TREATS,Immunization,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0025921,TREATS,Immunization,"Mice, Inbred C57BL",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0025936,TREATS,Immunization,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0026447,TREATS,Immunization,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0026809,TREATS,Immunization,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0033147,TREATS,Immunization,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0034693,TREATS,Immunization,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0034695,TREATS,Immunization,"Rats, Cotton",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0039005,TREATS,Immunization,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0085979,TREATS,Immunization,Cavia,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0324889,TREATS,Immunization,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C0936241,TREATS,Immunization,Genus Pteropus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C1513684,TREATS,Immunization,Mouse Strains,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C1520150,TREATS,Immunization,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020971,C1521751,TREATS,Immunization,C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020972,C0026809,TREATS,Immunization Schedule,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020974,C0007450,TREATS,passive immunization procedure,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020974,C0026809,TREATS,passive immunization procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020975,C0018019,TREATS,Secondary Immunization,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020975,C0025919,TREATS,Secondary Immunization,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020975,C0026809,TREATS,Secondary Immunization,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020975,C0039005,TREATS,Secondary Immunization,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0020975,C1521751,TREATS,Secondary Immunization,C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021079,C0007450,TREATS,Therapeutic immunosuppression,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021079,C0012984,TREATS,Therapeutic immunosuppression,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021079,C0024398,TREATS,Therapeutic immunosuppression,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021079,C0026809,TREATS,Therapeutic immunosuppression,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021079,C0039005,TREATS,Therapeutic immunosuppression,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021083,C0043219,TREATS,Immunotherapy,Woodchucks,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0007450,TREATS,Implantation procedure,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0008139,TREATS,Implantation procedure,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0012984,TREATS,Implantation procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0013127,TREATS,Implantation procedure,Camelus dromedarius,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0026809,TREATS,Implantation procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0034693,TREATS,Implantation procedure,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0325203,TREATS,Implantation procedure,Camelus bactrianus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021107,C0869010,TREATS,Implantation procedure,Young dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021440,C0019944,TREATS,Intravenous infusion procedures,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021485,C0012984,TREATS,Injection of therapeutic agent,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021485,C0026438,TREATS,Injection of therapeutic agent,Cercopithecus aethiops,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021485,C0026809,TREATS,Injection of therapeutic agent,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021485,C0034693,TREATS,Injection of therapeutic agent,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021485,C1513684,TREATS,Injection of therapeutic agent,Mouse Strains,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021489,C1521751,TREATS,intradermal injection,C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021491,C0007450,TREATS,"Injections, Intralymphatic",Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0018561,TREATS,"Injections, Intraperitoneal",Mesocricetus auratus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0025932,TREATS,"Injections, Intraperitoneal","Mice, Nude",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0026809,TREATS,"Injections, Intraperitoneal",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0034693,TREATS,"Injections, Intraperitoneal",Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0085112,TREATS,"Injections, Intraperitoneal",SCID Mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C0162416,TREATS,"Injections, Intraperitoneal","Mouse, Swiss",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C1513684,TREATS,"Injections, Intraperitoneal",Mouse Strains,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C1520150,TREATS,"Injections, Intraperitoneal",Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021493,C1521751,TREATS,"Injections, Intraperitoneal",C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021587,C0006801,TREATS,Artificial Insemination,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021587,C3693201,TREATS,Artificial Insemination,Tribe Camelini (organism),topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021885,C0026809,TREATS,Intramedullary Nailing,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021925,C0324889,TREATS,Intubation,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021932,C0012984,TREATS,"Intubation, Intratracheal",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0021932,C0324889,TREATS,"Intubation, Intratracheal",Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0022983,C0034716,TREATS,Laminectomy,"Rats, Wistar",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0023690,C0026809,TREATS,Ligation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0023690,C1520150,TREATS,Ligation,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0024257,C0039005,TREATS,Lymphocyte Depletion,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0024881,C0012984,TREATS,Mastectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0024886,C0939793,TREATS,Simple mastectomy,Female dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0027054,C0026809,TREATS,Myocardial Reperfusion,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0029936,C0012984,TREATS,Ovariectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0029936,C0034693,TREATS,Ovariectomy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0030547,C0012984,TREATS,Parenteral Nutrition,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0031042,C0007450,TREATS,Pericardiectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0031042,C0012984,TREATS,Pericardiectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0032720,C0012984,TREATS,Surgical Portosystemic Shunt,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0032740,C0026809,TREATS,Positive End-Expiratory Pressure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0032740,C0039005,TREATS,Positive End-Expiratory Pressure,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0033045,C0324547,TREATS,Premedication,New Zealand Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0033045,C0324889,TREATS,Premedication,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0033045,C3887509,TREATS,Premedication,Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0034386,C0007970,TREATS,Quarantine,Cheetahs,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0034386,C0019944,TREATS,Quarantine,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0034386,C0026447,TREATS,Quarantine,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0035139,C0012984,TREATS,Surgical Replantation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0035139,C0024400,TREATS,Surgical Replantation,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0035139,C0039005,TREATS,Surgical Replantation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0035139,C1520150,TREATS,Surgical Replantation,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0036589,C0034693,TREATS,Self Administration,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0037297,C0026809,TREATS,Skin Transplantation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0039991,C0019944,TREATS,Thoracotomy,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040145,C0007450,TREATS,Thyroidectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040508,C0018019,TREATS,Total Hip Replacement (procedure),Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0012984,TREATS,Transplantation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0026809,TREATS,Transplantation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0033147,TREATS,Transplantation,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0034693,TREATS,Transplantation,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0035804,TREATS,Transplantation,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0039005,TREATS,Transplantation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040732,C0085112,TREATS,Transplantation,SCID Mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040736,C0012984,TREATS,"Transplantation, Autologous",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040739,C0026809,TREATS,"Transplantation, Homologous",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040739,C0034693,TREATS,"Transplantation, Homologous",Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0007450,TREATS,Treatment Protocols,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0012984,TREATS,Treatment Protocols,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0018019,TREATS,Treatment Protocols,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0024398,TREATS,Treatment Protocols,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0024400,TREATS,Treatment Protocols,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0025919,TREATS,Treatment Protocols,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0026447,TREATS,Treatment Protocols,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0026809,TREATS,Treatment Protocols,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0034693,TREATS,Treatment Protocols,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0040808,C0039005,TREATS,Treatment Protocols,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0041281,C0026809,TREATS,Tube feeding of patient,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0041281,C0034693,TREATS,Tube feeding of patient,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0041281,C1511406,TREATS,Tube feeding of patient,CBA/J Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0002186,TREATS,Vaccination,Vicugna pacos,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0006801,TREATS,Vaccination,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0007450,TREATS,Vaccination,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0007452,TREATS,Vaccination,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0008111,TREATS,Vaccination,Pan troglodytes,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0012984,TREATS,Vaccination,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0013127,TREATS,Vaccination,Camelus dromedarius,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0015859,TREATS,Vaccination,Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0018019,TREATS,Vaccination,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0018561,TREATS,Vaccination,Mesocricetus auratus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0023919,TREATS,Vaccination,Llamas,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0024398,TREATS,Vaccination,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0024399,TREATS,Vaccination,Macaca fascicularis,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0025914,TREATS,Vaccination,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0025919,TREATS,Vaccination,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0025936,TREATS,Vaccination,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0026447,TREATS,Vaccination,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0026809,TREATS,Vaccination,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0033147,TREATS,Vaccination,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0034693,TREATS,Vaccination,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0034695,TREATS,Vaccination,"Rats, Cotton",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0035950,TREATS,Vaccination,Ruminants,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0036945,TREATS,Vaccination,Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0039005,TREATS,Vaccination,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0206745,TREATS,Vaccination,"Mice, Knockout",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0237798,TREATS,Vaccination,Nonhuman primate,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0324284,TREATS,Vaccination,Pietrain pig,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0324768,TREATS,Vaccination,Family Pteropodidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0324889,TREATS,Vaccination,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0325015,TREATS,Vaccination,Jackals,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0325032,TREATS,Vaccination,"Pandas, Giant",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0325089,TREATS,Vaccination,Family Felidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0684073,TREATS,Vaccination,albino mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0684075,TREATS,Vaccination,Adult female pig having farrowed,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C0869010,TREATS,Vaccination,Young dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1123019,TREATS,Vaccination,Domestic Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1136016,TREATS,Vaccination,Sus scrofa domestica,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1140701,TREATS,Vaccination,Bos taurus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1511654,TREATS,Vaccination,DDY Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1512658,TREATS,Vaccination,Immunodeficient Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1513684,TREATS,Vaccination,Mouse Strains,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C1520150,TREATS,Vaccination,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3665359,TREATS,Vaccination,Female adult horse (organism),topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3669420,TREATS,Vaccination,Suckling pig for meat production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3669478,TREATS,Vaccination,Adult dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3669692,TREATS,Vaccination,Young housecat,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3669731,TREATS,Vaccination,Horse under one year old,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3687524,TREATS,Vaccination,Calf for milk production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042196,C3887509,TREATS,Vaccination,Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042200,C0026809,TREATS,Influenza vaccination,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0042205,C0016633,TREATS,Rabies vaccination,Foxes,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0015859,TREATS,doxorubicin/mitomycin/vinblastine protocol,Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0024398,TREATS,doxorubicin/mitomycin/vinblastine protocol,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0025914,TREATS,doxorubicin/mitomycin/vinblastine protocol,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0025919,TREATS,doxorubicin/mitomycin/vinblastine protocol,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0026809,TREATS,doxorubicin/mitomycin/vinblastine protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0032898,TREATS,doxorubicin/mitomycin/vinblastine protocol,Prairie Dogs,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C0033147,TREATS,doxorubicin/mitomycin/vinblastine protocol,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0052712,C3887509,TREATS,doxorubicin/mitomycin/vinblastine protocol,Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0055598,C0012984,TREATS,CHOP protocol-cyclophosphamide/doxorubicin/prednisone/vincristine,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0055670,C0012984,TREATS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0056633,C0025936,TREATS,cyclophosphamide/prednisone/vincristine protocol,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0056633,C3887509,TREATS,cyclophosphamide/prednisone/vincristine protocol,Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0057163,C0039005,TREATS,DAV regimen,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0063264,C0034693,TREATS,Cisplatin/Doxorubicin/Ifosfamide protocol,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0065764,C0025919,TREATS,bleomycin/cisplatin/methotrexate protocol,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0065764,C0026809,TREATS,bleomycin/cisplatin/methotrexate protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0068899,C0026809,TREATS,NOAC protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0068899,C0034693,TREATS,NOAC protocol,Rattus norvegicus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0071973,C0026809,TREATS,Ifosfamide/Methotrexate/Procarbazine protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0079613,C0026809,TREATS,Adoptive Immunotherapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0083765,C0007450,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0083765,C0026809,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0086153,C0012984,TREATS,Dietary Modification,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0086153,C0324336,TREATS,Dietary Modification,Collie,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0086330,C0012984,TREATS,Gamma Knife Radiosurgery,Canis familiaris,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0149615,C0026809,TREATS,Allogeneic bone marrow transplantation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0149783,C0012984,TREATS,Steroid therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0150238,C0034693,TREATS,Fluid resuscitation,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0008139,TREATS,Transection (procedure),Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0012984,TREATS,Transection (procedure),Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0025914,TREATS,Transection (procedure),House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0025919,TREATS,Transection (procedure),"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0026809,TREATS,Transection (procedure),Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0034693,TREATS,Transection (procedure),Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C0039005,TREATS,Transection (procedure),Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C1020575,TREATS,Transection (procedure),Hipposideros,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C1513853,TREATS,Transection (procedure),NON Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C1521751,TREATS,Transection (procedure),C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152060,C3887509,TREATS,Transection (procedure),Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0152277,C0024400,TREATS,Incision and drainage,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0175795,C1296870,TREATS,oral medication,Shiba Inu dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0184907,C0007452,TREATS,Scarification,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0184907,C0026809,TREATS,Scarification,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185023,C0012984,TREATS,Fixation - action,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185027,C0008139,TREATS,Imbrication (procedure),Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185027,C0012984,TREATS,Imbrication (procedure),Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185027,C0026809,TREATS,Imbrication (procedure),Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185027,C0324975,TREATS,Imbrication (procedure),Dolichotis patagonum (organism),topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185111,C0035804,TREATS,Surgical Manipulation,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0007450,TREATS,Extraction,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0007970,TREATS,Extraction,Cheetahs,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0012984,TREATS,Extraction,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0025936,TREATS,Extraction,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0026809,TREATS,Extraction,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185115,C0034693,TREATS,Extraction,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185117,C0034693,TREATS,Expression procedure,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185123,C0007450,TREATS,Bougienage - action,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185123,C0012984,TREATS,Bougienage - action,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0185956,C1135183,TREATS,Amputation of tail,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0188974,C0012984,TREATS,Incision of nose,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0192489,C0012984,TREATS,Pyloroplasty,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0192571,C0019944,TREATS,Operative procedure on small intestine,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0192616,C0012984,TREATS,Partial excision of small intestine,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0193398,C0034693,TREATS,Partial hepatectomy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0194053,C0007450,TREATS,Kidney operation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0194209,C0007450,TREATS,Ureter operation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0194211,C0007450,TREATS,Incision of ureter,Felis catus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0195499,C0007450,TREATS,Ovariohysterectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0195499,C0012984,TREATS,Ovariohysterectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0006801,TREATS,Prophylactic treatment,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0012984,TREATS,Prophylactic treatment,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0018557,TREATS,Prophylactic treatment,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0024398,TREATS,Prophylactic treatment,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0026809,TREATS,Prophylactic treatment,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0034693,TREATS,Prophylactic treatment,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C0039005,TREATS,Prophylactic treatment,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199176,C3687524,TREATS,Prophylactic treatment,Calf for milk production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199451,C0012984,TREATS,Continuous Positive Airway Pressure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199470,C0026809,TREATS,Mechanical ventilation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199779,C0012984,TREATS,Administration of antibiotic,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199779,C0026809,TREATS,Administration of antibiotic,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199779,C0039005,TREATS,Administration of antibiotic,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199798,C0024398,TREATS,human vaccination,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199798,C0026447,TREATS,human vaccination,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0199798,C0026809,TREATS,human vaccination,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204514,C0026809,TREATS,Structural analysis,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204525,C0007450,TREATS,Individual psychotherapy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0007450,TREATS,Isolation procedure,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0008139,TREATS,Isolation procedure,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0013127,TREATS,Isolation procedure,Camelus dromedarius,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0023756,TREATS,Isolation procedure,Panthera leo,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0026447,TREATS,Isolation procedure,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0026809,TREATS,Isolation procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0324768,TREATS,Isolation procedure,Family Pteropodidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C0324815,TREATS,Isolation procedure,Drill baboon,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0204727,C1260942,TREATS,Isolation procedure,Genus Macrotus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242297,C0019944,TREATS,Dietary Supplementation,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242297,C0026809,TREATS,Dietary Supplementation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242297,C0039005,TREATS,Dietary Supplementation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242297,C0324180,TREATS,Dietary Supplementation,Pony,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242970,C0012984,TREATS,Fat-Restricted Diet,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242970,C0324439,TREATS,Fat-Restricted Diet,Miniature schnauzer,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0242970,C2699798,TREATS,Fat-Restricted Diet,Domestic Short Hair Cat,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0269439,C0026809,TREATS,Elective abortion,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0278261,C0012984,TREATS,plasty,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0279470,C0012984,TREATS,altretamine/cyclophosphamide/doxorubicin,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0279470,C0018019,TREATS,altretamine/cyclophosphamide/doxorubicin,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0279495,C0026809,TREATS,Progestogen hormone therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0280555,C0039005,TREATS,cisplatin/cyclophosphamide/doxorubicin/teniposide protocol,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0281176,C0026809,TREATS,antibody therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0338237,C0012984,TREATS,Antibiotic therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0339897,C0026809,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0344211,C0012984,TREATS,Supportive care,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0349707,C0008139,TREATS,Aspiration-action,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376450,C0019944,TREATS,Transplantation Conditioning,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376495,C0025914,TREATS,Retreatments,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376518,C0018557,TREATS,Adoptive Transfer,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376518,C0026809,TREATS,Adoptive Transfer,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376518,C0036945,TREATS,Adoptive Transfer,Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376518,C1521751,TREATS,Adoptive Transfer,C57BL/6 Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0376530,C0012984,TREATS,"Decompression, Surgical",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0393005,C0026809,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0396849,C0012984,TREATS,Mitral valvuloplasty,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0412795,C0034693,TREATS,Induced vasodilatation,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0418981,C0007452,TREATS,Medical therapy,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0418981,C0012984,TREATS,Medical therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0419786,C0039005,TREATS,Infection surveillance,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0420045,C0039005,TREATS,Respiratory disease screening,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0439775,C0007450,TREATS,Elevation procedure,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0439775,C0008139,TREATS,Elevation procedure,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0439775,C0012984,TREATS,Elevation procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0439775,C0026809,TREATS,Elevation procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0439775,C1520150,TREATS,Elevation procedure,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0441509,C0012984,TREATS,Coagulation procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0441509,C0026809,TREATS,Coagulation procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0441544,C0034693,TREATS,Manual expression,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0442936,C0012984,TREATS,Hemilaminectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0444889,C0026809,TREATS,Continuous infusion,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0452269,C0039005,TREATS,Protein diet,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0452278,C0039005,TREATS,Low methionine diet,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0452376,C0012984,TREATS,Elimination diet,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0452415,C0026447,TREATS,Healthy Diet,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0456276,C0034693,TREATS,Midline incision,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0457987,C0007450,TREATS,Renal disease diet,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0472676,C0012984,TREATS,Intermittent hemodialysis,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0472682,C0012984,TREATS,Intermittent hemofiltration,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0473965,C0324889,TREATS,Total intravenous anesthesia,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0475411,C0012984,TREATS,Standardized technique,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0519382,C0012984,TREATS,Mitral valve operation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0520484,C0025932,TREATS,Xenograft procedure,"Mice, Nude",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0520484,C0026809,TREATS,Xenograft procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0520484,C0085112,TREATS,Xenograft procedure,SCID Mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0520484,C1135183,TREATS,Xenograft procedure,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0520484,C1516116,TREATS,Xenograft procedure,BALB/c Nude Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0521272,C0026809,TREATS,Injection of amnion,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0521302,C0024400,TREATS,Fluid replacement,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0524865,C0008139,TREATS,Reconstructive Surgical Procedures,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0524865,C0035804,TREATS,Reconstructive Surgical Procedures,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0543467,C0007450,TREATS,Operative Surgical Procedures,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0543467,C0007452,TREATS,Operative Surgical Procedures,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0543467,C0019944,TREATS,Operative Surgical Procedures,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0543467,C0034693,TREATS,Operative Surgical Procedures,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0543467,C1513684,TREATS,Operative Surgical Procedures,Mouse Strains,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0545322,C1516116,TREATS,T cell therapy,BALB/c Nude Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0546515,C0007450,TREATS,Cystotomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0018557,TREATS,Ablation,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0025914,TREATS,Ablation,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0025919,TREATS,Ablation,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0025936,TREATS,Ablation,"Mice, Transgenic",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0026809,TREATS,Ablation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0547070,C0034693,TREATS,Ablation,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0561929,C0007450,TREATS,N-3 fatty acid supplementation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0564989,C0026809,TREATS,Heart ligation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0565867,C0026809,TREATS,delivery method,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0567465,C0007450,TREATS,Feeding practice,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0567465,C0012984,TREATS,Feeding practice,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0574032,C0024400,TREATS,Infusion procedures,Macaca mulatta,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0574032,C0026809,TREATS,Infusion procedures,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0574032,C0206745,TREATS,Infusion procedures,"Mice, Knockout",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0574032,C1520150,TREATS,Infusion procedures,Wild Type Mouse,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0581601,C0026809,TREATS,Functional modification,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0581601,C0079851,TREATS,Functional modification,Cercopithecus tantalus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0581602,C0025914,TREATS,Structural modification,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0597749,C0026809,TREATS,active sensitization,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0597749,C0034693,TREATS,active sensitization,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0597815,C0012984,TREATS,crystal healing,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0597834,C0026809,TREATS,transcutaneous stimulation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0598391,C0012984,TREATS,Enzyme Replacement Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0600249,C0007450,TREATS,"Immunotherapy, Passive",Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0600249,C0015859,TREATS,"Immunotherapy, Passive",Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0600249,C0024398,TREATS,"Immunotherapy, Passive",Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0600249,C0025914,TREATS,"Immunotherapy, Passive",House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0677881,C0012984,TREATS,Cytotoxic Chemotherapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678054,C0012984,TREATS,Electroporation Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678812,C0026809,TREATS,systemic administration,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678812,C0034705,TREATS,systemic administration,"Rats, Inbred SHR",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678815,C0026809,TREATS,"Administration, Mucosal",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678823,C0007450,TREATS,parenteral administration,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0678823,C0026809,TREATS,parenteral administration,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0679637,C0012984,TREATS,major surgery,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0679651,C0026809,TREATS,directive therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0683174,C0026809,TREATS,topical application,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0683174,C3825828,TREATS,topical application,Pig-tailed macaque,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0683525,C0007450,TREATS,treatment options,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0683525,C0007452,TREATS,treatment options,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0683525,C0012984,TREATS,treatment options,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0695434,C0008139,TREATS,oscillations,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0700282,C0039005,TREATS,Confrontation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0700589,C0012984,TREATS,Contraceptive methods,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0702249,C0026179,TREATS,Infiltration (procedure),Mink,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0702249,C0026809,TREATS,Infiltration (procedure),Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0741847,C0007450,TREATS,Bypass,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0741847,C0012984,TREATS,Bypass,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0746573,C0007450,TREATS,methotrexate treatment,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0746580,C0019944,TREATS,METRONIDAZOLE Administration,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0841790,C0026809,TREATS,caudal injection,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0850054,C1123019,TREATS,iron injection,Domestic Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0851680,C0026809,TREATS,Nasal Therapies,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0853212,C0012984,TREATS,Induction of anesthesia,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0853389,C0007450,TREATS,postoperative analgesia,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0864052,C0007450,TREATS,Insertion of ureteral stent,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0869036,C0019944,TREATS,autologous transfusion,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0872259,C0012984,TREATS,"Transcranial Magnetic Stimulation, Repetitive",Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0872278,C0012984,TREATS,stem cell therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0872278,C0015859,TREATS,stem cell therapy,Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0883301,C0012984,TREATS,catheter placement,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0883301,C0869010,TREATS,catheter placement,Young dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0917707,C0007450,TREATS,Cannulation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0917707,C0012984,TREATS,Cannulation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0920425,C0026809,TREATS,cancer therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0920467,C0007452,TREATS,disorder control (procedure),Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0920467,C0012984,TREATS,disorder control (procedure),Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0920467,C0019944,TREATS,disorder control (procedure),Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0947647,C0034693,TREATS,Manipulation procedure,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0948575,C0012984,TREATS,Diuretic therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0948575,C0019944,TREATS,Diuretic therapy,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0949219,C0012984,TREATS,Antineoplastic Chemotherapy Protocols,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C0949266,C0026809,TREATS,"Therapies, Investigational",Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1096021,C0012984,TREATS,antiplatelet therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1112446,C0026809,TREATS,Wound closure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1135809,C0012984,TREATS,Caloric Restriction,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1135929,C0007450,TREATS,Mass Vaccination,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1135929,C0012984,TREATS,Mass Vaccination,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1135929,C0016633,TREATS,Mass Vaccination,Foxes,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1135929,C0684075,TREATS,Mass Vaccination,Adult female pig having farrowed,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1261381,C0007450,TREATS,Destructive procedure (surgical),Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1261381,C0008139,TREATS,Destructive procedure (surgical),Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1261381,C0026809,TREATS,Destructive procedure (surgical),Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1261563,C0012984,TREATS,Gastroduodenostomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1273428,C0025914,TREATS,Total mesorectal excision,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1273428,C0026809,TREATS,Total mesorectal excision,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1276413,C0007450,TREATS,Therapeutic regimen,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1278454,C0026809,TREATS,Statin prophylaxis,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1280903,C0026809,TREATS,Exploration procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1283075,C0008139,TREATS,Fusion - action,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1283075,C0025914,TREATS,Fusion - action,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1293130,C0018019,TREATS,Stabilization,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1293132,C0012984,TREATS,Anchoring procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1293365,C0026809,TREATS,Lung destructive procedure,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1298805,C0012984,TREATS,Routine procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1320204,C0012984,TREATS,Rabies prophylaxis,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1320205,C0008139,TREATS,"Rabies prophylaxis, post exposure",Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1328526,C0026809,TREATS,Primary Immunologic Sensitization,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1328526,C0324889,TREATS,Primary Immunologic Sensitization,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1443861,C0018557,TREATS,Post-Exposure Prophylaxis,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1443861,C0237798,TREATS,Post-Exposure Prophylaxis,Nonhuman primate,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511300,C0012984,TREATS,Breast Cancer Therapeutic Procedure,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511497,C0007450,TREATS,Continuous Intravenous Infusion,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0006801,TREATS,Detection,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0007450,TREATS,Detection,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0007452,TREATS,Detection,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0008139,TREATS,Detection,Chiroptera,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0012984,TREATS,Detection,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0013127,TREATS,Detection,Camelus dromedarius,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0015859,TREATS,Detection,Ferrets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0018019,TREATS,Detection,Capra hircus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0018090,TREATS,Detection,Gorilla <Western Gorilla>,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0018557,TREATS,Detection,Hamsters,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0018866,TREATS,Detection,Erinaceidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0019944,TREATS,Detection,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0024398,TREATS,Detection,Macaca,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0025914,TREATS,Detection,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0025919,TREATS,Detection,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0026413,TREATS,Detection,Herpestidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0026447,TREATS,Detection,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0026809,TREATS,Detection,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0033147,TREATS,Detection,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0034693,TREATS,Detection,Rattus norvegicus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C1511790,C0035804,TREATS,Detection,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0035950,TREATS,Detection,Ruminants,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0039005,TREATS,Detection,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0080332,TREATS,Detection,Water Buffalo,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0324547,TREATS,Detection,New Zealand Rabbits,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0324889,TREATS,Detection,Old World rabbit,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0325051,TREATS,Detection,Badgers,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0325069,TREATS,Detection,"Palm civet, NOS",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0325230,TREATS,Detection,Giraffes,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0524523,TREATS,Detection,Civets,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0599885,TREATS,Detection,marine Mammalia,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C0684075,TREATS,Detection,Adult female pig having farrowed,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C1086889,TREATS,Detection,Rhinolophus sinicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C1123019,TREATS,Detection,Domestic Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C1135183,TREATS,Detection,Sus scrofa,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C1511790,C1265469,TREATS,Detection,Rhinolophus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C2764300,TREATS,Detection,Triaenops afer,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C3669692,TREATS,Detection,Young housecat,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C3669731,TREATS,Detection,Horse under one year old,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1511790,C4099366,TREATS,Detection,Rhinonycteridae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1517033,C0012984,TREATS,External Beam Radiation Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1527077,C0006801,TREATS,Peripheral Electronic Nerve Stimulation,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1562198,C0007452,TREATS,Toggle technique,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1627346,C0012984,TREATS,Feeding regime,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1659427,C0026809,TREATS,Nebulization,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1659427,C0324504,TREATS,Nebulization,Persian cat,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1697762,C0026809,TREATS,Booster Immunization - ActSubstanceAdministrationCode,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1704535,C0026809,TREATS,Passive Method,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1704536,C0026809,TREATS,Direct Method,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1704536,C0033147,TREATS,Direct Method,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1707814,C0026809,TREATS,Dose Reduced,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1882340,C0012984,TREATS,Periodontal Treatment,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1883520,C0033147,TREATS,VePesid-Ifosfamide-Platinol Regimen,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1963578,C0026809,TREATS,Release (procedure),Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1963724,C0026809,TREATS,Antiretroviral therapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C1963758,C0007450,TREATS,Immunomodulation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2004459,C0019944,TREATS,Abdominoperineal resection,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242626,C0007450,TREATS,Probiotic therapy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0006764,TREATS,Fecal Microbiota Transplantation,Callithrix,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0007450,TREATS,Fecal Microbiota Transplantation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0012984,TREATS,Fecal Microbiota Transplantation,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0039005,TREATS,Fecal Microbiota Transplantation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0324372,TREATS,Fecal Microbiota Transplantation,French bulldog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C0869010,TREATS,Fecal Microbiota Transplantation,Young dog,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2242628,C1135183,TREATS,Fecal Microbiota Transplantation,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2347900,C0025919,TREATS,Rechallenge,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2347900,C0026809,TREATS,Rechallenge,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2348331,C0012984,TREATS,Dose Regimen,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2348331,C0019944,TREATS,Dose Regimen,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2348331,C0026809,TREATS,Dose Regimen,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2368628,C0007450,TREATS,Vaccine Administration,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2827774,C0012984,TREATS,Current Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2945704,C0007450,TREATS,Conventional Treatment,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2945704,C0012984,TREATS,Conventional Treatment,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2945704,C0026809,TREATS,Conventional Treatment,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2973270,C0324322,TREATS,Health Checkup,Bull terrier,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2986592,C0012984,TREATS,Definitive Treatment,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2986608,C0012984,TREATS,Thyroid Hormone Treatment,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2987620,C0025919,TREATS,Inoculation,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2987620,C0026809,TREATS,Inoculation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C2987620,C0039005,TREATS,Inoculation,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3163695,C0012984,TREATS,Transarterial embolization,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3540512,C1135183,TREATS,Circumferential Supracrestal Fiberotomy,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3665674,C0012984,TREATS,Warburg Therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3850024,C0025914,TREATS,Transcranial Direct Current Stimulation,House mice,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3850024,C0026809,TREATS,Transcranial Direct Current Stimulation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C3858690,C0019944,TREATS,adjunctive treatment,Equus caballus,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4277645,C0039005,TREATS,Phage Therapy,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526534,C0007452,TREATS,Bendamustine/Bortezomib/Dexamethasone Regimen,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526535,C0007452,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Cattle,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526535,C0175925,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Cattle for milk production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526535,C3687524,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Calf for milk production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526535,C3687530,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Castrated male cattle for beef production,topp,mamm,1,TREATS_TOPPtrtsMAMM
+C4526535,C3687533,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Weaned beef calf,topp,mamm,1,TREATS_TOPPtrtsMAMM

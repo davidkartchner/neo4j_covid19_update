@@ -1,0 +1,68 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000696,C0006290,LOCATION_OF,A Fibers,Bronchoscopy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0000739,C0430815,LOCATION_OF,Abdominal Muscles,Surface Electromyography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0001527,C0005558,LOCATION_OF,Adipose tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0001527,C0041618,LOCATION_OF,Adipose tissue,Ultrasonography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0001527,C4528280,LOCATION_OF,Adipose tissue,New Target Lesion Identification,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0014609,C0005558,LOCATION_OF,Epithelium,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0014609,C0079835,LOCATION_OF,Epithelium,"Microscopy, Immunoelectron",tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0014609,C1964257,LOCATION_OF,Epithelium,Observation - diagnostic procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0016741,C0079835,LOCATION_OF,Frozen Sections,"Microscopy, Immunoelectron",tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0017136,C0005558,LOCATION_OF,Gastric mucosa,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0018220,C0024485,LOCATION_OF,Gray Matter,Magnetic Resonance Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0021839,C0005558,LOCATION_OF,Intestinal Mucosa,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0025255,C0079835,LOCATION_OF,Tissue membrane,"Microscopy, Immunoelectron",tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0025255,C0086143,LOCATION_OF,Tissue membrane,Diagnostic tests,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0025255,C0683454,LOCATION_OF,Tissue membrane,internal-external locus of control scale,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026724,C0014245,LOCATION_OF,Mucous Membrane,Endoscopy (procedure),tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026724,C0176358,LOCATION_OF,Mucous Membrane,Biopsy of nose,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026724,C0184980,LOCATION_OF,Mucous Membrane,Endoscopic biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026724,C1964257,LOCATION_OF,Mucous Membrane,Observation - diagnostic procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026724,C4072680,LOCATION_OF,Mucous Membrane,Gastric tonometry,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026845,C0005558,LOCATION_OF,Muscle,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026845,C0024485,LOCATION_OF,Muscle,Magnetic Resonance Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026845,C0030247,LOCATION_OF,Muscle,Palpation,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0026845,C0184922,LOCATION_OF,Muscle,Incisional biopsy - action,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0027061,C0004398,LOCATION_OF,Myocardium,Autopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0027061,C0013516,LOCATION_OF,Myocardium,Echocardiography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0027428,C0005558,LOCATION_OF,Structure of mucous membrane of nose,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0027428,C0581714,LOCATION_OF,Structure of mucous membrane of nose,Buccal smear procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0029250,C1964257,LOCATION_OF,Organoids,Observation - diagnostic procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0004398,LOCATION_OF,Body tissue,Autopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0005558,LOCATION_OF,Body tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0011933,LOCATION_OF,Body tissue,diagnostic use,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0024485,LOCATION_OF,Body tissue,Magnetic Resonance Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0162701,LOCATION_OF,Body tissue,Polysomnography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0162734,LOCATION_OF,Body tissue,Echo-Planar Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0189381,LOCATION_OF,Body tissue,Bronchial Lavage,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0203634,LOCATION_OF,Body tissue,Nuclear medicine procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0419358,LOCATION_OF,Body tissue,Exploration with a probe,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C0872186,LOCATION_OF,Body tissue,high throughput analysis,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C1964257,LOCATION_OF,Body tissue,Observation - diagnostic procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C3472245,LOCATION_OF,Body tissue,Single Photon Emission Computed Tomography Computed Tomography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0040300,C4086729,LOCATION_OF,Body tissue,Pathologic Examination,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0221925,C0150866,LOCATION_OF,Stratum Basale,Biopsy of skin procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0222331,C0024219,LOCATION_OF,Subcutaneous Fat,Lymphangiography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0225324,C4086289,LOCATION_OF,Blubber,External Examination,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0440746,C0004398,LOCATION_OF,brain tissue surgical material,Autopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0596638,C0005558,LOCATION_OF,Gut associated lymphoid tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0677862,C0005558,LOCATION_OF,Biopsy sample,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682576,C0005558,LOCATION_OF,ciliated epithelium,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682576,C0006290,LOCATION_OF,ciliated epithelium,Bronchoscopy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682708,C0024485,LOCATION_OF,White matter,Magnetic Resonance Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682708,C0412675,LOCATION_OF,White matter,MRI brain procedure,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682708,C0598801,LOCATION_OF,White matter,Diffusion weighted imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0682708,C1537007,LOCATION_OF,White matter,Diffusion Tensor Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C0684084,C0005558,LOCATION_OF,Skin tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1179187,C0005558,LOCATION_OF,Lamina Propria,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1272575,C0004398,LOCATION_OF,Heart tissue,Autopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1272575,C0280606,LOCATION_OF,Heart tissue,metabolic abnormality assessment,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1292533,C0004398,LOCATION_OF,Tissue specimen,Autopsy,tisu,diap,2,LOCATION_OF_TISUlocfDIAP
+C1519524,C0004398,LOCATION_OF,Paraffin Embedded Tissue,Autopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1519524,C0005558,LOCATION_OF,Paraffin Embedded Tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1519524,C0192420,LOCATION_OF,Paraffin Embedded Tissue,Biopsy of stomach,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1519524,C0399805,LOCATION_OF,Paraffin Embedded Tissue,Biopsy of duodenum,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1519547,C0005558,LOCATION_OF,Tonsillar Tissue,Biopsy,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1521713,C0034606,LOCATION_OF,CNS - Brain (MMHCC),Radionuclide Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1521713,C1136216,LOCATION_OF,CNS - Brain (MMHCC),Diffusion Magnetic Resonance Imaging,tisu,diap,1,LOCATION_OF_TISUlocfDIAP
+C1955394,C0162701,LOCATION_OF,Tissue specific,Polysomnography,tisu,diap,1,LOCATION_OF_TISUlocfDIAP

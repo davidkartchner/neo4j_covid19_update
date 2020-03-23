@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002395,C0006826,AFFECTS,Alzheimer's Disease,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0003723,C0007117,AFFECTS,Arbovirus Infections,Basal cell carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0004623,C0007621,AFFECTS,Bacterial Infections,Neoplastic Cell Transformation,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0006285,C0027627,AFFECTS,Bronchopneumonia,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0007222,C0006826,AFFECTS,Cardiovascular Diseases,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0007222,C0027651,AFFECTS,Cardiovascular Diseases,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0008370,C0006826,AFFECTS,Cholestasis,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0009450,C0007621,AFFECTS,Communicable Diseases,Neoplastic Cell Transformation,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0009450,C0023418,AFFECTS,Communicable Diseases,leukemia,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0011847,C0235974,AFFECTS,Diabetes,Pancreatic carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0015695,C0027627,AFFECTS,Fatty Liver,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0019247,C0206655,AFFECTS,Hereditary Diseases,Alveolar rhabdomyosarcoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0019693,C0024299,AFFECTS,HIV Infections,Lymphoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0021053,C0006826,AFFECTS,Immune System Diseases,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0021053,C0027651,AFFECTS,Immune System Diseases,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0022660,C0027627,AFFECTS,"Kidney Failure, Acute",Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0023521,C0596263,AFFECTS,Globoid cell leukodystrophy,Carcinogenesis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0024530,C0343640,AFFECTS,Malaria,African Burkitt's lymphoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0027765,C0027651,AFFECTS,nervous system disorder,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0028754,C0006826,AFFECTS,Obesity,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0032300,C0027627,AFFECTS,Lobar Pneumonia,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0036690,C0027651,AFFECTS,Septicemia,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0041327,C1842010,AFFECTS,"Tuberculosis, Pulmonary","Glioma of Brain, Familial",dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0042029,C0040137,AFFECTS,Urinary tract infection,Thyroid Nodule,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0042769,C0027651,AFFECTS,Virus Diseases,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0149678,C0024299,AFFECTS,Epstein-Barr Virus Infections,Lymphoma,dsyn,neop,2,AFFECTS_DSYNafctNEOP
+C0149678,C0027651,AFFECTS,Epstein-Barr Virus Infections,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0149678,C0596263,AFFECTS,Epstein-Barr Virus Infections,Carcinogenesis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0149678,C2931822,AFFECTS,Epstein-Barr Virus Infections,Nasopharyngeal carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0152244,C0027651,AFFECTS,"Bone Cysts, Aneurysmal",Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0239946,C2239176,AFFECTS,"Fibrosis, Liver",Liver carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0242994,C0027627,AFFECTS,Hantavirus Infections,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0267952,C0235974,AFFECTS,Fibrosis of pancreas,Pancreatic carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0277527,C0027627,AFFECTS,Epidemic diarrhea,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0340305,C0006826,AFFECTS,Inferior Wall Myocardial Infarction,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0522274,C1266119,AFFECTS,Humoral immune defect,Solitary fibrous tumor,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0524851,C0006826,AFFECTS,Neurodegenerative Disorders,Malignant Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0600327,C0017636,AFFECTS,Toxic Shock Syndrome,Glioblastoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0729531,C1266129,AFFECTS,Viral respiratory infection,Atypical Lipoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0730328,C0007621,AFFECTS,Central Serous Chorioretinopathy,Neoplastic Cell Transformation,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0730328,C0027627,AFFECTS,Central Serous Chorioretinopathy,Neoplasm Metastasis,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0730328,C0027651,AFFECTS,Central Serous Chorioretinopathy,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0730328,C2939419,AFFECTS,Central Serous Chorioretinopathy,Secondary Neoplasm,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C0872054,C2931822,AFFECTS,latent infection,Nasopharyngeal carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C1264606,C2239176,AFFECTS,Persistent infection,Liver carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C1623038,C2239176,AFFECTS,Cirrhosis,Liver carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C2062441,C0431109,AFFECTS,Influenza A,Choroid Plexus Carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C3151446,C0027651,AFFECTS,NESTOR-GUILLERMO PROGERIA SYNDROME,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C3669463,C0027651,AFFECTS,Feline immunodeficiency virus infection,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C4085595,C0027651,AFFECTS,AL-RAQAD SYNDROME,Neoplasms,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C4288963,C0024299,AFFECTS,Hepatitis C Virus Infection,Lymphoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP
+C4288963,C2239176,AFFECTS,Hepatitis C Virus Infection,Liver carcinoma,dsyn,neop,1,AFFECTS_DSYNafctNEOP

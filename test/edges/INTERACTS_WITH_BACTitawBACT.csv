@@ -1,0 +1,82 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001699,C0004611,INTERACTS_WITH,Klebsiella pneumoniae,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0001699,C0036111,INTERACTS_WITH,Klebsiella pneumoniae,Salmonella,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0001699,C1265294,INTERACTS_WITH,Klebsiella pneumoniae,Streptococcus species,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004587,C0026926,INTERACTS_WITH,Bacillus <bacterium>,Mycobacterium tuberculosis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0005380,INTERACTS_WITH,Bacteria,Bifidobacterium,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0018154,INTERACTS_WITH,Bacteria,Gram-Positive Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0018483,INTERACTS_WITH,Bacteria,Haemophilus influenzae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0022938,INTERACTS_WITH,Bacteria,Lactobacillus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0033701,INTERACTS_WITH,Bacteria,Proteus mirabilis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0038410,INTERACTS_WITH,Bacteria,Streptococcus pneumoniae,bact,bact,2,INTERACTS_WITH_BACTitawBACT
+C0004611,C0525033,INTERACTS_WITH,Bacteria,Probiotics,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0563199,INTERACTS_WITH,Bacteria,Bacterial cell,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004611,C0686817,INTERACTS_WITH,Bacteria,Prokaryote,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0004770,C0004611,INTERACTS_WITH,Bartonella,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0006132,C0018483,INTERACTS_WITH,Moraxella (Branhamella) catarrhalis,Haemophilus influenzae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0006132,C0038172,INTERACTS_WITH,Moraxella (Branhamella) catarrhalis,Staphylococcus aureus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0006132,C0038410,INTERACTS_WITH,Moraxella (Branhamella) catarrhalis,Streptococcus pneumoniae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0014834,C0004611,INTERACTS_WITH,Escherichia coli,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0014834,C0006819,INTERACTS_WITH,Escherichia coli,Campylobacter jejuni,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0014834,C0036111,INTERACTS_WITH,Escherichia coli,Salmonella,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0014834,C0081786,INTERACTS_WITH,Escherichia coli,Microbial Biofilms,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0014834,C0563199,INTERACTS_WITH,Escherichia coli,Bacterial cell,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0016677,C0004611,INTERACTS_WITH,FRANCISELLA TULARENSIS,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018150,C0004611,INTERACTS_WITH,Gram-Negative Bacteria,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018150,C0014834,INTERACTS_WITH,Gram-Negative Bacteria,Escherichia coli,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018150,C0018154,INTERACTS_WITH,Gram-Negative Bacteria,Gram-Positive Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018150,C0043408,INTERACTS_WITH,Gram-Negative Bacteria,Yersinia pestis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018154,C0005380,INTERACTS_WITH,Gram-Positive Bacteria,Bifidobacterium,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018154,C0018150,INTERACTS_WITH,Gram-Positive Bacteria,Gram-Negative Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018154,C0022938,INTERACTS_WITH,Gram-Positive Bacteria,Lactobacillus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018483,C0004611,INTERACTS_WITH,Haemophilus influenzae,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018483,C0027575,INTERACTS_WITH,Haemophilus influenzae,Neisseria meningitidis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018483,C0038172,INTERACTS_WITH,Haemophilus influenzae,Staphylococcus aureus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018483,C0038410,INTERACTS_WITH,Haemophilus influenzae,Streptococcus pneumoniae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0018483,C0317568,INTERACTS_WITH,Haemophilus influenzae,Haemophilus parainfluenzae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0023237,C0004611,INTERACTS_WITH,Legionella,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0023237,C0522384,INTERACTS_WITH,Legionella,Legionella pneumophila serogroup 1,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0023861,C0018150,INTERACTS_WITH,Listeria monocytogenes,Gram-Negative Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0026926,C0001699,INTERACTS_WITH,Mycobacterium tuberculosis,Klebsiella pneumoniae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0026926,C0018483,INTERACTS_WITH,Mycobacterium tuberculosis,Haemophilus influenzae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0026926,C0026941,INTERACTS_WITH,Mycobacterium tuberculosis,Mycoplasma pneumoniae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0026926,C0038410,INTERACTS_WITH,Mycobacterium tuberculosis,Streptococcus pneumoniae,bact,bact,2,INTERACTS_WITH_BACTitawBACT
+C0027575,C0043408,INTERACTS_WITH,Neisseria meningitidis,Yersinia pestis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0030637,C0026934,INTERACTS_WITH,Pasteurella multocida,Mycoplasma,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0033809,C0004611,INTERACTS_WITH,Pseudomonas aeruginosa,Bacteria,bact,bact,2,INTERACTS_WITH_BACTitawBACT
+C0036113,C0004611,INTERACTS_WITH,Salmonella enterica subsp. enterica serovar enteritidis,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0036126,C0004611,INTERACTS_WITH,Salmonella typhimurium,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038172,C0018483,INTERACTS_WITH,Staphylococcus aureus,Haemophilus influenzae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038172,C0038410,INTERACTS_WITH,Staphylococcus aureus,Streptococcus pneumoniae,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038402,C0004611,INTERACTS_WITH,Streptococcus,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038404,C0018154,INTERACTS_WITH,Enterococcus faecalis,Gram-Positive Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038410,C0004589,INTERACTS_WITH,Streptococcus pneumoniae,Bacillus anthracis,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038410,C0004611,INTERACTS_WITH,Streptococcus pneumoniae,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038410,C0563199,INTERACTS_WITH,Streptococcus pneumoniae,Bacterial cell,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038410,C1265294,INTERACTS_WITH,Streptococcus pneumoniae,Streptococcus species,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0038411,C0038172,INTERACTS_WITH,Streptococcus pyogenes,Staphylococcus aureus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0079488,C0006819,INTERACTS_WITH,Helicobacter pylori,Campylobacter jejuni,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0085494,C0014834,INTERACTS_WITH,Enterococcus,Escherichia coli,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0085501,C0026934,INTERACTS_WITH,Ureaplasma urealyticum,Mycoplasma,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0314752,C0004611,INTERACTS_WITH,Gram-negative bacillus,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0314752,C4076168,INTERACTS_WITH,Gram-negative bacillus,Multi drug resistant bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0317568,C0004611,INTERACTS_WITH,Haemophilus parainfluenzae,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0317838,C0026934,INTERACTS_WITH,Mycoplasma hominis,Mycoplasma,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0318171,C0563199,INTERACTS_WITH,"Streptococcus, group R",Bacterial cell,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0376625,C0004611,INTERACTS_WITH,Escherichia coli O157,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0525033,C0004611,INTERACTS_WITH,Probiotics,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0525033,C0014834,INTERACTS_WITH,Probiotics,Escherichia coli,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0579233,C0004611,INTERACTS_WITH,Streptococcus agalactiae,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C0686817,C0004611,INTERACTS_WITH,Prokaryote,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1013303,C0318329,INTERACTS_WITH,Borrelia miyamotoi,Anaplasma phagocytophilum,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1036096,C0036126,INTERACTS_WITH,Chlamydia suis,Salmonella typhimurium,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1065064,C0026934,INTERACTS_WITH,Ureaplasma parvum,Mycoplasma,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1210581,C0525033,INTERACTS_WITH,Lactobacillales,Probiotics,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1254144,C0004611,INTERACTS_WITH,Firmicutes,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1265234,C0038172,INTERACTS_WITH,Nontuberculous Mycobacteria,Staphylococcus aureus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1444090,C0004611,INTERACTS_WITH,Resistant bacteria,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1533182,C0035583,INTERACTS_WITH,"Rickettsia, spotted fever group",Rickettsia,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C1980009,C0563199,INTERACTS_WITH,Typhi,Bacterial cell,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C2828040,C0004611,INTERACTS_WITH,Aerobic Gram Negative Bacillus,Bacteria,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C2960746,C0085467,INTERACTS_WITH,Carbapenem resistant Acinetobacter,Acinetobacter calcoaceticus,bact,bact,1,INTERACTS_WITH_BACTitawBACT
+C4279918,C0525033,INTERACTS_WITH,Lactobacillus GG,Probiotics,bact,bact,1,INTERACTS_WITH_BACTitawBACT

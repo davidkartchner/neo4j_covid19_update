@@ -1,0 +1,278 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0001675,TREATS,Acetaminophen,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0000970,C0008059,TREATS,Acetaminophen,Child,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0000970,C0021270,TREATS,Acetaminophen,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001927,C0008059,TREATS,Albuterol,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001927,C0871685,TREATS,Albuterol,Clinician,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001962,C0009932,TREATS,Ethanol,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001962,C0043210,TREATS,Ethanol,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001962,C0086418,TREATS,Ethanol,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0001962,C0687735,TREATS,Ethanol,shaker,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002403,C0001675,TREATS,Amantadine,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002403,C0020052,TREATS,Amantadine,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002403,C0086418,TREATS,Amantadine,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002502,C0086418,TREATS,Amiloride,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002556,C0001675,TREATS,Aminoglycosides,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002556,C0238598,TREATS,Aminoglycosides,Young Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002598,C0086418,TREATS,Amiodarone,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0002641,C0086418,TREATS,Amodiaquine,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0003968,C0028698,TREATS,Ascorbic Acid,Nursing Staff,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0003968,C0086418,TREATS,Ascorbic Acid,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0003968,C0680063,TREATS,Ascorbic Acid,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0004057,C0033011,TREATS,Aspirin,Pregnant Women,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0004057,C0086418,TREATS,Aspirin,Homo sapiens,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0005304,C0009932,TREATS,Betaine,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0005802,C0008059,TREATS,Blood Glucose,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008269,C0008059,TREATS,Chloroquine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008269,C0015576,TREATS,Chloroquine,Family,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008269,C0026591,TREATS,Chloroquine,Mother (person),orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008269,C0086418,TREATS,Chloroquine,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008286,C0027567,TREATS,Chlorpromazine,African race,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008286,C0086418,TREATS,Chlorpromazine,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008809,C0021289,TREATS,Ciprofloxacin,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008809,C0033011,TREATS,Ciprofloxacin,Pregnant Women,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0008809,C0687759,TREATS,Ciprofloxacin,traveler,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0009008,C0009932,TREATS,Clomiphene,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0009014,C0001675,TREATS,Clonidine,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0009214,C0008059,TREATS,Codeine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0010467,C0086418,TREATS,Curcumin,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0010467,C0242821,TREATS,Curcumin,Human body,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0010583,C0040704,TREATS,Cyclophosphamide,Transient Population Group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0011816,C0008059,TREATS,Dextromethorphan,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0012403,C0009932,TREATS,Dimethyl Sulfoxide,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0012522,C0008059,TREATS,Diphenhydramine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0012522,C1709854,TREATS,Diphenhydramine,Recipient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0012789,C0687735,TREATS,Dithiothreitol,shaker,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0015133,C0008059,TREATS,Etoposide,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0015846,C0008059,TREATS,Fentanyl,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0015846,C0035173,TREATS,Fentanyl,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0016277,C0021289,TREATS,Fluconazole,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0016410,C0680063,TREATS,Folic Acid,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0017696,C0008059,TREATS,Glucans,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0017718,C0043210,TREATS,Glucosamine,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0020336,C0086418,TREATS,Hydroxychloroquine,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0020740,C0001675,TREATS,Ibuprofen,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0020740,C0008059,TREATS,Ibuprofen,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0020740,C0008100,TREATS,Ibuprofen,"Child, Preschool",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0020740,C0021270,TREATS,Ibuprofen,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0023556,C0086418,TREATS,Levamisole,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0023992,C0008059,TREATS,Loperamide,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0025598,C0086418,TREATS,Metformin,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0025638,C0870604,TREATS,Methenamine,Female child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0025872,C0086418,TREATS,Metronidazole,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0026056,C0086418,TREATS,Midazolam,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0026156,C0086418,TREATS,Mineral Oil,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0026534,C0086418,TREATS,Morantel,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0026549,C0008059,TREATS,Morphine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0026549,C0035173,TREATS,Morphine,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0028247,C0040704,TREATS,Nocodazole,Transient Population Group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0029904,C0086418,TREATS,Ouabain,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0029904,C0680063,TREATS,Ouabain,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0030350,C0687725,TREATS,Papaverine,Alcoholics,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0031406,C0021270,TREATS,Phenindione,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0031436,C0025360,TREATS,Phenothiazines,Mentally Ill Persons,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0031469,C0008059,TREATS,Phenylephrine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0032483,C0035173,TREATS,Polyethylene Glycols,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0032594,C0025266,TREATS,Polysaccharides,Male population group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0032594,C0870134,TREATS,Polysaccharides,ancestors,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0032857,C0042960,TREATS,Povidone-Iodine,Voluntary Workers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0032857,C0043210,TREATS,Povidone-Iodine,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0033487,C0021289,TREATS,Propofol,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0033487,C0682053,TREATS,Propofol,Toddler (age group),orch,humn,1,TREATS_ORCHtrtsHUMN
+C0034235,C0086418,TREATS,Pyrantel,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0034392,C0009932,TREATS,Quercetin,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0035629,C0020052,TREATS,Rimantadine,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0037556,C0086418,TREATS,Sodium Tetradecyl Sulfate,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0038880,C0086418,TREATS,Suramin,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0039286,C0282122,TREATS,Tamoxifen,Respondents,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0039294,C2700280,TREATS,Tannic Acid,World,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0040905,C0086418,TREATS,Trichloroethylene,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0040958,C0020155,TREATS,Triclosan,Human Volunteers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0040958,C0021270,TREATS,Triclosan,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0040958,C0026591,TREATS,Triclosan,Mother (person),orch,humn,1,TREATS_ORCHtrtsHUMN
+C0040958,C0086418,TREATS,Triclosan,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0041415,C0027567,TREATS,Tween 20,African race,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0042839,C0026192,TREATS,Vitamin A,Minority Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0042890,C0008059,TREATS,Vitamins,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0043369,C0008059,TREATS,Xylitol,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0043369,C0337547,TREATS,Xylitol,Younger child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0045733,C0150775,TREATS,2-(4-toluidino)-6-naphthalenesulfonic acid,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0051005,C0035173,TREATS,AH 6809,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0051696,C1704784,TREATS,Amlodipine,Owner,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0052430,C0028661,TREATS,artemisinine,Nurses,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0052430,C2700280,TREATS,artemisinine,World,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0052432,C0206194,TREATS,artesunate,Survivors,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0054258,C0598781,TREATS,Butocin,communes,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0055147,C0008059,TREATS,Cetirizine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0055754,C3812881,TREATS,cinnamic aldehyde,Author,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0056471,C0001675,TREATS,creatinol phosphate,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0056471,C1999167,TREATS,creatinol phosphate,Old age,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0057472,C0150775,TREATS,1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0058231,C0013018,TREATS,methylsulfonylmethane,Donor person,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0060926,C0086418,TREATS,gabapentin,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0060947,C0150775,TREATS,GAL-1,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0063034,C0020052,TREATS,huperzine B,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0063034,C0150775,TREATS,huperzine B,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0063034,C0450048,TREATS,huperzine B,Passenger,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0063034,C2700280,TREATS,huperzine B,World,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0066350,C0026753,TREATS,methylene dimethanesulfonate,Multiple Birth Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0066776,C2348484,TREATS,monophosphoryl lipid A,Exposed Population,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0068788,C0001675,TREATS,nitazoxanide,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0068788,C0008059,TREATS,nitazoxanide,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0068788,C0086418,TREATS,nitazoxanide,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0071649,C0086418,TREATS,polyphenols,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0071649,C0242821,TREATS,polyphenols,Human body,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0071677,C0242821,TREATS,polysialic acid,Human body,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0073992,C0021270,TREATS,salmeterol,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0076836,C0009932,TREATS,Toremifene,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0077536,C0242821,TREATS,tylophorine,Human body,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0077938,C0086418,TREATS,ursolic acid,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0085171,C4522252,TREATS,Aphidicolin,Foundation for the Accreditation of Cellular Therapy,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0101334,C0086418,TREATS,acteoside,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0106552,C0008059,TREATS,Bismuth Salicylate,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0113293,C0741926,TREATS,Dexmedetomidine,cardiac patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0117996,C0008059,TREATS,Fluticasone propionate,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0126174,C0741926,TREATS,Losartan,cardiac patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0128513,C0008059,TREATS,Milrinone,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0129975,C0086418,TREATS,camostat,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0138044,C0001675,TREATS,Potassium Succinate,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0138044,C0008059,TREATS,Potassium Succinate,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0138044,C0870668,TREATS,Potassium Succinate,hospitalized patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0144576,C0037179,TREATS,Paclitaxel,Unmarried person,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0145745,C0009932,TREATS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0145943,C0682323,TREATS,TimeLine Fluoride Releasing Resin,Partner in relationship,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0146951,C0687735,TREATS,Triton X-100,shaker,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0172217,C0031831,TREATS,arsenal,Physicians,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0172217,C0035173,TREATS,arsenal,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0206460,C0741926,TREATS,Enoxaparin,cardiac patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0207682,C1516213,TREATS,nafamostat mesilate,Cancer Patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0216660,C0086418,TREATS,Zanamivir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0216660,C0851286,TREATS,Zanamivir,Staff,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0216660,C0870668,TREATS,Zanamivir,hospitalized patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0216660,C1709854,TREATS,Zanamivir,Recipient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0246904,C0009932,TREATS,Levosimendan,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0246904,C0741926,TREATS,Levosimendan,cardiac patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0246904,C0871463,TREATS,Levosimendan,surgical patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0248719,C0376387,TREATS,telmisartan,Transplant Recipients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0249458,C0008059,TREATS,valacyclovir,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0282386,C0870668,TREATS,Levofloxacin,hospitalized patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0282563,C0008059,TREATS,Macrolides,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0282563,C0035173,TREATS,Macrolides,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0298130,C0008059,TREATS,montelukast,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0298130,C0008100,TREATS,montelukast,"Child, Preschool",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0298130,C0033011,TREATS,montelukast,Pregnant Women,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0300205,C0080105,TREATS,ulipristal,Research Subject,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0360714,C0086418,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0360714,C0683626,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,human group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0376637,C0001675,TREATS,Indinavir,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0376637,C0086418,TREATS,Indinavir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0525678,C0086418,TREATS,rasagiline,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0528985,C0009932,TREATS,tyrphostin AG 1478,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0534301,C1708335,TREATS,rupatadine,Healthy Volunteers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0536495,C0001675,TREATS,moxifloxacin,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0595724,C0001675,TREATS,Singulair,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0595724,C0008059,TREATS,Singulair,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0595726,C0008100,TREATS,Leukotriene Antagonists,"Child, Preschool",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0600611,C0086418,TREATS,Poloxamer 188,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0635106,C3812881,TREATS,benzyloxycarbonyl-Phe-Ala-fluormethylketone,Author,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0664962,C0680063,TREATS,rocaglamide,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0674432,C0086418,TREATS,lopinavir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0718572,C0033011,TREATS,anti-nausea,Pregnant Women,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0722978,C0741926,TREATS,RMS,cardiac patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0752270,C0150775,TREATS,Echinacea Preparation,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0758840,C0086418,TREATS,CC 3052,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0769777,C0043210,TREATS,PRO 2000,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0873140,C0001792,TREATS,AMERICAN GINSENG ROOT,Elderly (population group),orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0001675,TREATS,Oseltamivir,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0008059,TREATS,Oseltamivir,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0020052,TREATS,Oseltamivir,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0021270,TREATS,Oseltamivir,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0021289,TREATS,Oseltamivir,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0043210,TREATS,Oseltamivir,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0086418,TREATS,Oseltamivir,Homo sapiens,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0874161,C0205653,TREATS,Oseltamivir,Adolescent (age group),orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0684030,TREATS,Oseltamivir,high-risk group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0851286,TREATS,Oseltamivir,Staff,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C0870668,TREATS,Oseltamivir,hospitalized patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C1516213,TREATS,Oseltamivir,Cancer Patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C1709854,TREATS,Oseltamivir,Recipient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0874161,C3178774,TREATS,Oseltamivir,Laboratory Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0876173,C0020052,TREATS,Tamiflu,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0876173,C0030551,TREATS,Tamiflu,parent,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0910999,C0021289,TREATS,R 848,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C0939537,C0043210,TREATS,Imatinib mesylate,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0949665,C0008059,TREATS,Fluoroquinolones,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0949665,C0086418,TREATS,Fluoroquinolones,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0949665,C0687759,TREATS,Fluoroquinolones,traveler,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0965594,C1708335,TREATS,resiquimod,Healthy Volunteers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C0969677,C0021289,TREATS,alpha Tocopherol,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C1137338,C0150775,TREATS,"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1138226,C0001675,TREATS,favipiravir,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1138226,C0086418,TREATS,favipiravir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1170231,C0086418,TREATS,Dryvax,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1175029,C0027567,TREATS,ragaglitazar,African race,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1439307,C0021270,TREATS,JNJ 2408068,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1529741,C0086418,TREATS,ISCOMATRIX,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1565750,C0043210,TREATS,sitagliptin,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1675326,C0086418,TREATS,peramivir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1675326,C0870668,TREATS,peramivir,hospitalized patients,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1675326,C1709854,TREATS,peramivir,Recipient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1831992,C0007294,TREATS,ABT 263,Genetic Carriers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C1831992,C1516213,TREATS,ABT 263,Cancer Patient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2356088,C0001675,TREATS,Halls,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0001675,TREATS,Program,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0008059,TREATS,Program,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0015535,TREATS,Program,Faculty,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0015576,TREATS,Program,Family,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0021270,TREATS,Program,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0021289,TREATS,Program,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0028661,TREATS,Program,Nurses,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0031831,TREATS,Program,Physicians,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0034035,TREATS,Program,Public Sector,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0038492,TREATS,Program,student,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0041935,TREATS,Program,Urban Population,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0085537,TREATS,Program,Caregiver,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0086418,TREATS,Program,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0087157,TREATS,Program,Village Health Workers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0221457,TREATS,Program,Teacher,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0335141,TREATS,Program,manager,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0337831,TREATS,Program,Ewe,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0402007,TREATS,Program,Medical radiographer,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0598781,TREATS,Program,communes,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0687759,TREATS,Program,traveler,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0851286,TREATS,Program,Staff,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0871489,TREATS,Program,teams,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C0935577,TREATS,Program,work teams,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C1706077,TREATS,Program,user - individual,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2728259,C2700280,TREATS,Program,World,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2742587,C1999167,TREATS,nemonoxacin,Old age,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0001675,TREATS,Duration,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0008059,TREATS,Duration,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0009932,TREATS,Duration,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0020052,TREATS,Duration,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0021270,TREATS,Duration,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0021289,TREATS,Duration,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0040704,TREATS,Duration,Transient Population Group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0080103,TREATS,Duration,Relative (related person),orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0086418,TREATS,Duration,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0150775,TREATS,Duration,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0680063,TREATS,Duration,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C0683626,TREATS,Duration,human group,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C1709854,TREATS,Duration,Recipient,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2926735,C1999167,TREATS,Duration,Old age,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2961731,C0028661,TREATS,Overtime,Nurses,orch,humn,1,TREATS_ORCHtrtsHUMN
+C2983891,C0086418,TREATS,Apilimod,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3256127,C0008059,TREATS,Bos taurus colostrum preparation,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3256127,C0042960,TREATS,Bos taurus colostrum preparation,Voluntary Workers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3256127,C0086418,TREATS,Bos taurus colostrum preparation,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3264621,C0035173,TREATS,ivacaftor,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3267761,C0021270,TREATS,B-Natal,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3486801,C0009932,TREATS,Sus scrofa lung preparation,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3813211,C0035173,TREATS,Prostaglandin E2,Research Personnel,orch,humn,1,TREATS_ORCHtrtsHUMN
+C3886763,C0086418,TREATS,brincidofovir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4045487,C0086418,TREATS,verdinexor,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4045487,C1708335,TREATS,verdinexor,Healthy Volunteers,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4050026,C0001675,TREATS,Matrix,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4050026,C0007457,TREATS,Matrix,Caucasoid Race,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4050026,C0020052,TREATS,Matrix,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
+C4050026,C0150775,TREATS,Matrix,Social Networks,orch,humn,1,TREATS_ORCHtrtsHUMN

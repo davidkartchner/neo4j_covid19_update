@@ -1,0 +1,48 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008952,C0010200,TREATS,Clinic Visits,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0009818,C0392171,TREATS,Consultation,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0013194,C0036572,TREATS,Drug Packaging,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0018738,C0011991,TREATS,Health Promotion,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0036572,TREATS,Hospitalization,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0037090,TREATS,Hospitalization,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0231875,TREATS,Hospitalization,Expiratory wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0019993,C0392171,TREATS,Hospitalization,Influenza-like symptoms,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0020043,C0011991,TREATS,Home visit (procedure),Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0020043,C0392171,TREATS,Home visit (procedure),Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0025355,C0233401,TREATS,Mental Health Services,Psychiatric symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030685,C0036572,TREATS,Patient Discharge,Seizures,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0030685,C0392674,TREATS,Patient Discharge,Exhaustion,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0031809,C0751378,TREATS,Physical Examination,Neurologic Signs,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0033080,C0439035,TREATS,Prescription procedure,Wheezing symptom,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0033137,C0392171,TREATS,Primary Health Care,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0034115,C0040822,TREATS,Paracentesis,Tremor,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0034927,C0018681,TREATS,Patient referral,Headache,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0039422,C0026837,TREATS,Technology Assessment,Muscle Rigidity,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085093,C0011991,TREATS,"Medicine, African Traditional",Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085559,C0231218,TREATS,intensive care,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0085559,C0476273,TREATS,intensive care,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0086969,C0392171,TREATS,Self-Management,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0011991,TREATS,Hospital admission,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0037090,TREATS,Hospital admission,"Signs and Symptoms, Respiratory",hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0043144,TREATS,Hospital admission,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0231218,TREATS,Hospital admission,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0184666,C0476273,TREATS,Hospital admission,Respiratory distress,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0220908,C0392171,TREATS,Screening procedure,Influenza-like symptoms,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C0436120,C0011991,TREATS,"Physical examination, complete",Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0545084,C0392171,TREATS,Outpatient visits,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0558038,C1397014,TREATS,Participant observation,Imbalance,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0587569,C0231218,TREATS,Physician service,Malaise,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0589121,C3714552,TREATS,Follow-up visit,Weakness,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C0850397,C0011992,TREATS,health information,Infantile Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0010200,TREATS,Evaluation procedure,Coughing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0011991,TREATS,Evaluation procedure,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0026837,TREATS,Evaluation procedure,Muscle Rigidity,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0030193,TREATS,Evaluation procedure,Pain,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1261322,C0231218,TREATS,Evaluation procedure,Malaise,hlca,sosy,2,TREATS_HLCAtrtsSOSY
+C1261322,C0392171,TREATS,Evaluation procedure,Influenza-like symptoms,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1516879,C0011991,TREATS,Enrollment,Diarrhea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1522577,C0043144,TREATS,follow-up,Wheezing,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C1522577,C0231835,TREATS,follow-up,Tachypnea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4489276,C0018681,TREATS,Readmission,Headache,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4489276,C0027497,TREATS,Readmission,Nausea,hlca,sosy,1,TREATS_HLCAtrtsSOSY
+C4489276,C0042963,TREATS,Readmission,Vomiting,hlca,sosy,1,TREATS_HLCAtrtsSOSY

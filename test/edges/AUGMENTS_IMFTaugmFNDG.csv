@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0239984,AUGMENTS,Immunologic Adjuvants,Increased IgA level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C0476442,AUGMENTS,Immunologic Adjuvants,High antibody titer,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C1545588,AUGMENTS,Immunologic Adjuvants,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C2945640,AUGMENTS,Immunologic Adjuvants,compromise,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C0333361,AUGMENTS,Influenza virus vaccine,Acute inflammation,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C1299586,AUGMENTS,Influenza virus vaccine,Has difficulty doing (qualifier value),imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C0449411,AUGMENTS,Vaccines,Causative_agents,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C0476442,AUGMENTS,Vaccines,High antibody titer,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C0518609,AUGMENTS,Vaccines,consideration,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C1521726,AUGMENTS,Vaccines,partial response,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C1545588,AUGMENTS,Vaccines,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C1836348,AUGMENTS,Vaccines,Severe disorder,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C4055506,AUGMENTS,Vaccines,Accumulation,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042210,C4321237,AUGMENTS,Vaccines,High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042211,C3540840,AUGMENTS,"Vaccines, Attenuated",Sign or Symptom,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C4321237,AUGMENTS,"Vaccines, Inactivated",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042742,C1545588,AUGMENTS,Viral Vaccines,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0086413,C4321237,AUGMENTS,HIV Vaccine,High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0376613,C1545588,AUGMENTS,"Vaccines, DNA",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0597641,C1545588,AUGMENTS,plasmid vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887892,C1545588,AUGMENTS,"Vaccines, Subunit",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887892,C4321237,AUGMENTS,"Vaccines, Subunit",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887894,C1545588,AUGMENTS,Respiratory Syncytial Virus Vaccines,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C1548477,C1545588,AUGMENTS,Dengue fever vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C0015663,AUGMENTS,"Immunoglobulin A, Human",Fasting,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C4321237,AUGMENTS,"Immunoglobulin A, Human",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2986386,C0015663,AUGMENTS,Virus-neutralizing Antibody,Fasting,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2986386,C4321237,AUGMENTS,Virus-neutralizing Antibody,High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C3272757,C4289767,AUGMENTS,Live Attenuated Influenza Vaccine,Colonization,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C3272757,C4321237,AUGMENTS,Live Attenuated Influenza Vaccine,High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C3652538,C1320226,AUGMENTS,rabies serum,Incubation period,imft,fndg,1,AUGMENTS_IMFTaugmFNDG

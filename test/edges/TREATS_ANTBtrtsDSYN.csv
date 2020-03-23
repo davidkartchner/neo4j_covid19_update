@@ -1,0 +1,370 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001268,C0014836,TREATS,Spectinomycin,Escherichia coli Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002499,C0036690,TREATS,Amikacin,Septicemia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002499,C0746883,TREATS,Amikacin,Febrile Neutropenia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002499,C0876973,TREATS,Amikacin,Infectious disease of lung,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0004096,TREATS,Amoxicillin,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0008677,TREATS,Amoxicillin,"Bronchitis, Chronic",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0024198,TREATS,Amoxicillin,Lyme Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0029882,TREATS,Amoxicillin,Otitis Media,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0029883,TREATS,Amoxicillin,Otitis Media with Effusion,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0002645,C0031350,TREATS,Amoxicillin,Pharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0032285,TREATS,Amoxicillin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0035243,TREATS,Amoxicillin,Respiratory Tract Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0038160,TREATS,Amoxicillin,Staphylococcal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0040425,TREATS,Amoxicillin,Tonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0149642,TREATS,Amoxicillin,Cervical lymphadenitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0264222,TREATS,Amoxicillin,Acute upper respiratory infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0339901,TREATS,Amoxicillin,Acute respiratory infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0747676,TREATS,Amoxicillin,pneumonia childhood,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002645,C0850666,TREATS,Amoxicillin,Infection caused by Helicobacter pylori,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002679,C0026946,TREATS,Amphotericin B,Mycoses,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002679,C0085436,TREATS,Amphotericin B,"Meningitis, Cryptococcal",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002679,C0153252,TREATS,Amphotericin B,Systemic candidiasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002679,C0242994,TREATS,Amphotericin B,Hantavirus Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002679,C1262313,TREATS,Amphotericin B,Invasive Fungal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002680,C0032285,TREATS,Ampicillin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0002680,C0311276,TREATS,Ampicillin,Severe malnutrition,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0001261,TREATS,Antibiotics,Actinomycosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0001339,TREATS,Antibiotics,Acute pancreatitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0003175,TREATS,Antibiotics,Anthrax disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0004096,TREATS,Antibiotics,Asthma,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0004610,TREATS,Antibiotics,Bacteremia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0004623,TREATS,Antibiotics,Bacterial Infections,antb,dsyn,3,TREATS_ANTBtrtsDSYN
+C0003232,C0004626,TREATS,Antibiotics,"Pneumonia, Bacterial",antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0004659,TREATS,Antibiotics,Bacteriuria,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0006267,TREATS,Antibiotics,Bronchiectasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0006271,TREATS,Antibiotics,Bronchiolitis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0006277,TREATS,Antibiotics,Bronchitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0008149,TREATS,Antibiotics,Chlamydia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0008311,TREATS,Antibiotics,Cholangitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0009443,TREATS,Antibiotics,Common Cold,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0009450,TREATS,Antibiotics,Communicable Diseases,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0010340,TREATS,Antibiotics,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0010346,TREATS,Antibiotics,Crohn Disease,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0010674,TREATS,Antibiotics,Cystic Fibrosis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0013369,TREATS,Antibiotics,Dysentery,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0014836,TREATS,Antibiotics,Escherichia coli Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0015469,TREATS,Antibiotics,Facial paralysis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0017536,TREATS,Antibiotics,Giardiasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0017563,TREATS,Antibiotics,Gingival Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0019191,TREATS,Antibiotics,Infectious Canine Hepatitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0020456,TREATS,Antibiotics,Hyperglycemia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0020877,TREATS,Antibiotics,Ileitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0021400,TREATS,Antibiotics,Influenza,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0021831,TREATS,Antibiotics,Intestinal Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0022658,TREATS,Antibiotics,Kidney Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0022660,TREATS,Antibiotics,"Kidney Failure, Acute",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0023241,TREATS,Antibiotics,Legionnaires' Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0023530,TREATS,Antibiotics,Leukopenia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0024117,TREATS,Antibiotics,Chronic Obstructive Airway Disease,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0024530,TREATS,Antibiotics,Malaria,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0024904,TREATS,Antibiotics,Mastoiditis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0025289,TREATS,Antibiotics,Meningitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0025295,TREATS,Antibiotics,"Meningitis, Pneumococcal",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0028242,TREATS,Antibiotics,Nocardia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0028432,TREATS,Antibiotics,Nose Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0029118,TREATS,Antibiotics,Opportunistic Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0029443,TREATS,Antibiotics,Osteomyelitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0029882,TREATS,Antibiotics,Otitis Media,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0029883,TREATS,Antibiotics,Otitis Media with Effusion,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0031350,TREATS,Antibiotics,Pharyngitis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0032064,TREATS,Antibiotics,Plague,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0032269,TREATS,Antibiotics,Pneumococcal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0032285,TREATS,Antibiotics,Pneumonia,antb,dsyn,3,TREATS_ANTBtrtsDSYN
+C0003232,C0032290,TREATS,Antibiotics,Aspiration Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0032300,TREATS,Antibiotics,Lobar Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0032302,TREATS,Antibiotics,Mycoplasma pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0032310,TREATS,Antibiotics,"Pneumonia, Viral",antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0034069,TREATS,Antibiotics,Pulmonary Fibrosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0035021,TREATS,Antibiotics,Relapsing Fever,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0035222,TREATS,Antibiotics,"Respiratory Distress Syndrome, Adult",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0035242,TREATS,Antibiotics,Respiratory Tract Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0035243,TREATS,Antibiotics,Respiratory Tract Infections,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0035585,TREATS,Antibiotics,Rickettsia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0036117,TREATS,Antibiotics,Salmonella infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0036202,TREATS,Antibiotics,Sarcoidosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0036690,TREATS,Antibiotics,Septicemia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0037199,TREATS,Antibiotics,Sinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0038160,TREATS,Antibiotics,Staphylococcal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0038826,TREATS,Antibiotics,Superinfection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0040425,TREATS,Antibiotics,Tonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0040586,TREATS,Antibiotics,Tracheobronchitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0041296,TREATS,Antibiotics,Tuberculosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0041912,TREATS,Antibiotics,Upper Respiratory Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0042029,TREATS,Antibiotics,Urinary tract infection,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0042769,TREATS,Antibiotics,Virus Diseases,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0043167,TREATS,Antibiotics,Pertussis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0043528,TREATS,Antibiotics,Zoonoses,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0149512,TREATS,Antibiotics,Acute sinusitis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0149514,TREATS,Antibiotics,Acute bronchitis,antb,dsyn,3,TREATS_ANTBtrtsDSYN
+C0003232,C0149725,TREATS,Antibiotics,Lower respiratory tract infection,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0154830,TREATS,Antibiotics,Proliferative diabetic retinopathy,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0155866,TREATS,Antibiotics,Inhalational anthrax,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0205721,TREATS,Antibiotics,"Infections, Hospital",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0238990,TREATS,Antibiotics,Acute lower respiratory tract infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0262380,TREATS,Antibiotics,Asymptomatic bacteriuria,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0264219,TREATS,Antibiotics,Acute respiratory disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0264222,TREATS,Antibiotics,Acute upper respiratory infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0267917,TREATS,Antibiotics,Acute cholangitis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0271429,TREATS,Antibiotics,Acute otitis media,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0272285,TREATS,Antibiotics,Heparin-induced thrombocytopenia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0275556,TREATS,Antibiotics,Acute bacterial sinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0275782,TREATS,Antibiotics,Fowl typhoid,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0275785,TREATS,Antibiotics,Pullorum disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0275799,TREATS,Antibiotics,Staphylococcal mastitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0276467,TREATS,Antibiotics,Neonatal calf diarrhea,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0339901,TREATS,Antibiotics,Acute respiratory infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0339916,TREATS,Antibiotics,Viral upper respiratory tract infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0339952,TREATS,Antibiotics,Secondary bacterial pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0341558,TREATS,Antibiotics,Intestinal infection due to E. coli,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0343386,TREATS,Antibiotics,Clostridium difficile infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0349410,TREATS,Antibiotics,Single organ dysfunction,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0376538,TREATS,Antibiotics,Porcine Reproductive and Respiratory Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0442886,TREATS,Antibiotics,Secondary Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0521530,TREATS,Antibiotics,Lung consolidation,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0694549,TREATS,Antibiotics,Community acquired pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C0729518,TREATS,Antibiotics,Bacterial respiratory infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0740304,TREATS,Antibiotics,copd exacerbation,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0740441,TREATS,Antibiotics,Acute diarrhea,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0740766,TREATS,Antibiotics,acute pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0743841,TREATS,Antibiotics,Disorder characterized by fever,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0746883,TREATS,Antibiotics,Febrile Neutropenia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0747676,TREATS,Antibiotics,pneumonia childhood,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0850666,TREATS,Antibiotics,Infection caused by Helicobacter pylori,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0854706,TREATS,Antibiotics,neonatal infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0876973,TREATS,Antibiotics,Infectious disease of lung,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0877148,TREATS,Antibiotics,pharyngotonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0877203,TREATS,Antibiotics,Viral Respiratory Tract Infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0940933,TREATS,Antibiotics,infection as a complication,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0948268,TREATS,Antibiotics,Hemodynamic instability,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C0948780,TREATS,Antibiotics,Rhinosinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1096155,TREATS,Antibiotics,Macrophage Activation Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1175175,TREATS,Antibiotics,Severe Acute Respiratory Syndrome,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C1261959,TREATS,Antibiotics,Bacterial infections of the respiratory tract,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1264606,TREATS,Antibiotics,Persistent infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1290807,TREATS,Antibiotics,Diarrheal disorder,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1412002,TREATS,Antibiotics,Atypical pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1535939,TREATS,Antibiotics,Pneumocystis jiroveci pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C1701940,TREATS,Antibiotics,"Pneumonia, Ventilator-Associated",antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C1719672,TREATS,Antibiotics,Severe Sepsis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003232,C1855645,TREATS,Antibiotics,Keratoconus posticus circumscriptus,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C2317131,TREATS,Antibiotics,Acute rhinosinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C3694279,TREATS,Antibiotics,Middle East Respiratory Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C4082764,TREATS,Antibiotics,Gastrointestinal infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003232,C4543758,TREATS,Antibiotics,Protracted bronchitis caused by bacterium,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003238,C1719672,TREATS,antibiotic combinations,Severe Sepsis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0001311,TREATS,Macrolide Antibiotics,Acute bronchiolitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0004096,TREATS,Macrolide Antibiotics,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0004623,TREATS,Macrolide Antibiotics,Bacterial Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0006267,TREATS,Macrolide Antibiotics,Bronchiectasis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003240,C0006271,TREATS,Macrolide Antibiotics,Bronchiolitis,antb,dsyn,3,TREATS_ANTBtrtsDSYN
+C0003240,C0024117,TREATS,Macrolide Antibiotics,Chronic Obstructive Airway Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0031350,TREATS,Macrolide Antibiotics,Pharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0032285,TREATS,Macrolide Antibiotics,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0035243,TREATS,Macrolide Antibiotics,Respiratory Tract Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0040425,TREATS,Macrolide Antibiotics,Tonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0042769,TREATS,Macrolide Antibiotics,Virus Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0242770,TREATS,Macrolide Antibiotics,Bronchiolitis Obliterans Organizing Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0276340,TREATS,Macrolide Antibiotics,Respiratory syncytial virus bronchiolitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0694549,TREATS,Macrolide Antibiotics,Community acquired pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0740304,TREATS,Macrolide Antibiotics,copd exacerbation,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C0746102,TREATS,Macrolide Antibiotics,Chronic lung disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0003240,C3824874,TREATS,Macrolide Antibiotics,Mycoplasma pneumoniae Infection,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0003240,C4523782,TREATS,Macrolide Antibiotics,Inflammatory airway disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0006968,C0442886,TREATS,Carbapenems,Secondary Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0006968,C1976726,TREATS,Carbapenems,Antibiotic resistant infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007559,C0032285,TREATS,Ceftazidime,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007559,C1701940,TREATS,Ceftazidime,"Pneumonia, Ventilator-Associated",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007561,C0025303,TREATS,Ceftriaxone,Meningococcal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007561,C0032285,TREATS,Ceftriaxone,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007561,C0032300,TREATS,Ceftriaxone,Lobar Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007561,C0242770,TREATS,Ceftriaxone,Bronchiolitis Obliterans Organizing Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007561,C0276088,TREATS,Ceftriaxone,Escherichia coli septicemia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0007562,C0032285,TREATS,Cefuroxime,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0008947,C0012979,TREATS,Clindamycin,Dog Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0008947,C0017563,TREATS,Clindamycin,Gingival Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0008947,C0206171,TREATS,Clindamycin,Community-Acquired Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0008947,C1142536,TREATS,Clindamycin,Pneumonia due to methicillin resistant Staphylococcus aureus,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0010572,C0020498,TREATS,Cycloheximide,"Hyperostosis, Diffuse Idiopathic Skeletal",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013089,C3151446,TREATS,Doxorubicin,NESTOR-GUILLERMO PROGERIA SYNDROME,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0001126,TREATS,Doxycycline,Renal tubular acidosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0004626,TREATS,Doxycycline,"Pneumonia, Bacterial",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0008149,TREATS,Doxycycline,Chlamydia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0023364,TREATS,Doxycycline,Leptospirosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0024198,TREATS,Doxycycline,Lyme Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0032285,TREATS,Doxycycline,Pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0013090,C0035243,TREATS,Doxycycline,Respiratory Tract Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0035585,TREATS,Doxycycline,Rickettsia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0041912,TREATS,Doxycycline,Upper Respiratory Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0085399,TREATS,Doxycycline,Ehrlichiosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C0276108,TREATS,Doxycycline,Chlamydia psittaci infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0013090,C3887654,TREATS,Doxycycline,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0014806,C0006267,TREATS,Erythromycin,Bronchiectasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0014806,C0023860,TREATS,Erythromycin,Listeriosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0014806,C0275521,TREATS,Erythromycin,Clinical infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0014809,C0275521,TREATS,Erythromycin Estolate,Clinical infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0016610,C0042029,TREATS,Fosfomycin,Urinary tract infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0020933,C0004626,TREATS,Imipenem,"Pneumonia, Bacterial",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0022487,C0024117,TREATS,Kanamycin,Chronic Obstructive Airway Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0022914,C0004623,TREATS,Lactams,Bacterial Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0022914,C0032285,TREATS,Lactams,Pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0022914,C0032300,TREATS,Lactams,Lobar Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0022914,C0152244,TREATS,Lactams,"Bone Cysts, Aneurysmal",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0022914,C0694549,TREATS,Lactams,Community acquired pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026187,C0004626,TREATS,Minocycline,"Pneumonia, Bacterial",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026187,C0011303,TREATS,Minocycline,Demyelinating Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026187,C0015230,TREATS,Minocycline,Exanthema,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026187,C0036202,TREATS,Minocycline,Sarcoidosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026458,C0032269,TREATS,Monobactams,Pneumococcal Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026458,C0205721,TREATS,Monobactams,"Infections, Hospital",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026458,C0275556,TREATS,Monobactams,Acute bacterial sinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0026458,C0694549,TREATS,Monobactams,Community acquired pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0026933,C0679225,TREATS,Mycophenolic Acid,multiple pathologies,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0027603,C0024117,TREATS,Neomycin,Chronic Obstructive Airway Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030840,C0031350,TREATS,Penicillin V,Pharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0010340,TREATS,Penicillins,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0031350,TREATS,Penicillins,Pharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0035204,TREATS,Penicillins,Respiration Disorders,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0037354,TREATS,Penicillins,Smallpox,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0039128,TREATS,Penicillins,Syphilis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0149512,TREATS,Penicillins,Acute sinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0152964,TREATS,Penicillins,streptococcal bacteremia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0030842,C0275524,TREATS,Penicillins,Coinfection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0031955,C0010340,TREATS,Piperacillin,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0034145,C0275518,TREATS,Puromycin,Acute infectious disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0004610,TREATS,Rifampin,Bacteremia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0023343,TREATS,Rifampin,Leprosy,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0032285,TREATS,Rifampin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0032300,TREATS,Rifampin,Lobar Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0041296,TREATS,Rifampin,Tuberculosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C0694549,TREATS,Rifampin,Community acquired pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C1609538,TREATS,Rifampin,Latent Tuberculosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0035608,C3694279,TREATS,Rifampin,Middle East Respiratory Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0038425,C0006309,TREATS,Streptomycin,Brucellosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0038425,C0032064,TREATS,Streptomycin,Plague,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0038425,C0267541,TREATS,Streptomycin,Typhlocolitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0039644,C0042109,TREATS,Tetracycline,Urticaria,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0040341,C0876973,TREATS,Tobramycin,Infectious disease of lung,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0041165,C0004096,TREATS,Troleandomycin,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0041385,C1306856,TREATS,Tunicamycin,Megaloblastic anemia due to inborn errors of metabolism,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0004096,TREATS,Azithromycin,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0004771,TREATS,Azithromycin,Bartonella Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0006267,TREATS,Azithromycin,Bronchiectasis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0052796,C0006271,TREATS,Azithromycin,Bronchiolitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0006818,TREATS,Azithromycin,Campylobacter infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0008149,TREATS,Azithromycin,Chlamydia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0026936,TREATS,Azithromycin,Mycoplasma Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0029001,TREATS,Azithromycin,Onchocerciasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0032285,TREATS,Azithromycin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0034069,TREATS,Azithromycin,Pulmonary Fibrosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0035585,TREATS,Azithromycin,Rickettsia Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0040592,TREATS,Azithromycin,Trachoma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0149512,TREATS,Azithromycin,Acute sinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0265514,TREATS,Azithromycin,Dermatofibrosis lenticularis disseminata,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0276108,TREATS,Azithromycin,Chlamydia psittaci infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0276289,TREATS,Azithromycin,Zika Virus Infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0410000,TREATS,Azithromycin,Overlap syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0679225,TREATS,Azithromycin,multiple pathologies,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0740441,TREATS,Azithromycin,Acute diarrhea,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C0746102,TREATS,Azithromycin,Chronic lung disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C1096155,TREATS,Azithromycin,Macrophage Activation Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0052796,C1301752,TREATS,Azithromycin,Respiratory morbidity,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0054066,C0004626,TREATS,Amoxicillin / Clavulanate,"Pneumonia, Bacterial",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0054066,C0006267,TREATS,Amoxicillin / Clavulanate,Bronchiectasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0054066,C0877148,TREATS,Amoxicillin / Clavulanate,pharyngotonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0054066,C1565489,TREATS,Amoxicillin / Clavulanate,Renal Insufficiency,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055003,C0746883,TREATS,cefepime,Febrile Neutropenia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055011,C2317131,TREATS,cefpodoxime,Acute rhinosinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055015,C0029883,TREATS,cefuroxime axetil,Otitis Media with Effusion,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0006267,TREATS,Clarithromycin,Bronchiectasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0006271,TREATS,Clarithromycin,Bronchiolitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0008677,TREATS,Clarithromycin,"Bronchitis, Chronic",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0024117,TREATS,Clarithromycin,Chronic Obstructive Airway Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0031350,TREATS,Clarithromycin,Pharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0032285,TREATS,Clarithromycin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0040425,TREATS,Clarithromycin,Tonsillitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0041912,TREATS,Clarithromycin,Upper Respiratory Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0242770,TREATS,Clarithromycin,Bronchiolitis Obliterans Organizing Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055856,C0850666,TREATS,Clarithromycin,Infection caused by Helicobacter pylori,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0055860,C0149642,TREATS,Clavulanic Acid,Cervical lymphadenitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0059374,C0035204,TREATS,enrofloxacin,Respiration Disorders,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0066005,C0035078,TREATS,meropenem,Kidney Failure,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0066005,C0442886,TREATS,meropenem,Secondary Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0066005,C0850666,TREATS,meropenem,Infection caused by Helicobacter pylori,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0072980,C0019100,TREATS,Sirolimus,Severe Dengue,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0072980,C0035112,TREATS,Sirolimus,Reoviridae Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0072980,C0042769,TREATS,Sirolimus,Virus Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0072980,C0376300,TREATS,Sirolimus,Dengue Shock Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0075870,C0010340,TREATS,tazobactam,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0076681,C1373218,TREATS,tilmicosin,Decreased Immunologic Activity [PE],antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0085795,C0023290,TREATS,Amphotericin,"Leishmaniasis, Visceral",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0085795,C0024291,TREATS,Amphotericin,"Lymphohistiocytosis, Hemophagocytic",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0250480,C0010340,TREATS,piperacillin-tazobactam combination,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0250480,C0032285,TREATS,piperacillin-tazobactam combination,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0250480,C0876973,TREATS,piperacillin-tazobactam combination,Infectious disease of lung,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0002395,TREATS,Anti-Bacterial Agents,Alzheimer's Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0004623,TREATS,Anti-Bacterial Agents,Bacterial Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0004626,TREATS,Anti-Bacterial Agents,"Pneumonia, Bacterial",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0006277,TREATS,Anti-Bacterial Agents,Bronchitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0010340,TREATS,Anti-Bacterial Agents,Critical Illness,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0021400,TREATS,Anti-Bacterial Agents,Influenza,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0279516,C0032285,TREATS,Anti-Bacterial Agents,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0032310,TREATS,Anti-Bacterial Agents,"Pneumonia, Viral",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0035243,TREATS,Anti-Bacterial Agents,Respiratory Tract Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0041296,TREATS,Anti-Bacterial Agents,Tuberculosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0041912,TREATS,Anti-Bacterial Agents,Upper Respiratory Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0042769,TREATS,Anti-Bacterial Agents,Virus Diseases,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C0279516,C0243026,TREATS,Anti-Bacterial Agents,Sepsis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0267446,TREATS,Anti-Bacterial Agents,Acute gastroenteritis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0275586,TREATS,Anti-Bacterial Agents,Infectious bovine keratoconjunctivitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0339952,TREATS,Anti-Bacterial Agents,Secondary bacterial pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C0694549,TREATS,Anti-Bacterial Agents,Community acquired pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C1290885,TREATS,Anti-Bacterial Agents,Acute inflammatory disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0279516,C2062441,TREATS,Anti-Bacterial Agents,Influenza A,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0304320,C0014836,TREATS,Third generation cephalosporin,Escherichia coli Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0304320,C0021400,TREATS,Third generation cephalosporin,Influenza,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0304320,C0032285,TREATS,Third generation cephalosporin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0004623,TREATS,Today,Bacterial Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0008312,TREATS,Today,Primary biliary cirrhosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0008354,TREATS,Today,Cholera,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0021400,TREATS,Today,Influenza,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0024115,TREATS,Today,Lung diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0037354,TREATS,Today,Smallpox,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0041912,TREATS,Today,Upper Respiratory Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0310367,C0149514,TREATS,Today,Acute bronchitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0614427,C0276289,TREATS,NS 5,Zika Virus Infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0678143,C0029001,TREATS,Zithromax,Onchocerciasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0907410,C0004096,TREATS,telithromycin,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1120106,C0267842,TREATS,ertapenem,Acute cholecystitis without calculus,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1120106,C0442886,TREATS,ertapenem,Secondary Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1145701,C0026718,TREATS,amphotericin B liposomal,Mucormycosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1145701,C0085436,TREATS,amphotericin B liposomal,"Meningitis, Cryptococcal",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1145701,C0238013,TREATS,amphotericin B liposomal,Invasive aspergillosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1145701,C3178973,TREATS,amphotericin B liposomal,Disseminated Fusariosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C0004610,TREATS,tigecycline,Bacteremia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C0023241,TREATS,tigecycline,Legionnaires' Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C0032285,TREATS,tigecycline,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C0042029,TREATS,tigecycline,Urinary tract infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C0694549,TREATS,tigecycline,Community acquired pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
+C1260298,C0948268,TREATS,tigecycline,Hemodynamic instability,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1260298,C1449647,TREATS,tigecycline,Secondary Peritonitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1451406,C0032285,TREATS,tulathromycin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1451406,C0442886,TREATS,tulathromycin,Secondary Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1664205,C0206525,TREATS,bedaquiline,"Tuberculosis, Drug-Resistant",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1664205,C0206526,TREATS,bedaquiline,"Tuberculosis, Multidrug-Resistant",antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1690852,C0004771,TREATS,pradofloxacin,Bartonella Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1690852,C0275518,TREATS,pradofloxacin,Acute infectious disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C1744619,C0011303,TREATS,Tetracycline Antibiotics,Demyelinating Diseases,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C2699134,C2317131,TREATS,cefcapene,Acute rhinosinusitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C2732158,C0343398,TREATS,Clavamox,Cyclosporiasis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C2964258,C0021400,TREATS,Oseltamivir+Zanamivir,Influenza,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3464669,C0521530,TREATS,Tildipirosin,Lung consolidation,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3536856,C0037354,TREATS,Cephalosporins,Smallpox,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3536856,C0747676,TREATS,Cephalosporins,pneumonia childhood,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3536856,C0749591,TREATS,Cephalosporins,tonsillopharyngitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3655918,C0149725,TREATS,solithromycin,Lower respiratory tract infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3854019,C0023860,TREATS,Gentamicin,Listeriosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3854019,C0032285,TREATS,Gentamicin,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3854019,C0276092,TREATS,Gentamicin,Neonatal colibacillosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C3854019,C0311276,TREATS,Gentamicin,Severe malnutrition,antb,dsyn,1,TREATS_ANTBtrtsDSYN

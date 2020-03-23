@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C0001551,PRODUCES,Antibodies,Immunologic Adjuvants,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C0003316,PRODUCES,Antibodies,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C0005457,PRODUCES,Antibodies,"Binding Sites, Antibody",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C0018593,PRODUCES,Antibodies,Haptens,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C0021403,PRODUCES,Antibodies,Influenza virus vaccine,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C0042210,PRODUCES,Antibodies,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003241,C1883036,PRODUCES,Antibodies,Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003250,C0003316,PRODUCES,Monoclonal Antibodies,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003250,C0003342,PRODUCES,Monoclonal Antibodies,"Antigens, Viral",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003250,C0021403,PRODUCES,Monoclonal Antibodies,Influenza virus vaccine,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003250,C2986386,PRODUCES,Monoclonal Antibodies,Virus-neutralizing Antibody,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0003313,C2825347,PRODUCES,Immune complex,"Immunoglobulin A, Human",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0004358,C0456981,PRODUCES,Autoantibodies,Specific antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0005554,C0376613,PRODUCES,Biopolymers,"Vaccines, DNA",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0016790,C0443797,PRODUCES,Fucosyltransferase,Antigen in ABO blood group system,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0017968,C0887892,PRODUCES,Glycoproteins,"Vaccines, Subunit",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0020960,C0042210,PRODUCES,Immune Sera,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0021755,C0003316,PRODUCES,Interleukin-1,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0025252,C0042210,PRODUCES,Membrane Proteins,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0025831,C0042210,PRODUCES,Methyltransferase,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0030913,C1883036,PRODUCES,Pepsinogens,Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0030935,C0368675,PRODUCES,Peptide Fragments,antibody antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0033382,C0019166,PRODUCES,Proline,Hepatitis B Core Antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0034805,C0042212,PRODUCES,Fc Receptor,"Vaccines, Inactivated",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0034848,C0003342,PRODUCES,"Receptors, Virus","Antigens, Viral",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0034861,C0042742,PRODUCES,Recombinant Proteins,Viral Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0034861,C0772459,PRODUCES,Recombinant Proteins,ESCHERICHIA COLI ANTIGEN,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0034862,C0042210,PRODUCES,"Vaccines, Recombinant",Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0036720,C0521390,PRODUCES,Serine,neuronal,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0039938,C1883036,PRODUCES,Thioredoxins,Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0042213,C0042210,PRODUCES,"Vaccines, Synthetic",Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0042711,C0301838,PRODUCES,Viral Envelope Proteins,Soluble antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0042736,C0003316,PRODUCES,Viral Proteins,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0042736,C0034496,PRODUCES,Viral Proteins,Rabies Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0059535,C0042211,PRODUCES,ice nucleation protein,"Vaccines, Attenuated",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0061660,C0669873,PRODUCES,glycoprotein D-herpes simplex virus type 2,H5 hemagglutinin,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0065827,C0042210,PRODUCES,Measles Virus Nucleoprotein,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0079784,C0080188,PRODUCES,Macrophage Colony-Stimulating Factor,"Antigens, CD15",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0086661,C0003316,PRODUCES,MYC gene,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0208355,C0003316,PRODUCES,multicatalytic endopeptidase complex,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0208355,C0079600,PRODUCES,multicatalytic endopeptidase complex,Immunodominant Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0208355,C0282580,PRODUCES,multicatalytic endopeptidase complex,"Epitopes, T-Lymphocyte",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0287990,C0019167,PRODUCES,paired basic amino acid cleaving enzyme,Hepatitis B e Antigens,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0301521,C0042210,PRODUCES,therapeutic vaccine,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0310740,C0450099,PRODUCES,Fowl pox vaccine,Influenza virus antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0359168,C1883036,PRODUCES,Mouse monoclonal antibody,Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0376659,C0003316,PRODUCES,Cancer Vaccines,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0383327,C0003316,PRODUCES,Interleukin-18,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0443640,C0019168,PRODUCES,Specific antibody,Hepatitis B Surface Antigens,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0475463,C0042212,PRODUCES,"Antibodies, Neutralizing","Vaccines, Inactivated",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0528480,C0450099,PRODUCES,Presenilin-2,Influenza virus antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0599561,C0003316,PRODUCES,e protein,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C0812309,C2825347,PRODUCES,LTB gene,"Immunoglobulin A, Human",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1136102,C0042210,PRODUCES,Capsid Proteins,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1136102,C0236509,PRODUCES,Capsid Proteins,Respiratory syncytial virus antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1176244,C0597641,PRODUCES,"DARC protein, human",plasmid vaccine,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1309025,C0079600,PRODUCES,"SH2D3A protein, human",Immunodominant Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1321919,C0042210,PRODUCES,"TLR4 protein, human",Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1335057,C0003316,PRODUCES,"PTPN22 protein, human",Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1415898,C0003316,PRODUCES,IFITM3 gene,Epitopes,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1416797,C0042210,PRODUCES,STMN1 gene,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1418866,C0887902,PRODUCES,PRB1 gene,"Vaccines, Edible",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1421429,C3272757,PRODUCES,VTRNA1-1 gene,Live Attenuated Influenza Vaccine,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1423524,C0042210,PRODUCES,NCKIPSD gene,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1423842,C0456981,PRODUCES,NELFCD gene,Specific antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1540289,C0042742,PRODUCES,CD200 gene,Viral Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1624602,C0166049,PRODUCES,Anti-Antibodies,Hepatitis C Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1706005,C2825347,PRODUCES,CD40LG wt Allele,"Immunoglobulin A, Human",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1706821,C0042210,PRODUCES,Antigen Gene,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1825598,C0042210,PRODUCES,IMPACT gene,Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C1955876,C0369498,PRODUCES,Human Immunodeficiency Virus Proteins,HIV-1 antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C2239937,C0022144,PRODUCES,SMAD5-AS1 gene,Isoantibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C2744535,C0042210,PRODUCES,"CD69 protein, human",Vaccines,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C2744535,C1883036,PRODUCES,"CD69 protein, human",Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C2744535,C2825347,PRODUCES,"CD69 protein, human","Immunoglobulin A, Human",aapp,imft,1,PRODUCES_AAPPprodIMFT
+C2934329,C0301869,PRODUCES,"S-(2,3-bispalmitoyloxypropyl)-cysteinyl-amido-monomethoxyl polyethylene glycol",Immunostimulating conjugate (antigen),aapp,imft,1,PRODUCES_AAPPprodIMFT
+C3812695,C1883036,PRODUCES,LPAR3 wt Allele,Single-Chain Antibodies,aapp,imft,1,PRODUCES_AAPPprodIMFT
+C4055491,C0236509,PRODUCES,Adenovirus Type 5 Antibody,Respiratory syncytial virus antigen,aapp,imft,1,PRODUCES_AAPPprodIMFT

@@ -1,0 +1,130 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006345,C0030435,ISA,Melopsittacus,Parakeets,bird,bird,1,ISA_BIRDisaBIRD
+C0006824,C0326915,ISA,Serinus,Finches,bird,bird,1,ISA_BIRDisaBIRD
+C0008051,C0005595,ISA,Chickens,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0008051,C0325589,ISA,Chickens,Galliformes,bird,bird,1,ISA_BIRDisaBIRD
+C0008051,C0325635,ISA,Chickens,Family Phasianidae,bird,bird,1,ISA_BIRDisaBIRD
+C0008051,C0999287,ISA,Chickens,Gallus,bird,bird,1,ISA_BIRDisaBIRD
+C0013268,C0005595,ISA,Ducks,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0013268,C0032850,ISA,Ducks,"Fowls, Domestic",bird,bird,1,ISA_BIRDisaBIRD
+C0013268,C0325486,ISA,Ducks,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0013268,C2959832,ISA,Ducks,Anatinae,bird,bird,1,ISA_BIRDisaBIRD
+C0017225,C0005595,ISA,Geese,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0017225,C0032850,ISA,Geese,"Fowls, Domestic",bird,bird,1,ISA_BIRDisaBIRD
+C0017225,C0325486,ISA,Geese,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0030435,C1384490,ISA,Parakeets,Family Psittacidae (organism),bird,bird,1,ISA_BIRDisaBIRD
+C0032850,C0005595,ISA,"Fowls, Domestic",Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0033852,C0005595,ISA,Order Psittaciformes (organism),Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0034374,C0005595,ISA,Quail,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0041401,C0005595,ISA,Meleagridinae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0041401,C0032850,ISA,Meleagridinae,"Fowls, Domestic",bird,bird,1,ISA_BIRDisaBIRD
+C0041401,C0324556,ISA,Meleagridinae,Domestic avian species,bird,bird,1,ISA_BIRDisaBIRD
+C0041401,C0325635,ISA,Meleagridinae,Family Phasianidae,bird,bird,1,ISA_BIRDisaBIRD
+C0324595,C0005595,ISA,Leghorn chicken,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0324595,C0008051,ISA,Leghorn chicken,Chickens,bird,bird,1,ISA_BIRDisaBIRD
+C0324624,C0005595,ISA,Pekin duck,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0324624,C0013268,ISA,Pekin duck,Ducks,bird,bird,1,ISA_BIRDisaBIRD
+C0324624,C1260943,ISA,Pekin duck,Anas platyrhynchos,bird,bird,1,ISA_BIRDisaBIRD
+C0324626,C0005595,ISA,Domestic goose,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325328,C0005595,ISA,Wild bird,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325386,C0005595,ISA,Pelecaniformes,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325430,C1082071,ISA,Fregata minor,Fregata,bird,bird,1,ISA_BIRDisaBIRD
+C0325433,C1082071,ISA,Fregata ariel,Fregata,bird,bird,1,ISA_BIRDisaBIRD
+C0325437,C0005595,ISA,Heron (bird),Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325437,C0325386,ISA,Heron (bird),Pelecaniformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325474,C0325386,ISA,Spoonbill,Pelecaniformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325493,C0325486,ISA,Anas platyrhynchos platyrhynchos,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325495,C0013268,ISA,Anas acuta,Ducks,bird,bird,1,ISA_BIRDisaBIRD
+C0325496,C1031495,ISA,Anas strepera strepera,Anas strepera,bird,bird,1,ISA_BIRDisaBIRD
+C0325521,C0005595,ISA,Branta canadensis,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325521,C0325486,ISA,Branta canadensis,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325525,C1260940,ISA,Anser anser anser (organism),Anser anser,bird,bird,1,ISA_BIRDisaBIRD
+C0325528,C0005595,ISA,Genus Cygnus,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325528,C0325486,ISA,Genus Cygnus,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325542,C0005595,ISA,Accipitridae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325542,C3669511,ISA,Accipitridae,Order Accipitriformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325552,C0005595,ISA,Lammergeier,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325589,C0005595,ISA,Galliformes,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325628,C0005595,ISA,Meleagris gallopavo,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325628,C0032850,ISA,Meleagris gallopavo,"Fowls, Domestic",bird,bird,1,ISA_BIRDisaBIRD
+C0325628,C0041401,ISA,Meleagris gallopavo,Meleagridinae,bird,bird,1,ISA_BIRDisaBIRD
+C0325628,C0325589,ISA,Meleagris gallopavo,Galliformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325628,C0325635,ISA,Meleagris gallopavo,Family Phasianidae,bird,bird,1,ISA_BIRDisaBIRD
+C0325681,C0325635,ISA,Phasianus colchicus,Family Phasianidae,bird,bird,1,ISA_BIRDisaBIRD
+C0325693,C0005595,ISA,Peafowl,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325693,C0325635,ISA,Peafowl,Family Phasianidae,bird,bird,1,ISA_BIRDisaBIRD
+C0325694,C0005595,ISA,Pavo cristatus,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325804,C0005595,ISA,Arenaria interpres (bird),Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325816,C0325773,ISA,Calidris alba,Charadriiformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325862,C0005595,ISA,Skua,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325870,C0005595,ISA,Laridae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325870,C0325435,ISA,Laridae,Order Ciconiiformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325912,C0005595,ISA,Columbidae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0325912,C0325905,ISA,Columbidae,Columbiformes,bird,bird,1,ISA_BIRDisaBIRD
+C0325953,C1384490,ISA,Psittacus erithacus,Family Psittacidae (organism),bird,bird,1,ISA_BIRDisaBIRD
+C0325984,C0325983,ISA,Ara ararauna,Genus Ara,bird,bird,1,ISA_BIRDisaBIRD
+C0326016,C1760707,ISA,Cacatua galerita galerita,Cacatua galerita,bird,bird,1,ISA_BIRDisaBIRD
+C0326026,C1384490,ISA,Nymphicus hollandicus,Family Psittacidae (organism),bird,bird,1,ISA_BIRDisaBIRD
+C0326030,C0005595,ISA,Cuculidae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326182,C0005595,ISA,European roller,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326182,C0326154,ISA,European roller,Coraciiformes,bird,bird,1,ISA_BIRDisaBIRD
+C0326390,C0005595,ISA,Corvidae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326391,C0005595,ISA,Crow,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326725,C1621793,ISA,Myna,Sturnidae,bird,bird,1,ISA_BIRDisaBIRD
+C0326774,C0005595,ISA,Bananaquit,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326825,C0326937,ISA,Passer domesticus,Passeridae,bird,bird,1,ISA_BIRDisaBIRD
+C0326833,C0005595,ISA,Taeniopygia guttata,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0326833,C0600538,ISA,Taeniopygia guttata,Songbirds,bird,bird,1,ISA_BIRDisaBIRD
+C0326917,C1081641,ISA,Carpodacus purpureus,Carpodacus,bird,bird,1,ISA_BIRDisaBIRD
+C0597941,C0005595,ISA,aquatic bird,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0600539,C0005595,ISA,Ratites,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0999149,C0005595,ISA,Dromaius,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0999214,C0017225,ISA,Chen caerulescens,Geese,bird,bird,1,ISA_BIRDisaBIRD
+C0999214,C0999213,ISA,Chen caerulescens,Chen,bird,bird,1,ISA_BIRDisaBIRD
+C0999232,C0005595,ISA,Columba livia,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0999232,C0325912,ISA,Columba livia,Columbidae,bird,bird,1,ISA_BIRDisaBIRD
+C0999311,C0005595,ISA,Argusianus,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C0999389,C0325331,ISA,Pygoscelis adeliae,Spheniscidae,bird,bird,1,ISA_BIRDisaBIRD
+C0999391,C0325331,ISA,Spheniscus humboldti,Spheniscidae,bird,bird,1,ISA_BIRDisaBIRD
+C1002190,C0325870,ISA,Larus canus,Laridae,bird,bird,1,ISA_BIRDisaBIRD
+C1005667,C0033852,ISA,Neophema,Order Psittaciformes (organism),bird,bird,1,ISA_BIRDisaBIRD
+C1015285,C0017225,ISA,Anser albifrons,Geese,bird,bird,1,ISA_BIRDisaBIRD
+C1030293,C0326066,ISA,Ninox strenua,Family Strigidae,bird,bird,1,ISA_BIRDisaBIRD
+C1031492,C0013268,ISA,Anas rubripes,Ducks,bird,bird,1,ISA_BIRDisaBIRD
+C1033593,C0326067,ISA,Ninox connivens,Strigiformes,bird,bird,1,ISA_BIRDisaBIRD
+C1037090,C0325597,ISA,Crax rubra,Curassow,bird,bird,1,ISA_BIRDisaBIRD
+C1061909,C0005595,ISA,Nipponia nippon,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1072603,C0325969,ISA,Amazona farinosa,Amazona,bird,bird,1,ISA_BIRDisaBIRD
+C1207622,C1207621,ISA,Seiurus aurocapilla,Seiurus,bird,bird,1,ISA_BIRDisaBIRD
+C1208951,C1827649,ISA,Branta bernicla,Genus Nesochen,bird,bird,1,ISA_BIRDisaBIRD
+C1215242,C0325807,ISA,Calidris acuminata,Scolopacidae,bird,bird,1,ISA_BIRDisaBIRD
+C1260943,C0005595,ISA,Anas platyrhynchos,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1260943,C0013268,ISA,Anas platyrhynchos,Ducks,bird,bird,1,ISA_BIRDisaBIRD
+C1265554,C0325736,ISA,Genus Gallinula,Rallidae,bird,bird,1,ISA_BIRDisaBIRD
+C1275612,C0005595,ISA,Eclectus roratus,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1275612,C0033852,ISA,Eclectus roratus,Order Psittaciformes (organism),bird,bird,1,ISA_BIRDisaBIRD
+C1296263,C0017225,ISA,Chinese white goose,Geese,bird,bird,1,ISA_BIRDisaBIRD
+C1384490,C0005595,ISA,Family Psittacidae (organism),Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1384595,C0006345,ISA,Melopsittacus undulatus,Melopsittacus,bird,bird,1,ISA_BIRDisaBIRD
+C1484908,C0005595,ISA,Calidris ferruginea,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1489300,C0005595,ISA,Dinornis struthoides,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1624550,C0326014,ISA,Calyptorhynchus latirostris,Family cacatuidae,bird,bird,1,ISA_BIRDisaBIRD
+C1650572,C0326586,ISA,Turdus helleri,Family Turdidae (organism),bird,bird,1,ISA_BIRDisaBIRD
+C1670393,C0005595,ISA,Glossopsitta concinna,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1760707,C0326014,ISA,Cacatua galerita,Family cacatuidae,bird,bird,1,ISA_BIRDisaBIRD
+C1827216,C0005595,ISA,Calidris ruficollis,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C1827216,C0325435,ISA,Calidris ruficollis,Order Ciconiiformes,bird,bird,1,ISA_BIRDisaBIRD
+C2698565,C0005595,ISA,Broiler chicken,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C2698565,C0008051,ISA,Broiler chicken,Chickens,bird,bird,1,ISA_BIRDisaBIRD
+C2959672,C0005595,ISA,Cardinalidae,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C2960703,C0005595,ISA,Dicrurus adsmilis,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C3669435,C0005595,ISA,Embryonated chicken egg,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C3669468,C0041401,ISA,Young turkey,Meleagridinae,bird,bird,1,ISA_BIRDisaBIRD
+C3669677,C0005595,ISA,Young chicken,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C3669677,C0008051,ISA,Young chicken,Chickens,bird,bird,1,ISA_BIRDisaBIRD
+C3669679,C0005595,ISA,Chicken for meat production,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C3669679,C0008051,ISA,Chicken for meat production,Chickens,bird,bird,1,ISA_BIRDisaBIRD
+C3685764,C0005595,ISA,Gerygone albofrontata,Aves,bird,bird,1,ISA_BIRDisaBIRD
+C3687490,C0013268,ISA,Teal,Ducks,bird,bird,1,ISA_BIRDisaBIRD
+C3687490,C0325486,ISA,Teal,Anseriformes,bird,bird,1,ISA_BIRDisaBIRD
+C3973343,C1081164,ISA,Galloanserae,Neognathae,bird,bird,1,ISA_BIRDisaBIRD

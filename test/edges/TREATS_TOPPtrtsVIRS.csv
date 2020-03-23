@@ -1,0 +1,398 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0597404,TREATS,Adenoidectomy,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0001560,C0029341,TREATS,"Administration, Intranasal",Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0001563,C0318855,TREATS,"Administration, Oral",Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0001563,C3698360,TREATS,"Administration, Oral",Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0005961,C0042776,TREATS,Bone Marrow Transplantation,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0009429,C0220847,TREATS,Combined Modality Therapy,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0011946,C0220847,TREATS,Dialysis procedure,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0012683,C0015763,TREATS,Disinfection,"Calicivirus, Feline",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0013216,C0019682,TREATS,Pharmacotherapy,HIV,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0013216,C0206510,TREATS,Pharmacotherapy,Flaviviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0013216,C0318356,TREATS,Pharmacotherapy,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0013216,C0597404,TREATS,Pharmacotherapy,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0013216,C3698360,TREATS,Pharmacotherapy,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0013806,C1079230,TREATS,Electroconvulsive Therapy,Subgroup A Nepoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0015252,C0010076,TREATS,removal technique,Coronaviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0015252,C0949858,TREATS,removal technique,Nidovirales,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0015357,C0029341,TREATS,Extracorporeal Membrane Oxygenation,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0015357,C3698360,TREATS,Extracorporeal Membrane Oxygenation,Middle East Respiratory Syndrome Coronavirus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0017296,C0001417,TREATS,gene therapy,Dependovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0016215,TREATS,gene therapy,Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0029347,TREATS,gene therapy,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0035691,TREATS,gene therapy,RNA Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0042776,TREATS,gene therapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0206558,TREATS,gene therapy,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0318793,TREATS,gene therapy,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0318855,TREATS,gene therapy,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C0376536,TREATS,gene therapy,Porcine respiratory and reproductive syndrome virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C3697502,TREATS,gene therapy,Genus Deltacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0017296,C4541994,TREATS,gene therapy,voretigene neparvovec-rzyl,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0019541,C3698360,TREATS,High-Frequency Ventilation,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020944,C0004651,TREATS,Immobilization,Bacteriophages,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0004419,TREATS,Immunization,Infectious bronchitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0011315,TREATS,Immunization,Dengue Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0021344,TREATS,Immunization,Human Papillomavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0042776,TREATS,Immunization,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0206545,TREATS,Immunization,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0220847,TREATS,Immunization,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0318356,TREATS,Immunization,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0318855,TREATS,Immunization,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0597404,TREATS,Immunization,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0936087,TREATS,Immunization,"Coronavirus, Feline",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C0949945,TREATS,Immunization,Foot-and-Mouth Disease Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0020971,C1003714,TREATS,Immunization,Cell fusing agent virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021079,C0019169,TREATS,Therapeutic immunosuppression,Hepatitis B Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021079,C0042776,TREATS,Therapeutic immunosuppression,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0001483,TREATS,Immunotherapy,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0019682,TREATS,Immunotherapy,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0019704,TREATS,Immunotherapy,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0021344,TREATS,Immunotherapy,Human Papillomavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0318356,TREATS,Immunotherapy,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C0597404,TREATS,Immunotherapy,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021083,C3698360,TREATS,Immunotherapy,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C0042776,TREATS,Implantation procedure,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C0085294,TREATS,Implantation procedure,Hepatitis E virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C0206545,TREATS,Implantation procedure,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C0318855,TREATS,Implantation procedure,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C0935640,TREATS,Implantation procedure,Baculovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C1175743,TREATS,Implantation procedure,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C1300303,TREATS,Implantation procedure,"Avian influenza virus, highly pathogenic",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C2806447,TREATS,Implantation procedure,Alphacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021107,C3441987,TREATS,Implantation procedure,Deltacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0021493,C0014047,TREATS,"Injections, Intraperitoneal",Japanese encephalitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0027484,C0035691,TREATS,Natural Childbirth assistance,RNA Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0029216,C0205725,TREATS,Organ Transplantation,Human Herpesvirus 5 species,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0030693,C0029341,TREATS,Patient Isolation,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0030693,C3698360,TREATS,Patient Isolation,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0033972,C0029341,TREATS,"Psychotherapy, Multiple",Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0033972,C3698360,TREATS,"Psychotherapy, Multiple",Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0034386,C0042776,TREATS,Quarantine,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0016215,TREATS,Surgical Replantation,Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0019185,TREATS,Surgical Replantation,Murine hepatitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0042776,TREATS,Surgical Replantation,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0318855,TREATS,Surgical Replantation,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0597363,TREATS,Surgical Replantation,recombinant virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C0949858,TREATS,Surgical Replantation,Nidovirales,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035139,C1612293,TREATS,Surgical Replantation,"Influenza A Virus, H9N2 Subtype",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0035822,C0042776,TREATS,Role playing therapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0040732,C0016215,TREATS,Transplantation,Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0040732,C0019682,TREATS,Transplantation,HIV,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0040732,C0206545,TREATS,Transplantation,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0040732,C0220847,TREATS,Transplantation,Hepatitis C virus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0040732,C0597404,TREATS,Transplantation,Respiratory viruses,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0040808,C0019682,TREATS,Treatment Protocols,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0040808,C0019704,TREATS,Treatment Protocols,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0040808,C0220847,TREATS,Treatment Protocols,Hepatitis C virus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0042196,C0004419,TREATS,Vaccination,Infectious bronchitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0004651,TREATS,Vaccination,Bacteriophages,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0014665,TREATS,Vaccination,"Herpesvirus 1, Equid",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0015763,TREATS,Vaccination,"Calicivirus, Feline",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0015767,TREATS,Vaccination,Feline leukemia virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0019682,TREATS,Vaccination,HIV,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0042196,C0027984,TREATS,Vaccination,Newcastle disease virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0029341,TREATS,Vaccination,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0029347,TREATS,Vaccination,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0031254,TREATS,Vaccination,Pestivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0034497,TREATS,Vaccination,Rabies virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0035111,TREATS,Vaccination,Reoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0042776,TREATS,Vaccination,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0043125,TREATS,Vaccination,West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0079337,TREATS,Vaccination,Feline Immunodeficiency Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0206397,TREATS,Vaccination,Inovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0318356,TREATS,Vaccination,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0318793,TREATS,Vaccination,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0318855,TREATS,Vaccination,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0319245,TREATS,Vaccination,Felid herpesvirus 1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0376536,TREATS,Vaccination,Porcine respiratory and reproductive syndrome virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0751672,TREATS,Vaccination,Hendra Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0751673,TREATS,Vaccination,Nipah Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C0949892,TREATS,Vaccination,Ebolavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C1079230,TREATS,Vaccination,Subgroup A Nepoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C1175743,TREATS,Vaccination,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C1613950,TREATS,Vaccination,"Influenza A Virus, H5N1 Subtype",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042196,C1676985,TREATS,Vaccination,Human coronavirus HKU1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0042200,C0029341,TREATS,Influenza vaccination,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0052712,C0001483,TREATS,doxorubicin/mitomycin/vinblastine protocol,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0052712,C0034492,TREATS,doxorubicin/mitomycin/vinblastine protocol,Rabbitpox virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0052712,C0042216,TREATS,doxorubicin/mitomycin/vinblastine protocol,Vaccinia virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0052712,C0042776,TREATS,doxorubicin/mitomycin/vinblastine protocol,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0052712,C1003714,TREATS,doxorubicin/mitomycin/vinblastine protocol,Cell fusing agent virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0057163,C0019369,TREATS,DAV regimen,Herpesviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0057163,C0318793,TREATS,DAV regimen,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0057163,C1175743,TREATS,DAV regimen,SARS coronavirus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0065764,C0021344,TREATS,bleomycin/cisplatin/methotrexate protocol,Human Papillomavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0065764,C0029341,TREATS,bleomycin/cisplatin/methotrexate protocol,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0065764,C0042776,TREATS,bleomycin/cisplatin/methotrexate protocol,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0079613,C0035691,TREATS,Adoptive Immunotherapy,RNA Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0079613,C0042776,TREATS,Adoptive Immunotherapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0079613,C0220847,TREATS,Adoptive Immunotherapy,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0079613,C0376536,TREATS,Adoptive Immunotherapy,Porcine respiratory and reproductive syndrome virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0150413,C0019682,TREATS,HIV prevention,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0016215,TREATS,Transection (procedure),Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0017161,TREATS,Transection (procedure),Transmissible gastroenteritis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0019842,TREATS,Transection (procedure),Classical swine fever virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0024267,TREATS,Transection (procedure),Lymphocytic choriomeningitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0029347,TREATS,Transection (procedure),Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0042216,TREATS,Transection (procedure),Vaccinia virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0042776,TREATS,Transection (procedure),Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0949858,TREATS,Transection (procedure),Nidovirales,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0152060,C0949945,TREATS,Transection (procedure),Foot-and-Mouth Disease Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0184633,C0206545,TREATS,Oxygen Therapy Care,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185026,C0019704,TREATS,Plication,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185026,C0079500,TREATS,Plication,Hepatitis C-Like Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0006069,TREATS,Imbrication (procedure),"Leukemia Virus, Bovine",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0019704,TREATS,Imbrication (procedure),HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0024662,TREATS,Imbrication (procedure),Mouse mammary tumor virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0042776,TREATS,Imbrication (procedure),Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0085925,TREATS,Imbrication (procedure),Bovine torovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0206396,TREATS,Imbrication (procedure),Bacteriophage Pf1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0206435,TREATS,Imbrication (procedure),Human poliovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C0949858,TREATS,Imbrication (procedure),Nidovirales,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C1079230,TREATS,Imbrication (procedure),Subgroup A Nepoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C1227418,TREATS,Imbrication (procedure),Providence virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185027,C3620542,TREATS,Imbrication (procedure),Alphacarmotetravirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0019369,TREATS,Extraction,Herpesviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0019704,TREATS,Extraction,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0031303,TREATS,Extraction,Bacteriophage phi X 174,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0036636,TREATS,Extraction,Semliki forest virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0042776,TREATS,Extraction,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0318855,TREATS,Extraction,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C0597404,TREATS,Extraction,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0185115,C1175743,TREATS,Extraction,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0003725,TREATS,Prophylactic treatment,Arboviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0004419,TREATS,Prophylactic treatment,Infectious bronchitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0009743,TREATS,Prophylactic treatment,"Hemorrhagic Fever Virus, Crimean-Congo",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0011315,TREATS,Prophylactic treatment,Dengue Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0019682,TREATS,Prophylactic treatment,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0019704,TREATS,Prophylactic treatment,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0029341,TREATS,Prophylactic treatment,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0029343,TREATS,Prophylactic treatment,"Influenza A Virus, Avian",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0034497,TREATS,Prophylactic treatment,Rabies virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0035236,TREATS,Prophylactic treatment,Respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0042776,TREATS,Prophylactic treatment,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0043125,TREATS,Prophylactic treatment,West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0085294,TREATS,Prophylactic treatment,Hepatitis E virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0206545,TREATS,Prophylactic treatment,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0318356,TREATS,Prophylactic treatment,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0318793,TREATS,Prophylactic treatment,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C0597404,TREATS,Prophylactic treatment,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C1175743,TREATS,Prophylactic treatment,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199176,C3698360,TREATS,Prophylactic treatment,Middle East Respiratory Syndrome Coronavirus,topp,virs,3,TREATS_TOPPtrtsVIRS
+C0199779,C0001483,TREATS,Administration of antibiotic,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199779,C0036238,TREATS,Administration of antibiotic,Satellite Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199798,C0029341,TREATS,human vaccination,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199798,C0029343,TREATS,human vaccination,"Influenza A Virus, Avian",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199798,C0042776,TREATS,human vaccination,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199798,C0085294,TREATS,human vaccination,Hepatitis E virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199798,C0751672,TREATS,human vaccination,Hendra Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0199809,C0206435,TREATS,Poliomyelitis vaccination,Human poliovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204514,C0042776,TREATS,Structural analysis,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204514,C2806447,TREATS,Structural analysis,Alphacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204514,C3698360,TREATS,Structural analysis,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C0004120,TREATS,Isolation procedure,Astrovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C0029341,TREATS,Isolation procedure,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C0042776,TREATS,Isolation procedure,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C0043125,TREATS,Isolation procedure,West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C1175743,TREATS,Isolation procedure,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C3631921,TREATS,Isolation procedure,Mesoniviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0204727,C3698360,TREATS,Isolation procedure,Middle East Respiratory Syndrome Coronavirus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0204774,C0027984,TREATS,Soaking Procedure,Newcastle disease virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0279492,C0035414,TREATS,Antiandrogen therapy,Rhabdoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0004419,TREATS,Antiviral Therapy,Infectious bronchitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0005670,TREATS,Antiviral Therapy,BK Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0011220,TREATS,Antiviral Therapy,Hepatitis Delta Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0011315,TREATS,Antiviral Therapy,Dengue Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0016215,TREATS,Antiviral Therapy,Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0019169,TREATS,Antiviral Therapy,Hepatitis B Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0019682,TREATS,Antiviral Therapy,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0019704,TREATS,Antiviral Therapy,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0029347,TREATS,Antiviral Therapy,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0042776,TREATS,Antiviral Therapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0206545,TREATS,Antiviral Therapy,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0206558,TREATS,Antiviral Therapy,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0220847,TREATS,Antiviral Therapy,Hepatitis C virus,topp,virs,2,TREATS_TOPPtrtsVIRS
+C0280274,C0318793,TREATS,Antiviral Therapy,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C0597404,TREATS,Antiviral Therapy,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C1258014,TREATS,Antiviral Therapy,Human Metapneumovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C1911773,TREATS,Antiviral Therapy,ssRNA viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280274,C3698360,TREATS,Antiviral Therapy,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0280603,C0042776,TREATS,fluorouracil/methotrexate protocol,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0281176,C0019682,TREATS,antibody therapy,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0282515,C0318793,TREATS,Chemoprevention,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0339897,C0019682,TREATS,Transjugular intrahepatic portosystemic shunt procedure,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0344211,C0206545,TREATS,Supportive care,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0344211,C3698360,TREATS,Supportive care,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0349707,C0597404,TREATS,Aspiration-action,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0376495,C0042776,TREATS,Retreatments,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0393005,C0085294,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Hepatitis E virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0407295,C0013480,TREATS,Fixation of fracture using plate,Ebola virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0419997,C0597404,TREATS,Viral screening,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0439775,C0015767,TREATS,Elevation procedure,Feline leukemia virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0439775,C0029341,TREATS,Elevation procedure,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0439775,C0043125,TREATS,Elevation procedure,West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0439775,C0079337,TREATS,Elevation procedure,Feline Immunodeficiency Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0441509,C0019185,TREATS,Coagulation procedure,Murine hepatitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0441509,C0085150,TREATS,Coagulation procedure,Filoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0441509,C0597404,TREATS,Coagulation procedure,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0472699,C0597404,TREATS,Hemopoietic stem cell transplant,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0520251,C0042776,TREATS,Multiple interventional procedures,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0520251,C3698360,TREATS,Multiple interventional procedures,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0520484,C0001483,TREATS,Xenograft procedure,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0520484,C0004651,TREATS,Xenograft procedure,Bacteriophages,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0524865,C0029341,TREATS,Reconstructive Surgical Procedures,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0524865,C1175743,TREATS,Reconstructive Surgical Procedures,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0557061,C3698360,TREATS,Discussion (procedure),Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0581602,C0029347,TREATS,Structural modification,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0581602,C0040333,TREATS,Structural modification,Tobacco Mosaic Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0581602,C0042776,TREATS,Structural modification,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0597749,C1003714,TREATS,active sensitization,Cell fusing agent virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600080,C0015763,TREATS,Stretching exercises,"Calicivirus, Feline",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600080,C0042776,TREATS,Stretching exercises,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600080,C2806453,TREATS,Stretching exercises,Betacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600080,C2806460,TREATS,Stretching exercises,Gammacoronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600249,C0019682,TREATS,"Immunotherapy, Passive",HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600249,C0029341,TREATS,"Immunotherapy, Passive",Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0600249,C1613950,TREATS,"Immunotherapy, Passive","Influenza A Virus, H5N1 Subtype",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0677850,C0042338,TREATS,adjuvant therapy,Human herpesvirus 3,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0678823,C0019682,TREATS,parenteral administration,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0679698,C0043125,TREATS,disease prevention,West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0679698,C1613950,TREATS,disease prevention,"Influenza A Virus, H5N1 Subtype",topp,virs,1,TREATS_TOPPtrtsVIRS
+C0679818,C0020094,TREATS,blood donor screening,Human T-lymphotropic virus 1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0679818,C0020099,TREATS,blood donor screening,Human T-lymphotropic virus 2,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683465,C0019169,TREATS,novel AODU treatment method,Hepatitis B Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683465,C0029341,TREATS,novel AODU treatment method,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683465,C3698360,TREATS,novel AODU treatment method,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0011315,TREATS,treatment options,Dengue Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0029341,TREATS,treatment options,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0042776,TREATS,treatment options,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0043396,TREATS,treatment options,Yellow fever virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0085294,TREATS,treatment options,Hepatitis E virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0206419,TREATS,treatment options,Genus: Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0220847,TREATS,treatment options,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0318467,TREATS,treatment options,Human rhinovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C0597404,TREATS,treatment options,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C1175743,TREATS,treatment options,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C1258014,TREATS,treatment options,Human Metapneumovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0683525,C3698360,TREATS,treatment options,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0695434,C0042776,TREATS,oscillations,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0741847,C0162570,TREATS,Bypass,Bacteriophage T4,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0808232,C1175743,TREATS,Therapeutic Intervention,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0812192,C0019682,TREATS,Communicable disease management,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0815154,C0042776,TREATS,selective intervention,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0870527,C0751673,TREATS,Exposure Therapy,Nipah Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0887947,C0019682,TREATS,"Antiretroviral Therapy, Highly Active",HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0887947,C0019704,TREATS,"Antiretroviral Therapy, Highly Active",HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0887947,C0042776,TREATS,"Antiretroviral Therapy, Highly Active",Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0920467,C0029347,TREATS,disorder control (procedure),Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0947647,C0014383,TREATS,Manipulation procedure,Enterovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0947647,C0042776,TREATS,Manipulation procedure,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0947647,C0206424,TREATS,Manipulation procedure,Cardiovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C0949266,C0013480,TREATS,"Therapies, Investigational",Ebola virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1135474,C0029347,TREATS,Nitric oxide therapy,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1135929,C0001483,TREATS,Mass Vaccination,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1135929,C0034497,TREATS,Mass Vaccination,Rabies virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1135929,C0949945,TREATS,Mass Vaccination,Foot-and-Mouth Disease Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1135929,C1265386,TREATS,Mass Vaccination,Porcine circovirus type II,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1261381,C0019704,TREATS,Destructive procedure (surgical),HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1261381,C0042776,TREATS,Destructive procedure (surgical),Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1261381,C0043125,TREATS,Destructive procedure (surgical),West Nile virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1261381,C0079337,TREATS,Destructive procedure (surgical),Feline Immunodeficiency Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1261381,C0085305,TREATS,Destructive procedure (surgical),Feline infectious peritonitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1276413,C0220847,TREATS,Therapeutic regimen,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1276413,C3698360,TREATS,Therapeutic regimen,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1280903,C0002331,TREATS,Exploration procedure,Alphavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1280903,C0017161,TREATS,Exploration procedure,Transmissible gastroenteritis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1280903,C0206381,TREATS,Exploration procedure,Podoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1280903,C0682447,TREATS,Exploration procedure,virus by host,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1280903,C0949892,TREATS,Exploration procedure,Ebolavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1283075,C0030392,TREATS,Fusion - action,"Parainfluenza Virus 3, Human",topp,virs,1,TREATS_TOPPtrtsVIRS
+C1283075,C0206419,TREATS,Fusion - action,Genus: Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293130,C0019682,TREATS,Stabilization,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293130,C0042776,TREATS,Stabilization,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293132,C0002331,TREATS,Anchoring procedure,Alphavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293132,C0006395,TREATS,Anchoring procedure,Bunyaviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293132,C0016215,TREATS,Anchoring procedure,Flavivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1293132,C0042776,TREATS,Anchoring procedure,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1298805,C0318855,TREATS,Routine procedure,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1443861,C0034497,TREATS,Post-Exposure Prophylaxis,Rabies virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1456647,C0019682,TREATS,Childhood Immunization,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0001483,TREATS,Detection,Adenoviruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0001753,TREATS,Detection,African Swine Fever Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0004120,TREATS,Detection,Astrovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0004651,TREATS,Detection,Bacteriophages,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0010233,TREATS,Detection,Cowpox virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0012923,TREATS,Detection,DNA Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0013480,TREATS,Detection,Ebola virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0014644,TREATS,Detection,Epstein-Barr Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0015767,TREATS,Detection,Feline leukemia virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0019186,TREATS,Detection,Hepatitis Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0019682,TREATS,Detection,HIV,topp,virs,2,TREATS_TOPPtrtsVIRS
+C1511790,C0021335,TREATS,Detection,Bovine herpesvirus 1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0027984,TREATS,Detection,Newcastle disease virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0029341,TREATS,Detection,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0029347,TREATS,Detection,Influenza A virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0035236,TREATS,Detection,Respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0035473,TREATS,Detection,Rhinovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0035691,TREATS,Detection,RNA Viruses,topp,virs,2,TREATS_TOPPtrtsVIRS
+C1511790,C0042776,TREATS,Detection,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0043396,TREATS,Detection,Yellow fever virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0085150,TREATS,Detection,Filoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0085512,TREATS,Detection,Torovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0205652,TREATS,Detection,Human adenovirus 2,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0206435,TREATS,Detection,Human poliovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0206545,TREATS,Detection,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0220847,TREATS,Detection,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0318356,TREATS,Detection,Human virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0318428,TREATS,Detection,Human enterovirus 68,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0318793,TREATS,Detection,Zika Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0318855,TREATS,Detection,Porcine epidemic diarrhea virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0597404,TREATS,Detection,Respiratory viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0949858,TREATS,Detection,Nidovirales,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C0949880,TREATS,Detection,Human coronavirus 229E,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C1175743,TREATS,Detection,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C1258014,TREATS,Detection,Human Metapneumovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C1625778,TREATS,Detection,Human metapneumovirus genotype,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C1676985,TREATS,Detection,Human coronavirus HKU1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C2652460,TREATS,Detection,Alphabaculovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C3532920,TREATS,Detection,Hepatitis C virus genotype 2,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C3698360,TREATS,Detection,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1511790,C4461651,TREATS,Detection,Coronavirus HKU15,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1512721,C3698360,TREATS,Inferential Current Treatment,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1515884,C0019186,TREATS,Acupuncture and Oriental Medicine,Hepatitis Viruses,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1515884,C0206558,TREATS,Acupuncture and Oriental Medicine,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1518963,C0025011,TREATS,Percutaneous Neuromodulation Therapy,Measles virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1518963,C0042776,TREATS,Percutaneous Neuromodulation Therapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1518963,C0206533,TREATS,Percutaneous Neuromodulation Therapy,Paramyxovirinae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1518963,C0206536,TREATS,Percutaneous Neuromodulation Therapy,Morbillivirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1563738,C0035473,TREATS,Oncolytic Virotherapy,Rhinovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1704532,C0019682,TREATS,Active Method,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1708063,C0019169,TREATS,First line treatment,Hepatitis B Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1708063,C0206545,TREATS,First line treatment,Human respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1708063,C0206558,TREATS,First line treatment,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1708063,C3698360,TREATS,First line treatment,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1710038,C0019682,TREATS,Second line treatment,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1963724,C0019682,TREATS,Antiretroviral therapy,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1963724,C0019704,TREATS,Antiretroviral therapy,HIV-1,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1963724,C0037224,TREATS,Antiretroviral therapy,Simian immunodeficiency virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C1997883,C0318428,TREATS,Noninvasive Ventilation,Human enterovirus 68,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2348331,C0011315,TREATS,Dose Regimen,Dengue Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2348331,C0206543,TREATS,Dose Regimen,Pneumovirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2349866,C0999967,TREATS,Genomic screening,Saccharomyces cerevisiae virus L-A,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2827774,C0019682,TREATS,Current Therapy,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2827774,C0035236,TREATS,Current Therapy,Respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2827774,C0042776,TREATS,Current Therapy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2827774,C0206558,TREATS,Current Therapy,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2827774,C0220847,TREATS,Current Therapy,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2936405,C0014047,TREATS,Drug Repositioning,Japanese encephalitis virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2936405,C0029341,TREATS,Drug Repositioning,Orthomyxoviridae,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2936643,C0220847,TREATS,Standard of Care,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2985566,C0013480,TREATS,Targeted Therapy,Ebola virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2987620,C0019682,TREATS,Inoculation,HIV,topp,virs,1,TREATS_TOPPtrtsVIRS
+C2987620,C1175743,TREATS,Inoculation,SARS coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C3177188,C3698360,TREATS,Early Therapy,Middle East Respiratory Syndrome Coronavirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C3540512,C0042776,TREATS,Circumferential Supracrestal Fiberotomy,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C3540512,C0206558,TREATS,Circumferential Supracrestal Fiberotomy,Simplexvirus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C3665674,C0035236,TREATS,Warburg Therapy,Respiratory syncytial virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C4042855,C0220847,TREATS,RNAi Therapeutics,Hepatitis C virus,topp,virs,1,TREATS_TOPPtrtsVIRS
+C4526534,C0042776,TREATS,Bendamustine/Bortezomib/Dexamethasone Regimen,Virus,topp,virs,1,TREATS_TOPPtrtsVIRS

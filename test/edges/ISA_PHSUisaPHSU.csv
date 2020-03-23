@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C0003451,ISA,Acyclovir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0001367,C1579410,ISA,Acyclovir,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0001367,C2746051,ISA,Acyclovir,DNA Polymerase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0001648,C0039052,ISA,Adrenergic Agonists,Sympathomimetics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0001911,C0003158,ISA,Albendazole,Anthelmintics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0002763,C0304402,ISA,Central Nervous System Stimulants,Stimulant,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003015,C0003364,ISA,Angiotensin-Converting Enzyme Inhibitors,Antihypertensive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003209,C0002771,ISA,Anti-Inflammatory Agents,Analgesics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003209,C0007680,ISA,Anti-Inflammatory Agents,Central Nervous System Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003211,C0002771,ISA,"Anti-Inflammatory Agents, Non-Steroidal",Analgesics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003211,C0003209,ISA,"Anti-Inflammatory Agents, Non-Steroidal",Anti-Inflammatory Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0003419,C0002771,ISA,Antipyretics,Analgesics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0004482,C0021081,ISA,Azathioprine,Immunosuppressive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0006657,C0014695,ISA,Calcifediol,Ergocalciferol,phsu,phsu,1,ISA_PHSUisaPHSU
+C0011777,C0003209,ISA,Dexamethasone,Anti-Inflammatory Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0014695,C0042866,ISA,Ergocalciferol,Vitamin D,phsu,phsu,1,ISA_PHSUisaPHSU
+C0015821,C0003158,ISA,Fenbendazole,Anthelmintics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0016278,C0003308,ISA,Flucytosine,Antifungal Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0016360,C0003392,ISA,Fluorouracil,Antineoplastic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0016360,C0596581,ISA,Fluorouracil,fluoropyrimidine,phsu,phsu,1,ISA_PHSUisaPHSU
+C0017066,C0001367,ISA,Ganciclovir,Acyclovir,phsu,phsu,1,ISA_PHSUisaPHSU
+C0017066,C0003451,ISA,Ganciclovir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0017066,C1579410,ISA,Ganciclovir,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0017066,C2746051,ISA,Ganciclovir,DNA Polymerase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0019592,C0003360,ISA,Histamine H1 Antagonists,Antihistamines,phsu,phsu,1,ISA_PHSUisaPHSU
+C0022322,C0003404,ISA,Ivermectin,Antiparasitic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0023566,C0009871,ISA,Levonorgestrel,Contraceptive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0025023,C0003158,ISA,Mebendazole,Anthelmintics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0026088,C1510932,ISA,Mifepristone,Progesterone Antagonist,phsu,phsu,1,ISA_PHSUisaPHSU
+C0032414,C0003451,ISA,Poly I-C,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0032950,C0021081,ISA,prednisolone,Immunosuppressive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0035525,C0003451,ISA,Ribavirin,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0035525,C1579410,ISA,Ribavirin,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0037982,C0002007,ISA,Spironolactone,Aldosterone Antagonists,phsu,phsu,1,ISA_PHSUisaPHSU
+C0040866,C0003209,ISA,Triamcinolone Acetonide,Anti-Inflammatory Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0041044,C0013162,ISA,Trimethoprim-Sulfamethoxazole Combination,Drug Combinations,phsu,phsu,1,ISA_PHSUisaPHSU
+C0041044,C1136254,ISA,Trimethoprim-Sulfamethoxazole Combination,Microbicides,phsu,phsu,1,ISA_PHSUisaPHSU
+C0043474,C0003392,ISA,Zidovudine,Antineoplastic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0043474,C0282519,ISA,Zidovudine,Reverse Transcriptase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0043474,C0376565,ISA,Zidovudine,Anti-HIV Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0043474,C1579410,ISA,Zidovudine,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0043474,C3537103,ISA,Zidovudine,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0045093,C0003392,ISA,gemcitabine,Antineoplastic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0045093,C0003451,ISA,gemcitabine,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0045212,C0003451,ISA,Clevudine,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0049065,C0003392,ISA,decitabine,Antineoplastic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0049065,C2746050,ISA,decitabine,DNA Methyltransferase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0050063,C0000661,ISA,8-chloro-cyclic adenosine monophosphate,8-Bromo Cyclic Adenosine Monophosphate,phsu,phsu,1,ISA_PHSUisaPHSU
+C0050175,C0003451,ISA,adefovir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0054201,C0003209,ISA,Budesonide,Anti-Inflammatory Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0055447,C0003374,ISA,chloroquine phosphate,Antimalarials,phsu,phsu,1,ISA_PHSUisaPHSU
+C0058432,C1827106,ISA,diprotin A,Dipeptidyl-Peptidase IV Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0064113,C0003308,ISA,Itraconazole,Antifungal Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0070166,C0085826,ISA,clopidogrel,Antiplatelet Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0070895,C0003451,ISA,Foscarnet,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0070895,C2746051,ISA,Foscarnet,DNA Polymerase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0085387,C0003209,ISA,Cyclooxygenase Inhibitors,Anti-Inflammatory Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0102118,C0012544,ISA,Alendronate,Diphosphonates,phsu,phsu,1,ISA_PHSUisaPHSU
+C0132326,C0003451,ISA,Nevirapine,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0132326,C3537104,ISA,Nevirapine,Non-nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209227,C0003451,ISA,famciclovir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209227,C1579410,ISA,famciclovir,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209738,C0282519,ISA,Lamivudine,Reverse Transcriptase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209738,C0376565,ISA,Lamivudine,Anti-HIV Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209738,C1579410,ISA,Lamivudine,Nucleoside Analogs,phsu,phsu,1,ISA_PHSUisaPHSU
+C0209738,C3537103,ISA,Lamivudine,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0213771,C0354764,ISA,tiotropium,"BRONCHODILATORS,ANTICHOLINERGIC",phsu,phsu,1,ISA_PHSUisaPHSU
+C0286079,C0003451,ISA,Cidofovir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0360105,C0003289,ISA,Selective Serotonin Reuptake Inhibitors,Antidepressive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0376565,C1136254,ISA,Anti-HIV Agents,Microbicides,phsu,phsu,1,ISA_PHSUisaPHSU
+C0384228,C0282519,ISA,Tenofovir,Reverse Transcriptase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C0384228,C3537103,ISA,Tenofovir,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0521942,C0003364,ISA,Angiotensin II receptor antagonist,Antihypertensive Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0577782,C0022022,ISA,Potassium Ionophores,Ionophores,phsu,phsu,1,ISA_PHSUisaPHSU
+C0595331,C0006684,ISA,Lercanidipine hydrochloride,Calcium Channel Blockers,phsu,phsu,1,ISA_PHSUisaPHSU
+C0597421,C0012798,ISA,natriuretic,Diuretics,phsu,phsu,1,ISA_PHSUisaPHSU
+C0663655,C0003451,ISA,abacavir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0663655,C3537103,ISA,abacavir,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0699599,C1136254,ISA,Trimethoprimsulfa,Microbicides,phsu,phsu,1,ISA_PHSUisaPHSU
+C0700702,C0006055,ISA,Botox,Botulinum Toxins,phsu,phsu,1,ISA_PHSUisaPHSU
+C0701303,C0026088,ISA,R-38486,Mifepristone,phsu,phsu,1,ISA_PHSUisaPHSU
+C0701303,C1510932,ISA,R-38486,Progesterone Antagonist,phsu,phsu,1,ISA_PHSUisaPHSU
+C0724367,C0292819,ISA,Vitravene,fomivirsen,phsu,phsu,1,ISA_PHSUisaPHSU
+C0759032,C0003451,ISA,pleconaril,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C0851344,C1514971,ISA,exemestane,Steroidal Aromatase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C0909381,C0017066,ISA,valganciclovir,Ganciclovir,phsu,phsu,1,ISA_PHSUisaPHSU
+C0971023,C0003451,ISA,entecavir,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1099776,C0384228,ISA,Tenofovir disoproxil fumarate,Tenofovir,phsu,phsu,1,ISA_PHSUisaPHSU
+C1268551,C0003308,ISA,Echinocandins,Antifungal Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1275666,C0003451,ISA,Fusion inhibitor,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1321596,C1512211,ISA,Miglustat,Glucosidase Inhibitor,phsu,phsu,1,ISA_PHSUisaPHSU
+C1443643,C0003392,ISA,Proteasome inhibitor,Antineoplastic Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1443650,C0003451,ISA,Neuraminidase inhibitor,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1514669,C0003451,ISA,RNA Polymerase Inhibitor,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C1528494,C1099776,ISA,Truvada,Tenofovir disoproxil fumarate,phsu,phsu,1,ISA_PHSUisaPHSU
+C1570906,C0935929,ISA,vildagliptin,Antidiabetics,phsu,phsu,1,ISA_PHSUisaPHSU
+C1570906,C1827106,ISA,vildagliptin,Dipeptidyl-Peptidase IV Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C1579410,C0003376,ISA,Nucleoside Analogs,Antimetabolites,phsu,phsu,1,ISA_PHSUisaPHSU
+C1579422,C0003451,ISA,Anti-influenza Agents,Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU
+C2698842,C0071359,ISA,hiltonol,poly ICLC,phsu,phsu,1,ISA_PHSUisaPHSU
+C3537103,C0282519,ISA,Nucleoside Reverse Transcriptase Inhibitor,Reverse Transcriptase Inhibitors,phsu,phsu,1,ISA_PHSUisaPHSU
+C3541969,C0003451,ISA,"Neuraminidase inhibitors, direct acting antivirals",Antiviral Agents,phsu,phsu,1,ISA_PHSUisaPHSU

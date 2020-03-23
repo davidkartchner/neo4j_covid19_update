@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006353,C0596901,AUGMENTS,Buffers,Membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0006675,C1325742,AUGMENTS,Calcium,Pore,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0006675,C1383501,AUGMENTS,Calcium,Cytoplasmic matrix,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0006675,C1819347,AUGMENTS,Calcium,actin filament bundle,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0007745,C1325742,AUGMENTS,Ceramides,Pore,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0008377,C0007603,AUGMENTS,Cholesterol,Plasma membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0008377,C0596901,AUGMENTS,Cholesterol,Membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0008377,C1167250,AUGMENTS,Cholesterol,lipid raft,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0008377,C1167398,AUGMENTS,Cholesterol,Viral envelope,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0009221,C0035553,AUGMENTS,Codon (nucleotide sequence),Ribosomes,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0012854,C1167117,AUGMENTS,DNA,replication fork,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0012854,C1167159,AUGMENTS,DNA,replication compartment,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0012935,C0042760,AUGMENTS,"DNA, Single-Stranded",Virion,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0016895,C1167250,AUGMENTS,Ganglioside GM1,lipid raft,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0018284,C2350332,AUGMENTS,Growth Factor,Exosomes,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0018330,C1749467,AUGMENTS,Guanosine,soluble,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0019143,C2350332,AUGMENTS,Heparitin Sulfate,Exosomes,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0024742,C0699040,AUGMENTS,Mannose,Cell surface,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0031621,C1167397,AUGMENTS,Phosphatidylinositols,host cell plasma membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0031676,C0007603,AUGMENTS,Phospholipids,Plasma membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0031676,C1167250,AUGMENTS,Phospholipids,lipid raft,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035142,C3887595,AUGMENTS,Replicon,Autophagosome,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035693,C0042219,AUGMENTS,"RNA, Double-Stranded",Vacuole,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035693,C1383501,AUGMENTS,"RNA, Double-Stranded",Cytoplasmic matrix,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035696,C0729606,AUGMENTS,"RNA, Messenger",Chromosome Structures,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035696,C0887870,AUGMENTS,"RNA, Messenger",Focal Adhesions,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035696,C1167012,AUGMENTS,"RNA, Messenger","Ribosome Subunits, Small",bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035701,C0042760,AUGMENTS,Ribosomal RNA,Virion,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0035735,C1167012,AUGMENTS,Valine-Specific tRNA,"Ribosome Subunits, Small",bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0037906,C1167250,AUGMENTS,Sphingomyelins,lipid raft,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0038727,C0596901,AUGMENTS,Sulfoglycosphingolipids,Membrane,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0041980,C4235140,AUGMENTS,Uric Acid,inflammasome complex,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0043481,C3850088,AUGMENTS,Zinc,Neutrophil Extracellular Traps,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0053738,C0024369,AUGMENTS,bis(monoacylglyceryl)phosphate,Lysosomes,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0053738,C1166848,AUGMENTS,bis(monoacylglyceryl)phosphate,late endosome,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0082774,C0042760,AUGMENTS,"RNA, Guide",Virion,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0082774,C2754094,AUGMENTS,"RNA, Guide",translation initiation complex,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0162772,C0026237,AUGMENTS,Reactive Oxygen Species,Mitochondria,bacs,celc,1,AUGMENTS_BACSaugmCELC
+C0162772,C1325742,AUGMENTS,Reactive Oxygen Species,Pore,bacs,celc,1,AUGMENTS_BACSaugmCELC

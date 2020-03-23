@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001811,C0018284,PRODUCES,Aging,Growth Factor,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0005615,C0003320,PRODUCES,Birth,Antigens,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0005615,C0032136,PRODUCES,Birth,Plasmids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0006159,C0030234,PRODUCES,Breeding,Palmitic Acid,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0011065,C0001480,PRODUCES,Cessation of life,Adenosine Triphosphate,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0012854,PRODUCES,Digestion,DNA,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0032136,PRODUCES,Digestion,Plasmids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0012238,C0600493,PRODUCES,Digestion,5' Untranslated Regions,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0003320,PRODUCES,Growth,Antigens,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0007012,PRODUCES,Growth,Carbon Dioxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0018270,C0012854,PRODUCES,Growth,DNA,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0019868,C0162772,PRODUCES,Homeostasis,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0022864,C0003320,PRODUCES,Labor (Childbirth),Antigens,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0022864,C0032136,PRODUCES,Labor (Childbirth),Plasmids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0023796,C0162772,PRODUCES,Lipolysis,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025516,C0016693,PRODUCES,"Metabolic Detoxication, Drug",Free Radicals,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025516,C0062496,PRODUCES,"Metabolic Detoxication, Drug",hemozoin,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0025519,C0017725,PRODUCES,Metabolism,Glucose,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0026559,C0018284,PRODUCES,Morphogenesis,Growth Factor,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0042774,C0035693,PRODUCES,Virus Replication,"RNA, Double-Stranded",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0042774,C0035696,PRODUCES,Virus Replication,"RNA, Messenger",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0232338,C0016693,PRODUCES,Blood flow,Free Radicals,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0301872,C0003320,PRODUCES,Immune response,Antigens,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0301872,C0012854,PRODUCES,Immune response,DNA,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0301872,C0028128,PRODUCES,Immune response,Nitric Oxide,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0301872,C0035693,PRODUCES,Immune response,"RNA, Double-Stranded",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0598358,C3658238,PRODUCES,ionic balance,Gasotransmitters,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0678209,C0034085,PRODUCES,Adaptive Immunity,Pulmonary Surfactants,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0678209,C0162772,PRODUCES,Adaptive Immunity,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0678723,C0162772,PRODUCES,Biologic Development,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0007745,PRODUCES,Catabolism,Ceramides,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0023824,PRODUCES,Catabolism,LDL Cholesterol Lipoproteins,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C0699900,C0032136,PRODUCES,Catabolism,Plasmids,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1154988,C0162772,PRODUCES,defense response,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1154988,C1099354,PRODUCES,defense response,"RNA, Small Interfering",orgf,bacs,1,PRODUCES_ORGFprodBACS
+C1327413,C0162772,PRODUCES,cytokine production,Reactive Oxygen Species,orgf,bacs,1,PRODUCES_ORGFprodBACS

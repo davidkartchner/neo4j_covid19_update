@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009653,C0012546,PREVENTS,"Condoms, Male",Diphtheria,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0009653,C0016627,PREVENTS,"Condoms, Male",Influenza in Birds,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0009653,C0021400,PREVENTS,"Condoms, Male",Influenza,medd,dsyn,2,PREVENTS_MEDDprevDSYN
+C0009653,C0036916,PREVENTS,"Condoms, Male",Sexually Transmitted Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0009653,C0038362,PREVENTS,"Condoms, Male",Stomatitis,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0009653,C0042769,PREVENTS,"Condoms, Male",Virus Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0009653,C3694279,PREVENTS,"Condoms, Male",Middle East Respiratory Syndrome,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0014243,C0010356,PREVENTS,Endoscopes,Cross Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0004623,PREVENTS,Masks,Bacterial Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0009450,PREVENTS,Masks,Communicable Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0016627,PREVENTS,Masks,Influenza in Birds,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0021400,PREVENTS,Masks,Influenza,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0035204,PREVENTS,Masks,Respiration Disorders,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0035243,PREVENTS,Masks,Respiratory Tract Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0042769,PREVENTS,Masks,Virus Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0729531,PREVENTS,Masks,Viral respiratory infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C0877203,PREVENTS,Masks,Viral Respiratory Tract Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0024861,C1175175,PREVENTS,Masks,Severe Acute Respiratory Syndrome,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0032042,C0021400,PREVENTS,Placebos,Influenza,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0032042,C0032285,PREVENTS,Placebos,Pneumonia,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C0004623,PREVENTS,Mechanical Ventilator,Bacterial Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C0009450,PREVENTS,Mechanical Ventilator,Communicable Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C0021400,PREVENTS,Mechanical Ventilator,Influenza,medd,dsyn,2,PREVENTS_MEDDprevDSYN
+C0042497,C0035243,PREVENTS,Mechanical Ventilator,Respiratory Tract Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C0042769,PREVENTS,Mechanical Ventilator,Virus Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C0877203,PREVENTS,Mechanical Ventilator,Viral Respiratory Tract Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0042497,C2076600,PREVENTS,Mechanical Ventilator,Influenza due to Influenza A virus subtype H1N1,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0085104,C0031887,PREVENTS,Drug Delivery Systems,Picornaviridae Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0085590,C0042029,PREVENTS,catheter device,Urinary tract infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0085590,C0087086,PREVENTS,catheter device,Thrombus,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0150789,C1096155,PREVENTS,Patient Holding Stretchers,Macrophage Activation Syndrome,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0175727,C0004626,PREVENTS,Stimulator,"Pneumonia, Bacterial",medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0178987,C0014457,PREVENTS,Artificial Airways,Eosinophilia,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0180153,C0009186,PREVENTS,Covers (device),Coccidioidomycosis,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0180463,C0205721,PREVENTS,Dispenser,"Infections, Hospital",medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181033,C0042769,PREVENTS,germicidal lamps,Virus Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181064,C0205721,PREVENTS,Gown,"Infections, Hospital",medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181064,C1175175,PREVENTS,Gown,Severe Acute Respiratory Syndrome,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181064,C2076600,PREVENTS,Gown,Influenza due to Influenza A virus subtype H1N1,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181633,C0035243,PREVENTS,Light source,Respiratory Tract Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181758,C0010356,PREVENTS,Surgical face mask,Cross Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181758,C0021400,PREVENTS,Surgical face mask,Influenza,medd,dsyn,2,PREVENTS_MEDDprevDSYN
+C0181758,C0022882,PREVENTS,Surgical face mask,Laboratory Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181758,C0035243,PREVENTS,Surgical face mask,Respiratory Tract Infections,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0181758,C1175175,PREVENTS,Surgical face mask,Severe Acute Respiratory Syndrome,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0182400,C0276289,PREVENTS,Probes,Zika Virus Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0182953,C0035204,PREVENTS,Regulators (device),Respiration Disorders,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0182953,C0276289,PREVENTS,Regulators (device),Zika Virus Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0183919,C4505350,PREVENTS,infrared thermometers,"Communicable Diseases, Imported",medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0336630,C1701940,PREVENTS,Endotracheal tube,"Pneumonia, Ventilator-Associated",medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0789995,C0004096,PREVENTS,Air Cleaners - Device,Asthma,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0972401,C0008679,PREVENTS,Boards (medical device),Chronic disease,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0972401,C0041296,PREVENTS,Boards (medical device),Tuberculosis,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C0994894,C0032371,PREVENTS,Patch Dosage Form,Poliomyelitis,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1145640,C0004610,PREVENTS,"Central venous catheter, device",Bacteremia,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1314650,C0010356,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Cross Infection,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1314650,C0746556,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",metabolic disturbance,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1706912,C0014038,PREVENTS,BARRIER,Encephalitis,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1706912,C0021400,PREVENTS,BARRIER,Influenza,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1706912,C0024115,PREVENTS,BARRIER,Lung diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C1706912,C0042769,PREVENTS,BARRIER,Virus Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C2717999,C0024530,PREVENTS,Insecticide-Treated Bednets,Malaria,medd,dsyn,1,PREVENTS_MEDDprevDSYN
+C3495449,C0009450,PREVENTS,Mobility aid,Communicable Diseases,medd,dsyn,1,PREVENTS_MEDDprevDSYN

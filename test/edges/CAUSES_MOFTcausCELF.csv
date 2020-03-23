@@ -1,0 +1,171 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001038,C0013081,CAUSES,Acetylation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C0003314,C0019595,CAUSES,Antigen-Antibody Reactions,Histamine Release,moft,celf,1,CAUSES_MOFTcausCELF
+C0008858,C0013081,CAUSES,Citric Acid Cycle,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C0009528,C1159762,CAUSES,Complement Activation,opsonization,moft,celf,1,CAUSES_MOFTcausCELF
+C0009528,C2610960,CAUSES,Complement Activation,Pyroptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0010357,C0162638,CAUSES,Cross Reactions,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0010357,C1155013,CAUSES,Cross Reactions,T cell differentiation,moft,celf,1,CAUSES_MOFTcausCELF
+C0010357,C1155872,CAUSES,Cross Reactions,Cell Cycle Control,moft,celf,1,CAUSES_MOFTcausCELF
+C0013846,C0162638,CAUSES,Electron Transport,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0017952,C0013081,CAUSES,Glycolysis,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C0025246,C0007587,CAUSES,Membrane Fusion,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C0025246,C4326906,CAUSES,Membrane Fusion,membrane curvature,moft,celf,1,CAUSES_MOFTcausCELF
+C0030013,C0007587,CAUSES,Oxidative Phosphorylation,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0004391,CAUSES,Phosphorylation,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0007587,CAUSES,Phosphorylation,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0007613,CAUSES,Phosphorylation,Cell physiology,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0007620,CAUSES,Phosphorylation,Cell Survival,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0013081,CAUSES,Phosphorylation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0014139,CAUSES,Phosphorylation,Endocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0026255,CAUSES,Phosphorylation,Mitosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0031308,CAUSES,Phosphorylation,Phagocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0037083,CAUSES,Phosphorylation,Signal Transduction,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0041904,CAUSES,Phosphorylation,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0086982,CAUSES,Phosphorylation,Signal Transduction Pathways,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C0162638,CAUSES,Phosphorylation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C1155873,CAUSES,Phosphorylation,Cell Cycle Arrest,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C1157569,CAUSES,Phosphorylation,viral translation,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C1326205,CAUSES,Phosphorylation,Positive Regulation of Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0031715,C2610958,CAUSES,Phosphorylation,necroptotic process,moft,celf,1,CAUSES_MOFTcausCELF
+C0033666,C4326906,CAUSES,Post-Translational Protein Processing,membrane curvature,moft,celf,1,CAUSES_MOFTcausCELF
+C0036522,C0162638,CAUSES,Second Messenger Systems,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0243102,C0041904,CAUSES,enzyme activity,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C0301641,C0013081,CAUSES,Macromolecular alteration,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C0301641,C0037083,CAUSES,Macromolecular alteration,Signal Transduction,moft,celf,1,CAUSES_MOFTcausCELF
+C0301641,C1157569,CAUSES,Macromolecular alteration,viral translation,moft,celf,1,CAUSES_MOFTcausCELF
+C0301641,C1160701,CAUSES,Macromolecular alteration,viral genome replication,moft,celf,1,CAUSES_MOFTcausCELF
+C0302820,C1156246,CAUSES,Carbohydrate Metabolism,filamentous growth,moft,celf,1,CAUSES_MOFTcausCELF
+C0376669,C0007587,CAUSES,DNA Fragmentation,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C0376669,C0162638,CAUSES,DNA Fragmentation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0597295,C0007586,CAUSES,Protein Biosynthesis,Cell Cycle,moft,celf,1,CAUSES_MOFTcausCELF
+C0597295,C0041904,CAUSES,Protein Biosynthesis,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C0597304,C0206430,CAUSES,Proteolysis,Antigen Processing,moft,celf,1,CAUSES_MOFTcausCELF
+C0597304,C3271951,CAUSES,Proteolysis,macropinocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0597358,C0014139,CAUSES,receptor binding,Endocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0598435,C4326906,CAUSES,Palmitoylation,membrane curvature,moft,celf,1,CAUSES_MOFTcausCELF
+C0598783,C0004391,CAUSES,Lipid Metabolism,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C0598958,C1326169,CAUSES,Neuroprotection,microglial cell activation,moft,celf,1,CAUSES_MOFTcausCELF
+C0599739,C1155008,CAUSES,synergism,b-cell proliferation,moft,celf,1,CAUSES_MOFTcausCELF
+C0813988,C0010813,CAUSES,autophosphorylation,Cytokinesis,moft,celf,1,CAUSES_MOFTcausCELF
+C0813988,C0014139,CAUSES,autophosphorylation,Endocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C0813988,C1160701,CAUSES,autophosphorylation,viral genome replication,moft,celf,1,CAUSES_MOFTcausCELF
+C0872079,C0013081,CAUSES,protein protein interaction,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1148926,C1156062,CAUSES,adenosinetriphosphatase activity,lysosomal lumen acidification,moft,celf,1,CAUSES_MOFTcausCELF
+C1149168,C1155873,CAUSES,cyclin binding,Cell Cycle Arrest,moft,celf,1,CAUSES_MOFTcausCELF
+C1149183,C1817973,CAUSES,interleukin receptor activity,Leukocyte Differentiation,moft,celf,1,CAUSES_MOFTcausCELF
+C1149184,C0004391,CAUSES,interleukin-1 receptor activity,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1149207,C0037083,CAUSES,interleukin-4 receptor activity,Signal Transduction,moft,celf,1,CAUSES_MOFTcausCELF
+C1149306,C0003272,CAUSES,immunoglobulin binding,Antibody-Dependent Cellular Cytotoxicity,moft,celf,1,CAUSES_MOFTcausCELF
+C1149536,C2611812,CAUSES,virion binding,signaling cascade,moft,celf,1,CAUSES_MOFTcausCELF
+C1149632,C0004391,CAUSES,hydrolase activity,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1149785,C0162638,CAUSES,urease activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1149848,C0596233,CAUSES,phospholipase C activity,release of sequestered calcium ion into cytoplasm,moft,celf,1,CAUSES_MOFTcausCELF
+C1150095,C0041904,CAUSES,peptidase activity,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C1150132,C0162638,CAUSES,caspase-3 activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1150423,C0007613,CAUSES,kinase activity,Cell physiology,moft,celf,1,CAUSES_MOFTcausCELF
+C1150423,C0086982,CAUSES,kinase activity,Signal Transduction Pathways,moft,celf,1,CAUSES_MOFTcausCELF
+C1150571,C0004391,CAUSES,IkappaB kinase activity,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1150587,C0162638,CAUSES,JUN kinase activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1150587,C0596290,CAUSES,JUN kinase activity,Cell Proliferation,moft,celf,1,CAUSES_MOFTcausCELF
+C1150587,C3546359,CAUSES,JUN kinase activity,pro-apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1150604,C0162638,CAUSES,MAP kinase kinase activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1150639,C0162638,CAUSES,pyruvate dehydrogenase (acetyl-transferring) kinase activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1151028,C0010813,CAUSES,oxidoreductase activity,Cytokinesis,moft,celf,1,CAUSES_MOFTcausCELF
+C1151047,C0007620,CAUSES,disulfide oxidoreductase activity,Cell Survival,moft,celf,1,CAUSES_MOFTcausCELF
+C1151928,C0007587,CAUSES,histone acetyltransferase activity,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1153410,C0004391,CAUSES,channel activity,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1153410,C1159342,CAUSES,channel activity,Secretory Pathway,moft,celf,1,CAUSES_MOFTcausCELF
+C1153415,C0007613,CAUSES,ion channel activity,Cell physiology,moft,celf,1,CAUSES_MOFTcausCELF
+C1155379,C3269125,CAUSES,epidermal growth factor receptor signaling pathway,ruffle assembly,moft,celf,1,CAUSES_MOFTcausCELF
+C1155452,C2754100,CAUSES,Notch Signaling Pathway,neuron death,moft,celf,1,CAUSES_MOFTcausCELF
+C1155468,C0162638,CAUSES,Hedgehog Signaling Pathway,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1155494,C0041904,CAUSES,intracellular signal transduction,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C1156083,C4326906,CAUSES,mitochondrial translocation,membrane curvature,moft,celf,1,CAUSES_MOFTcausCELF
+C1157192,C2752374,CAUSES,chitin biosynthetic process,cell wall anabolism,moft,celf,1,CAUSES_MOFTcausCELF
+C1157407,C0162638,CAUSES,macromolecule biosynthetic process,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1157990,C0162638,CAUSES,Sumoylation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1157996,C0013081,CAUSES,Deubiquitination,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1157996,C0086982,CAUSES,Deubiquitination,Signal Transduction Pathways,moft,celf,1,CAUSES_MOFTcausCELF
+C1158366,C0013081,CAUSES,fatty acid oxidation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1158886,C0013081,CAUSES,Protein phosphorylation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1159825,C0013081,CAUSES,Caspase Activation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1159825,C0162638,CAUSES,Caspase Activation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1167622,C0007613,CAUSES,Binding (Molecular Function),Cell physiology,moft,celf,1,CAUSES_MOFTcausCELF
+C1257755,C0162638,CAUSES,RNA Decay,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1325405,C0162638,CAUSES,thioredoxin activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1325410,C0162638,CAUSES,tumor suppressor activity,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1510699,C0013081,CAUSES,ATP Hydrolysis,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1510811,C1155080,CAUSES,Adjuvanticity,T-helper 1 type immune response,moft,celf,1,CAUSES_MOFTcausCELF
+C1511737,C0013081,CAUSES,Deacetylation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1512772,C0004391,CAUSES,Negative Regulation of Apoptosis,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1512772,C0162638,CAUSES,Negative Regulation of Apoptosis,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1514762,C0162638,CAUSES,Receptor Signaling,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1514762,C2610958,CAUSES,Receptor Signaling,necroptotic process,moft,celf,1,CAUSES_MOFTcausCELF
+C1515144,C0041904,CAUSES,T-Cell Receptor Activation,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C1515844,C0041904,CAUSES,AKT Signaling Pathway,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C1516152,C0007587,CAUSES,Calmodulin Pathway,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1516272,C0162638,CAUSES,Carcinogen Metabolism,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1517345,C0007587,CAUSES,Negative Regulation of G2 to M Transition,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1517880,C0037083,CAUSES,Ligand Binding,Signal Transduction,moft,celf,1,CAUSES_MOFTcausCELF
+C1517880,C0086982,CAUSES,Ligand Binding,Signal Transduction Pathways,moft,celf,1,CAUSES_MOFTcausCELF
+C1517880,C0162638,CAUSES,Ligand Binding,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1517880,C2611812,CAUSES,Ligand Binding,signaling cascade,moft,celf,1,CAUSES_MOFTcausCELF
+C1518094,C0162638,CAUSES,Lytic Phase,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1518440,C0010813,CAUSES,Nuclear Translocation,Cytokinesis,moft,celf,1,CAUSES_MOFTcausCELF
+C1518440,C0013081,CAUSES,Nuclear Translocation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1518440,C0162638,CAUSES,Nuclear Translocation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1519751,C0007587,CAUSES,Ubiquitination,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1519751,C0086982,CAUSES,Ubiquitination,Signal Transduction Pathways,moft,celf,1,CAUSES_MOFTcausCELF
+C1520023,C1155964,CAUSES,Virus-Cell Membrane Interaction,cytoskeleton organization,moft,celf,1,CAUSES_MOFTcausCELF
+C1520023,C1326120,CAUSES,Virus-Cell Membrane Interaction,cell activation,moft,celf,1,CAUSES_MOFTcausCELF
+C1621287,C1622297,CAUSES,antibody activity,natural killer cell degranulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1621396,C0162638,CAUSES,JNK Pathway,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1621396,C1518102,CAUSES,JNK Pathway,MAPK Signaling Pathway,moft,celf,1,CAUSES_MOFTcausCELF
+C1623484,C0004391,CAUSES,protein kinase B signaling,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1623484,C0013081,CAUSES,protein kinase B signaling,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C1623484,C0162638,CAUSES,protein kinase B signaling,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C0004391,CAUSES,Biochemical Pathway,Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C0007587,CAUSES,Biochemical Pathway,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C0162638,CAUSES,Biochemical Pathway,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C1155342,CAUSES,Biochemical Pathway,cellular response to unfolded protein,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C1516022,CAUSES,Biochemical Pathway,Antimicrobial Effect,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C2611812,CAUSES,Biochemical Pathway,signaling cascade,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C3156099,CAUSES,Biochemical Pathway,macrophage apoptotic process,moft,celf,1,CAUSES_MOFTcausCELF
+C1704259,C3156642,CAUSES,Biochemical Pathway,clathrin-dependent endocytosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1721094,C0162638,CAUSES,DNA Cleavage,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1749317,C0162638,CAUSES,G-protein coupled receptor binding,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1749901,C0007587,CAUSES,energy dissipation,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1752727,C1157569,CAUSES,Proteasome Pathway,viral translation,moft,celf,1,CAUSES_MOFTcausCELF
+C1817393,C0007587,CAUSES,Toll-Like Receptor Signaling Pathway,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C1817666,C0007620,CAUSES,phosphatidylinositol 3-kinase signaling,Cell Survival,moft,celf,1,CAUSES_MOFTcausCELF
+C1817666,C0162638,CAUSES,phosphatidylinositol 3-kinase signaling,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C1817666,C2754100,CAUSES,phosphatidylinositol 3-kinase signaling,neuron death,moft,celf,1,CAUSES_MOFTcausCELF
+C2247717,C0013081,CAUSES,toll-like receptor 2 signaling pathway,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C2247721,C0041904,CAUSES,toll-like receptor 3 signaling pathway,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C2247721,C1155046,CAUSES,toll-like receptor 3 signaling pathway,T-Cell Proliferation,moft,celf,1,CAUSES_MOFTcausCELF
+C2247725,C0041904,CAUSES,toll-like receptor 4 signaling pathway,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C2261588,C0013081,CAUSES,MAP-2 kinase activity,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C2265516,C0162638,CAUSES,cullin deneddylation,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C2754810,C2754100,CAUSES,monocyte chemotactic protein-1 production,neuron death,moft,celf,1,CAUSES_MOFTcausCELF
+C2755743,C0041904,CAUSES,paracrine activity,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C2917254,C0004391,CAUSES,Dipeptidyl Peptidase 4 Inhibitors [MoA],Autophagy,moft,celf,1,CAUSES_MOFTcausCELF
+C2984300,C0162638,CAUSES,Insulin/Insulin Receptor Signaling Pathway,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C2984300,C0178666,CAUSES,Insulin/Insulin Receptor Signaling Pathway,glucose transport,moft,celf,1,CAUSES_MOFTcausCELF
+C3158903,C0013081,CAUSES,chemokine (C-C motif) ligand 2 binding,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C3160734,C0007587,CAUSES,Dephosphorylation,Cell Death,moft,celf,1,CAUSES_MOFTcausCELF
+C3160734,C0013081,CAUSES,Dephosphorylation,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C3179233,C0162638,CAUSES,MEK-ERK Pathway,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C3179234,C0013081,CAUSES,ERK Signal Tranduction Pathway,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C3268357,C0162638,CAUSES,p38 MAPK signaling,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C3271239,C1155982,CAUSES,Cdc42 signaling pathway,actin filament polymerization,moft,celf,1,CAUSES_MOFTcausCELF
+C3272080,C0010813,CAUSES,NLRP3 inflammasome activation,Cytokinesis,moft,celf,1,CAUSES_MOFTcausCELF
+C3534339,C2610958,CAUSES,alternate pathway,necroptotic process,moft,celf,1,CAUSES_MOFTcausCELF
+C3537131,C0041904,CAUSES,Chelating Activity,Up-Regulation (Physiology),moft,celf,1,CAUSES_MOFTcausCELF
+C3546468,C0596290,CAUSES,AMPK activity,Cell Proliferation,moft,celf,1,CAUSES_MOFTcausCELF
+C3546468,C1622501,CAUSES,AMPK activity,"Migration, Cell",moft,celf,1,CAUSES_MOFTcausCELF
+C3546691,C0013081,CAUSES,activation of protein kinase C activity,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C3549111,C0162638,CAUSES,PKR signal transduction,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF
+C3824143,C0013081,CAUSES,proteasome complex disassembly,Down-Regulation,moft,celf,1,CAUSES_MOFTcausCELF
+C3824143,C1155342,CAUSES,proteasome complex disassembly,cellular response to unfolded protein,moft,celf,1,CAUSES_MOFTcausCELF
+C4505258,C0162638,CAUSES,Proteostasis,Apoptosis,moft,celf,1,CAUSES_MOFTcausCELF

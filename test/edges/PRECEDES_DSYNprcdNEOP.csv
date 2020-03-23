@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007222,C0006826,PRECEDES,Cardiovascular Diseases,Malignant Neoplasms,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0013570,C0027651,PRECEDES,"Ecthyma, Contagious",Neoplasms,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0018939,C0024299,PRECEDES,Hematological Disease,Lymphoma,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0042769,C0027651,PRECEDES,Virus Diseases,Neoplasms,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0042769,C0032463,PRECEDES,Virus Diseases,Polycythemia Vera,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0149678,C0079772,PRECEDES,Epstein-Barr Virus Infections,T-Cell Lymphoma,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0275518,C1266129,PRECEDES,Acute infectious disease,Atypical Lipoma,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0276500,C4050064,PRECEDES,Human immunodeficiency virus I infection,ROSE Cluster 5,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C0524909,C0279000,PRECEDES,"Hepatitis B, Chronic",Liver and Intrahepatic Biliary Tract Carcinoma,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C1175175,C0006826,PRECEDES,Severe Acute Respiratory Syndrome,Malignant Neoplasms,dsyn,neop,1,PRECEDES_DSYNprcdNEOP
+C1519680,C0598934,PRECEDES,Tumor Immunity,tumor growth,dsyn,neop,1,PRECEDES_DSYNprcdNEOP

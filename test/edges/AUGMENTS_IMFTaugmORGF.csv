@@ -1,0 +1,88 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0001811,AUGMENTS,Immunologic Adjuvants,Aging,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0005615,AUGMENTS,Immunologic Adjuvants,Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0020966,AUGMENTS,Immunologic Adjuvants,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0020967,AUGMENTS,Immunologic Adjuvants,Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0301872,AUGMENTS,Immunologic Adjuvants,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0678723,AUGMENTS,Immunologic Adjuvants,Biologic Development,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C1155328,AUGMENTS,Immunologic Adjuvants,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C1749719,AUGMENTS,Immunologic Adjuvants,Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0002092,C0301872,AUGMENTS,Allergens,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003316,C0301872,AUGMENTS,Epitopes,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003333,C0301872,AUGMENTS,"Antigens, Heterophile",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003335,C0301872,AUGMENTS,"Antigens, Neoplasm",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003341,C0301872,AUGMENTS,"Antigens, Tumor-Associated, Carbohydrate",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003342,C0020966,AUGMENTS,"Antigens, Viral",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003342,C0301872,AUGMENTS,"Antigens, Viral",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0004632,C0301872,AUGMENTS,Bacterial Vaccines,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0004886,C0301872,AUGMENTS,BCG Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0004886,C0678889,AUGMENTS,BCG Vaccine,Immunoregulation,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0012551,C0301872,AUGMENTS,"diphtheria toxoid vaccine, inactivated",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0016712,C0301872,AUGMENTS,Freund's Adjuvant,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0019166,C0301872,AUGMENTS,Hepatitis B Core Antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0019168,C0301872,AUGMENTS,Hepatitis B Surface Antigens,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0019168,C1155328,AUGMENTS,Hepatitis B Surface Antigens,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0021403,C0301872,AUGMENTS,Influenza virus vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0032375,C0301872,AUGMENTS,Oral Poliovirus Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0041361,C0005615,AUGMENTS,Tumor Antigens,Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0041361,C0301872,AUGMENTS,Tumor Antigens,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0005615,AUGMENTS,Vaccines,Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0018270,AUGMENTS,Vaccines,Growth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0020966,AUGMENTS,Vaccines,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0020967,AUGMENTS,Vaccines,Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0301872,AUGMENTS,Vaccines,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0678209,AUGMENTS,Vaccines,Adaptive Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C0678723,AUGMENTS,Vaccines,Biologic Development,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C1155328,AUGMENTS,Vaccines,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C1749719,AUGMENTS,Vaccines,Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042210,C1819431,AUGMENTS,Vaccines,interferon-alpha production,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0020966,AUGMENTS,"Vaccines, Attenuated",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0301872,AUGMENTS,"Vaccines, Attenuated",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0678209,AUGMENTS,"Vaccines, Attenuated",Adaptive Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0678210,AUGMENTS,"Vaccines, Attenuated","Passive immunity, function",imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C1155328,AUGMENTS,"Vaccines, Attenuated",Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C1817907,AUGMENTS,"Vaccines, Attenuated",T cell mediated immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042212,C0020967,AUGMENTS,"Vaccines, Inactivated",Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042212,C0301872,AUGMENTS,"Vaccines, Inactivated",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042742,C0000934,AUGMENTS,Viral Vaccines,Acclimatization,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042742,C0301872,AUGMENTS,Viral Vaccines,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042742,C1155328,AUGMENTS,Viral Vaccines,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0079600,C0301872,AUGMENTS,Immunodominant Epitopes,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0086413,C0301872,AUGMENTS,HIV Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0086413,C0678723,AUGMENTS,HIV Vaccine,Biologic Development,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0206253,C0301872,AUGMENTS,"Vaccines, Combined",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0282580,C0020967,AUGMENTS,"Epitopes, T-Lymphocyte",Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0282580,C0301872,AUGMENTS,"Epitopes, T-Lymphocyte",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0282581,C0301872,AUGMENTS,"Epitopes, B-Lymphocyte",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0301837,C0301872,AUGMENTS,Particulate antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0301838,C0301872,AUGMENTS,Soluble antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0301839,C0301872,AUGMENTS,Sequestered antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0005615,AUGMENTS,"Vaccines, DNA",Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0018270,AUGMENTS,"Vaccines, DNA",Growth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0020966,AUGMENTS,"Vaccines, DNA",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0020967,AUGMENTS,"Vaccines, DNA",Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0301872,AUGMENTS,"Vaccines, DNA",Immune response,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0376613,C1749719,AUGMENTS,"Vaccines, DNA",Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0521390,C0301872,AUGMENTS,neuronal,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0597641,C0301872,AUGMENTS,plasmid vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0599597,C0301872,AUGMENTS,genetic vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0675907,C0301872,AUGMENTS,AIDSVAX,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887892,C0020966,AUGMENTS,"Vaccines, Subunit",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887892,C0301872,AUGMENTS,"Vaccines, Subunit",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887894,C0020967,AUGMENTS,Respiratory Syncytial Virus Vaccines,Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887902,C0301872,AUGMENTS,"Vaccines, Edible",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C1135130,C0005615,AUGMENTS,Avastin,Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C1291777,C0301872,AUGMENTS,Protein antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C1519887,C0301872,AUGMENTS,Vaccine Antigen,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C1552907,C0301872,AUGMENTS,Adenovirus Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C2240392,C0005615,AUGMENTS,Hepatitis B Vaccines,Birth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C2825347,C0020966,AUGMENTS,"Immunoglobulin A, Human",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C2825347,C0301872,AUGMENTS,"Immunoglobulin A, Human",Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3178367,C0301872,AUGMENTS,MVA vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3178367,C1749719,AUGMENTS,MVA vaccine,Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3272757,C0301872,AUGMENTS,Live Attenuated Influenza Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3495466,C0301872,AUGMENTS,Toxoid Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3639986,C0301872,AUGMENTS,Fluenz,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C4040232,C0301872,AUGMENTS,Plasmodium Ag,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C4505396,C0301872,AUGMENTS,High-Dose Trivalent Influenza Vaccine,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C4505399,C0301872,AUGMENTS,Universal Flu Vaccines,Immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF

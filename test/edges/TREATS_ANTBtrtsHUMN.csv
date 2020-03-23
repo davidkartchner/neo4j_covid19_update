@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0001675,TREATS,Amoxicillin,Adult,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0002645,C0008059,TREATS,Amoxicillin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0002645,C0021289,TREATS,Amoxicillin,"Infant, Newborn",antb,humn,1,TREATS_ANTBtrtsHUMN
+C0002679,C0021289,TREATS,Amphotericin B,"Infant, Newborn",antb,humn,1,TREATS_ANTBtrtsHUMN
+C0002680,C0008059,TREATS,Ampicillin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0001675,TREATS,Antibiotics,Adult,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0008059,TREATS,Antibiotics,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0008098,TREATS,Antibiotics,"Child, Hospitalized",antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0015576,TREATS,Antibiotics,Family,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0020052,TREATS,Antibiotics,Households,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0021270,TREATS,Antibiotics,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0043210,TREATS,Antibiotics,Woman,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0206194,TREATS,Antibiotics,Survivors,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0337547,TREATS,Antibiotics,Younger child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0870221,TREATS,Antibiotics,Boys,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003232,C0870668,TREATS,Antibiotics,hospitalized patients,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003240,C0001675,TREATS,Macrolide Antibiotics,Adult,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003240,C0008059,TREATS,Macrolide Antibiotics,Child,antb,humn,2,TREATS_ANTBtrtsHUMN
+C0003240,C0029039,TREATS,Macrolide Antibiotics,Is an only child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0003240,C0205653,TREATS,Macrolide Antibiotics,Adolescent (age group),antb,humn,1,TREATS_ANTBtrtsHUMN
+C0007554,C0008059,TREATS,Cefotaxime,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0007554,C0021270,TREATS,Cefotaxime,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0007561,C0008059,TREATS,Ceftriaxone,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0007561,C0021270,TREATS,Ceftriaxone,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0013090,C0008059,TREATS,Doxycycline,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0014806,C0008059,TREATS,Erythromycin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0030842,C0008059,TREATS,Penicillins,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0039644,C0008059,TREATS,Tetracycline,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0052796,C0008059,TREATS,Azithromycin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0052796,C0021270,TREATS,Azithromycin,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0052796,C0687759,TREATS,Azithromycin,traveler,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0054066,C0008059,TREATS,Amoxicillin / Clavulanate,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0054066,C0086418,TREATS,Amoxicillin / Clavulanate,Homo sapiens,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0055015,C0008059,TREATS,cefuroxime axetil,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0055856,C0021270,TREATS,Clarithromycin,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0055856,C0205653,TREATS,Clarithromycin,Adolescent (age group),antb,humn,1,TREATS_ANTBtrtsHUMN
+C0072980,C0680063,TREATS,Sirolimus,Offspring,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0085795,C0008059,TREATS,Amphotericin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0110038,C0008059,TREATS,Clavulanate,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0279516,C0001675,TREATS,Anti-Bacterial Agents,Adult,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0279516,C0008059,TREATS,Anti-Bacterial Agents,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0279516,C0870668,TREATS,Anti-Bacterial Agents,hospitalized patients,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0304320,C0008059,TREATS,Third generation cephalosporin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0304320,C0021270,TREATS,Third generation cephalosporin,Infant,antb,humn,2,TREATS_ANTBtrtsHUMN
+C0310367,C0020052,TREATS,Today,Households,antb,humn,1,TREATS_ANTBtrtsHUMN
+C0310367,C0021270,TREATS,Today,Infant,antb,humn,1,TREATS_ANTBtrtsHUMN
+C1260298,C0870668,TREATS,tigecycline,hospitalized patients,antb,humn,1,TREATS_ANTBtrtsHUMN
+C2001525,C0008059,TREATS,ceftaroline fosamil,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C2828290,C0001675,TREATS,delafloxacin,Adult,antb,humn,1,TREATS_ANTBtrtsHUMN
+C3536856,C0008059,TREATS,Cephalosporins,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C3655918,C0008059,TREATS,solithromycin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN
+C3655918,C0205653,TREATS,solithromycin,Adolescent (age group),antb,humn,1,TREATS_ANTBtrtsHUMN
+C3854019,C0008059,TREATS,Gentamicin,Child,antb,humn,1,TREATS_ANTBtrtsHUMN

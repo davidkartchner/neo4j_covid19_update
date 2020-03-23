@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011331,C0348000,USES,Dental Procedures,Instrument - device,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0004381,USES,Drug Packaging,Automobiles,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0009622,USES,Drug Packaging,Computers,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0023089,USES,Drug Packaging,Lasers,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0036971,USES,Drug Packaging,Ships,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0179400,USES,Drug Packaging,Box,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0183309,USES,Drug Packaging,Simulators,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C0331794,USES,Drug Packaging,Boots,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C1553446,USES,Drug Packaging,Suite,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C1704639,USES,Drug Packaging,Matrix Component of Device,hlca,mnob,1,USES_HLCAusesMNOB
+C0013194,C4019284,USES,Drug Packaging,Uniforms,hlca,mnob,1,USES_HLCAusesMNOB
+C0013961,C0002422,USES,Emergency medical service,Ambulances,hlca,mnob,1,USES_HLCAusesMNOB
+C0030685,C0013812,USES,Patient Discharge,electrode,hlca,mnob,1,USES_HLCAusesMNOB
+C0220908,C0013812,USES,Screening procedure,electrode,hlca,mnob,1,USES_HLCAusesMNOB
+C0237070,C0348000,USES,discipline,Instrument - device,hlca,mnob,1,USES_HLCAusesMNOB
+C1261322,C0348000,USES,Evaluation procedure,Instrument - device,hlca,mnob,1,USES_HLCAusesMNOB
+C1273863,C0039818,USES,OTC sale,"Thermometer, device",hlca,mnob,1,USES_HLCAusesMNOB

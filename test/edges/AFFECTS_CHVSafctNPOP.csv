@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007447,C0012222,AFFECTS,Cations,Diffusion,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0032521,C0012222,AFFECTS,Polymers,Diffusion,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0032521,C2717975,AFFECTS,Polymers,Virus Release,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0036140,C0678592,AFFECTS,Salts,free energy change,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0036140,C1257888,AFFECTS,Salts,Phase Transition,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0178735,C0042784,AFFECTS,macromolecule,Viscosity,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0178735,C0678595,AFFECTS,macromolecule,peptide bond,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0243072,C0243052,AFFECTS,derivatives,Virus Physiological Phenomena,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0444626,C0376525,AFFECTS,Crystal Structure,Dimerization,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0596448,C0376525,AFFECTS,dimer,Dimerization,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0596973,C0376525,AFFECTS,monomer,Dimerization,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0597177,C0011682,AFFECTS,Particle,Desiccation,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0597177,C0012222,AFFECTS,Particle,Diffusion,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0597177,C0031164,AFFECTS,Particle,Permeability,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0597177,C0038442,AFFECTS,Particle,"Stress, Mechanical",chvs,npop,1,AFFECTS_CHVSafctNPOP
+C0597177,C0337037,AFFECTS,Particle,Electric field,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C1704241,C0032931,AFFECTS,complex (molecular entity),Precipitation,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C1704241,C2717975,AFFECTS,complex (molecular entity),Virus Release,chvs,npop,1,AFFECTS_CHVSafctNPOP
+C2715259,C0005482,AFFECTS,biochar,Biodegradation,chvs,npop,1,AFFECTS_CHVSafctNPOP

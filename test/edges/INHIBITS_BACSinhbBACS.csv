@@ -1,0 +1,89 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001041,C0008405,INHIBITS,Acetylcholine,Choline,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0001041,C0013030,INHIBITS,Acetylcholine,Dopamine,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0001443,C0019134,INHIBITS,Adenosine,heparin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0005390,C0011479,INHIBITS,Bile Acids,Deoxycholic Acid,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0005446,C0018966,INHIBITS,Biliverdine,Heme,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0006353,C0037494,INHIBITS,Buffers,Sodium Chloride,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0006353,C0041942,INHIBITS,Buffers,Urea,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0006353,C0071504,INHIBITS,Buffers,"mRNA, Polyadenylated",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0008377,C0677647,INHIBITS,Cholesterol,Mevalonate,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0009221,C0242611,INHIBITS,Codon (nucleotide sequence),"Codon, Terminator",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0010558,C0008377,INHIBITS,Cyclodextrins,Cholesterol,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0010738,C0086140,INHIBITS,Cytochalasin D,Dextran,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0012854,C0006675,INHIBITS,DNA,Calcium,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0012854,C0018909,INHIBITS,DNA,Hemagglutinin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0012854,C0035701,INHIBITS,DNA,Ribosomal RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0012854,C0162772,INHIBITS,DNA,Reactive Oxygen Species,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0012925,C0003320,INHIBITS,"DNA, Circular",Antigens,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0013982,C0028128,INHIBITS,Emodin,Nitric Oxide,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0015684,C0018909,INHIBITS,Fatty Acids,Hemagglutinin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0016157,C0041004,INHIBITS,Fish Oils,Triglycerides,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0016693,C0001480,INHIBITS,Free Radicals,Adenosine Triphosphate,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0017082,C0017950,INHIBITS,Gangliosides,Glycolipids,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0017725,C0027303,INHIBITS,Glucose,NADP,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0018966,C0028128,INHIBITS,Heme,Nitric Oxide,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0024742,C0040549,INHIBITS,Mannose,Toxin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0027303,C0028128,INHIBITS,NADP,Nitric Oxide,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0027303,C0162772,INHIBITS,NADP,Reactive Oxygen Species,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0027908,C0019588,INHIBITS,Neurotransmitters,Histamine,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0027908,C0613065,INHIBITS,Neurotransmitters,secapin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0028128,C0487773,INHIBITS,Nitric Oxide,Japanese encephalitis virus RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0028606,C0035701,INHIBITS,Nucleic Acids,Ribosomal RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0028606,C0040549,INHIBITS,Nucleic Acids,Toxin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0028606,C1099354,INHIBITS,Nucleic Acids,"RNA, Small Interfering",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0031676,C0043791,INHIBITS,Phospholipids,"1,2-diacylglycerol",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0032136,C1099354,INHIBITS,Plasmids,"RNA, Small Interfering",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0032136,C1764827,INHIBITS,Plasmids,Isolate - microorganism,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C0006675,INHIBITS,"RNA, Messenger",Calcium,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C0035693,INHIBITS,"RNA, Messenger","RNA, Double-Stranded",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C0035711,INHIBITS,"RNA, Messenger",Transfer RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C0600600,INHIBITS,"RNA, Messenger",3' Untranslated Regions,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C1099354,INHIBITS,"RNA, Messenger","RNA, Small Interfering",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035696,C1101610,INHIBITS,"RNA, Messenger",MicroRNAs,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035703,C0486926,INHIBITS,"RNA, Ribosomal, 18S",Hepatitis D virus RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035711,C0035696,INHIBITS,Transfer RNA,"RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0035711,C0056912,INHIBITS,Transfer RNA,cytidylyl-3'-5'-guanosine,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0037494,C0012854,INHIBITS,Sodium Chloride,DNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0037494,C0035696,INHIBITS,Sodium Chloride,"RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0037906,C0007745,INHIBITS,Sphingomyelins,Ceramides,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0037906,C0031617,INHIBITS,Sphingomyelins,Lecithin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0041993,C0001056,INHIBITS,Uridine Diphosphate N-Acetylglucosamine,Acetylglucosamine,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0043442,C0003320,INHIBITS,"DNA, Z-Form",Antigens,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0056912,C1291185,INHIBITS,cytidylyl-3'-5'-guanosine,Microbial DNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0072288,C0033532,INHIBITS,Prostaglandin H2,Prostaglandin D2,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0079925,C0053738,INHIBITS,Antisense Oligonucleotides,bis(monoacylglyceryl)phosphate,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0080124,C1101610,INHIBITS,Antisense RNA,MicroRNAs,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0124436,C0040549,INHIBITS,kaliotoxin,Toxin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0136157,C0012854,INHIBITS,Peroxynitrite,DNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0142281,C0302583,INHIBITS,Siderophores,Iron,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0162772,C0006675,INHIBITS,Reactive Oxygen Species,Calcium,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0162772,C0027303,INHIBITS,Reactive Oxygen Species,NADP,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0242494,C0035696,INHIBITS,Poly(A) Tail,"RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0242494,C1101610,INHIBITS,Poly(A) Tail,MicroRNAs,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0242612,C0242611,INHIBITS,"Codon, Nonsense","Codon, Terminator",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0242961,C0032136,INHIBITS,Replication Origin,Plasmids,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0522094,C3840404,INHIBITS,Medium chain fatty acid,Porcine epidemic diarrhea virus RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0600508,C0028128,INHIBITS,Response Elements,Nitric Oxide,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0600508,C0035696,INHIBITS,Response Elements,"RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0600600,C0600493,INHIBITS,3' Untranslated Regions,5' Untranslated Regions,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C0887946,C0009221,INHIBITS,Sense Codon,Codon (nucleotide sequence),bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0018338,INHIBITS,"RNA, Small Interfering",Cyclic GMP,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0018909,INHIBITS,"RNA, Small Interfering",Hemagglutinin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0023546,INHIBITS,"RNA, Small Interfering",Leukotriene B4,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0030958,INHIBITS,"RNA, Small Interfering",Peptidoglycan,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0032136,INHIBITS,"RNA, Small Interfering",Plasmids,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0035693,INHIBITS,"RNA, Small Interfering","RNA, Double-Stranded",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0035696,INHIBITS,"RNA, Small Interfering","RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C0178555,INHIBITS,"RNA, Small Interfering",chemical cofactor,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1099354,C1101610,INHIBITS,"RNA, Small Interfering",MicroRNAs,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1101610,C0018909,INHIBITS,MicroRNAs,Hemagglutinin,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1101610,C0035696,INHIBITS,MicroRNAs,"RNA, Messenger",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1101610,C0600600,INHIBITS,MicroRNAs,3' Untranslated Regions,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1101610,C1099354,INHIBITS,MicroRNAs,"RNA, Small Interfering",bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1506352,C0035142,INHIBITS,silvestrol,Replicon,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1566558,C0035142,INHIBITS,Natural Products,Replicon,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1701869,C0162772,INHIBITS,hirsutenone,Reactive Oxygen Species,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C1764827,C1101610,INHIBITS,Isolate - microorganism,MicroRNAs,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C3494870,C0035701,INHIBITS,Viral isolate,Ribosomal RNA,bacs,bacs,1,INHIBITS_BACSinhbBACS
+C4079663,C0035142,INHIBITS,NVP018,Replicon,bacs,bacs,1,INHIBITS_BACSinhbBACS

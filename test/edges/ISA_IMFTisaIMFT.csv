@@ -1,0 +1,99 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004632,C0042210,ISA,Bacterial Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0004886,C0042210,ISA,BCG Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0004886,C0042211,ISA,BCG Vaccine,"Vaccines, Attenuated",imft,imft,1,ISA_IMFTisaIMFT
+C0012559,C0042210,ISA,Diphtheria-Tetanus-Pertussis Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0016712,C0001551,ISA,Freund's Adjuvant,Immunologic Adjuvants,imft,imft,1,ISA_IMFTisaIMFT
+C0019167,C0003342,ISA,Hepatitis B e Antigens,"Antigens, Viral",imft,imft,1,ISA_IMFTisaIMFT
+C0019167,C0019165,ISA,Hepatitis B e Antigens,Hepatitis B Antigens,imft,imft,1,ISA_IMFTisaIMFT
+C0019167,C0019168,ISA,Hepatitis B e Antigens,Hepatitis B Surface Antigens,imft,imft,1,ISA_IMFTisaIMFT
+C0019168,C0003342,ISA,Hepatitis B Surface Antigens,"Antigens, Viral",imft,imft,1,ISA_IMFTisaIMFT
+C0019168,C2709990,ISA,Hepatitis B Surface Antigens,Hepatitis B Virus Antigen,imft,imft,1,ISA_IMFTisaIMFT
+C0021009,C0456981,ISA,Immunoglobulin Fragments,Specific antigen,imft,imft,1,ISA_IMFTisaIMFT
+C0021403,C0042210,ISA,Influenza virus vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0023767,C0001551,ISA,Lipid A,Immunologic Adjuvants,imft,imft,1,ISA_IMFTisaIMFT
+C0025010,C0042210,ISA,Measles Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0032375,C0042210,ISA,Oral Poliovirus Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0032375,C0042211,ISA,Oral Poliovirus Vaccine,"Vaccines, Attenuated",imft,imft,1,ISA_IMFTisaIMFT
+C0032375,C0042742,ISA,Oral Poliovirus Vaccine,Viral Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0034496,C0042210,ISA,Rabies Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0037355,C0042210,ISA,Smallpox Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0040555,C0042210,ISA,Toxoids,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0042211,C0042210,ISA,"Vaccines, Attenuated",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0042212,C0042210,ISA,"Vaccines, Inactivated",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0042742,C0042210,ISA,Viral Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0054145,C0001551,ISA,Broncho-Vaxom,Immunologic Adjuvants,imft,imft,1,ISA_IMFTisaIMFT
+C0059586,C0004632,ISA,Escherichia coli Vaccines,Bacterial Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0071315,C0042210,ISA,Pneumovax,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0076765,C0003316,ISA,Tn antigen,Epitopes,imft,imft,1,ISA_IMFTisaIMFT
+C0078048,C0042210,ISA,Chickenpox Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0079600,C0003316,ISA,Immunodominant Epitopes,Epitopes,imft,imft,1,ISA_IMFTisaIMFT
+C0086413,C0042210,ISA,HIV Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0206255,C0042210,ISA,Malaria Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0282580,C0003316,ISA,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,1,ISA_IMFTisaIMFT
+C0282581,C0003316,ISA,"Epitopes, B-Lymphocyte",Epitopes,imft,imft,1,ISA_IMFTisaIMFT
+C0310663,C0042210,ISA,Animal disease vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0358314,C0042210,ISA,Pneumococcal vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0376613,C0042210,ISA,"Vaccines, DNA",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0379473,C0042212,ISA,Vaqta,"Vaccines, Inactivated",imft,imft,1,ISA_IMFTisaIMFT
+C0597420,C0042210,ISA,Salmonella Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0597641,C0042210,ISA,plasmid vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0675907,C0042210,ISA,AIDSVAX,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0700881,C0795623,ISA,Havrix,"Hepatitis A Vaccine, Inactivated",imft,imft,1,ISA_IMFTisaIMFT
+C0718003,C0032374,ISA,"Poliovirus Vaccine, Inactivated",Poliovirus Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0718003,C0042210,ISA,"Poliovirus Vaccine, Inactivated",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0720491,C0021403,ISA,fluvirin,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C0720492,C0021403,ISA,Fluzone,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C0720492,C0042210,ISA,Fluzone,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0724434,C0042210,ISA,YF-Vax,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0732248,C0042210,ISA,Priorix,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0770689,C0025010,ISA,"MEASLES VIRUS VACCINE,LIVE ATTENUATED",Measles Vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C0770694,C0021403,ISA,trivalent influenza vaccine,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C0770694,C0042210,ISA,trivalent influenza vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0770698,C0042210,ISA,"Poliovirus vaccine, live",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0887892,C0042210,ISA,"Vaccines, Subunit",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0887894,C0042210,ISA,Respiratory Syncytial Virus Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0887902,C0042210,ISA,"Vaccines, Edible",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0887908,C0042210,ISA,"Vaccines, Marker",Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C0947642,C0305065,ISA,Pneumovax 23,Polyvalent pneumococcal vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C1178562,C0383429,ISA,Campath 1H,alemtuzumab,imft,imft,1,ISA_IMFTisaIMFT
+C1259157,C0021403,ISA,Inflexal V,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C1259157,C0042210,ISA,Inflexal V,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1311943,C0021403,ISA,FluMist,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C1311943,C0042210,ISA,FluMist,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1311943,C0770694,ISA,FluMist,trivalent influenza vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C1312593,C0021403,ISA,vaxigrip,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C1514218,C0042210,ISA,Polyvalent Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1516086,C0042210,ISA,Attenuated Live Virus Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1516086,C0042211,ISA,Attenuated Live Virus Vaccine,"Vaccines, Attenuated",imft,imft,1,ISA_IMFTisaIMFT
+C1528012,C0042210,ISA,Rotarix,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1528012,C0042211,ISA,Rotarix,"Vaccines, Attenuated",imft,imft,1,ISA_IMFTisaIMFT
+C1528013,C0042210,ISA,RotaTeq,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1541801,C0042210,ISA,TroVax,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1548477,C0042210,ISA,Dengue fever vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1552907,C0042210,ISA,Adenovirus Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1570213,C0042210,ISA,DermaVir,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1720919,C0042210,ISA,Zostavax,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1721787,C0042210,ISA,Gardasil,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1721789,C0042210,ISA,Cervarix,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1872587,C0042210,ISA,Fendrix,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C1883036,C0456981,ISA,Single-Chain Antibodies,Specific antigen,imft,imft,1,ISA_IMFTisaIMFT
+C2003457,C0042210,ISA,MenACWY,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C2240392,C0042210,ISA,Hepatitis B Vaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C2347170,C0001551,ISA,Mixed Bacteria Vaccine,Immunologic Adjuvants,imft,imft,1,ISA_IMFTisaIMFT
+C2350237,C0042210,ISA,Autovaccines,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C2353376,C0042210,ISA,FluBlok,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C2701384,C0002092,ISA,German cockroach allergenic extract,Allergens,imft,imft,1,ISA_IMFTisaIMFT
+C2825347,C0021054,ISA,"Immunoglobulin A, Human",Immunologic Factors,imft,imft,1,ISA_IMFTisaIMFT
+C2825347,C0456981,ISA,"Immunoglobulin A, Human",Specific antigen,imft,imft,1,ISA_IMFTisaIMFT
+C2933874,C0041305,ISA,MVA 85A,Tuberculosis Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C2981837,C0021403,ISA,pandemrix,Influenza virus vaccine,imft,imft,1,ISA_IMFTisaIMFT
+C2981837,C0042210,ISA,pandemrix,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3161957,C0042210,ISA,INFLUENZA strains,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3192355,C2973446,ISA,Adcetris,brentuximab vedotin,imft,imft,1,ISA_IMFTisaIMFT
+C3272757,C0042210,ISA,Live Attenuated Influenza Vaccine,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3501548,C0042210,ISA,AIDSVAX B-E,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3502654,C0042210,ISA,pediacel,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3529763,C0042210,ISA,hecolin,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C3853911,C0042210,ISA,Bexsero,Vaccines,imft,imft,1,ISA_IMFTisaIMFT
+C4276833,C0001551,ISA,glucopyranosyl lipid-A,Immunologic Adjuvants,imft,imft,1,ISA_IMFTisaIMFT

@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009450,C0020964,PRECEDES,Communicable Diseases,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0010246,C0678662,PRECEDES,Coxsackievirus Infections,regulatory loop,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0035235,C0020964,PRECEDES,Respiratory Syncytial Virus Infections,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0035235,C0301944,PRECEDES,Respiratory Syncytial Virus Infections,Graft acceptance,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042749,C1328821,PRECEDES,Viremia,tissue tropism,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0020964,PRECEDES,Virus Diseases,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0149784,PRECEDES,Virus Diseases,biological adaptation to stress,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C0678662,PRECEDES,Virus Diseases,regulatory loop,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0042769,C1371848,PRECEDES,Virus Diseases,Decreased Protein Synthesis [PE],dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0155626,C0243144,PRECEDES,Acute myocardial infarction,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0242723,C0005775,PRECEDES,Parasitemia,Blood Circulation,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0242994,C0751982,PRECEDES,Hantavirus Infections,Neutrophil Infiltration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0020964,PRECEDES,Acute infectious disease,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0275518,C0301944,PRECEDES,Acute infectious disease,Graft acceptance,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0442886,C0020964,PRECEDES,Secondary Infections,Immunity,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C0442886,C0243144,PRECEDES,Secondary Infections,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C1175175,C0149784,PRECEDES,Severe Acute Respiratory Syndrome,biological adaptation to stress,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C1175175,C0751982,PRECEDES,Severe Acute Respiratory Syndrome,Neutrophil Infiltration,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C1258039,C1512827,PRECEDES,Henipavirus Infections,Interferon Signaling Process,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C2076600,C0018767,PRECEDES,Influenza due to Influenza A virus subtype H1N1,Hearing,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF
+C3887949,C0243144,PRECEDES,Apparent mineralocorticoid excess,Uptake,dsyn,phsf,1,PRECEDES_DSYNprcdPHSF

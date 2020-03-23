@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0521982,C0006826,PREDISPOSES,Response to treatment,Malignant Neoplasms,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C1511876,C0153381,PREDISPOSES,Diagnostic Factor,Malignant neoplasm of mouth,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C0007621,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Neoplastic Cell Transformation,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C2926606,C2239176,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Liver carcinoma,clna,neop,1,PREDISPOSES_CLNApredNEOP
+C3640049,C0027627,PREDISPOSES,Appropriate Treatment,Neoplasm Metastasis,clna,neop,1,PREDISPOSES_CLNApredNEOP

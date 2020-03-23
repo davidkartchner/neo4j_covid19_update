@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007637,C0596901,NEG_PART_OF,Inclusion Bodies,Membrane,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0010834,C0024369,NEG_PART_OF,Cytoplasm,Lysosomes,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0010834,C0029219,NEG_PART_OF,Cytoplasm,Organelles,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0035553,C0230789,NEG_PART_OF,Ribosomes,Smooth Endoplasmic Reticulum,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C0026237,NEG_PART_OF,Virion,Mitochondria,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C0029219,NEG_PART_OF,Virion,Organelles,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C0035553,NEG_PART_OF,Virion,Ribosomes,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C0596901,NEG_PART_OF,Virion,Membrane,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C3156569,NEG_PART_OF,Virion,viral assembly compartment,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0042760,C3887595,NEG_PART_OF,Virion,Autophagosome,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0333785,C0230770,NEG_PART_OF,Virus-like particles,"Endoplasmic reticulum, membrane",celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0596901,C0010834,NEG_PART_OF,Membrane,Cytoplasm,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C0596901,C0010837,NEG_PART_OF,Membrane,Cytoplasmic Granules,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1166795,C3548427,NEG_PART_OF,Spindle,mitotic spindle pole,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1166848,C0887883,NEG_PART_OF,late endosome,Early endosome,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1167331,C1325596,NEG_PART_OF,outer membrane,P-body,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1325596,C1166607,NEG_PART_OF,P-body,cellular_component,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1325691,C0024369,NEG_PART_OF,HOPS complex,Lysosomes,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1511625,C0007603,NEG_PART_OF,Cytoplasmic Domain,Plasma membrane,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1511625,C0596901,NEG_PART_OF,Cytoplasmic Domain,Membrane,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1511625,C3538559,NEG_PART_OF,Cytoplasmic Domain,Mitochondrion-associated adherens complex location,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C1622204,C0042760,NEG_PART_OF,envelope,Virion,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C3820746,C0029219,NEG_PART_OF,viral factory,Organelles,celc,celc,1,NEG_PART_OF_CELCnprtfCELC
+C3887595,C1167317,NEG_PART_OF,Autophagosome,vesicle membrane,celc,celc,1,NEG_PART_OF_CELCnprtfCELC

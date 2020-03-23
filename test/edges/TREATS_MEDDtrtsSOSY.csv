@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0024861,C0010200,TREATS,Masks,Coughing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0024861,C0026837,TREATS,Masks,Muscle Rigidity,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0010200,TREATS,Placebos,Coughing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0011991,TREATS,Placebos,Diarrhea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0043144,TREATS,Placebos,Wheezing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0242429,TREATS,Placebos,Sore Throat,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0392171,TREATS,Placebos,Influenza-like symptoms,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0032042,C0401149,TREATS,Placebos,Chronic constipation,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0175663,C0036572,TREATS,Sounds device,Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0178987,C0043144,TREATS,Artificial Airways,Wheezing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179574,C0010520,TREATS,Nasal Cannula,Cyanosis,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179574,C0231218,TREATS,Nasal Cannula,Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179768,C0231218,TREATS,Peripheral intravenous catheter,Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179958,C0037090,TREATS,Cleaning Device,"Signs and Symptoms, Respiratory",medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0179958,C1260922,TREATS,Cleaning Device,Abnormal breathing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0180309,C0751494,TREATS,Automated External Defibrillators,Convulsive Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0180459,C0036572,TREATS,Disks (device),Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0180883,C0036572,TREATS,Fittings/Adapters (device),Seizures,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0493436,C0011991,TREATS,CAMPYLOBACTER SPP.,Diarrhea,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0972401,C0010200,TREATS,Boards (medical device),Coughing,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0972401,C0010201,TREATS,Boards (medical device),Chronic cough,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C0972401,C0231218,TREATS,Boards (medical device),Malaise,medd,sosy,1,TREATS_MEDDtrtsSOSY
+C1139930,C0038187,TREATS,Device Plate,Starvation,medd,sosy,1,TREATS_MEDDtrtsSOSY

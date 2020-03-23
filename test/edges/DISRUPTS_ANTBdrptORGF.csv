@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002679,C0018270,DISRUPTS,Amphotericin B,Growth,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0003232,C0011065,DISRUPTS,Antibiotics,Cessation of life,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0003232,C0018270,DISRUPTS,Antibiotics,Growth,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0003232,C0025519,DISRUPTS,Antibiotics,Metabolism,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0003240,C1510470,DISRUPTS,Macrolide Antibiotics,Motility,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0008947,C0018270,DISRUPTS,Clindamycin,Growth,antb,orgf,2,DISRUPTS_ANTBdrptORGF
+C0010572,C0042774,DISRUPTS,Cycloheximide,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0013089,C0018270,DISRUPTS,Doxorubicin,Growth,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0013089,C0042774,DISRUPTS,Doxorubicin,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0013090,C0042774,DISRUPTS,Doxycycline,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0026187,C0042774,DISRUPTS,Minocycline,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0026408,C1160185,DISRUPTS,Monensin,transduction,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0039644,C0042774,DISRUPTS,Tetracycline,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0041385,C0019868,DISRUPTS,Tunicamycin,Homeostasis,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0052918,C0699900,DISRUPTS,bafilomycin A,Catabolism,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0054036,C0042774,DISRUPTS,Brefeldin A,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0055856,C0004614,DISRUPTS,Clarithromycin,Bacterial Adhesion,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0055856,C0042774,DISRUPTS,Clarithromycin,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0066005,C0018270,DISRUPTS,meropenem,Growth,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0279516,C0011065,DISRUPTS,Anti-Bacterial Agents,Cessation of life,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0279516,C0018270,DISRUPTS,Anti-Bacterial Agents,Growth,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0310367,C1855163,DISRUPTS,Today,METHANE PRODUCTION,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0597874,C0042774,DISRUPTS,Cecropins,Virus Replication,antb,orgf,1,DISRUPTS_ANTBdrptORGF
+C0614427,C1155328,DISRUPTS,NS 5,Antiviral Response,antb,orgf,1,DISRUPTS_ANTBdrptORGF

@@ -1,0 +1,125 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0005615,AFFECTS,Plasma membrane,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0007603,C0011065,AFFECTS,Plasma membrane,Cessation of life,celc,orgf,1,AFFECTS_CELCafctORGF
+C0007603,C0026649,AFFECTS,Plasma membrane,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0008778,C0042789,AFFECTS,Cilia,Vision,celc,orgf,1,AFFECTS_CELCafctORGF
+C0010834,C0005615,AFFECTS,Cytoplasm,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0010834,C0042774,AFFECTS,Cytoplasm,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0010834,C0699900,AFFECTS,Cytoplasm,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0010853,C0026649,AFFECTS,Cytoskeleton,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0014239,C0014653,AFFECTS,Endoplasmic Reticulum,Equilibrium,celc,orgf,1,AFFECTS_CELCafctORGF
+C0014239,C0026649,AFFECTS,Endoplasmic Reticulum,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0014239,C0301872,AFFECTS,Endoplasmic Reticulum,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0024369,C0699900,AFFECTS,Lysosomes,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0025979,C0699900,AFFECTS,Microfilaments,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026046,C0026649,AFFECTS,Microtubules,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026046,C0678723,AFFECTS,Microtubules,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026046,C0699900,AFFECTS,Microtubules,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026237,C0005486,AFFECTS,Mitochondria,Bioenergetics,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026237,C0042774,AFFECTS,Mitochondria,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026237,C1155328,AFFECTS,Mitochondria,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0026237,C1749719,AFFECTS,Mitochondria,Adaptive Immune Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0027747,C1749719,AFFECTS,Nerve Endings,Adaptive Immune Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0029219,C0025519,AFFECTS,Organelles,Metabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0029219,C0026559,AFFECTS,Organelles,Morphogenesis,celc,orgf,1,AFFECTS_CELCafctORGF
+C0029219,C0301872,AFFECTS,Organelles,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0031921,C0004614,AFFECTS,Bacterial Fimbria,Bacterial Adhesion,celc,orgf,1,AFFECTS_CELCafctORGF
+C0035553,C0005615,AFFECTS,Ribosomes,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0035553,C0025519,AFFECTS,Ribosomes,Metabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0035553,C0026649,AFFECTS,Ribosomes,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0035553,C0042774,AFFECTS,Ribosomes,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0036867,C0699900,AFFECTS,Sex Chromatin,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C0000934,AFFECTS,Virion,Acclimatization,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C0018270,AFFECTS,Virion,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C0042774,AFFECTS,Virion,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C0699900,AFFECTS,Virion,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C1155328,AFFECTS,Virion,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0042760,C1160185,AFFECTS,Virion,transduction,celc,orgf,1,AFFECTS_CELCafctORGF
+C0162771,C0025519,AFFECTS,Spliceosomes,Metabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0175996,C0000934,AFFECTS,Protoplasm,Acclimatization,celc,orgf,1,AFFECTS_CELCafctORGF
+C0175996,C0005615,AFFECTS,Protoplasm,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0175996,C0042774,AFFECTS,Protoplasm,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0175996,C1155328,AFFECTS,Protoplasm,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230653,C0301872,AFFECTS,Caveolae,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230653,C1155328,AFFECTS,Caveolae,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230767,C0005615,AFFECTS,Golgi vesicle,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230770,C0042774,AFFECTS,"Endoplasmic reticulum, membrane",Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230770,C0301872,AFFECTS,"Endoplasmic reticulum, membrane",Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230770,C0678723,AFFECTS,"Endoplasmic reticulum, membrane",Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230822,C0012238,AFFECTS,Autolysosome,Digestion,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230822,C0042774,AFFECTS,Autolysosome,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230822,C0699900,AFFECTS,Autolysosome,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C0230825,C0005615,AFFECTS,Multivesicular body,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0333774,C0042774,AFFECTS,Cytoplasmic bodies,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0333785,C0005615,AFFECTS,Virus-like particles,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0333785,C0301872,AFFECTS,Virus-like particles,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596119,C0014653,AFFECTS,apical membrane,Equilibrium,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596901,C0012238,AFFECTS,Membrane,Digestion,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596901,C0023796,AFFECTS,Membrane,Lipolysis,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596901,C0597252,AFFECTS,Membrane,Plant Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596901,C0678723,AFFECTS,Membrane,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C0596901,C1327413,AFFECTS,Membrane,cytokine production,celc,orgf,1,AFFECTS_CELCafctORGF
+C0682537,C0042774,AFFECTS,Nucleoplasm,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C0699040,C0005615,AFFECTS,Cell surface,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0699040,C0026649,AFFECTS,Cell surface,Movement,celc,orgf,1,AFFECTS_CELCafctORGF
+C0805525,C0678889,AFFECTS,Cell Fraction,Immunoregulation,celc,orgf,1,AFFECTS_CELCafctORGF
+C0887885,C0005615,AFFECTS,Clathrin-Coated Vesicles,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C0887885,C0678723,AFFECTS,Clathrin-Coated Vesicles,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C0887885,C0699900,AFFECTS,Clathrin-Coated Vesicles,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C1166607,C1155328,AFFECTS,cellular_component,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1166781,C0678723,AFFECTS,Microtubule cytoskeleton,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C1166848,C0678723,AFFECTS,late endosome,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167059,C0678723,AFFECTS,Aggresome,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167117,C0042774,AFFECTS,replication fork,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167128,C0018270,AFFECTS,transcription factor complex,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167250,C0005615,AFFECTS,lipid raft,Birth,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167250,C3159140,AFFECTS,lipid raft,interferon production,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167298,C0025519,AFFECTS,ribonucleoprotein complex location,Metabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167313,C0678723,AFFECTS,ubiquitin ligase complex,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167322,C0678209,AFFECTS,integral to membrane,Adaptive Immunity,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167398,C0042774,AFFECTS,Viral envelope,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167408,C0042774,AFFECTS,immunoglobulin complex,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167408,C1155328,AFFECTS,immunoglobulin complex,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167519,C0301872,AFFECTS,viral capsid,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1167519,C1752856,AFFECTS,viral capsid,Host-Pathogen Interactions,celc,orgf,1,AFFECTS_CELCafctORGF
+C1179989,C0001811,AFFECTS,Axon Initial Segment,Aging,celc,orgf,1,AFFECTS_CELCafctORGF
+C1268456,C0042774,AFFECTS,Viral Components,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C1268456,C0301872,AFFECTS,Viral Components,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1268456,C1654934,AFFECTS,Viral Components,Immune Evasion,celc,orgf,1,AFFECTS_CELCafctORGF
+C1276877,C0301872,AFFECTS,Specialized cell structure,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1325696,C0699900,AFFECTS,apolipoprotein B mRNA editing enzyme complex,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C1325724,C0018270,AFFECTS,PRC1 complex location,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C1325733,C1155328,AFFECTS,RNA polymerase complex,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1325834,C1160185,AFFECTS,viral glycoprotein,transduction,celc,orgf,1,AFFECTS_CELCafctORGF
+C1325834,C1654934,AFFECTS,viral glycoprotein,Immune Evasion,celc,orgf,1,AFFECTS_CELCafctORGF
+C1383501,C0000934,AFFECTS,Cytoplasmic matrix,Acclimatization,celc,orgf,1,AFFECTS_CELCafctORGF
+C1383501,C0301872,AFFECTS,Cytoplasmic matrix,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1511625,C0678209,AFFECTS,Cytoplasmic Domain,Adaptive Immunity,celc,orgf,1,AFFECTS_CELCafctORGF
+C1511625,C0678723,AFFECTS,Cytoplasmic Domain,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C1523873,C0000934,AFFECTS,receptor complex,Acclimatization,celc,orgf,1,AFFECTS_CELCafctORGF
+C1523873,C0301872,AFFECTS,receptor complex,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1749467,C0678889,AFFECTS,soluble,Immunoregulation,celc,orgf,1,AFFECTS_CELCafctORGF
+C1749467,C1749719,AFFECTS,soluble,Adaptive Immune Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C0004614,AFFECTS,Host Cell,Bacterial Adhesion,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C0011065,AFFECTS,Host Cell,Cessation of life,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C0018270,AFFECTS,Host Cell,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C0042774,AFFECTS,Host Cell,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C0301872,AFFECTS,Host Cell,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C1155328,AFFECTS,Host Cell,Antiviral Response,celc,orgf,1,AFFECTS_CELCafctORGF
+C1819995,C1819430,AFFECTS,Host Cell,type I interferon production,celc,orgf,1,AFFECTS_CELCafctORGF
+C2247585,C0678723,AFFECTS,isolation membrane,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C2350307,C0018270,AFFECTS,Cell-Derived Microparticles,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C2350307,C1654934,AFFECTS,Cell-Derived Microparticles,Immune Evasion,celc,orgf,1,AFFECTS_CELCafctORGF
+C2350332,C0018270,AFFECTS,Exosomes,Growth,celc,orgf,1,AFFECTS_CELCafctORGF
+C2350332,C0301872,AFFECTS,Exosomes,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C2350332,C0678209,AFFECTS,Exosomes,Adaptive Immunity,celc,orgf,1,AFFECTS_CELCafctORGF
+C2754943,C0301872,AFFECTS,IgG antibody,Immune response,celc,orgf,1,AFFECTS_CELCafctORGF
+C2754992,C0678210,AFFECTS,secretory IgA immunoglobulin complex,"Passive immunity, function",celc,orgf,1,AFFECTS_CELCafctORGF
+C3152111,C0042774,AFFECTS,TOR complex 1,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C3269134,C0699900,AFFECTS,Apoptotic Bodies,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C3548406,C0042774,AFFECTS,terminal loop,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C3549194,C0014653,AFFECTS,viral membrane,Equilibrium,celc,orgf,1,AFFECTS_CELCafctORGF
+C3821310,C0678723,AFFECTS,membrane region,Biologic Development,celc,orgf,1,AFFECTS_CELCafctORGF
+C3887595,C0042774,AFFECTS,Autophagosome,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF
+C3887595,C0699900,AFFECTS,Autophagosome,Catabolism,celc,orgf,1,AFFECTS_CELCafctORGF
+C3893464,C0042774,AFFECTS,U2AF,Virus Replication,celc,orgf,1,AFFECTS_CELCafctORGF

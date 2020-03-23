@@ -1,0 +1,102 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0018681,TREATS,"Administration, Intranasal",Headache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0001563,C0030552,TREATS,"Administration, Oral",Paresis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0001563,C0033774,TREATS,"Administration, Oral",Pruritus,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0030193,TREATS,Pain management,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002766,C0085631,TREATS,Pain management,Agitation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0002903,C0030193,TREATS,Anesthesia procedures,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0005961,C0235031,TREATS,Bone Marrow Transplantation,Neurologic Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0010055,C0476481,TREATS,Coronary Artery Bypass Surgery,Chronic intractable pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0013969,C0231218,TREATS,Emergency treatment,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0015252,C0751378,TREATS,removal technique,Neurologic Signs,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0015357,C0231835,TREATS,Extracorporeal Membrane Oxygenation,Tachypnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0011991,TREATS,"Medicine, Folk",Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0018681,TREATS,"Medicine, Folk",Headache,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0016419,C0027497,TREATS,"Medicine, Folk",Nausea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0019014,C0020440,TREATS,Hemofiltration,Hypercapnia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021083,C0231218,TREATS,Immunotherapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021083,C0740903,TREATS,Immunotherapy,allergic symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021925,C0020440,TREATS,Intubation,Hypercapnia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0030547,C0003123,TREATS,Parenteral Nutrition,Anorexia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0033972,C0740903,TREATS,"Psychotherapy, Multiple",allergic symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034386,C0231519,TREATS,Quarantine,Gegenhalten,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0034997,C0030193,TREATS,Rehydration,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040861,C0231218,TREATS,Triage,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0040861,C1282322,TREATS,Triage,Acute pelvic pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C0010200,TREATS,Vaccination,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C0011991,TREATS,Vaccination,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C0231519,TREATS,Vaccination,Gegenhalten,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0042196,C1443924,TREATS,Vaccination,Severe diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0085405,C0020440,TREATS,Salvage Therapy,Hypercapnia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0086153,C0239181,TREATS,Dietary Modification,Intermittent diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0086904,C0011991,TREATS,Oral rehydration procedure,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0150126,C0036572,TREATS,Airway Management,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0036572,TREATS,Extraction,Seizures,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0185115,C0241235,TREATS,Extraction,Purulent sputum,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C0011991,TREATS,Prophylactic treatment,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199176,C1397014,TREATS,Prophylactic treatment,Imbalance,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C0020440,TREATS,Mechanical ventilation,Hypercapnia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C0231218,TREATS,Mechanical ventilation,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C0476273,TREATS,Mechanical ventilation,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199470,C1260922,TREATS,Mechanical ventilation,Abnormal breathing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199779,C0011991,TREATS,Administration of antibiotic,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199779,C0043144,TREATS,Administration of antibiotic,Wheezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0199779,C0392171,TREATS,Administration of antibiotic,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0010200,TREATS,Isolation procedure,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0037090,TREATS,Isolation procedure,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0231218,TREATS,Isolation procedure,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0204727,C0392171,TREATS,Isolation procedure,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0206058,C0037090,TREATS,Elective Surgical Procedures,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0242687,C1397014,TREATS,Early Intervention (Education),Imbalance,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0280274,C0231218,TREATS,Antiviral Therapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0011991,TREATS,Antibiotic therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0231218,TREATS,Antibiotic therapy,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0338237,C0392171,TREATS,Antibiotic therapy,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0344211,C0158369,TREATS,Supportive care,Swelling of limb,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0394664,C0030193,TREATS,Acupuncture procedure,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0394664,C0520904,TREATS,Acupuncture procedure,Postoperative Nausea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0418981,C0232598,TREATS,Medical therapy,Chronic vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0418981,C0920703,TREATS,Medical therapy,gastrointestinal sign,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0439775,C0235081,TREATS,Elevation procedure,"Tremor, Limb",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0451615,C0234233,TREATS,Pain relief,Sore to touch,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0459914,C0000737,TREATS,Conservative Treatment,Abdominal Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0459914,C0030193,TREATS,Conservative Treatment,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0472699,C0749874,TREATS,Hemopoietic stem cell transplant,upper respiratory symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0474166,C0392171,TREATS,Medical counseling,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0030193,TREATS,Operative Surgical Procedures,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0543467,C0747556,TREATS,Operative Surgical Procedures,Recurrent pharyngitis,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0678812,C0011991,TREATS,systemic administration,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0679624,C0011991,TREATS,medical treatment method,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0679624,C0042963,TREATS,medical treatment method,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0695434,C0231218,TREATS,oscillations,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0700325,C0392171,TREATS,Patient observation,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0700325,C1384666,TREATS,Patient observation,hearing impairment,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0741847,C0038187,TREATS,Bypass,Starvation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0920298,C0497406,TREATS,Weight maintenance regimen,Overweight,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0948575,C0028961,TREATS,Diuretic therapy,Oliguria,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1171177,C0277787,TREATS,Adult care,Social stigmata,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1273412,C0009806,TREATS,Chinese herbal medicine,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1274136,C0010200,TREATS,Symptom control (regime/therapy),Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1299597,C0011991,TREATS,Empirical therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1455871,C0020440,TREATS,Non-invasive positive pressure (NIPPV),Hypercapnia,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0010200,TREATS,Detection,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0010201,TREATS,Detection,Chronic cough,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0011991,TREATS,Detection,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C1511790,C0037090,TREATS,Detection,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0037383,TREATS,Detection,Sneezing,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0042963,TREATS,Detection,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0231218,TREATS,Detection,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1511790,C0392171,TREATS,Detection,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1515884,C3714552,TREATS,Acupuncture and Oriental Medicine,Weakness,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1527077,C0231617,TREATS,Peripheral Electronic Nerve Stimulation,Catch - Finding of sensory dimension of pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1704532,C0476273,TREATS,Active Method,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1868981,C0476273,TREATS,Invasive mechanical ventilation NOS,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0013404,TREATS,Noninvasive Ventilation,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0015672,TREATS,Noninvasive Ventilation,Fatigue,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C1997883,C0231929,TREATS,Noninvasive Ventilation,Acute hypoventilation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2242628,C0009806,TREATS,Fecal Microbiota Transplantation,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2242628,C0011991,TREATS,Fecal Microbiota Transplantation,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2242628,C0042963,TREATS,Fecal Microbiota Transplantation,Vomiting,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2349751,C0231218,TREATS,Invasive positive pressure ventilation,Malaise,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2945704,C0009806,TREATS,Conventional Treatment,Constipation,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C3665674,C0476273,TREATS,Warburg Therapy,Respiratory distress,topp,sosy,1,TREATS_TOPPtrtsSOSY

@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017261,C0887912,PRECEDES,Gene Duplication,"Gene Transfer, Horizontal",genf,genf,1,PRECEDES_GENFprcdGENF
+C0017261,C1511695,PRECEDES,Gene Duplication,DNA Sequence Rearrangement,genf,genf,1,PRECEDES_GENFprcdGENF
+C0035380,C2610186,PRECEDES,Reverse Transcription,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C0678713,PRECEDES,"Transcription, Genetic",DNA template,genf,genf,1,PRECEDES_GENFprcdGENF
+C0040649,C1136031,PRECEDES,"Transcription, Genetic",RNA Interference,genf,genf,1,PRECEDES_GENFprcdGENF
+C1158729,C1519613,PRECEDES,mRNA maturation,Translation Initiation,genf,genf,1,PRECEDES_GENFprcdGENF
+C1158816,C1171362,PRECEDES,mRNA transcription,protein expression,genf,genf,1,PRECEDES_GENFprcdGENF
+C1519613,C0282572,PRECEDES,Translation Initiation,"Frameshifting, Ribosomal",genf,genf,1,PRECEDES_GENFprcdGENF
+C1819601,C2610186,PRECEDES,cytosine methylation,"nuclear mRNA cis splicing, via spliceosome",genf,genf,1,PRECEDES_GENFprcdGENF

@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011991,C0019993,CAUSES,Diarrhea,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0011991,C4489276,CAUSES,Diarrhea,Readmission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015672,C0150600,CAUSES,Fatigue,Advice,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0016204,C0030685,CAUSES,Flatulence,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037088,C0031809,CAUSES,Signs and Symptoms,Physical Examination,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037090,C0019993,CAUSES,"Signs and Symptoms, Respiratory",Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C0019993,CAUSES,Wheezing,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0231218,C1261322,CAUSES,Malaise,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0392171,C0009818,CAUSES,Influenza-like symptoms,Consultation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0392171,C0019993,CAUSES,Influenza-like symptoms,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0392674,C0026428,CAUSES,Exhaustion,"Monitoring, Immunologic",sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0476273,C0019993,CAUSES,Respiratory distress,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0494475,C0013961,CAUSES,Tonic - clonic seizures,Emergency medical service,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3258060,C0030685,CAUSES,Primary sign and symptom,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0009818,CAUSES,Weakness,Consultation,sosy,hlca,1,CAUSES_SOSYcausHLCA

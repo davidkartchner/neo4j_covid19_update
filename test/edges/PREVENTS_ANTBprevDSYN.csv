@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0004610,PREVENTS,Amoxicillin,Bacteremia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0002645,C0038358,PREVENTS,Amoxicillin,Gastric ulcer,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0002645,C0243026,PREVENTS,Amoxicillin,Sepsis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0004623,PREVENTS,Antibiotics,Bacterial Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0009443,PREVENTS,Antibiotics,Common Cold,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0010356,PREVENTS,Antibiotics,Cross Infection,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0018378,PREVENTS,Antibiotics,Guillain-Barre Syndrome,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0021400,PREVENTS,Antibiotics,Influenza,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0029118,PREVENTS,Antibiotics,Opportunistic Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0032285,PREVENTS,Antibiotics,Pneumonia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0035436,PREVENTS,Antibiotics,Rheumatic Fever,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0036690,PREVENTS,Antibiotics,Septicemia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0036981,PREVENTS,Antibiotics,Endotoxic shock,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0038362,PREVENTS,Antibiotics,Stomatitis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0038826,PREVENTS,Antibiotics,Superinfection,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0153252,PREVENTS,Antibiotics,Systemic candidiasis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0205721,PREVENTS,Antibiotics,"Infections, Hospital",antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0235840,PREVENTS,Antibiotics,Neonatal diarrhea,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0275518,PREVENTS,Antibiotics,Acute infectious disease,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003232,C0442886,PREVENTS,Antibiotics,Secondary Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0003240,C0729531,PREVENTS,Macrolide Antibiotics,Viral respiratory infection,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0013090,C0004610,PREVENTS,Doxycycline,Bacteremia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0026187,C0014038,PREVENTS,Minocycline,Encephalitis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0028741,C0026946,PREVENTS,Nystatin,Mycoses,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0030842,C0243026,PREVENTS,Penicillins,Sepsis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0030842,C0442886,PREVENTS,Penicillins,Secondary Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0035608,C0004610,PREVENTS,Rifampin,Bacteremia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0052796,C0032285,PREVENTS,Azithromycin,Pneumonia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0052796,C0037199,PREVENTS,Azithromycin,Sinusitis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0052796,C0149514,PREVENTS,Azithromycin,Acute bronchitis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0052796,C0275694,PREVENTS,Azithromycin,Corynebacterial pneumonia of foals,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0052796,C1301752,PREVENTS,Azithromycin,Respiratory morbidity,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0054036,C0206750,PREVENTS,Brefeldin A,Coronavirus Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0055856,C0032285,PREVENTS,Clarithromycin,Pneumonia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0055856,C0275694,PREVENTS,Clarithromycin,Corynebacterial pneumonia of foals,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0059374,C0004610,PREVENTS,enrofloxacin,Bacteremia,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0072980,C0679225,PREVENTS,Sirolimus,multiple pathologies,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0279516,C0007222,PREVENTS,Anti-Bacterial Agents,Cardiovascular Diseases,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0279516,C0011847,PREVENTS,Anti-Bacterial Agents,Diabetes,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0279516,C0524851,PREVENTS,Anti-Bacterial Agents,Neurodegenerative Disorders,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0310367,C0012546,PREVENTS,Today,Diphtheria,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0310367,C0025007,PREVENTS,Today,Measles,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0310367,C0039614,PREVENTS,Today,Tetanus,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C0310367,C0043167,PREVENTS,Today,Pertussis,antb,dsyn,1,PREVENTS_ANTBprevDSYN
+C1869686,C0442886,PREVENTS,cefovecin,Secondary Infections,antb,dsyn,1,PREVENTS_ANTBprevDSYN

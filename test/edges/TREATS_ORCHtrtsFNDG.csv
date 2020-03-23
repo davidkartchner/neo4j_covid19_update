@@ -1,0 +1,308 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000294,C1545588,TREATS,Mesna,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0000970,C0015967,TREATS,Acetaminophen,Fever,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0000970,C0332155,TREATS,Acetaminophen,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0000970,C0686750,TREATS,Acetaminophen,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0000970,C4534363,TREATS,Acetaminophen,At home,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0000975,C0562577,TREATS,Acetate,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001392,C0686750,TREATS,Adamantane,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001927,C0015967,TREATS,Albuterol,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001927,C0743630,TREATS,Albuterol,exacerbation acute,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001962,C0520819,TREATS,Ethanol,Decreased pressure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001962,C1320226,TREATS,Ethanol,Incubation period,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0001962,C4534506,TREATS,Ethanol,One reactive,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002062,C0020649,TREATS,Alkaloids,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002144,C1704258,TREATS,Allopurinol,Abnormality,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002144,C3671875,TREATS,Allopurinol,Xanthine urolithiasis,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0002335,C0679218,TREATS,Alprostadil,Resting state,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002335,C4321237,TREATS,Alprostadil,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002556,C3843197,TREATS,Aminoglycosides,One or Two Days,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0002641,C0424576,TREATS,Amodiaquine,Fit and well,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0003968,C0029053,TREATS,Ascorbic Acid,Decreased translucency,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0003968,C3844729,TREATS,Ascorbic Acid,Very Important,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0004057,C3272283,TREATS,Aspirin,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0004057,C3816499,TREATS,Aspirin,Pathogenic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0004234,C0522224,TREATS,Atracurium,Paralysed,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0005064,C0235195,TREATS,Benzodiazepines,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0005117,C0020557,TREATS,Berberine,Hypertriglyceridemia,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0005117,C0231299,TREATS,Berberine,Decreased stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0005117,C4021734,TREATS,Berberine,Abnormality of mitochondrial metabolism,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0006213,C4018909,TREATS,Bromazepam,Overdose,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0006405,C0020429,TREATS,Buprenorphine,Hyperalgesia,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0006644,C3840880,TREATS,Caffeine,Traffic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0006812,C3272903,TREATS,Camptothecin,Overall Response,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0006864,C0429826,TREATS,Cannabinoids,Dysfunctional voiding of urine,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0007043,C0728725,TREATS,Carbonyl Cyanide m-Chlorophenyl Hydrazone,Low pH,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0007044,C0728725,TREATS,Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone,Low pH,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0007158,C0020649,TREATS,Cardiac Glycosides,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0007404,C1545588,TREATS,Catechin,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008269,C0015967,TREATS,Chloroquine,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008269,C0332155,TREATS,Chloroquine,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008269,C1545588,TREATS,Chloroquine,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008269,C3540840,TREATS,Chloroquine,Sign or Symptom,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008269,C3842673,TREATS,Chloroquine,Day 6,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0008286,C0562577,TREATS,Chlorpromazine,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0009014,C0235195,TREATS,Clonidine,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0009262,C0332155,TREATS,Colchicine,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0010583,C1853237,TREATS,Cyclophosphamide,Isolated cases,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0011816,C0332155,TREATS,Dextromethorphan,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012265,C0020649,TREATS,Digoxin,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012265,C1444656,TREATS,Digoxin,Indicated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C0332155,TREATS,Dimethyl Sulfoxide,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C0332575,TREATS,Dimethyl Sulfoxide,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C0562577,TREATS,Dimethyl Sulfoxide,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C0750479,TREATS,Dimethyl Sulfoxide,blank,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C3842953,TREATS,Dimethyl Sulfoxide,> 24 hrs,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012403,C4288557,TREATS,Dimethyl Sulfoxide,One Activity Hour,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012586,C0015967,TREATS,Dipyrone,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012789,C0332155,TREATS,Dithiothreitol,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012963,C0007166,TREATS,Dobutamine,Low Cardiac Output,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0012963,C0428776,TREATS,Dobutamine,Cardiac index,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0013618,C0332575,TREATS,Edetic Acid,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0013618,C2825142,TREATS,Edetic Acid,Experimental Result,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016229,C0232201,TREATS,Flecainide,Sinus rhythm,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016277,C0332155,TREATS,Fluconazole,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016277,C0750484,TREATS,Fluconazole,Confirmation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016410,C3843260,TREATS,Folic Acid,Line 7,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016576,C3840916,TREATS,formic acid,4-5 days,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016860,C0015967,TREATS,Furosemide,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0016860,C0020649,TREATS,Furosemide,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0019215,C3843645,TREATS,HEPES,1-10,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0019453,C0033213,TREATS,Altretamine,Problem,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0020740,C0419384,TREATS,Ibuprofen,Baby male,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0020923,C0038999,TREATS,Imidazole,Swelling,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0021246,C0429706,TREATS,Indomethacin,Forced expiratory volume in 1 second finding,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022020,C0562577,TREATS,Ionomycin,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022209,C1883047,TREATS,isoniazid,Small Lesion,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022237,C1268722,TREATS,Isopropyl Alcohol,Mammographic difference in size (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022245,C3277906,TREATS,Isoproterenol,Cardiac dysfunction,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022245,C3278918,TREATS,Isoproterenol,Hypertrophic cardiomyocytes,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022614,C0425946,TREATS,Ketamine,Short menstrual periods,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0022614,C0428886,TREATS,Ketamine,Mean blood pressure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0023556,C0232805,TREATS,Levamisole,Normal renal function,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0023660,C0429826,TREATS,Lidocaine,Dysfunctional voiding of urine,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0023779,C0240341,TREATS,Lipids,Micrographia,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0023972,C1521726,TREATS,Lomustine,partial response,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0024730,C3279537,TREATS,Mannitol,Severe brain damage,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0025397,C1821461,TREATS,Merbromin,Close Relationship,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0025598,C0241863,TREATS,Metformin,diabetic,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0025677,C1842211,TREATS,Methotrexate,Severe course,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0025746,C4304283,TREATS,Methylene blue,Refractory hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0025872,C1444662,TREATS,Metronidazole,Discontinued,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0026056,C0235195,TREATS,Midazolam,Sedated state,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0026056,C1299448,TREATS,Midazolam,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0026549,C1969581,TREATS,Morphine,"Hypertension, moderate",orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0027375,C3842675,TREATS,Naphthalene,Day 3,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0028247,C0332155,TREATS,Nocodazole,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0028247,C0562577,TREATS,Nocodazole,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0029904,C0020649,TREATS,Ouabain,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0029904,C1444656,TREATS,Ouabain,Indicated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031412,C1148454,TREATS,Phenobarbital,seizure activity,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031448,C0562577,TREATS,Phentolamine,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031469,C0428886,TREATS,Phenylephrine,Mean blood pressure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031469,C3272283,TREATS,Phenylephrine,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031681,C0562577,TREATS,Phosphonoacetic Acid,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031716,C3890735,TREATS,Phosphorylcholine,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031923,C2004062,TREATS,Pilocarpine,History of previous events,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0032483,C4055264,TREATS,Polyethylene Glycols,Cellular Debris,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0032594,C0427184,TREATS,Polysaccharides,No incoordination,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0033487,C0235195,TREATS,Propofol,Sedated state,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0033497,C0342952,TREATS,Propranolol,Hypermetabolism,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034140,C1517940,TREATS,Purines,Long Term Survivorship,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034266,C0332575,TREATS,Pyridoxal Phosphate,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034392,C0241863,TREATS,Quercetin,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034392,C0424576,TREATS,Quercetin,Fit and well,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034392,C0750479,TREATS,Quercetin,blank,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034392,C1821718,TREATS,Quercetin,Diminished productivity,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0034665,C1854293,TREATS,Ranitidine,Iterations,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0035976,C0038435,TREATS,Rutin,Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0035976,C0424576,TREATS,Rutin,Fit and well,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0037513,C1299448,TREATS,heparin sodium,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0037556,C1299448,TREATS,Sodium Tetradecyl Sulfate,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0038317,C0015967,TREATS,Steroids,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0038633,C3540840,TREATS,Sucralfate,Sign or Symptom,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0038633,C3714738,TREATS,Sucralfate,Compliance,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0039286,C4230430,TREATS,Tamoxifen,Inflammatory lung disease,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0039294,C1545588,TREATS,Tannic Acid,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0041415,C4288557,TREATS,Tween 20,One Activity Hour,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0041420,C4035626,TREATS,Tweens,3 times,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0041420,C4288557,TREATS,Tweens,One Activity Hour,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0042291,C4018909,TREATS,Valproic Acid,Overdose,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0042523,C0232166,TREATS,Verapamil,Decreased cardiac function,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0042679,C1853237,TREATS,Vincristine,Isolated cases,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0042845,C0015663,TREATS,Vitamin B 12,Fasting,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0051696,C3714738,TREATS,Amlodipine,Compliance,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0051761,C4289767,TREATS,"amphotericin B, deoxycholate drug combination",Colonization,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052080,C0332155,TREATS,antineoplaston A10,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052080,C4036467,TREATS,antineoplaston A10,Gray-zone,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052593,C0235195,TREATS,atipamezole,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052919,C0332155,TREATS,bafilomycin A1,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052919,C0728725,TREATS,bafilomycin A1,Low pH,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052919,C4055506,TREATS,bafilomycin A1,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0052927,C4021734,TREATS,baicalein,Abnormality of mitochondrial metabolism,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0054258,C0558187,TREATS,Butocin,Lactation established (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0054838,C0239998,TREATS,caryophyllene,Recurrent infections,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0057142,C0332575,TREATS,DAPI,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0057142,C0562577,TREATS,DAPI,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0058882,C0332575,TREATS,E 64,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0059497,C0332155,TREATS,Equol,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0059872,C0240417,TREATS,etomoxir,Form of muscle,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0063034,C3840880,TREATS,huperzine B,Traffic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0064368,C0442760,TREATS,"O,O-diisopropyl-S-benzylthiophosphate",3/9,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0065656,C1545588,TREATS,manidipine,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0070066,C4288557,TREATS,paraform,One Activity Hour,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0071097,C0424295,TREATS,pioglitazone,Hyperactive behavior,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0071649,C0424320,TREATS,polyphenols,"2alpha,3beta,19alpha-trihydroxyurs-12-en",orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0071649,C1545588,TREATS,polyphenols,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0074176,C1545588,TREATS,schizandrin C,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0074732,C4321237,TREATS,sodium carbonate,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0075193,C0332155,TREATS,Staurosporine,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0075857,C0038435,TREATS,tauroursodeoxycholic acid,Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0077536,C0442726,TREATS,tylophorine,Detected (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0077536,C4055506,TREATS,tylophorine,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0078844,C3540840,TREATS,zonisamide,Sign or Symptom,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0079225,C2985294,TREATS,Dextran Sulfate Sodium,Fourth Stage of Labor,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0081876,C0020625,TREATS,pantoprazole,Hyponatremia,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0081876,C1545588,TREATS,pantoprazole,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0083136,C0332155,TREATS,kifunensine,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0085149,C1998319,TREATS,Tacrolimus,Functional capacity,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0085171,C0332155,TREATS,Aphidicolin,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0105185,C0231221,TREATS,BANS,Asymptomatic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0108939,C0424576,TREATS,cefquinome,Fit and well,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0114346,C3272281,TREATS,Dimesna,American College of Cardiology/American Heart Association Lesion Complexity Score A,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0126174,C2712122,TREATS,Losartan,Normal blood pressure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0126174,C3890735,TREATS,Losartan,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0142785,C1860088,TREATS,Sodium Acetate,Mild metabolic acidosis,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0142812,C3840916,TREATS,Sodium Butyrate,4-5 days,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0142874,C1860088,TREATS,Sodium Lactate,Mild metabolic acidosis,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0144576,C3273930,TREATS,Paclitaxel,Tumor Mass,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0145745,C0015967,TREATS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0145745,C0277797,TREATS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Apyrexial,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0145745,C3840880,TREATS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Traffic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0145745,C4055506,TREATS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0146177,C0562577,TREATS,5-(tetradecyloxy)-2-furancarboxylic acid,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0162969,C0038435,TREATS,Chitosan,Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0165032,C0332155,TREATS,imiquimod,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0165032,C4288557,TREATS,imiquimod,One Activity Hour,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0178638,C0015663,TREATS,Folate,Fasting,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0216660,C0332155,TREATS,Zanamivir,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0216660,C0686750,TREATS,Zanamivir,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0216660,C1262477,TREATS,Zanamivir,Weight decreased,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0216660,C4014818,TREATS,Zanamivir,"Respiratory insufficiency, severe",orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0242209,C0332155,TREATS,Sugars,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0246415,C0332155,TREATS,docetaxel,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0246904,C3272283,TREATS,Levosimendan,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0246904,C3277906,TREATS,Levosimendan,Cardiac dysfunction,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0248719,C0020649,TREATS,telmisartan,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0249458,C0338656,TREATS,valacyclovir,Impaired cognition,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0251991,C0332155,TREATS,LY 294002,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0251991,C1844596,TREATS,LY 294002,Spheroids,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0254211,C0562577,TREATS,arbidol,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C0015967,TREATS,Macrolides,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C0429706,TREATS,Macrolides,Forced expiratory volume in 1 second finding,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C0581126,TREATS,Macrolides,Severe asthma,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C1299586,TREATS,Macrolides,Has difficulty doing (qualifier value),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C1518681,TREATS,Macrolides,Outcome of Therapy,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C3278799,TREATS,Macrolides,Severe chronic lung disease,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0282563,C3640841,TREATS,Macrolides,Clinical Failure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0294540,C3842085,TREATS,"N-((2-(hydroxyaminocarbonyl)methyl)-4-methylpentanoyl)-3-(2'-naphthyl)alanylalanine, 2-aminoethylamide",7 mm,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0359916,C0424320,TREATS,Phenolics,"2alpha,3beta,19alpha-trihydroxyurs-12-en",orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0377265,C1148454,TREATS,Levetiracetam,seizure activity,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0377336,C0517226,TREATS,dan-shen root extract,Physical Well-being,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0380393,C3148987,TREATS,ziprasidone,Pharyngeal dystonia,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0388088,C3842672,TREATS,FTY-720,Day 7,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0388088,C4055506,TREATS,FTY-720,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0525005,C0558141,TREATS,Nelfinavir,Transsexual (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0525129,C0015663,TREATS,"WY 14,643",Fasting,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0536495,C0015967,TREATS,moxifloxacin,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0538927,C0332155,TREATS,celecoxib,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0592018,C0020649,TREATS,prowess,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0595726,C0746619,TREATS,Leukotriene Antagonists,monoclonal,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0663099,C1545588,TREATS,cariporide,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0663645,C4055506,TREATS,omapatrilat,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0667301,C4321237,TREATS,Y 27632,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0674432,C0332575,TREATS,lopinavir,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0699142,C0015967,TREATS,Tylenol,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0717550,C2712122,TREATS,candesartan,Normal blood pressure,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0718133,C0600140,TREATS,a & d,Does run (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0721062,C1861874,TREATS,InFed,Severe atopic dermatitis,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0722884,C0429706,TREATS,Provocholine,Forced expiratory volume in 1 second finding,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0722978,C3272283,TREATS,RMS,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0755562,C3842953,TREATS,U 0126,> 24 hrs,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0762662,C4289270,TREATS,rofecoxib,Five to Seven Days,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0766108,C4013784,TREATS,clevidipine,"Hypertension, severe",orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0767382,C0562577,TREATS,SC 236,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0772257,C0338656,TREATS,fruit extracts,Impaired cognition,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0874161,C0015967,TREATS,Oseltamivir,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0874161,C0701159,TREATS,Oseltamivir,Patient in hospital,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0874161,C0750479,TREATS,Oseltamivir,blank,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0874161,C1836348,TREATS,Oseltamivir,Severe disorder,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0875962,C0033213,TREATS,Anti-Gas,Problem,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0883242,C1842211,TREATS,MYCOPHENOLATE,Severe course,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0908957,C0038435,TREATS,4-PBA,Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0917748,C0015967,TREATS,Gabexate Methanesulfonate,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0919289,C0579086,TREATS,Proanthocyanidins,Bowel problem,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0939237,C1848676,TREATS,lopinavir / Ritonavir,Normal liver function,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0949665,C0085393,TREATS,Fluoroquinolones,Immunocompromised Host,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0949665,C0743630,TREATS,Fluoroquinolones,exacerbation acute,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0949665,C1998827,TREATS,Fluoroquinolones,Respiratory Status,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0964590,C0562577,TREATS,pateamine A,Mocking,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0965393,C0686750,TREATS,VP 14637,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0971524,C1545588,TREATS,zoniporide,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1122261,C0332155,TREATS,BRACO-19,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1122962,C4055506,TREATS,gefitinib,Accumulation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1176309,C3842676,TREATS,bortezomib,Day 2,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1312124,C1545588,TREATS,bicyclol,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1455147,C4321237,TREATS,dasatinib,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1528571,C0442726,TREATS,IMD 0354,Detected (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1565750,C0043094,TREATS,sitagliptin,Weight Gain,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1565750,C0221198,TREATS,sitagliptin,Lesion,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1576824,C3843066,TREATS,Sodium Pyruvate,2 to 3 days,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1667052,C3842953,TREATS,maraviroc,> 24 hrs,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1667749,C0221738,TREATS,"(N,N-bis(2-chloroethyl))-2-aminoethyl-3-((acridin-9-yl)amino)propionate",NONSPECIFIC REACTION,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1675326,C0085393,TREATS,peramivir,Immunocompromised Host,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2353951,C0017979,TREATS,dapagliflozin,Glycosuria,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2353951,C0241863,TREATS,dapagliflozin,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2697961,C0332155,TREATS,trametinib,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0038435,TREATS,Program,Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0085393,TREATS,Program,Immunocompromised Host,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0231221,TREATS,Program,Asymptomatic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0237849,TREATS,Program,Peeling of skin,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0442726,TREATS,Program,Detected (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0475806,TREATS,Program,1/3 meter (distance vision finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0476644,TREATS,Program,Physical and emotional exhaustion state,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C0750484,TREATS,Program,Confirmation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C1318963,TREATS,Program,Readiness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C1864785,TREATS,Program,Normal kidneys,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2728259,C3845876,TREATS,Program,Consequent,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2744790,C0015663,TREATS,lobeglitazone,Fasting,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2744790,C0043094,TREATS,lobeglitazone,Weight Gain,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2744790,C0442757,TREATS,lobeglitazone,3/4,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2746078,C0001925,TREATS,Linagliptin,Albuminuria,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2746078,C0231299,TREATS,Linagliptin,Decreased stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2746078,C0241863,TREATS,Linagliptin,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2825233,C0015967,TREATS,"Steroid, Systemic",Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0015663,TREATS,Duration,Fasting,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0015967,TREATS,Duration,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0043094,TREATS,Duration,Weight Gain,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0085393,TREATS,Duration,Immunocompromised Host,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0679250,TREATS,Duration,Disease Outcome,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0686744,TREATS,Duration,Well child,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0814090,TREATS,Duration,Occupational Stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C1299448,TREATS,Duration,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C1444656,TREATS,Duration,Indicated,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C1842211,TREATS,Duration,Severe course,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C2597943,TREATS,Duration,Index case,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C3476546,TREATS,Duration,Symptoms score,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C3540840,TREATS,Duration,Sign or Symptom,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C4086268,TREATS,Duration,Exacerbation,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2934718,C3540840,TREATS,SM 934,Sign or Symptom,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3179789,C1545588,TREATS,MB 003,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3252090,C4050171,TREATS,daclatasvir,Sustained Virologic Response,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3256348,C0019080,TREATS,Carica papaya leaf extract,Hemorrhage,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3465258,C0015967,TREATS,Isatis tinctoria root extract,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3490990,C0332155,TREATS,PR-619,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3490992,C0332155,TREATS,P22077,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C3852512,C1148363,TREATS,dasabuvir,Hepatitis C virus genotype (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
+C4050026,C0332575,TREATS,Matrix,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C4050026,C0427184,TREATS,Matrix,No incoordination,orch,fndg,1,TREATS_ORCHtrtsFNDG

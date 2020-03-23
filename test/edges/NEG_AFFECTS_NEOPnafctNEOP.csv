@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006826,C0598934,NEG_AFFECTS,Malignant Neoplasms,tumor growth,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0027651,C0598934,NEG_AFFECTS,Neoplasms,tumor growth,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0027651,C0677930,NEG_AFFECTS,Neoplasms,primary tumor,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C3898222,C0027627,NEG_AFFECTS,Mucosal Melanoma,Neoplasm Metastasis,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP

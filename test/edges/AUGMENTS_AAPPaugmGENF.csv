@@ -1,0 +1,446 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001239,C1511695,AUGMENTS,Actin-Binding Protein,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001271,C0040649,AUGMENTS,Actins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001271,C0282629,AUGMENTS,Actins,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001271,C1511695,AUGMENTS,Actins,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001457,C0162782,AUGMENTS,ADENOSINE DEAMINASE,RNA Editing,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001473,C1149627,AUGMENTS,Adenosine Triphosphatases,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0001473,C2247938,AUGMENTS,Adenosine Triphosphatases,RNA chaperone,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0002199,C0040649,AUGMENTS,Interferon-alpha,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0003241,C0026882,AUGMENTS,Antibodies,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0003250,C0162493,AUGMENTS,Monoclonal Antibodies,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0003765,C0017262,AUGMENTS,Arginine,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0008546,C0040649,AUGMENTS,Chromatin,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0010287,C0040649,AUGMENTS,Creatine Kinase,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0010590,C0017262,AUGMENTS,Cycloserine,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0010590,C0920532,AUGMENTS,Cycloserine,gene induction,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0010590,C1515670,AUGMENTS,Cycloserine,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0010934,C0040649,AUGMENTS,Dactinomycin,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0013729,C0040649,AUGMENTS,Eukaryotic Initiation Factor-2,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0013729,C1519613,AUGMENTS,Eukaryotic Initiation Factor-2,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0013729,C2247634,AUGMENTS,Eukaryotic Initiation Factor-2,stress granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0014241,C0017262,AUGMENTS,Endoribonucleases,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0016011,C0162493,AUGMENTS,Platelet Glycoprotein GPIIb-IIIa Complex,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0017343,C0040649,AUGMENTS,"Genes, env","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0017817,C0162493,AUGMENTS,Glutathione,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0018850,C0040649,AUGMENTS,Heat shock proteins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0019067,C0040649,AUGMENTS,Hemopexin,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0019629,C0162493,AUGMENTS,Histocompatibility Antigens Class I,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0019652,C0040649,AUGMENTS,Histones,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0020197,C0017262,AUGMENTS,Hyaluronidase,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021641,C0040649,AUGMENTS,Insulin,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021699,C1511695,AUGMENTS,Integral Membrane Proteins,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021747,C0017262,AUGMENTS,Interferons,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021747,C0040649,AUGMENTS,Interferons,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021747,C0162493,AUGMENTS,Interferons,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021747,C1171362,AUGMENTS,Interferons,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021755,C0040649,AUGMENTS,Interleukin-1,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021755,C1515670,AUGMENTS,Interleukin-1,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021755,C1622984,AUGMENTS,Interleukin-1,mRNA synthesis,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021755,C3895354,AUGMENTS,Interleukin-1,P granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021760,C0017262,AUGMENTS,Interleukin-6,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021760,C0040649,AUGMENTS,Interleukin-6,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021760,C1171362,AUGMENTS,Interleukin-6,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0021760,C1622984,AUGMENTS,Interleukin-6,mRNA synthesis,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0024075,C0040649,AUGMENTS,Luciferases,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0024337,C1152412,AUGMENTS,Lysine,RNA-directed RNA polymerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0024337,C1156187,AUGMENTS,Lysine,chromatin organization,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0025252,C0282629,AUGMENTS,Membrane Proteins,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0028589,C0040649,AUGMENTS,Nuclear Proteins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0028623,C0034865,AUGMENTS,Nucleosomes,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0028623,C0040649,AUGMENTS,Nucleosomes,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0028623,C0598312,AUGMENTS,Nucleosomes,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0030616,C0040649,AUGMENTS,Parvalbumins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0030940,C0599177,AUGMENTS,Peptide Hydrolases,protein activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0030946,C1158817,AUGMENTS,Endopeptidases,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0030946,C1511695,AUGMENTS,Endopeptidases,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0030946,C2247634,AUGMENTS,Endopeptidases,stress granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0031640,C1158016,AUGMENTS,phosphoric diester hydrolase,rRNA catabolic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0032143,C1171362,AUGMENTS,alteplase,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0032583,C0282572,AUGMENTS,Polyproteins,"Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0034767,C0034865,AUGMENTS,Rec A Recombinases,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0034767,C0599773,AUGMENTS,Rec A Recombinases,Homologous Recombination,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0034800,C1136031,AUGMENTS,"Receptors, Cell Surface",RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0034800,C1511695,AUGMENTS,"Receptors, Cell Surface",DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035544,C0282629,AUGMENTS,Ribonucleoproteins,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035552,C1515670,AUGMENTS,Ribosomal Proteins,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035552,C1519616,AUGMENTS,Ribosomal Proteins,Translational Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035679,C0023099,AUGMENTS,RNA Polymerase II,Late Gene Transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035679,C0040649,AUGMENTS,RNA Polymerase II,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035679,C1136031,AUGMENTS,RNA Polymerase II,RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035679,C1519591,AUGMENTS,RNA Polymerase II,Transcription Elongation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0035685,C1149627,AUGMENTS,RNA-Directed RNA Polymerase,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0037067,C0040649,AUGMENTS,Sigma Factor,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0039341,C0040649,AUGMENTS,tat Protein,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040627,C1148815,AUGMENTS,Trans-Activators,ribonuclease III activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040648,C0017262,AUGMENTS,TRANSCRIPTION FACTOR,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040648,C0040624,AUGMENTS,TRANSCRIPTION FACTOR,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040648,C0040649,AUGMENTS,TRANSCRIPTION FACTOR,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040648,C1158817,AUGMENTS,TRANSCRIPTION FACTOR,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040691,C0597360,AUGMENTS,Transforming Growth Factors,receptor expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0040691,C1516924,AUGMENTS,Transforming Growth Factors,Epigenetic Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0041348,C0040649,AUGMENTS,Tubulin,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0041368,C0040624,AUGMENTS,Tumor Necrosis Factors,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0041368,C1158016,AUGMENTS,Tumor Necrosis Factors,rRNA catabolic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0042736,C0026882,AUGMENTS,Viral Proteins,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0042736,C0040649,AUGMENTS,Viral Proteins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0042736,C1158817,AUGMENTS,Viral Proteins,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0042736,C1511695,AUGMENTS,Viral Proteins,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0042736,C2260797,AUGMENTS,Viral Proteins,RNase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0052193,C0040649,AUGMENTS,apolipoprotein D,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0054871,C0599177,AUGMENTS,Cathepsin L,protein activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0055633,C1148673,AUGMENTS,Chromogranin A,dna binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058980,C1519619,AUGMENTS,eIF-2 Kinase,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058980,C2247634,AUGMENTS,eIF-2 Kinase,stress granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058985,C1149627,AUGMENTS,eIF-4B,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058988,C1149627,AUGMENTS,Eukaryotic Initiation Factor-4E,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058988,C1519613,AUGMENTS,Eukaryotic Initiation Factor-4E,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058988,C2247634,AUGMENTS,Eukaryotic Initiation Factor-4E,stress granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058990,C1149627,AUGMENTS,Eukaryotic Initiation Factor-4G,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0058990,C1519613,AUGMENTS,Eukaryotic Initiation Factor-4G,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0059252,C1157894,AUGMENTS,endonuclease G,DNA catabolic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0061355,C1817262,AUGMENTS,Glucagon-Like Peptide 1,DNA biosynthetic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0062773,C0040649,AUGMENTS,histone acetyltransferase,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0063695,C0017262,AUGMENTS,Intercellular adhesion molecule 1,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0063700,C0017262,AUGMENTS,Interferon Regulatory Factor 1,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0066030,C1148846,AUGMENTS,messenger ribonucleoprotein,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0069304,C0040649,AUGMENTS,"POU5F1 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0071795,C0040649,AUGMENTS,2-5A-dependent ribonuclease,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0071795,C1514925,AUGMENTS,2-5A-dependent ribonuclease,Retrotransposition,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0072108,C0598312,AUGMENTS,Proliferating Cell Nuclear Antigen,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0072115,C0920532,AUGMENTS,X-Pro dipeptidase,gene induction,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0072978,C0040649,AUGMENTS,RANTES,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0072978,C0598312,AUGMENTS,RANTES,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0072978,C1513838,AUGMENTS,RANTES,NFKB Signaling Pathway,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0073020,C1752433,AUGMENTS,recombinase,strand invasion,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0073240,C0162493,AUGMENTS,Ribonuclease III,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0073240,C1136031,AUGMENTS,Ribonuclease III,RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0073423,C1149627,AUGMENTS,RNA Cap-Binding Proteins,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0074398,C0017262,AUGMENTS,Serum Response Factor,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0075813,C0035380,AUGMENTS,Taq Polymerase,Reverse Transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0077678,C0040649,AUGMENTS,ubiquitin-protein ligase,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079189,C0040649,AUGMENTS,cytokine,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079189,C0162493,AUGMENTS,cytokine,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079189,C1519614,AUGMENTS,cytokine,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079259,C0026882,AUGMENTS,Dystrophin,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079405,C1514925,AUGMENTS,"Gene Products, vpr",Retrotransposition,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079419,C0040624,AUGMENTS,TP53 gene,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079419,C0040649,AUGMENTS,TP53 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079419,C0162493,AUGMENTS,TP53 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079633,C0017262,AUGMENTS,Interleukin-8,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079633,C0598312,AUGMENTS,Interleukin-8,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079633,C1515670,AUGMENTS,Interleukin-8,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079904,C0017262,AUGMENTS,NF-kappa B,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079904,C0040624,AUGMENTS,NF-kappa B,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0079904,C0040649,AUGMENTS,NF-kappa B,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0080113,C0017255,AUGMENTS,Retinoblastoma Protein,Gene Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0083029,C0040649,AUGMENTS,IFN-Stimulated Gene Factor 3 Complex,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0084378,C1519614,AUGMENTS,RNA Helicase,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0084378,C2610186,AUGMENTS,RNA Helicase,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0084726,C0040649,AUGMENTS,T Cell Transcription Factor 1,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0085379,C0162493,AUGMENTS,Muromonab-CD3,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0085828,C0040649,AUGMENTS,Transcription Factor AP-1,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0086661,C0040649,AUGMENTS,MYC gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0086661,C1622445,AUGMENTS,MYC gene,rRNA synthesis,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0103404,C0598312,AUGMENTS,Annexin A2,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0108187,C0282629,AUGMENTS,Calnexin,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0118111,C0040649,AUGMENTS,Forkhead Transcription Factors,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0120285,C1136031,AUGMENTS,Green Fluorescent Proteins,RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0120285,C1519613,AUGMENTS,Green Fluorescent Proteins,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0140283,C0040649,AUGMENTS,Retinoid X Receptors,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0162768,C1171362,AUGMENTS,Fusion protein,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0166418,C0040649,AUGMENTS,Peroxisome Proliferator-Activated Receptors,"Transcription, Genetic",aapp,genf,2,AUGMENTS_AAPPaugmGENF
+C0169658,C0040649,AUGMENTS,Janus kinase 1,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0174599,C1171362,AUGMENTS,"SLC2A2 protein, human",protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0206588,C0040649,AUGMENTS,"Receptors, Nuclear","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0215848,C0040649,AUGMENTS,Hypoxia-Inducible Factor 1,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0217382,C1148846,AUGMENTS,cyclophilin B,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0242617,C1158817,AUGMENTS,Homeodomain Proteins,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0243041,C0040649,AUGMENTS,Molecular Chaperones,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0243044,C0282629,AUGMENTS,HSP90 Heat-Shock Proteins,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0246694,C1519614,AUGMENTS,MG 132,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0246694,C1519619,AUGMENTS,MG 132,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0248587,C0040649,AUGMENTS,"SMARCA4 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0253023,C1158016,AUGMENTS,Tumor Necrosis Factor Ligand Superfamily Member 6,rRNA catabolic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0254610,C1515670,AUGMENTS,Interleukin-15,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0256079,C0040649,AUGMENTS,CREB-binding protein,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0282554,C0040649,AUGMENTS,chemokine,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0282554,C0598312,AUGMENTS,chemokine,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0282554,C1519614,AUGMENTS,chemokine,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0287920,C0040649,AUGMENTS,STAT1 protein,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0287920,C0162493,AUGMENTS,STAT1 protein,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0287990,C0599177,AUGMENTS,paired basic amino acid cleaving enzyme,protein activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0290923,C0162493,AUGMENTS,"TP53BP2 protein, human",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0295022,C0162493,AUGMENTS,TNF receptor-associated factor 3,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0297890,C0017262,AUGMENTS,"STAT6 protein, human",Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0305052,C0017263,AUGMENTS,Gamma globulin serum,Gene Expression Regulation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0305052,C0040649,AUGMENTS,Gamma globulin serum,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0378700,C0162493,AUGMENTS,"Interferon-Stimulated Gene Factor 3, gamma Subunit",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0384768,C0040649,AUGMENTS,"IRF3 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0384768,C1158816,AUGMENTS,"IRF3 protein, human",mRNA transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0387583,C0040649,AUGMENTS,cyclooxygenase 2,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0524816,C1148901,AUGMENTS,Nucleocapsid Proteins,tRNA binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0529196,C0040624,AUGMENTS,ADAM17 Protein,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0582118,C1327288,AUGMENTS,Deaminase,RNA destabilization,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0582263,C0282629,AUGMENTS,Structural protein,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0582263,C1511695,AUGMENTS,Structural protein,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0597094,C1158726,AUGMENTS,nuclease,mRNA cleavage,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0597357,C0040649,AUGMENTS,receptor,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0597357,C1511695,AUGMENTS,receptor,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0599220,C0040649,AUGMENTS,Protein Subunits,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0599220,C1519613,AUGMENTS,Protein Subunits,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0599220,C3494208,AUGMENTS,Protein Subunits,"Transcription Elongation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0599561,C1511695,AUGMENTS,e protein,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0663446,C1158817,AUGMENTS,Positive Transcriptional Elongation Factor B,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0663446,C1158830,AUGMENTS,Positive Transcriptional Elongation Factor B,Transcription Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0663446,C1519591,AUGMENTS,Positive Transcriptional Elongation Factor B,Transcription Elongation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0663914,C0040649,AUGMENTS,IkappaB kinase,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0665313,C1171362,AUGMENTS,"activating transcription factor 6, human",protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0751973,C0162493,AUGMENTS,Proteome,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0752348,C0040649,AUGMENTS,Heterotrimeric GTP-Binding Proteins,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0762890,C0040649,AUGMENTS,PERK kinase,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0768528,C0920533,AUGMENTS,histone deacetylase 2,Transcriptional Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0812222,C1158817,AUGMENTS,MDM2 gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0812307,C0040649,AUGMENTS,LYN gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0815047,C1158817,AUGMENTS,regulatory proteins,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0917721,C0040624,AUGMENTS,"p16 protease, Human immunodeficiency virus 1","Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0919477,C0017262,AUGMENTS,LCK gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0920283,C0683230,AUGMENTS,DNA Helicases,dna amplification,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0920283,C1819424,AUGMENTS,DNA Helicases,DNA duplex unwinding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0965234,C3549230,AUGMENTS,Fanconi Anemia Complementation Group D2 Protein,interstrand cross-link repair,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C0968902,C0040649,AUGMENTS,Transcription Factor AP-2 Alpha,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1099355,C1136031,AUGMENTS,RNA-Induced Silencing Complex,RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1120843,C2610186,AUGMENTS,mitogen-activated protein kinase p38,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1136240,C1149297,AUGMENTS,"Ribosomal Protein S6 Kinases, 70-kDa",eukaryotic initiation factor 4E binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1136240,C1157562,AUGMENTS,"Ribosomal Protein S6 Kinases, 70-kDa",translational elongation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1143167,C0026882,AUGMENTS,"APOBEC3G protein, human",Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1174094,C0017262,AUGMENTS,"IL28B protein, human",Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1180347,C0040649,AUGMENTS,Protein complex,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1256770,C1171362,AUGMENTS,Vascular Endothelial Growth Factors,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1305923,C0282572,AUGMENTS,Polypeptides,"Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1307407,C3537096,AUGMENTS,"FRAP1 protein, human",Translational Regulation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1308727,C3271949,AUGMENTS,"RBBP8 protein, human",DNA excision,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C0282572,AUGMENTS,"SH2D3A protein, human","Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C1149372,AUGMENTS,"SH2D3A protein, human",cAMP response element binding protein binding activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C1158730,AUGMENTS,"SH2D3A protein, human",mRNA modification,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C1158744,AUGMENTS,"SH2D3A protein, human",RNA modification,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C1158817,AUGMENTS,"SH2D3A protein, human",viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1309025,C1519614,AUGMENTS,"SH2D3A protein, human",Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1310468,C0040649,AUGMENTS,"DDX58 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1310468,C0599177,AUGMENTS,"DDX58 protein, human",protein activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1312700,C0282630,AUGMENTS,"FABP1 protein, human","Packaging, Virus",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332104,C1519613,AUGMENTS,APPBP2 gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332172,C0282629,AUGMENTS,Adenovirus Protein,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332386,C1158817,AUGMENTS,BCAR3 gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332394,C0040649,AUGMENTS,BCL2-Interacting Killer,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332656,C1511695,AUGMENTS,C3 gene,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1332669,C1372275,AUGMENTS,CAV1 gene,Increased DNA Replication [PE],aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1333336,C0040649,AUGMENTS,EP300 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1333682,C0017262,AUGMENTS,NOP53 gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334081,C0162493,AUGMENTS,IFNAR1 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334122,C0017262,AUGMENTS,IL6 gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334137,C0040649,AUGMENTS,IRAK4 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334139,C0040649,AUGMENTS,IRF3 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334139,C0162493,AUGMENTS,IRF3 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334139,C0920532,AUGMENTS,IRF3 gene,gene induction,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334885,C0040649,AUGMENTS,NMI gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334888,C0040649,AUGMENTS,"NMI protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334896,C1158803,AUGMENTS,NR0B2 gene,RNA elongation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1334905,C0598312,AUGMENTS,NRP1 gene,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335071,C1148846,AUGMENTS,Nuclear LIM Interactor-Interacting Factor 2,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335240,C0282572,AUGMENTS,PPP1CA gene,"Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335332,C1148756,AUGMENTS,Papillomavirus Transforming Protein E6,telomerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335439,C0017262,AUGMENTS,Polymerase,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335439,C0282572,AUGMENTS,Polymerase,"Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335439,C1149627,AUGMENTS,Polymerase,helicase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335439,C1152412,AUGMENTS,Polymerase,RNA-directed RNA polymerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335439,C1158817,AUGMENTS,Polymerase,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335872,C0040649,AUGMENTS,STAT1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335872,C1511695,AUGMENTS,STAT1 gene,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335873,C0162493,AUGMENTS,STAT2 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335877,C0040649,AUGMENTS,STAT6 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1335877,C1519592,AUGMENTS,STAT6 gene,Transcription Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1336579,C0040649,AUGMENTS,TBK1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1336636,C0040649,AUGMENTS,TLR4 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1336636,C0162493,AUGMENTS,TLR4 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1336763,C0040649,AUGMENTS,Toll-Like Receptor Family Gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1336789,C0040649,AUGMENTS,Transcription Repressor/Corepressor,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1366462,C1158817,AUGMENTS,KAT2B gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1366753,C0040649,AUGMENTS,STAT protein,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1367307,C0017262,AUGMENTS,STAT3 gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1367307,C0040649,AUGMENTS,STAT3 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1384672,C1158730,AUGMENTS,HPT gene,mRNA modification,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412544,C0040649,AUGMENTS,ARNTL gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412544,C1515670,AUGMENTS,ARNTL gene,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412591,C0040649,AUGMENTS,ASPA gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412617,C0162493,AUGMENTS,ATF4 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412617,C1158816,AUGMENTS,ATF4 gene,mRNA transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412617,C1171362,AUGMENTS,ATF4 gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412622,C0162493,AUGMENTS,ATF6 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412622,C1171362,AUGMENTS,ATF6 gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1412778,C0040649,AUGMENTS,BCYRN1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413357,C0020202,AUGMENTS,CFLAR gene,Crossbreeding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413419,C0040649,AUGMENTS,CHUK gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413754,C0040649,AUGMENTS,CSHL1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413776,C0017262,AUGMENTS,CST7 gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413947,C0040649,AUGMENTS,DDIT3 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413962,C1158816,AUGMENTS,DDX3X gene,mRNA transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413962,C1519613,AUGMENTS,DDX3X gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413963,C1515669,AUGMENTS,DDX5 gene,mRNA Export,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413966,C0040649,AUGMENTS,DHX9 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1413966,C1158817,AUGMENTS,DHX9 gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414197,C0040649,AUGMENTS,DUX4 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414270,C0282629,AUGMENTS,EEF1A1 gene,Virus Assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414270,C1152412,AUGMENTS,EEF1A1 gene,RNA-directed RNA polymerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414314,C0017262,AUGMENTS,EGR1 gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414314,C0040649,AUGMENTS,EGR1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414333,C0598496,AUGMENTS,AGO2 gene,Gene Silencing,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414334,C1519613,AUGMENTS,EIF2S1 gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414342,C1519613,AUGMENTS,EIF3F gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414356,C3268336,AUGMENTS,EIF4G1 gene,cap-independent translational initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414444,C1148809,AUGMENTS,ERN1 gene,endoribonuclease activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414444,C1158726,AUGMENTS,ERN1 gene,mRNA cleavage,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414444,C2260797,AUGMENTS,ERN1 gene,RNase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414444,C2610186,AUGMENTS,ERN1 gene,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414444,C3158377,AUGMENTS,ERN1 gene,mRNA splicing via endonucleolytic cleavage and ligation involved in unfolded protein response,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414860,C1519614,AUGMENTS,FUS gene,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414928,C0017262,AUGMENTS,GADD45B gene,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1414968,C0017263,AUGMENTS,GAPDH gene,Gene Expression Regulation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415755,C3158377,AUGMENTS,HSPA1A gene,mRNA splicing via endonucleolytic cleavage and ligation involved in unfolded protein response,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415761,C1171362,AUGMENTS,HSPA5 gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415892,C1519619,AUGMENTS,IFIT1 gene,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415892,C3537096,AUGMENTS,IFIT1 gene,Translational Regulation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415894,C1148846,AUGMENTS,IFIT2 gene,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415894,C1148853,AUGMENTS,IFIT2 gene,mRNA binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415894,C1519619,AUGMENTS,IFIT2 gene,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415895,C1148846,AUGMENTS,IFIT3 gene,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415895,C1148853,AUGMENTS,IFIT3 gene,mRNA binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415895,C1519619,AUGMENTS,IFIT3 gene,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1415897,C1622984,AUGMENTS,IFITM2 gene,mRNA synthesis,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1416475,C0040649,AUGMENTS,IRF7 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1416478,C1519619,AUGMENTS,ISG20 gene,Translational Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1416479,C0040649,AUGMENTS,IRF9 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1416623,C1512167,AUGMENTS,KDELR2 gene,Ectopic Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1416994,C1171362,AUGMENTS,MAN1B1 gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417005,C1171362,AUGMENTS,MAP1LC3A gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417222,C0026882,AUGMENTS,MNT gene,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417250,C1157894,AUGMENTS,MRE11 gene,DNA catabolic process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417530,C0040624,AUGMENTS,MYD88 gene,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417530,C0162493,AUGMENTS,MYD88 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1417760,C0040649,AUGMENTS,NOS2 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418298,C0282572,AUGMENTS,PCBP2 gene,"Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418401,C0162493,AUGMENTS,PDCD1 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418735,C0598312,AUGMENTS,POLK gene,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418793,C0598312,AUGMENTS,PPIA gene,DNA Replication,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418795,C0040624,AUGMENTS,PPIB gene,"Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418795,C1148846,AUGMENTS,PPIB gene,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1418822,C1136031,AUGMENTS,PPP1R10 gene,RNA Interference,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419227,C1511695,AUGMENTS,RAC1 gene,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419240,C0012899,AUGMENTS,RAD51 gene,DNA Repair,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419240,C0034865,AUGMENTS,RAD51 gene,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419240,C0599773,AUGMENTS,RAD51 gene,Homologous Recombination,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419336,C0040649,AUGMENTS,RELB gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1419413,C2260797,AUGMENTS,RNASEL gene,RNase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1420200,C1171362,AUGMENTS,SLC5A1 gene,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1420699,C0040649,AUGMENTS,TFEB gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1421249,C0040649,AUGMENTS,TYK2 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1421429,C0020202,AUGMENTS,VTRNA1-1 gene,Crossbreeding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1421429,C1158830,AUGMENTS,VTRNA1-1 gene,Transcription Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1421429,C1514664,AUGMENTS,VTRNA1-1 gene,RNA Folding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1422599,C0040649,AUGMENTS,PPP1R15A gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1422599,C0162493,AUGMENTS,PPP1R15A gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1422599,C1519614,AUGMENTS,PPP1R15A gene,Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1422629,C0599177,AUGMENTS,DHX36 gene,protein activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1422800,C0040649,AUGMENTS,CDCA7 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423062,C1158817,AUGMENTS,SIRT1 gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423066,C1518406,AUGMENTS,SIRT6 gene,Non-Homologous DNA End-Joining,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423067,C0040649,AUGMENTS,SIRT7 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423067,C1519591,AUGMENTS,SIRT7 gene,Transcription Elongation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423633,C1515670,AUGMENTS,TLR9 gene,mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1423652,C1152412,AUGMENTS,CTTNBP2 gene,RNA-directed RNA polymerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1424653,C1148807,AUGMENTS,ERN2 gene,endonuclease activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1424653,C2610186,AUGMENTS,ERN2 gene,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1424661,C0162493,AUGMENTS,TXNIP gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1425964,C1148673,AUGMENTS,TRIM56 gene,dna binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1425964,C1148846,AUGMENTS,TRIM56 gene,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1425988,C1148853,AUGMENTS,ALYREF gene,mRNA binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1426208,C0040649,AUGMENTS,SOCS1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1426334,C0162493,AUGMENTS,EIF2AK4 gene,Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1428200,C0920533,AUGMENTS,TIPARP gene,Transcriptional Repression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1429778,C1171362,AUGMENTS,"ST5 protein, human",protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1442489,C0040649,AUGMENTS,IKBKB gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1442514,C0026882,AUGMENTS,MAPKAPK2 gene,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1442738,C1519613,AUGMENTS,PABPC1 gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1442824,C0040649,AUGMENTS,"POU2F1 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1448177,C1515670,AUGMENTS,"TNF protein, human",mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1449159,C0017262,AUGMENTS,"CCL2 protein, human",Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1449159,C1515670,AUGMENTS,"CCL2 protein, human",mRNA Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1450145,C1257825,AUGMENTS,"Luciferases, Renilla",Genomic Stability,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1453853,C0017262,AUGMENTS,"WNK1 protein, human",Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1453853,C0040649,AUGMENTS,"WNK1 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1453853,C0162493,AUGMENTS,"WNK1 protein, human",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1506158,C1511695,AUGMENTS,Vesicle SNARE Proteins,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1506928,C0040624,AUGMENTS,"E2F1 protein, human","Trans-Activation, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1510506,C0920532,AUGMENTS,Interferon Regulatory Factor 3,gene induction,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1522002,C2610186,AUGMENTS,RNA Recognition Motif,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1522712,C0040649,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1530281,C0040649,AUGMENTS,"IRF7 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1530281,C1158816,AUGMENTS,"IRF7 protein, human",mRNA transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1539099,C0012899,AUGMENTS,CLEC4M gene,DNA Repair,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1539479,C0040649,AUGMENTS,FATE1 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1539835,C0034865,AUGMENTS,SPEN gene,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1540289,C0026882,AUGMENTS,CD200 gene,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1540289,C2247629,AUGMENTS,CD200 gene,DNA polymerase activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1564139,C1148846,AUGMENTS,Mutant Proteins,RNA Binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1564907,C0040649,AUGMENTS,"Receptors, Pattern Recognition","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1565860,C0040649,AUGMENTS,"PTGS2 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1567710,C1158537,AUGMENTS,"PARP1 protein, human",Double Strand Break Repair,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1569073,C0162493,AUGMENTS,"NS-5b protein, hepatitis C virus",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1571359,C0597360,AUGMENTS,"pregnancy-specific glycoprotein 17, mouse",receptor expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1609968,C0162493,AUGMENTS,"CD209 protein, human",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1702088,C0040649,AUGMENTS,"IL5 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1705590,C1149375,AUGMENTS,PIK3CB wt Allele,transcription corepressor activity,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1705982,C1511695,AUGMENTS,KRAS wt Allele,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1742862,C0282572,AUGMENTS,"CISH protein, human","Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1744318,C0034865,AUGMENTS,Cre recombinase,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1823290,C1512167,AUGMENTS,TMBIM4 gene,Ectopic Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1823491,C0040649,AUGMENTS,TRIM69 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1824728,C0040649,AUGMENTS,CFB gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1824728,C1158817,AUGMENTS,CFB gene,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1825325,C1519613,AUGMENTS,G3BP1 gene,Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1825598,C0034865,AUGMENTS,IMPACT gene,"Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1826443,C1148673,AUGMENTS,NMRAL1 gene,dna binding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1826618,C3546461,AUGMENTS,AIFM1 gene,chromatinolysis,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1826724,C0040649,AUGMENTS,PRRT2 gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1864770,C0040649,AUGMENTS,MAVS gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1883559,C0017262,AUGMENTS,Wild Type,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C1953384,C0020202,AUGMENTS,Reverse primer,Crossbreeding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C2348358,C0026882,AUGMENTS,EDNRA wt Allele,Mutation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C2744579,C1511695,AUGMENTS,"ATP8A2 protein, human",DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C2744579,C2247938,AUGMENTS,"ATP8A2 protein, human",RNA chaperone,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C2744579,C2265635,AUGMENTS,"ATP8A2 protein, human",RNA secondary structure unwinding,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3147110,C1511695,AUGMENTS,DSCAM-AS1 gene,DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3273837,C1158817,AUGMENTS,S100B wt Allele,viral transcription,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3540820,C1171362,AUGMENTS,CAPG wt Allele,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3642279,C1171362,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3710914,C1519613,AUGMENTS,"EIF2AK2 protein, human",Translation Initiation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3710914,C1519614,AUGMENTS,"EIF2AK2 protein, human",Genetic Translation Process,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3710914,C1519619,AUGMENTS,"EIF2AK2 protein, human",Translational Repression,aapp,genf,2,AUGMENTS_AAPPaugmGENF
+C3710914,C2247634,AUGMENTS,"EIF2AK2 protein, human",stress granule assembly,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3710967,C0282572,AUGMENTS,"latent Orf73 antigen, human herpesvirus 8","Frameshifting, Ribosomal",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3711684,C3158377,AUGMENTS,"S protein, severe acute respiratory syndrome coronavirus",mRNA splicing via endonucleolytic cleavage and ligation involved in unfolded protein response,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3849574,C0040649,AUGMENTS,"EPHB2 protein, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3887682,C0162493,AUGMENTS,"Platelet Glycoprotein 4, human",Transcriptional Activation,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3887684,C1171362,AUGMENTS,"Kit Ligand, human",protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3890345,C0040649,AUGMENTS,BISPR gene,"Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C3898881,C0017262,AUGMENTS,Histone H3 Lysine 27,Gene Expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4038479,C0314648,AUGMENTS,HLA class I,Allotype,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4082333,C0040649,AUGMENTS,"Proto-Oncogene c-Fos, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4082587,C0034865,AUGMENTS,"HLA Class II Histocompatibility Antigen Gamma Chain, human","Recombination, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4082587,C0040649,AUGMENTS,"HLA Class II Histocompatibility Antigen Gamma Chain, human","Transcription, Genetic",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4255263,C1171362,AUGMENTS,Autophagy-Related Protein-1 Homolog,protein expression,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4281805,C1511695,AUGMENTS,"T-Cell-Specific Surface Glycoprotein CD28, human",DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4281807,C1513838,AUGMENTS,"Vitronectin, human",NFKB Signaling Pathway,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4281807,C3158377,AUGMENTS,"Vitronectin, human",mRNA splicing via endonucleolytic cleavage and ligation involved in unfolded protein response,aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4282114,C2610186,AUGMENTS,"Bcl-2-Like Protein 11, human","nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,AUGMENTS_AAPPaugmGENF
+C4317106,C1511695,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",DNA Sequence Rearrangement,aapp,genf,1,AUGMENTS_AAPPaugmGENF

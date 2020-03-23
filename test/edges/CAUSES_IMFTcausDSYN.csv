@@ -1,0 +1,103 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003864,CAUSES,Immunologic Adjuvants,Arthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0001551,C0162323,CAUSES,Immunologic Adjuvants,Polyarthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0001551,C0243026,CAUSES,Immunologic Adjuvants,Sepsis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0001697,C0004096,CAUSES,Aeroallergen,Asthma,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0001697,C0035204,CAUSES,Aeroallergen,Respiration Disorders,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0004096,CAUSES,Allergens,Asthma,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0011615,CAUSES,Allergens,"Dermatitis, Atopic",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0014457,CAUSES,Allergens,Eosinophilia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0031350,CAUSES,Allergens,Pharyngitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0032285,CAUSES,Allergens,Pneumonia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0035204,CAUSES,Allergens,Respiration Disorders,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0347950,CAUSES,Allergens,Asthma attack,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0002092,C0699949,CAUSES,Allergens,airway disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0003316,C0004364,CAUSES,Epitopes,Autoimmune Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0003316,C0023895,CAUSES,Epitopes,Liver diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0003316,C1290884,CAUSES,Epitopes,Inflammatory disorder,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0003342,C0009187,CAUSES,"Antigens, Viral",Coccidiosis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0004359,C0003873,CAUSES,Autoantigens,Rheumatoid Arthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0004359,C0004364,CAUSES,Autoantigens,Autoimmune Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0004359,C0011854,CAUSES,Autoantigens,"Diabetes Mellitus, Insulin-Dependent",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0004359,C0026769,CAUSES,Autoantigens,Multiple Sclerosis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0012551,C0012546,CAUSES,"diphtheria toxoid vaccine, inactivated",Diphtheria,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0016712,C0003864,CAUSES,Freund's Adjuvant,Arthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0018593,C0009319,CAUSES,Haptens,Colitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0018593,C0011615,CAUSES,Haptens,"Dermatitis, Atopic",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0019168,C0020951,CAUSES,Hepatitis B Surface Antigens,Immune Complex Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0021054,C0206752,CAUSES,Immunologic Factors,Alphavirus Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0021403,C0031350,CAUSES,Influenza virus vaccine,Pharyngitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0021403,C0035243,CAUSES,Influenza virus vaccine,Respiratory Tract Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0021403,C0206061,CAUSES,Influenza virus vaccine,"Pneumonia, Interstitial",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0032375,C0015230,CAUSES,Oral Poliovirus Vaccine,Exanthema,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0032375,C0035243,CAUSES,Oral Poliovirus Vaccine,Respiratory Tract Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0032375,C1405308,CAUSES,Oral Poliovirus Vaccine,Vaccine-Associated Paralytic Poliomyelitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0037355,C0001175,CAUSES,Smallpox Vaccine,Acquired Immunodeficiency Syndrome,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0002880,CAUSES,Vaccines,Autoimmune hemolytic anemia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0003864,CAUSES,Vaccines,Arthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0009952,CAUSES,Vaccines,Febrile Convulsions,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0011603,CAUSES,Vaccines,Dermatitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0014038,CAUSES,Vaccines,Encephalitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0014059,CAUSES,Vaccines,"Encephalomyelitis, Acute Disseminated",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0014457,CAUSES,Vaccines,Eosinophilia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0014661,CAUSES,Vaccines,Equine Infectious Anemia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0015695,CAUSES,Vaccines,Fatty Liver,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0021359,CAUSES,Vaccines,Infertility,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0021400,CAUSES,Vaccines,Influenza,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0023281,CAUSES,Vaccines,Leishmaniasis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0032285,CAUSES,Vaccines,Pneumonia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0035333,CAUSES,Vaccines,Retinitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0035613,CAUSES,Vaccines,Rift Valley Fever,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0042384,CAUSES,Vaccines,Vasculitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0151317,CAUSES,Vaccines,Chronic infectious disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0206061,CAUSES,Vaccines,"Pneumonia, Interstitial",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0275518,CAUSES,Vaccines,Acute infectious disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C0339901,CAUSES,Vaccines,Acute respiratory infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C1175175,CAUSES,Vaccines,Severe Acute Respiratory Syndrome,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C1264606,CAUSES,Vaccines,Persistent infection,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C1320214,CAUSES,Vaccines,Invasive Streptococcus pneumoniae disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042210,C1373218,CAUSES,Vaccines,Decreased Immunologic Activity [PE],imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0009326,CAUSES,"Vaccines, Attenuated",Collagen Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0009450,CAUSES,"Vaccines, Attenuated",Communicable Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0010380,CAUSES,"Vaccines, Attenuated",Croup,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0035243,CAUSES,"Vaccines, Attenuated",Respiratory Tract Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0442886,CAUSES,"Vaccines, Attenuated",Secondary Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C0872054,CAUSES,"Vaccines, Attenuated",latent infection,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042211,C1373218,CAUSES,"Vaccines, Attenuated",Decreased Immunologic Activity [PE],imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042212,C0015469,CAUSES,"Vaccines, Inactivated",Facial paralysis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042212,C0032285,CAUSES,"Vaccines, Inactivated",Pneumonia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042742,C0221505,CAUSES,Viral Vaccines,Lesion of brain,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0042742,C0729532,CAUSES,Viral Vaccines,Viral lower respiratory infection,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0079600,C0014038,CAUSES,Immunodominant Epitopes,Encephalitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0282580,C0021359,CAUSES,"Epitopes, T-Lymphocyte",Infertility,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0358314,C0032285,CAUSES,Pneumococcal vaccine,Pneumonia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0376613,C0004364,CAUSES,"Vaccines, DNA",Autoimmune Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0376613,C0019101,CAUSES,"Vaccines, DNA",Hemorrhagic Fever with Renal Syndrome,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0376613,C0442886,CAUSES,"Vaccines, DNA",Secondary Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0376613,C1373218,CAUSES,"Vaccines, DNA",Decreased Immunologic Activity [PE],imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0376613,C1519680,CAUSES,"Vaccines, DNA",Tumor Immunity,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0521390,C0011302,CAUSES,neuronal,Demyelinating disease of central nervous system,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0521390,C0679225,CAUSES,neuronal,multiple pathologies,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0887892,C0151317,CAUSES,"Vaccines, Subunit",Chronic infectious disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0887892,C0205721,CAUSES,"Vaccines, Subunit","Infections, Hospital",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0887892,C0748168,CAUSES,"Vaccines, Subunit",Pulmonary Pathology,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C0887892,C1175175,CAUSES,"Vaccines, Subunit",Severe Acute Respiratory Syndrome,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1440452,C0024286,CAUSES,Chlamydia trachomatis L1,Lymphogranuloma Venereum,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1440452,C0036916,CAUSES,Chlamydia trachomatis L1,Sexually Transmitted Diseases,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1440605,C0025309,CAUSES,Escherichia coli K1,Meningoencephalitis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1440605,C0036690,CAUSES,Escherichia coli K1,Septicemia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1440605,C0085437,CAUSES,Escherichia coli K1,"Meningitis, Bacterial",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1528013,C0017160,CAUSES,RotaTeq,Gastroenteritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1545590,C0021400,CAUSES,Rhinovirus+Enterovirus,Influenza,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1545590,C0035243,CAUSES,Rhinovirus+Enterovirus,Respiratory Tract Infections,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1579319,C0032285,CAUSES,Pneumococcal conjugate vaccine,Pneumonia,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1579319,C1320214,CAUSES,Pneumococcal conjugate vaccine,Invasive Streptococcus pneumoniae disease,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1627932,C1264606,CAUSES,Adenovirus serotype,Persistent infection,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1649421,C0008049,CAUSES,Coxsackievirus A6,Chickenpox,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1649421,C0018572,CAUSES,Coxsackievirus A6,"Hand, Foot and Mouth Disease",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C1649421,C0936250,CAUSES,Coxsackievirus A6,Eczema Herpeticum,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C2924278,C0009765,CAUSES,Coxsackievirus A24,"Conjunctivitis, Acute Hemorrhagic",imft,dsyn,1,CAUSES_IMFTcausDSYN
+C3161957,C0021400,CAUSES,INFLUENZA strains,Influenza,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C3178367,C3495919,CAUSES,MVA vaccine,Enthesitis-Related Arthritis,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C3652536,C0036830,CAUSES,snake venom antiserum,Serum Sickness,imft,dsyn,1,CAUSES_IMFTcausDSYN
+C4281563,C0743841,CAUSES,Coxsackievirus A4,Disorder characterized by fever,imft,dsyn,1,CAUSES_IMFTcausDSYN

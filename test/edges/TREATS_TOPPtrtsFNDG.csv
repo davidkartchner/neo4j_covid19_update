@@ -1,0 +1,534 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0043094,TREATS,"Administration, Intranasal",Weight Gain,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0001560,C0429706,TREATS,"Administration, Intranasal",Forced expiratory volume in 1 second finding,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0001560,C4321237,TREATS,"Administration, Intranasal",High Level,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0001563,C0562577,TREATS,"Administration, Oral",Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002766,C1299448,TREATS,Pain management,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002766,C2712015,TREATS,Pain management,Better Pain,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002903,C0428886,TREATS,Anesthesia procedures,Mean blood pressure,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002915,C1299448,TREATS,General Anesthesia,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002928,C0221198,TREATS,Spinal Anesthesia,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002928,C1262477,TREATS,Spinal Anesthesia,Weight decreased,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0002928,C3272283,TREATS,Spinal Anesthesia,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0004910,C0518031,TREATS,Bed rest,Endurance,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0005841,C0019080,TREATS,Blood Transfusion,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0007202,C0428886,TREATS,Cardiopulmonary Bypass,Mean blood pressure,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0007203,C0425601,TREATS,Cardiopulmonary Resuscitation,Position of apex beat,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0007344,C1319065,TREATS,Castration,Castrated male,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0007431,C3272283,TREATS,Arterial catheterization,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0007876,C4289767,TREATS,Cesarean section,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0009429,C0033213,TREATS,Combined Modality Therapy,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0009429,C0332155,TREATS,Combined Modality Therapy,Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0009429,C0349790,TREATS,Combined Modality Therapy,Exacerbation of asthma,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0010055,C0232807,TREATS,Coronary Artery Bypass Surgery,Decreased renal function,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0010332,C0231224,TREATS,Crisis Intervention,Crisis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0010332,C0750484,TREATS,Crisis Intervention,Confirmation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0011079,C3687378,TREATS,Debridement,Dorsal recumbency,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0011121,C4289767,TREATS,Decontamination,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0011946,C0038435,TREATS,Dialysis procedure,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0012683,C1545588,TREATS,Disinfection,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C0015967,TREATS,Pharmacotherapy,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C0018932,TREATS,Pharmacotherapy,Hematochezia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C0020557,TREATS,Pharmacotherapy,Hypertriglyceridemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C0392386,TREATS,Pharmacotherapy,Decreased platelet count,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C0679246,TREATS,Pharmacotherapy,advanced disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013216,C3841427,TREATS,Pharmacotherapy,Medical reasons,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013804,C0019080,TREATS,Electrocoagulation,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013806,C0015967,TREATS,Electroconvulsive Therapy,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013806,C0221198,TREATS,Electroconvulsive Therapy,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013806,C0232807,TREATS,Electroconvulsive Therapy,Decreased renal function,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013806,C0443213,TREATS,Electroconvulsive Therapy,Extrusion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013931,C0019080,TREATS,"Embolization, Therapeutic",Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0013969,C0231224,TREATS,Emergency treatment,Crisis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015252,C0000734,TREATS,removal technique,Abdominal mass,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015252,C0019080,TREATS,removal technique,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015252,C0332123,TREATS,removal technique,No family history of,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015252,C0743630,TREATS,removal technique,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015357,C0235195,TREATS,Extracorporeal Membrane Oxygenation,Sedated state,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015357,C0700292,TREATS,Extracorporeal Membrane Oxygenation,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0015357,C3811922,TREATS,Extracorporeal Membrane Oxygenation,Liver transplant recipient,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0016286,C0043094,TREATS,Fluid Therapy,Weight Gain,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0016286,C1740819,TREATS,Fluid Therapy,Idiopathic short stature,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0016419,C0015967,TREATS,"Medicine, Folk",Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0016419,C1545588,TREATS,"Medicine, Folk",Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C0038435,TREATS,gene therapy,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C0231221,TREATS,gene therapy,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C0241863,TREATS,gene therapy,diabetic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C0522072,TREATS,gene therapy,Defective biosynthesis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C0679250,TREATS,gene therapy,Disease Outcome,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0017296,C1299448,TREATS,gene therapy,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0018821,C0564474,TREATS,Cardiac Surgery procedures,Level of anxiety,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0018821,C3272283,TREATS,Cardiac Surgery procedures,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0018823,C0239984,TREATS,Heart Transplantation,Increased IgA level,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0019004,C0038435,TREATS,Hemodialysis,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0019009,C1609537,TREATS,Hemodilution,Acute hearing impairment,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020674,C0423302,TREATS,"Hypothermia, Induced",Pupil Reaction Absent,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020674,C1299448,TREATS,"Hypothermia, Induced",Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020674,C3258122,TREATS,"Hypothermia, Induced",Return of spontaneous circulation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C0085393,TREATS,Immunization,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C0237849,TREATS,Immunization,Peeling of skin,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C1262477,TREATS,Immunization,Weight decreased,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C1519789,TREATS,Immunization,Unexpected Adverse Event,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C1545588,TREATS,Immunization,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C1709157,TREATS,Immunization,Negative Surgical Margin,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C2058487,TREATS,Immunization,accidental Needle Stick Injuries,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C3811922,TREATS,Immunization,Liver transplant recipient,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C3842953,TREATS,Immunization,> 24 hrs,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C3843066,TREATS,Immunization,2 to 3 days,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C3843708,TREATS,Immunization,29+,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020971,C4055506,TREATS,Immunization,Accumulation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020974,C1836348,TREATS,passive immunization procedure,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0020975,C1545588,TREATS,Secondary Immunization,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021022,C0085393,TREATS,Immunoglobulin Therapy,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021079,C0332155,TREATS,Therapeutic immunosuppression,Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021079,C3272283,TREATS,Therapeutic immunosuppression,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021079,C3540840,TREATS,Therapeutic immunosuppression,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021079,C3843647,TREATS,Therapeutic immunosuppression,> 2 years,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021083,C0231221,TREATS,Immunotherapy,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021083,C0581126,TREATS,Immunotherapy,Severe asthma,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021107,C0332575,TREATS,Implantation procedure,Redness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021107,C3846671,TREATS,Implantation procedure,Single Hospital,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021440,C1708473,TREATS,Intravenous infusion procedures,Impaired Circulation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021440,C1999013,TREATS,Intravenous infusion procedures,Normal breast feeding,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021485,C0241279,TREATS,Injection of therapeutic agent,SUBCUTANEOUS TUMOR,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021485,C0332155,TREATS,Injection of therapeutic agent,Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021485,C3151487,TREATS,Injection of therapeutic agent,Vacuolar degeneration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021493,C0221198,TREATS,"Injections, Intraperitoneal",Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021493,C1545588,TREATS,"Injections, Intraperitoneal",Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021493,C3540840,TREATS,"Injections, Intraperitoneal",Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021589,C3811922,TREATS,"Insemination, Artificial, Homologous",Liver transplant recipient,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021860,C3272283,TREATS,Intra-Aortic Balloon Pumping,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0021925,C0020649,TREATS,Intubation,Hypotension,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021925,C0085393,TREATS,Intubation,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021925,C4273494,TREATS,Intubation,Unexpected difficult airway,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021932,C0277854,TREATS,"Intubation, Intratracheal",dyspneic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0023038,C1720436,TREATS,Laparotomy,Under anesthesia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0023690,C1855073,TREATS,Ligation,"Mortality, Premature",topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0023690,C4266464,TREATS,Ligation,Gated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0024128,C0679246,TREATS,Lung Transplantation,advanced disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0024881,C1709603,TREATS,Mastectomy,Positive Surgical Margins,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0027695,C0232805,TREATS,Nephrectomy,Normal renal function,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0027695,C0425963,TREATS,Nephrectomy,Obstetric history,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0029216,C0085393,TREATS,Organ Transplantation,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0030600,C0678034,TREATS,Subtotal gastrectomy,Negative Lymph Node,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0031146,C0003962,TREATS,intraperitoneal infusion,Ascites,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0031740,C0031911,TREATS,Photochemotherapy,Pigmentation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0032740,C0700292,TREATS,Positive End-Expiratory Pressure,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0032740,C0743630,TREATS,Positive End-Expiratory Pressure,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0032740,C1836348,TREATS,Positive End-Expiratory Pressure,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0033144,C3272283,TREATS,Primary Prevention,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0015663,TREATS,Quarantine,Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0015967,TREATS,Quarantine,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0033213,TREATS,Quarantine,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0231221,TREATS,Quarantine,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0600140,TREATS,Quarantine,Does run (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C0750484,TREATS,Quarantine,Confirmation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C1545588,TREATS,Quarantine,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C3272283,TREATS,Quarantine,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C3714738,TREATS,Quarantine,Compliance,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C4289270,TREATS,Quarantine,Five to Seven Days,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034386,C4296983,TREATS,Quarantine,Expedite,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034997,C0424099,TREATS,Rehydration,Reduced concentration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0034997,C3472700,TREATS,Rehydration,Moderate dehydration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035110,C0424594,TREATS,Repeat Surgery,Frailty,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035110,C1709603,TREATS,Repeat Surgery,Positive Surgical Margins,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035239,C1299448,TREATS,Respiratory Therapy,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035273,C0020649,TREATS,Resuscitation procedure,Hypotension,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035273,C0376618,TREATS,Resuscitation procedure,Endotoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035273,C3842674,TREATS,Resuscitation procedure,Day 5,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035822,C0235874,TREATS,Role playing therapy,Disease Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0035822,C1545588,TREATS,Role playing therapy,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0037995,C4318455,TREATS,Splenectomy,Splenic mass,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0038638,C0700292,TREATS,Suction drainage,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0038903,C3280470,TREATS,Pulmonary Surgical Procedures,Benign condition,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040423,C0564438,TREATS,Tonsillectomy,Vitamin E intake,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040423,C0584836,TREATS,Tonsillectomy,Tonsil asymmetry,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040590,C0085393,TREATS,Tracheostomy procedure,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040590,C0686750,TREATS,Tracheostomy procedure,Well adult,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040591,C4055482,TREATS,Tracheotomy procedure,Airway Compromise,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040732,C0239984,TREATS,Transplantation,Increased IgA level,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040732,C3279537,TREATS,Transplantation,Severe brain damage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C0015967,TREATS,Treatment Protocols,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C0449411,TREATS,Treatment Protocols,Causative_agents,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C0556025,TREATS,Treatment Protocols,Injecting drug user,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C1299586,TREATS,Treatment Protocols,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C1545588,TREATS,Treatment Protocols,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C1998726,TREATS,Treatment Protocols,Adequate Knowledge,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C3476546,TREATS,Treatment Protocols,Symptoms score,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C3540840,TREATS,Treatment Protocols,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040861,C0347943,TREATS,Triage,Pelvic swelling,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0041281,C0005911,TREATS,Tube feeding of patient,Body Weight Changes,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0015663,TREATS,Vaccination,Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0038435,TREATS,Vaccination,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0085393,TREATS,Vaccination,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0221198,TREATS,Vaccination,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0231337,TREATS,Vaccination,Senility,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0238884,TREATS,Vaccination,Canadian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0376705,TREATS,Vaccination,Viral Load result,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0424576,TREATS,Vaccination,Fit and well,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0456240,TREATS,Vaccination,Core body temperature,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0456913,TREATS,Vaccination,Cold medium,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0562577,TREATS,Vaccination,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0683314,TREATS,Vaccination,personal health,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0683954,TREATS,Vaccination,research results,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C1262477,TREATS,Vaccination,Weight decreased,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C1299586,TREATS,Vaccination,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C1545588,TREATS,Vaccination,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C1879646,TREATS,Vaccination,Affected Area,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C2004062,TREATS,Vaccination,History of previous events,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C3272283,TREATS,Vaccination,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0042196,C3540840,TREATS,Vaccination,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C3671958,TREATS,Vaccination,Reproductive failure,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C3811621,TREATS,Vaccination,Age - 16,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C3816745,TREATS,Vaccination,1+,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C3869780,TREATS,Vaccination,Health concerns,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C4228664,TREATS,Vaccination,"Rhinosinusitis, recurrent",topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C4264314,TREATS,Vaccination,Childhood diseases,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C4289767,TREATS,Vaccination,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C4484175,TREATS,Vaccination,Growth phase,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C0033213,TREATS,Influenza vaccination,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C0349790,TREATS,Influenza vaccination,Exacerbation of asthma,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C1545588,TREATS,Influenza vaccination,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C1846336,TREATS,Influenza vaccination,Small for age,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C3272283,TREATS,Influenza vaccination,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C3841750,TREATS,Influenza vaccination,Mass gathering,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042200,C4086268,TREATS,Influenza vaccination,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042201,C4289767,TREATS,Measles vaccination,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0050572,C0442726,TREATS,ACP protocol,Detected (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0052586,C0332155,TREATS,amsacrine/cytarabine/thioguanine protocol,Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0052712,C0562577,TREATS,doxorubicin/mitomycin/vinblastine protocol,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0052712,C1545588,TREATS,doxorubicin/mitomycin/vinblastine protocol,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0056633,C1299448,TREATS,cyclophosphamide/prednisone/vincristine protocol,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0057163,C0420210,TREATS,DAV regimen,Medication given,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0063264,C3843494,TREATS,Cisplatin/Doxorubicin/Ifosfamide protocol,Medication 1,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0078137,C3844397,TREATS,bleomycin/doxorubicin/vinblastine protocol,Initial screen,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0079613,C4055223,TREATS,Adoptive Immunotherapy,Clinical Response,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0085405,C0700292,TREATS,Salvage Therapy,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0086252,C0238884,TREATS,Red Blood Cell Transfusion,Canadian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0149783,C0442759,TREATS,Steroid therapy,3/6,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150172,C3834249,TREATS,Cardiopulmonary resuscitation management,Unlimited,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150211,C0278060,TREATS,Environmental care procedure,Mental state,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150234,C3273930,TREATS,Fever treatment,Tumor Mass,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150238,C0020649,TREATS,Fluid resuscitation,Hypotension,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150238,C0428713,TREATS,Fluid resuscitation,Cerebral Perfusion Pressure,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0150788,C0231224,TREATS,Stress management,Crisis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0238711,TREATS,Transection (procedure),australian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0238815,TREATS,Transection (procedure),brazilian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0332155,TREATS,Transection (procedure),Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0332575,TREATS,Transection (procedure),Redness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0424099,TREATS,Transection (procedure),Reduced concentration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0686744,TREATS,Transection (procedure),Well child,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C1318963,TREATS,Transection (procedure),Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C1853237,TREATS,Transection (procedure),Isolated cases,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C3843708,TREATS,Transection (procedure),29+,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C3845594,TREATS,Transection (procedure),Slight change,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0175763,C2674422,TREATS,Hemispherectomy,"Seizures, intractable",topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0175795,C4534574,TREATS,oral medication,Additional day,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0184643,C1405990,TREATS,Mental health care,Disaster Victims,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0184643,C1446377,TREATS,Mental health care,Mental health problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0184898,C1720436,TREATS,Surgical incisions,Under anesthesia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0184913,C1709603,TREATS,Reexcision,Positive Surgical Margins,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185003,C0240322,TREATS,Reparative closure,Menstrual period late,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185003,C1879646,TREATS,Reparative closure,Affected Area,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185026,C1299586,TREATS,Plication,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185026,C4055506,TREATS,Plication,Accumulation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185027,C0085393,TREATS,Imbrication (procedure),Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185027,C1953367,TREATS,Imbrication (procedure),Reference sequence,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185027,C3840593,TREATS,Imbrication (procedure),Trial 1,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185027,C4086268,TREATS,Imbrication (procedure),Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C0517595,TREATS,Extraction,Mucosa Intact,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C0728899,TREATS,Extraction,Intoxication,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C1444656,TREATS,Extraction,Indicated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C1444783,TREATS,Extraction,Instability,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C1545588,TREATS,Extraction,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C1821208,TREATS,Extraction,Impaired Locomotor Activity,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185115,C4068826,TREATS,Extraction,Harsh,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185117,C0015967,TREATS,Expression procedure,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0192301,C2584434,TREATS,"Insertion of catheter into esophagus, permanent tube type (procedure)",Plasma glucose concentration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0194810,C0015663,TREATS,Radical prostatectomy,Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0198482,C0235195,TREATS,Operation on abdominal region,Sedated state,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199171,C1836348,TREATS,Medical procedure,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0033213,TREATS,Prophylactic treatment,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0085393,TREATS,Prophylactic treatment,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0392349,TREATS,Prophylactic treatment,information seeking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0419437,TREATS,Prophylactic treatment,High risk infant,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0595998,TREATS,Prophylactic treatment,Household composition,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0743630,TREATS,Prophylactic treatment,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0750484,TREATS,Prophylactic treatment,Confirmation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C1318963,TREATS,Prophylactic treatment,Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C1320990,TREATS,Prophylactic treatment,Community health status,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C1545588,TREATS,Prophylactic treatment,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C1879646,TREATS,Prophylactic treatment,Affected Area,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C3811922,TREATS,Prophylactic treatment,Liver transplant recipient,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C3816499,TREATS,Prophylactic treatment,Pathogenic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C4055086,TREATS,Prophylactic treatment,Early Relapse,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C4086268,TREATS,Prophylactic treatment,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C4289767,TREATS,Prophylactic treatment,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199451,C0700292,TREATS,Continuous Positive Airway Pressure,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C0332509,TREATS,Mechanical ventilation,Increased size (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C0442765,TREATS,Mechanical ventilation,20/400,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C0700292,TREATS,Mechanical ventilation,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C0750173,TREATS,Mechanical ventilation,ventilator dependent,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C1299448,TREATS,Mechanical ventilation,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C3890735,TREATS,Mechanical ventilation,Complete Response with Incomplete Platelet Recovery,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C0015967,TREATS,Administration of antibiotic,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C0344339,TREATS,Administration of antibiotic,Family illness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C0349790,TREATS,Administration of antibiotic,Exacerbation of asthma,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C0425514,TREATS,Administration of antibiotic,Sputum volume,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C0743630,TREATS,Administration of antibiotic,exacerbation acute,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0199779,C3843196,TREATS,Administration of antibiotic,3 to 5 days,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199779,C4086268,TREATS,Administration of antibiotic,Exacerbation,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0199782,C0518609,TREATS,Administration of insulin,consideration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199798,C1545588,TREATS,human vaccination,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199809,C0085639,TREATS,Poliomyelitis vaccination,Falls,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204514,C1821461,TREATS,Structural analysis,Close Relationship,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0015967,TREATS,Isolation procedure,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0033213,TREATS,Isolation procedure,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0085639,TREATS,Isolation procedure,Falls,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0231221,TREATS,Isolation procedure,Asymptomatic,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0204727,C0424576,TREATS,Isolation procedure,Fit and well,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0436343,TREATS,Isolation procedure,Symptom mild,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C0743630,TREATS,Isolation procedure,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C1318963,TREATS,Isolation procedure,Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C1320226,TREATS,Isolation procedure,Incubation period,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C1832072,TREATS,Isolation procedure,Accommodation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C2242741,TREATS,Isolation procedure,MRSA colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0204727,C3840880,TREATS,Isolation procedure,Traffic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0206058,C0231221,TREATS,Elective Surgical Procedures,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0206058,C0436343,TREATS,Elective Surgical Procedures,Symptom mild,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0206058,C3272283,TREATS,Elective Surgical Procedures,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0206074,C4321237,TREATS,Renal Replacement Therapy,High Level,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0206075,C0728899,TREATS,Hemodiafiltration,Intoxication,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0242297,C0015967,TREATS,Dietary Supplementation,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0242348,C0746619,TREATS,Serotherapy,monoclonal,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0242687,C3806166,TREATS,Early Intervention (Education),Poor outcome,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0242970,C0020557,TREATS,Fat-Restricted Diet,Hypertriglyceridemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0242972,C0001925,TREATS,"Diet, Protein-Restricted",Albuminuria,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0279025,C0232970,TREATS,Hormone Therapy,Postmenopausal state,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0279033,C0683314,TREATS,Replacement therapy,personal health,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0279391,C0232370,TREATS,mercaptopurine/methotrexate/vincristine,Florid red complexion (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0279492,C0442811,TREATS,Antiandrogen therapy,Very low,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0279694,C0442759,TREATS,Monoclonal Antibody Therapy,3/6,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C0015967,TREATS,Antiviral Therapy,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C0085393,TREATS,Antiviral Therapy,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C1836348,TREATS,Antiviral Therapy,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C2945640,TREATS,Antiviral Therapy,compromise,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C4038931,TREATS,Antiviral Therapy,Bacteria present,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280274,C4055223,TREATS,Antiviral Therapy,Clinical Response,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0280452,C1545588,TREATS,asparaginase/doxorubicin/vincristine,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0281163,C0033213,TREATS,educational intervention,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0281163,C0564474,TREATS,educational intervention,Level of anxiety,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0281519,C4018909,TREATS,cisplatin/etoposide/paclitaxel,Overdose,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0282515,C0238815,TREATS,Chemoprevention,brazilian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0282515,C3272283,TREATS,Chemoprevention,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0302189,C0241863,TREATS,Cell Therapy,diabetic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0338237,C0743630,TREATS,Antibiotic therapy,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0338237,C2825972,TREATS,Antibiotic therapy,Cant,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0338237,C3540840,TREATS,Antibiotic therapy,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0338237,C4086268,TREATS,Antibiotic therapy,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0338248,C0424589,TREATS,carmustine/cytarabine/etoposide/melphalan regimen,Vitality,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0339897,C3272283,TREATS,Transjugular intrahepatic portosystemic shunt procedure,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0344211,C0015967,TREATS,Supportive care,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0344211,C0038435,TREATS,Supportive care,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0344211,C2945640,TREATS,Supportive care,compromise,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0349707,C0015967,TREATS,Aspiration-action,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0349707,C1709157,TREATS,Aspiration-action,Negative Surgical Margin,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0376442,C2919051,TREATS,"Ischemic Preconditioning, Myocardial",Ischemic Myocardium,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0376466,C0241863,TREATS,Ischemic Preconditioning,diabetic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0376495,C1821461,TREATS,Retreatments,Close Relationship,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0376518,C0221198,TREATS,Adoptive Transfer,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0376518,C1545588,TREATS,Adoptive Transfer,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0392535,C1704257,TREATS,Induced abortion (procedure),Molecular Genetic Abnormality,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0393005,C0221198,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0394664,C0586406,TREATS,Acupuncture procedure,Eye symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0407433,C0221198,TREATS,Rotational osteotomy,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0419118,C0016928,TREATS,Muscle strength exercise,Gait,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0419786,C0679246,TREATS,Infection surveillance,advanced disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0439775,C0429807,TREATS,Elevation procedure,Bladder capacity,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0439775,C0429810,TREATS,Elevation procedure,Bladder compliance,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0439775,C0562577,TREATS,Elevation procedure,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0439775,C1299448,TREATS,Elevation procedure,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441509,C0221198,TREATS,Coagulation procedure,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441516,C0085639,TREATS,Demand (clinical),Falls,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441516,C0424589,TREATS,Demand (clinical),Vitality,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441516,C1318963,TREATS,Demand (clinical),Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441516,C1519789,TREATS,Demand (clinical),Unexpected Adverse Event,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0442965,C1832072,TREATS,Cosmetic procedure,Accommodation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0450080,C1299448,TREATS,Rebreathing method,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0452415,C0518214,TREATS,Healthy Diet,Perceived quality of life,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0456675,C0019080,TREATS,Massive blood transfusion,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0472699,C0085393,TREATS,Hemopoietic stem cell transplant,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0472699,C1444783,TREATS,Hemopoietic stem cell transplant,Instability,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0472699,C2825972,TREATS,Hemopoietic stem cell transplant,Cant,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0474166,C0677946,TREATS,Medical counseling,Stable Disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0475411,C1832073,TREATS,Standardized technique,Handling,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0520484,C2004062,TREATS,Xenograft procedure,History of previous events,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0521302,C1836348,TREATS,Fluid replacement,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0521306,C0020625,TREATS,Anticonvulsant therapy,Hyponatremia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0543467,C0231221,TREATS,Operative Surgical Procedures,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0543467,C0443213,TREATS,Operative Surgical Procedures,Extrusion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0543467,C1444708,TREATS,Operative Surgical Procedures,Likely outcome,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0543467,C1517940,TREATS,Operative Surgical Procedures,Long Term Survivorship,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0543467,C3841427,TREATS,Operative Surgical Procedures,Medical reasons,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0547070,C0562577,TREATS,Ablation,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0553741,C0241526,TREATS,Fluid Management,Unresponsiveness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0554804,C1299448,TREATS,Assisted breathing,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0561872,C1299448,TREATS,Continuous auscultation monitoring,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0565867,C4266464,TREATS,delivery method,Gated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0581602,C0728725,TREATS,Structural modification,Low pH,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0581602,C0860761,TREATS,Structural modification,pH high,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0599917,C0033213,TREATS,intervention program,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0599917,C0518656,TREATS,intervention program,Chronic fatigue,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0600015,C1318963,TREATS,Emotional support,Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0600249,C1836348,TREATS,"Immunotherapy, Passive",Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0677850,C0019080,TREATS,adjuvant therapy,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0677850,C3272283,TREATS,adjuvant therapy,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0678026,C3272283,TREATS,Antifungal therapy,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0678823,C3540840,TREATS,parenteral administration,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679637,C3272283,TREATS,major surgery,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679651,C3272283,TREATS,directive therapy,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679698,C0427184,TREATS,disease prevention,No incoordination,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679698,C0564470,TREATS,disease prevention,Optimistic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679698,C1318963,TREATS,disease prevention,Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679698,C1545588,TREATS,disease prevention,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679699,C1320716,TREATS,Secondary Prevention,Cardiovascular event,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0679809,C0009940,TREATS,Health Risk Assessment,Convalescence,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683465,C0425945,TREATS,novel AODU treatment method,Prolonged menses,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683465,C0518609,TREATS,novel AODU treatment method,consideration,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683465,C1299448,TREATS,novel AODU treatment method,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683465,C4086268,TREATS,novel AODU treatment method,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683525,C0030563,TREATS,treatment options,Parity,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683525,C0679246,TREATS,treatment options,advanced disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683525,C1299586,TREATS,treatment options,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683525,C1545588,TREATS,treatment options,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0683525,C3846017,TREATS,treatment options,Life threatening illness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0684199,C1299586,TREATS,Homeopathy,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0695434,C1299448,TREATS,oscillations,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700325,C0015967,TREATS,Patient observation,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700325,C0085393,TREATS,Patient observation,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700325,C3272283,TREATS,Patient observation,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700325,C4086268,TREATS,Patient observation,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700325,C4289767,TREATS,Patient observation,Colonization,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0700589,C0041747,TREATS,Contraceptive methods,Unplanned pregnancy,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0702249,C1334929,TREATS,Infiltration (procedure),Necrotic Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0741847,C0743553,TREATS,Bypass,epistasis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0744425,C0436345,TREATS,glucocorticoid therapy,Symptom severe,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0745343,C0562577,TREATS,insulin treatment,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0796679,C0221198,TREATS,Chemoembolization,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0808232,C0541749,TREATS,Therapeutic Intervention,Does turn (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0808232,C0543419,TREATS,Therapeutic Intervention,Sequela of disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0808232,C1836348,TREATS,Therapeutic Intervention,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0814435,C0332797,TREATS,early identification,wounded,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0814435,C1290905,TREATS,early identification,Discrepancy,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0814435,C1836348,TREATS,early identification,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0848753,C3540840,TREATS,pacemaker implant,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0857208,C0456128,TREATS,routine immunization,Term infant,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0871803,C1299448,TREATS,life sustaining treatment,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0871821,C3540840,TREATS,combination therapy Approach,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0871878,C0238711,TREATS,reframing,australian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0877341,C3272283,TREATS,coronary revascularization,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0887947,C0425945,TREATS,"Antiretroviral Therapy, Highly Active",Prolonged menses,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0887947,C0595998,TREATS,"Antiretroviral Therapy, Highly Active",Household composition,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920425,C0033213,TREATS,cancer therapy,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920467,C0442726,TREATS,disorder control (procedure),Detected (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920467,C1290955,TREATS,disorder control (procedure),drug dependent,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920467,C1318963,TREATS,disorder control (procedure),Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920467,C1545588,TREATS,disorder control (procedure),Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0920467,C3840880,TREATS,disorder control (procedure),Traffic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0935576,C0015967,TREATS,treatment guideline,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0935576,C0553982,TREATS,treatment guideline,Impaired left ventricular function,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1112479,C1299448,TREATS,Wean from ventilator (procedure),Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1135809,C0038435,TREATS,Caloric Restriction,Stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1261381,C0332155,TREATS,Destructive procedure (surgical),Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1276413,C0239573,TREATS,Therapeutic regimen,"Fever, high-grade",topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1276413,C0543419,TREATS,Therapeutic regimen,Sequela of disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1280903,C1545588,TREATS,Exploration procedure,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1299597,C1836348,TREATS,Empirical therapy,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1299622,C0085393,TREATS,Empirical antibiotic therapy,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1322279,C2221199,TREATS,Dilate procedure,Numerous vesicles,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1328288,C0085393,TREATS,In vivo GENETIC,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1443861,C0033213,TREATS,Post-Exposure Prophylaxis,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1443861,C0562359,TREATS,Post-Exposure Prophylaxis,Institutionalized,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1443861,C1545588,TREATS,Post-Exposure Prophylaxis,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1443861,C3272283,TREATS,Post-Exposure Prophylaxis,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1455871,C1997771,TREATS,Non-invasive positive pressure (NIPPV),Chronic hypercapnia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1455871,C4068542,TREATS,Non-invasive positive pressure (NIPPV),Alveolar ventilation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1504389,C3272283,TREATS,Stem cell transplant,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0015663,TREATS,Detection,Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0015967,TREATS,Detection,Fever,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C1511790,C0019080,TREATS,Detection,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0085393,TREATS,Detection,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0221198,TREATS,Detection,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0231221,TREATS,Detection,Asymptomatic,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C1511790,C0238815,TREATS,Detection,brazilian,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0332575,TREATS,Detection,Redness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0337664,TREATS,Detection,Smoker,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0337672,TREATS,Detection,Non-smoker,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0424295,TREATS,Detection,Hyperactive behavior,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0427184,TREATS,Detection,No incoordination,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0442726,TREATS,Detection,Detected (finding),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0442748,TREATS,Detection,6/4,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0442757,TREATS,Detection,3/4,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0449411,TREATS,Detection,Causative_agents,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0560175,TREATS,Detection,Carrier of disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0562577,TREATS,Detection,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0686744,TREATS,Detection,Well child,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0701159,TREATS,Detection,Patient in hospital,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0743630,TREATS,Detection,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0748864,TREATS,Detection,small size,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C0750484,TREATS,Detection,Confirmation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C1333833,TREATS,Detection,Grade 1 Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C1832073,TREATS,Detection,Handling,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C1836348,TREATS,Detection,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C3540840,TREATS,Detection,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C3816499,TREATS,Detection,Pathogenic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C3844638,TREATS,Detection,Either,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C4069284,TREATS,Detection,Frothy,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C4086268,TREATS,Detection,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C4288557,TREATS,Detection,One Activity Hour,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C4484175,TREATS,Detection,Growth phase,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1511790,C4534506,TREATS,Detection,One reactive,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1515119,C0221725,TREATS,systemic therapy,Obstruction of bronchus,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1522449,C1832073,TREATS,Therapeutic radiology procedure,Handling,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1531698,C0015967,TREATS,Active monitoring,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1531698,C0231221,TREATS,Active monitoring,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C0085393,TREATS,First line treatment,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C1835796,TREATS,First line treatment,Crossed fused renal ectopia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C1836348,TREATS,First line treatment,Severe disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C3540840,TREATS,First line treatment,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C3714745,TREATS,First line treatment,Malabsorption,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1708063,C3843196,TREATS,First line treatment,3 to 5 days,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1720825,C0232805,TREATS,Therapeutic Drug Monitoring,Normal renal function,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1735337,C0436343,TREATS,Asthma prophylaxis,Symptom mild,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1735337,C0436345,TREATS,Asthma prophylaxis,Symptom severe,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1740843,C0419437,TREATS,Respiratory syncytial virus prophylaxis,High risk infant,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1868981,C0700292,TREATS,Invasive mechanical ventilation NOS,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1963578,C1318963,TREATS,Release (procedure),Readiness,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1964029,C2597943,TREATS,early/brief intervention/therapy (treatment),Index case,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1964029,C3272283,TREATS,early/brief intervention/therapy (treatment),American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1997883,C0677946,TREATS,Noninvasive Ventilation,Stable Disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1997883,C0743630,TREATS,Noninvasive Ventilation,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1997883,C4086268,TREATS,Noninvasive Ventilation,Exacerbation,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C2242628,C0239998,TREATS,Fecal Microbiota Transplantation,Recurrent infections,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2242628,C1519255,TREATS,Fecal Microbiota Transplantation,Serious Adverse Event,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2348331,C3714738,TREATS,Dose Regimen,Compliance,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2717817,C3279537,TREATS,Decompressive Craniectomy,Severe brain damage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2717817,C4013784,TREATS,Decompressive Craniectomy,"Hypertension, severe",topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2827774,C3272283,TREATS,Current Therapy,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2827774,C4086268,TREATS,Current Therapy,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2827774,C4230430,TREATS,Current Therapy,Inflammatory lung disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2936405,C3550150,TREATS,Drug Repositioning,Recurrent thrombophlebitis,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2936738,C0700292,TREATS,Therapeutic Irrigation,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2945704,C1518681,TREATS,Conventional Treatment,Outcome of Therapy,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2985557,C4055264,TREATS,Gamma Irradiation,Cellular Debris,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2985566,C1299586,TREATS,Targeted Therapy,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2985566,C3809325,TREATS,Targeted Therapy,Progressive renal disorder,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2987620,C0332155,TREATS,Inoculation,Did not receive therapy or drug for,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C2987620,C0562577,TREATS,Inoculation,Mocking,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C3163695,C0019080,TREATS,Transarterial embolization,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C3665674,C0700292,TREATS,Warburg Therapy,Hypoxemia,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C3714568,C1299448,TREATS,Aerosol therapy,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C3846444,C3843646,TREATS,Beam Radiation,1-2 years,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C3858690,C1299448,TREATS,adjunctive treatment,Patient ventilated,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C4304298,C1718498,TREATS,Procedural learning,Voluntary movement,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C4505223,C0237849,TREATS,Mass Drug Administration,Peeling of skin,topp,fndg,1,TREATS_TOPPtrtsFNDG

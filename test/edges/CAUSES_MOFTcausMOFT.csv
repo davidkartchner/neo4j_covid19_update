@@ -1,0 +1,122 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001038,C1511737,CAUSES,Acetylation,Deacetylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0009528,C1155099,CAUSES,Complement Activation,cytokine biosynthesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C0009546,C1514570,CAUSES,"Complement Pathway, Alternative",Proteolytic Processing,moft,moft,1,CAUSES_MOFTcausMOFT
+C0010357,C0242943,CAUSES,Cross Reactions,Molecular Mimicry,moft,moft,1,CAUSES_MOFTcausMOFT
+C0017952,C0598754,CAUSES,Glycolysis,aerobic glycolysis,moft,moft,1,CAUSES_MOFTcausMOFT
+C0023775,C1159301,CAUSES,Lipid Peroxidation,protein oxidation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0025246,C0301641,CAUSES,Membrane Fusion,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0030013,C0031715,CAUSES,Oxidative Phosphorylation,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C0301641,CAUSES,Phosphorylation,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C0597295,CAUSES,Phosphorylation,Protein Biosynthesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1512485,CAUSES,Phosphorylation,Homodimerization,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1514216,CAUSES,Phosphorylation,Polyubiquitination,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1518440,CAUSES,Phosphorylation,Nuclear Translocation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1519751,CAUSES,Phosphorylation,Ubiquitination,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1704259,CAUSES,Phosphorylation,Biochemical Pathway,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C1819635,CAUSES,Phosphorylation,receptor catabolic process,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C3160734,CAUSES,Phosphorylation,Dephosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0031715,C3824143,CAUSES,Phosphorylation,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C0033618,C0301641,CAUSES,Protein Binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0033666,C0301641,CAUSES,Post-Translational Protein Processing,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0033666,C0872079,CAUSES,Post-Translational Protein Processing,protein protein interaction,moft,moft,1,CAUSES_MOFTcausMOFT
+C0033666,C1136182,CAUSES,Post-Translational Protein Processing,Antigenic Diversity,moft,moft,1,CAUSES_MOFTcausMOFT
+C0162847,C1157980,CAUSES,protein folding,erad,moft,moft,1,CAUSES_MOFTcausMOFT
+C0243102,C4505263,CAUSES,enzyme activity,Mono(ADP-Ribosyl)ation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0301641,C0025246,CAUSES,Macromolecular alteration,Membrane Fusion,moft,moft,1,CAUSES_MOFTcausMOFT
+C0301641,C0031715,CAUSES,Macromolecular alteration,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0301641,C1155494,CAUSES,Macromolecular alteration,intracellular signal transduction,moft,moft,1,CAUSES_MOFTcausMOFT
+C0301641,C1158944,CAUSES,Macromolecular alteration,Protein Refolding,moft,moft,1,CAUSES_MOFTcausMOFT
+C0596177,C0009528,CAUSES,Biocompatibility,Complement Activation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0596562,C0033666,CAUSES,Fatty acid biosynthetic process,Post-Translational Protein Processing,moft,moft,1,CAUSES_MOFTcausMOFT
+C0596620,C0017952,CAUSES,glucose metabolism,Glycolysis,moft,moft,1,CAUSES_MOFTcausMOFT
+C0596843,C0598435,CAUSES,Adipogenesis,Palmitoylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597295,C0597358,CAUSES,Protein Biosynthesis,receptor binding,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597297,C1621831,CAUSES,"Protein Degradation, Metabolic",glycoprotein binding,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597304,C0033627,CAUSES,Proteolysis,Protein Denaturation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597304,C0301641,CAUSES,Proteolysis,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597358,C0025246,CAUSES,receptor binding,Membrane Fusion,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597358,C0301641,CAUSES,receptor binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C0597358,C1155494,CAUSES,receptor binding,intracellular signal transduction,moft,moft,1,CAUSES_MOFTcausMOFT
+C0598435,C0598434,CAUSES,Palmitoylation,myristoylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C0598783,C0596843,CAUSES,Lipid Metabolism,Adipogenesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C0600436,C1151115,CAUSES,Base Pairing,luciferin monooxygenase activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C0600436,C3178791,CAUSES,Base Pairing,RNA Cleavage,moft,moft,1,CAUSES_MOFTcausMOFT
+C0813988,C0031715,CAUSES,autophosphorylation,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1136182,C0178575,CAUSES,Antigenic Diversity,cross immunity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1145751,C1513158,CAUSES,insulin activity,Metabolic Control,moft,moft,1,CAUSES_MOFTcausMOFT
+C1148918,C0301641,CAUSES,cAMP binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1148923,C0301641,CAUSES,atp binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149036,C0025246,CAUSES,GTPase activity,Membrane Fusion,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149098,C0301641,CAUSES,peptide binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149098,C1510699,CAUSES,peptide binding,ATP Hydrolysis,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149170,C0031715,CAUSES,chemokine binding,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149176,C0031715,CAUSES,interferon binding,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149286,C0301641,CAUSES,enzyme binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149289,C0031715,CAUSES,kinase binding,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149536,C0301641,CAUSES,virion binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149552,C1157980,CAUSES,chaperone activity,erad,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149629,C0001038,CAUSES,histone deacetylase activity,Acetylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149629,C1156200,CAUSES,histone deacetylase activity,Histone Acetylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149629,C1511737,CAUSES,histone deacetylase activity,Deacetylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1149629,C3824143,CAUSES,histone deacetylase activity,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150095,C0301641,CAUSES,peptidase activity,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150130,C1150134,CAUSES,caspase activity,caspase-7 activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150347,C0162847,CAUSES,protein disulfide isomerase activity,protein folding,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150423,C0031715,CAUSES,kinase activity,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150423,C1519751,CAUSES,kinase activity,Ubiquitination,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150571,C0031715,CAUSES,IkappaB kinase activity,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150571,C1518440,CAUSES,IkappaB kinase activity,Nuclear Translocation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150587,C0031715,CAUSES,JUN kinase activity,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150587,C1518440,CAUSES,JUN kinase activity,Nuclear Translocation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150587,C1621396,CAUSES,JUN kinase activity,JNK Pathway,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150635,C0596843,CAUSES,stem cell factor receptor activity,Adipogenesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C1150685,C1519751,CAUSES,ubiquitin-protein ligase activity,Ubiquitination,moft,moft,1,CAUSES_MOFTcausMOFT
+C1152112,C2717886,CAUSES,N-acetyllactosamine synthase activity,Cross Protection,moft,moft,1,CAUSES_MOFTcausMOFT
+C1153415,C3272080,CAUSES,ion channel activity,NLRP3 inflammasome activation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1155494,C0031715,CAUSES,intracellular signal transduction,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1156673,C1704259,CAUSES,tryptophan catabolic process,Biochemical Pathway,moft,moft,1,CAUSES_MOFTcausMOFT
+C1157980,C0301641,CAUSES,erad,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1157990,C3824143,CAUSES,Sumoylation,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1157996,C1150571,CAUSES,Deubiquitination,IkappaB kinase activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1159825,C0597304,CAUSES,Caspase Activation,Proteolysis,moft,moft,1,CAUSES_MOFTcausMOFT
+C1257755,C0949765,CAUSES,RNA Decay,Polyadenylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1305430,C0009528,CAUSES,complement pathway,Complement Activation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1323274,C0301641,CAUSES,Metal Ion Binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1328948,C2247721,CAUSES,RNA biosynthesis,toll-like receptor 3 signaling pathway,moft,moft,1,CAUSES_MOFTcausMOFT
+C1510699,C1148926,CAUSES,ATP Hydrolysis,adenosinetriphosphatase activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1511737,C0031715,CAUSES,Deacetylation,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1512129,C3824143,CAUSES,Endoplasmic Reticulum Degradation Pathway,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1512424,C1150142,CAUSES,Heterodimerization,caspase-8 activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1514216,C0597297,CAUSES,Polyubiquitination,"Protein Degradation, Metabolic",moft,moft,1,CAUSES_MOFTcausMOFT
+C1514216,C3824143,CAUSES,Polyubiquitination,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1514570,C0025246,CAUSES,Proteolytic Processing,Membrane Fusion,moft,moft,1,CAUSES_MOFTcausMOFT
+C1517880,C0301641,CAUSES,Ligand Binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1519751,C0031715,CAUSES,Ubiquitination,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1519751,C0597297,CAUSES,Ubiquitination,"Protein Degradation, Metabolic",moft,moft,1,CAUSES_MOFTcausMOFT
+C1519751,C1150571,CAUSES,Ubiquitination,IkappaB kinase activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C1519751,C3824143,CAUSES,Ubiquitination,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1519751,C3824144,CAUSES,Ubiquitination,26S proteasome disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1522951,C0031715,CAUSES,epidermal growth factor binding,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C1523106,C0301641,CAUSES,unfolded protein binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C1622742,C0597295,CAUSES,interleukin-28 receptor binding,Protein Biosynthesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C1622946,C3824143,CAUSES,proteasome activity,proteasome complex disassembly,moft,moft,1,CAUSES_MOFTcausMOFT
+C1721094,C1707312,CAUSES,DNA Cleavage,Caspase-Dependent Apoptosis,moft,moft,1,CAUSES_MOFTcausMOFT
+C2244392,C0282517,CAUSES,electron transport chain,Proton-Motive Force,moft,moft,1,CAUSES_MOFTcausMOFT
+C2247725,C1150572,CAUSES,toll-like receptor 4 signaling pathway,protein kinase C activity,moft,moft,1,CAUSES_MOFTcausMOFT
+C2248778,C0596843,CAUSES,cyclic nucleotide-gated mechanosensitive ion channel activity,Adipogenesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C2754756,C1159825,CAUSES,death-inducing signaling complex assembly,Caspase Activation,moft,moft,1,CAUSES_MOFTcausMOFT
+C2917254,C0031715,CAUSES,Dipeptidyl Peptidase 4 Inhibitors [MoA],Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3160734,C0031715,CAUSES,Dephosphorylation,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3160734,C0597295,CAUSES,Dephosphorylation,Protein Biosynthesis,moft,moft,1,CAUSES_MOFTcausMOFT
+C3178997,C1519751,CAUSES,Endoplasmic Reticulum-Associated Degradation,Ubiquitination,moft,moft,1,CAUSES_MOFTcausMOFT
+C3179231,C0031715,CAUSES,ERK1-2 Pathway,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3179234,C0031715,CAUSES,ERK Signal Tranduction Pathway,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3269204,C0301641,CAUSES,epigallocatechin 3-gallate binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C3549111,C0031715,CAUSES,PKR signal transduction,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3549171,C0031715,CAUSES,transforming growth factor beta activation,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3549171,C1149289,CAUSES,transforming growth factor beta activation,kinase binding,moft,moft,1,CAUSES_MOFTcausMOFT
+C3549205,C0031715,CAUSES,vascular endothelial growth factor receptor-2 signaling pathway,Phosphorylation,moft,moft,1,CAUSES_MOFTcausMOFT
+C3820738,C0301641,CAUSES,co-receptor binding,Macromolecular alteration,moft,moft,1,CAUSES_MOFTcausMOFT
+C4235025,C3178997,CAUSES,mannose trimming,Endoplasmic Reticulum-Associated Degradation,moft,moft,1,CAUSES_MOFTcausMOFT
+C4331020,C1159277,CAUSES,Poly ADP Ribosylation,protein deacetylation,moft,moft,1,CAUSES_MOFTcausMOFT

@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003261,AUGMENTS,Immunologic Adjuvants,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C0031308,AUGMENTS,Immunologic Adjuvants,Phagocytosis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C0086982,AUGMENTS,Immunologic Adjuvants,Signal Transduction Pathways,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C0206431,AUGMENTS,Immunologic Adjuvants,Antigen Presentation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1155046,AUGMENTS,Immunologic Adjuvants,T-Cell Proliferation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1155065,AUGMENTS,Immunologic Adjuvants,T-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1155229,AUGMENTS,Immunologic Adjuvants,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1817908,AUGMENTS,Immunologic Adjuvants,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0019168,C0003261,AUGMENTS,Hepatitis B Surface Antigens,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0019168,C1155229,AUGMENTS,Hepatitis B Surface Antigens,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021054,C0086982,AUGMENTS,Immunologic Factors,Signal Transduction Pathways,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021403,C0003261,AUGMENTS,Influenza virus vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021403,C1817908,AUGMENTS,Influenza virus vaccine,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0037355,C0003261,AUGMENTS,Smallpox Vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0041361,C0206431,AUGMENTS,Tumor Antigens,Antigen Presentation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C0003261,AUGMENTS,Vaccines,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C0206431,AUGMENTS,Vaccines,Antigen Presentation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C1155229,AUGMENTS,Vaccines,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C1155263,AUGMENTS,Vaccines,T-helper 2 type immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C1817908,AUGMENTS,Vaccines,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042210,C4235944,AUGMENTS,Vaccines,response to glycoprotein,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042211,C0010813,AUGMENTS,"Vaccines, Attenuated",Cytokinesis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042212,C0003261,AUGMENTS,"Vaccines, Inactivated",Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042212,C0041904,AUGMENTS,"Vaccines, Inactivated",Up-Regulation (Physiology),imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042212,C1155013,AUGMENTS,"Vaccines, Inactivated",T cell differentiation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042212,C1817908,AUGMENTS,"Vaccines, Inactivated",Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042742,C0003261,AUGMENTS,Viral Vaccines,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0206515,C0003261,AUGMENTS,"Vaccines, Conjugate",Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C0003261,AUGMENTS,"Vaccines, DNA",Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C0206431,AUGMENTS,"Vaccines, DNA",Antigen Presentation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155003,AUGMENTS,"Vaccines, DNA",B-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155046,AUGMENTS,"Vaccines, DNA",T-Cell Proliferation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155065,AUGMENTS,"Vaccines, DNA",T-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155080,AUGMENTS,"Vaccines, DNA",T-helper 1 type immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155229,AUGMENTS,"Vaccines, DNA",Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1318468,AUGMENTS,"Vaccines, DNA",cell mediated immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0597641,C0003261,AUGMENTS,plasmid vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0770694,C0003272,AUGMENTS,trivalent influenza vaccine,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0887892,C0003261,AUGMENTS,"Vaccines, Subunit",Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0887892,C1155229,AUGMENTS,"Vaccines, Subunit",Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1456404,C0003261,AUGMENTS,Trivalent Live Attenuated Influenza Vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1514218,C0003261,AUGMENTS,Polyvalent Vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1519887,C0003261,AUGMENTS,Vaccine Antigen,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1519887,C1155229,AUGMENTS,Vaccine Antigen,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1519904,C0003261,AUGMENTS,Vaccinia Vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C2825347,C0597601,AUGMENTS,"Immunoglobulin A, Human",Transcytosis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C3272757,C0003261,AUGMENTS,Live Attenuated Influenza Vaccine,Antibody Formation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C3272757,C0041904,AUGMENTS,Live Attenuated Influenza Vaccine,Up-Regulation (Physiology),imft,celf,1,AUGMENTS_IMFTaugmCELF
+C3526553,C1817908,AUGMENTS,"diphtheria, tetanus toxoids and acellular pertussis vaccine",Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF

@@ -1,0 +1,119 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003280,C0376545,TREATS,Anticoagulants,Hematologic Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003297,C0006826,TREATS,Antiemetics,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003374,C0032580,TREATS,Antimalarials,Adenomatous Polyposis Coli,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003374,C0206743,TREATS,Antimalarials,Rhabdoid Tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003379,C0006826,TREATS,Antimitotic Agents,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0006826,TREATS,Antineoplastic Agents,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0007847,TREATS,Antineoplastic Agents,Malignant tumor of cervix,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0023449,TREATS,Antineoplastic Agents,Acute lymphocytic leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0023467,TREATS,Antineoplastic Agents,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0024299,TREATS,Antineoplastic Agents,Lymphoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0025202,TREATS,Antineoplastic Agents,melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0376545,TREATS,Antineoplastic Agents,Hematologic Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C0877373,TREATS,Antineoplastic Agents,advanced cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003392,C3463824,TREATS,Antineoplastic Agents,MYELODYSPLASTIC SYNDROME,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0003402,C0006826,TREATS,Antioxidants,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0003451,C1266119,TREATS,Antiviral Agents,Solitary fibrous tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0004475,C0023467,TREATS,Azacitidine,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0004475,C3463824,TREATS,Azacitidine,MYELODYSPLASTIC SYNDROME,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0004483,C0343079,TREATS,Azauridine,"Milia, Multiple Eruptive",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0005525,C0006826,TREATS,Biological Response Modifiers,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0005525,C0877373,TREATS,Biological Response Modifiers,advanced cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0006684,C1266119,TREATS,Calcium Channel Blockers,Solitary fibrous tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0011777,C0178874,TREATS,Dexamethasone,Tumor Progression,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0013162,C0006826,TREATS,Drug Combinations,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0013232,C0017636,TREATS,"Drugs, Orphan",Glioblastoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0014432,C0006826,TREATS,Enzyme Inhibitors,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0014695,C0024299,TREATS,Ergocalciferol,Lymphoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0016360,C0006826,TREATS,Fluorouracil,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0016360,C0027651,TREATS,Fluorouracil,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0016360,C1141918,TREATS,Fluorouracil,Infected Tumors,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0016411,C0027651,TREATS,Folic Acid Antagonists,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0017066,C0521158,TREATS,Ganciclovir,Recurrent tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0017066,C0555198,TREATS,Ganciclovir,Malignant Glioma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0021081,C0006826,TREATS,Immunosuppressive Agents,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0021081,C0023418,TREATS,Immunosuppressive Agents,leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0032950,C0334121,TREATS,prednisolone,Inflammatory Myofibroblastic Tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0035525,C0023418,TREATS,Ribavirin,leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0035525,C0027627,TREATS,Ribavirin,Neoplasm Metastasis,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0035525,C1266119,TREATS,Ribavirin,Solitary fibrous tumor,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0037982,C0026764,TREATS,Spironolactone,Multiple Myeloma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0042397,C0006826,TREATS,Vasoconstrictor Agents,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0006826,TREATS,gemcitabine,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0045093,C0007131,TREATS,gemcitabine,Non-Small Cell Lung Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0025202,TREATS,gemcitabine,melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0027651,TREATS,gemcitabine,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0153452,TREATS,gemcitabine,Malignant neoplasm of gallbladder,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0235974,TREATS,gemcitabine,Pancreatic carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0278488,TREATS,gemcitabine,Carcinoma breast stage IV,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C0280100,TREATS,gemcitabine,Solid Neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0045093,C1167725,TREATS,gemcitabine,Stage IV Pancreatic Cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0049065,C0017638,TREATS,decitabine,Glioma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0049065,C3463824,TREATS,decitabine,MYELODYSPLASTIC SYNDROME,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0063469,C0023418,TREATS,indirubin,leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0077144,C0026683,TREATS,trilostane,Mucocele,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0078080,C0027651,TREATS,"vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-",Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0085169,C0242379,TREATS,Anticarcinogenic Agents,Malignant neoplasm of lung,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0085169,C0278883,TREATS,Anticarcinogenic Agents,Metastatic melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0085169,C0376358,TREATS,Anticarcinogenic Agents,Malignant neoplasm of prostate,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0085385,C0596263,TREATS,Lipoxygenase Inhibitors,Carcinogenesis,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0182638,C0006826,TREATS,Radiopharmaceuticals,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0286079,C0027651,TREATS,Cidofovir,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0301344,C0027651,TREATS,Antitrypanosomal agent,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0301344,C0376358,TREATS,Antitrypanosomal agent,Malignant neoplasm of prostate,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0593802,C0006142,TREATS,Aromatase Inhibitors,Malignant neoplasm of breast,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0593802,C0006826,TREATS,Aromatase Inhibitors,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0597639,C0006826,TREATS,vasoactive agent,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0599934,C0027651,TREATS,"Vaccines, Peptide",Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0599934,C0242379,TREATS,"Vaccines, Peptide",Malignant neoplasm of lung,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0702057,C0206655,TREATS,Equipoise,Alveolar rhabdomyosarcoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0851344,C0006826,TREATS,exemestane,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0914671,C1835664,TREATS,CPG-ODN,TYLOSIS WITH ESOPHAGEAL CANCER,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C0935929,C0006826,TREATS,Antidiabetics,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1135133,C0025202,TREATS,Provenge,melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1135133,C0376358,TREATS,Provenge,Malignant neoplasm of prostate,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C1268567,C0023473,TREATS,Protein-tyrosine kinase inhibitor,"Myeloid Leukemia, Chronic",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1268567,C0334664,TREATS,Protein-tyrosine kinase inhibitor,Mast Cell Neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1268567,C1960397,TREATS,Protein-tyrosine kinase inhibitor,Philadelphia chromosome-positive acute lymphoblastic leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1372955,C0023473,TREATS,Active ingredient,"Myeloid Leukemia, Chronic",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1443643,C0006826,TREATS,Proteasome inhibitor,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1443643,C0026764,TREATS,Proteasome inhibitor,Multiple Myeloma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1443643,C0334463,TREATS,Proteasome inhibitor,Malignant Fibrous Histiocytoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1443643,C0334634,TREATS,Proteasome inhibitor,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1443775,C0027627,TREATS,Epidermal growth factor receptor inhibitor (product),Neoplasm Metastasis,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1511961,C0023467,TREATS,Dihydroorotate Dehydrogenase Inhibitor,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1516463,C1512409,TREATS,Chemopreventive Agent,Hepatocarcinogenesis,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1519903,C0936223,TREATS,PROSTVAC,Metastatic Prostate Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1520007,C0006826,TREATS,viral vector,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1520007,C0027651,TREATS,viral vector,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1711297,C0029925,TREATS,MUC-1 peptide vaccine,Ovarian Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1718097,C0006826,TREATS,New medications,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C1718097,C0023467,TREATS,New medications,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1718097,C0242379,TREATS,New medications,Malignant neoplasm of lung,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1718097,C2239176,TREATS,New medications,Liver carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1831838,C0278883,TREATS,RFT5-dgA immunotoxin,Metastatic melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1831875,C0242379,TREATS,urelumab,Malignant neoplasm of lung,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1831974,C1301363,TREATS,DT(388)IL3 fusion protein,Blastic plasmacytoid dendritic cell neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1874451,C0006826,TREATS,Basis,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1874451,C0007847,TREATS,Basis,Malignant tumor of cervix,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C1874451,C0279068,TREATS,Basis,Childhood Solid Neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2347168,C0006826,TREATS,Mitogen-Activated Protein Kinase Kinase Inhibitor,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2347168,C0027651,TREATS,Mitogen-Activated Protein Kinase Kinase Inhibitor,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2347425,C0006826,TREATS,BEZ235,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2703116,C0280100,TREATS,CALAA-01,Solid Neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2987634,C0007117,TREATS,Agonist,Basal cell carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2987634,C0033375,TREATS,Agonist,Prolactinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2987634,C0042133,TREATS,Agonist,Uterine Fibroids,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C2987634,C0678222,TREATS,Agonist,Breast Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3272418,C0877373,TREATS,PRI-724,advanced cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3536994,C0033375,TREATS,Ergot Derivatives,Prolactinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3536994,C0042133,TREATS,Ergot Derivatives,Uterine Fibroids,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3537161,C0007131,TREATS,Dipeptidyl Peptidase 4 Inhibitor [EPC],Non-Small Cell Lung Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3539125,C0006142,TREATS,other medicated shampoos in ATC,Malignant neoplasm of breast,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3539125,C0006826,TREATS,other medicated shampoos in ATC,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3539125,C0027651,TREATS,other medicated shampoos in ATC,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3539125,C0555198,TREATS,other medicated shampoos in ATC,Malignant Glioma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C3539957,C0007137,TREATS,opium alkaloids and derivative combination cough suppressants,Squamous cell carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C4331925,C0235974,TREATS,PANVAC,Pancreatic carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
+C4527307,C0006826,TREATS,Mcl-1 Inhibitor,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP

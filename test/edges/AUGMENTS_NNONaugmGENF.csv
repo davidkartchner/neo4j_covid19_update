@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0023978,C1158817,AUGMENTS,Long Terminal Repeat,viral transcription,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028630,C0026882,AUGMENTS,Nucleotides,Mutation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028630,C0598496,AUGMENTS,Nucleotides,Gene Silencing,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028630,C0599773,AUGMENTS,Nucleotides,Homologous Recombination,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028630,C1523529,AUGMENTS,Nucleotides,pre-miRNA processing,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028953,C0282572,AUGMENTS,Oligonucleotides,"Frameshifting, Ribosomal",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0028953,C1523529,AUGMENTS,Oligonucleotides,pre-miRNA processing,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C0017262,AUGMENTS,"RNA, Viral",Gene Expression,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C0026882,AUGMENTS,"RNA, Viral",Mutation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C0034865,AUGMENTS,"RNA, Viral","Recombination, Genetic",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C0040649,AUGMENTS,"RNA, Viral","Transcription, Genetic",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C1152412,AUGMENTS,"RNA, Viral",RNA-directed RNA polymerase activity,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C1511695,AUGMENTS,"RNA, Viral",DNA Sequence Rearrangement,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0035736,C1623415,AUGMENTS,"RNA, Viral",RNA chemical synthesis,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0079532,C0040624,AUGMENTS,HIV-1 LTR,"Trans-Activation, Genetic",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C0013458,AUGMENTS,Oligonucleotide Primers,Early Gene Transcription,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C0026882,AUGMENTS,Oligonucleotide Primers,Mutation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C0035380,AUGMENTS,Oligonucleotide Primers,Reverse Transcription,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C0678713,AUGMENTS,Oligonucleotide Primers,DNA template,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C1152412,AUGMENTS,Oligonucleotide Primers,RNA-directed RNA polymerase activity,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C1155650,AUGMENTS,Oligonucleotide Primers,Replication Initiation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C1158517,AUGMENTS,Oligonucleotide Primers,strand displacement,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0206415,C1158803,AUGMENTS,Oligonucleotide Primers,RNA elongation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0369499,C0040649,AUGMENTS,Human immunodeficiency virus 1 RNA,"Transcription, Genetic",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0599013,C0040649,AUGMENTS,aptamer,"Transcription, Genetic",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0599013,C0282572,AUGMENTS,aptamer,"Frameshifting, Ribosomal",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0600500,C0282572,AUGMENTS,Peptide Nucleic Acids,"Frameshifting, Ribosomal",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0887909,C0282572,AUGMENTS,"RNA, Untranslated","Frameshifting, Ribosomal",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C0887909,C1136031,AUGMENTS,"RNA, Untranslated",RNA Interference,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1514152,C2611689,AUGMENTS,Plasmid Cloning Vector,mRNA methylation,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1514926,C0079868,AUGMENTS,retroviral vector,"Mutagenesis, Insertional",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1519595,C0035380,AUGMENTS,Transcript,Reverse Transcription,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1519595,C0597600,AUGMENTS,Transcript,Transcription Termination,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1519595,C0598312,AUGMENTS,Transcript,DNA Replication,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1519595,C1622984,AUGMENTS,Transcript,mRNA synthesis,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C1519595,C2610186,AUGMENTS,Transcript,"nuclear mRNA cis splicing, via spliceosome",nnon,genf,1,AUGMENTS_NNONaugmGENF
+C2930586,C0598496,AUGMENTS,Short Hairpin RNA,Gene Silencing,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C2930586,C1136031,AUGMENTS,Short Hairpin RNA,RNA Interference,nnon,genf,1,AUGMENTS_NNONaugmGENF
+C2982391,C0017262,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Gene Expression,nnon,genf,1,AUGMENTS_NNONaugmGENF

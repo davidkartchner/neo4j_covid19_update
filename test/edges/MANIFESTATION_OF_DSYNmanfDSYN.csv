@@ -1,0 +1,69 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004096,C0006271,MANIFESTATION_OF,Asthma,Bronchiolitis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0004364,C0035304,MANIFESTATION_OF,Autoimmune Diseases,Retinal Degeneration,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0004623,C0151317,MANIFESTATION_OF,Bacterial Infections,Chronic infectious disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0006271,C0004096,MANIFESTATION_OF,Bronchiolitis,Asthma,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0008679,C0151317,MANIFESTATION_OF,Chronic disease,Chronic infectious disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0009443,C0035243,MANIFESTATION_OF,Common Cold,Respiratory Tract Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0009443,C0041912,MANIFESTATION_OF,Common Cold,Upper Respiratory Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0011053,C1373218,MANIFESTATION_OF,Deafness,Decreased Immunologic Activity [PE],dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0011847,C0035078,MANIFESTATION_OF,Diabetes,Kidney Failure,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0014038,C0043124,MANIFESTATION_OF,Encephalitis,West Nile Fever,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0014335,C0001486,MANIFESTATION_OF,Enteritis,Adenovirus Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0016627,C0009450,MANIFESTATION_OF,Influenza in Birds,Communicable Diseases,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0018799,C0264656,MANIFESTATION_OF,Heart Diseases,Cardiovascular renal disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0019158,C0001486,MANIFESTATION_OF,Hepatitis,Adenovirus Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0019163,C0206746,MANIFESTATION_OF,Hepatitis B,Hepadnaviridae Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0020456,C0011847,MANIFESTATION_OF,Hyperglycemia,Diabetes,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0021345,C0149678,MANIFESTATION_OF,Infectious Mononucleosis,Epstein-Barr Virus Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0024312,C1175175,MANIFESTATION_OF,Lymphopenia,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0024530,C0276832,MANIFESTATION_OF,Malaria,Congenital malaria,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0025289,C0043124,MANIFESTATION_OF,Meningitis,West Nile Fever,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0025517,C0400966,MANIFESTATION_OF,Metabolic Diseases,Non-alcoholic Fatty Liver Disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0027059,C0036690,MANIFESTATION_OF,Myocarditis,Septicemia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0029882,C0035243,MANIFESTATION_OF,Otitis Media,Respiratory Tract Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0032285,C0036690,MANIFESTATION_OF,Pneumonia,Septicemia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0032285,C1175175,MANIFESTATION_OF,Pneumonia,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0032290,C0035222,MANIFESTATION_OF,Aspiration Pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0034069,C0032285,MANIFESTATION_OF,Pulmonary Fibrosis,Pneumonia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0035220,C0001126,MANIFESTATION_OF,"Respiratory Distress Syndrome, Newborn",Renal tubular acidosis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0035222,C0036690,MANIFESTATION_OF,"Respiratory Distress Syndrome, Adult",Septicemia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0035243,C0001486,MANIFESTATION_OF,Respiratory Tract Infections,Adenovirus Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0035243,C0009421,MANIFESTATION_OF,Respiratory Tract Infections,Comatose,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0035243,C0027765,MANIFESTATION_OF,Respiratory Tract Infections,nervous system disorder,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0036690,C0035222,MANIFESTATION_OF,Septicemia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0040586,C0035243,MANIFESTATION_OF,Tracheobronchitis,Respiratory Tract Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0041956,C0041952,MANIFESTATION_OF,Ureteral obstruction,Ureterolithiasis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0042769,C0001752,MANIFESTATION_OF,Virus Diseases,African swine fever,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0042769,C0272302,MANIFESTATION_OF,Virus Diseases,Gray Platelet Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0085110,C1846142,MANIFESTATION_OF,Severe Combined Immunodeficiency,HOYERAAL-HREIDARSSON SYNDROME,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0085273,C0042164,MANIFESTATION_OF,Erythema Infectiosum,Uveitis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0085584,C0036690,MANIFESTATION_OF,Encephalopathies,Septicemia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0085692,C0001486,MANIFESTATION_OF,Hemorrhagic cystitis,Adenovirus Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0085786,C0034069,MANIFESTATION_OF,Hamman-Rich syndrome,Pulmonary Fibrosis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0155626,C0854532,MANIFESTATION_OF,Acute myocardial infarction,Myopericarditis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0162557,C0035222,MANIFESTATION_OF,"Liver Failure, Acute","Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0234935,C0740281,MANIFESTATION_OF,Acute urticaria,multiple allergies,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0235840,C0014335,MANIFESTATION_OF,Neonatal diarrhea,Enteritis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0235989,C0022658,MANIFESTATION_OF,Renal interstitial fibrosis,Kidney Diseases,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0265223,C0018378,MANIFESTATION_OF,Cohen syndrome,Guillain-Barre Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0275518,C0012546,MANIFESTATION_OF,Acute infectious disease,Diphtheria,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0275518,C0026975,MANIFESTATION_OF,Acute infectious disease,Myelitis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0276446,C0026769,MANIFESTATION_OF,Murine encephalomyelitis,Multiple Sclerosis,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0277554,C0032285,MANIFESTATION_OF,primary disorders,Pneumonia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0600260,C0699949,MANIFESTATION_OF,"Lung Diseases, Obstructive",airway disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0679225,C0035828,MANIFESTATION_OF,multiple pathologies,Romano-Ward Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0743841,C0035613,MANIFESTATION_OF,Disorder characterized by fever,Rift Valley Fever,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0743841,C0694549,MANIFESTATION_OF,Disorder characterized by fever,Community acquired pneumonia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0749591,C0035243,MANIFESTATION_OF,tonsillopharyngitis,Respiratory Tract Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0876973,C1262313,MANIFESTATION_OF,Infectious disease of lung,Invasive Fungal Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C0948780,C0035243,MANIFESTATION_OF,Rhinosinusitis,Respiratory Tract Infections,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1145670,C1535939,MANIFESTATION_OF,Respiratory Failure,Pneumocystis jiroveci pneumonia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1262020,C0035222,MANIFESTATION_OF,diffuse alveolar damage,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1264606,C1373218,MANIFESTATION_OF,Persistent infection,Decreased Immunologic Activity [PE],dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1274778,C0277553,MANIFESTATION_OF,Nodular panniculitis,Idiopathic disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1290325,C0740766,MANIFESTATION_OF,Disorder of lower respiratory system,acute pneumonia,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1412002,C1175175,MANIFESTATION_OF,Atypical pneumonia,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1443953,C0043395,MANIFESTATION_OF,Acute viral disease,Yellow Fever,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1565489,C0264656,MANIFESTATION_OF,Renal Insufficiency,Cardiovascular renal disease,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN
+C1854469,C1853120,MANIFESTATION_OF,Noonan Syndrome 2,Noonan Syndrome 4,dsyn,dsyn,1,MANIFESTATION_OF_DSYNmanfDSYN

@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007584,C0427861,PRODUCES,Cell Count,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0007585,C0427861,PRODUCES,Cell Culture Techniques,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0205557,PRODUCES,Enzyme-Linked Immunosorbent Assay,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0205558,PRODUCES,Enzyme-Linked Immunosorbent Assay,False Negative,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0427861,PRODUCES,Enzyme-Linked Immunosorbent Assay,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0014441,C0428536,PRODUCES,Enzyme-Linked Immunosorbent Assay,Immunoglobulin level - finding,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0016128,C3463810,PRODUCES,"Fingerprints, Peptide",Proteomic Profile,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0022885,C0205557,PRODUCES,Laboratory Procedures,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0026019,C0427861,PRODUCES,Electron Microscopy,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0036743,C0205557,PRODUCES,Serologic tests,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0079366,C0427861,PRODUCES,Fluorescence-Activated Cell Sorting,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0872232,C0205558,PRODUCES,Nucleic acid assay,False Negative,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C0949466,C0427861,PRODUCES,Western Blot,Human cells,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1318786,C0205557,PRODUCES,Fluorescent stain method,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1446041,C3463810,PRODUCES,Serum protein profile,Proteomic Profile,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1510438,C0205557,PRODUCES,Assay,False Positive,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR
+C1510438,C0205558,PRODUCES,Assay,False Negative,lbpr,lbtr,1,PRODUCES_LBPRprodLBTR

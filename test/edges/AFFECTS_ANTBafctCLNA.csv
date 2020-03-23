@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0520990,AFFECTS,Antibiotics,Host defense,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0008947,C2926606,AFFECTS,Clindamycin,Procedure findings:Finding:Point in time:^Patient:Narrative,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0038425,C1316572,AFFECTS,Streptomycin,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},antb,clna,1,AFFECTS_ANTBafctCLNA
+C2983838,C0488414,AFFECTS,omadacycline,QT interval:Time:Point in time:Heart:Quantitative:EKG,antb,clna,1,AFFECTS_ANTBafctCLNA
+C3536856,C0801957,AFFECTS,Cephalosporins,Penicillin:Susc:Pt:Isolate:OrdQn,antb,clna,1,AFFECTS_ANTBafctCLNA

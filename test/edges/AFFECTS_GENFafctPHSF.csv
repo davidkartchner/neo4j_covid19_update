@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017255,C0020964,AFFECTS,Gene Activation,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0017262,C0149784,AFFECTS,Gene Expression,biological adaptation to stress,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0026882,C0020964,AFFECTS,Mutation,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0026882,C0242732,AFFECTS,Mutation,Tropism,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0026882,C1328821,AFFECTS,Mutation,tissue tropism,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0026882,C1514892,AFFECTS,Mutation,Resistance Process,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0026882,C2717801,AFFECTS,Mutation,Viral Tropism,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0034865,C1328821,AFFECTS,"Recombination, Genetic",tissue tropism,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0034865,C1512827,AFFECTS,"Recombination, Genetic",Interferon Signaling Process,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0034865,C1514892,AFFECTS,"Recombination, Genetic",Resistance Process,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0034865,C4277517,AFFECTS,"Recombination, Genetic",Host Tropism,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0598312,C0597170,AFFECTS,DNA Replication,paracrine,genf,phsf,1,AFFECTS_GENFafctPHSF
+C0678945,C0020964,AFFECTS,polygene,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1136031,C0020964,AFFECTS,RNA Interference,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1158728,C0020964,AFFECTS,RNA Processing,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1171362,C0035203,AFFECTS,protein expression,Respiration,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1511695,C1326960,AFFECTS,DNA Sequence Rearrangement,Cholesterol Homeostasis,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1516924,C0020964,AFFECTS,Epigenetic Process,Immunity,genf,phsf,1,AFFECTS_GENFafctPHSF
+C1519613,C3714584,AFFECTS,Translation Initiation,"Transformation, function",genf,phsf,1,AFFECTS_GENFafctPHSF
+C2245743,C0035203,AFFECTS,mitochondrial translation,Respiration,genf,phsf,1,AFFECTS_GENFafctPHSF
+C4277511,C3714584,AFFECTS,Maternal Inheritance,"Transformation, function",genf,phsf,1,AFFECTS_GENFafctPHSF

@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0150312,TREATS,Hospitalization,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0019993,C0600457,TREATS,Hospitalization,Gravidity,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0030685,C0150312,TREATS,Patient Discharge,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0033052,C0600457,TREATS,Prenatal care,Gravidity,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0033325,C0150312,TREATS,Forecast of outcome,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0034115,C0150312,TREATS,Paracentesis,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0086930,C0150312,TREATS,Risk Assessment,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0150600,C0035648,TREATS,Advice,risk factors,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0199175,C0035648,TREATS,Preventive service healthcare,risk factors,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0206082,C0150312,TREATS,Immunization Programs,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0220908,C0035648,TREATS,Screening procedure,risk factors,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0220908,C0150312,TREATS,Screening procedure,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0558024,C0150312,TREATS,Functional behavioral assessment,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C0805586,C0150312,TREATS,Challenge,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C1261322,C0150312,TREATS,Evaluation procedure,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C1293116,C0150312,TREATS,Introduction procedure,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C1318464,C0150312,TREATS,Occupational therapy regime,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C1522577,C0150312,TREATS,follow-up,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C1883350,C0150312,TREATS,Titrate,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C4036459,C0150312,TREATS,Contacts,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO
+C4279933,C0150312,TREATS,Vaccination Campaign,Present,hlca,qnco,1,TREATS_HLCAtrtsQNCO

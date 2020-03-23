@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0022885,ISA,Autopsy,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0005558,C0022885,ISA,Biopsy,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0005558,C0919386,ISA,Biopsy,Pathology procedure,diap,lbpr,1,ISA_DIAPisaLBPR
+C0005834,C0022885,ISA,Collection of blood specimen for laboratory procedure,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0024485,C0022885,ISA,Magnetic Resonance Imaging,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0024485,C0037812,ISA,Magnetic Resonance Imaging,Spectrum Analysis,diap,lbpr,1,ISA_DIAPisaLBPR
+C0024485,C0436196,ISA,Magnetic Resonance Imaging,Spectrometry,diap,lbpr,1,ISA_DIAPisaLBPR
+C0028792,C0022885,ISA,Occult blood screen,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0030646,C0022885,ISA,Patch Tests,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0034108,C0005800,ISA,"Oximetry, Pulse",Blood Gas Analysis,diap,lbpr,1,ISA_DIAPisaLBPR
+C0037296,C0022885,ISA,Hypersensitivity skin testing,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0040017,C0022885,ISA,Thrombelastography,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0079835,C0026019,ISA,"Microscopy, Immunoelectron",Electron Microscopy,diap,lbpr,1,ISA_DIAPisaLBPR
+C0150411,C0022885,ISA,Analysis of arterial blood gases and pH,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0430561,C0022885,ISA,Skin prick test,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0430567,C0022885,ISA,Methacholine challenge,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0430568,C0022885,ISA,Oral provocation test,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0581714,C0022885,ISA,Buccal smear procedure,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C0596608,C0022885,ISA,gel mobility shift assay,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR
+C1327806,C0037813,ISA,Surface Enhanced Laser Desorption Ionization Mass Spectrometry,Mass Spectrometry,diap,lbpr,1,ISA_DIAPisaLBPR
+C1510483,C0022885,ISA,Fine needle aspiration biopsy,Laboratory Procedures,diap,lbpr,1,ISA_DIAPisaLBPR

@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002903,C0030054,USES,Anesthesia procedures,Oxygen,topp,elii,1,USES_TOPPusesELII
+C0020431,C0030054,USES,Hyperbaric oxygenation therapy,Oxygen,topp,elii,1,USES_TOPPusesELII
+C0020971,C0018026,USES,Immunization,Gold,topp,elii,1,USES_TOPPusesELII
+C0035139,C0030054,USES,Surgical Replantation,Oxygen,topp,elii,1,USES_TOPPusesELII
+C0035139,C0038774,USES,Surgical Replantation,Sulfur,topp,elii,1,USES_TOPPusesELII
+C0036716,C0030054,USES,Serial Extraction,Oxygen,topp,elii,1,USES_TOPPusesELII
+C0042196,C0018026,USES,Vaccination,Gold,topp,elii,1,USES_TOPPusesELII
+C0042196,C0018880,USES,Vaccination,Helium,topp,elii,1,USES_TOPPusesELII
+C0185115,C2346927,USES,Extraction,Magnesium Cation,topp,elii,1,USES_TOPPusesELII
+C0185115,C2347816,USES,Extraction,cobaltous cation,topp,elii,1,USES_TOPPusesELII
+C0441516,C0030054,USES,Demand (clinical),Oxygen,topp,elii,1,USES_TOPPusesELII
+C0459914,C0030054,USES,Conservative Treatment,Oxygen,topp,elii,1,USES_TOPPusesELII
+C0543467,C0301294,USES,Operative Surgical Procedures,Nitrogen gas,topp,elii,1,USES_TOPPusesELII
+C0684199,C0003818,USES,Homeopathy,Arsenic,topp,elii,1,USES_TOPPusesELII
+C1511790,C0018026,USES,Detection,Gold,topp,elii,1,USES_TOPPusesELII
+C1511790,C0851287,USES,Detection,Phosphorus 32,topp,elii,1,USES_TOPPusesELII
+C1511790,C2347816,USES,Detection,cobaltous cation,topp,elii,1,USES_TOPPusesELII
+C1868981,C0018880,USES,Invasive mechanical ventilation NOS,Helium,topp,elii,1,USES_TOPPusesELII
+C1956191,C0018880,USES,Gene Gun DNA Immunization,Helium,topp,elii,1,USES_TOPPusesELII
+C2936643,C0030054,USES,Standard of Care,Oxygen,topp,elii,1,USES_TOPPusesELII
+C2945704,C0030054,USES,Conventional Treatment,Oxygen,topp,elii,1,USES_TOPPusesELII

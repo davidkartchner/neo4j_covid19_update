@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005863,C0872252,METHOD_OF,Western Blotting,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0007584,C0030664,METHOD_OF,Cell Count,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0007584,C0872252,METHOD_OF,Cell Count,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0008551,C0005532,METHOD_OF,"Chromatography, Affinity",biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0013855,C0026376,METHOD_OF,Electrophoresis,Molecular Biology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0013860,C0005532,METHOD_OF,"Electrophoresis, Gel, Two-Dimensional",biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0013860,C0872252,METHOD_OF,"Electrophoresis, Gel, Two-Dimensional",Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0014441,C0005532,METHOD_OF,Enzyme-Linked Immunosorbent Assay,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0014441,C0036745,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Study of serum,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0016263,C0005532,METHOD_OF,Flow Cytometry,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0016318,C0014507,METHOD_OF,Fluorescent Antibody Technique,Epidemiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0020985,C0872252,METHOD_OF,Immunoblotting,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0021044,C0030664,METHOD_OF,Immunohistochemistry,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0021044,C0677043,METHOD_OF,Immunohistochemistry,Histopathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0022885,C0014507,METHOD_OF,Laboratory Procedures,Epidemiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0022885,C0031330,METHOD_OF,Laboratory Procedures,Pharmacology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0022885,C0036745,METHOD_OF,Laboratory Procedures,Study of serum,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0026018,C0030664,METHOD_OF,Microscopy,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0026019,C0872252,METHOD_OF,Electron Microscopy,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0004644,METHOD_OF,Polymerase Chain Reaction,Bacteriology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0005532,METHOD_OF,Polymerase Chain Reaction,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0010802,METHOD_OF,Polymerase Chain Reaction,Cytogenetics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0014507,METHOD_OF,Polymerase Chain Reaction,Epidemiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0030755,METHOD_OF,Polymerase Chain Reaction,Pediatrics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0036745,METHOD_OF,Polymerase Chain Reaction,Study of serum,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C0206173,METHOD_OF,Polymerase Chain Reaction,Molecular Epidemiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0032520,C1519753,METHOD_OF,Polymerase Chain Reaction,Ultrastructural Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0037813,C0872252,METHOD_OF,Mass Spectrometry,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0079366,C0005532,METHOD_OF,Fluorescence-Activated Cell Sorting,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0085254,C0019638,METHOD_OF,Tissue Fixation,Histology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0430027,C0030664,METHOD_OF,biochemical test,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0430389,C0019638,METHOD_OF,Light Microscopy,Histology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0430389,C0677043,METHOD_OF,Light Microscopy,Histopathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0474643,C0030664,METHOD_OF,Antibody titer measurement,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0523207,C0019638,METHOD_OF,Hematoxylin and eosin stain method,Histology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0523207,C0030664,METHOD_OF,Hematoxylin and eosin stain method,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0523207,C0677043,METHOD_OF,Hematoxylin and eosin stain method,Histopathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0599209,C0677043,METHOD_OF,Fast Protein Liquid Chromatography,Histopathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0678118,C0019638,METHOD_OF,Transmission Electron Microscopy,Histology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0679560,C0014507,METHOD_OF,Genetic screening method,Epidemiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0752248,C0031842,METHOD_OF,Gene Expression Profiling,Physiology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0871511,C0005553,METHOD_OF,Test Method,Biophysics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0872318,C0005532,METHOD_OF,Liquid Chromatography Mass Spectrometry,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C0872318,C0872252,METHOD_OF,Liquid Chromatography Mass Spectrometry,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1294356,C0036745,METHOD_OF,Detection of virus procedure,Study of serum,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1319309,C0677043,METHOD_OF,Hematoxylin stain method,Histopathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1449575,C0030664,METHOD_OF,Microarray Analysis,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1449575,C0887950,METHOD_OF,Microarray Analysis,Genomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1449575,C1140694,METHOD_OF,Microarray Analysis,Bio-Informatics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1510438,C0036745,METHOD_OF,Assay,Study of serum,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C1510438,C1516653,METHOD_OF,Assay,Clinical Virology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C2985515,C0005532,METHOD_OF,Glycan Analysis,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C2985515,C0005553,METHOD_OF,Glycan Analysis,Biophysics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C3815172,C0030664,METHOD_OF,Interleukin 1 Beta Measurement,Pathology,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C4049918,C0005532,METHOD_OF,Liquid Chromatography/Tandem Mass Spectrometry,biology (field),lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD
+C4049918,C0872252,METHOD_OF,Liquid Chromatography/Tandem Mass Spectrometry,Proteomics,lbpr,bmod,1,METHOD_OF_LBPRmthfBMOD

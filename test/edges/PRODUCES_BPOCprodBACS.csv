@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005682,C0035696,PRODUCES,Urinary Bladder,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005847,C0003320,PRODUCES,Blood Vessel,Antigens,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005953,C0033532,PRODUCES,Bone Marrow,Prostaglandin D2,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005953,C0033554,PRODUCES,Bone Marrow,Prostaglandins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005953,C0035696,PRODUCES,Bone Marrow,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0005953,C0067762,PRODUCES,Bone Marrow,N-Acetylneuraminic Acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0006104,C0035696,PRODUCES,Brain,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0006104,C0162772,PRODUCES,Brain,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0007531,C0015691,PRODUCES,Cecum,"Fatty Acids, Volatile",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0010352,C0001734,PRODUCES,Avian crop,Aflatoxins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0010352,C0026955,PRODUCES,Avian crop,Mycotoxins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0011106,C0033554,PRODUCES,Decidua,Prostaglandins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0015392,C0003320,PRODUCES,Eye,Antigens,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0017421,C0064582,PRODUCES,Female genitalia,Lactic acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0018563,C0007012,PRODUCES,Hand,Carbon Dioxide,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0018597,C0032712,PRODUCES,Harderian Gland,Porphyrins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0018787,C0035696,PRODUCES,Heart,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0022646,C0035696,PRODUCES,Kidney,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0008377,PRODUCES,Liver,Cholesterol,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0035696,PRODUCES,Liver,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C0041980,PRODUCES,Liver,Uric Acid,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0023884,C3714516,PRODUCES,Liver,tetraspanin-enriched microdomain,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0023545,PRODUCES,Lung,Leukotrienes,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0033554,PRODUCES,Lung,Prostaglandins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0024109,C0162772,PRODUCES,Lung,Reactive Oxygen Species,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0027088,C0033554,PRODUCES,myometrium,Prostaglandins,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0029939,C0035142,PRODUCES,Ovary,Replicon,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0030274,C0015684,PRODUCES,Pancreas,Fatty Acids,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0030274,C0041004,PRODUCES,Pancreas,Triglycerides,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0034051,C0178645,PRODUCES,Pulmonary alveolar structure,oxygen free radical,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0034196,C0040549,PRODUCES,Pylorus,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0036098,C0042479,PRODUCES,Salivary Glands,Venoms,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C0003320,PRODUCES,Vertebral column,Antigens,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C0012854,PRODUCES,Vertebral column,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037949,C0040549,PRODUCES,Vertebral column,Toxin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037993,C0035696,PRODUCES,Spleen,"RNA, Messenger",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0037993,C3714516,PRODUCES,Spleen,tetraspanin-enriched microdomain,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0178784,C0003320,PRODUCES,Organ,Antigens,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0178784,C0016693,PRODUCES,Organ,Free Radicals,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0221971,C0012854,PRODUCES,Hair follicle structure,DNA,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0230425,C0065530,PRODUCES,Structure of right thigh,magnesium pyrophosphate,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0262304,C0018909,PRODUCES,pars postrema of the ventral lateral nucleus,Hemagglutinin,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0262304,C0028128,PRODUCES,pars postrema of the ventral lateral nucleus,Nitric Oxide,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0262304,C0032136,PRODUCES,pars postrema of the ventral lateral nucleus,Plasmids,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0458827,C0001443,PRODUCES,Airway structure,Adenosine,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0502330,C0003320,PRODUCES,Lymphoid organ structure,Antigens,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C0819757,C0018284,PRODUCES,Structure of parenchyma of lung,Growth Factor,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1184743,C1101610,PRODUCES,bony process,MicroRNAs,bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1285092,C0035693,PRODUCES,Gland,"RNA, Double-Stranded",bpoc,bacs,1,PRODUCES_BPOCprodBACS
+C1515933,C0034085,PRODUCES,Alveolus,Pulmonary Surfactants,bpoc,bacs,1,PRODUCES_BPOCprodBACS

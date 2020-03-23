@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0031809,C0021044,USES,Physical Examination,Immunohistochemistry,hlca,lbpr,1,USES_HLCAusesLBPR
+C0032687,C0032520,USES,Population Surveillance,Polymerase Chain Reaction,hlca,lbpr,1,USES_HLCAusesLBPR
+C0037793,C0022885,USES,Specimen processing (procedure),Laboratory Procedures,hlca,lbpr,1,USES_HLCAusesLBPR
+C0037793,C1510438,USES,Specimen processing (procedure),Assay,hlca,lbpr,1,USES_HLCAusesLBPR
+C0220908,C0021044,USES,Screening procedure,Immunohistochemistry,hlca,lbpr,1,USES_HLCAusesLBPR
+C0332140,C0014441,USES,"Diagnosis, clinical",Enzyme-Linked Immunosorbent Assay,hlca,lbpr,1,USES_HLCAusesLBPR
+C0332140,C0022885,USES,"Diagnosis, clinical",Laboratory Procedures,hlca,lbpr,1,USES_HLCAusesLBPR
+C0332140,C0085672,USES,"Diagnosis, clinical",Microbiology procedure,hlca,lbpr,1,USES_HLCAusesLBPR
+C0332140,C1510438,USES,"Diagnosis, clinical",Assay,hlca,lbpr,1,USES_HLCAusesLBPR
+C1261322,C0021044,USES,Evaluation procedure,Immunohistochemistry,hlca,lbpr,1,USES_HLCAusesLBPR
+C1301725,C0021044,USES,Documented,Immunohistochemistry,hlca,lbpr,1,USES_HLCAusesLBPR
+C1514918,C0021044,USES,Retrieval,Immunohistochemistry,hlca,lbpr,1,USES_HLCAusesLBPR

@@ -1,0 +1,65 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013330,C0004096,CAUSES,Dust,Asthma,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0013330,C0022568,CAUSES,Dust,Keratitis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0013330,C0032285,CAUSES,Dust,Pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0013330,C0035204,CAUSES,Dust,Respiration Disorders,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0013330,C0155866,CAUSES,Dust,Inhalational anthrax,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0037592,C0025309,CAUSES,Soil,Meningoencephalitis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0183753,C0021400,CAUSES,Swab specimen,Influenza,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0225386,C0022660,CAUSES,Breath,"Kidney Failure, Acute",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0225386,C0032285,CAUSES,Breath,Pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0225386,C1145670,CAUSES,Breath,Respiratory Failure,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0225386,C1701940,CAUSES,Breath,"Pneumonia, Ventilator-Associated",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0302908,C0011175,CAUSES,Liquid substance,Dehydration,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0302908,C0267797,CAUSES,Liquid substance,Acute hepatitis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0004096,CAUSES,Specimen,Asthma,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0009443,CAUSES,Specimen,Common Cold,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0009450,CAUSES,Specimen,Communicable Diseases,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0019099,CAUSES,Specimen,"Hemorrhagic Fever, Crimean",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0025637,CAUSES,Specimen,Methemoglobinemia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0032285,CAUSES,Specimen,Pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0032300,CAUSES,Specimen,Lobar Pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0149725,CAUSES,Specimen,Lower respiratory tract infection,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0206750,CAUSES,Specimen,Coronavirus Infections,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0275524,CAUSES,Specimen,Coinfection,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0370003,C0878751,CAUSES,Specimen,late pregnancy,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439861,C0001314,CAUSES,Substance,Acute Disease,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439861,C0024115,CAUSES,Substance,Lung diseases,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439861,C0035222,CAUSES,Substance,"Respiratory Distress Syndrome, Adult",sbst,dsyn,2,CAUSES_SBSTcausDSYN
+C0439861,C0206062,CAUSES,Substance,"Lung Diseases, Interstitial",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439861,C0264684,CAUSES,Substance,Coronary arteritis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439962,C0008925,CAUSES,Mixture,Cleft Palate,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0439962,C0018889,CAUSES,Mixture,Helminthiasis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0440266,C1175175,CAUSES,Debris,Severe Acute Respiratory Syndrome,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0444318,C0014335,CAUSES,Milk Specimen,Enteritis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0599638,C0008354,CAUSES,Drinking Water,Cholera,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0729650,C0009782,CAUSES,Constituents,Connective Tissue Diseases,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0729650,C0024796,CAUSES,Constituents,Marfan Syndrome,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C0868994,C1175175,CAUSES,moisture,Severe Acute Respiratory Syndrome,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0007361,CAUSES,etiologic agent,Cat-Scratch Disease,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0013369,CAUSES,etiologic agent,Dysentery,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0017160,CAUSES,etiologic agent,Gastroenteritis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0019087,CAUSES,etiologic agent,Hemorrhagic Disorders,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0019104,CAUSES,etiologic agent,"Hemorrhagic Fevers, Viral",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0032285,CAUSES,etiologic agent,Pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0035243,CAUSES,etiologic agent,Respiratory Tract Infections,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0036114,CAUSES,etiologic agent,Salmonella food poisoning,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0036916,CAUSES,etiologic agent,Sexually Transmitted Diseases,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0264219,CAUSES,etiologic agent,Acute respiratory disease,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0264221,CAUSES,etiologic agent,Disorder of upper respiratory system,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0267446,CAUSES,etiologic agent,Acute gastroenteritis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0339901,CAUSES,etiologic agent,Acute respiratory infections,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0376538,CAUSES,etiologic agent,Porcine Reproductive and Respiratory Syndrome,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0521839,CAUSES,etiologic agent,Influenza-like illness,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0694549,CAUSES,etiologic agent,Community acquired pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C0743841,CAUSES,etiologic agent,Disorder characterized by fever,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C1175175,CAUSES,etiologic agent,Severe Acute Respiratory Syndrome,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1254373,C1442786,CAUSES,etiologic agent,Acute respiratory tract infection,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1720884,C0032310,CAUSES,Particulate Matter,"Pneumonia, Viral",sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C1720884,C0034069,CAUSES,Particulate Matter,Pulmonary Fibrosis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C2986569,C1412002,CAUSES,Buildup,Atypical pneumonia,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C3891814,C0002395,CAUSES,Substrate,Alzheimer's Disease,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C3891814,C0029883,CAUSES,Substrate,Otitis Media with Effusion,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C3891814,C0263214,CAUSES,Substrate,Pyotraumatic dermatitis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C3898767,C0001126,CAUSES,Inducer,Renal tubular acidosis,sbst,dsyn,1,CAUSES_SBSTcausDSYN
+C3898767,C0151317,CAUSES,Inducer,Chronic infectious disease,sbst,dsyn,1,CAUSES_SBSTcausDSYN

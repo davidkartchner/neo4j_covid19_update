@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0021403,C0392171,PREVENTS,Influenza virus vaccine,Influenza-like symptoms,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0042210,C0011991,PREVENTS,Vaccines,Diarrhea,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0042210,C0030193,PREVENTS,Vaccines,Pain,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0042210,C0392171,PREVENTS,Vaccines,Influenza-like symptoms,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0042210,C1260880,PREVENTS,Vaccines,Rhinorrhea,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0042211,C1260880,PREVENTS,"Vaccines, Attenuated",Rhinorrhea,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C0770694,C0392171,PREVENTS,trivalent influenza vaccine,Influenza-like symptoms,imft,sosy,1,PREVENTS_IMFTprevSOSY
+C1259157,C0392171,PREVENTS,Inflexal V,Influenza-like symptoms,imft,sosy,1,PREVENTS_IMFTprevSOSY

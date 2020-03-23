@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001699,C0042776,INTERACTS_WITH,Klebsiella pneumoniae,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004595,C0318855,INTERACTS_WITH,Bacillus subtilis,Porcine epidemic diarrhea virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0004419,INTERACTS_WITH,Bacteria,Infectious bronchitis virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0004651,INTERACTS_WITH,Bacteria,Bacteriophages,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0019185,INTERACTS_WITH,Bacteria,Murine hepatitis virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0029341,INTERACTS_WITH,Bacteria,Orthomyxoviridae,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0035691,INTERACTS_WITH,Bacteria,RNA Viruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0042776,INTERACTS_WITH,Bacteria,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0597404,INTERACTS_WITH,Bacteria,Respiratory viruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C0949920,INTERACTS_WITH,Bacteria,Norovirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0004611,C1175743,INTERACTS_WITH,Bacteria,SARS coronavirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0009054,C1623051,INTERACTS_WITH,Clostridium,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0014834,C0004651,INTERACTS_WITH,Escherichia coli,Bacteriophages,bact,virs,2,INTERACTS_WITH_BACTitawVIRS
+C0014834,C0043125,INTERACTS_WITH,Escherichia coli,West Nile virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0014834,C1623051,INTERACTS_WITH,Escherichia coli,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0018479,C0206545,INTERACTS_WITH,Hemophilus,Human respiratory syncytial virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0022938,C0001483,INTERACTS_WITH,Lactobacillus,Adenoviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0022938,C0019351,INTERACTS_WITH,Lactobacillus,Human Herpesvirus 2,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0022938,C0042776,INTERACTS_WITH,Lactobacillus,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0022940,C0318855,INTERACTS_WITH,Lactobacillus casei,Porcine epidemic diarrhea virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0023411,C0001483,INTERACTS_WITH,Leuconostoc,Adenoviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026934,C0004419,INTERACTS_WITH,Mycoplasma,Infectious bronchitis virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026934,C0029347,INTERACTS_WITH,Mycoplasma,Influenza A virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026934,C1623051,INTERACTS_WITH,Mycoplasma,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026941,C0001483,INTERACTS_WITH,Mycoplasma pneumoniae,Adenoviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026941,C0014383,INTERACTS_WITH,Mycoplasma pneumoniae,Enterovirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026941,C0029347,INTERACTS_WITH,Mycoplasma pneumoniae,Influenza A virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026941,C0042776,INTERACTS_WITH,Mycoplasma pneumoniae,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0026941,C0206545,INTERACTS_WITH,Mycoplasma pneumoniae,Human respiratory syncytial virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0027573,C0019704,INTERACTS_WITH,Neisseria gonorrhoeae,HIV-1,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0030637,C0029345,INTERACTS_WITH,Pasteurella multocida,"Orthomyxovirus Type A, Porcine",bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0030762,C0001483,INTERACTS_WITH,Pediococcus,Adenoviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0033808,C1623051,INTERACTS_WITH,Pseudomonas,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0033809,C0004651,INTERACTS_WITH,Pseudomonas aeruginosa,Bacteriophages,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0036111,C1623051,INTERACTS_WITH,Salmonella,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0036953,C1623051,INTERACTS_WITH,Shigella,Filamentous bacteriophage (species),bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038172,C0029341,INTERACTS_WITH,Staphylococcus aureus,Orthomyxoviridae,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038172,C0035473,INTERACTS_WITH,Staphylococcus aureus,Rhinovirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0001483,INTERACTS_WITH,Streptococcus pneumoniae,Adenoviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0029341,INTERACTS_WITH,Streptococcus pneumoniae,Orthomyxoviridae,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0029347,INTERACTS_WITH,Streptococcus pneumoniae,Influenza A virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0042776,INTERACTS_WITH,Streptococcus pneumoniae,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0206545,INTERACTS_WITH,Streptococcus pneumoniae,Human respiratory syncytial virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0038410,C0597404,INTERACTS_WITH,Streptococcus pneumoniae,Respiratory viruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0085384,C1175743,INTERACTS_WITH,Mycoplasma fermentans,SARS coronavirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0085489,C0376536,INTERACTS_WITH,Actinobacillus pleuropneumoniae,Porcine respiratory and reproductive syndrome virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0317578,C0206544,INTERACTS_WITH,Haemophilus somnus,"Respiratory Syncytial Virus, Bovine",bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0317608,C0017161,INTERACTS_WITH,Lactobacillus plantarum,Transmissible gastroenteritis virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0317734,C0042776,INTERACTS_WITH,Saccharopolyspora rectivirgula,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0445750,C3686947,INTERACTS_WITH,Salmonella enterica,Equine coronavirus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0525033,C0029345,INTERACTS_WITH,Probiotics,"Orthomyxovirus Type A, Porcine",bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0525033,C0042776,INTERACTS_WITH,Probiotics,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0525033,C1623048,INTERACTS_WITH,Probiotics,Vesicular stomatitis virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C0752001,C0003725,INTERACTS_WITH,Wolbachia,Arboviruses,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C1012452,C0042776,INTERACTS_WITH,endosymbiotic eubacteria,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C1047211,C0019704,INTERACTS_WITH,Cyanobacteria,HIV-1,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C1080726,C0019704,INTERACTS_WITH,Planktothrix agardhii,HIV-1,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C1210581,C0042776,INTERACTS_WITH,Lactobacillales,Virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS
+C1265335,C0318855,INTERACTS_WITH,Chlamydophila pecorum,Porcine epidemic diarrhea virus,bact,virs,1,INTERACTS_WITH_BACTitawVIRS

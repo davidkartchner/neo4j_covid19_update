@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008266,C0040549,PRODUCES,Chloroplasts,Toxin,celc,bacs,1,PRODUCES_CELCprodBACS
+C0008655,C1101610,PRODUCES,"Chromosomes, Human, Pair 13",MicroRNAs,celc,bacs,1,PRODUCES_CELCprodBACS
+C0010834,C0012854,PRODUCES,Cytoplasm,DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C0010834,C0035142,PRODUCES,Cytoplasm,Replicon,celc,bacs,1,PRODUCES_CELCprodBACS
+C0010834,C0035693,PRODUCES,Cytoplasm,"RNA, Double-Stranded",celc,bacs,1,PRODUCES_CELCprodBACS
+C0010834,C1101610,PRODUCES,Cytoplasm,MicroRNAs,celc,bacs,1,PRODUCES_CELCprodBACS
+C0025979,C0010737,PRODUCES,Microfilaments,Cytochalasin B,celc,bacs,1,PRODUCES_CELCprodBACS
+C0026237,C0001026,PRODUCES,Mitochondria,Acetyl Coenzyme A,celc,bacs,1,PRODUCES_CELCprodBACS
+C0026237,C0001480,PRODUCES,Mitochondria,Adenosine Triphosphate,celc,bacs,1,PRODUCES_CELCprodBACS
+C0026237,C0012929,PRODUCES,Mitochondria,"DNA, Mitochondrial",celc,bacs,1,PRODUCES_CELCprodBACS
+C0026237,C0162772,PRODUCES,Mitochondria,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C0029219,C0162772,PRODUCES,Organelles,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C0031309,C0162772,PRODUCES,Phagolysosomes,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C0031310,C1481822,PRODUCES,Phagosomes,eukaryotic plasmids,celc,bacs,1,PRODUCES_CELCprodBACS
+C0035553,C0012854,PRODUCES,Ribosomes,DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C0042760,C0001026,PRODUCES,Virion,Acetyl Coenzyme A,celc,bacs,1,PRODUCES_CELCprodBACS
+C0042760,C0003320,PRODUCES,Virion,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C0042760,C0032136,PRODUCES,Virion,Plasmids,celc,bacs,1,PRODUCES_CELCprodBACS
+C0042760,C1099354,PRODUCES,Virion,"RNA, Small Interfering",celc,bacs,1,PRODUCES_CELCprodBACS
+C0061622,C0019143,PRODUCES,Glycocalyx,Heparitin Sulfate,celc,bacs,1,PRODUCES_CELCprodBACS
+C0175996,C0003320,PRODUCES,Protoplasm,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C0175996,C0369169,PRODUCES,Protoplasm,Epstein-Barr virus DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C0230698,C0034085,PRODUCES,lamellar body,Pulmonary Surfactants,celc,bacs,1,PRODUCES_CELCprodBACS
+C0333785,C0003320,PRODUCES,Virus-like particles,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C0521119,C1508748,PRODUCES,Extracellular,second messenger,celc,bacs,1,PRODUCES_CELCprodBACS
+C0596901,C0162772,PRODUCES,Membrane,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C0699040,C0032136,PRODUCES,Cell surface,Plasmids,celc,bacs,1,PRODUCES_CELCprodBACS
+C1166607,C0012854,PRODUCES,cellular_component,DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C1167121,C0012854,PRODUCES,DNA replication factor A complex location,DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C1167121,C0012931,PRODUCES,DNA replication factor A complex location,Recombinant DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C1167528,C0242493,PRODUCES,RNA viral genome,RNA Precursor,celc,bacs,1,PRODUCES_CELCprodBACS
+C1325653,C0028128,PRODUCES,Mitochondrial electron transport chain,Nitric Oxide,celc,bacs,1,PRODUCES_CELCprodBACS
+C1325653,C0162772,PRODUCES,Mitochondrial electron transport chain,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C1325739,C0162772,PRODUCES,NADPH oxidase complex location,Reactive Oxygen Species,celc,bacs,1,PRODUCES_CELCprodBACS
+C1383501,C0032136,PRODUCES,Cytoplasmic matrix,Plasmids,celc,bacs,1,PRODUCES_CELCprodBACS
+C1383501,C0677647,PRODUCES,Cytoplasmic matrix,Mevalonate,celc,bacs,1,PRODUCES_CELCprodBACS
+C1510421,C0001480,PRODUCES,Mitochondrial matrix,Adenosine Triphosphate,celc,bacs,1,PRODUCES_CELCprodBACS
+C1622204,C0012854,PRODUCES,envelope,DNA,celc,bacs,1,PRODUCES_CELCprodBACS
+C1819995,C0003320,PRODUCES,Host Cell,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C1819995,C0018353,PRODUCES,Host Cell,Guanosine Triphosphate,celc,bacs,1,PRODUCES_CELCprodBACS
+C1819995,C0035693,PRODUCES,Host Cell,"RNA, Double-Stranded",celc,bacs,1,PRODUCES_CELCprodBACS
+C1819995,C0040549,PRODUCES,Host Cell,Toxin,celc,bacs,1,PRODUCES_CELCprodBACS
+C1819995,C1136170,PRODUCES,Host Cell,Virulence Factors,celc,bacs,1,PRODUCES_CELCprodBACS
+C2350307,C0003320,PRODUCES,Cell-Derived Microparticles,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C2350332,C0003320,PRODUCES,Exosomes,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS
+C3269134,C0003320,PRODUCES,Apoptotic Bodies,Antigens,celc,bacs,1,PRODUCES_CELCprodBACS

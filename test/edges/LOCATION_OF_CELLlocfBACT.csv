@@ -1,0 +1,110 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003315,C0004611,LOCATION_OF,Antigen-Presenting Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0004561,C0036953,LOCATION_OF,B-Lymphocytes,Shigella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0005821,C0004611,LOCATION_OF,Blood Platelets,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0007600,C0004611,LOCATION_OF,Cultured Cell Line,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0007600,C0008151,LOCATION_OF,Cultured Cell Line,Chlamydia trachomatis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0007600,C0016676,LOCATION_OF,Cultured Cell Line,Francisella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0007600,C0036126,LOCATION_OF,Cultured Cell Line,Salmonella typhimurium,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0007600,C0036957,LOCATION_OF,Cultured Cell Line,Shigella flexneri,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0009013,C0014834,LOCATION_OF,Clone Cells,Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0009013,C0026934,LOCATION_OF,Clone Cells,Mycoplasma,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0009013,C0026941,LOCATION_OF,Clone Cells,Mycoplasma pneumoniae,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0011306,C0004611,LOCATION_OF,Dendritic Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0011306,C0026926,LOCATION_OF,Dendritic Cells,Mycobacterium tuberculosis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0011306,C0085504,LOCATION_OF,Dendritic Cells,Chlamydophila pneumoniae,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0004611,LOCATION_OF,Epithelial Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0008148,LOCATION_OF,Epithelial Cells,Chlamydia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0027571,LOCATION_OF,Epithelial Cells,Neisseria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0033809,LOCATION_OF,Epithelial Cells,Pseudomonas aeruginosa,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0036953,LOCATION_OF,Epithelial Cells,Shigella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0081786,LOCATION_OF,Epithelial Cells,Microbial Biofilms,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0317588,LOCATION_OF,Epithelial Cells,Lactobacillus delbrueckii,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0580797,LOCATION_OF,Epithelial Cells,Enterotoxigenic Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014597,C0916928,LOCATION_OF,Epithelial Cells,Chlamydia muridarum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0014792,C0030637,LOCATION_OF,Erythrocytes,Pasteurella multocida,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0015161,C0004611,LOCATION_OF,Eukaryotic Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0015161,C0014834,LOCATION_OF,Eukaryotic Cells,Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0015161,C0563199,LOCATION_OF,Eukaryotic Cells,Bacterial cell,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0017473,C0752001,LOCATION_OF,Germ Line,Wolbachia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0017526,C0004611,LOCATION_OF,Giant Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0018183,C0013722,LOCATION_OF,granulocyte,Ehrlichia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0018873,C0008151,LOCATION_OF,HeLa Cells,Chlamydia trachomatis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0018873,C0085504,LOCATION_OF,HeLa Cells,Chlamydophila pneumoniae,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0022567,C0033809,LOCATION_OF,keratinocyte,Pseudomonas aeruginosa,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0004587,LOCATION_OF,macrophage,Bacillus <bacterium>,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0004595,LOCATION_OF,macrophage,Bacillus subtilis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0004611,LOCATION_OF,macrophage,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0006303,LOCATION_OF,macrophage,Brucella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0008148,LOCATION_OF,macrophage,Chlamydia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0016677,LOCATION_OF,macrophage,FRANCISELLA TULARENSIS,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0023859,LOCATION_OF,macrophage,Listeria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0026926,LOCATION_OF,macrophage,Mycobacterium tuberculosis,cell,bact,2,LOCATION_OF_CELLlocfBACT
+C0024432,C0026934,LOCATION_OF,macrophage,Mycoplasma,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0035583,LOCATION_OF,macrophage,Rickettsia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0036111,LOCATION_OF,macrophage,Salmonella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0036126,LOCATION_OF,macrophage,Salmonella typhimurium,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0036953,LOCATION_OF,macrophage,Shigella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0079488,LOCATION_OF,macrophage,Helicobacter pylori,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0317761,LOCATION_OF,macrophage,Mycobacterium smegmatis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C0318312,LOCATION_OF,macrophage,Rickettsia australis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C1035882,LOCATION_OF,macrophage,Mycobacterium immunogenum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C1441158,LOCATION_OF,macrophage,"Rickettsia, typhus group",cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0024432,C1980009,LOCATION_OF,macrophage,Typhi,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0026473,C0004611,LOCATION_OF,Monocytes,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0026473,C0026912,LOCATION_OF,Monocytes,Genus Mycobacterium,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0026473,C0026926,LOCATION_OF,Monocytes,Mycobacterium tuberculosis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0027950,C0004611,LOCATION_OF,neutrophil,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0027950,C0006034,LOCATION_OF,neutrophil,Borrelia burgdorferi,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0027950,C0026934,LOCATION_OF,neutrophil,Mycoplasma,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0027950,C0318222,LOCATION_OF,neutrophil,Treponema denticola,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0027950,C0318329,LOCATION_OF,neutrophil,Anaplasma phagocytophilum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0029045,C0752001,LOCATION_OF,Oocytes,Wolbachia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0029974,C0317807,LOCATION_OF,Ovum,Mycoplasma gallisepticum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0031307,C0004611,LOCATION_OF,Phagocytes,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0031307,C0026926,LOCATION_OF,Phagocytes,Mycobacterium tuberculosis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0031307,C0033809,LOCATION_OF,Phagocytes,Pseudomonas aeruginosa,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0031307,C0038172,LOCATION_OF,Phagocytes,Staphylococcus aureus,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0039195,C0036111,LOCATION_OF,Cytotoxic T-Lymphocytes,Salmonella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0039198,C0317625,LOCATION_OF,Regulatory T-Lymphocytes,Lactobacillus reuteri,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0039215,C0004611,LOCATION_OF,CD4 Positive T Lymphocytes,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0042542,C0004611,LOCATION_OF,Vero Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0042542,C0445846,LOCATION_OF,Vero Cells,Afipia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0042542,C1036094,LOCATION_OF,Vero Cells,Chlamydophila abortus,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0042542,C1265335,LOCATION_OF,Vero Cells,Chlamydophila pecorum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0085236,C0023238,LOCATION_OF,"Macrophages, Alveolar",Legionella pneumophila,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0085236,C0043408,LOCATION_OF,"Macrophages, Alveolar",Yersinia pestis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0206190,C0008148,LOCATION_OF,"Macrophages, Peritoneal",Chlamydia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0225336,C0023861,LOCATION_OF,Endothelial Cells,Listeria monocytogenes,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0225698,C0004611,LOCATION_OF,Alveolar Epithelial Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0225698,C1265292,LOCATION_OF,Alveolar Epithelial Cells,Methicillin-Resistant Staphylococcus aureus,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0225700,C0004611,LOCATION_OF,Type-II Pneumocytes,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0227525,C0023859,LOCATION_OF,Hepatocyte,Listeria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0314587,C0009063,LOCATION_OF,Colony-forming unit of granulocytic lineage (cell),Clostridium perfringens,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0314596,C0525033,LOCATION_OF,Spleen colony-forming unit,Probiotics,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0444746,C0079488,LOCATION_OF,Endocyte,Helicobacter pylori,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0598829,C0004611,LOCATION_OF,Madin Darby Canine Kidney Cells,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0599757,C0036111,LOCATION_OF,Microfold cell,Salmonella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0682523,C1189832,LOCATION_OF,human cell line,Exiguobacterium antarcticum,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0682538,C0004611,LOCATION_OF,intact cell,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0682542,C0004611,LOCATION_OF,ciliated cell,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0682610,C0014834,LOCATION_OF,Enterocytes,Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C0682610,C0580797,LOCATION_OF,Enterocytes,Enterotoxigenic Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1148382,C0008148,LOCATION_OF,Monocytes+Macrophages,Chlamydia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1183428,C0004611,LOCATION_OF,Solocyte,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1183428,C0026934,LOCATION_OF,Solocyte,Mycoplasma,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1257909,C0752001,LOCATION_OF,Diploid Cell,Wolbachia,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1269647,C0004611,LOCATION_OF,Entire cell,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1512977,C0018154,LOCATION_OF,Mammalian Cell,Gram-Positive Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1513528,C0004589,LOCATION_OF,Mouse Cell Line,Bacillus anthracis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1515146,C0563199,LOCATION_OF,TE03,Bacterial cell,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1523993,C0023237,LOCATION_OF,Leukocyte - Monocyte - Macrophage (MMHCC),Legionella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1711178,C0004611,LOCATION_OF,Bronchial Epithelial Cell,Bacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C1711178,C0563199,LOCATION_OF,Bronchial Epithelial Cell,Bacterial cell,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C2337419,C0038410,LOCATION_OF,Splenic macrophage,Streptococcus pneumoniae,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C2717940,C0014834,LOCATION_OF,Hep G2 Cells,Escherichia coli,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C3178867,C1047211,LOCATION_OF,Plant Cells,Cyanobacteria,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C3896693,C0036953,LOCATION_OF,Bone Marrow-Derived Cell,Shigella,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C4277577,C0026926,LOCATION_OF,A549 Cells,Mycobacterium tuberculosis,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C4330475,C0022938,LOCATION_OF,Immune Cell,Lactobacillus,cell,bact,1,LOCATION_OF_CELLlocfBACT
+C4330475,C0026926,LOCATION_OF,Immune Cell,Mycobacterium tuberculosis,cell,bact,1,LOCATION_OF_CELLlocfBACT

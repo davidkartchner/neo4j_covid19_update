@@ -1,0 +1,533 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000189,C0220781,AFFECTS,2-5A Synthetase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0001271,C0220781,AFFECTS,Actins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0001457,C3714634,AFFECTS,ADENOSINE DEAMINASE,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0001924,C3714634,AFFECTS,Albumins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0002198,C3269198,AFFECTS,alpha 2-Glucoproteins,beta-amyloid clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0002520,C0042765,AFFECTS,Amino Acids,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0002520,C4277607,AFFECTS,Amino Acids,"Immunogenicity, Vaccine",aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0002563,C0220781,AFFECTS,Aminolevulinic Acid,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003241,C0220781,AFFECTS,Antibodies,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003241,C1721019,AFFECTS,Antibodies,Virus Attachment,aapp,biof,2,AFFECTS_AAPPafctBIOF
+C0003241,C3537152,AFFECTS,Antibodies,biological signaling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003241,C3714634,AFFECTS,Antibodies,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003242,C1721019,AFFECTS,"Antibodies, Anti-Idiotypic",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003250,C0220781,AFFECTS,Monoclonal Antibodies,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003343,C0042765,AFFECTS,Viral Tumor Antigens,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0003593,C0220781,AFFECTS,Apolipoproteins B,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0004358,C3714634,AFFECTS,Autoantibodies,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0005789,C0220781,AFFECTS,Blood Coagulation Factor,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0006558,C1721020,AFFECTS,C-Peptide,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0006611,C3714634,AFFECTS,Mucin-1 Antigen,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0006685,C3853734,AFFECTS,Calcium Channel,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0007292,C1160638,AFFECTS,Carrier Proteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0007428,C0220781,AFFECTS,Cathepsins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0008905,C0220781,AFFECTS,Clathrin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0009498,C0220781,AFFECTS,Complement System Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0009506,C0220781,AFFECTS,Complement 3,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0010590,C1819882,AFFECTS,Cycloserine,T cell anergy,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0010592,C3714634,AFFECTS,Cyclosporine,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0010654,C0220781,AFFECTS,Cysteine,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0010749,C0220781,AFFECTS,Cytochromes c,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0010762,C1160638,AFFECTS,Cytochrome P450,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017278,C0042765,AFFECTS,"Gene Products, env",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017278,C0220781,AFFECTS,"Gene Products, env",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017278,C3714634,AFFECTS,"Gene Products, env",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017343,C0220781,AFFECTS,"Genes, env",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017757,C3714634,AFFECTS,Glucosephosphate Dehydrogenase,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017797,C3714634,AFFECTS,Glutamine,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017817,C0042765,AFFECTS,Glutathione,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017817,C3714634,AFFECTS,Glutathione,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017837,C0013203,AFFECTS,Glutathione S-Transferase,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017968,C0042765,AFFECTS,Glycoproteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017968,C0220781,AFFECTS,Glycoproteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017968,C1160638,AFFECTS,Glycoproteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017968,C1721019,AFFECTS,Glycoproteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0017968,C3714634,AFFECTS,Glycoproteins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0018296,C0220781,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0018296,C3853734,AFFECTS,Guanosine Triphosphate Phosphohydrolases,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0018847,C3714634,AFFECTS,Heat Shock Protein 27,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0019602,C0220781,AFFECTS,Histidine,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0020284,C3822293,AFFECTS,Hydrogenase,hydrogen biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0020960,C1160638,AFFECTS,Immune Sera,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0020960,C1721019,AFFECTS,Immune Sera,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021027,C1817884,AFFECTS,Immunoglobulins,immune complex clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C0042765,AFFECTS,Integral Membrane Proteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C1160638,AFFECTS,Integral Membrane Proteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C1659461,AFFECTS,Integral Membrane Proteins,endoplasmic reticulum localization,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C1721019,AFFECTS,Integral Membrane Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C3714634,AFFECTS,Integral Membrane Proteins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021699,C3820740,AFFECTS,Integral Membrane Proteins,viroporin,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021701,C0220781,AFFECTS,Integrins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021701,C3714634,AFFECTS,Integrins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021747,C0042765,AFFECTS,Interferons,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021747,C0520988,AFFECTS,Interferons,Resistance to infection,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021747,C3714634,AFFECTS,Interferons,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021758,C0220781,AFFECTS,Interleukin-4,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021760,C0013203,AFFECTS,Interleukin-6,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021760,C0220781,AFFECTS,Interleukin-6,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0021769,C0220781,AFFECTS,Intermediate Filament Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0022009,C0042765,AFFECTS,Ion Channel,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0022009,C1160638,AFFECTS,Ion Channel,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0022009,C3714634,AFFECTS,Ion Channel,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0023206,C0042765,AFFECTS,Lectin,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0023206,C3714634,AFFECTS,Lectin,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0023689,C0042765,AFFECTS,Ligase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0023689,C0220781,AFFECTS,Ligase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0023764,C0042765,AFFECTS,Lipase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025248,C0042765,AFFECTS,Membrane Glycoproteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025248,C0220781,AFFECTS,Membrane Glycoproteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025248,C1160638,AFFECTS,Membrane Glycoproteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025248,C1721019,AFFECTS,Membrane Glycoproteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025248,C3853734,AFFECTS,Membrane Glycoproteins,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025252,C0042765,AFFECTS,Membrane Proteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025252,C0220781,AFFECTS,Membrane Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025252,C1721019,AFFECTS,Membrane Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0025831,C0220781,AFFECTS,Methyltransferase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0027803,C1721019,AFFECTS,Neuraminidase,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0028589,C3537152,AFFECTS,Nuclear Proteins,biological signaling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0028612,C0220781,AFFECTS,Nucleoproteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0028612,C1160638,AFFECTS,Nucleoproteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0029923,C1160638,AFFECTS,Ovalbumin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030016,C0220781,AFFECTS,Oxidoreductase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030520,C0220781,AFFECTS,Parathyroid Hormone,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030940,C0042765,AFFECTS,Peptide Hydrolases,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030940,C0220781,AFFECTS,Peptide Hydrolases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030940,C1820201,AFFECTS,Peptide Hydrolases,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030943,C0220781,AFFECTS,Peptide Initiation Factors,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030946,C0220781,AFFECTS,Endopeptidases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030946,C1160638,AFFECTS,Endopeptidases,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0030946,C3853734,AFFECTS,Endopeptidases,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031678,C0042765,AFFECTS,Phosphoric Monoester Hydrolases,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031689,C0220781,AFFECTS,Phosphoproteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031689,C3714634,AFFECTS,Phosphoproteins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031727,C0220781,AFFECTS,Phosphotransferases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031727,C1160638,AFFECTS,Phosphotransferases,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0031727,C3714634,AFFECTS,Phosphotransferases,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0032120,C1721019,AFFECTS,Plasma Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0033164,C0220781,AFFECTS,Prions,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034790,C0220781,AFFECTS,T-Cell Receptor,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034790,C1819882,AFFECTS,T-Cell Receptor,T cell anergy,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034800,C0042765,AFFECTS,"Receptors, Cell Surface",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034800,C1721019,AFFECTS,"Receptors, Cell Surface",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034848,C1721019,AFFECTS,"Receptors, Virus",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0034861,C1721019,AFFECTS,Recombinant Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035379,C0220781,AFFECTS,RNA-Directed DNA Polymerase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035379,C1160638,AFFECTS,RNA-Directed DNA Polymerase,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035542,C3714634,AFFECTS,Ribonucleases,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035544,C0220781,AFFECTS,Ribonucleoproteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035679,C0042765,AFFECTS,RNA Polymerase II,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035679,C0220781,AFFECTS,RNA Polymerase II,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035685,C0042765,AFFECTS,RNA-Directed RNA Polymerase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0035685,C0220781,AFFECTS,RNA-Directed RNA Polymerase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0036825,C3714634,AFFECTS,Serum Proteins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040005,C0220781,AFFECTS,Threonine,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040648,C1367886,AFFECTS,TRANSCRIPTION FACTOR,Sex determination,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040648,C1721019,AFFECTS,TRANSCRIPTION FACTOR,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040648,C3714634,AFFECTS,TRANSCRIPTION FACTOR,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040691,C0220781,AFFECTS,Transforming Growth Factors,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0040691,C3714634,AFFECTS,Transforming Growth Factors,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0041368,C0220781,AFFECTS,Tumor Necrosis Factors,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0041945,C0042765,AFFECTS,Urease,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042731,C1721019,AFFECTS,Viral Matrix Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042736,C0042765,AFFECTS,Viral Proteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042736,C0220781,AFFECTS,Viral Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042736,C1160638,AFFECTS,Viral Proteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042736,C1721020,AFFECTS,Viral Proteins,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042736,C3853734,AFFECTS,Viral Proteins,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0042872,C3714634,AFFECTS,Vitamin D-Binding Protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0053932,C2610588,AFFECTS,Bone Morphogenetic Proteins,trachea development,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0054871,C1721019,AFFECTS,Cathepsin L,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0055817,C0042765,AFFECTS,citrate carrier,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0058988,C1160638,AFFECTS,Eukaryotic Initiation Factor-4E,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0059973,C0220781,AFFECTS,ezrin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0059973,C1160638,AFFECTS,ezrin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0060320,C3714634,AFFECTS,fibrillarin,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0061031,C0220781,AFFECTS,"gamma-butyrobetaine,2-oxoglutarate dioxygenase",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0061472,C0220781,AFFECTS,Glutamic Acid,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0061472,C1659461,AFFECTS,Glutamic Acid,endoplasmic reticulum localization,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0061516,C0220781,AFFECTS,Glutathione Disulfide,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0063695,C1160651,AFFECTS,Intercellular adhesion molecule 1,receptor-mediated virion attachment to host cell,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0064566,C0220781,AFFECTS,Laccase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0064566,C0242735,AFFECTS,Laccase,Germination,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0065082,C0042765,AFFECTS,"hlyA protein, Listeria monocytogenes",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0065170,C3157043,AFFECTS,Long-Chain-Acyl-CoA Dehydrogenase,energy homeostasis,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0065451,C0220781,AFFECTS,mRNA guanylyltransferase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0065827,C0220781,AFFECTS,Measles Virus Nucleoprotein,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0065827,C1721019,AFFECTS,Measles Virus Nucleoprotein,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0068605,C3157043,AFFECTS,Neuromedin U,energy homeostasis,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0069065,C0220781,AFFECTS,Viral Nonstructural Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0069139,C0220781,AFFECTS,nucleolin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0069838,C0220781,AFFECTS,oxysterol binding protein,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0071653,C0220781,AFFECTS,Polyphosphate kinase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0072392,C0042765,AFFECTS,protein S precursor,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0077503,C3714634,AFFECTS,Tumor Necrosis Factor Receptor,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079189,C0042765,AFFECTS,cytokine,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079189,C0220781,AFFECTS,cytokine,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079189,C3714634,AFFECTS,cytokine,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079323,C1820201,AFFECTS,Extracellular Matrix Proteins,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079405,C0220781,AFFECTS,"Gene Products, vpr",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079419,C0220781,AFFECTS,TP53 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079904,C0220781,AFFECTS,NF-kappa B,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0079904,C3714634,AFFECTS,NF-kappa B,Biological Processes,aapp,biof,2,AFFECTS_AAPPafctBIOF
+C0080058,C0220781,AFFECTS,Proto-Oncogene Proteins p21(ras),Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0084178,C1160638,AFFECTS,prohibitin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0084378,C1160638,AFFECTS,RNA Helicase,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0084913,C0220781,AFFECTS,Ubiquitin-Conjugating Enzymes,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085177,C1160638,AFFECTS,RNA-Binding Proteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085201,C3269198,AFFECTS,Apolipoprotein A-I,beta-amyloid clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085295,C0220781,AFFECTS,Interleukin-10,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085297,C3714634,AFFECTS,"Immunoglobulins, Intravenous",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085536,C0220781,AFFECTS,Protein Tyrosine Phosphatase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0085828,C0220781,AFFECTS,Transcription Factor AP-1,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0086376,C0220781,AFFECTS,GTP-Binding Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0086376,C1721019,AFFECTS,GTP-Binding Proteins,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0087044,C0042765,AFFECTS,Synapsin I,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0087044,C0220781,AFFECTS,Synapsin I,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0089793,C1160638,AFFECTS,1-Phosphatidylinositol 4-Kinase,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0103013,C0042765,AFFECTS,Aminomethyltransferase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0111208,C1819882,AFFECTS,cytotoxic T-lymphocyte antigen 4,T cell anergy,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0115922,C3714634,AFFECTS,endogenous pyrogen,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0118522,C0220781,AFFECTS,GA-Binding Protein Transcription Factor,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0118522,C3714634,AFFECTS,GA-Binding Protein Transcription Factor,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0120285,C0042765,AFFECTS,Green Fluorescent Proteins,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0121453,C1721019,AFFECTS,Hepatic Asialoglycoprotein Receptor,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0121463,C1523347,AFFECTS,"nucleocapsid protein, Hepatitis C virus",liver development,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0121925,C1160638,AFFECTS,"reverse transcriptase, Human immunodeficiency virus 1",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0127082,C1820201,AFFECTS,Interstitial Collagenase,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0128818,C0220781,AFFECTS,moesin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0128818,C1160638,AFFECTS,moesin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0142251,C0220781,AFFECTS,Sialic Acid Binding Ig-like Lectin 1,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0162745,C1820201,AFFECTS,COLLAGENASE,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0162768,C1721020,AFFECTS,Fusion protein,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0163974,C0220781,AFFECTS,Ubiquitin-Activating Enzymes,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0164371,C1820201,AFFECTS,Matrix Metalloproteinase 3,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0164481,C0042765,AFFECTS,aminoglycoside 2''-phosphotransferase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0165519,C1820201,AFFECTS,Matrix Metalloproteinase 9,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0165897,C1160638,AFFECTS,"discs large 1 protein, Drosophila",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0166418,C3714634,AFFECTS,Peroxisome Proliferator-Activated Receptors,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0166586,C1659461,AFFECTS,lysyl-aspartyl-glutamyl-leucine,endoplasmic reticulum localization,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0168872,C1160638,AFFECTS,"prM protein, Flavivirus",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0172537,C1820201,AFFECTS,Matrix Metalloproteinase 2,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0178774,C0220781,AFFECTS,Nucleocapsid,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0178827,C0042765,AFFECTS,replicase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0178827,C0220781,AFFECTS,replicase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0206528,C1820201,AFFECTS,Gelatinases,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0206552,C0220781,AFFECTS,"Receptors, Cytokine",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0206588,C3714634,AFFECTS,"Receptors, Nuclear",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0206805,C0013203,AFFECTS,K 76,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0208355,C0220781,AFFECTS,multicatalytic endopeptidase complex,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0208355,C3714634,AFFECTS,multicatalytic endopeptidase complex,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0242738,C0042765,AFFECTS,ATP-Binding Cassette Transporters,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0243045,C0220781,AFFECTS,Cyclin-Dependent Kinases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0246451,C3853734,AFFECTS,"M protein, Porcine epidemic diarrhea virus",viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0248441,C0220781,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0251914,C0220781,AFFECTS,"PDIA3 protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0253050,C3714634,AFFECTS,Stat3 protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0282554,C0042765,AFFECTS,chemokine,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0282554,C1160638,AFFECTS,chemokine,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0282625,C0013203,AFFECTS,src-Family Kinases,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0282625,C3894443,AFFECTS,src-Family Kinases,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0284555,C3269198,AFFECTS,LDL-Receptor Related Protein 2,beta-amyloid clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0287990,C1160638,AFFECTS,paired basic amino acid cleaving enzyme,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0289142,C1160638,AFFECTS,parvulin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0293442,C1160638,AFFECTS,major vault protein,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0299456,C3157043,AFFECTS,ran-binding protein 2,energy homeostasis,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0299544,C1817972,AFFECTS,Interferon Regulatory Factor 4,immune system development,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0300824,C0220781,AFFECTS,SNAP receptor,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0301714,C0042765,AFFECTS,"Amino Acids, Basic",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0304925,C1721019,AFFECTS,"Albumin Human, USP",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0314597,C0220781,AFFECTS,"Colony-stimulating factor, granulocyte-monocyte",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0378910,C0220781,AFFECTS,Lymphocyte antigen CD66A,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0380301,C1721019,AFFECTS,Ephrin-A5,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0475463,C1721019,AFFECTS,"Antibodies, Neutralizing",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0525410,C0013203,AFFECTS,multidrug resistance-associated protein 2,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0528008,C0220781,AFFECTS,Coat Protein Complex I,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0528008,C1160638,AFFECTS,Coat Protein Complex I,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0528649,C3714634,AFFECTS,"CHI3L1 protein, human",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0529196,C1721019,AFFECTS,ADAM17 Protein,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0537784,C1721019,AFFECTS,cathepsin W,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0582263,C0042765,AFFECTS,Structural protein,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0582263,C0220781,AFFECTS,Structural protein,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0582263,C1721020,AFFECTS,Structural protein,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0582263,C3714634,AFFECTS,Structural protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0582263,C3853734,AFFECTS,Structural protein,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0596902,C0220781,AFFECTS,Membrane Transport Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597094,C0042765,AFFECTS,nuclease,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597094,C0220781,AFFECTS,nuclease,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597298,C0220781,AFFECTS,Protein Isoforms,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597357,C0220781,AFFECTS,receptor,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597357,C1721019,AFFECTS,receptor,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597357,C3714634,AFFECTS,receptor,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597427,C0042765,AFFECTS,secretory protein,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597427,C3537152,AFFECTS,secretory protein,biological signaling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0597427,C3714634,AFFECTS,secretory protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599220,C0042765,AFFECTS,Protein Subunits,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599220,C0220781,AFFECTS,Protein Subunits,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599220,C1721019,AFFECTS,Protein Subunits,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599220,C1721020,AFFECTS,Protein Subunits,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599220,C3853734,AFFECTS,Protein Subunits,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599537,C1721019,AFFECTS,glycoprotein G,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C0042765,AFFECTS,e protein,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C0220781,AFFECTS,e protein,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C1721019,AFFECTS,e protein,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C3714634,AFFECTS,e protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C3820740,AFFECTS,e protein,viroporin,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0599561,C3853734,AFFECTS,e protein,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0611842,C0042765,AFFECTS,trypsin resistant core repressor,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0623362,C0220781,AFFECTS,Matrix Metalloproteinases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0623362,C1820201,AFFECTS,Matrix Metalloproteinases,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0682972,C3157043,AFFECTS,G-Protein-Coupled Receptors,energy homeostasis,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0694888,C0220781,AFFECTS,PTEN gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0694891,C0220781,AFFECTS,SMAD4 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0700271,C0042765,AFFECTS,"M Protein, multiple myeloma",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0700271,C0220781,AFFECTS,"M Protein, multiple myeloma",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0700271,C1721019,AFFECTS,"M Protein, multiple myeloma",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0700271,C1721020,AFFECTS,"M Protein, multiple myeloma",Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0700271,C3853734,AFFECTS,"M Protein, multiple myeloma",viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0751973,C1327622,AFFECTS,Proteome,Regulation of biological process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0760076,C0220781,AFFECTS,GDP-L-fucose pyrophosphorylase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0812198,C3894443,AFFECTS,BAX gene,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0812234,C3714634,AFFECTS,RHOA gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0812242,C0220781,AFFECTS,CBL gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0815047,C1160638,AFFECTS,regulatory proteins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0901047,C0220781,AFFECTS,eukaryotic initiation factor-5B,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0909830,C0013203,AFFECTS,microsomal glutathione S-transferase-I,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0912761,C0220781,AFFECTS,syncytin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0913092,C1721019,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0916139,C0220781,AFFECTS,N-Myc Downstream Regulated Protein 1,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0917721,C0220781,AFFECTS,"p16 protease, Human immunodeficiency virus 1",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0917877,C1160638,AFFECTS,Cyclophilins,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0919432,C0220781,AFFECTS,SMAD3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0920283,C3853734,AFFECTS,DNA Helicases,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0949610,C3714634,AFFECTS,Mitochondrial Proteins,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0964863,C0220781,AFFECTS,HSC70 Heat-Shock Proteins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C0968147,C0220781,AFFECTS,superoxide dismutase 2,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1120843,C0042765,AFFECTS,mitogen-activated protein kinase p38,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1135987,C0220781,AFFECTS,Clathrin Light Chains,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1136161,C0220781,AFFECTS,Protomers,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1142652,C1160638,AFFECTS,"NR4A2 protein, human",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1142652,C3714634,AFFECTS,"NR4A2 protein, human",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1175541,C0220781,AFFECTS,"PLP1 protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1179106,C0220781,AFFECTS,Motor protein,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1180307,C0220781,AFFECTS,F-Actin,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1180307,C1160638,AFFECTS,F-Actin,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1258415,C1721019,AFFECTS,enhanced green fluorescent protein,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1305923,C3714634,AFFECTS,Polypeptides,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1309025,C0220781,AFFECTS,"SH2D3A protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1310468,C0042765,AFFECTS,"DDX58 protein, human",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1310468,C0220781,AFFECTS,"DDX58 protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1310468,C3714634,AFFECTS,"DDX58 protein, human",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1313221,C0220781,AFFECTS,"ABCB11 protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1321919,C3269198,AFFECTS,"TLR4 protein, human",beta-amyloid clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332386,C0220781,AFFECTS,BCAR3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332386,C1160638,AFFECTS,BCAR3 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332397,C3894443,AFFECTS,BCL2L1 gene,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332656,C0042765,AFFECTS,C3 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332656,C0220781,AFFECTS,C3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332753,C3714634,AFFECTS,CHEK1 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1332823,C3714634,AFFECTS,CXCR4 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333198,C3853734,AFFECTS,Cytoplasmic Protein,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333225,C0220781,AFFECTS,DLG1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333261,C0042765,AFFECTS,Deacetylase,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333282,C1160638,AFFECTS,Deubiquitinating Enzymes,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333336,C0220781,AFFECTS,EP300 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333723,C0220781,AFFECTS,GTF2H1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1333887,C0233367,AFFECTS,H19 gene,Placental function,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1334078,C1721019,AFFECTS,IFITM1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1334081,C0220781,AFFECTS,IFNAR1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1334283,C0042765,AFFECTS,Ion Channel Protein,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335216,C0220781,AFFECTS,PI4KB gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335285,C0220781,AFFECTS,PTPRC gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335439,C0220781,AFFECTS,Polymerase,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335439,C1160638,AFFECTS,Polymerase,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335818,C0220781,AFFECTS,SH2D3C gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335872,C0220781,AFFECTS,STAT1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1335962,C3714634,AFFECTS,Signaling Protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1336636,C0220781,AFFECTS,TLR4 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1366763,C0042765,AFFECTS,ELF3 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1367689,C1820201,AFFECTS,PLAUR gene,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1367710,C0220781,AFFECTS,C5 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412078,C0013203,AFFECTS,ABCC3 gene,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412113,C3894443,AFFECTS,SLC33A1 gene,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412171,C0220781,AFFECTS,ACTR2 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412215,C0220781,AFFECTS,ADAR gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412234,C0042765,AFFECTS,PLIN2 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412289,C3156318,AFFECTS,APLNR gene,cardiovascular system development,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412467,C0220781,AFFECTS,APLP2 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412504,C0220781,AFFECTS,ARF1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412709,C3714634,AFFECTS,B2M gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412785,C0220781,AFFECTS,BECN1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1412831,C0220781,AFFECTS,BST2 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413014,C0220781,AFFECTS,C6 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413041,C0013203,AFFECTS,CA12 gene,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413064,C0220781,AFFECTS,CACNA1S gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413218,C1721019,AFFECTS,SCARB1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413219,C1721019,AFFECTS,SCARB2 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413299,C0042765,AFFECTS,CDSN gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413473,C0220781,AFFECTS,CLDN3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413503,C0220781,AFFECTS,CLOCK gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413512,C0220781,AFFECTS,CLTC gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413687,C0042765,AFFECTS,CPSF4 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1413963,C1160638,AFFECTS,DDX5 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414141,C1721019,AFFECTS,DPP4 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414270,C0220781,AFFECTS,EEF1A1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414356,C0220781,AFFECTS,EIF4G1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414444,C0220781,AFFECTS,ERN1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414509,C1721019,AFFECTS,F5 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414519,C0220781,AFFECTS,ACSL3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414689,C3714634,AFFECTS,FPGS gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1414968,C1160638,AFFECTS,GAPDH gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415002,C0220781,AFFECTS,GBF1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415068,C0042765,AFFECTS,GJA1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415188,C1721020,AFFECTS,GP2 gene,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415351,C1721019,AFFECTS,GTPBP1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415597,C3714634,AFFECTS,HMBS gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415619,C3537152,AFFECTS,HMOX1 gene,biological signaling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415718,C0220781,AFFECTS,HRC gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415761,C3714634,AFFECTS,HSPA5 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415892,C0220781,AFFECTS,IFIT1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415898,C0220781,AFFECTS,IFITM3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415898,C1721019,AFFECTS,IFITM3 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415898,C1721020,AFFECTS,IFITM3 gene,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1415898,C1819332,AFFECTS,IFITM3 gene,lysosome localization,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416471,C0220781,AFFECTS,IQGAP1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416478,C3714634,AFFECTS,ISG20 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416521,C0220781,AFFECTS,ITSN2 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416669,C1820201,AFFECTS,KLK1 gene,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416699,C0220781,AFFECTS,KPNA1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1416706,C0042765,AFFECTS,TNPO1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417005,C0220781,AFFECTS,MAP1LC3A gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417051,C1721019,AFFECTS,MBD3 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417776,C0042765,AFFECTS,NPC1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417776,C1721019,AFFECTS,NPC1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417898,C1160638,AFFECTS,NXF1 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417912,C0220781,AFFECTS,OAS1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1417923,C0220781,AFFECTS,OAZ3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418188,C0220781,AFFECTS,OSBP gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418401,C1819882,AFFECTS,PDCD1 gene,T cell anergy,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418476,C0220781,AFFECTS,PEX16 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418514,C0042765,AFFECTS,PGLS gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418597,C0042765,AFFECTS,PITX3 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418597,C0220781,AFFECTS,PITX3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418597,C1721019,AFFECTS,PITX3 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418597,C1820201,AFFECTS,PITX3 gene,tissue remodeling,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418793,C0013203,AFFECTS,PPIA gene,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418793,C1160638,AFFECTS,PPIA gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1418795,C3714634,AFFECTS,PPIB gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419086,C3714634,AFFECTS,PTMS gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419147,C0220781,AFFECTS,PEX19 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419187,C0220781,AFFECTS,RAB1A gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419227,C0220781,AFFECTS,RAC1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419625,C3714634,AFFECTS,RPIA gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1419712,C0220781,AFFECTS,RPS16 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420016,C0220781,AFFECTS,SGTA gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420188,C0220781,AFFECTS,SLC35A2 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420271,C0220781,AFFECTS,SNAP29 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420459,C3894443,AFFECTS,SULT1E1 gene,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420497,C0220781,AFFECTS,STX17 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420591,C1160638,AFFECTS,TAX1BP1 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1420952,C3714634,AFFECTS,TRAP1 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1421350,C0220781,AFFECTS,ULK1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1421429,C0220781,AFFECTS,VTRNA1-1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1421455,C3269198,AFFECTS,VLDLR gene,beta-amyloid clearance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1421638,C0220781,AFFECTS,TRIM25 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1421946,C0220781,AFFECTS,MAP1LC3B gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1422018,C0220781,AFFECTS,VPS4A gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1422019,C0042765,AFFECTS,WDR7 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1422036,C1721019,AFFECTS,ERVW-1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1422064,C3714634,AFFECTS,ACE2 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1423053,C0220781,AFFECTS,TAS2R13 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1423062,C3157043,AFFECTS,SIRT1 gene,energy homeostasis,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1423498,C0220781,AFFECTS,GOLPH3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1424146,C1160638,AFFECTS,TRIM5 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1424147,C0220781,AFFECTS,TRIM6 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1424661,C3894443,AFFECTS,TXNIP gene,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1424731,C0042765,AFFECTS,SYNE2 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1425322,C1160638,AFFECTS,KHDRBS1 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1425380,C0220781,AFFECTS,ZRANB1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1425927,C0220781,AFFECTS,EDEM1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1425942,C0042765,AFFECTS,SCARA3 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1426119,C1721019,AFFECTS,PLAC8 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1427259,C3714634,AFFECTS,HACE1 gene,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1428114,C0042765,AFFECTS,TBATA gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1428200,C0220781,AFFECTS,TIPARP gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1443846,C0042765,AFFECTS,Anthrax toxin protective antigen,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1452735,C0220781,AFFECTS,"3a protein, severe acute respiratory syndrome coronavirus",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1453722,C0042765,AFFECTS,"TNFRSF1A protein, human",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1512488,C3714634,AFFECTS,Homologous Protein,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1522002,C0220781,AFFECTS,RNA Recognition Motif,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1522002,C1721019,AFFECTS,RNA Recognition Motif,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1527757,C3714634,AFFECTS,"FGFR1 protein, human",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1527865,C0220781,AFFECTS,"CAV1 protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1537698,C0220781,AFFECTS,MINK1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1537719,C3156318,AFFECTS,MIR21 gene,cardiovascular system development,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1538124,C0220781,AFFECTS,XRN1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1538957,C0220781,AFFECTS,BNC1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1539732,C0220781,AFFECTS,SCRIB gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1539865,C1721019,AFFECTS,ST6GAL1 gene,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1539873,C0220781,AFFECTS,ST8SIA1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1539908,C1160638,AFFECTS,TAAR1 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1539986,C0042765,AFFECTS,TMED5 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1540141,C0220781,AFFECTS,TXNL4B gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1540210,C0042765,AFFECTS,ASZ1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1540210,C0220781,AFFECTS,ASZ1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1564907,C0220781,AFFECTS,"Receptors, Pattern Recognition",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1565114,C3894443,AFFECTS,Apoptosis Inhibiting Proteins,reactive oxygen species biosynthetic process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1565427,C0042765,AFFECTS,"PTK2 protein, human",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1565830,C1160638,AFFECTS,"PTGS1 protein, human",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1579593,C0220781,AFFECTS,Complement C5 Convertases,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1624602,C0220781,AFFECTS,Anti-Antibodies,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1701790,C0220781,AFFECTS,"IL17A protein, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1704723,C1721019,AFFECTS,FGFR1 wt Allele,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1705504,C0220781,AFFECTS,HTATIP wt Allele,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1705982,C0220781,AFFECTS,KRAS wt Allele,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1705982,C1160685,AFFECTS,KRAS wt Allele,viral procapsid maturation,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1705982,C3853734,AFFECTS,KRAS wt Allele,viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1708130,C0042765,AFFECTS,GNAI1 wt Allele,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1823138,C0220781,AFFECTS,STT3A gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1823139,C0220781,AFFECTS,STT3B gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1824521,C1160638,AFFECTS,CALCOCO2 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1824530,C0220781,AFFECTS,CASD1 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1824728,C0220781,AFFECTS,CFB gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1825325,C1160638,AFFECTS,G3BP1 gene,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1825498,C0220781,AFFECTS,ATG7 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1825501,C0220781,AFFECTS,ATG10 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1825598,C0042765,AFFECTS,IMPACT gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1826632,C0220781,AFFECTS,BRCC3 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1853685,C0042765,AFFECTS,PBRM1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1864769,C0220781,AFFECTS,OS9 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1874187,C1160638,AFFECTS,AMINO ACIDS/PROTEINS,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1883559,C0220781,AFFECTS,Wild Type,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1956061,C0220781,AFFECTS,Cathelicidins,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C1958909,C0042765,AFFECTS,"Nsp1 protein, SARS coronavirus",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2002636,C1160638,AFFECTS,3C proteases,Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2350463,C0042765,AFFECTS,"Receptors, Natural Killer Cell",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2678521,C0220781,AFFECTS,NOP56 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2681866,C0042765,AFFECTS,NEAT1 gene,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2699119,C0220781,AFFECTS,ARPP21 gene,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2744535,C0042765,AFFECTS,"CD69 protein, human",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2744535,C1160638,AFFECTS,"CD69 protein, human",Viral life cycle,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2945614,C0013203,AFFECTS,lactamase,Drug resistance,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2945616,C1721020,AFFECTS,protein iii,Virus Membrane Fusion,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2945724,C0042765,AFFECTS,f-protein,Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2945724,C1721019,AFFECTS,f-protein,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C2985502,C1721019,AFFECTS,Hemagglutinin-Neuraminidase,Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3273474,C0220781,AFFECTS,Cytospin-B,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3538714,C0220781,AFFECTS,TTN wt Allele,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3538714,C1659461,AFFECTS,TTN wt Allele,endoplasmic reticulum localization,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3539688,C3714634,AFFECTS,DEGS1 wt Allele,Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3540818,C0220781,AFFECTS,LAMP1 wt Allele,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3641723,C0220781,AFFECTS,PARP1 Gene Product,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3711684,C1721019,AFFECTS,"S protein, severe acute respiratory syndrome coronavirus",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3715044,C0220781,AFFECTS,AKR1A1 wt Allele,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3815884,C0220781,AFFECTS,Myosin-1,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3828457,C0220781,AFFECTS,Protein Quaking,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C3887583,C3714634,AFFECTS,"CD40 Ligand, human",Biological Processes,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4048280,C0220781,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4082178,C1817882,AFFECTS,"Progesterone Receptor, human",Granuloma formation,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4084937,C0220781,AFFECTS,Antimicrobial Peptide,Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4281807,C1721019,AFFECTS,"Vitronectin, human",Virus Attachment,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4283742,C3853734,AFFECTS,"Ceramide Glucosyltransferase, human",viral process,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4317106,C0042765,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Virulence,aapp,biof,1,AFFECTS_AAPPafctBIOF
+C4317106,C0220781,AFFECTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Anabolism,aapp,biof,1,AFFECTS_AAPPafctBIOF

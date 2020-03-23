@@ -1,0 +1,86 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006114,C0011065,CAUSES,Cerebral Edema,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0007820,C0011065,CAUSES,Cerebrovascular Disorders,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0013604,C0014653,CAUSES,Edema,Equilibrium,patf,orgf,1,CAUSES_PATFcausORGF
+C0013990,C0011065,CAUSES,Pathological accumulation of air in tissues,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0013990,C0014653,CAUSES,Pathological accumulation of air in tissues,Equilibrium,patf,orgf,1,CAUSES_PATFcausORGF
+C0015376,C0011065,CAUSES,Extravasation,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0015924,C0032961,CAUSES,Fetal Anoxia,Pregnancy,patf,orgf,1,CAUSES_PATFcausORGF
+C0016059,C0011065,CAUSES,Fibrosis,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0016059,C1327413,CAUSES,Fibrosis,cytokine production,patf,orgf,1,CAUSES_PATFcausORGF
+C0018790,C0011065,CAUSES,Cardiac Arrest,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0020517,C0011065,CAUSES,Hypersensitivity,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0020517,C0022864,CAUSES,Hypersensitivity,Labor (Childbirth),patf,orgf,1,CAUSES_PATFcausORGF
+C0020517,C1155281,CAUSES,Hypersensitivity,systemic acquired resistance,patf,orgf,1,CAUSES_PATFcausORGF
+C0020517,C1155328,CAUSES,Hypersensitivity,Antiviral Response,patf,orgf,1,CAUSES_PATFcausORGF
+C0020564,C0018270,CAUSES,Hypertrophy,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C0020963,C0005615,CAUSES,Immune Tolerance,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0011065,CAUSES,Inflammation,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0018270,CAUSES,Inflammation,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0043240,CAUSES,Inflammation,Wound Healing,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0596570,CAUSES,Inflammation,fibrogenesis,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0678889,CAUSES,Inflammation,Immunoregulation,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C0699900,CAUSES,Inflammation,Catabolism,patf,orgf,1,CAUSES_PATFcausORGF
+C0021368,C1819437,CAUSES,Inflammation,interleukin-10 production,patf,orgf,1,CAUSES_PATFcausORGF
+C0021375,C1155328,CAUSES,allergic inflammation,Antiviral Response,patf,orgf,1,CAUSES_PATFcausORGF
+C0026766,C0011065,CAUSES,Multiple Organ Failure,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0026766,C1516559,CAUSES,Multiple Organ Failure,Circulatory Process,patf,orgf,1,CAUSES_PATFcausORGF
+C0027686,C0018270,CAUSES,Pathologic Neovascularization,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C0028778,C0005615,CAUSES,Obstruction,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C0028778,C0699900,CAUSES,Obstruction,Catabolism,patf,orgf,1,CAUSES_PATFcausORGF
+C0028778,C1155328,CAUSES,Obstruction,Antiviral Response,patf,orgf,1,CAUSES_PATFcausORGF
+C0028778,C3159140,CAUSES,Obstruction,interferon production,patf,orgf,1,CAUSES_PATFcausORGF
+C0035229,C0011065,CAUSES,Respiratory Insufficiency,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0036974,C0011065,CAUSES,Shock,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0036974,C1516559,CAUSES,Shock,Circulatory Process,patf,orgf,1,CAUSES_PATFcausORGF
+C0036974,C2756048,CAUSES,Shock,stalk formation,patf,orgf,1,CAUSES_PATFcausORGF
+C0036983,C0011065,CAUSES,Septic Shock,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0036986,C0011065,CAUSES,"Shock, Traumatic",Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0040053,C0011065,CAUSES,Thrombosis,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0085073,C0011065,CAUSES,Prosthesis-Related Infection,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0085298,C0011065,CAUSES,Sudden Cardiac Death,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0085605,C0011065,CAUSES,Liver Failure,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0151517,C0011065,CAUSES,Complete atrioventricular block,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0151526,C0000934,CAUSES,Premature Birth,Acclimatization,patf,orgf,1,CAUSES_PATFcausORGF
+C0151526,C0011065,CAUSES,Premature Birth,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0151692,C0043240,CAUSES,Impaired wound healing,Wound Healing,patf,orgf,1,CAUSES_PATFcausORGF
+C0151763,C0011065,CAUSES,Liver damage,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0161818,C0011065,CAUSES,Respiratory complication,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0162633,C0026649,CAUSES,Viral Shedding,Movement,patf,orgf,1,CAUSES_PATFcausORGF
+C0206277,C0011065,CAUSES,Fatal Outcome,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0220981,C0011065,CAUSES,Metabolic acidosis,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0231170,C0011065,CAUSES,Disability,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0232910,C0032961,CAUSES,Teratogenesis,Pregnancy,patf,orgf,1,CAUSES_PATFcausORGF
+C0235029,C0011065,CAUSES,neurological complication,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0242649,C0026649,CAUSES,"Infectious Disease Transmission, Horizontal",Movement,patf,orgf,1,CAUSES_PATFcausORGF
+C0282474,C0005615,CAUSES,Maternal-Fetal Infection Transmission,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C0332448,C0005615,CAUSES,Infiltration,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C0332448,C1510470,CAUSES,Infiltration,Motility,patf,orgf,1,CAUSES_PATFcausORGF
+C0333279,C0011065,CAUSES,Massive hemorrhage,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0333641,C0026649,CAUSES,Atrophic,Movement,patf,orgf,1,CAUSES_PATFcausORGF
+C0340654,C0011065,CAUSES,Arterial hemorrhage,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0342579,C0011065,CAUSES,Electrolyte imbalance,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0452115,C0011065,CAUSES,Infection following immunization,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0452115,C0020966,CAUSES,Infection following immunization,Cellular Immunity,patf,orgf,1,CAUSES_PATFcausORGF
+C0456070,C0018270,CAUSES,Growth delay,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C0475737,C0678723,CAUSES,Perinatal subependymal hemorrhage,Biologic Development,patf,orgf,1,CAUSES_PATFcausORGF
+C0854457,C0011065,CAUSES,Direct disease transmission,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C0854457,C0018270,CAUSES,Direct disease transmission,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C1155266,C0005615,CAUSES,inflammatory response,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C1155266,C0011065,CAUSES,inflammatory response,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C1155266,C0026649,CAUSES,inflammatory response,Movement,patf,orgf,1,CAUSES_PATFcausORGF
+C1261287,C0042789,CAUSES,Stenosis,Vision,patf,orgf,1,CAUSES_PATFcausORGF
+C1265984,C0011065,CAUSES,Diffuse fibrosis,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C1520005,C0011065,CAUSES,Viral Pathogenesis,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C1527304,C1819426,CAUSES,Allergic Reaction,chemokine production,patf,orgf,1,CAUSES_PATFcausORGF
+C1720105,C0011065,CAUSES,AIDS-associated disorder,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C2911645,C0011065,CAUSES,Weight Loss Adverse Event,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C2937358,C0011065,CAUSES,Cerebral Hemorrhage,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C2979982,C0005615,CAUSES,Vaginal Hemorrhage,Birth,patf,orgf,1,CAUSES_PATFcausORGF
+C3714514,C0011065,CAUSES,Infection,Cessation of life,patf,orgf,2,CAUSES_PATFcausORGF
+C3714514,C0014653,CAUSES,Infection,Equilibrium,patf,orgf,1,CAUSES_PATFcausORGF
+C3714514,C0018270,CAUSES,Infection,Growth,patf,orgf,1,CAUSES_PATFcausORGF
+C3714514,C1155328,CAUSES,Infection,Antiviral Response,patf,orgf,1,CAUSES_PATFcausORGF
+C3714514,C1749719,CAUSES,Infection,Adaptive Immune Response,patf,orgf,1,CAUSES_PATFcausORGF
+C4061114,C0011065,CAUSES,Acute illness,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
+C4290181,C0011065,CAUSES,thrombotic occlusion,Cessation of life,patf,orgf,1,CAUSES_PATFcausORGF
