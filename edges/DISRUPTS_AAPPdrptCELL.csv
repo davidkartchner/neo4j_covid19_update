@@ -1,0 +1,335 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001473,C0225336,DISRUPTS,Adenosine Triphosphatases,Endothelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0001473,C0225698,DISRUPTS,Adenosine Triphosphatases,Alveolar Epithelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0001643,C0014792,DISRUPTS,beta-2 Adrenergic Receptors,Erythrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0001924,C0014597,DISRUPTS,Albumins,Epithelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003241,C0004561,DISRUPTS,Antibodies,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003241,C0014792,DISRUPTS,Antibodies,Erythrocytes,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0003241,C0032112,DISRUPTS,Antibodies,Plasma Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003241,C0221284,DISRUPTS,Antibodies,Leptocyte,aapp,cell,3,DISRUPTS_AAPPdrptCELL
+C0003241,C1513095,DISRUPTS,Antibodies,Melanoma Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003242,C0027950,DISRUPTS,"Antibodies, Anti-Idiotypic",neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003250,C0022688,DISRUPTS,Monoclonal Antibodies,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003250,C0027950,DISRUPTS,Monoclonal Antibodies,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003250,C0039194,DISRUPTS,Monoclonal Antibodies,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0003250,C0334227,DISRUPTS,Monoclonal Antibodies,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003593,C0022801,DISRUPTS,Apolipoproteins B,Hepatic macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003593,C0227525,DISRUPTS,Apolipoproteins B,Hepatocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0003762,C0039194,DISRUPTS,ARGINASE,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0008145,C0024432,DISRUPTS,Chitinases,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0009498,C0221284,DISRUPTS,Complement System Proteins,Leptocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0010590,C0039195,DISRUPTS,Cycloserine,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0010590,C1267822,DISRUPTS,Cycloserine,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0010590,C3641722,DISRUPTS,Cycloserine,Effector T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0010592,C0039194,DISRUPTS,Cyclosporine,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0010654,C0039194,DISRUPTS,Cysteine,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0014063,C0028944,DISRUPTS,Myelin Basic Proteins,Oligodendroglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0015980,C0024432,DISRUPTS,Interferon-beta,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0015980,C0206190,DISRUPTS,Interferon-beta,"Macrophages, Peritoneal",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0017626,C0004112,DISRUPTS,Glial Fibrillary Acidic Protein,Astrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0017757,C1180059,DISRUPTS,Glucosephosphate Dehydrogenase,Nucleated cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0017757,C4277577,DISRUPTS,Glucosephosphate Dehydrogenase,A549 Cells,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0019475,C0024432,DISRUPTS,Hexokinase 2,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0019643,C0334227,DISRUPTS,Histone Deacetylase,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0020960,C0004561,DISRUPTS,Immune Sera,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021699,C0015161,DISRUPTS,Integral Membrane Proteins,Eukaryotic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021701,C0225700,DISRUPTS,Integrins,Type-II Pneumocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021747,C0011306,DISRUPTS,Interferons,Dendritic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021747,C4277577,DISRUPTS,Interferons,A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021755,C0024432,DISRUPTS,Interleukin-1,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021755,C0026473,DISRUPTS,Interleukin-1,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021756,C0022688,DISRUPTS,Interleukin-2,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021756,C1321301,DISRUPTS,Interleukin-2,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C0028944,DISRUPTS,Interleukin-4,Oligodendroglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C0039194,DISRUPTS,Interleukin-4,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C0039195,DISRUPTS,Interleukin-4,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C0039215,DISRUPTS,Interleukin-4,CD4 Positive T Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C1519477,DISRUPTS,Interleukin-4,Splenocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021758,C4330475,DISRUPTS,Interleukin-4,Immune Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C0004112,DISRUPTS,Interleukin-6,Astrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C0022688,DISRUPTS,Interleukin-6,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C0024432,DISRUPTS,Interleukin-6,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C0027836,DISRUPTS,Interleukin-6,Neuroglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C0039194,DISRUPTS,Interleukin-6,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C1267822,DISRUPTS,Interleukin-6,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0021760,C4277577,DISRUPTS,Interleukin-6,A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0023206,C0682523,DISRUPTS,Lectin,human cell line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0023206,C0883208,DISRUPTS,Lectin,Lymphoma cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0023816,C1512944,DISRUPTS,LIPOPROTEIN LIPASE,Intraepithelial Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0025250,C0016030,DISRUPTS,Neprilysin,Fibroblasts,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0025252,C0027950,DISRUPTS,Membrane Proteins,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0026682,C0596030,DISRUPTS,Mucins,Acinar Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0026972,C0024432,DISRUPTS,Myelin Proteins,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0029923,C0242632,DISRUPTS,Ovalbumin,T-helper cell type 1,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0034790,C0334227,DISRUPTS,T-Cell Receptor,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0035678,C0016030,DISRUPTS,RNA Polymerase I,Fibroblasts,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0040691,C0014597,DISRUPTS,Transforming Growth Factors,Epithelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0040691,C0022688,DISRUPTS,Transforming Growth Factors,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0040691,C0039194,DISRUPTS,Transforming Growth Factors,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0040691,C0039195,DISRUPTS,Transforming Growth Factors,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0042666,C0024432,DISRUPTS,Vimentin,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0052128,C0026473,DISRUPTS,antithrombin III-protease complex,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0052350,C0007600,DISRUPTS,arginyl-glycyl-aspartic acid,Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0054455,C0029431,DISRUPTS,Calcitonin Receptor,Osteoclasts,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0054757,C0042542,DISRUPTS,carboxypeptidase H,Vero Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0054757,C0598829,DISRUPTS,carboxypeptidase H,Madin Darby Canine Kidney Cells,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0054871,C0334227,DISRUPTS,Cathepsin L,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0058988,C1518174,DISRUPTS,Eukaryotic Initiation Factor-4E,Malignant Epithelial Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0061355,C0024264,DISRUPTS,Glucagon-Like Peptide 1,Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0061878,C0039194,DISRUPTS,granzyme B,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0061878,C3897252,DISRUPTS,granzyme B,Umbilical Cord Blood-derived Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0061878,C4527316,DISRUPTS,granzyme B,Chimeric Antigen Receptor T-cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0063710,C0027950,DISRUPTS,"Receptors, Interleukin-1",neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0069580,C1512035,DISRUPTS,Rod Opsins,Dopaminergic Neurons,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0070410,C0221284,DISRUPTS,perforin,Leptocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0071795,C0024432,DISRUPTS,2-5A-dependent ribonuclease,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0072354,C0242598,DISRUPTS,Protein Disulfide-Isomerases,LLC-PK1 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0073240,C0007600,DISRUPTS,Ribonuclease III,Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C0003315,DISRUPTS,cytokine,Antigen-Presenting Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C0004561,DISRUPTS,cytokine,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C0024432,DISRUPTS,cytokine,macrophage,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0079189,C0026473,DISRUPTS,cytokine,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C0039194,DISRUPTS,cytokine,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0079189,C0242632,DISRUPTS,cytokine,T-helper cell type 1,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C4042840,DISRUPTS,cytokine,RAW 264.7 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079189,C4330475,DISRUPTS,cytokine,Immune Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0079904,C1321301,DISRUPTS,NF-kappa B,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0081937,C0025201,DISRUPTS,Dipeptidyl-Peptidase IV,melanocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0084692,C0031307,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Phagocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0084692,C1321301,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C0003315,DISRUPTS,Interleukin-10,Antigen-Presenting Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C0011306,DISRUPTS,Interleukin-10,Dendritic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C0024432,DISRUPTS,Interleukin-10,macrophage,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0085295,C0039194,DISRUPTS,Interleukin-10,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0085295,C0039195,DISRUPTS,Interleukin-10,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C0039215,DISRUPTS,Interleukin-10,CD4 Positive T Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C0242632,DISRUPTS,Interleukin-10,T-helper cell type 1,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0085295,C3641722,DISRUPTS,Interleukin-10,Effector T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085295,C4330475,DISRUPTS,Interleukin-10,Immune Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0085297,C0027950,DISRUPTS,"Immunoglobulins, Intravenous",neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0086661,C0039194,DISRUPTS,MYC gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0103403,C0026473,DISRUPTS,Annexin A1,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0103403,C0027950,DISRUPTS,Annexin A1,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0104398,C0039198,DISRUPTS,asparaginylendopeptidase,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0108187,C1563925,DISRUPTS,Calnexin,Tr1 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0111208,C0003315,DISRUPTS,cytotoxic T-lymphocyte antigen 4,Antigen-Presenting Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0111208,C0039194,DISRUPTS,cytotoxic T-lymphocyte antigen 4,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0120285,C2936239,DISRUPTS,Green Fluorescent Proteins,HEK293 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0123759,C0039195,DISRUPTS,Interleukin-12,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0123759,C0039198,DISRUPTS,Interleukin-12,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0123759,C0242633,DISRUPTS,Interleukin-12,T-helper cell type 2,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0123759,C4330475,DISRUPTS,Interleukin-12,Immune Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0166033,C0004561,DISRUPTS,I kappa B beta protein,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0174680,C0600432,DISRUPTS,Cyclin D1,K562 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0206492,C0334227,DISRUPTS,"Antibodies, Bispecific","Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0210502,C0028944,DISRUPTS,Glutamate-Aspartate Transporter,Oligodendroglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0214743,C0039215,DISRUPTS,Interleukin-13,CD4 Positive T Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0245109,C0031307,DISRUPTS,anakinra,Phagocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0250400,C0282560,DISRUPTS,occludin,Caco-2 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0250604,C1257975,DISRUPTS,Eotaxin,Mesenchymal Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0282554,C0027882,DISRUPTS,chemokine,Neurons,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C0282554,C1257975,DISRUPTS,chemokine,Mesenchymal Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0286330,C0018873,DISRUPTS,26S proteasome,HeLa Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0287990,C0015161,DISRUPTS,paired basic amino acid cleaving enzyme,Eukaryotic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0291545,C0039195,DISRUPTS,Mucin-3,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0301521,C0334227,DISRUPTS,therapeutic vaccine,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0312594,C0039194,DISRUPTS,T cell antibody,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0313543,C0334227,DISRUPTS,von Willebrand factor antibody,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0376622,C0023516,DISRUPTS,ABCB1 gene,Leukocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0378910,C0022688,DISRUPTS,Lymphocyte antigen CD66A,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0378910,C0039194,DISRUPTS,Lymphocyte antigen CD66A,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0379099,C1512977,DISRUPTS,vacuolar H+-ATPase,Mammalian Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0379710,C3714800,DISRUPTS,caveolin 1,SCID-Repopulating Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0384768,C4277577,DISRUPTS,"IRF3 protein, human",A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0385242,C0022567,DISRUPTS,TNF-related apoptosis-inducing ligand,keratinocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0475463,C0039194,DISRUPTS,"Antibodies, Neutralizing",T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0475463,C1183428,DISRUPTS,"Antibodies, Neutralizing",Solocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0532374,C0027950,DISRUPTS,metabotropic glutamate receptor 7,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0669372,C0206190,DISRUPTS,"NOS2A protein, human","Macrophages, Peritoneal",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0730920,C0039194,DISRUPTS,Thymoglobulin,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0754515,C0334227,DISRUPTS,"TERT protein, human","Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0769345,C1183428,DISRUPTS,caspase-5,Solocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0796392,C0282639,DISRUPTS,bevacizumab,HT29 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0812198,C0016030,DISRUPTS,BAX gene,Fibroblasts,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0879468,C0004561,DISRUPTS,CSF1R gene,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0879468,C0039194,DISRUPTS,CSF1R gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0879468,C0206116,DISRUPTS,CSF1R gene,Microglia,aapp,cell,5,DISRUPTS_AAPPdrptCELL
+C0913092,C0039194,DISRUPTS,DC-specific ICAM-3 grabbing nonintegrin,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0915024,C0027882,DISRUPTS,lactate dehydrogenase A,Neurons,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0965245,C0039194,DISRUPTS,"CD274 protein, human",T-Lymphocyte,aapp,cell,3,DISRUPTS_AAPPdrptCELL
+C0965245,C0221284,DISRUPTS,"CD274 protein, human",Leptocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C0965245,C0334227,DISRUPTS,"CD274 protein, human","Tumor cells, malignant",aapp,cell,3,DISRUPTS_AAPPdrptCELL
+C0995188,C0282639,DISRUPTS,cetuximab,HT29 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1120843,C0024432,DISRUPTS,mitogen-activated protein kinase p38,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1120843,C0027950,DISRUPTS,mitogen-activated protein kinase p38,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1172734,C0039194,DISRUPTS,natalizumab,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1256770,C3714800,DISRUPTS,Vascular Endothelial Growth Factors,SCID-Repopulating Cell,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1305923,C0682523,DISRUPTS,Polypeptides,human cell line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1309483,C0007600,DISRUPTS,"DICER1 protein, human",Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1310463,C1171346,DISRUPTS,"IFIH1 protein, human",Human Embryonic Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1312700,C0024432,DISRUPTS,"FABP1 protein, human",macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1332101,C0221284,DISRUPTS,APEH gene,Leptocyte,aapp,cell,3,DISRUPTS_AAPPdrptCELL
+C1332112,C4042840,DISRUPTS,RHOH gene,RAW 264.7 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1332700,C0026473,DISRUPTS,CCR5 gene,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1332733,C0600432,DISRUPTS,CDK2 gene,K562 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1332822,C2350466,DISRUPTS,CXCR3 gene,Natural Killer T-Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1332822,C2709199,DISRUPTS,CXCR3 gene,Natural killer,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1333257,C0206116,DISRUPTS,DUSP1 gene,Microglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1333877,C0221284,DISRUPTS,Granzymes,Leptocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1333908,C0024432,DISRUPTS,HMGB1 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1334078,C0022688,DISRUPTS,IFITM1 gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1334081,C0022688,DISRUPTS,IFNAR1 gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1334081,C0039194,DISRUPTS,IFNAR1 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1334126,C0027950,DISRUPTS,CXCR2 gene,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1335057,C0221284,DISRUPTS,"PTPN22 protein, human",Leptocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1335808,C0022688,DISRUPTS,SELL gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1335872,C2936239,DISRUPTS,STAT1 gene,HEK293 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1335873,C1517631,DISRUPTS,STAT2 gene,K-562,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1336636,C0024264,DISRUPTS,TLR4 gene,Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1336636,C0026473,DISRUPTS,TLR4 gene,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1336644,C0039198,DISRUPTS,TNFRSF10B gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1336763,C0024432,DISRUPTS,Toll-Like Receptor Family Gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1366557,C0039194,DISRUPTS,TGFB1 gene,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1366561,C0039194,DISRUPTS,CD80 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1366572,C1267822,DISRUPTS,CXCL13 gene,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1366910,C0022688,DISRUPTS,Calmodulin 1,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1367307,C0039194,DISRUPTS,STAT3 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1367307,C0282639,DISRUPTS,STAT3 gene,HT29 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1367307,C0677626,DISRUPTS,STAT3 gene,hepatoma cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1367307,C2936411,DISRUPTS,STAT3 gene,Th17 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1367477,C0024264,DISRUPTS,CD14 gene,Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1412181,C0024432,DISRUPTS,ADAM10 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1412417,C0023516,DISRUPTS,ANXA1 gene,Leukocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1412544,C1321301,DISRUPTS,ARNTL gene,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1412616,C0022688,DISRUPTS,ATF3 gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1412785,C0085983,DISRUPTS,BECN1 gene,"Cell Line, Tumor",aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1412831,C1183428,DISRUPTS,BST2 gene,Solocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1413172,C0007600,DISRUPTS,CCND1 gene,Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1413243,C0039194,DISRUPTS,CD86 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1413514,C1321301,DISRUPTS,CLU gene,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414141,C0552639,DISRUPTS,DPP4 gene,tubular cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414141,C0882849,DISRUPTS,DPP4 gene,Cell positive for CD34 antigen,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414197,C0596981,DISRUPTS,DUX4 gene,Muscle Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414197,C0596995,DISRUPTS,DUX4 gene,Myoblasts,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1414420,C0039215,DISRUPTS,EOMES gene,CD4 Positive T Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414609,C0024432,DISRUPTS,FGL2 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414609,C0039194,DISRUPTS,FGL2 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414609,C0039198,DISRUPTS,FGL2 gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1414968,C0027882,DISRUPTS,GAPDH gene,Neurons,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1415489,C0039198,DISRUPTS,HBZ gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1415888,C4505192,DISRUPTS,IFI30 gene,THP-1 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1415900,C0682523,DISRUPTS,IFNA1 gene,human cell line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1416467,C0039198,DISRUPTS,FOXP3 gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1416478,C2717940,DISRUPTS,ISG20 gene,Hep G2 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1416706,C0014597,DISRUPTS,TNPO1 gene,Epithelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1416942,C0039215,DISRUPTS,NCR2 gene,CD4 Positive T Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1417196,C0042542,DISRUPTS,MLYCD gene,Vero Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1417510,C4277577,DISRUPTS,MX1 gene,A549 Cells,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1417635,C1516469,DISRUPTS,NDUFB3 gene,Chicken Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1417760,C0024432,DISRUPTS,NOS2 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1417776,C4277577,DISRUPTS,NPC1 gene,A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1417912,C1171346,DISRUPTS,OAS1 gene,Human Embryonic Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418401,C0039198,DISRUPTS,PDCD1 gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418401,C0242629,DISRUPTS,PDCD1 gene,CD8-Positive T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418401,C0682639,DISRUPTS,PDCD1 gene,Memory T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418401,C3641722,DISRUPTS,PDCD1 gene,Effector T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418465,C1321301,DISRUPTS,PER2 gene,Peripheral blood mononuclear cell (cell),aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418597,C0027950,DISRUPTS,PITX3 gene,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1418793,C0026473,DISRUPTS,PPIA gene,Monocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1420120,C0028944,DISRUPTS,SLC1A2 gene,Oligodendroglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1420393,C3179121,DISRUPTS,SQSTM1 gene,Human Umbilical Vein Endothelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1420744,C0004112,DISRUPTS,TJP1 gene,Astrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1421168,C0024432,DISRUPTS,TRPC1 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1421403,C1956422,DISRUPTS,USP28 gene,Cancer Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1421527,C0018873,DISRUPTS,XBP1 gene,HeLa Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1421946,C0007600,DISRUPTS,MAP1LC3B gene,Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1422064,C1513528,DISRUPTS,ACE2 gene,Mouse Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1422064,C4277577,DISRUPTS,ACE2 gene,A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1423767,C0024264,DISRUPTS,HPS4 gene,Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1423842,C0039198,DISRUPTS,NELFCD gene,Regulatory T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1423842,C0242632,DISRUPTS,NELFCD gene,T-helper cell type 1,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1423842,C0242633,DISRUPTS,NELFCD gene,T-helper cell type 2,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1424250,C0005773,DISRUPTS,NLRP3 gene,Blood Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1424250,C0039194,DISRUPTS,NLRP3 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1425330,C0206116,DISRUPTS,P2RY12 gene,Microglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1425514,C0039194,DISRUPTS,HAVCR2 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1425775,C0022688,DISRUPTS,KLRK1 gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1425775,C0039194,DISRUPTS,KLRK1 gene,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1425993,C0022688,DISRUPTS,NCR3 gene,Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1426212,C0007600,DISRUPTS,SOCS3 gene,Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1426212,C0014467,DISRUPTS,SOCS3 gene,eosinophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1428987,C0007600,DISRUPTS,SUSD2 gene,Cultured Cell Line,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1428987,C1512505,DISRUPTS,SUSD2 gene,Breast Cancer Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1434639,C0029974,DISRUPTS,"MAP2K1 protein, human",Ovum,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1435283,C0206116,DISRUPTS,"MHC2TA protein, human",Microglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1448177,C0024432,DISRUPTS,"TNF protein, human",macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1449159,C0024432,DISRUPTS,"CCL2 protein, human",macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1454484,C0042542,DISRUPTS,"VCL protein, human",Vero Cells,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1454489,C0027882,DISRUPTS,"MAPT protein, human",Neurons,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1456380,C0007600,DISRUPTS,"MAPK14 protein, human",Cultured Cell Line,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1515370,C0027882,DISRUPTS,Recombinant Fas Ligand,Neurons,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1515370,C0039194,DISRUPTS,Recombinant Fas Ligand,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1537607,C1267822,DISRUPTS,LRRC32 gene,CD4+ CD25+ Regulatory T Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1537647,C0009013,DISRUPTS,MALAT1 gene,Clone Cells,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1538399,C0007600,DISRUPTS,C10orf99 gene,Cultured Cell Line,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1538399,C0334227,DISRUPTS,C10orf99 gene,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1538577,C0376448,DISRUPTS,PARP1 gene,Jurkat Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1539703,C0004112,DISRUPTS,RSAD2 gene,Astrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540289,C0024432,DISRUPTS,CD200 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540290,C0011306,DISRUPTS,CD200R1 gene,Dendritic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540290,C0024432,DISRUPTS,CD200R1 gene,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540290,C0024880,DISRUPTS,CD200R1 gene,mast cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540290,C0887899,DISRUPTS,CD200R1 gene,Myeloid Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1540292,C0334227,DISRUPTS,CD274 gene,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1565427,C3714800,DISRUPTS,"PTK2 protein, human",SCID-Repopulating Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1565830,C0024880,DISRUPTS,"PTGS1 protein, human",mast cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1565860,C0282639,DISRUPTS,"PTGS2 protein, human",HT29 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1565860,C0677626,DISRUPTS,"PTGS2 protein, human",hepatoma cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1569775,C0004561,DISRUPTS,"BACE1 protein, human",B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1612111,C0024432,DISRUPTS,human MUC1 protein,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1667752,C1257975,DISRUPTS,"IL33 protein, human",Mesenchymal Stem Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1700887,C0022688,DISRUPTS,"IL2RA protein, human",Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1701032,C0022688,DISRUPTS,"ITGAM protein, human",Natural Killer Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1701790,C0031760,DISRUPTS,"IL17A protein, human",Photoreceptors,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1701790,C0039194,DISRUPTS,"IL17A protein, human",T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1705982,C0227525,DISRUPTS,KRAS wt Allele,Hepatocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C1706289,C0242629,DISRUPTS,Interleukin-27,CD8-Positive T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1822726,C0031307,DISRUPTS,SIRPA gene,Phagocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825497,C0039194,DISRUPTS,ATG5 gene,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825598,C0029974,DISRUPTS,IMPACT gene,Ovum,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825598,C0031307,DISRUPTS,IMPACT gene,Phagocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825598,C0314596,DISRUPTS,IMPACT gene,Spleen colony-forming unit,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825598,C4277577,DISRUPTS,IMPACT gene,A549 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1825598,C4330475,DISRUPTS,IMPACT gene,Immune Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1826560,C0004561,DISRUPTS,PDPN gene,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1847590,C0004561,DISRUPTS,ENDOU gene,B-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1864770,C0282639,DISRUPTS,MAVS gene,HT29 Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1870006,C0206116,DISRUPTS,"PTPRC protein, human",Microglia,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1883559,C0039194,DISRUPTS,Wild Type,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1955907,C0024432,DISRUPTS,Adipokines,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1969662,C0334227,DISRUPTS,AMBRA1 gene,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C1979927,C0011306,DISRUPTS,Microglobulin,Dendritic Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C2698127,C0039194,DISRUPTS,Anti-CD25 Monoclonal Antibody,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C2743006,C3714800,DISRUPTS,NaKtide,SCID-Repopulating Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C2985546,C0039194,DISRUPTS,"Antibodies, Monoclonal, Humanized",T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C2986635,C0039194,DISRUPTS,Programmed Cell Death Protein 1,T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3273837,C0039195,DISRUPTS,S100B wt Allele,Cytotoxic T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3537219,C0027950,DISRUPTS,SERPINA1 wt Allele,neutrophil,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3538683,C0024432,DISRUPTS,LGALS1 wt Allele,macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3539688,C1321301,DISRUPTS,DEGS1 wt Allele,Peripheral blood mononuclear cell (cell),aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C3540595,C0039194,DISRUPTS,CD8A wt Allele,T-Lymphocyte,aapp,cell,2,DISRUPTS_AAPPdrptCELL
+C3642279,C1519477,DISRUPTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Splenocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3710914,C0016030,DISRUPTS,"EIF2AK2 protein, human",Fibroblasts,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3710914,C0024432,DISRUPTS,"EIF2AK2 protein, human",macrophage,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3714613,C0004112,DISRUPTS,"Creatine Kinase B-Type, human",Astrocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3811127,C0221284,DISRUPTS,SULT1E1 wt Allele,Leptocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3889436,C0033731,DISRUPTS,LAMC2 wt Allele,Protoplasts,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C3890397,C0334227,DISRUPTS,PRKAA1 wt Allele,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4042483,C1512977,DISRUPTS,"BCL2 protein, human",Mammalian Cell,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4048280,C0005773,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",Blood Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4048280,C0039194,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",T-Lymphocyte,aapp,cell,4,DISRUPTS_AAPPdrptCELL
+C4048302,C0039194,DISRUPTS,"T-Lymphocyte Activation Antigen CD80, human",T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4084937,C0014597,DISRUPTS,Antimicrobial Peptide,Epithelial Cells,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4281805,C0242629,DISRUPTS,"T-Cell-Specific Surface Glycoprotein CD28, human",CD8-Positive T-Lymphocytes,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4282114,C0039194,DISRUPTS,"Bcl-2-Like Protein 11, human",T-Lymphocyte,aapp,cell,1,DISRUPTS_AAPPdrptCELL
+C4329777,C0334227,DISRUPTS,ERBB2 Antibody,"Tumor cells, malignant",aapp,cell,1,DISRUPTS_AAPPdrptCELL

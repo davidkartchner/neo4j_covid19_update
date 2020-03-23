@@ -1,0 +1,83 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0015967,AFFECTS,Acetaminophen,Fever,orch,fndg,2,AFFECTS_ORCHafctFNDG
+C0002556,C1545588,AFFECTS,Aminoglycosides,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0003968,C1545588,AFFECTS,Ascorbic Acid,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0008269,C1545588,AFFECTS,Chloroquine,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0008269,C1709157,AFFECTS,Chloroquine,Negative Surgical Margin,orch,fndg,2,AFFECTS_ORCHafctFNDG
+C0008269,C4055506,AFFECTS,Chloroquine,Accumulation,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0009074,C0424589,AFFECTS,Clotrimazole,Vitality,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0010467,C0020557,AFFECTS,Curcumin,Hypertriglyceridemia,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0011816,C1545588,AFFECTS,Dextromethorphan,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0012586,C0015967,AFFECTS,Dipyrone,Fever,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0012963,C0038435,AFFECTS,Dobutamine,Stress,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0022086,C1545588,AFFECTS,Iron Chelating Agents,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0031716,C3890735,AFFECTS,Phosphorylcholine,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0032483,C0033213,AFFECTS,Polyethylene Glycols,Problem,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0032483,C1444656,AFFECTS,Polyethylene Glycols,Indicated,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0032594,C1545588,AFFECTS,Polysaccharides,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0032594,C1709157,AFFECTS,Polysaccharides,Negative Surgical Margin,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0032594,C3840880,AFFECTS,Polysaccharides,Traffic,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0034392,C1545588,AFFECTS,Quercetin,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0042845,C4296962,AFFECTS,Vitamin B 12,Normal function,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0042874,C1545588,AFFECTS,Vitamin E,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0043369,C1861141,AFFECTS,Xylitol,Abnormality of the middle ear,orch,fndg,2,AFFECTS_ORCHafctFNDG
+C0052927,C4021734,AFFECTS,baicalein,Abnormality of mitochondrial metabolism,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0058272,C4055506,AFFECTS,dimethylbusulfan,Accumulation,orch,fndg,7,AFFECTS_ORCHafctFNDG
+C0058903,C1545588,AFFECTS,ebselen,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0058903,C1821718,AFFECTS,ebselen,Diminished productivity,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0063034,C0683954,AFFECTS,huperzine B,research results,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0063034,C3714738,AFFECTS,huperzine B,Compliance,orch,fndg,4,AFFECTS_ORCHafctFNDG
+C0070302,C3843066,AFFECTS,pentamethylmelamine,2 to 3 days,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0071649,C1545588,AFFECTS,polyphenols,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0073633,C1272641,AFFECTS,ranolazine,Systemic arterial pressure,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0074247,C4068804,AFFECTS,secoisolariciresinol,Coherent,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0074992,C4321237,AFFECTS,sphingosine 1-phosphate,High Level,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0075857,C0038435,AFFECTS,tauroursodeoxycholic acid,Stress,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0076836,C0560219,AFFECTS,Toremifene,Alcohol intake above recommended sensible limits,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0076840,C3842953,AFFECTS,torsemide,> 24 hrs,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0113293,C0007165,AFFECTS,Dexmedetomidine,Cardiac Output,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0113293,C0038455,AFFECTS,Dexmedetomidine,Stroke Volume,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0114771,C1272641,AFFECTS,dofetilide,Systemic arterial pressure,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0172217,C0596519,AFFECTS,arsenal,environmental stressor,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0216660,C1518681,AFFECTS,Zanamivir,Outcome of Therapy,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0246904,C0428776,AFFECTS,Levosimendan,Cardiac index,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0289313,C0001925,AFFECTS,rosiglitazone,Albuminuria,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0386125,C0424595,AFFECTS,stachybocin A,Undifferentiated illness,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0388088,C1545588,AFFECTS,FTY-720,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0525005,C1709157,AFFECTS,Nelfinavir,Negative Surgical Margin,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0525678,C0518003,AFFECTS,rasagiline,autonomic function,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0525678,C1709770,AFFECTS,rasagiline,Pulmonary Dysfunction,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0526058,C2220378,AFFECTS,pranlukast,severe Allergic disorders,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0599532,C1446614,AFFECTS,Thiophene,Convergent gaze,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0603200,C0231337,AFFECTS,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione",Senility,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0631516,C0015967,AFFECTS,"15-methyl-8-aza-16-oxagona-1,3,5(10),13-tetraen-17-one",Fever,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0674432,C0679250,AFFECTS,lopinavir,Disease Outcome,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0723179,C1269955,AFFECTS,SSD,Tumor Cell Invasion,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0724624,C4055223,AFFECTS,Medium chain triglycerides,Clinical Response,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0874039,C0457949,AFFECTS,Salicin extract,Chronic low back pain,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0874161,C3272283,AFFECTS,Oseltamivir,American College of Cardiology/American Heart Association Lesion Complexity Score C,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0874161,C3843647,AFFECTS,Oseltamivir,> 2 years,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0908957,C0038435,AFFECTS,4-PBA,Stress,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1119918,C0278092,AFFECTS,Ginseng Preparation,Sexual function,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1145759,C4055506,AFFECTS,Atazanavir,Accumulation,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1565750,C0458247,AFFECTS,sitagliptin,Allodynia,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1831992,C1855073,AFFECTS,ABT 263,"Mortality, Premature",orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1995592,C0240417,AFFECTS,HYDROXY-BETA-METHYLBUTYRATE,Form of muscle,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2728259,C0015967,AFFECTS,Program,Fever,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2728259,C0427184,AFFECTS,Program,No incoordination,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2746078,C0860803,AFFECTS,Linagliptin,glucose high,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C0015967,AFFECTS,Duration,Fever,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C0428886,AFFECTS,Duration,Mean blood pressure,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C0517627,AFFECTS,Duration,Infection status,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C0679250,AFFECTS,Duration,Disease Outcome,orch,fndg,3,AFFECTS_ORCHafctFNDG
+C2926735,C0857322,AFFECTS,Duration,anaemic,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C1281905,AFFECTS,Duration,At risk of disease,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C1709157,AFFECTS,Duration,Negative Surgical Margin,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2926735,C3151529,AFFECTS,Duration,Lethal,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2933427,C4055506,AFFECTS,MK 2206,Accumulation,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C2938208,C3816499,AFFECTS,Thrive,Pathogenic,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C3256127,C4289767,AFFECTS,Bos taurus colostrum preparation,Colonization,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C4050026,C0237849,AFFECTS,Matrix,Peeling of skin,orch,fndg,2,AFFECTS_ORCHafctFNDG
+C4050026,C1290905,AFFECTS,Matrix,Discrepancy,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C4050026,C1837655,AFFECTS,Matrix,Multifactorial,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C4050026,C3494749,AFFECTS,Matrix,Animal - origin,orch,fndg,1,AFFECTS_ORCHafctFNDG

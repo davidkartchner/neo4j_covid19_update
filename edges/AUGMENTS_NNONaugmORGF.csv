@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012939,C0042774,AUGMENTS,"DNA, Viral",Virus Replication,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0012939,C0301872,AUGMENTS,"DNA, Viral",Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0018346,C0678723,AUGMENTS,Guanosine Monophosphate,Biologic Development,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0023978,C0042774,AUGMENTS,Long Terminal Repeat,Virus Replication,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0028948,C0301872,AUGMENTS,Oligodeoxyribonucleotides,Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0028953,C0005615,AUGMENTS,Oligonucleotides,Birth,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0028953,C0020966,AUGMENTS,Oligonucleotides,Cellular Immunity,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0028953,C0678723,AUGMENTS,Oligonucleotides,Biologic Development,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0032413,C1155328,AUGMENTS,Poly I,Antiviral Response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0033755,C0042774,AUGMENTS,Proviruses,Virus Replication,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0035736,C0042774,AUGMENTS,"RNA, Viral",Virus Replication,nnon,orgf,4,AUGMENTS_NNONaugmORGF
+C0035736,C0301872,AUGMENTS,"RNA, Viral",Immune response,nnon,orgf,3,AUGMENTS_NNONaugmORGF
+C0045143,C0042774,AUGMENTS,"2',5'-oligoadenylate",Virus Replication,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0053697,C0301872,AUGMENTS,"bis(3',5')-cyclic diguanylic acid",Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0053697,C1749719,AUGMENTS,"bis(3',5')-cyclic diguanylic acid",Adaptive Immune Response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0599013,C0005615,AUGMENTS,aptamer,Birth,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0599013,C0011065,AUGMENTS,aptamer,Cessation of life,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0599013,C0699900,AUGMENTS,aptamer,Catabolism,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C0599013,C1819432,AUGMENTS,aptamer,interferon-beta production,nnon,orgf,2,AUGMENTS_NNONaugmORGF
+C0887909,C0301872,AUGMENTS,"RNA, Untranslated",Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1510800,C0014653,AUGMENTS,Adenoviral Vector,Equilibrium,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1510800,C0020966,AUGMENTS,Adenoviral Vector,Cellular Immunity,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1510800,C0301872,AUGMENTS,Adenoviral Vector,Immune response,nnon,orgf,2,AUGMENTS_NNONaugmORGF
+C1510800,C1155328,AUGMENTS,Adenoviral Vector,Antiviral Response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1514152,C0678209,AUGMENTS,Plasmid Cloning Vector,Adaptive Immunity,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1519595,C0233324,AUGMENTS,Transcript,Term Birth,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1519595,C0699900,AUGMENTS,Transcript,Catabolism,nnon,orgf,2,AUGMENTS_NNONaugmORGF
+C1567954,C0699900,AUGMENTS,RNA Aptamers,Catabolism,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C1567954,C1819432,AUGMENTS,RNA Aptamers,interferon-beta production,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C2930586,C0005615,AUGMENTS,Short Hairpin RNA,Birth,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C2930586,C0042774,AUGMENTS,Short Hairpin RNA,Virus Replication,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C2982391,C0042774,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Virus Replication,nnon,orgf,2,AUGMENTS_NNONaugmORGF
+C2982391,C0301872,AUGMENTS,Long Intergenic Non-Protein Coding RNA,Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C3272452,C0301872,AUGMENTS,Single-Stranded RNA,Immune response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C3272452,C1155328,AUGMENTS,Single-Stranded RNA,Antiviral Response,nnon,orgf,1,AUGMENTS_NNONaugmORGF
+C3537372,C0699900,AUGMENTS,Bacterial 16S RNA,Catabolism,nnon,orgf,1,AUGMENTS_NNONaugmORGF

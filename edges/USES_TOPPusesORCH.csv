@@ -1,0 +1,373 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0002556,USES,Inhalation Drug Administration,Aminoglycosides,topp,orch,1,USES_TOPPusesORCH
+C0001560,C0002556,USES,"Administration, Intranasal",Aminoglycosides,topp,orch,1,USES_TOPPusesORCH
+C0001560,C0102885,USES,"Administration, Intranasal",Am 580,topp,orch,1,USES_TOPPusesORCH
+C0001560,C0162969,USES,"Administration, Intranasal",Chitosan,topp,orch,1,USES_TOPPusesORCH
+C0001561,C0002556,USES,"Administration, Intravaginal",Aminoglycosides,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0001275,USES,"Administration, Oral",Activated Charcoal,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0004057,USES,"Administration, Oral",Aspirin,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0012586,USES,"Administration, Oral",Dipyrone,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0026056,USES,"Administration, Oral",Midazolam,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0028978,USES,"Administration, Oral",Omeprazole,topp,orch,2,USES_TOPPusesORCH
+C0001563,C0034392,USES,"Administration, Oral",Quercetin,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0041417,USES,"Administration, Oral",Tween 80,topp,orch,3,USES_TOPPusesORCH
+C0001563,C0042845,USES,"Administration, Oral",Vitamin B 12,topp,orch,2,USES_TOPPusesORCH
+C0001563,C0049506,USES,"Administration, Oral",Mirtazapine,topp,orch,3,USES_TOPPusesORCH
+C0001563,C0209368,USES,"Administration, Oral",mycophenolate mofetil,topp,orch,1,USES_TOPPusesORCH
+C0001563,C0935989,USES,"Administration, Oral",imatinib,topp,orch,2,USES_TOPPusesORCH
+C0001563,C0939237,USES,"Administration, Oral",lopinavir / Ritonavir,topp,orch,1,USES_TOPPusesORCH
+C0001563,C1739768,USES,"Administration, Oral",rivaroxaban,topp,orch,1,USES_TOPPusesORCH
+C0001563,C4045487,USES,"Administration, Oral",verdinexor,topp,orch,3,USES_TOPPusesORCH
+C0001563,C4548092,USES,"Administration, Oral",KDU731,topp,orch,2,USES_TOPPusesORCH
+C0002766,C0000970,USES,Pain management,Acetaminophen,topp,orch,1,USES_TOPPusesORCH
+C0002766,C0006405,USES,Pain management,Buprenorphine,topp,orch,3,USES_TOPPusesORCH
+C0002766,C0023660,USES,Pain management,Lidocaine,topp,orch,1,USES_TOPPusesORCH
+C0002766,C0026549,USES,Pain management,Morphine,topp,orch,2,USES_TOPPusesORCH
+C0002766,C0054827,USES,Pain management,carprofen,topp,orch,1,USES_TOPPusesORCH
+C0002766,C0113293,USES,Pain management,Dexmedetomidine,topp,orch,1,USES_TOPPusesORCH
+C0002766,C0246631,USES,Pain management,remifentanil,topp,orch,4,USES_TOPPusesORCH
+C0002769,C0023660,USES,"Analgesia, Epidural",Lidocaine,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0008161,USES,Anesthesia procedures,Chloral Hydrate,topp,orch,2,USES_TOPPusesORCH
+C0002903,C0008290,USES,Anesthesia procedures,Chlorprothixene,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0014994,USES,Anesthesia procedures,ethyl ether,topp,orch,2,USES_TOPPusesORCH
+C0002903,C0014996,USES,Anesthesia procedures,Ethers,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0015153,USES,Anesthesia procedures,Eugenol,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0018549,USES,Anesthesia procedures,Halothane,topp,orch,3,USES_TOPPusesORCH
+C0002903,C0022180,USES,Anesthesia procedures,Isoflurane,topp,orch,63,USES_TOPPusesORCH
+C0002903,C0022614,USES,Anesthesia procedures,Ketamine,topp,orch,18,USES_TOPPusesORCH
+C0002903,C0030883,USES,Anesthesia procedures,Pentobarbital,topp,orch,2,USES_TOPPusesORCH
+C0002903,C0033487,USES,Anesthesia procedures,Propofol,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0039925,USES,Anesthesia procedures,Thiopental,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0043366,USES,Anesthesia procedures,Xylazine,topp,orch,15,USES_TOPPusesORCH
+C0002903,C0051482,USES,Anesthesia procedures,alfaxalone,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0074414,USES,Anesthesia procedures,sevoflurane,topp,orch,4,USES_TOPPusesORCH
+C0002903,C0084847,USES,Anesthesia procedures,tribromoethanol,topp,orch,2,USES_TOPPusesORCH
+C0002903,C0113293,USES,Anesthesia procedures,Dexmedetomidine,topp,orch,1,USES_TOPPusesORCH
+C0002903,C0142802,USES,Anesthesia procedures,"barbituric acid, monosodium salt",topp,orch,1,USES_TOPPusesORCH
+C0002903,C0700349,USES,Anesthesia procedures,Pentobarbital Sodium,topp,orch,16,USES_TOPPusesORCH
+C0002903,C0733445,USES,Anesthesia procedures,Brietal,topp,orch,2,USES_TOPPusesORCH
+C0002903,C3651895,USES,Anesthesia procedures,Isoflo,topp,orch,1,USES_TOPPusesORCH
+C0002913,C0023660,USES,Epidural Anesthesia,Lidocaine,topp,orch,1,USES_TOPPusesORCH
+C0002913,C0771826,USES,Epidural Anesthesia,Ropivacaine hydrochloride,topp,orch,1,USES_TOPPusesORCH
+C0002915,C0018549,USES,General Anesthesia,Halothane,topp,orch,1,USES_TOPPusesORCH
+C0002915,C0022180,USES,General Anesthesia,Isoflurane,topp,orch,2,USES_TOPPusesORCH
+C0002915,C0074414,USES,General Anesthesia,sevoflurane,topp,orch,1,USES_TOPPusesORCH
+C0002915,C0113293,USES,General Anesthesia,Dexmedetomidine,topp,orch,1,USES_TOPPusesORCH
+C0002920,C0033487,USES,"Anesthesia, Intravenous",Propofol,topp,orch,1,USES_TOPPusesORCH
+C0002921,C0023660,USES,Local anesthesia,Lidocaine,topp,orch,1,USES_TOPPusesORCH
+C0002928,C0006400,USES,Spinal Anesthesia,Bupivacaine,topp,orch,1,USES_TOPPusesORCH
+C0003424,C0008196,USES,Antisepsis,Chlorhexidine,topp,orch,1,USES_TOPPusesORCH
+C0007203,C0010976,USES,Cardiopulmonary Resuscitation,Dantrolene,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0002403,USES,Combined Modality Therapy,Amantadine,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0025598,USES,Combined Modality Therapy,Metformin,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0052430,USES,Combined Modality Therapy,artemisinine,topp,orch,5,USES_TOPPusesORCH
+C0009429,C0052432,USES,Combined Modality Therapy,artesunate,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0052919,USES,Combined Modality Therapy,bafilomycin A1,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0076110,USES,Combined Modality Therapy,terbinafine,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0144576,USES,Combined Modality Therapy,Paclitaxel,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0170716,USES,Combined Modality Therapy,artemisin,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0282386,USES,Combined Modality Therapy,Levofloxacin,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0282563,USES,Combined Modality Therapy,Macrolides,topp,orch,6,USES_TOPPusesORCH
+C0009429,C0543495,USES,Combined Modality Therapy,Albuterol Sulfate,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0723179,USES,Combined Modality Therapy,SSD,topp,orch,1,USES_TOPPusesORCH
+C0009429,C0949665,USES,Combined Modality Therapy,Fluoroquinolones,topp,orch,4,USES_TOPPusesORCH
+C0009429,C1675326,USES,Combined Modality Therapy,peramivir,topp,orch,1,USES_TOPPusesORCH
+C0009429,C2931926,USES,Combined Modality Therapy,ruxolitinib,topp,orch,1,USES_TOPPusesORCH
+C0009429,C3252090,USES,Combined Modality Therapy,daclatasvir,topp,orch,1,USES_TOPPusesORCH
+C0010055,C0022614,USES,Coronary Artery Bypass Surgery,Ketamine,topp,orch,1,USES_TOPPusesORCH
+C0011121,C0001962,USES,Decontamination,Ethanol,topp,orch,2,USES_TOPPusesORCH
+C0011121,C0051706,USES,Decontamination,ammonium bicarbonate,topp,orch,1,USES_TOPPusesORCH
+C0011121,C0073096,USES,Decontamination,resveratrol,topp,orch,1,USES_TOPPusesORCH
+C0011946,C0019215,USES,Dialysis procedure,HEPES,topp,orch,1,USES_TOPPusesORCH
+C0011946,C0032483,USES,Dialysis procedure,Polyethylene Glycols,topp,orch,2,USES_TOPPusesORCH
+C0012683,C0001962,USES,Disinfection,Ethanol,topp,orch,7,USES_TOPPusesORCH
+C0012683,C0032857,USES,Disinfection,Povidone-Iodine,topp,orch,2,USES_TOPPusesORCH
+C0012683,C0174883,USES,Disinfection,Cresol,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0002556,USES,Pharmacotherapy,Aminoglycosides,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0010583,USES,Pharmacotherapy,Cyclophosphamide,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0025677,USES,Pharmacotherapy,Methotrexate,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0025872,USES,Pharmacotherapy,Metronidazole,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0042672,USES,Pharmacotherapy,Vinca Alkaloids,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0052430,USES,Pharmacotherapy,artemisinine,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0079083,USES,Pharmacotherapy,Carboplatin,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0144576,USES,Pharmacotherapy,Paclitaxel,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0146224,USES,Pharmacotherapy,Topotecan,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0210657,USES,Pharmacotherapy,pemetrexed,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0215136,USES,Pharmacotherapy,taxane,topp,orch,1,USES_TOPPusesORCH
+C0013216,C0282564,USES,Pharmacotherapy,Anthracyclines,topp,orch,1,USES_TOPPusesORCH
+C0013218,C0246415,USES,Combination Drug Therapy,docetaxel,topp,orch,1,USES_TOPPusesORCH
+C0013806,C0010648,USES,Electroconvulsive Therapy,Cysteamine,topp,orch,1,USES_TOPPusesORCH
+C0013806,C2987716,USES,Electroconvulsive Therapy,vismodegib,topp,orch,1,USES_TOPPusesORCH
+C0015252,C0031428,USES,removal technique,Phenols,topp,orch,1,USES_TOPPusesORCH
+C0015357,C2728259,USES,Extracorporeal Membrane Oxygenation,Program,topp,orch,1,USES_TOPPusesORCH
+C0016286,C2926735,USES,Fluid Therapy,Duration,topp,orch,1,USES_TOPPusesORCH
+C0016419,C2756786,USES,"Medicine, Folk",Glycyrrhiza glabra extract,topp,orch,1,USES_TOPPusesORCH
+C0017296,C0162969,USES,gene therapy,Chitosan,topp,orch,1,USES_TOPPusesORCH
+C0019009,C0020352,USES,Hemodilution,Hetastarch,topp,orch,1,USES_TOPPusesORCH
+C0020944,C0032594,USES,Immobilization,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C0020944,C4050026,USES,Immobilization,Matrix,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0002144,USES,Immunization,Allopurinol,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0012789,USES,Immunization,Dithiothreitol,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0025153,USES,Immunization,Mefloquine,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0032594,USES,Immunization,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0056608,USES,Immunization,curdlan,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0057753,USES,Immunization,diazonaphthalenedisulfonic acid,topp,orch,1,USES_TOPPusesORCH
+C0020971,C0074037,USES,Immunization,saperconazole,topp,orch,2,USES_TOPPusesORCH
+C0020971,C0281643,USES,Immunization,incomplete Freund's adjuvant,topp,orch,2,USES_TOPPusesORCH
+C0020971,C0525678,USES,Immunization,rasagiline,topp,orch,8,USES_TOPPusesORCH
+C0020971,C2728259,USES,Immunization,Program,topp,orch,4,USES_TOPPusesORCH
+C0020975,C0281643,USES,Secondary Immunization,incomplete Freund's adjuvant,topp,orch,3,USES_TOPPusesORCH
+C0021079,C2728259,USES,Therapeutic immunosuppression,Program,topp,orch,1,USES_TOPPusesORCH
+C0021083,C0770737,USES,Immunotherapy,pollen extracts,topp,orch,1,USES_TOPPusesORCH
+C0021107,C0062637,USES,Implantation procedure,Hexamethonium,topp,orch,3,USES_TOPPusesORCH
+C0021107,C4050026,USES,Implantation procedure,Matrix,topp,orch,1,USES_TOPPusesORCH
+C0021440,C0022860,USES,Intravenous infusion procedures,Labetalol,topp,orch,1,USES_TOPPusesORCH
+C0021485,C0008269,USES,Injection of therapeutic agent,Chloroquine,topp,orch,1,USES_TOPPusesORCH
+C0021485,C0039286,USES,Injection of therapeutic agent,Tamoxifen,topp,orch,1,USES_TOPPusesORCH
+C0021485,C0061751,USES,Injection of therapeutic agent,Glycyrrhizic Acid,topp,orch,4,USES_TOPPusesORCH
+C0021485,C0083381,USES,Injection of therapeutic agent,meloxicam,topp,orch,1,USES_TOPPusesORCH
+C0021485,C0281643,USES,Injection of therapeutic agent,incomplete Freund's adjuvant,topp,orch,1,USES_TOPPusesORCH
+C0021485,C2347999,USES,Injection of therapeutic agent,afimoxifene,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0008161,USES,"Injections, Intraperitoneal",Chloral Hydrate,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0027375,USES,"Injections, Intraperitoneal",Naphthalene,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0030883,USES,"Injections, Intraperitoneal",Pentobarbital,topp,orch,3,USES_TOPPusesORCH
+C0021493,C0101334,USES,"Injections, Intraperitoneal",acteoside,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0149474,USES,"Injections, Intraperitoneal",Zoletil,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0281643,USES,"Injections, Intraperitoneal",incomplete Freund's adjuvant,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0700349,USES,"Injections, Intraperitoneal",Pentobarbital Sodium,topp,orch,1,USES_TOPPusesORCH
+C0021493,C0733696,USES,"Injections, Intraperitoneal",Primaxin,topp,orch,1,USES_TOPPusesORCH
+C0024128,C0085149,USES,Lung Transplantation,Tacrolimus,topp,orch,1,USES_TOPPusesORCH
+C0024128,C0209368,USES,Lung Transplantation,mycophenolate mofetil,topp,orch,1,USES_TOPPusesORCH
+C0025991,C0013618,USES,Microinjections,Edetic Acid,topp,orch,1,USES_TOPPusesORCH
+C0025991,C0162357,USES,Microinjections,Clodronate,topp,orch,1,USES_TOPPusesORCH
+C0033045,C0008281,USES,Premedication,Chlorpheniramine,topp,orch,1,USES_TOPPusesORCH
+C0033045,C0012522,USES,Premedication,Diphenhydramine,topp,orch,2,USES_TOPPusesORCH
+C0033045,C0025605,USES,Premedication,Methadone,topp,orch,1,USES_TOPPusesORCH
+C0033045,C0026056,USES,Premedication,Midazolam,topp,orch,1,USES_TOPPusesORCH
+C0033045,C0060473,USES,Premedication,fluanisone,topp,orch,1,USES_TOPPusesORCH
+C0033045,C0113293,USES,Premedication,Dexmedetomidine,topp,orch,3,USES_TOPPusesORCH
+C0033144,C0360714,USES,Primary Prevention,Hydroxymethylglutaryl-CoA Reductase Inhibitors,topp,orch,1,USES_TOPPusesORCH
+C0033144,C0949665,USES,Primary Prevention,Fluoroquinolones,topp,orch,1,USES_TOPPusesORCH
+C0033972,C0002144,USES,"Psychotherapy, Multiple",Allopurinol,topp,orch,1,USES_TOPPusesORCH
+C0034386,C2926735,USES,Quarantine,Duration,topp,orch,2,USES_TOPPusesORCH
+C0035139,C0034266,USES,Surgical Replantation,Pyridoxal Phosphate,topp,orch,1,USES_TOPPusesORCH
+C0035139,C2728259,USES,Surgical Replantation,Program,topp,orch,2,USES_TOPPusesORCH
+C0035273,C0020352,USES,Resuscitation procedure,Hetastarch,topp,orch,1,USES_TOPPusesORCH
+C0036589,C0001962,USES,Self Administration,Ethanol,topp,orch,1,USES_TOPPusesORCH
+C0040732,C0012789,USES,Transplantation,Dithiothreitol,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0014964,USES,Treatment Protocols,Ethambutol,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0015846,USES,Treatment Protocols,Fentanyl,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0017887,USES,Treatment Protocols,Nitroglycerin,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0025598,USES,Treatment Protocols,Metformin,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0026056,USES,Treatment Protocols,Midazolam,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0028073,USES,Treatment Protocols,Nifurtimox,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0039286,USES,Treatment Protocols,Tamoxifen,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0246631,USES,Treatment Protocols,remifentanil,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0282386,USES,Treatment Protocols,Levofloxacin,topp,orch,1,USES_TOPPusesORCH
+C0040808,C0874161,USES,Treatment Protocols,Oseltamivir,topp,orch,4,USES_TOPPusesORCH
+C0040808,C0949665,USES,Treatment Protocols,Fluoroquinolones,topp,orch,2,USES_TOPPusesORCH
+C0041281,C0039286,USES,Tube feeding of patient,Tamoxifen,topp,orch,1,USES_TOPPusesORCH
+C0042196,C0022180,USES,Vaccination,Isoflurane,topp,orch,1,USES_TOPPusesORCH
+C0042196,C0061947,USES,Vaccination,guanidine thiocyanate,topp,orch,1,USES_TOPPusesORCH
+C0042196,C1170231,USES,Vaccination,Dryvax,topp,orch,1,USES_TOPPusesORCH
+C0042196,C2926735,USES,Vaccination,Duration,topp,orch,1,USES_TOPPusesORCH
+C0042203,C0305062,USES,Pertussis vaccination,"tetanus toxoid vaccine, inactivated",topp,orch,1,USES_TOPPusesORCH
+C0056633,C0008286,USES,cyclophosphamide/prednisone/vincristine protocol,Chlorpromazine,topp,orch,1,USES_TOPPusesORCH
+C0068899,C2728259,USES,NOAC protocol,Program,topp,orch,1,USES_TOPPusesORCH
+C0079159,C0015846,USES,Conscious Sedation,Fentanyl,topp,orch,1,USES_TOPPusesORCH
+C0079159,C0023660,USES,Conscious Sedation,Lidocaine,topp,orch,1,USES_TOPPusesORCH
+C0079159,C0026056,USES,Conscious Sedation,Midazolam,topp,orch,1,USES_TOPPusesORCH
+C0079613,C0005304,USES,Adoptive Immunotherapy,Betaine,topp,orch,1,USES_TOPPusesORCH
+C0079613,C0060657,USES,Adoptive Immunotherapy,formoterol,topp,orch,1,USES_TOPPusesORCH
+C0079613,C0073633,USES,Adoptive Immunotherapy,ranolazine,topp,orch,1,USES_TOPPusesORCH
+C0079613,C0076836,USES,Adoptive Immunotherapy,Toremifene,topp,orch,1,USES_TOPPusesORCH
+C0079613,C0525005,USES,Adoptive Immunotherapy,Nelfinavir,topp,orch,1,USES_TOPPusesORCH
+C0085533,C0215136,USES,"Chemotherapy, Adjuvant",taxane,topp,orch,2,USES_TOPPusesORCH
+C0150141,C0001002,USES,Bathing,Acetone,topp,orch,2,USES_TOPPusesORCH
+C0150141,C0001962,USES,Bathing,Ethanol,topp,orch,12,USES_TOPPusesORCH
+C0150238,C0020352,USES,Fluid resuscitation,Hetastarch,topp,orch,2,USES_TOPPusesORCH
+C0152060,C0001002,USES,Transection (procedure),Acetone,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0001962,USES,Transection (procedure),Ethanol,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0001975,USES,Transection (procedure),Alcohols,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0041415,USES,Transection (procedure),Tween 20,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0054658,USES,Transection (procedure),carbazole,topp,orch,2,USES_TOPPusesORCH
+C0152060,C0065274,USES,Transection (procedure),Luxol Fast Blue MBS,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0146951,USES,Transection (procedure),Triton X-100,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0301363,USES,Transection (procedure),5-Trimethoxyamphetamine,topp,orch,2,USES_TOPPusesORCH
+C0152060,C0720930,USES,Transection (procedure),Hyrex Brand of Dimenhydrinate,topp,orch,1,USES_TOPPusesORCH
+C0152060,C0885297,USES,Transection (procedure),"Eosinum, eosin, Homeopathic preparation",topp,orch,9,USES_TOPPusesORCH
+C0152060,C2728259,USES,Transection (procedure),Program,topp,orch,2,USES_TOPPusesORCH
+C0152060,C3555460,USES,Transection (procedure),Bos taurus duodenum preparation,topp,orch,5,USES_TOPPusesORCH
+C0152060,C4050026,USES,Transection (procedure),Matrix,topp,orch,1,USES_TOPPusesORCH
+C0162551,C0001002,USES,Freeze Substitution,Acetone,topp,orch,1,USES_TOPPusesORCH
+C0184613,C0079083,USES,Chemotherapy care,Carboplatin,topp,orch,1,USES_TOPPusesORCH
+C0184907,C1170231,USES,Scarification,Dryvax,topp,orch,1,USES_TOPPusesORCH
+C0185026,C0010648,USES,Plication,Cysteamine,topp,orch,1,USES_TOPPusesORCH
+C0185026,C0603200,USES,Plication,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione",topp,orch,1,USES_TOPPusesORCH
+C0185027,C2728259,USES,Imbrication (procedure),Program,topp,orch,1,USES_TOPPusesORCH
+C0185111,C0009074,USES,Surgical Manipulation,Clotrimazole,topp,orch,1,USES_TOPPusesORCH
+C0185111,C4050026,USES,Surgical Manipulation,Matrix,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0001002,USES,Extraction,Acetone,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0001962,USES,Extraction,Ethanol,topp,orch,3,USES_TOPPusesORCH
+C0185115,C0009074,USES,Extraction,Clotrimazole,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0013618,USES,Extraction,Edetic Acid,topp,orch,2,USES_TOPPusesORCH
+C0185115,C0014994,USES,Extraction,ethyl ether,topp,orch,2,USES_TOPPusesORCH
+C0185115,C0016576,USES,Extraction,formic acid,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0020923,USES,Extraction,Imidazole,topp,orch,3,USES_TOPPusesORCH
+C0185115,C0022237,USES,Extraction,Isopropyl Alcohol,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0025748,USES,Extraction,methylene chloride,topp,orch,2,USES_TOPPusesORCH
+C0185115,C0031428,USES,Extraction,Phenols,topp,orch,17,USES_TOPPusesORCH
+C0185115,C0032594,USES,Extraction,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0039294,USES,Extraction,Tannic Acid,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0040900,USES,Extraction,Trichloroacetic Acid,topp,orch,3,USES_TOPPusesORCH
+C0185115,C0059747,USES,Extraction,ethyl acetate,topp,orch,4,USES_TOPPusesORCH
+C0185115,C0071649,USES,Extraction,polyphenols,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0073591,USES,Extraction,rosoxacin,topp,orch,4,USES_TOPPusesORCH
+C0185115,C0074732,USES,Extraction,sodium carbonate,topp,orch,3,USES_TOPPusesORCH
+C0185115,C0146951,USES,Extraction,Triton X-100,topp,orch,1,USES_TOPPusesORCH
+C0185115,C0602385,USES,Extraction,F 4,topp,orch,1,USES_TOPPusesORCH
+C0185115,C1176309,USES,Extraction,bortezomib,topp,orch,2,USES_TOPPusesORCH
+C0185115,C2728259,USES,Extraction,Program,topp,orch,3,USES_TOPPusesORCH
+C0185115,C4050026,USES,Extraction,Matrix,topp,orch,1,USES_TOPPusesORCH
+C0192657,C0001187,USES,Gastroduodenoscopy,Acriflavine,topp,orch,2,USES_TOPPusesORCH
+C0199176,C0008809,USES,Prophylactic treatment,Ciprofloxacin,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0043369,USES,Prophylactic treatment,Xylitol,topp,orch,8,USES_TOPPusesORCH
+C0199176,C0061751,USES,Prophylactic treatment,Glycyrrhizic Acid,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0071097,USES,Prophylactic treatment,pioglitazone,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0076316,USES,Prophylactic treatment,tetrandrine,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0113293,USES,Prophylactic treatment,Dexmedetomidine,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0729218,USES,Prophylactic treatment,FK-506,topp,orch,1,USES_TOPPusesORCH
+C0199176,C0874161,USES,Prophylactic treatment,Oseltamivir,topp,orch,2,USES_TOPPusesORCH
+C0199176,C0876173,USES,Prophylactic treatment,Tamiflu,topp,orch,1,USES_TOPPusesORCH
+C0199176,C2728259,USES,Prophylactic treatment,Program,topp,orch,1,USES_TOPPusesORCH
+C0199176,C4045487,USES,Prophylactic treatment,verdinexor,topp,orch,1,USES_TOPPusesORCH
+C0199470,C0026056,USES,Mechanical ventilation,Midazolam,topp,orch,2,USES_TOPPusesORCH
+C0199470,C0143993,USES,Mechanical ventilation,Sufentanil,topp,orch,1,USES_TOPPusesORCH
+C0199779,C0214439,USES,Administration of antibiotic,marbofloxacin,topp,orch,1,USES_TOPPusesORCH
+C0199779,C0949665,USES,Administration of antibiotic,Fluoroquinolones,topp,orch,1,USES_TOPPusesORCH
+C0199779,C2926735,USES,Administration of antibiotic,Duration,topp,orch,1,USES_TOPPusesORCH
+C0199798,C0210243,USES,human vaccination,atevirdine,topp,orch,1,USES_TOPPusesORCH
+C0199798,C2728259,USES,human vaccination,Program,topp,orch,1,USES_TOPPusesORCH
+C0204514,C0025641,USES,Structural analysis,Metergoline,topp,orch,1,USES_TOPPusesORCH
+C0204514,C2728259,USES,Structural analysis,Program,topp,orch,1,USES_TOPPusesORCH
+C0204727,C0037513,USES,Isolation procedure,heparin sodium,topp,orch,1,USES_TOPPusesORCH
+C0204727,C0061947,USES,Isolation procedure,guanidine thiocyanate,topp,orch,1,USES_TOPPusesORCH
+C0204727,C0070066,USES,Isolation procedure,paraform,topp,orch,2,USES_TOPPusesORCH
+C0204727,C0146951,USES,Isolation procedure,Triton X-100,topp,orch,1,USES_TOPPusesORCH
+C0204727,C2926735,USES,Isolation procedure,Duration,topp,orch,1,USES_TOPPusesORCH
+C0204774,C0039902,USES,Soaking Procedure,Thioguanine,topp,orch,1,USES_TOPPusesORCH
+C0242297,C0005304,USES,Dietary Supplementation,Betaine,topp,orch,1,USES_TOPPusesORCH
+C0242297,C0010467,USES,Dietary Supplementation,Curcumin,topp,orch,1,USES_TOPPusesORCH
+C0242297,C0032594,USES,Dietary Supplementation,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C0242297,C0034392,USES,Dietary Supplementation,Quercetin,topp,orch,2,USES_TOPPusesORCH
+C0242297,C0042839,USES,Dietary Supplementation,Vitamin A,topp,orch,1,USES_TOPPusesORCH
+C0279391,C0070797,USES,mercaptopurine/methotrexate/vincristine,phosphatidylinositol 3-phosphate,topp,orch,1,USES_TOPPusesORCH
+C0280274,C0008269,USES,Antiviral Therapy,Chloroquine,topp,orch,1,USES_TOPPusesORCH
+C0280274,C0874161,USES,Antiviral Therapy,Oseltamivir,topp,orch,2,USES_TOPPusesORCH
+C0280592,C0001962,USES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,Ethanol,topp,orch,1,USES_TOPPusesORCH
+C0280603,C0008269,USES,fluorouracil/methotrexate protocol,Chloroquine,topp,orch,1,USES_TOPPusesORCH
+C0280603,C0018312,USES,fluorouracil/methotrexate protocol,Guanabenz,topp,orch,2,USES_TOPPusesORCH
+C0281375,C0040845,USES,differentiation therapy,Tretinoin,topp,orch,2,USES_TOPPusesORCH
+C0282515,C0008269,USES,Chemoprevention,Chloroquine,topp,orch,4,USES_TOPPusesORCH
+C0282515,C0874161,USES,Chemoprevention,Oseltamivir,topp,orch,2,USES_TOPPusesORCH
+C0282638,C0309049,USES,Antibiotic Prophylaxis,favor,topp,orch,1,USES_TOPPusesORCH
+C0339897,C0032594,USES,Transjugular intrahepatic portosystemic shunt procedure,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C0393005,C2729544,USES,chlorodihydroxypyridine/potassium oxonate/tegafur,Legend,topp,orch,1,USES_TOPPusesORCH
+C0412768,C0074414,USES,Inhalational induction,sevoflurane,topp,orch,1,USES_TOPPusesORCH
+C0413381,C2926735,USES,Subcutaneous immunotherapy,Duration,topp,orch,1,USES_TOPPusesORCH
+C0444735,C0012010,USES,Intermittent administration,Diazepam,topp,orch,1,USES_TOPPusesORCH
+C0451615,C0012586,USES,Pain relief,Dipyrone,topp,orch,1,USES_TOPPusesORCH
+C0451615,C0083381,USES,Pain relief,meloxicam,topp,orch,1,USES_TOPPusesORCH
+C0455107,C0700349,USES,Injection of heart,Pentobarbital Sodium,topp,orch,3,USES_TOPPusesORCH
+C0455142,C0536495,USES,Intravenous therapy,moxifloxacin,topp,orch,1,USES_TOPPusesORCH
+C0473965,C0026056,USES,Total intravenous anesthesia,Midazolam,topp,orch,3,USES_TOPPusesORCH
+C0473965,C0043366,USES,Total intravenous anesthesia,Xylazine,topp,orch,1,USES_TOPPusesORCH
+C0524865,C0026549,USES,Reconstructive Surgical Procedures,Morphine,topp,orch,1,USES_TOPPusesORCH
+C0543467,C0032857,USES,Operative Surgical Procedures,Povidone-Iodine,topp,orch,1,USES_TOPPusesORCH
+C0543467,C2728259,USES,Operative Surgical Procedures,Program,topp,orch,1,USES_TOPPusesORCH
+C0543467,C2962221,USES,Operative Surgical Procedures,TAC,topp,orch,1,USES_TOPPusesORCH
+C0597092,C0032857,USES,nosocomial infection control,Povidone-Iodine,topp,orch,1,USES_TOPPusesORCH
+C0599917,C2728259,USES,intervention program,Program,topp,orch,1,USES_TOPPusesORCH
+C0677908,C0023556,USES,Maintenance therapy,Levamisole,topp,orch,1,USES_TOPPusesORCH
+C0677908,C0063041,USES,Maintenance therapy,leflunomide,topp,orch,1,USES_TOPPusesORCH
+C0677908,C0282563,USES,Maintenance therapy,Macrolides,topp,orch,1,USES_TOPPusesORCH
+C0677908,C1121854,USES,Maintenance therapy,Symbicort,topp,orch,1,USES_TOPPusesORCH
+C0678812,C0032483,USES,systemic administration,Polyethylene Glycols,topp,orch,1,USES_TOPPusesORCH
+C0678823,C0042679,USES,parenteral administration,Vincristine,topp,orch,1,USES_TOPPusesORCH
+C0678823,C0162969,USES,parenteral administration,Chitosan,topp,orch,1,USES_TOPPusesORCH
+C0679637,C0012963,USES,major surgery,Dobutamine,topp,orch,1,USES_TOPPusesORCH
+C0679637,C0026056,USES,major surgery,Midazolam,topp,orch,1,USES_TOPPusesORCH
+C0679651,C0012963,USES,directive therapy,Dobutamine,topp,orch,1,USES_TOPPusesORCH
+C0808232,C2728259,USES,Therapeutic Intervention,Program,topp,orch,1,USES_TOPPusesORCH
+C0853212,C0051482,USES,Induction of anesthesia,alfaxalone,topp,orch,1,USES_TOPPusesORCH
+C0857127,C0058731,USES,Induction procedure,doxycycline hyclate,topp,orch,1,USES_TOPPusesORCH
+C0876964,C0007158,USES,Cardiac Therapeutic Procedure,Cardiac Glycosides,topp,orch,2,USES_TOPPusesORCH
+C0887947,C0360714,USES,"Antiretroviral Therapy, Highly Active",Hydroxymethylglutaryl-CoA Reductase Inhibitors,topp,orch,1,USES_TOPPusesORCH
+C0917927,C0035527,USES,Breast-Conserving Surgery,Riboflavin,topp,orch,1,USES_TOPPusesORCH
+C0920425,C0057753,USES,cancer therapy,diazonaphthalenedisulfonic acid,topp,orch,1,USES_TOPPusesORCH
+C0935576,C0939357,USES,treatment guideline,Kaletra,topp,orch,1,USES_TOPPusesORCH
+C0947647,C0057472,USES,Manipulation procedure,1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride,topp,orch,1,USES_TOPPusesORCH
+C0947647,C2728259,USES,Manipulation procedure,Program,topp,orch,1,USES_TOPPusesORCH
+C0949219,C0010583,USES,Antineoplastic Chemotherapy Protocols,Cyclophosphamide,topp,orch,1,USES_TOPPusesORCH
+C1261381,C4050026,USES,Destructive procedure (surgical),Matrix,topp,orch,1,USES_TOPPusesORCH
+C1276413,C0002699,USES,Therapeutic regimen,Amsacrine,topp,orch,1,USES_TOPPusesORCH
+C1283075,C0376637,USES,Fusion - action,Indinavir,topp,orch,1,USES_TOPPusesORCH
+C1293130,C0086073,USES,Stabilization,Cromolyn,topp,orch,1,USES_TOPPusesORCH
+C1293365,C4050026,USES,Lung destructive procedure,Matrix,topp,orch,1,USES_TOPPusesORCH
+C1299597,C0874161,USES,Empirical therapy,Oseltamivir,topp,orch,1,USES_TOPPusesORCH
+C1443861,C0002403,USES,Post-Exposure Prophylaxis,Amantadine,topp,orch,1,USES_TOPPusesORCH
+C1443861,C0216660,USES,Post-Exposure Prophylaxis,Zanamivir,topp,orch,2,USES_TOPPusesORCH
+C1443861,C0874161,USES,Post-Exposure Prophylaxis,Oseltamivir,topp,orch,4,USES_TOPPusesORCH
+C1511497,C0039925,USES,Continuous Intravenous Infusion,Thiopental,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0005575,USES,Detection,Biotin,topp,orch,3,USES_TOPPusesORCH
+C1511790,C0030771,USES,Detection,Pefloxacin,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0034294,USES,Detection,Pyrithiamine,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0047213,USES,Detection,3-amino-9-ethylcarbazole,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0051767,USES,Detection,amsonic acid,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0057142,USES,Detection,DAPI,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0058218,USES,Detection,dimethyl fumarate,topp,orch,2,USES_TOPPusesORCH
+C1511790,C0059804,USES,Detection,ethylene diurea,topp,orch,3,USES_TOPPusesORCH
+C1511790,C0062637,USES,Detection,Hexamethonium,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0068854,USES,Detection,nitrophenylphosphate,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0073591,USES,Detection,rosoxacin,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0085171,USES,Detection,Aphidicolin,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0146951,USES,Detection,Triton X-100,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0170531,USES,Detection,4-phenylbutyric acid,topp,orch,1,USES_TOPPusesORCH
+C1511790,C0281643,USES,Detection,incomplete Freund's adjuvant,topp,orch,8,USES_TOPPusesORCH
+C1511790,C0376637,USES,Detection,Indinavir,topp,orch,2,USES_TOPPusesORCH
+C1511790,C0885297,USES,Detection,"Eosinum, eosin, Homeopathic preparation",topp,orch,1,USES_TOPPusesORCH
+C1511790,C2728259,USES,Detection,Program,topp,orch,4,USES_TOPPusesORCH
+C1511790,C2962221,USES,Detection,TAC,topp,orch,1,USES_TOPPusesORCH
+C1511790,C4050026,USES,Detection,Matrix,topp,orch,3,USES_TOPPusesORCH
+C1533734,C0002403,USES,Administration procedure,Amantadine,topp,orch,1,USES_TOPPusesORCH
+C1659427,C0001927,USES,Nebulization,Albuterol,topp,orch,2,USES_TOPPusesORCH
+C1659427,C0073096,USES,Nebulization,resveratrol,topp,orch,1,USES_TOPPusesORCH
+C1697762,C0009262,USES,Booster Immunization - ActSubstanceAdministrationCode,Colchicine,topp,orch,1,USES_TOPPusesORCH
+C1708063,C0939237,USES,First line treatment,lopinavir / Ritonavir,topp,orch,1,USES_TOPPusesORCH
+C1720825,C0006463,USES,Therapeutic Drug Monitoring,Busulfan,topp,orch,2,USES_TOPPusesORCH
+C1735337,C0917964,USES,Asthma prophylaxis,Colforsin,topp,orch,1,USES_TOPPusesORCH
+C1882454,C0006463,USES,Preparative Regimen,Busulfan,topp,orch,1,USES_TOPPusesORCH
+C1956064,C0022614,USES,Deep Sedation,Ketamine,topp,orch,3,USES_TOPPusesORCH
+C1997883,C2926735,USES,Noninvasive Ventilation,Duration,topp,orch,1,USES_TOPPusesORCH
+C2347900,C0022209,USES,Rechallenge,isoniazid,topp,orch,1,USES_TOPPusesORCH
+C2347900,C0935989,USES,Rechallenge,imatinib,topp,orch,6,USES_TOPPusesORCH
+C2348331,C0002641,USES,Dose Regimen,Amodiaquine,topp,orch,1,USES_TOPPusesORCH
+C2348331,C0023556,USES,Dose Regimen,Levamisole,topp,orch,1,USES_TOPPusesORCH
+C2348331,C0031463,USES,Dose Regimen,Phenylbutazone,topp,orch,2,USES_TOPPusesORCH
+C2348331,C0937846,USES,Dose Regimen,Esomeprazole,topp,orch,1,USES_TOPPusesORCH
+C2348331,C4045487,USES,Dose Regimen,verdinexor,topp,orch,1,USES_TOPPusesORCH
+C2827774,C0016967,USES,Current Therapy,Galantamine,topp,orch,1,USES_TOPPusesORCH
+C2827774,C0039245,USES,Current Therapy,Tacrine,topp,orch,1,USES_TOPPusesORCH
+C2827774,C0649350,USES,Current Therapy,rivastigmine,topp,orch,1,USES_TOPPusesORCH
+C2936276,C0032594,USES,Joint Capsule Release,Polysaccharides,topp,orch,1,USES_TOPPusesORCH
+C2936643,C2926735,USES,Standard of Care,Duration,topp,orch,1,USES_TOPPusesORCH
+C2945704,C0282563,USES,Conventional Treatment,Macrolides,topp,orch,2,USES_TOPPusesORCH
+C2985566,C1516119,USES,Targeted Therapy,sorafenib,topp,orch,1,USES_TOPPusesORCH
+C3177188,C0874161,USES,Early Therapy,Oseltamivir,topp,orch,1,USES_TOPPusesORCH
+C3179010,C0010583,USES,Induction Chemotherapy,Cyclophosphamide,topp,orch,1,USES_TOPPusesORCH
+C3267174,C0004057,USES,Blood Glucose control,Aspirin,topp,orch,1,USES_TOPPusesORCH
+C3846440,C0874161,USES,"Chemotherapy, single agent",Oseltamivir,topp,orch,1,USES_TOPPusesORCH
+C4319756,C0006463,USES,Myeloablative Conditioning,Busulfan,topp,orch,1,USES_TOPPusesORCH
+C4520447,C0008196,USES,Decolonization,Chlorhexidine,topp,orch,2,USES_TOPPusesORCH
+C4524538,C2728259,USES,Whole Blood or Product Procurement,Program,topp,orch,1,USES_TOPPusesORCH
+C4526535,C0060503,USES,Bendamustine/Lenalidomide/Dexamethasone Regimen,flunixin meglumine,topp,orch,1,USES_TOPPusesORCH

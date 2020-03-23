@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0000833,NEG_TREATS,Antibiotics,Abscess,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0003232,C0020517,NEG_TREATS,Antibiotics,Hypersensitivity,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0003232,C0032227,NEG_TREATS,Antibiotics,Pleural effusion disorder,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0003232,C3714514,NEG_TREATS,Antibiotics,Infection,antb,patf,4,NEG_TREATS_ANTBntrtsPATF
+C0003240,C0020517,NEG_TREATS,Macrolide Antibiotics,Hypersensitivity,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0006968,C3714514,NEG_TREATS,Carbapenems,Infection,antb,patf,2,NEG_TREATS_ANTBntrtsPATF
+C0008168,C0020517,NEG_TREATS,Chloramphenicol,Hypersensitivity,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0026458,C0020523,NEG_TREATS,Monobactams,Immediate hypersensitivity,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0041385,C0020517,NEG_TREATS,Tunicamycin,Hypersensitivity,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0066005,C3714514,NEG_TREATS,meropenem,Infection,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0250480,C3714514,NEG_TREATS,piperacillin-tazobactam combination,Infection,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C0279516,C3714514,NEG_TREATS,Anti-Bacterial Agents,Infection,antb,patf,1,NEG_TREATS_ANTBntrtsPATF
+C3536856,C3714514,NEG_TREATS,Cephalosporins,Infection,antb,patf,1,NEG_TREATS_ANTBntrtsPATF

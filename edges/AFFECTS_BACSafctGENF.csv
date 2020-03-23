@@ -1,0 +1,149 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000702,C0002345,AFFECTS,"DNA, A-Form",Alternative Splicing,bacs,genf,1,AFFECTS_BACSafctGENF
+C0002358,C0017262,AFFECTS,Alu Elements,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0002531,C0040649,AFFECTS,Amino Sugars,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0003320,C0598496,AFFECTS,Antigens,Gene Silencing,bacs,genf,1,AFFECTS_BACSafctGENF
+C0003320,C0678713,AFFECTS,Antigens,DNA template,bacs,genf,1,AFFECTS_BACSafctGENF
+C0006353,C1148806,AFFECTS,Buffers,nuclease activity,bacs,genf,1,AFFECTS_BACSafctGENF
+C0010843,C0026882,AFFECTS,Cytosine,Mutation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C0020202,AFFECTS,DNA,Crossbreeding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C0026882,AFFECTS,DNA,Mutation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C0040649,AFFECTS,DNA,"Transcription, Genetic",bacs,genf,10,AFFECTS_BACSafctGENF
+C0012854,C0597600,AFFECTS,DNA,Transcription Termination,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C0599773,AFFECTS,DNA,Homologous Recombination,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1148673,AFFECTS,DNA,dna binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1148813,AFFECTS,DNA,ribonuclease H activity,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1148846,AFFECTS,DNA,RNA Binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1158817,AFFECTS,DNA,viral transcription,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1171362,AFFECTS,DNA,protein expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012854,C1514849,AFFECTS,DNA,Replication-Associated Process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012931,C0017262,AFFECTS,Recombinant DNA,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0012931,C1622445,AFFECTS,Recombinant DNA,rRNA synthesis,bacs,genf,1,AFFECTS_BACSafctGENF
+C0013982,C0040649,AFFECTS,Emodin,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0013982,C1515670,AFFECTS,Emodin,mRNA Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0018330,C0040649,AFFECTS,Guanosine,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0018330,C1149297,AFFECTS,Guanosine,eukaryotic initiation factor 4E binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0018340,C1519614,AFFECTS,Guanosine Diphosphate,Genetic Translation Process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0018353,C1519613,AFFECTS,Guanosine Triphosphate,Translation Initiation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0024706,C0012899,AFFECTS,Manganese,DNA Repair,bacs,genf,1,AFFECTS_BACSafctGENF
+C0024706,C1158530,AFFECTS,Manganese,Base Excision Repair,bacs,genf,1,AFFECTS_BACSafctGENF
+C0028606,C0162493,AFFECTS,Nucleic Acids,Transcriptional Activation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0032136,C0040649,AFFECTS,Plasmids,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0032136,C0162493,AFFECTS,Plasmids,Transcriptional Activation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0032136,C0599176,AFFECTS,Plasmids,7-methylguanosine mRNA capping,bacs,genf,1,AFFECTS_BACSafctGENF
+C0032136,C1136031,AFFECTS,Plasmids,RNA Interference,bacs,genf,3,AFFECTS_BACSafctGENF
+C0032136,C1171362,AFFECTS,Plasmids,protein expression,bacs,genf,2,AFFECTS_BACSafctGENF
+C0033413,C0002345,AFFECTS,"Promoter Regions, Genetic",Alternative Splicing,bacs,genf,1,AFFECTS_BACSafctGENF
+C0033413,C0040649,AFFECTS,"Promoter Regions, Genetic","Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0033607,C0282629,AFFECTS,Protease Inhibitors,Virus Assembly,bacs,genf,1,AFFECTS_BACSafctGENF
+C0034987,C0026882,AFFECTS,"Regulatory Sequences, Nucleic Acid",Mutation,bacs,genf,2,AFFECTS_BACSafctGENF
+C0034987,C0040649,AFFECTS,"Regulatory Sequences, Nucleic Acid","Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0034987,C1512554,AFFECTS,"Regulatory Sequences, Nucleic Acid",Hypermethylation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035670,C1158830,AFFECTS,RNA Caps,Transcription Initiation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035693,C0017262,AFFECTS,"RNA, Double-Stranded",Gene Expression,bacs,genf,2,AFFECTS_BACSafctGENF
+C0035693,C1136031,AFFECTS,"RNA, Double-Stranded",RNA Interference,bacs,genf,3,AFFECTS_BACSafctGENF
+C0035693,C1148846,AFFECTS,"RNA, Double-Stranded",RNA Binding,bacs,genf,2,AFFECTS_BACSafctGENF
+C0035693,C1148851,AFFECTS,"RNA, Double-Stranded",double-stranded RNA binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035693,C1152412,AFFECTS,"RNA, Double-Stranded",RNA-directed RNA polymerase activity,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035693,C1158816,AFFECTS,"RNA, Double-Stranded",mRNA transcription,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035695,C0017262,AFFECTS,Heterogeneous Nuclear RNA,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C0013458,AFFECTS,"RNA, Messenger",Early Gene Transcription,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C0017262,AFFECTS,"RNA, Messenger",Gene Expression,bacs,genf,3,AFFECTS_BACSafctGENF
+C0035696,C0040649,AFFECTS,"RNA, Messenger","Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C0282572,AFFECTS,"RNA, Messenger","Frameshifting, Ribosomal",bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C1171362,AFFECTS,"RNA, Messenger",protein expression,bacs,genf,2,AFFECTS_BACSafctGENF
+C0035696,C1514665,AFFECTS,"RNA, Messenger",RNA Interference Pathway,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C1519613,AFFECTS,"RNA, Messenger",Translation Initiation,bacs,genf,3,AFFECTS_BACSafctGENF
+C0035696,C1519614,AFFECTS,"RNA, Messenger",Genetic Translation Process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035696,C2610186,AFFECTS,"RNA, Messenger","nuclear mRNA cis splicing, via spliceosome",bacs,genf,2,AFFECTS_BACSafctGENF
+C0035696,C3537096,AFFECTS,"RNA, Messenger",Translational Regulation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035700,C0017262,AFFECTS,"RNA, Nuclear",Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035702,C0282572,AFFECTS,"RNA, Ribosomal, 16S","Frameshifting, Ribosomal",bacs,genf,1,AFFECTS_BACSafctGENF
+C0035709,C0035687,AFFECTS,Small Nuclear RNA,RNA Splicing,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035711,C0017262,AFFECTS,Transfer RNA,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0035711,C1158758,AFFECTS,Transfer RNA,tRNA modification,bacs,genf,2,AFFECTS_BACSafctGENF
+C0035711,C1622985,AFFECTS,Transfer RNA,tRNA synthesis,bacs,genf,1,AFFECTS_BACSafctGENF
+C0039290,C0017259,AFFECTS,Tandem Repeat Sequences,Gene Conversion,bacs,genf,2,AFFECTS_BACSafctGENF
+C0039290,C0034865,AFFECTS,Tandem Repeat Sequences,"Recombination, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0040815,C1515670,AFFECTS,Trehalose,mRNA Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0041525,C2610186,AFFECTS,U1 small nuclear RNA,"nuclear mRNA cis splicing, via spliceosome",bacs,genf,2,AFFECTS_BACSafctGENF
+C0065335,C1171362,AFFECTS,lycorine,protein expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0079249,C0282572,AFFECTS,"DNA, Antisense","Frameshifting, Ribosomal",bacs,genf,1,AFFECTS_BACSafctGENF
+C0079925,C0017262,AFFECTS,Antisense Oligonucleotides,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0079925,C2610186,AFFECTS,Antisense Oligonucleotides,"nuclear mRNA cis splicing, via spliceosome",bacs,genf,1,AFFECTS_BACSafctGENF
+C0080124,C0683143,AFFECTS,Antisense RNA,RNA metabolic process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0080206,C1158830,AFFECTS,TATA Box,Transcription Initiation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0086860,C0010366,AFFECTS,promoter,"Crossing Over, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0086860,C0017262,AFFECTS,promoter,Gene Expression,bacs,genf,2,AFFECTS_BACSafctGENF
+C0086860,C0040649,AFFECTS,promoter,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0086860,C1158817,AFFECTS,promoter,viral transcription,bacs,genf,2,AFFECTS_BACSafctGENF
+C0162772,C2610186,AFFECTS,Reactive Oxygen Species,"nuclear mRNA cis splicing, via spliceosome",bacs,genf,1,AFFECTS_BACSafctGENF
+C0178555,C1148673,AFFECTS,chemical cofactor,dna binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C0242850,C0017261,AFFECTS,Retroelements,Gene Duplication,bacs,genf,1,AFFECTS_BACSafctGENF
+C0282523,C0017262,AFFECTS,CpG Islands,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0282523,C0242614,AFFECTS,CpG Islands,Genomic Imprinting,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600472,C0040649,AFFECTS,Long Interspersed Nucleotide Element-1,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0600493,C0017262,AFFECTS,5' Untranslated Regions,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600493,C0040649,AFFECTS,5' Untranslated Regions,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0600493,C1257825,AFFECTS,5' Untranslated Regions,Genomic Stability,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600493,C1519614,AFFECTS,5' Untranslated Regions,Genetic Translation Process,bacs,genf,2,AFFECTS_BACSafctGENF
+C0600508,C0017262,AFFECTS,Response Elements,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600508,C0026882,AFFECTS,Response Elements,Mutation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600508,C0040649,AFFECTS,Response Elements,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C0600508,C1514248,AFFECTS,Response Elements,Post-Transcriptional Regulation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600508,C1516924,AFFECTS,Response Elements,Epigenetic Process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C0017262,AFFECTS,Untranslated Regions,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C0017263,AFFECTS,Untranslated Regions,Gene Expression Regulation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C1514248,AFFECTS,Untranslated Regions,Post-Transcriptional Regulation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C1515670,AFFECTS,Untranslated Regions,mRNA Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C1519613,AFFECTS,Untranslated Regions,Translation Initiation,bacs,genf,1,AFFECTS_BACSafctGENF
+C0600680,C1519614,AFFECTS,Untranslated Regions,Genetic Translation Process,bacs,genf,1,AFFECTS_BACSafctGENF
+C0751969,C0002345,AFFECTS,Small Nucleolar RNA,Alternative Splicing,bacs,genf,1,AFFECTS_BACSafctGENF
+C0751969,C1622445,AFFECTS,Small Nucleolar RNA,rRNA synthesis,bacs,genf,1,AFFECTS_BACSafctGENF
+C0887857,C1622984,AFFECTS,Intergenic Sequence,mRNA synthesis,bacs,genf,1,AFFECTS_BACSafctGENF
+C0887859,C0017262,AFFECTS,Intergenic Region,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C0887859,C0034865,AFFECTS,Intergenic Region,"Recombination, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C0949645,C0040649,AFFECTS,5' Flanking Region,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C1099354,C0017262,AFFECTS,"RNA, Small Interfering",Gene Expression,bacs,genf,3,AFFECTS_BACSafctGENF
+C1099354,C0282629,AFFECTS,"RNA, Small Interfering",Virus Assembly,bacs,genf,1,AFFECTS_BACSafctGENF
+C1099354,C0598496,AFFECTS,"RNA, Small Interfering",Gene Silencing,bacs,genf,25,AFFECTS_BACSafctGENF
+C1099354,C0920533,AFFECTS,"RNA, Small Interfering",Transcriptional Repression,bacs,genf,1,AFFECTS_BACSafctGENF
+C1099354,C1136031,AFFECTS,"RNA, Small Interfering",RNA Interference,bacs,genf,11,AFFECTS_BACSafctGENF
+C1099354,C1148851,AFFECTS,"RNA, Small Interfering",double-stranded RNA binding,bacs,genf,1,AFFECTS_BACSafctGENF
+C1099354,C1622990,AFFECTS,"RNA, Small Interfering",pre-mRNA splicing,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C0017262,AFFECTS,MicroRNAs,Gene Expression,bacs,genf,21,AFFECTS_BACSafctGENF
+C1101610,C0017263,AFFECTS,MicroRNAs,Gene Expression Regulation,bacs,genf,3,AFFECTS_BACSafctGENF
+C1101610,C0020202,AFFECTS,MicroRNAs,Crossbreeding,bacs,genf,2,AFFECTS_BACSafctGENF
+C1101610,C0040649,AFFECTS,MicroRNAs,"Transcription, Genetic",bacs,genf,11,AFFECTS_BACSafctGENF
+C1101610,C0314627,AFFECTS,MicroRNAs,Gene function,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C0376452,AFFECTS,MicroRNAs,DNA Methylation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C0598312,AFFECTS,MicroRNAs,DNA Replication,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C0598496,AFFECTS,MicroRNAs,Gene Silencing,bacs,genf,4,AFFECTS_BACSafctGENF
+C1101610,C1136031,AFFECTS,MicroRNAs,RNA Interference,bacs,genf,5,AFFECTS_BACSafctGENF
+C1101610,C1156210,AFFECTS,MicroRNAs,chromatin remodeling,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C1157562,AFFECTS,MicroRNAs,translational elongation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C1514248,AFFECTS,MicroRNAs,Post-Transcriptional Regulation,bacs,genf,8,AFFECTS_BACSafctGENF
+C1101610,C1515670,AFFECTS,MicroRNAs,mRNA Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C1519616,AFFECTS,MicroRNAs,Translational Activation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1101610,C1519619,AFFECTS,MicroRNAs,Translational Repression,bacs,genf,4,AFFECTS_BACSafctGENF
+C1101610,C2613367,AFFECTS,MicroRNAs,Hypomethylation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1136170,C0040649,AFFECTS,Virulence Factors,"Transcription, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C1136170,C0596610,AFFECTS,Virulence Factors,gene interaction,bacs,genf,1,AFFECTS_BACSafctGENF
+C1136191,C0040649,AFFECTS,Boundary Elements,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C1257839,C0598175,AFFECTS,"DNA, Catenated",Chromosome Segregation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1257839,C0598312,AFFECTS,"DNA, Catenated",DNA Replication,bacs,genf,1,AFFECTS_BACSafctGENF
+C1257903,C0034865,AFFECTS,Mobile Genetic Elements,"Recombination, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C1337053,C1523645,AFFECTS,pre-miRNA,production of miRNAs involved in gene silencing by miRNA,bacs,genf,1,AFFECTS_BACSafctGENF
+C1519315,C0017255,AFFECTS,Signaling Molecule,Gene Activation,bacs,genf,1,AFFECTS_BACSafctGENF
+C1764827,C0034865,AFFECTS,Isolate - microorganism,"Recombination, Genetic",bacs,genf,2,AFFECTS_BACSafctGENF
+C1764827,C0040649,AFFECTS,Isolate - microorganism,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C1764827,C0917892,AFFECTS,Isolate - microorganism,Genetic Drift,bacs,genf,2,AFFECTS_BACSafctGENF
+C1956352,C0040649,AFFECTS,Piwi-Interacting RNA,"Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C1956352,C1707931,AFFECTS,Piwi-Interacting RNA,Epigenetic Silencing,bacs,genf,1,AFFECTS_BACSafctGENF
+C2350877,C0040649,AFFECTS,"Promoter, Genetic","Transcription, Genetic",bacs,genf,1,AFFECTS_BACSafctGENF
+C2936590,C0017262,AFFECTS,Riboswitch,Gene Expression,bacs,genf,1,AFFECTS_BACSafctGENF
+C2936590,C0597600,AFFECTS,Riboswitch,Transcription Termination,bacs,genf,1,AFFECTS_BACSafctGENF
+C2936590,C2613185,AFFECTS,Riboswitch,miRNA biogenesis,bacs,genf,1,AFFECTS_BACSafctGENF
+C3494264,C0017262,AFFECTS,"RNA, Long Untranslated",Gene Expression,bacs,genf,3,AFFECTS_BACSafctGENF
+C3494264,C0017263,AFFECTS,"RNA, Long Untranslated",Gene Expression Regulation,bacs,genf,1,AFFECTS_BACSafctGENF
+C3494870,C0026882,AFFECTS,Viral isolate,Mutation,bacs,genf,1,AFFECTS_BACSafctGENF

@@ -1,0 +1,762 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0562577,AFFECTS,Actins,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0001271,C3844729,AFFECTS,Actins,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0001347,C1545588,AFFECTS,Acute-Phase Proteins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0001479,C0427184,AFFECTS,Na(+)-K(+)-Exchanging ATPase,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0001479,C1457868,AFFECTS,Na(+)-K(+)-Exchanging ATPase,Worse,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002199,C1545588,AFFECTS,Interferon-alpha,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C0015663,AFFECTS,Amino Acids,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C0743553,AFFECTS,Amino Acids,epistasis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C3151529,AFFECTS,Amino Acids,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C3540840,AFFECTS,Amino Acids,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C3806166,AFFECTS,Amino Acids,Poor outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002520,C3845273,AFFECTS,Amino Acids,Missense,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002521,C0240417,AFFECTS,"Amino Acids, Branched-Chain",Form of muscle,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002723,C0038435,AFFECTS,Serum amyloid A protein,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002723,C0278252,AFFECTS,Serum amyloid A protein,Prognosis bad,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0002723,C0549409,AFFECTS,Serum amyloid A protein,Packed cell volume increased,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003009,C3277906,AFFECTS,angiotensin II,Cardiac dysfunction,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C0003009,C3816499,AFFECTS,angiotensin II,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003018,C4055506,AFFECTS,Angiotensins,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003241,C0239998,AFFECTS,Antibodies,Recurrent infections,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003241,C0332155,AFFECTS,Antibodies,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003241,C0728725,AFFECTS,Antibodies,Low pH,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003241,C0750479,AFFECTS,Antibodies,blank,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0003241,C1444783,AFFECTS,Antibodies,Instability,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003241,C1545588,AFFECTS,Antibodies,Protection,aapp,fndg,37,AFFECTS_AAPPafctFNDG
+C0003241,C1836348,AFFECTS,Antibodies,Severe disorder,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003242,C0750479,AFFECTS,"Antibodies, Anti-Idiotypic",blank,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0003242,C1262477,AFFECTS,"Antibodies, Anti-Idiotypic",Weight decreased,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003242,C1545588,AFFECTS,"Antibodies, Anti-Idiotypic",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003250,C0003962,AFFECTS,Monoclonal Antibodies,Ascites,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003250,C0010840,AFFECTS,Monoclonal Antibodies,Vacuolation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003250,C0015663,AFFECTS,Monoclonal Antibodies,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003250,C0332155,AFFECTS,Monoclonal Antibodies,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003250,C1545588,AFFECTS,Monoclonal Antibodies,Protection,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C0003250,C3273245,AFFECTS,Monoclonal Antibodies,Acute Rejection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003313,C0332155,AFFECTS,Immune complex,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0003593,C0853610,AFFECTS,Apolipoproteins B,lipids normal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0004358,C3840880,AFFECTS,Autoantibodies,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0004627,C1299586,AFFECTS,Bacterial Proteins,Has difficulty doing (qualifier value),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0006669,C4228089,AFFECTS,Calcitonin Gene-Related Peptide,Sensitive skin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0007428,C2945640,AFFECTS,Cathepsins,compromise,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0007578,C0232370,AFFECTS,Cell Adhesion Molecules,Florid red complexion (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0008455,C1837496,AFFECTS,Chondroitin ABC Lyase,Axonal degeneration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0009498,C0019080,AFFECTS,Complement System Proteins,Hemorrhage,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0009498,C0221198,AFFECTS,Complement System Proteins,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0009498,C1832073,AFFECTS,Complement System Proteins,Handling,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0009498,C4289767,AFFECTS,Complement System Proteins,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0009552,C3887628,AFFECTS,Complement Receptor Type 1,Circulating immune complexes,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010287,C3816499,AFFECTS,Creatine Kinase,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010590,C1545588,AFFECTS,Cycloserine,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010590,C4086268,AFFECTS,Cycloserine,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010592,C3811922,AFFECTS,Cyclosporine,Liver transplant recipient,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010646,C0237849,AFFECTS,Cystatins,Peeling of skin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010654,C4296962,AFFECTS,Cysteine,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0010762,C1545588,AFFECTS,Cytochrome P450,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0012892,C0038435,AFFECTS,DNA-Directed DNA Polymerase,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0013729,C0038435,AFFECTS,Eukaryotic Initiation Factor-2,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0013765,C3816499,AFFECTS,Elastin,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0014241,C0332575,AFFECTS,Endoribonucleases,Redness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0016194,C1545588,AFFECTS,Flagellin,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017040,C0010840,AFFECTS,Gamma-glutamyl transferase,Vacuolation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017278,C0038435,AFFECTS,"Gene Products, env",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017279,C1545588,AFFECTS,"Gene Products, gag",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017343,C0679250,AFFECTS,"Genes, env",Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017757,C1545588,AFFECTS,Glucosephosphate Dehydrogenase,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017817,C1545588,AFFECTS,Glutathione,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017968,C0562577,AFFECTS,Glycoproteins,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017968,C0871499,AFFECTS,Glycoproteins,temperature effects,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017968,C1443389,AFFECTS,Glycoproteins,Maternal choice,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0017968,C1545588,AFFECTS,Glycoproteins,Protection,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C0017976,C1269955,AFFECTS,Glycoside Hydrolases,Tumor Cell Invasion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0018296,C3840880,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0018296,C4021734,AFFECTS,Guanosine Triphosphate Phosphohydrolases,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0018595,C0743630,AFFECTS,Haptoglobins,exacerbation acute,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0018847,C3842459,AFFECTS,Heat Shock Protein 27,Energetic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0019602,C4296962,AFFECTS,Histidine,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0020687,C0332155,AFFECTS,Hypoxanthine Phosphoribosyltransferase,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0020838,C1545588,AFFECTS,Secretory Immunoglobulin A,Protection,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C0020846,C0236175,AFFECTS,Immunoglobulin E,Increased IgE level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0020852,C0033213,AFFECTS,Immunoglobulin G,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0020960,C1545588,AFFECTS,Immune Sera,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021017,C1545588,AFFECTS,Immunoglobulin Isotypes,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0021027,C1545588,AFFECTS,Immunoglobulins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021032,C1545588,AFFECTS,Immunoglobulin Fc Fragments,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021641,C3840423,AFFECTS,Insulin,Body condition score,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021665,C0562577,AFFECTS,Insulin-Like Growth Factor I,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021666,C3816499,AFFECTS,insulin-like growth factor 2,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021743,C0750558,AFFECTS,Interferon Type I,Unlikely,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021743,C1545588,AFFECTS,Interferon Type I,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021753,C1709770,AFFECTS,Interleukin-1 beta,Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021753,C4086268,AFFECTS,Interleukin-1 beta,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021755,C0038435,AFFECTS,Interleukin-1,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021755,C0333361,AFFECTS,Interleukin-1,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021755,C1545588,AFFECTS,Interleukin-1,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0021755,C1709770,AFFECTS,Interleukin-1,Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021756,C0333361,AFFECTS,Interleukin-2,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021758,C0521654,AFFECTS,Interleukin-4,Neurologic Deficits,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021758,C3842673,AFFECTS,Interleukin-4,Day 6,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0021760,C0038435,AFFECTS,Interleukin-6,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021760,C0221198,AFFECTS,Interleukin-6,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021760,C1709770,AFFECTS,Interleukin-6,Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021760,C3476546,AFFECTS,Interleukin-6,Symptoms score,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021760,C3816499,AFFECTS,Interleukin-6,Pathogenic,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0021760,C4321237,AFFECTS,Interleukin-6,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021918,C1516998,AFFECTS,Intrinsic factor,Exogenous Factors,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0022192,C0743553,AFFECTS,Isoleucine,epistasis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0022478,C0349790,AFFECTS,Kininogenase,Exacerbation of asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0022709,C3816499,AFFECTS,Peptidyl-Dipeptidase A,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0022896,C0085639,AFFECTS,Lac Repressors,Falls,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0023206,C1545588,AFFECTS,Lectin,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0023206,C4289767,AFFECTS,Lectin,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0023764,C4289767,AFFECTS,Lipase,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0023814,C1545588,AFFECTS,"Lipoproteins, HDL3",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0024075,C1444656,AFFECTS,Luciferases,Indicated,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0024337,C0558141,AFFECTS,Lysine,Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0025252,C1718420,AFFECTS,Membrane Proteins,Tubule Formation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0025252,C3840880,AFFECTS,Membrane Proteins,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0025646,C0015663,AFFECTS,Methionine,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0025646,C4296962,AFFECTS,Methionine,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0026682,C4086268,AFFECTS,Mucins,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0026682,C4289767,AFFECTS,Mucins,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0026682,C4296962,AFFECTS,Mucins,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0027803,C0015967,AFFECTS,Neuraminidase,Fever,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0027803,C0728725,AFFECTS,Neuraminidase,Low pH,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0027803,C0871499,AFFECTS,Neuraminidase,temperature effects,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0028589,C4055506,AFFECTS,Nuclear Proteins,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0028612,C1545588,AFFECTS,Nucleoproteins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0028612,C4055506,AFFECTS,Nucleoproteins,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0029923,C1709157,AFFECTS,Ovalbumin,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030346,C1832072,AFFECTS,Papain,Accommodation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030940,C0728725,AFFECTS,Peptide Hydrolases,Low pH,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030940,C1269955,AFFECTS,Peptide Hydrolases,Tumor Cell Invasion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030946,C0033213,AFFECTS,Endopeptidases,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030946,C0423995,AFFECTS,Endopeptidases,Puzzled,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030946,C0427184,AFFECTS,Endopeptidases,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0030946,C3151529,AFFECTS,Endopeptidases,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031669,C3540840,AFFECTS,Phospholipase C,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031671,C4055506,AFFECTS,Phospholipase,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031678,C0038435,AFFECTS,Phosphoric Monoester Hydrolases,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031727,C0333361,AFFECTS,Phosphotransferases,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031727,C2347610,AFFECTS,Phosphotransferases,Chemosensitivity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0031789,C0750479,AFFECTS,Phycoerythrin,blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0032120,C0517627,AFFECTS,Plasma Proteins,Infection status,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0032183,C0333361,AFFECTS,Platelet Factor 4,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0033640,C0424589,AFFECTS,Protein Kinases,Vitality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0033689,C1854454,AFFECTS,Chondroitin Sulfate Proteoglycans,Axonal regeneration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034348,C0038435,AFFECTS,Pyruvate Kinase,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034783,C0518003,AFFECTS,Adrenergic Receptor,autonomic function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034783,C1863108,AFFECTS,Adrenergic Receptor,Variable phenotypic expression,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034800,C0438186,AFFECTS,"Receptors, Cell Surface",Lung function testing normal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034800,C0558141,AFFECTS,"Receptors, Cell Surface",Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034800,C0679250,AFFECTS,"Receptors, Cell Surface",Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034800,C2748212,AFFECTS,"Receptors, Cell Surface",Viral titer Reduction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034802,C3151529,AFFECTS,Epidermal Growth Factor Receptor,Lethal,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0034805,C0038435,AFFECTS,Fc Receptor,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034805,C0677946,AFFECTS,Fc Receptor,Stable Disease,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0034805,C1545588,AFFECTS,Fc Receptor,Protection,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C0035542,C0422837,AFFECTS,Ribonucleases,Neurological observations,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0035544,C1545588,AFFECTS,Ribonucleoproteins,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0037492,C4266464,AFFECTS,Sodium Channel,Gated,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0038601,C0562577,AFFECTS,Subtilisins,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040083,C0241863,AFFECTS,Thymidine Phosphorylase,diabetic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040106,C0679250,AFFECTS,Thymosin,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040648,C0427184,AFFECTS,TRANSCRIPTION FACTOR,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040648,C3844729,AFFECTS,TRANSCRIPTION FACTOR,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040679,C4055506,AFFECTS,Transferrin,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0040691,C1545588,AFFECTS,Transforming Growth Factors,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0041236,C0541889,AFFECTS,TRYPSIN,DISORDER AGGRAVATION,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0041249,C4296962,AFFECTS,Tryptophan,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0041348,C0332155,AFFECTS,Tubulin,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0041455,C1444783,AFFECTS,Collagen Type I,Instability,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0041485,C4296962,AFFECTS,Tyrosine,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042071,C3151529,AFFECTS,Urokinase,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042085,C0332575,AFFECTS,UROPORPHYRINOGEN DECARBOXYLASE,Redness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042666,C3816499,AFFECTS,Vimentin,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042736,C0424589,AFFECTS,Viral Proteins,Vitality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042736,C1831579,AFFECTS,Viral Proteins,Dominating behavior,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042736,C3840880,AFFECTS,Viral Proteins,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0042736,C4321237,AFFECTS,Viral Proteins,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0044602,C0518609,AFFECTS,1-Phosphatidylinositol 3-Kinase,consideration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0051962,C3151529,AFFECTS,anthrax toxin,Lethal,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0051979,C0750479,AFFECTS,anti-IgG,blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0051979,C1545588,AFFECTS,anti-IgG,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0051980,C0750479,AFFECTS,anti-IgM,blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0052176,C0015663,AFFECTS,apolactoferrin,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0052193,C0424589,AFFECTS,apolipoprotein D,Vitality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0053602,C1837655,AFFECTS,Biliverdin reductase,Multifactorial,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0054252,C1457868,AFFECTS,Buthionine Sulfoximine,Worse,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0054757,C0332155,AFFECTS,carboxypeptidase H,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0054757,C3843066,AFFECTS,carboxypeptidase H,2 to 3 days,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0054871,C1545588,AFFECTS,Cathepsin L,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0054943,C1269955,AFFECTS,ALANINE AMINOPEPTIDASE,Tumor Cell Invasion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0056889,C0427184,AFFECTS,Cystic Fibrosis Transmembrane Conductance Regulator,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0056978,C3816499,AFFECTS,Chemokine CXCL10,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0057256,C3272629,AFFECTS,Defensins,Epithelial Damage,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0057256,C4289767,AFFECTS,Defensins,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0058988,C3842459,AFFECTS,Eukaryotic Initiation Factor-4E,Energetic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0061355,C0043094,AFFECTS,Glucagon-Like Peptide 1,Weight Gain,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0061355,C1709157,AFFECTS,Glucagon-Like Peptide 1,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0062709,C1545588,AFFECTS,"Lipoproteins, HDL2",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0063351,C4534547,AFFECTS,IGG-horseradish peroxidase,Initial day,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0063355,C0332155,AFFECTS,IgY,Did not receive therapy or drug for,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0063684,C0017747,AFFECTS,Amylin,Increased glucose level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0063695,C0333361,AFFECTS,Intercellular adhesion molecule 1,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0063695,C3842676,AFFECTS,Intercellular adhesion molecule 1,Day 2,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0063710,C4055506,AFFECTS,"Receptors, Interleukin-1",Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0065661,C1545588,AFFECTS,Mannose Binding Lectin,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0065684,C0232370,AFFECTS,mannose receptor,Florid red complexion (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0065827,C0015663,AFFECTS,Measles Virus Nucleoprotein,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0065827,C1545588,AFFECTS,Measles Virus Nucleoprotein,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0065827,C4021734,AFFECTS,Measles Virus Nucleoprotein,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0069838,C4055506,AFFECTS,oxysterol binding protein,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0069906,C1545588,AFFECTS,P-Glycoproteins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0071234,C1545588,AFFECTS,platelet activating factor receptor,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0071610,C1545588,AFFECTS,polymeric IgA,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0071613,C1545588,AFFECTS,Polymeric Immunoglobulin Receptors,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0071795,C1545588,AFFECTS,2-5A-dependent ribonuclease,Protection,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C0071795,C4055506,AFFECTS,2-5A-dependent ribonuclease,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0072544,C3151529,AFFECTS,"toxA protein, Pseudomonas aeruginosa",Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0074785,C4055506,AFFECTS,Sodium-Hydrogen Antiporter,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0076628,C0746961,AFFECTS,thymus-leukemia antigens,Oxygen saturation below reference range,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C0221198,AFFECTS,cytokine,Lesion,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0079189,C0231337,AFFECTS,cytokine,Senility,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C0679250,AFFECTS,cytokine,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C0750558,AFFECTS,cytokine,Unlikely,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C1545588,AFFECTS,cytokine,Protection,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C0079189,C1709101,AFFECTS,cytokine,Myofibroblastic Differentiation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C1709770,AFFECTS,cytokine,Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C1836348,AFFECTS,cytokine,Severe disorder,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0079189,C1844666,AFFECTS,cytokine,Immune dysregulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C3272903,AFFECTS,cytokine,Overall Response,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C3816499,AFFECTS,cytokine,Pathogenic,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0079189,C4055506,AFFECTS,cytokine,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079189,C4321237,AFFECTS,cytokine,High Level,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0079259,C1998319,AFFECTS,Dystrophin,Functional capacity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079405,C0558141,AFFECTS,"Gene Products, vpr",Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079419,C0038435,AFFECTS,TP53 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079419,C3151529,AFFECTS,TP53 gene,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079419,C4479222,AFFECTS,TP53 gene,Increased apoptosis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079460,C0679250,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079460,C1834700,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Rapid disease progression,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079460,C3842673,AFFECTS,Granulocyte-Macrophage Colony-Stimulating Factor,Day 6,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079633,C1709770,AFFECTS,Interleukin-8,Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0079784,C3843066,AFFECTS,Macrophage Colony-Stimulating Factor,2 to 3 days,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0080058,C0231337,AFFECTS,Proto-Oncogene Proteins p21(ras),Senility,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0080058,C4479222,AFFECTS,Proto-Oncogene Proteins p21(ras),Increased apoptosis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0081937,C1836348,AFFECTS,Dipeptidyl-Peptidase IV,Severe disorder,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0082978,C1545588,AFFECTS,Interferon Regulatory Factor 8,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0083453,C0750479,AFFECTS,"MDK protein, human",blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0084692,C0581126,AFFECTS,Pulmonary Surfactant-Associated Protein D,Severe asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0084692,C0679250,AFFECTS,Pulmonary Surfactant-Associated Protein D,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0084692,C0700292,AFFECTS,Pulmonary Surfactant-Associated Protein D,Hypoxemia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0084692,C1545588,AFFECTS,Pulmonary Surfactant-Associated Protein D,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085177,C1545588,AFFECTS,RNA-Binding Proteins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085249,C1269955,AFFECTS,glycosyltransferase,Tumor Cell Invasion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085295,C0221198,AFFECTS,Interleukin-10,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085295,C0442743,AFFECTS,Interleukin-10,Noninflammatory,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085295,C0679250,AFFECTS,Interleukin-10,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085295,C1545588,AFFECTS,Interleukin-10,Protection,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C0085295,C1836348,AFFECTS,Interleukin-10,Severe disorder,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0085295,C3816499,AFFECTS,Interleukin-10,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085401,C3844729,AFFECTS,tau Proteins,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0085805,C0425488,AFFECTS,Androgen Binding Protein,Rapid shallow breathing,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0086376,C4055506,AFFECTS,GTP-Binding Proteins,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0086661,C0038435,AFFECTS,MYC gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0087044,C1545588,AFFECTS,Synapsin I,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0087044,C4055506,AFFECTS,Synapsin I,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0090388,C1545588,AFFECTS,14-3-3 Proteins,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0105042,C3151529,AFFECTS,Anthrax toxin edema factor,Lethal,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C0108685,C0558141,AFFECTS,CCAAT-Enhancer-Binding Proteins,Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0111208,C0221725,AFFECTS,cytotoxic T-lymphocyte antigen 4,Obstruction of bronchus,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0118522,C0038435,AFFECTS,GA-Binding Protein Transcription Factor,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0118522,C4036058,AFFECTS,GA-Binding Protein Transcription Factor,Too high,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0120285,C3843262,AFFECTS,Green Fluorescent Proteins,Line 5,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0121463,C3275700,AFFECTS,"nucleocapsid protein, Hepatitis C virus",Hepatic inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0121463,C4021734,AFFECTS,"nucleocapsid protein, Hepatitis C virus",Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0123759,C0679250,AFFECTS,Interleukin-12,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0123759,C1545588,AFFECTS,Interleukin-12,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0123759,C1844666,AFFECTS,Interleukin-12,Immune dysregulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0134992,C3151529,AFFECTS,anthrax protective antigen,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0142292,C4055506,AFFECTS,signal peptidase,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0145947,C3842672,AFFECTS,Tissue-Inhibitor of Metalloproteinase-1,Day 7,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0162768,C0679250,AFFECTS,Fusion protein,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0165519,C4086268,AFFECTS,Matrix Metalloproteinase 9,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0168052,C0043094,AFFECTS,zinc methionine,Weight Gain,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0168052,C0558187,AFFECTS,zinc methionine,Lactation established (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0169101,C3151529,AFFECTS,Mitogen-Activated Protein Kinase Kinases,Lethal,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0171484,C1833334,AFFECTS,secretase,Early-onset,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0174234,C3816499,AFFECTS,PTX3 protein,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0178663,C0541749,AFFECTS,globular protein,Does turn (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0178827,C4082832,AFFECTS,replicase,Atrial Premature Complex by ECG Finding,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0208355,C0427184,AFFECTS,multicatalytic endopeptidase complex,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0208355,C1545588,AFFECTS,multicatalytic endopeptidase complex,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0208355,C4055506,AFFECTS,multicatalytic endopeptidase complex,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0214743,C1709157,AFFECTS,Interleukin-13,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0214743,C1854494,AFFECTS,Interleukin-13,Slow progression,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0215848,C0038435,AFFECTS,Hypoxia-Inducible Factor 1,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0219433,C0562577,AFFECTS,"POSTN protein, human",Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0236511,C0750479,AFFECTS,Cytomegalovirus antibody,blank,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0242392,C4289767,AFFECTS,Cell Surface Proteins,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0242738,C1545588,AFFECTS,ATP-Binding Cassette Transporters,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0242738,C4055506,AFFECTS,ATP-Binding Cassette Transporters,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0243040,C4289767,AFFECTS,"Adhesins, Bacterial",Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0243041,C0038435,AFFECTS,Molecular Chaperones,Stress,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C0244989,C4055506,AFFECTS,Glycogen Synthase Kinase 3,Accumulation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0248441,C1836348,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",Severe disorder,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0248441,C2673444,AFFECTS,"Ribosomal Protein S6 Kinases, 90-kDa",Hypocitraturia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0250400,C0562577,AFFECTS,occludin,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0251914,C0038435,AFFECTS,"PDIA3 protein, human",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0253050,C0236033,AFFECTS,Stat3 protein,Muscle hypertrophy,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0253596,C0038435,AFFECTS,activating transcription factor 3,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0255813,C1262477,AFFECTS,"Receptors, Tumor Necrosis Factor, Type II",Weight decreased,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C0038435,AFFECTS,chemokine,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C0349790,AFFECTS,chemokine,Exacerbation of asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C0427184,AFFECTS,chemokine,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C1512195,AFFECTS,chemokine,Glial Differentiation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C1545588,AFFECTS,chemokine,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0282554,C1836348,AFFECTS,chemokine,Severe disorder,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C1864676,AFFECTS,chemokine,Glial activation,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C0282554,C3272903,AFFECTS,chemokine,Overall Response,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282554,C3844729,AFFECTS,chemokine,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0282682,C1545588,AFFECTS,"Antibodies, Blocking",Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0292369,C3151529,AFFECTS,"SMARCB1 protein, human",Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0295247,C0578671,AFFECTS,sialic acid receptor,Does move,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0300824,C3840880,AFFECTS,SNAP receptor,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0301512,C1998997,AFFECTS,Vaccinia virus vaccine,Ineffective protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0305052,C0679250,AFFECTS,Gamma globulin serum,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0312770,C1545588,AFFECTS,Complement regulator,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0313465,C3840892,AFFECTS,hemoglobin Natal,Day 4,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0369497,C1545588,AFFECTS,Human immunodeficiency virus type 1 antibody,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0376515,C4479222,AFFECTS,BCL2 gene,Increased apoptosis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0378516,C1821244,AFFECTS,Vascular Endothelial Growth Factor Receptor-1,Normal development,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0378910,C1519519,AFFECTS,Lymphocyte antigen CD66A,Tissue Differentiation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0378910,C4055506,AFFECTS,Lymphocyte antigen CD66A,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0385463,C0424589,AFFECTS,leptin receptor,Vitality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0443640,C0332155,AFFECTS,Specific antibody,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0443640,C0450093,AFFECTS,Specific antibody,Very large,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0443640,C1444783,AFFECTS,Specific antibody,Instability,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0443640,C1545588,AFFECTS,Specific antibody,Protection,aapp,fndg,6,AFFECTS_AAPPafctFNDG
+C0443640,C3151529,AFFECTS,Specific antibody,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0443640,C3816499,AFFECTS,Specific antibody,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0475463,C0750558,AFFECTS,"Antibodies, Neutralizing",Unlikely,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0475463,C1545588,AFFECTS,"Antibodies, Neutralizing",Protection,aapp,fndg,10,AFFECTS_AAPPafctFNDG
+C0524914,C1545588,AFFECTS,chemokine receptor,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0528008,C0033213,AFFECTS,Coat Protein Complex I,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0529196,C0038435,AFFECTS,ADAM17 Protein,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0529196,C1821461,AFFECTS,ADAM17 Protein,Close Relationship,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0530129,C0038435,AFFECTS,TNF receptor-associated factor 6,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0534369,C0237849,AFFECTS,"HFE protein, human",Peeling of skin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0538091,C3670500,AFFECTS,caspase-6,Neuronal degeneration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0538238,C0240417,AFFECTS,"GDF8 protein, human",Form of muscle,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0539788,C1854454,AFFECTS,flotillins,Axonal regeneration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0596827,C0038435,AFFECTS,lens protein,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0596902,C0427184,AFFECTS,Membrane Transport Proteins,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0597336,C1262477,AFFECTS,Quantitative Trait Loci,Weight decreased,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0597336,C1709157,AFFECTS,Quantitative Trait Loci,Negative Surgical Margin,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0597357,C0578671,AFFECTS,receptor,Does move,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0597357,C1709157,AFFECTS,receptor,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0597357,C3151529,AFFECTS,receptor,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0597427,C0728725,AFFECTS,secretory protein,Low pH,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0599220,C0232370,AFFECTS,Protein Subunits,Florid red complexion (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0599220,C1545588,AFFECTS,Protein Subunits,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0599220,C3151529,AFFECTS,Protein Subunits,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0599220,C4036468,AFFECTS,Protein Subunits,High avidity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0599561,C3844729,AFFECTS,e protein,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0623362,C0541875,AFFECTS,Matrix Metalloproteinases,destruction joint,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0623362,C4296962,AFFECTS,Matrix Metalloproteinases,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0664874,C1832072,AFFECTS,cyanovirin N,Accommodation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0665313,C0038435,AFFECTS,"activating transcription factor 6, human",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0669372,C3816499,AFFECTS,"NOS2A protein, human",Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0669372,C3844729,AFFECTS,"NOS2A protein, human",Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0670896,C0344315,AFFECTS,Toll-like receptors,Depressed mood,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0673667,C3816499,AFFECTS,M-ficolin,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0674917,C0277653,AFFECTS,"NCR1 protein, human",Fratricide,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0699918,C0333361,AFFECTS,Elastases,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0699919,C3151529,AFFECTS,Cathepsins B,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0700271,C3816499,AFFECTS,"M Protein, multiple myeloma",Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0700271,C4055506,AFFECTS,"M Protein, multiple myeloma",Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0751984,C3840880,AFFECTS,Monomeric GTP-Binding Proteins,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0752312,C1821718,AFFECTS,Mitogen-Activated Protein Kinases,Diminished productivity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0753802,C0332155,AFFECTS,"Neuro-Oncological Ventral Antigen 2, Human",Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0762640,C4086268,AFFECTS,thymic stromal lymphopoietin,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0812234,C0332509,AFFECTS,RHOA gene,Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0812303,C3280504,AFFECTS,FYN gene,Crypt hyperplasia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0812305,C0015663,AFFECTS,EPCAM gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0812445,C0333361,AFFECTS,CXCL1 gene,Acute inflammation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0812445,C1545588,AFFECTS,CXCL1 gene,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0887829,C4021734,AFFECTS,Nuclear Hormone Receptors,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0907411,C4296983,AFFECTS,"Lectins, C-Type",Expedite,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0907779,C3816499,AFFECTS,"interferon receptor, type II",Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0913092,C0332509,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0913854,C1709157,AFFECTS,"F11R protein, human",Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0916194,C1545588,AFFECTS,dectin 1,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0945940,C1545588,AFFECTS,Chikungunya virus antibody,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0960880,C1545588,AFFECTS,angiotensin converting enzyme 2,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0960880,C2712122,AFFECTS,angiotensin converting enzyme 2,Normal blood pressure,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0965245,C1545588,AFFECTS,"CD274 protein, human",Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0966870,C0562577,AFFECTS,S100 calcium binding protein A10,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0971207,C1545588,AFFECTS,"TLR7 protein, human",Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1098706,C0020625,AFFECTS,human AVP protein,Hyponatremia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1136102,C0038435,AFFECTS,Capsid Proteins,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1136177,C4021734,AFFECTS,Sirtuins,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1136340,C1854454,AFFECTS,Semaphorins,Axonal regeneration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1143949,C0679250,AFFECTS,"TNFSF10 protein, human",Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1143976,C4296962,AFFECTS,"TREM2 protein, human",Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1174094,C1545588,AFFECTS,"IL28B protein, human",Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1180307,C3842675,AFFECTS,F-Actin,Day 3,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1259929,C4055506,AFFECTS,"BRAF protein, human",Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1305923,C3151529,AFFECTS,Polypeptides,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1309025,C0436345,AFFECTS,"SH2D3A protein, human",Symptom severe,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1309025,C1545588,AFFECTS,"SH2D3A protein, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1309025,C4055506,AFFECTS,"SH2D3A protein, human",Accumulation,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C1309483,C1545588,AFFECTS,"DICER1 protein, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1310246,C0333361,AFFECTS,"KIF20B protein, human",Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1310463,C0683521,AFFECTS,"IFIH1 protein, human",patient condition,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1310468,C1545588,AFFECTS,"DDX58 protein, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1312696,C4021734,AFFECTS,"FABP3 protein, human",Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1313407,C0332509,AFFECTS,"HAVCR1 protein, human",Increased size (finding),aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1321914,C4479222,AFFECTS,PMAIP1 gene,Increased apoptosis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332386,C0422837,AFFECTS,BCAR3 gene,Neurological observations,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332386,C4055506,AFFECTS,BCAR3 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332397,C4021734,AFFECTS,BCL2L1 gene,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332685,C4055506,AFFECTS,CCL22 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332700,C1545588,AFFECTS,CCR5 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332818,C0562577,AFFECTS,CXCL14 gene,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332822,C0577305,AFFECTS,CXCR3 gene,Multiple lesions,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1332822,C1864676,AFFECTS,CXCR3 gene,Glial activation,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C1332822,C4055506,AFFECTS,CXCR3 gene,Accumulation,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C1333198,C0038435,AFFECTS,Cytoplasmic Protein,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1333887,C2748451,AFFECTS,H19 gene,Increased birth weight,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1333908,C4313322,AFFECTS,HMGB1 gene,Alveolar damage,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334046,C0038435,AFFECTS,"Genes, Housekeeping",Stress,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1334046,C4289767,AFFECTS,"Genes, Housekeeping",Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334078,C0562577,AFFECTS,IFITM1 gene,Mocking,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C1334081,C0376705,AFFECTS,IFNAR1 gene,Viral Load result,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334081,C1318963,AFFECTS,IFNAR1 gene,Readiness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334081,C1517940,AFFECTS,IFNAR1 gene,Long Term Survivorship,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334081,C1545588,AFFECTS,IFNAR1 gene,Protection,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C1334088,C0750479,AFFECTS,IGF1R gene,blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334103,C0085393,AFFECTS,IL13 gene,Immunocompromised Host,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334103,C0277814,AFFECTS,IL13 gene,Sitting position,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1334126,C0333361,AFFECTS,CXCR2 gene,Acute inflammation,aapp,fndg,5,AFFECTS_AAPPafctFNDG
+C1334126,C1545588,AFFECTS,CXCR2 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335267,C0038435,AFFECTS,PRTN3 gene,Stress,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1335267,C0424578,AFFECTS,PRTN3 gene,Psychological Well Being,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335376,C3840880,AFFECTS,Peptide/MHC Complex,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335439,C3840880,AFFECTS,Polymerase,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335439,C4489118,AFFECTS,Polymerase,Near complete,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335676,C0332509,AFFECTS,Recombinant Antibody,Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335872,C1545588,AFFECTS,STAT1 gene,Protection,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C1335872,C3280504,AFFECTS,STAT1 gene,Crypt hyperplasia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1335872,C3887644,AFFECTS,STAT1 gene,Inflammatory infiltrate,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1336636,C1545588,AFFECTS,TLR4 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1336690,C4035627,AFFECTS,TXN gene,2 times,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1336763,C0442726,AFFECTS,Toll-Like Receptor Family Gene,Detected (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1337105,C0332155,AFFECTS,HPR gene,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1366513,C0332155,AFFECTS,CASP4 gene,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1366516,C0558141,AFFECTS,IRF1 gene,Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1366516,C1545588,AFFECTS,IRF1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1366565,C0240618,AFFECTS,SLPI gene,ozone exposure,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1367307,C3280504,AFFECTS,STAT3 gene,Crypt hyperplasia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1367578,C0518003,AFFECTS,AR gene,autonomic function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1367710,C0522224,AFFECTS,C5 gene,Paralysed,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1412056,C3816499,AFFECTS,AAVS1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412058,C4055506,AFFECTS,ABCA1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412296,C0544452,AFFECTS,AHSG gene,Disease remission,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412296,C1545588,AFFECTS,AHSG gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412319,C4086268,AFFECTS,AKAP7 gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412330,C0442761,AFFECTS,ALAS1 gene,3/12,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412458,C1545588,AFFECTS,APBA3 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412511,C3840880,AFFECTS,ARF6 gene,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412533,C0424589,AFFECTS,ARIH1 gene,Vitality,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1412533,C0557163,AFFECTS,ARIH1 gene,Household income,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412533,C0728827,AFFECTS,ARIH1 gene,transfers,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412533,C1299586,AFFECTS,ARIH1 gene,Has difficulty doing (qualifier value),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412544,C4296962,AFFECTS,ARNTL gene,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412616,C0038435,AFFECTS,ATF3 gene,Stress,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1412622,C0038435,AFFECTS,ATF6 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412622,C0332509,AFFECTS,ATF6 gene,Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412831,C3816499,AFFECTS,BST2 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412831,C4055506,AFFECTS,BST2 gene,Accumulation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1412995,C0376618,AFFECTS,C3AR1 gene,Endotoxemia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412995,C0679250,AFFECTS,C3AR1 gene,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413049,C2004062,AFFECTS,CA6 gene,History of previous events,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413188,C0376705,AFFECTS,CCR2 gene,Viral Load result,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413336,C1444783,AFFECTS,CEL gene,Instability,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413371,C1545588,AFFECTS,CH25H gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413503,C0231337,AFFECTS,CLOCK gene,Senility,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413563,C0015663,AFFECTS,CNTN5 gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413603,C3840892,AFFECTS,COLQ gene,Day 4,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413844,C4055506,AFFECTS,CYBB gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413936,C4055506,AFFECTS,DCTN2 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413963,C4055506,AFFECTS,DDX5 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1413978,C1545588,AFFECTS,DEFB4A gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1414270,C4055506,AFFECTS,EEF1A1 gene,Accumulation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1414421,C0376618,AFFECTS,EPAS1 gene,Endotoxemia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1414444,C0038435,AFFECTS,ERN1 gene,Stress,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1414968,C0562577,AFFECTS,GAPDH gene,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415003,C3816499,AFFECTS,GBP1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415053,C0010840,AFFECTS,GGT1 gene,Vacuolation,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1415351,C0009940,AFFECTS,GTPBP1 gene,Convalescence,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415351,C1545588,AFFECTS,GTPBP1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415375,C1545588,AFFECTS,GYPC gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415489,C4014164,AFFECTS,HBZ gene,Lymphoproliferation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415755,C0038435,AFFECTS,HSPA1A gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415757,C0241863,AFFECTS,HSPA1L gene,diabetic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415761,C0038435,AFFECTS,HSPA5 gene,Stress,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1415761,C3890735,AFFECTS,HSPA5 gene,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415888,C0015663,AFFECTS,IFI30 gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415888,C0030563,AFFECTS,IFI30 gene,Parity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415892,C1545588,AFFECTS,IFIT1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415892,C3816499,AFFECTS,IFIT1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415894,C1545588,AFFECTS,IFIT2 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415898,C0232370,AFFECTS,IFITM3 gene,Florid red complexion (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415898,C0278252,AFFECTS,IFITM3 gene,Prognosis bad,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1415898,C1709157,AFFECTS,IFITM3 gene,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1416475,C0221198,AFFECTS,IRF7 gene,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1416486,C4086268,AFFECTS,ITGA3 gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417023,C4296962,AFFECTS,MAP7 gene,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417055,C0237849,AFFECTS,MBNL1 gene,Peeling of skin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417055,C1832073,AFFECTS,MBNL1 gene,Handling,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417228,C3816499,AFFECTS,MOG gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417507,C0015663,AFFECTS,MVD gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417510,C3816499,AFFECTS,MX1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417530,C1545588,AFFECTS,MYD88 gene,Protection,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C1417635,C3845947,AFFECTS,NDUFB3 gene,Very limited,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417679,C0424589,AFFECTS,NES gene,Vitality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417836,C4021734,AFFECTS,NR4A2 gene,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1417870,C0020649,AFFECTS,NTSR1 gene,Hypotension,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418401,C1545588,AFFECTS,PDCD1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418411,C0033213,AFFECTS,PDCL gene,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418526,C4086268,AFFECTS,PHEX gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418549,C1837514,AFFECTS,PI3 gene,Phenotypic Variation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418556,C1545588,AFFECTS,SERPINB9 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418569,C4321237,AFFECTS,PIGR gene,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418596,C3845273,AFFECTS,PITX2 gene,Missense,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418597,C0005911,AFFECTS,PITX3 gene,Body Weight Changes,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418597,C0038435,AFFECTS,PITX3 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418597,C1545588,AFFECTS,PITX3 gene,Protection,aapp,fndg,4,AFFECTS_AAPPafctFNDG
+C1418597,C3540840,AFFECTS,PITX3 gene,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418597,C3816499,AFFECTS,PITX3 gene,Pathogenic,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1418735,C1545588,AFFECTS,POLK gene,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1418776,C3275700,AFFECTS,PPARA gene,Hepatic inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418793,C0558141,AFFECTS,PPIA gene,Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418793,C3816499,AFFECTS,PPIA gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418797,C1262477,AFFECTS,PPID gene,Weight decreased,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1418797,C3540840,AFFECTS,PPID gene,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419032,C0015967,AFFECTS,PSMD2 gene,Fever,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419032,C3714536,AFFECTS,PSMD2 gene,Social History,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419120,C3714738,AFFECTS,PTPRN2 gene,Compliance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419187,C0728827,AFFECTS,RAB1A gene,transfers,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419187,C3840880,AFFECTS,RAB1A gene,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419333,C0231221,AFFECTS,REG1A gene,Asymptomatic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1419805,C3843066,AFFECTS,SAG gene,2 to 3 days,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420002,C1545588,AFFECTS,SFTPA1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420016,C4055506,AFFECTS,SGTA gene,Accumulation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1420131,C4055506,AFFECTS,SLCO1B1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420234,C0427184,AFFECTS,SLC9A3 gene,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420269,C4230798,AFFECTS,SNAP23 gene,Meiotic arrest,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420280,C1518294,AFFECTS,FSCN1 gene,Neuronal Differentiation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420459,C0679246,AFFECTS,SULT1E1 gene,advanced disease,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420563,C0027769,AFFECTS,TAC1 gene,Nervousness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420563,C0518003,AFFECTS,TAC1 gene,autonomic function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420654,C0038435,AFFECTS,TCOF1 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1420813,C0376705,AFFECTS,TNFRSF9 gene,Viral Load result,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421318,C1545588,AFFECTS,SCGB1A1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421361,C1545588,AFFECTS,UNG gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421395,C0015663,AFFECTS,USP18 gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421429,C4055506,AFFECTS,VTRNA1-1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421467,C4228089,AFFECTS,TRPV1 gene,Sensitive skin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421638,C1821244,AFFECTS,TRIM25 gene,Normal development,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1421946,C0332155,AFFECTS,MAP1LC3B gene,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422036,C1545588,AFFECTS,ERVW-1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C0221198,AFFECTS,ACE2 gene,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C0518003,AFFECTS,ACE2 gene,autonomic function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C0860803,AFFECTS,ACE2 gene,glucose high,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C3274777,AFFECTS,ACE2 gene,Severely Abnormal Ventricular Ejection Fraction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C3277906,AFFECTS,ACE2 gene,Cardiac dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C3540840,AFFECTS,ACE2 gene,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422064,C3842676,AFFECTS,ACE2 gene,Day 2,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1422249,C1821244,AFFECTS,FOXP2 gene,Normal development,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1423053,C4021734,AFFECTS,TAS2R13 gene,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1423498,C0750479,AFFECTS,GOLPH3 gene,blank,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1423837,C0241863,AFFECTS,SAMHD1 gene,diabetic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1423842,C1545588,AFFECTS,NELFCD gene,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1423842,C4086268,AFFECTS,NELFCD gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424146,C1446614,AFFECTS,TRIM5 gene,Convergent gaze,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424242,C1545588,AFFECTS,CARD9 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424242,C4086268,AFFECTS,CARD9 gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424650,C3816499,AFFECTS,IFI44 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424867,C4055506,AFFECTS,ERI3 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1425020,C0683954,AFFECTS,DCLRE1C gene,research results,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1425189,C1545588,AFFECTS,CD207 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1425942,C0436331,AFFECTS,SCARA3 gene,Symptom aggravating factors,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1426128,C1832073,AFFECTS,LMAN2L gene,Handling,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1426663,C0422837,AFFECTS,USP46 gene,Neurological observations,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1426957,C4055506,AFFECTS,LSM1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1427259,C0562577,AFFECTS,HACE1 gene,Mocking,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1427382,C0038435,AFFECTS,RHOT1 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1427504,C3714738,AFFECTS,MLIP gene,Compliance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1428114,C0442726,AFFECTS,TBATA gene,Detected (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1428183,C4296962,AFFECTS,GNE gene,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1435283,C0427184,AFFECTS,"MHC2TA protein, human",No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1442820,C3842673,AFFECTS,"FLT3LG protein, human",Day 6,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1442824,C4055223,AFFECTS,"POU2F1 protein, human",Clinical Response,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1448177,C1709770,AFFECTS,"TNF protein, human",Pulmonary Dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1449159,C0009940,AFFECTS,"CCL2 protein, human",Convalescence,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1453853,C0332155,AFFECTS,"WNK1 protein, human",Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1455498,C0442726,AFFECTS,"TYRP1 protein, human",Detected (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1522002,C0033213,AFFECTS,RNA Recognition Motif,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1522002,C0442743,AFFECTS,RNA Recognition Motif,Noninflammatory,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1522002,C1446614,AFFECTS,RNA Recognition Motif,Convergent gaze,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1522712,C1860136,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Necrosis with inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1522712,C3840892,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Day 4,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1527233,C3151529,AFFECTS,Recombinant Immune Globulin,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1533698,C4055506,AFFECTS,Nitric Oxide Synthase Type II,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1537399,C3816499,AFFECTS,IFIH1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1538915,C3277906,AFFECTS,APLN gene,Cardiac dysfunction,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1539098,C1545588,AFFECTS,CLEC4G gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539099,C0332155,AFFECTS,CLEC4M gene,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539099,C0558141,AFFECTS,CLEC4M gene,Transsexual (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539116,C0037420,AFFECTS,BLOC1S4 gene,Social Interaction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539479,C4055506,AFFECTS,FATE1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539615,C0221198,AFFECTS,GREM2 gene,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539908,C1844666,AFFECTS,TAAR1 gene,Immune dysregulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1539908,C4296962,AFFECTS,TAAR1 gene,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540056,C1545588,AFFECTS,TRIM21 gene,Protection,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1540210,C0562577,AFFECTS,ASZ1 gene,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540289,C0221198,AFFECTS,CD200 gene,Lesion,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540289,C0241279,AFFECTS,CD200 gene,SUBCUTANEOUS TUMOR,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540289,C0332155,AFFECTS,CD200 gene,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540290,C1545588,AFFECTS,CD200R1 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1540290,C4055506,AFFECTS,CD200R1 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1564139,C4055506,AFFECTS,Mutant Proteins,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1566673,C0015663,AFFECTS,Antibody Fragments,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1568891,C3842953,AFFECTS,"HGS protein, human",> 24 hrs,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1624602,C0332155,AFFECTS,Anti-Antibodies,Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1624602,C1545588,AFFECTS,Anti-Antibodies,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1624602,C2985294,AFFECTS,Anti-Antibodies,Fourth Stage of Labor,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1701032,C1545588,AFFECTS,"ITGAM protein, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1701790,C1545588,AFFECTS,"IL17A protein, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1701790,C4055506,AFFECTS,"IL17A protein, human",Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1701790,C4086268,AFFECTS,"IL17A protein, human",Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1702088,C3687252,AFFECTS,"IL5 protein, human",Eosinophilic inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1704743,C0489618,AFFECTS,BRCA1 wt Allele,pupil diameter,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1705010,C1545588,AFFECTS,TNC wt Allele,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1705590,C3840880,AFFECTS,PIK3CB wt Allele,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1706005,C0030318,AFFECTS,CD40LG wt Allele,Panic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1706005,C4036468,AFFECTS,CD40LG wt Allele,High avidity,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1710596,C0231221,AFFECTS,VDAC2 wt Allele,Asymptomatic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1710602,C1709157,AFFECTS,VIPR1 wt Allele,Negative Surgical Margin,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1823140,C0728899,AFFECTS,STX2 gene,Intoxication,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1823621,C0015663,AFFECTS,VENTXP1 gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1824492,C0155540,AFFECTS,DNAAF3 gene,Ear discharge,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1824798,C4021734,AFFECTS,CRTC1 gene,Abnormality of mitochondrial metabolism,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825325,C0038435,AFFECTS,G3BP1 gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825497,C1545588,AFFECTS,ATG5 gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825497,C4055506,AFFECTS,ATG5 gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0005911,AFFECTS,IMPACT gene,Body Weight Changes,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0015457,AFFECTS,IMPACT gene,Facial Expression,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0033213,AFFECTS,IMPACT gene,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0231184,AFFECTS,IMPACT gene,Inefficiency,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0231224,AFFECTS,IMPACT gene,Crisis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0240795,AFFECTS,IMPACT gene,positional,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0456240,AFFECTS,IMPACT gene,Core body temperature,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0456966,AFFECTS,IMPACT gene,Far distance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0476644,AFFECTS,IMPACT gene,Physical and emotional exhaustion state,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C1825598,C0595998,AFFECTS,IMPACT gene,Household composition,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0679250,AFFECTS,IMPACT gene,Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C0748864,AFFECTS,IMPACT gene,small size,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C1281905,AFFECTS,IMPACT gene,At risk of disease,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C1318963,AFFECTS,IMPACT gene,Readiness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C1545588,AFFECTS,IMPACT gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C1718157,AFFECTS,IMPACT gene,Oral problems,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C3540840,AFFECTS,IMPACT gene,Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C3816499,AFFECTS,IMPACT gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C4054143,AFFECTS,IMPACT gene,Pulmonary Compliance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C4055506,AFFECTS,IMPACT gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825598,C4086268,AFFECTS,IMPACT gene,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1825621,C1545588,AFFECTS,ISG15 gene,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1825843,C3714738,AFFECTS,ACTC1 gene,Compliance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1826583,C0518181,AFFECTS,PICK1 gene,Development of the breasts,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1826755,C3840880,AFFECTS,RAB2A gene,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1835006,C1318963,AFFECTS,MT1IP gene,Readiness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1864770,C1545588,AFFECTS,MAVS gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1870006,C0332155,AFFECTS,"PTPRC protein, human",Did not receive therapy or drug for,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1883559,C1262477,AFFECTS,Wild Type,Weight decreased,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1883559,C3842676,AFFECTS,Wild Type,Day 2,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1956109,C0677946,AFFECTS,Human Microbiome,Stable Disease,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1956109,C4086268,AFFECTS,Human Microbiome,Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2239486,C0015967,AFFECTS,GEN1 gene,Fever,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2326433,C3151529,AFFECTS,Multi-domain protein,Lethal,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2334430,C4055506,AFFECTS,Major histocompatibility complex protein,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2334897,C0038435,AFFECTS,Nucleosomal histone,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2717970,C3844729,AFFECTS,Cysteine Proteases,Very Important,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0038435,AFFECTS,"CD69 protein, human",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0043094,AFFECTS,"CD69 protein, human",Weight Gain,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0427184,AFFECTS,"CD69 protein, human",No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0442726,AFFECTS,"CD69 protein, human",Detected (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0564474,AFFECTS,"CD69 protein, human",Level of anxiety,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0683317,AFFECTS,"CD69 protein, human",activity level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0700292,AFFECTS,"CD69 protein, human",Hypoxemia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C1318963,AFFECTS,"CD69 protein, human",Readiness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C1408258,AFFECTS,"CD69 protein, human",Kidney damage,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C2744535,C1457868,AFFECTS,"CD69 protein, human",Worse,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C2744535,C1545588,AFFECTS,"CD69 protein, human",Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C2744535,C3540840,AFFECTS,"CD69 protein, human",Sign or Symptom,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C3671958,AFFECTS,"CD69 protein, human",Reproductive failure,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C2744535,C3687252,AFFECTS,"CD69 protein, human",Eosinophilic inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C3714738,AFFECTS,"CD69 protein, human",Compliance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C3816499,AFFECTS,"CD69 protein, human",Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C4086268,AFFECTS,"CD69 protein, human",Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744579,C0038435,AFFECTS,"ATP8A2 protein, human",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2827433,C4321237,AFFECTS,Argonaute Proteins,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2828961,C0349790,AFFECTS,CDHR3 gene,Exacerbation of asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2828961,C0581126,AFFECTS,CDHR3 gene,Severe asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2936230,C0038435,AFFECTS,Cystine-Knot Miniproteins,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2936529,C0344315,AFFECTS,Inflammasomes,Depressed mood,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2936529,C1457868,AFFECTS,Inflammasomes,Worse,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2936529,C1545588,AFFECTS,Inflammasomes,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C3178812,C3245470,AFFECTS,Tetraspanins,GeneticObservationValue <HOMO>,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3273474,C0020580,AFFECTS,Cytospin-B,Hypesthesia,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3273858,C1545588,AFFECTS,DYNLRB1 wt Allele,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3538698,C4055506,AFFECTS,TFF3 wt Allele,Accumulation,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C3538756,C4055506,AFFECTS,NLRP1 wt Allele,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3538756,C4321237,AFFECTS,NLRP1 wt Allele,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3539688,C0424589,AFFECTS,DEGS1 wt Allele,Vitality,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C3539688,C0558187,AFFECTS,DEGS1 wt Allele,Lactation established (finding),aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C3539754,C3840880,AFFECTS,RAB5C wt Allele,Traffic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3539770,C0233481,AFFECTS,ASAH1 wt Allele,Worried,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3540252,C1545588,AFFECTS,PYURF gene,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3540595,C0332509,AFFECTS,CD8A wt Allele,Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3540595,C1545588,AFFECTS,CD8A wt Allele,Protection,aapp,fndg,3,AFFECTS_AAPPafctFNDG
+C3541329,C1457868,AFFECTS,UGT1A7 wt Allele,Worse,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3665675,C4068890,AFFECTS,Prolyl Hydroxylase,Normal tension,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3710914,C0038435,AFFECTS,"EIF2AK2 protein, human",Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3710914,C4055506,AFFECTS,"EIF2AK2 protein, human",Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3715044,C1545588,AFFECTS,AKR1A1 wt Allele,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3715113,C0427184,AFFECTS,HSD11B1 wt Allele,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3811127,C0562577,AFFECTS,SULT1E1 wt Allele,Mocking,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3811127,C1545588,AFFECTS,SULT1E1 wt Allele,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3883896,C1545588,AFFECTS,ZMapp,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3884535,C0595998,AFFECTS,"AREG protein, human",Household composition,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3887681,C1704258,AFFECTS,"Human B-Lymphocyte Antigen CD20, human",Abnormality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3889123,C0686747,AFFECTS,SMG1 wt Allele,Well adolescent,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C3891304,C1545588,AFFECTS,"Cathelicidin LL-37, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4048280,C0332509,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Increased size (finding),aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4048280,C1545588,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Protection,aapp,fndg,6,AFFECTS_AAPPafctFNDG
+C4048280,C3845593,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Major change,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4048280,C4086268,AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Exacerbation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4049595,C4289767,AFFECTS,HLA Complex,Colonization,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4050150,C1545588,AFFECTS,PLEC wt Allele,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4084937,C1545588,AFFECTS,Antimicrobial Peptide,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4281724,C0581126,AFFECTS,Protein S100-A9,Severe asthma,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4281807,C1545588,AFFECTS,"Vitronectin, human",Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4284302,C0043094,AFFECTS,EHD1 wt Allele,Weight Gain,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4284302,C0686744,AFFECTS,EHD1 wt Allele,Well child,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4284302,C3277906,AFFECTS,EHD1 wt Allele,Cardiac dysfunction,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4284302,C4054479,AFFECTS,EHD1 wt Allele,Molecular Response,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4321235,C0679254,AFFECTS,OCA2 wt Allele,disease recurrence,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C4321235,C3816499,AFFECTS,OCA2 wt Allele,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG

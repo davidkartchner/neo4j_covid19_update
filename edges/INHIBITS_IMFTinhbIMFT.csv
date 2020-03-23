@@ -1,0 +1,28 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0042210,INHIBITS,Immunologic Adjuvants,Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003316,C0042210,INHIBITS,Epitopes,Vaccines,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0003316,C0079600,INHIBITS,Epitopes,Immunodominant Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0005457,C0003316,INHIBITS,"Binding Sites, Antibody",Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0021403,C0042210,INHIBITS,Influenza virus vaccine,Vaccines,imft,imft,3,INHIBITS_IMFTinhbIMFT
+C0042210,C0001551,INHIBITS,Vaccines,Immunologic Adjuvants,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042210,C0003316,INHIBITS,Vaccines,Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042210,C0021403,INHIBITS,Vaccines,Influenza virus vaccine,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0042210,C0032375,INHIBITS,Vaccines,Oral Poliovirus Vaccine,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042210,C0034496,INHIBITS,Vaccines,Rabies Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042210,C0042211,INHIBITS,Vaccines,"Vaccines, Attenuated",imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0042210,C0042742,INHIBITS,Vaccines,Viral Vaccines,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0042210,C0282581,INHIBITS,Vaccines,"Epitopes, B-Lymphocyte",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042210,C0720492,INHIBITS,Vaccines,Fluzone,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042211,C0042210,INHIBITS,"Vaccines, Attenuated",Vaccines,imft,imft,3,INHIBITS_IMFTinhbIMFT
+C0042212,C0042210,INHIBITS,"Vaccines, Inactivated",Vaccines,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0042212,C0042211,INHIBITS,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0042212,C0887892,INHIBITS,"Vaccines, Inactivated","Vaccines, Subunit",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0282580,C0003316,INHIBITS,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0282581,C0042210,INHIBITS,"Epitopes, B-Lymphocyte",Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0376613,C0042210,INHIBITS,"Vaccines, DNA",Vaccines,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0376613,C0042742,INHIBITS,"Vaccines, DNA",Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0887892,C0042210,INHIBITS,"Vaccines, Subunit",Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0887892,C0042742,INHIBITS,"Vaccines, Subunit",Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C1519887,C0042210,INHIBITS,Vaccine Antigen,Vaccines,imft,imft,3,INHIBITS_IMFTinhbIMFT
+C1519904,C0042210,INHIBITS,Vaccinia Vaccine,Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C3161957,C0042210,INHIBITS,INFLUENZA strains,Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT

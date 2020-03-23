@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017296,C0439662,TREATS,gene therapy,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0020974,C0439662,TREATS,passive immunization procedure,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0023911,C0439663,TREATS,Transplantation of liver,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0026118,C0439662,TREATS,Milieu Therapy,Immune,topp,ftcn,2,TREATS_TOPPtrtsFTCN
+C0034386,C0439663,TREATS,Quarantine,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0038288,C0439663,TREATS,Sexual sterilization,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0040732,C0439663,TREATS,Transplantation,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0040808,C0439662,TREATS,Treatment Protocols,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0040808,C0439663,TREATS,Treatment Protocols,Infected,topp,ftcn,2,TREATS_TOPPtrtsFTCN
+C0042196,C0439663,TREATS,Vaccination,Infected,topp,ftcn,3,TREATS_TOPPtrtsFTCN
+C0042200,C0439663,TREATS,Influenza vaccination,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0042209,C0439663,TREATS,Vaccine Therapy,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0152060,C0439663,TREATS,Transection (procedure),Infected,topp,ftcn,2,TREATS_TOPPtrtsFTCN
+C0185027,C0439663,TREATS,Imbrication (procedure),Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0185047,C0439663,TREATS,Stripping,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0203597,C0439663,TREATS,hyperthermia treatment,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0204727,C0439663,TREATS,Isolation procedure,Infected,topp,ftcn,10,TREATS_TOPPtrtsFTCN
+C0376518,C0439662,TREATS,Adoptive Transfer,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0439775,C0439663,TREATS,Elevation procedure,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0441650,C3178902,TREATS,Closure by wire,Protein Interaction Maps,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0444735,C0439663,TREATS,Intermittent administration,Infected,topp,ftcn,2,TREATS_TOPPtrtsFTCN
+C0547070,C0439663,TREATS,Ablation,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0679637,C0442856,TREATS,major surgery,Hypoperfusion,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0683525,C0442856,TREATS,treatment options,Hypoperfusion,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0745343,C0439663,TREATS,insulin treatment,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0808232,C0439663,TREATS,Therapeutic Intervention,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0857127,C0439663,TREATS,Induction procedure,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0887947,C0439663,TREATS,"Antiretroviral Therapy, Highly Active",Infected,topp,ftcn,4,TREATS_TOPPtrtsFTCN
+C0920425,C0439662,TREATS,cancer therapy,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0920467,C0439663,TREATS,disorder control (procedure),Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C0947647,C3178902,TREATS,Manipulation procedure,Protein Interaction Maps,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C1261381,C0439662,TREATS,Destructive procedure (surgical),Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C1293130,C0439662,TREATS,Stabilization,Immune,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C1504389,C0439663,TREATS,Stem cell transplant,Infected,topp,ftcn,2,TREATS_TOPPtrtsFTCN
+C1511790,C0439663,TREATS,Detection,Infected,topp,ftcn,11,TREATS_TOPPtrtsFTCN
+C1535597,C0439663,TREATS,Truncal vagotomy with pyloroplasty,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C1963724,C0439663,TREATS,Antiretroviral therapy,Infected,topp,ftcn,5,TREATS_TOPPtrtsFTCN
+C3177188,C0439663,TREATS,Early Therapy,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN
+C4543540,C0439663,TREATS,Dipyridamole therapy,Infected,topp,ftcn,1,TREATS_TOPPtrtsFTCN

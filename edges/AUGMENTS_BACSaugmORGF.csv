@@ -1,0 +1,106 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0301872,AUGMENTS,Antigens,Immune response,bacs,orgf,71,AUGMENTS_BACSaugmORGF
+C0003682,C0018270,AUGMENTS,Arabinose,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0005390,C1819461,AUGMENTS,Bile Acids,interleukin-8 production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0005404,C0301872,AUGMENTS,Bile Salts,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0006675,C0013123,AUGMENTS,Calcium,Water consumption,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0006675,C0042774,AUGMENTS,Calcium,Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0007412,C0023796,AUGMENTS,Catecholamines,Lipolysis,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0007745,C0018270,AUGMENTS,Ceramides,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0008024,C1819461,AUGMENTS,Chenodeoxycholic Acid,interleukin-8 production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0008141,C1749719,AUGMENTS,Chitin,Adaptive Immune Response,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0008377,C0699900,AUGMENTS,Cholesterol,Catabolism,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0008377,C1327441,AUGMENTS,Cholesterol,negative regulation of inflammatory response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0009221,C0000934,AUGMENTS,Codon (nucleotide sequence),Acclimatization,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0012854,C0020966,AUGMENTS,DNA,Cellular Immunity,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0012854,C0026649,AUGMENTS,DNA,Movement,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0012854,C0042774,AUGMENTS,DNA,Virus Replication,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0012854,C0043240,AUGMENTS,DNA,Wound Healing,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0012854,C0301872,AUGMENTS,DNA,Immune response,bacs,orgf,18,AUGMENTS_BACSaugmORGF
+C0012854,C0678723,AUGMENTS,DNA,Biologic Development,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0012854,C1155328,AUGMENTS,DNA,Antiviral Response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0012854,C1749719,AUGMENTS,DNA,Adaptive Immune Response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0013982,C3159140,AUGMENTS,Emodin,interferon production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0014290,C0042774,AUGMENTS,"Enhancer Elements, Genetic",Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0016945,C0001811,AUGMENTS,Galactose,Aging,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0017725,C0018270,AUGMENTS,Glucose,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0018284,C0018270,AUGMENTS,Growth Factor,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0018284,C0043240,AUGMENTS,Growth Factor,Wound Healing,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0018909,C0301872,AUGMENTS,Hemagglutinin,Immune response,bacs,orgf,5,AUGMENTS_BACSaugmORGF
+C0018966,C0018270,AUGMENTS,Heme,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0021936,C0020966,AUGMENTS,Inulin,Cellular Immunity,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0022949,C0018270,AUGMENTS,Lactose,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0024742,C0018270,AUGMENTS,Mannose,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028128,C0678209,AUGMENTS,Nitric Oxide,Adaptive Immunity,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028606,C0005615,AUGMENTS,Nucleic Acids,Birth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028606,C0018270,AUGMENTS,Nucleic Acids,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028606,C0042789,AUGMENTS,Nucleic Acids,Vision,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028606,C0301872,AUGMENTS,Nucleic Acids,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0028928,C1563744,AUGMENTS,Oleic Acid,Lipogenesis,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0030234,C0018270,AUGMENTS,Palmitic Acid,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0031617,C0678723,AUGMENTS,Lecithin,Biologic Development,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0031619,C0005615,AUGMENTS,Phosphatidylglycerols,Birth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0031866,C0026559,AUGMENTS,Phytosterols,Morphogenesis,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0032136,C0020966,AUGMENTS,Plasmids,Cellular Immunity,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0032136,C0301872,AUGMENTS,Plasmids,Immune response,bacs,orgf,7,AUGMENTS_BACSaugmORGF
+C0032136,C0678209,AUGMENTS,Plasmids,Adaptive Immunity,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035142,C0005615,AUGMENTS,Replicon,Birth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035693,C0042774,AUGMENTS,"RNA, Double-Stranded",Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035693,C0301872,AUGMENTS,"RNA, Double-Stranded",Immune response,bacs,orgf,5,AUGMENTS_BACSaugmORGF
+C0035693,C1155328,AUGMENTS,"RNA, Double-Stranded",Antiviral Response,bacs,orgf,9,AUGMENTS_BACSaugmORGF
+C0035693,C1327413,AUGMENTS,"RNA, Double-Stranded",cytokine production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035693,C1819426,AUGMENTS,"RNA, Double-Stranded",chemokine production,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0035693,C1819430,AUGMENTS,"RNA, Double-Stranded",type I interferon production,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0035693,C3159140,AUGMENTS,"RNA, Double-Stranded",interferon production,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0035696,C0005615,AUGMENTS,"RNA, Messenger",Birth,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0035696,C0026649,AUGMENTS,"RNA, Messenger",Movement,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035696,C0301872,AUGMENTS,"RNA, Messenger",Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035696,C1819430,AUGMENTS,"RNA, Messenger",type I interferon production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035701,C0042774,AUGMENTS,Ribosomal RNA,Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035701,C0699900,AUGMENTS,Ribosomal RNA,Catabolism,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0035711,C0015895,AUGMENTS,Transfer RNA,Fertility,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0036751,C0009253,AUGMENTS,Serotonin,Coitus,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0037473,C0013470,AUGMENTS,Sodium,Eating,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0037494,C0013123,AUGMENTS,Sodium Chloride,Water consumption,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0037871,C0001811,AUGMENTS,spermidine,Aging,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0037906,C0018270,AUGMENTS,Sphingomyelins,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0038179,C0005615,AUGMENTS,Starch,Birth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0038636,C0018270,AUGMENTS,Sucrose,Growth,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0040549,C0301872,AUGMENTS,Toxin,Immune response,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0040549,C1819436,AUGMENTS,Toxin,interleukin-1 production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0041133,C0678723,AUGMENTS,"RNA, Transfer, Precursors",Biologic Development,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0041242,C0301872,AUGMENTS,Trypsin Inhibitors,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0041532,C0678723,AUGMENTS,U6 small nuclear RNA,Biologic Development,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0041917,C0000934,AUGMENTS,Uracil,Acclimatization,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0043375,C0018270,AUGMENTS,Xylose,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0056912,C0301872,AUGMENTS,cytidylyl-3'-5'-guanosine,Immune response,bacs,orgf,9,AUGMENTS_BACSaugmORGF
+C0061202,C0042774,AUGMENTS,Genistein,Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0061688,C1819464,AUGMENTS,Glycosylphosphatidylinositols,tumor necrosis factor production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0064582,C0012238,AUGMENTS,Lactic acid,Digestion,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0064582,C1327441,AUGMENTS,Lactic acid,negative regulation of inflammatory response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0065335,C0011065,AUGMENTS,lycorine,Cessation of life,bacs,orgf,3,AUGMENTS_BACSaugmORGF
+C0067995,C0018270,AUGMENTS,N-glycolylneuraminic acid,Growth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0068527,C0020966,AUGMENTS,Neopterin,Cellular Immunity,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0162772,C1819437,AUGMENTS,Reactive Oxygen Species,interleukin-10 production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0162772,C3159140,AUGMENTS,Reactive Oxygen Species,interferon production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0242494,C0699900,AUGMENTS,Poly(A) Tail,Catabolism,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0369335,C1817762,AUGMENTS,Hepatitis C virus RNA,hepatic immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0577749,C0015895,AUGMENTS,Phytochemicals,Fertility,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0577749,C0301872,AUGMENTS,Phytochemicals,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0597277,C0043240,AUGMENTS,Potassium Ion,Wound Healing,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0600680,C0042774,AUGMENTS,Untranslated Regions,Virus Replication,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C0600680,C1155328,AUGMENTS,Untranslated Regions,Antiviral Response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C0887977,C0000934,AUGMENTS,"RNA, Transfer, Initiator",Acclimatization,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1099354,C0005615,AUGMENTS,"RNA, Small Interfering",Birth,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1099354,C0042774,AUGMENTS,"RNA, Small Interfering",Virus Replication,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1099354,C0301872,AUGMENTS,"RNA, Small Interfering",Immune response,bacs,orgf,4,AUGMENTS_BACSaugmORGF
+C1099354,C1155328,AUGMENTS,"RNA, Small Interfering",Antiviral Response,bacs,orgf,3,AUGMENTS_BACSaugmORGF
+C1099354,C1160185,AUGMENTS,"RNA, Small Interfering",transduction,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1099354,C1819459,AUGMENTS,"RNA, Small Interfering",interleukin-6 production,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1101610,C0042774,AUGMENTS,MicroRNAs,Virus Replication,bacs,orgf,8,AUGMENTS_BACSaugmORGF
+C1101610,C0301872,AUGMENTS,MicroRNAs,Immune response,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C1101610,C0699900,AUGMENTS,MicroRNAs,Catabolism,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C1136170,C0042774,AUGMENTS,Virulence Factors,Virus Replication,bacs,orgf,2,AUGMENTS_BACSaugmORGF
+C1136170,C0301872,AUGMENTS,Virulence Factors,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1291185,C0301872,AUGMENTS,Microbial DNA,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF
+C1458175,C0301872,AUGMENTS,Plasmid pSa,Immune response,bacs,orgf,1,AUGMENTS_BACSaugmORGF

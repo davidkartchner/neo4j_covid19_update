@@ -1,0 +1,169 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001026,C1563744,AFFECTS,Acetyl Coenzyme A,Lipogenesis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0001455,C1817907,AFFECTS,Cyclic AMP,T cell mediated immunity,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0001468,C0018270,AFFECTS,Adenosine Phosphosulfate,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0001468,C0043240,AFFECTS,Adenosine Phosphosulfate,Wound Healing,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0003320,C0005615,AFFECTS,Antigens,Birth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0003320,C0020966,AFFECTS,Antigens,Cellular Immunity,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0003320,C0042774,AFFECTS,Antigens,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0003320,C0301872,AFFECTS,Antigens,Immune response,bacs,orgf,6,AFFECTS_BACSafctORGF
+C0005390,C0012238,AFFECTS,Bile Acids,Digestion,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0005437,C0001811,AFFECTS,Bilirubin,Aging,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0006675,C0042774,AFFECTS,Calcium,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0007012,C0234194,AFFECTS,Carbon Dioxide,Nociception,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0007412,C0005823,AFFECTS,Catecholamines,Blood Pressure,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008013,C0301872,AFFECTS,Chemotactic Factors,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008260,C0025519,AFFECTS,Chlorophyll,Metabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008260,C0597252,AFFECTS,Chlorophyll,Plant Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008377,C0004614,AFFECTS,Cholesterol,Bacterial Adhesion,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008377,C0042774,AFFECTS,Cholesterol,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0008377,C0678723,AFFECTS,Cholesterol,Biologic Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0009968,C0014653,AFFECTS,Copper,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0010658,C0005615,AFFECTS,Cysteine Proteinase Inhibitors,Birth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0010737,C0012238,AFFECTS,Cytochalasin B,Digestion,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0010738,C0042774,AFFECTS,Cytochalasin D,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0012854,C0005615,AFFECTS,DNA,Birth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0012854,C0035150,AFFECTS,DNA,Reproduction,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0012854,C0301872,AFFECTS,DNA,Immune response,bacs,orgf,5,AFFECTS_BACSafctORGF
+C0012854,C0678723,AFFECTS,DNA,Biologic Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0012854,C1819432,AFFECTS,DNA,interferon-beta production,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0013982,C0678723,AFFECTS,Emodin,Biologic Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0013982,C1327413,AFFECTS,Emodin,cytokine production,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0015689,C0042774,AFFECTS,Omega-3 Fatty Acids,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0015691,C0025519,AFFECTS,"Fatty Acids, Volatile",Metabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0015691,C0301872,AFFECTS,"Fatty Acids, Volatile",Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0015691,C1155328,AFFECTS,"Fatty Acids, Volatile",Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0015691,C1510470,AFFECTS,"Fatty Acids, Volatile",Motility,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0015877,C0011065,AFFECTS,Ferriprotoporphyrin IX,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0017725,C0011065,AFFECTS,Glucose,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0017725,C0042774,AFFECTS,Glucose,Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0018284,C0019868,AFFECTS,Growth Factor,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018284,C0043240,AFFECTS,Growth Factor,Wound Healing,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018284,C0301872,AFFECTS,Growth Factor,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018909,C0000934,AFFECTS,Hemagglutinin,Acclimatization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018909,C0014653,AFFECTS,Hemagglutinin,Equilibrium,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0018909,C0026649,AFFECTS,Hemagglutinin,Movement,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018909,C1510470,AFFECTS,Hemagglutinin,Motility,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0018966,C0014653,AFFECTS,Heme,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0023545,C0301872,AFFECTS,Leukotrienes,Immune response,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0023545,C1155328,AFFECTS,Leukotrienes,Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0024467,C0005823,AFFECTS,Magnesium,Blood Pressure,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0024706,C0019868,AFFECTS,Manganese,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0026661,C0699900,AFFECTS,mRNA Precursor,Catabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0027303,C0014653,AFFECTS,NADP,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0028128,C0019868,AFFECTS,Nitric Oxide,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0030234,C0011065,AFFECTS,Palmitic Acid,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0030234,C0018270,AFFECTS,Palmitic Acid,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0030958,C1155328,AFFECTS,Peptidoglycan,Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0031516,C0035150,AFFECTS,Pheromone,Reproduction,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0031618,C0042774,AFFECTS,Phosphatidylethanolamines,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0031619,C0042774,AFFECTS,Phosphatidylglycerols,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0031621,C0678723,AFFECTS,Phosphatidylinositols,Biologic Development,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0031676,C0019868,AFFECTS,Phospholipids,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0031866,C0026559,AFFECTS,Phytosterols,Morphogenesis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0032136,C0005615,AFFECTS,Plasmids,Birth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0032136,C0011065,AFFECTS,Plasmids,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0032136,C0018270,AFFECTS,Plasmids,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0032403,C0042774,AFFECTS,Poly Adenosine Diphosphate Ribose,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0033554,C0019868,AFFECTS,Prostaglandins,Homeostasis,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0033554,C0301872,AFFECTS,Prostaglandins,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0033554,C1327413,AFFECTS,Prostaglandins,cytokine production,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0034085,C0005615,AFFECTS,Pulmonary Surfactants,Birth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0034085,C0301872,AFFECTS,Pulmonary Surfactants,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0034085,C1327413,AFFECTS,Pulmonary Surfactants,cytokine production,bacs,orgf,3,AFFECTS_BACSafctORGF
+C0034085,C1819464,AFFECTS,Pulmonary Surfactants,tumor necrosis factor production,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0034987,C1327413,AFFECTS,"Regulatory Sequences, Nucleic Acid",cytokine production,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035142,C0018270,AFFECTS,Replicon,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035142,C0042774,AFFECTS,Replicon,Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0035339,C0678889,AFFECTS,Retinoids,Immunoregulation,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035549,C0026559,AFFECTS,Ribose,Morphogenesis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035670,C0042774,AFFECTS,RNA Caps,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035670,C1155328,AFFECTS,RNA Caps,Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035682,C0678723,AFFECTS,RNA Precursors,Biologic Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035693,C0018270,AFFECTS,"RNA, Double-Stranded",Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035693,C0019868,AFFECTS,"RNA, Double-Stranded",Homeostasis,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0035693,C0042774,AFFECTS,"RNA, Double-Stranded",Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0035693,C0301872,AFFECTS,"RNA, Double-Stranded",Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035693,C1155328,AFFECTS,"RNA, Double-Stranded",Antiviral Response,bacs,orgf,6,AFFECTS_BACSafctORGF
+C0035693,C3824609,AFFECTS,"RNA, Double-Stranded",cellular response to virus,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035696,C0005615,AFFECTS,"RNA, Messenger",Birth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0035696,C0015914,AFFECTS,"RNA, Messenger",Fertilization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035696,C0025519,AFFECTS,"RNA, Messenger",Metabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035696,C0301872,AFFECTS,"RNA, Messenger",Immune response,bacs,orgf,3,AFFECTS_BACSafctORGF
+C0035696,C1654934,AFFECTS,"RNA, Messenger",Immune Evasion,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0035711,C0000934,AFFECTS,Transfer RNA,Acclimatization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0035711,C0026649,AFFECTS,Transfer RNA,Movement,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0036450,C0011065,AFFECTS,Scorpion Venoms,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0036965,C0043240,AFFECTS,Shikimic Acid,Wound Healing,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0037871,C0301872,AFFECTS,spermidine,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0037906,C0018270,AFFECTS,Sphingomyelins,Growth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0038071,C0301872,AFFECTS,Squalene,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0040077,C0018270,AFFECTS,Thymidine,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0040087,C0018270,AFFECTS,Thymine,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0040549,C0011065,AFFECTS,Toxin,Cessation of life,bacs,orgf,4,AFFECTS_BACSafctORGF
+C0040577,C0019868,AFFECTS,Trace Elements,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0043481,C0301872,AFFECTS,Zinc,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0056912,C0042774,AFFECTS,cytidylyl-3'-5'-guanosine,Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0065335,C0018270,AFFECTS,lycorine,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0067762,C0000934,AFFECTS,N-Acetylneuraminic Acid,Acclimatization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0070939,C0042774,AFFECTS,phosphoethanolamine,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0079925,C0699900,AFFECTS,Antisense Oligonucleotides,Catabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0086860,C0018270,AFFECTS,promoter,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0162772,C0019868,AFFECTS,Reactive Oxygen Species,Homeostasis,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0178555,C0018270,AFFECTS,chemical cofactor,Growth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0178555,C0301872,AFFECTS,chemical cofactor,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0302583,C0014653,AFFECTS,Iron,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0369335,C0042774,AFFECTS,Hepatitis C virus RNA,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0577749,C0001811,AFFECTS,Phytochemicals,Aging,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0597277,C0026649,AFFECTS,Potassium Ion,Movement,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0600493,C1510470,AFFECTS,5' Untranslated Regions,Motility,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0600680,C0014653,AFFECTS,Untranslated Regions,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0600680,C0018270,AFFECTS,Untranslated Regions,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0600680,C0042774,AFFECTS,Untranslated Regions,Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF
+C0751969,C0678723,AFFECTS,Small Nucleolar RNA,Biologic Development,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0813622,C0019868,AFFECTS,Hyaluronan,Homeostasis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C0815278,C0032961,AFFECTS,Neurosteroids,Pregnancy,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1099354,C0005615,AFFECTS,"RNA, Small Interfering",Birth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1099354,C0011065,AFFECTS,"RNA, Small Interfering",Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1099354,C0018270,AFFECTS,"RNA, Small Interfering",Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1099354,C0042767,AFFECTS,"RNA, Small Interfering",Virus Activation,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1099354,C0042774,AFFECTS,"RNA, Small Interfering",Virus Replication,bacs,orgf,4,AFFECTS_BACSafctORGF
+C1099354,C0301872,AFFECTS,"RNA, Small Interfering",Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1099354,C0678889,AFFECTS,"RNA, Small Interfering",Immunoregulation,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1099354,C0699900,AFFECTS,"RNA, Small Interfering",Catabolism,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1099354,C1160185,AFFECTS,"RNA, Small Interfering",transduction,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1101610,C0014653,AFFECTS,MicroRNAs,Equilibrium,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1101610,C0019868,AFFECTS,MicroRNAs,Homeostasis,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1101610,C0042774,AFFECTS,MicroRNAs,Virus Replication,bacs,orgf,16,AFFECTS_BACSafctORGF
+C1101610,C0301872,AFFECTS,MicroRNAs,Immune response,bacs,orgf,17,AFFECTS_BACSafctORGF
+C1101610,C0678889,AFFECTS,MicroRNAs,Immunoregulation,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1101610,C0699900,AFFECTS,MicroRNAs,Catabolism,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1101610,C1154988,AFFECTS,MicroRNAs,defense response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1101610,C1155328,AFFECTS,MicroRNAs,Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1101610,C1654934,AFFECTS,MicroRNAs,Immune Evasion,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1101610,C1752856,AFFECTS,MicroRNAs,Host-Pathogen Interactions,bacs,orgf,3,AFFECTS_BACSafctORGF
+C1101610,C3824609,AFFECTS,MicroRNAs,cellular response to virus,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1136170,C0004614,AFFECTS,Virulence Factors,Bacterial Adhesion,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1136170,C0011065,AFFECTS,Virulence Factors,Cessation of life,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1136170,C0042774,AFFECTS,Virulence Factors,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1257892,C0000934,AFFECTS,Genomic Islands,Acclimatization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1310768,C0301872,AFFECTS,EPs 7630,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1310768,C1327413,AFFECTS,EPs 7630,cytokine production,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1506352,C0042774,AFFECTS,silvestrol,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1507143,C0301872,AFFECTS,Vitamin D+Metabolites,Immune response,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1519315,C0018270,AFFECTS,Signaling Molecule,Growth,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1519315,C0025519,AFFECTS,Signaling Molecule,Metabolism,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1519315,C0042774,AFFECTS,Signaling Molecule,Virus Replication,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1519315,C0301872,AFFECTS,Signaling Molecule,Immune response,bacs,orgf,2,AFFECTS_BACSafctORGF
+C1566558,C0301872,AFFECTS,Natural Products,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1764827,C0000934,AFFECTS,Isolate - microorganism,Acclimatization,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1764827,C0018270,AFFECTS,Isolate - microorganism,Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1764827,C0301872,AFFECTS,Isolate - microorganism,Immune response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1764827,C1155328,AFFECTS,Isolate - microorganism,Antiviral Response,bacs,orgf,1,AFFECTS_BACSafctORGF
+C1764827,C1516559,AFFECTS,Isolate - microorganism,Circulatory Process,bacs,orgf,1,AFFECTS_BACSafctORGF
+C2936590,C0014653,AFFECTS,Riboswitch,Equilibrium,bacs,orgf,1,AFFECTS_BACSafctORGF
+C3494264,C0018270,AFFECTS,"RNA, Long Untranslated",Growth,bacs,orgf,1,AFFECTS_BACSafctORGF
+C3494264,C0301872,AFFECTS,"RNA, Long Untranslated",Immune response,bacs,orgf,3,AFFECTS_BACSafctORGF
+C3494264,C1621922,AFFECTS,"RNA, Long Untranslated",somatic embryogenesis,bacs,orgf,1,AFFECTS_BACSafctORGF
+C3494264,C1752856,AFFECTS,"RNA, Long Untranslated",Host-Pathogen Interactions,bacs,orgf,1,AFFECTS_BACSafctORGF
+C4079663,C0042774,AFFECTS,NVP018,Virus Replication,bacs,orgf,2,AFFECTS_BACSafctORGF

@@ -1,0 +1,4 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0014499,C0012652,ISA,Epidemic,Disease Outbreaks,phpr,phpr,173,ISA_PHPRisaPHPR
+C1615608,C0012652,ISA,Pandemics,Disease Outbreaks,phpr,phpr,105,ISA_PHPRisaPHPR
+C1615608,C0014499,ISA,Pandemics,Epidemic,phpr,phpr,25,ISA_PHPRisaPHPR

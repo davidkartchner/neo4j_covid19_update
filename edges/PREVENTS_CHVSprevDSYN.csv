@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0036140,C0032285,PREVENTS,Salts,Pneumonia,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0243072,C0023364,PREVENTS,derivatives,Leptospirosis,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0243072,C0679225,PREVENTS,derivatives,multiple pathologies,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0243072,C1264606,PREVENTS,derivatives,Persistent infection,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0243072,C3277428,PREVENTS,derivatives,Severe viral infections,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0596973,C0232197,PREVENTS,monomer,Fibrillation,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0597177,C0042769,PREVENTS,Particle,Virus Diseases,chvs,dsyn,2,PREVENTS_CHVSprevDSYN
+C0597177,C0276500,PREVENTS,Particle,Human immunodeficiency virus I infection,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C0597177,C1701940,PREVENTS,Particle,"Pneumonia, Ventilator-Associated",chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C1704241,C0030499,PREVENTS,complex (molecular entity),Parasitic Diseases,chvs,dsyn,1,PREVENTS_CHVSprevDSYN
+C2715259,C0030499,PREVENTS,biochar,Parasitic Diseases,chvs,dsyn,1,PREVENTS_CHVSprevDSYN

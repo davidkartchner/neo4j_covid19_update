@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0392171,PREVENTS,Acetaminophen,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0008281,C0392171,PREVENTS,Chlorpheniramine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0008809,C0011991,PREVENTS,Ciprofloxacin,Diarrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0017696,C1260880,PREVENTS,Glucans,Rhinorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0025605,C0030193,PREVENTS,Methadone,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0025853,C0042963,PREVENTS,Metoclopramide,Vomiting,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0031469,C0392171,PREVENTS,Phenylephrine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0032857,C0392171,PREVENTS,Povidone-Iodine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0061751,C0231818,PREVENTS,Glycyrrhizic Acid,Airway constriction,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0061851,C0015672,PREVENTS,Ondansetron,Fatigue,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0067067,C0751214,PREVENTS,myricetin,"Hyperalgesia, Thermal",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0067067,C2936719,PREVENTS,myricetin,Mechanical Allodynia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0076799,C0030201,PREVENTS,tolfenamic acid,"Pain, Postoperative",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0246631,C0030193,PREVENTS,remifentanil,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0949665,C0011991,PREVENTS,Fluoroquinolones,Diarrhea,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C1119918,C0392171,PREVENTS,Ginseng Preparation,Influenza-like symptoms,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C1871004,C0042963,PREVENTS,maropitant,Vomiting,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2825257,C0030201,PREVENTS,robenacoxib,"Pain, Postoperative",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2926735,C0011991,PREVENTS,Duration,Diarrhea,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C2926735,C0030193,PREVENTS,Duration,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2926735,C1260880,PREVENTS,Duration,Rhinorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY

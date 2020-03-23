@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017350,C0220781,AFFECTS,"Genes, Immunoglobulin",Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0017366,C0042765,AFFECTS,Structural gene,Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0017376,C0042765,AFFECTS,"Genes, Viral",Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0017429,C0042765,AFFECTS,"Genome, Human",Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0017429,C3853734,AFFECTS,"Genome, Human",viral process,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0042720,C0042765,AFFECTS,Viral Genome,Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0042720,C0220781,AFFECTS,Viral Genome,Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0079941,C0042765,AFFECTS,Open Reading Frames,Virulence,gngm,biof,2,AFFECTS_GNGMafctBIOF
+C0079941,C1160638,AFFECTS,Open Reading Frames,Viral life cycle,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0314606,C0042765,AFFECTS,Operon gene,Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0314610,C3714634,AFFECTS,Animal genome,Biological Processes,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0600449,C1160638,AFFECTS,"Genes, Essential",Viral life cycle,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C0678933,C0042765,AFFECTS,Genetic Loci,Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1328027,C0220781,AFFECTS,SULT gene,Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1332838,C3714634,AFFECTS,Candidate Disease Gene,Biological Processes,gngm,biof,3,AFFECTS_GNGMafctBIOF
+C1334043,C0042765,AFFECTS,Homologous Gene,Virulence,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1334043,C0220781,AFFECTS,Homologous Gene,Anabolism,gngm,biof,3,AFFECTS_GNGMafctBIOF
+C1334043,C1659461,AFFECTS,Homologous Gene,endoplasmic reticulum localization,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1413969,C3714634,AFFECTS,DECR1 gene,Biological Processes,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1414358,C0220781,AFFECTS,EIF4G3 gene,Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1418477,C0220781,AFFECTS,PEX3 gene,Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1424617,C0220781,AFFECTS,PSMD14 gene,Anabolism,gngm,biof,1,AFFECTS_GNGMafctBIOF
+C1428584,C0013203,AFFECTS,SLC16A14 gene,Drug resistance,gngm,biof,1,AFFECTS_GNGMafctBIOF

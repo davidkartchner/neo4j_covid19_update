@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0007620,NEG_AFFECTS,Autophagy,Cell Survival,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C0004391,C2244223,NEG_AFFECTS,Autophagy,cellular homeostasis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007581,C0004391,NEG_AFFECTS,Cellular Senescence,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007590,C0007620,NEG_AFFECTS,Cell division,Cell Survival,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0007590,C0162638,NEG_AFFECTS,Cell division,Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0014139,C0206431,NEG_AFFECTS,Endocytosis,Antigen Presentation,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C0037083,NEG_AFFECTS,Apoptosis,Signal Transduction,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C0162638,C0596290,NEG_AFFECTS,Apoptosis,Cell Proliferation,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0162638,C1155873,NEG_AFFECTS,Apoptosis,Cell Cycle Arrest,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0206431,C2244223,NEG_AFFECTS,Antigen Presentation,cellular homeostasis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C0872097,C0004391,NEG_AFFECTS,Anoikis,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1155342,C0162638,NEG_AFFECTS,cellular response to unfolded protein,Apoptosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C1155873,C0007586,NEG_AFFECTS,Cell Cycle Arrest,Cell Cycle,celf,celf,2,NEG_AFFECTS_CELFnafctCELF
+C1155876,C1155748,NEG_AFFECTS,DNA replication checkpoint,Mitotic Checkpoints,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C2610958,C0004391,NEG_AFFECTS,necroptotic process,Autophagy,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C3156642,C0014139,NEG_AFFECTS,clathrin-dependent endocytosis,Endocytosis,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C3546309,C1327414,NEG_AFFECTS,activation-induced cell death,cytokine secretion,celf,celf,1,NEG_AFFECTS_CELFnafctCELF
+C3548830,C0596290,NEG_AFFECTS,trophoblast cell migration,Cell Proliferation,celf,celf,1,NEG_AFFECTS_CELFnafctCELF

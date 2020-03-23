@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003241,NEG_STIMULATES,Immunologic Adjuvants,Antibodies,imft,aapp,2,NEG_STIMULATES_IMFTnstimAAPP
+C0001551,C1624602,NEG_STIMULATES,Immunologic Adjuvants,Anti-Antibodies,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0003316,C0475463,NEG_STIMULATES,Epitopes,"Antibodies, Neutralizing",imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0032375,C0475463,NEG_STIMULATES,Oral Poliovirus Vaccine,"Antibodies, Neutralizing",imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0037355,C1624602,NEG_STIMULATES,Smallpox Vaccine,Anti-Antibodies,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0042210,C0003241,NEG_STIMULATES,Vaccines,Antibodies,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0042210,C0443640,NEG_STIMULATES,Vaccines,Specific antibody,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0042210,C0475463,NEG_STIMULATES,Vaccines,"Antibodies, Neutralizing",imft,aapp,2,NEG_STIMULATES_IMFTnstimAAPP
+C0042210,C2936529,NEG_STIMULATES,Vaccines,Inflammasomes,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0042212,C0003241,NEG_STIMULATES,"Vaccines, Inactivated",Antibodies,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C0079600,C0475463,NEG_STIMULATES,Immunodominant Epitopes,"Antibodies, Neutralizing",imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C1291802,C0017968,NEG_STIMULATES,"Human immunodeficiency virus, type I glycoprotein antigen 120",Glycoproteins,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C2825347,C0009498,NEG_STIMULATES,"Immunoglobulin A, Human",Complement System Proteins,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP
+C2825347,C3476459,NEG_STIMULATES,"Immunoglobulin A, Human",Rotavirus IgA,imft,aapp,1,NEG_STIMULATES_IMFTnstimAAPP

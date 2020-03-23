@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0018894,STIMULATES,Immunologic Adjuvants,Helper-Inducer T-Lymphocyte,imft,cell,1,STIMULATES_IMFTstimCELL
+C0001551,C0039195,STIMULATES,Immunologic Adjuvants,Cytotoxic T-Lymphocytes,imft,cell,1,STIMULATES_IMFTstimCELL
+C0041361,C0039195,STIMULATES,Tumor Antigens,Cytotoxic T-Lymphocytes,imft,cell,1,STIMULATES_IMFTstimCELL
+C0041361,C3641721,STIMULATES,Tumor Antigens,Naive T-Lymphocyte,imft,cell,1,STIMULATES_IMFTstimCELL
+C0600412,C0018894,STIMULATES,Nucleic Acid Vaccines,Helper-Inducer T-Lymphocyte,imft,cell,1,STIMULATES_IMFTstimCELL
+C1441094,C0039194,STIMULATES,PM-1,T-Lymphocyte,imft,cell,2,STIMULATES_IMFTstimCELL
+C1552907,C0004561,STIMULATES,Adenovirus Vaccine,B-Lymphocytes,imft,cell,2,STIMULATES_IMFTstimCELL
+C1552907,C0039194,STIMULATES,Adenovirus Vaccine,T-Lymphocyte,imft,cell,1,STIMULATES_IMFTstimCELL

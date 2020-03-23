@@ -1,0 +1,106 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002520,C1478824,PREVENTS,Amino Acids,Human coronavirus NL63,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0001483,PREVENTS,Antibodies,Adenoviruses,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0013480,PREVENTS,Antibodies,Ebola virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0019682,PREVENTS,Antibodies,HIV,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0027984,PREVENTS,Antibodies,Newcastle disease virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0029341,PREVENTS,Antibodies,Orthomyxoviridae,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0003241,C0035236,PREVENTS,Antibodies,Respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0035691,PREVENTS,Antibodies,RNA Viruses,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0042776,PREVENTS,Antibodies,Virus,aapp,virs,9,PREVENTS_AAPPprevVIRS
+C0003241,C0043125,PREVENTS,Antibodies,West Nile virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0003241,C0085150,PREVENTS,Antibodies,Filoviridae,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C0206545,PREVENTS,Antibodies,Human respiratory syncytial virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0003241,C0318855,PREVENTS,Antibodies,Porcine epidemic diarrhea virus,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0003241,C0949892,PREVENTS,Antibodies,Ebolavirus,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0003241,C1175743,PREVENTS,Antibodies,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003241,C1516962,PREVENTS,Antibodies,Escape Mutant,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0003241,C3698360,PREVENTS,Antibodies,Middle East Respiratory Syndrome Coronavirus,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0003242,C0019682,PREVENTS,"Antibodies, Anti-Idiotypic",HIV,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C0035236,PREVENTS,Monoclonal Antibodies,Respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C0042776,PREVENTS,Monoclonal Antibodies,Virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0003250,C0085294,PREVENTS,Monoclonal Antibodies,Hepatitis E virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C0206419,PREVENTS,Monoclonal Antibodies,Genus: Coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C0206545,PREVENTS,Monoclonal Antibodies,Human respiratory syncytial virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0003250,C0598902,PREVENTS,Monoclonal Antibodies,murine nodule inducing virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C0949892,PREVENTS,Monoclonal Antibodies,Ebolavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C1175743,PREVENTS,Monoclonal Antibodies,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0003250,C3698360,PREVENTS,Monoclonal Antibodies,Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0009498,C0042776,PREVENTS,Complement System Proteins,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0009498,C0043125,PREVENTS,Complement System Proteins,West Nile virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0015980,C0043125,PREVENTS,Interferon-beta,West Nile virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020838,C0029341,PREVENTS,Secretory Immunoglobulin A,Orthomyxoviridae,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020838,C0318855,PREVENTS,Secretory Immunoglobulin A,Porcine epidemic diarrhea virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0020838,C3698360,PREVENTS,Secretory Immunoglobulin A,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020857,C0206545,PREVENTS,IgG2A,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020960,C0042776,PREVENTS,Immune Sera,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020960,C0085294,PREVENTS,Immune Sera,Hepatitis E virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0020960,C0598902,PREVENTS,Immune Sera,murine nodule inducing virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021743,C0042776,PREVENTS,Interferon Type I,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021743,C0949892,PREVENTS,Interferon Type I,Ebolavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021743,C1623048,PREVENTS,Interferon Type I,Vesicular stomatitis virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021747,C0029347,PREVENTS,Interferons,Influenza A virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0021747,C1175743,PREVENTS,Interferons,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021747,C3698360,PREVENTS,Interferons,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0021760,C0029347,PREVENTS,Interleukin-6,Influenza A virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0025252,C1175743,PREVENTS,Membrane Proteins,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0034793,C1175743,PREVENTS,Complement Receptor,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0040005,C0042776,PREVENTS,Threonine,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0051979,C0206545,PREVENTS,anti-IgG,Human respiratory syncytial virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0057256,C0019682,PREVENTS,Defensins,HIV,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0079189,C0042776,PREVENTS,cytokine,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0079460,C0029341,PREVENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Orthomyxoviridae,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0084178,C0029347,PREVENTS,prohibitin,Influenza A virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0085295,C0014047,PREVENTS,Interleukin-10,Japanese encephalitis virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0085297,C1258014,PREVENTS,"Immunoglobulins, Intravenous",Human Metapneumovirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0282554,C0029341,PREVENTS,chemokine,Orthomyxoviridae,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0282554,C0206545,PREVENTS,chemokine,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0282682,C0011315,PREVENTS,"Antibodies, Blocking",Dengue Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0282682,C0013480,PREVENTS,"Antibodies, Blocking",Ebola virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0305052,C0019169,PREVENTS,Gamma globulin serum,Hepatitis B Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0305052,C0042776,PREVENTS,Gamma globulin serum,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0312586,C0085294,PREVENTS,Polyclonal antibody,Hepatitis E virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0312586,C0751673,PREVENTS,Polyclonal antibody,Nipah Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0359168,C0008056,PREVENTS,Mouse monoclonal antibody,Chikungunya virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0359168,C0751673,PREVENTS,Mouse monoclonal antibody,Nipah Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0388014,C0035236,PREVENTS,Respigam,Respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0388014,C0206545,PREVENTS,Respigam,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0443640,C0318855,PREVENTS,Specific antibody,Porcine epidemic diarrhea virus,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0443640,C0751673,PREVENTS,Specific antibody,Nipah Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0008056,PREVENTS,"Antibodies, Neutralizing",Chikungunya virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0019682,PREVENTS,"Antibodies, Neutralizing",HIV,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0029341,PREVENTS,"Antibodies, Neutralizing",Orthomyxoviridae,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0475463,C0042776,PREVENTS,"Antibodies, Neutralizing",Virus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0475463,C0206545,PREVENTS,"Antibodies, Neutralizing",Human respiratory syncytial virus,aapp,virs,4,PREVENTS_AAPPprevVIRS
+C0475463,C0318759,PREVENTS,"Antibodies, Neutralizing","Dengue virus, type 2",aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0318855,PREVENTS,"Antibodies, Neutralizing",Porcine epidemic diarrhea virus,aapp,virs,3,PREVENTS_AAPPprevVIRS
+C0475463,C0376536,PREVENTS,"Antibodies, Neutralizing",Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0597404,PREVENTS,"Antibodies, Neutralizing",Respiratory viruses,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C0598902,PREVENTS,"Antibodies, Neutralizing",murine nodule inducing virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C1175743,PREVENTS,"Antibodies, Neutralizing",SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0475463,C3698360,PREVENTS,"Antibodies, Neutralizing",Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C0597357,C1175743,PREVENTS,receptor,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0664874,C0042776,PREVENTS,cyanovirin N,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0670896,C1175743,PREVENTS,Toll-like receptors,SARS coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0672596,C0035236,PREVENTS,palivizumab,Respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0672596,C0206545,PREVENTS,palivizumab,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0717670,C0042776,PREVENTS,denileukin diftitox,Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0729663,C0206545,PREVENTS,Maternal antibody,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0729663,C0318855,PREVENTS,Maternal antibody,Porcine epidemic diarrhea virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0882674,C0004419,PREVENTS,Infectious bronchitis virus Ab,Infectious bronchitis virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C0883443,C0001753,PREVENTS,African swine fever virus Ab,African Swine Fever Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1097299,C0004422,PREVENTS,"CD44 protein, human",Avian leukosis virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1176244,C0004420,PREVENTS,"DARC protein, human","Herpesvirus 1, Gallid",aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1176244,C0027984,PREVENTS,"DARC protein, human",Newcastle disease virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1415898,C0029341,PREVENTS,IFITM3 gene,Orthomyxoviridae,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C1624602,C0004651,PREVENTS,Anti-Antibodies,Bacteriophages,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1624602,C0008056,PREVENTS,Anti-Antibodies,Chikungunya virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C1701790,C0029341,PREVENTS,"IL17A protein, human",Orthomyxoviridae,aapp,virs,2,PREVENTS_AAPPprevVIRS
+C2350739,C0206545,PREVENTS,rupintrivir,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2744535,C0017161,PREVENTS,"CD69 protein, human",Transmissible gastroenteritis virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2744535,C0042776,PREVENTS,"CD69 protein, human",Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2744535,C0205725,PREVENTS,"CD69 protein, human",Human Herpesvirus 5 species,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2744535,C0949945,PREVENTS,"CD69 protein, human",Foot-and-Mouth Disease Virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2744535,C3698360,PREVENTS,"CD69 protein, human",Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C2945724,C0206545,PREVENTS,f-protein,Human respiratory syncytial virus,aapp,virs,1,PREVENTS_AAPPprevVIRS
+C3891304,C0042216,PREVENTS,"Cathelicidin LL-37, human",Vaccinia virus,aapp,virs,1,PREVENTS_AAPPprevVIRS

@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0004630,INHIBITS,Antibiotics,Bacterial Toxins,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0003234,C0012854,INHIBITS,Anthracycline Antibiotics,DNA,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0003240,C1136170,INHIBITS,Macrolide Antibiotics,Virulence Factors,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0013089,C0035696,INHIBITS,Doxorubicin,"RNA, Messenger",antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0026933,C0012854,INHIBITS,Mycophenolic Acid,DNA,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0026933,C0028606,INHIBITS,Mycophenolic Acid,Nucleic Acids,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0054036,C0037906,INHIBITS,Brefeldin A,Sphingomyelins,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0072980,C1764827,INHIBITS,Sirolimus,Isolate - microorganism,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0310367,C0003320,INHIBITS,Today,Antigens,antb,bacs,1,INHIBITS_ANTBinhbBACS
+C0614427,C0037494,INHIBITS,NS 5,Sodium Chloride,antb,bacs,1,INHIBITS_ANTBinhbBACS

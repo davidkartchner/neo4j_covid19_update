@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0021485,C0021485,LOWER_THAN,Injection of therapeutic agent,Injection of therapeutic agent,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0023911,C0023911,LOWER_THAN,Transplantation of liver,Transplantation of liver,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0038638,C0038638,LOWER_THAN,Suction drainage,Suction drainage,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0042196,C0042196,LOWER_THAN,Vaccination,Vaccination,topp,topp,2,LOWER_THAN_TOPPlowtTOPP
+C0042200,C0042196,LOWER_THAN,Influenza vaccination,Vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0042203,C0042203,LOWER_THAN,Pertussis vaccination,Pertussis vaccination,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0452269,C0040732,LOWER_THAN,Protein diet,Transplantation,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0459914,C0206074,LOWER_THAN,Conservative Treatment,Renal Replacement Therapy,topp,topp,1,LOWER_THAN_TOPPlowtTOPP
+C0741847,C0741847,LOWER_THAN,Bypass,Bypass,topp,topp,1,LOWER_THAN_TOPPlowtTOPP

@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005615,C0014139,PRECEDES,Birth,Endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0598953,PRECEDES,Birth,retrograde transport,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1155003,PRECEDES,Birth,B-Cell Activation,orgf,celf,2,PRECEDES_ORGFprcdCELF
+C0005615,C1155229,PRECEDES,Birth,Humoral immune response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0011065,C1160716,PRECEDES,Cessation of life,viral transmission,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0042774,C0007587,PRECEDES,Virus Replication,Cell Death,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0678723,C0162638,PRECEDES,Biologic Development,Apoptosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0678723,C1159342,PRECEDES,Biologic Development,Secretory Pathway,orgf,celf,1,PRECEDES_ORGFprcdCELF

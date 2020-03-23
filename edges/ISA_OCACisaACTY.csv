@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001554,C1708476,ISA,Administration occupational activities,Implementation,ocac,acty,2,ISA_OCACisaACTY
+C0010992,C1708476,ISA,Data Analysis,Implementation,ocac,acty,1,ISA_OCACisaACTY
+C0021267,C1708476,ISA,Industry,Implementation,ocac,acty,1,ISA_OCACisaACTY
+C0021267,C3266814,ISA,Industry,Action,ocac,acty,3,ISA_OCACisaACTY
+C0031249,C3266814,ISA,Pest Control,Action,ocac,acty,1,ISA_OCACisaACTY
+C0033414,C3266814,ISA,Promotion (action),Action,ocac,acty,1,ISA_OCACisaACTY
+C0043227,C0441655,ISA,Work,Activities,ocac,acty,1,ISA_OCACisaACTY
+C0043227,C3266814,ISA,Work,Action,ocac,acty,2,ISA_OCACisaACTY
+C4042871,C0441655,ISA,Hydraulic Fracking,Activities,ocac,acty,1,ISA_OCACisaACTY

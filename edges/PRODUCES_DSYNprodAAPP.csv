@@ -1,0 +1,259 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001126,C0030946,PRODUCES,Renal tubular acidosis,Endopeptidases,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0001126,C1447045,PRODUCES,Renal tubular acidosis,"EGR1 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0003175,C0020960,PRODUCES,Anthrax disease,Immune Sera,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0003850,C0021755,PRODUCES,Arteriosclerosis,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0003864,C0004358,PRODUCES,Arthritis,Autoantibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0004096,C0021755,PRODUCES,Asthma,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0004610,C0021027,PRODUCES,Bacteremia,Immunoglobulins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0004610,C2945614,PRODUCES,Bacteremia,lactamase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0004623,C0016955,PRODUCES,Bacterial Infections,Galactosidase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0004623,C0021743,PRODUCES,Bacterial Infections,Interferon Type I,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0007222,C0079189,PRODUCES,Cardiovascular Diseases,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0007570,C0003241,PRODUCES,Celiac Disease,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0007570,C0767393,PRODUCES,Celiac Disease,TALL-1 protein,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0008049,C0003241,PRODUCES,Chickenpox,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0008055,C0015980,PRODUCES,Chikungunya Fever,Interferon-beta,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0008055,C1449159,PRODUCES,Chikungunya Fever,"CCL2 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0008312,C1624602,PRODUCES,Primary biliary cirrhosis,Anti-Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0008354,C0020960,PRODUCES,Cholera,Immune Sera,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0009450,C0003250,PRODUCES,Communicable Diseases,Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0009450,C1335439,PRODUCES,Communicable Diseases,Polymerase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0010823,C0002199,PRODUCES,Cytomegalovirus Infections,Interferon-alpha,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0010823,C0015980,PRODUCES,Cytomegalovirus Infections,Interferon-beta,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0011175,C0040005,PRODUCES,Dehydration,Threonine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0011175,C0042413,PRODUCES,Dehydration,Vasopressins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0011847,C0021755,PRODUCES,Diabetes,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0012546,C0012550,PRODUCES,Diphtheria,Diphtheria Toxin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0012546,C0072544,PRODUCES,Diphtheria,"toxA protein, Pseudomonas aeruginosa",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C0017279,PRODUCES,"Ecthyma, Contagious","Gene Products, gag",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C0020960,PRODUCES,"Ecthyma, Contagious",Immune Sera,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C0025252,PRODUCES,"Ecthyma, Contagious",Membrane Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C0032583,PRODUCES,"Ecthyma, Contagious",Polyproteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C0042736,PRODUCES,"Ecthyma, Contagious",Viral Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C1415188,PRODUCES,"Ecthyma, Contagious",GP2 gene,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0013570,C4048280,PRODUCES,"Ecthyma, Contagious","T-Cell Surface Glycoprotein CD4, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0014457,C3891560,PRODUCES,Eosinophilia,Alarmins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0015403,C0021756,PRODUCES,Eye Infections,Interleukin-2,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0015403,C0021758,PRODUCES,Eye Infections,Interleukin-4,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0015403,C0123759,PRODUCES,Eye Infections,Interleukin-12,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0015403,C1099914,PRODUCES,Eye Infections,"IL12B protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0015403,C1121403,PRODUCES,Eye Infections,Interleukin-12 Subunit p35,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0016627,C0015980,PRODUCES,Influenza in Birds,Interferon-beta,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0016627,C0079189,PRODUCES,Influenza in Birds,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0016627,C0475463,PRODUCES,Influenza in Birds,"Antibodies, Neutralizing",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0016627,C1448177,PRODUCES,Influenza in Birds,"TNF protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0017658,C0003241,PRODUCES,Glomerulonephritis,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018099,C0021755,PRODUCES,Gout,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018378,C0042666,PRODUCES,Guillain-Barre Syndrome,Vimentin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018889,C0021758,PRODUCES,Helminthiasis,Interleukin-4,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018889,C0079189,PRODUCES,Helminthiasis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018889,C0085295,PRODUCES,Helminthiasis,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0018889,C4083144,PRODUCES,Helminthiasis,"X-Box Binding Protein 1, Human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019101,C0079189,PRODUCES,Hemorrhagic Fever with Renal Syndrome,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019159,C0079189,PRODUCES,Hepatitis A,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019159,C1310468,PRODUCES,Hepatitis A,"DDX58 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019189,C0085295,PRODUCES,"Hepatitis, Chronic",Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019243,C0006100,PRODUCES,"Angioedemas, Hereditary",Bradykinin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019243,C0009500,PRODUCES,"Angioedemas, Hereditary",Complement C1 Inactivator Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019348,C0042736,PRODUCES,Herpes Simplex Infections,Viral Proteins,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0019348,C0123759,PRODUCES,Herpes Simplex Infections,Interleukin-12,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019348,C1099914,PRODUCES,Herpes Simplex Infections,"IL12B protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019348,C1121403,PRODUCES,Herpes Simplex Infections,Interleukin-12 Subunit p35,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019693,C0003241,PRODUCES,HIV Infections,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019693,C0017279,PRODUCES,HIV Infections,"Gene Products, gag",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019693,C0065011,PRODUCES,HIV Infections,link protein,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019693,C0079189,PRODUCES,HIV Infections,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0019693,C1336776,PRODUCES,HIV Infections,Transcription Coactivator,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0020538,C0022709,PRODUCES,Hypertensive disease,Peptidyl-Dipeptidase A,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0020655,C0010132,PRODUCES,Hypothalamic Diseases,Corticotropin-Releasing Hormone,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0021400,C0003241,PRODUCES,Influenza,Antibodies,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0021400,C0024075,PRODUCES,Influenza,Luciferases,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0021400,C0027803,PRODUCES,Influenza,Neuraminidase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0021400,C0311727,PRODUCES,Influenza,"Luciferases, Firefly",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0021400,C0597979,PRODUCES,Influenza,beta-Lactamase,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0021400,C2945614,PRODUCES,Influenza,lactamase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0022521,C0003241,PRODUCES,Kartagener Syndrome,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0022521,C0475463,PRODUCES,Kartagener Syndrome,"Antibodies, Neutralizing",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0022568,C0079189,PRODUCES,Keratitis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0023092,C0017968,PRODUCES,Lassa Fever,Glycoproteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0023281,C0079189,PRODUCES,Leishmaniasis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024440,C0021760,PRODUCES,"Macular Edema, Cystoid",Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024440,C0079189,PRODUCES,"Macular Edema, Cystoid",cytokine,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0024440,C0079633,PRODUCES,"Macular Edema, Cystoid",Interleukin-8,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0024440,C0085295,PRODUCES,"Macular Edema, Cystoid",Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024440,C0123759,PRODUCES,"Macular Edema, Cystoid",Interleukin-12,dsyn,aapp,9,PRODUCES_DSYNprodAAPP
+C0024440,C1099914,PRODUCES,"Macular Edema, Cystoid","IL12B protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024440,C1448177,PRODUCES,"Macular Edema, Cystoid","TNF protein, human",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0024440,C1522712,PRODUCES,"Macular Edema, Cystoid",Recombinant Interferon-alpha Inducible Protein 10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024440,C2350701,PRODUCES,"Macular Edema, Cystoid",Macrophage Inflammatory Protein-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024530,C0021758,PRODUCES,Malaria,Interleukin-4,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024530,C0085295,PRODUCES,Malaria,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024796,C0021760,PRODUCES,Marfan Syndrome,Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0024897,C0378910,PRODUCES,Mastocytoma,Lymphocyte antigen CD66A,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0025289,C0021760,PRODUCES,Meningitis,Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0025289,C0079189,PRODUCES,Meningitis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0025289,C0079633,PRODUCES,Meningitis,Interleukin-8,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0025303,C0085295,PRODUCES,Meningococcal Infections,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0026769,C0079189,PRODUCES,Multiple Sclerosis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0026769,C1256770,PRODUCES,Multiple Sclerosis,Vascular Endothelial Growth Factors,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0028754,C1955907,PRODUCES,Obesity,Adipokines,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0030499,C0282554,PRODUCES,Parasitic Diseases,chemokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0032027,C0003250,PRODUCES,Pityriasis Rubra Pilaris,Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0032285,C0026682,PRODUCES,Pneumonia,Mucins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0032285,C0071313,PRODUCES,Pneumonia,"plY protein, Streptococcus pneumoniae",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0032285,C0597979,PRODUCES,Pneumonia,beta-Lactamase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0032914,C1955907,PRODUCES,Pre-Eclampsia,Adipokines,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C0019629,PRODUCES,Atrial Premature Complexes,Histocompatibility Antigens Class I,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C0021017,PRODUCES,Atrial Premature Complexes,Immunoglobulin Isotypes,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C0023206,PRODUCES,Atrial Premature Complexes,Lectin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C0079189,PRODUCES,Atrial Premature Complexes,cytokine,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0033036,C0123759,PRODUCES,Atrial Premature Complexes,Interleukin-12,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C0358321,PRODUCES,Atrial Premature Complexes,Immune Globulin (Human),dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0033036,C4048302,PRODUCES,Atrial Premature Complexes,"T-Lymphocyte Activation Antigen CD80, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0034069,C0021755,PRODUCES,Pulmonary Fibrosis,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035222,C0021755,PRODUCES,"Respiratory Distress Syndrome, Adult",Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035222,C0079189,PRODUCES,"Respiratory Distress Syndrome, Adult",cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035222,C0960880,PRODUCES,"Respiratory Distress Syndrome, Adult",angiotensin converting enzyme 2,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035235,C0079189,PRODUCES,Respiratory Syncytial Virus Infections,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035235,C0282554,PRODUCES,Respiratory Syncytial Virus Infections,chemokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035235,C1333877,PRODUCES,Respiratory Syncytial Virus Infections,Granzymes,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035235,C3540595,PRODUCES,Respiratory Syncytial Virus Infections,CD8A wt Allele,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035243,C0079189,PRODUCES,Respiratory Tract Infections,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035243,C0282554,PRODUCES,Respiratory Tract Infections,chemokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035435,C0282554,PRODUCES,Rheumatism,chemokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035869,C1310468,PRODUCES,Rotavirus Infections,"DDX58 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0035869,C1421554,PRODUCES,Rotavirus Infections,YME1L1 gene,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0036690,C0008864,PRODUCES,Septicemia,Citrulline,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0036690,C0021740,PRODUCES,Septicemia,Recombinant Interferon-gamma,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0036690,C0021755,PRODUCES,Septicemia,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0036690,C0021760,PRODUCES,Septicemia,Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0036690,C0246081,PRODUCES,Septicemia,carbapenemase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0041296,C0079189,PRODUCES,Tuberculosis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0041466,C0020960,PRODUCES,Typhoid Fever,Immune Sera,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042214,C0025252,PRODUCES,Vaccinia,Membrane Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042214,C0086376,PRODUCES,Vaccinia,GTP-Binding Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042214,C0700271,PRODUCES,Vaccinia,"M Protein, multiple myeloma",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0042749,C0003241,PRODUCES,Viremia,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042749,C0079189,PRODUCES,Viremia,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042749,C0475463,PRODUCES,Viremia,"Antibodies, Neutralizing",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0042769,C0003241,PRODUCES,Virus Diseases,Antibodies,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0042769,C0003248,PRODUCES,Virus Diseases,Heterophile Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0015980,PRODUCES,Virus Diseases,Interferon-beta,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0021743,PRODUCES,Virus Diseases,Interferon Type I,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0042769,C0021747,PRODUCES,Virus Diseases,Interferons,dsyn,aapp,5,PRODUCES_DSYNprodAAPP
+C0042769,C0034848,PRODUCES,Virus Diseases,"Receptors, Virus",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0042736,PRODUCES,Virus Diseases,Viral Proteins,dsyn,aapp,3,PRODUCES_DSYNprodAAPP
+C0042769,C0055817,PRODUCES,Virus Diseases,citrate carrier,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0070410,PRODUCES,Virus Diseases,perforin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0076628,PRODUCES,Virus Diseases,thymus-leukemia antigens,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0079189,PRODUCES,Virus Diseases,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0079633,PRODUCES,Virus Diseases,Interleukin-8,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0162768,PRODUCES,Virus Diseases,Fusion protein,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C0282682,PRODUCES,Virus Diseases,"Antibodies, Blocking",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C1333877,PRODUCES,Virus Diseases,Granzymes,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0042769,C1527233,PRODUCES,Virus Diseases,Recombinant Immune Globulin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0043124,C0040691,PRODUCES,West Nile Fever,Transforming Growth Factors,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0043124,C0079189,PRODUCES,West Nile Fever,cytokine,dsyn,aapp,3,PRODUCES_DSYNprodAAPP
+C0151317,C0475463,PRODUCES,Chronic infectious disease,"Antibodies, Neutralizing",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0153252,C0003250,PRODUCES,Systemic candidiasis,Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0205721,C0003250,PRODUCES,"Infections, Hospital",Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0206750,C0032583,PRODUCES,Coronavirus Infections,Polyproteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0206750,C0042736,PRODUCES,Coronavirus Infections,Viral Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0206750,C0079189,PRODUCES,Coronavirus Infections,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0206750,C0282553,PRODUCES,Coronavirus Infections,CXC Chemokines,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0206750,C0582263,PRODUCES,Coronavirus Infections,Structural protein,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0242966,C0008864,PRODUCES,Systemic Inflammatory Response Syndrome,Citrulline,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0243026,C0085295,PRODUCES,Sepsis,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0263361,C0383327,PRODUCES,Psoriasis vulgaris,Interleukin-18,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0265268,C0079259,PRODUCES,Adams Oliver syndrome,Dystrophin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0265294,C0002529,PRODUCES,Pyle metaphyseal dysplasia,Amino Acyl-tRNA Synthetases,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0267446,C0003241,PRODUCES,Acute gastroenteritis,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0267446,C0063355,PRODUCES,Acute gastroenteritis,IgY,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0268314,C0028954,PRODUCES,"Cholestasis-edema syndrome, Norwegian type",Oligopeptides,dsyn,aapp,3,PRODUCES_DSYNprodAAPP
+C0270724,C0019683,PRODUCES,Infantile Neuroaxonal Dystrophy,HIV Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0275518,C0003242,PRODUCES,Acute infectious disease,"Antibodies, Anti-Idiotypic",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0275518,C0085295,PRODUCES,Acute infectious disease,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0275524,C0021755,PRODUCES,Coinfection,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0275524,C0042731,PRODUCES,Coinfection,Viral Matrix Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0275524,C0123759,PRODUCES,Coinfection,Interleukin-12,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276289,C0079189,PRODUCES,Zika Virus Infection,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276311,C0003241,PRODUCES,Bovine viral diarrhea,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276446,C0002199,PRODUCES,Murine encephalomyelitis,Interferon-alpha,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276447,C0079904,PRODUCES,Rhinovirus infection,NF-kappa B,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276500,C0024075,PRODUCES,Human immunodeficiency virus I infection,Luciferases,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276500,C0282552,PRODUCES,Human immunodeficiency virus I infection,beta-Chemokines,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0276500,C0699919,PRODUCES,Human immunodeficiency virus I infection,Cathepsins B,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0276500,C1701084,PRODUCES,Human immunodeficiency virus I infection,"CD9 protein, human",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0339968,C0079189,PRODUCES,Neonatal pneumonia,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0342500,C0079189,PRODUCES,Adrenal mass,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0376538,C0040691,PRODUCES,Porcine Reproductive and Respiratory Syndrome,Transforming Growth Factors,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0376538,C0079189,PRODUCES,Porcine Reproductive and Respiratory Syndrome,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0442867,C0003241,PRODUCES,malignant disease,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0442886,C0079189,PRODUCES,Secondary Infections,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0442886,C0475463,PRODUCES,Secondary Infections,"Antibodies, Neutralizing",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0442893,C0004358,PRODUCES,Systemic disease,Autoantibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0442893,C0079189,PRODUCES,Systemic disease,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0520680,C0042736,PRODUCES,"Sleep Apnea, Central",Viral Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0524909,C0017278,PRODUCES,"Hepatitis B, Chronic","Gene Products, env",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0730328,C0242738,PRODUCES,Central Serous Chorioretinopathy,ATP-Binding Cassette Transporters,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0730328,C1427164,PRODUCES,Central Serous Chorioretinopathy,NANOG gene,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0730328,C3853650,PRODUCES,Central Serous Chorioretinopathy,"Mast/Stem Cell Growth Factor Receptor Kit, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0740455,C1176244,PRODUCES,herpes simplex type ii,"DARC protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0748168,C0003009,PRODUCES,Pulmonary Pathology,angiotensin II,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0856169,C1335962,PRODUCES,endothelial dysfunction,Signaling Protein,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0858318,C0298973,PRODUCES,Plasmodium falciparum infection,Ataxia Telangiectasia Mutated Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0858744,C0021755,PRODUCES,infection induced,Interleukin-1,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C0872054,C0085295,PRODUCES,latent infection,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0872315,C0003250,PRODUCES,"Communicable Diseases, Emerging",Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C0021755,PRODUCES,late pregnancy,Interleukin-1,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C0021758,PRODUCES,late pregnancy,Interleukin-4,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C0021760,PRODUCES,late pregnancy,Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C1099914,PRODUCES,late pregnancy,"IL12B protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C1121403,PRODUCES,late pregnancy,Interleukin-12 Subunit p35,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0878751,C1332823,PRODUCES,late pregnancy,CXCR4 gene,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C0948008,C1701790,PRODUCES,Ischemic stroke,"IL17A protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C0003241,PRODUCES,Macrophage Activation Syndrome,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C0003250,PRODUCES,Macrophage Activation Syndrome,Monoclonal Antibodies,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C1096155,C0021031,PRODUCES,Macrophage Activation Syndrome,Fab Immunoglobulins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C0033689,PRODUCES,Macrophage Activation Syndrome,Chondroitin Sulfate Proteoglycans,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C0079189,PRODUCES,Macrophage Activation Syndrome,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C0664874,PRODUCES,Macrophage Activation Syndrome,cyanovirin N,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1096155,C1448177,PRODUCES,Macrophage Activation Syndrome,"TNF protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1175175,C0003241,PRODUCES,Severe Acute Respiratory Syndrome,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1175175,C0085295,PRODUCES,Severe Acute Respiratory Syndrome,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1175175,C0305052,PRODUCES,Severe Acute Respiratory Syndrome,Gamma globulin serum,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1175175,C0475463,PRODUCES,Severe Acute Respiratory Syndrome,"Antibodies, Neutralizing",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C1443953,C0061878,PRODUCES,Acute viral disease,granzyme B,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1443953,C0085295,PRODUCES,Acute viral disease,Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1449563,C0021756,PRODUCES,"Cardiomyopathy, Familial Idiopathic",Interleukin-2,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1449563,C0021760,PRODUCES,"Cardiomyopathy, Familial Idiopathic",Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1449563,C0085295,PRODUCES,"Cardiomyopathy, Familial Idiopathic",Interleukin-10,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1449563,C1099914,PRODUCES,"Cardiomyopathy, Familial Idiopathic","IL12B protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1535939,C1309025,PRODUCES,Pneumocystis jiroveci pneumonia,"SH2D3A protein, human",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C1623038,C0079189,PRODUCES,Cirrhosis,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1707758,C0254610,PRODUCES,Direct Contact Transmission Infection,Interleukin-15,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1719672,C0040048,PRODUCES,Severe Sepsis,Thromboplastin,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1719672,C1448177,PRODUCES,Severe Sepsis,"TNF protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1843013,C0042736,PRODUCES,"Alzheimer disease, familial, type 3",Viral Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1854469,C0042736,PRODUCES,Noonan Syndrome 2,Viral Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1854469,C0079189,PRODUCES,Noonan Syndrome 2,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1860224,C0079189,PRODUCES,ABLEPHARON-MACROSTOMIA SYNDROME,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1860224,C0253023,PRODUCES,ABLEPHARON-MACROSTOMIA SYNDROME,Tumor Necrosis Factor Ligand Superfamily Member 6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1860224,C0282554,PRODUCES,ABLEPHARON-MACROSTOMIA SYNDROME,chemokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1860224,C1667752,PRODUCES,ABLEPHARON-MACROSTOMIA SYNDROME,"IL33 protein, human",dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C1861861,C0669372,PRODUCES,"CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 1 (disorder)","NOS2A protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1862382,C0003241,PRODUCES,SVEINSSON CHORIORETINAL ATROPHY,Antibodies,dsyn,aapp,2,PRODUCES_DSYNprodAAPP
+C1864389,C0003241,PRODUCES,PREMATURE CHROMATID SEPARATION TRAIT,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C1864389,C1334033,PRODUCES,PREMATURE CHROMATID SEPARATION TRAIT,"HDAC5 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C2047215,C0003250,PRODUCES,Herpesvirus 5 infection,Monoclonal Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C2076600,C0305052,PRODUCES,Influenza due to Influenza A virus subtype H1N1,Gamma globulin serum,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C2076600,C2744535,PRODUCES,Influenza due to Influenza A virus subtype H1N1,"CD69 protein, human",dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C2900458,C1744318,PRODUCES,Viral encephalomyelitis NOS,Cre recombinase,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C3687173,C0041368,PRODUCES,Simian immunodeficiency virus infection,Tumor Necrosis Factors,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C3805156,C0021760,PRODUCES,Chronic hcv genotype 1,Interleukin-6,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C3887949,C0079189,PRODUCES,Apparent mineralocorticoid excess,cytokine,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C3888198,C1674904,PRODUCES,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",angiotensin I (1-9),dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C4085595,C0086376,PRODUCES,AL-RAQAD SYNDROME,GTP-Binding Proteins,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C4085873,C0021756,PRODUCES,LUSCAN-LUMISH SYNDROME,Interleukin-2,dsyn,aapp,1,PRODUCES_DSYNprodAAPP
+C4288963,C0003241,PRODUCES,Hepatitis C Virus Infection,Antibodies,dsyn,aapp,1,PRODUCES_DSYNprodAAPP

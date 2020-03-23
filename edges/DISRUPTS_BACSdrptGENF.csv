@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008377,C0282629,DISRUPTS,Cholesterol,Virus Assembly,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0011485,C0598312,DISRUPTS,Deoxycytidine,DNA Replication,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012854,C0017262,DISRUPTS,DNA,Gene Expression,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0012854,C0598312,DISRUPTS,DNA,DNA Replication,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0012854,C0678713,DISRUPTS,DNA,DNA template,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012854,C1148673,DISRUPTS,DNA,dna binding,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012854,C1148756,DISRUPTS,DNA,telomerase activity,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012854,C2260797,DISRUPTS,DNA,RNase activity,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012925,C0040649,DISRUPTS,"DNA, Circular","Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0012929,C1565556,DISRUPTS,"DNA, Mitochondrial",Gene Flow,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0018909,C1511695,DISRUPTS,Hemagglutinin,DNA Sequence Rearrangement,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0026661,C1171362,DISRUPTS,mRNA Precursor,protein expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0028128,C1152412,DISRUPTS,Nitric Oxide,RNA-directed RNA polymerase activity,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0028606,C0017262,DISRUPTS,Nucleic Acids,Gene Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0028606,C1148846,DISRUPTS,Nucleic Acids,RNA Binding,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0032136,C0040649,DISRUPTS,Plasmids,"Transcription, Genetic",bacs,genf,5,DISRUPTS_BACSdrptGENF
+C0034987,C0026882,DISRUPTS,"Regulatory Sequences, Nucleic Acid",Mutation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0034987,C0040649,DISRUPTS,"Regulatory Sequences, Nucleic Acid","Transcription, Genetic",bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0035142,C0012899,DISRUPTS,Replicon,DNA Repair,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035142,C1819424,DISRUPTS,Replicon,DNA duplex unwinding,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035693,C0017262,DISRUPTS,"RNA, Double-Stranded",Gene Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035693,C1136031,DISRUPTS,"RNA, Double-Stranded",RNA Interference,bacs,genf,4,DISRUPTS_BACSdrptGENF
+C0035696,C0017262,DISRUPTS,"RNA, Messenger",Gene Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C0598496,DISRUPTS,"RNA, Messenger",Gene Silencing,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C1136031,DISRUPTS,"RNA, Messenger",RNA Interference,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C1149627,DISRUPTS,"RNA, Messenger",helicase activity,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0035696,C1171362,DISRUPTS,"RNA, Messenger",protein expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C1515670,DISRUPTS,"RNA, Messenger",mRNA Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C1519613,DISRUPTS,"RNA, Messenger",Translation Initiation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035696,C1519614,DISRUPTS,"RNA, Messenger",Genetic Translation Process,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0035701,C1158016,DISRUPTS,Ribosomal RNA,rRNA catabolic process,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0037494,C1148806,DISRUPTS,Sodium Chloride,nuclease activity,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0037494,C1152412,DISRUPTS,Sodium Chloride,RNA-directed RNA polymerase activity,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0041532,C1622990,DISRUPTS,U6 small nuclear RNA,pre-mRNA splicing,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0043481,C1152412,DISRUPTS,Zinc,RNA-directed RNA polymerase activity,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0047420,C0040649,DISRUPTS,3-hydroxy-3-methylglutaryl-coenzyme A,"Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0071504,C0040649,DISRUPTS,"mRNA, Polyadenylated","Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0079925,C0040649,DISRUPTS,Antisense Oligonucleotides,"Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0082774,C0017262,DISRUPTS,"RNA, Guide",Gene Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0086860,C0040649,DISRUPTS,promoter,"Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0086860,C0162493,DISRUPTS,promoter,Transcriptional Activation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0086860,C1158816,DISRUPTS,promoter,mRNA transcription,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0486948,C1519592,DISRUPTS,Human immunodeficiency virus 1 DNA,Transcription Process,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0600472,C0040649,DISRUPTS,Long Interspersed Nucleotide Element-1,"Transcription, Genetic",bacs,genf,2,DISRUPTS_BACSdrptGENF
+C0600493,C0017262,DISRUPTS,5' Untranslated Regions,Gene Expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0600493,C0678935,DISRUPTS,5' Untranslated Regions,RNA translation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0600508,C1519619,DISRUPTS,Response Elements,Translational Repression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C0949639,C0040649,DISRUPTS,Transcription Initiation Site,"Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1099354,C0017262,DISRUPTS,"RNA, Small Interfering",Gene Expression,bacs,genf,6,DISRUPTS_BACSdrptGENF
+C1099354,C0282629,DISRUPTS,"RNA, Small Interfering",Virus Assembly,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1099354,C0598496,DISRUPTS,"RNA, Small Interfering",Gene Silencing,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1099354,C0599177,DISRUPTS,"RNA, Small Interfering",protein activation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1099354,C1136031,DISRUPTS,"RNA, Small Interfering",RNA Interference,bacs,genf,5,DISRUPTS_BACSdrptGENF
+C1099354,C1148673,DISRUPTS,"RNA, Small Interfering",dna binding,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1099354,C1158817,DISRUPTS,"RNA, Small Interfering",viral transcription,bacs,genf,2,DISRUPTS_BACSdrptGENF
+C1099354,C1171362,DISRUPTS,"RNA, Small Interfering",protein expression,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1101610,C0017262,DISRUPTS,MicroRNAs,Gene Expression,bacs,genf,5,DISRUPTS_BACSdrptGENF
+C1101610,C0040649,DISRUPTS,MicroRNAs,"Transcription, Genetic",bacs,genf,2,DISRUPTS_BACSdrptGENF
+C1101610,C0086934,DISRUPTS,MicroRNAs,"RNA, Messenger, Splicing",bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1101610,C0598312,DISRUPTS,MicroRNAs,DNA Replication,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1101610,C1158816,DISRUPTS,MicroRNAs,mRNA transcription,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1101610,C1158817,DISRUPTS,MicroRNAs,viral transcription,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1566558,C1519613,DISRUPTS,Natural Products,Translation Initiation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C1620047,C0162493,DISRUPTS,dieckol,Transcriptional Activation,bacs,genf,1,DISRUPTS_BACSdrptGENF
+C3494264,C0040649,DISRUPTS,"RNA, Long Untranslated","Transcription, Genetic",bacs,genf,1,DISRUPTS_BACSdrptGENF

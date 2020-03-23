@@ -1,0 +1,105 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0011304,AFFECTS,Antibody Formation,Demyelination,celf,patf,1,AFFECTS_CELFafctPATF
+C0003261,C0020517,AFFECTS,Antibody Formation,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C0003261,C1520005,AFFECTS,Antibody Formation,Viral Pathogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C0003261,C3714514,AFFECTS,Antibody Formation,Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C0004391,C0016059,AFFECTS,Autophagy,Fibrosis,celf,patf,2,AFFECTS_CELFafctPATF
+C0004391,C0020517,AFFECTS,Autophagy,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C0004391,C0021368,AFFECTS,Autophagy,Inflammation,celf,patf,5,AFFECTS_CELFafctPATF
+C0004391,C0030660,AFFECTS,Autophagy,Pathologic Processes,celf,patf,2,AFFECTS_CELFafctPATF
+C0004391,C0699748,AFFECTS,Autophagy,Pathogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C0004391,C0919924,AFFECTS,Autophagy,pulmonary toxicity,celf,patf,2,AFFECTS_CELFafctPATF
+C0004391,C1155266,AFFECTS,Autophagy,inflammatory response,celf,patf,4,AFFECTS_CELFafctPATF
+C0004391,C1520005,AFFECTS,Autophagy,Viral Pathogenesis,celf,patf,2,AFFECTS_CELFafctPATF
+C0004391,C1704489,AFFECTS,Autophagy,Extended Rotated Sidebent,celf,patf,1,AFFECTS_CELFafctPATF
+C0004391,C2717792,AFFECTS,Autophagy,Airway Remodeling,celf,patf,1,AFFECTS_CELFafctPATF
+C0004391,C3714514,AFFECTS,Autophagy,Infection,celf,patf,2,AFFECTS_CELFafctPATF
+C0007581,C0020564,AFFECTS,Cellular Senescence,Hypertrophy,celf,patf,1,AFFECTS_CELFafctPATF
+C0007582,C0557874,AFFECTS,Cell Communication,Global developmental delay,celf,patf,1,AFFECTS_CELFafctPATF
+C0007586,C0020507,AFFECTS,Cell Cycle,Hyperplasia,celf,patf,1,AFFECTS_CELFafctPATF
+C0007586,C2699153,AFFECTS,Cell Cycle,Cell Invasion,celf,patf,1,AFFECTS_CELFafctPATF
+C0007587,C0015376,AFFECTS,Cell Death,Extravasation,celf,patf,1,AFFECTS_CELFafctPATF
+C0007613,C0021368,AFFECTS,Cell physiology,Inflammation,celf,patf,2,AFFECTS_CELFafctPATF
+C0007620,C0020507,AFFECTS,Cell Survival,Hyperplasia,celf,patf,1,AFFECTS_CELFafctPATF
+C0007620,C0021368,AFFECTS,Cell Survival,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C0007620,C0027686,AFFECTS,Cell Survival,Pathologic Neovascularization,celf,patf,1,AFFECTS_CELFafctPATF
+C0007620,C1516670,AFFECTS,Cell Survival,Clonal Expansion,celf,patf,1,AFFECTS_CELFafctPATF
+C0008018,C0332448,AFFECTS,Chemotaxis,Infiltration,celf,patf,1,AFFECTS_CELFafctPATF
+C0014139,C0151718,AFFECTS,Endocytosis,Hypocholesterolemia,celf,patf,1,AFFECTS_CELFafctPATF
+C0024426,C0011304,AFFECTS,Macrophage Activation,Demyelination,celf,patf,1,AFFECTS_CELFafctPATF
+C0024426,C1563937,AFFECTS,Macrophage Activation,Atherogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C0026244,C0036974,AFFECTS,Mitochondrial Swelling,Shock,celf,patf,1,AFFECTS_CELFafctPATF
+C0031308,C0011304,AFFECTS,Phagocytosis,Demyelination,celf,patf,1,AFFECTS_CELFafctPATF
+C0031308,C0242656,AFFECTS,Phagocytosis,Disease Progression,celf,patf,1,AFFECTS_CELFafctPATF
+C0031308,C1155266,AFFECTS,Phagocytosis,inflammatory response,celf,patf,1,AFFECTS_CELFafctPATF
+C0037083,C0021368,AFFECTS,Signal Transduction,Inflammation,celf,patf,3,AFFECTS_CELFafctPATF
+C0037083,C0024348,AFFECTS,Signal Transduction,Lysis,celf,patf,1,AFFECTS_CELFafctPATF
+C0037083,C0026766,AFFECTS,Signal Transduction,Multiple Organ Failure,celf,patf,1,AFFECTS_CELFafctPATF
+C0037083,C0332448,AFFECTS,Signal Transduction,Infiltration,celf,patf,1,AFFECTS_CELFafctPATF
+C0037083,C1155266,AFFECTS,Signal Transduction,inflammatory response,celf,patf,2,AFFECTS_CELFafctPATF
+C0162638,C0013990,AFFECTS,Apoptosis,Pathological accumulation of air in tissues,celf,patf,3,AFFECTS_CELFafctPATF
+C0162638,C0017639,AFFECTS,Apoptosis,Gliosis,celf,patf,1,AFFECTS_CELFafctPATF
+C0162638,C0020517,AFFECTS,Apoptosis,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C0162638,C0021368,AFFECTS,Apoptosis,Inflammation,celf,patf,3,AFFECTS_CELFafctPATF
+C0162638,C0024348,AFFECTS,Apoptosis,Lysis,celf,patf,1,AFFECTS_CELFafctPATF
+C0162638,C0027540,AFFECTS,Apoptosis,Necrosis,celf,patf,3,AFFECTS_CELFafctPATF
+C0162638,C0333641,AFFECTS,Apoptosis,Atrophic,celf,patf,1,AFFECTS_CELFafctPATF
+C0162638,C1155266,AFFECTS,Apoptosis,inflammatory response,celf,patf,4,AFFECTS_CELFafctPATF
+C0162638,C1520005,AFFECTS,Apoptosis,Viral Pathogenesis,celf,patf,2,AFFECTS_CELFafctPATF
+C0206430,C1155266,AFFECTS,Antigen Processing,inflammatory response,celf,patf,1,AFFECTS_CELFafctPATF
+C0206430,C1817997,AFFECTS,Antigen Processing,chronic inflammatory response,celf,patf,1,AFFECTS_CELFafctPATF
+C0206431,C0242656,AFFECTS,Antigen Presentation,Disease Progression,celf,patf,1,AFFECTS_CELFafctPATF
+C0596898,C0020517,AFFECTS,membrane biogenesis,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C0596991,C0011304,AFFECTS,myelination,Demyelination,celf,patf,1,AFFECTS_CELFafctPATF
+C0599952,C1520005,AFFECTS,modulation by virus of host morphology or physiology,Viral Pathogenesis,celf,patf,2,AFFECTS_CELFafctPATF
+C0599952,C3714514,AFFECTS,modulation by virus of host morphology or physiology,Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C0678836,C0242656,AFFECTS,cell recognition,Disease Progression,celf,patf,1,AFFECTS_CELFafctPATF
+C1155013,C0021368,AFFECTS,T cell differentiation,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1155013,C0242656,AFFECTS,T cell differentiation,Disease Progression,celf,patf,1,AFFECTS_CELFafctPATF
+C1155065,C0021368,AFFECTS,T-Cell Activation,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1155080,C0020517,AFFECTS,T-helper 1 type immune response,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C1155342,C0021368,AFFECTS,cellular response to unfolded protein,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1155342,C1520005,AFFECTS,cellular response to unfolded protein,Viral Pathogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C1155874,C0020963,AFFECTS,Cell Cycle Checkpoints,Immune Tolerance,celf,patf,1,AFFECTS_CELFafctPATF
+C1156062,C0028778,AFFECTS,lysosomal lumen acidification,Obstruction,celf,patf,1,AFFECTS_CELFafctPATF
+C1159455,C0024348,AFFECTS,syncytium formation,Lysis,celf,patf,2,AFFECTS_CELFafctPATF
+C1159455,C0333467,AFFECTS,syncytium formation,Cytopathic effect,celf,patf,1,AFFECTS_CELFafctPATF
+C1159668,C3714514,AFFECTS,iron transport,Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C1159762,C0021368,AFFECTS,opsonization,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1160466,C0020517,AFFECTS,conjugation,Hypersensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C1160716,C0242781,AFFECTS,viral transmission,disease transmission,celf,patf,3,AFFECTS_CELFafctPATF
+C1256369,C0920563,AFFECTS,insulin secretion,Insulin Sensitivity,celf,patf,1,AFFECTS_CELFafctPATF
+C1256369,C1510411,AFFECTS,insulin secretion,metaplastic cell transformation,celf,patf,1,AFFECTS_CELFafctPATF
+C1318468,C0021368,AFFECTS,cell mediated immune response,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1325417,C0024348,AFFECTS,vesicle-mediated transport,Lysis,celf,patf,2,AFFECTS_CELFafctPATF
+C1326169,C0011304,AFFECTS,microglial cell activation,Demyelination,celf,patf,2,AFFECTS_CELFafctPATF
+C1326169,C0021368,AFFECTS,microglial cell activation,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1326169,C0242656,AFFECTS,microglial cell activation,Disease Progression,celf,patf,1,AFFECTS_CELFafctPATF
+C1326169,C0332448,AFFECTS,microglial cell activation,Infiltration,celf,patf,1,AFFECTS_CELFafctPATF
+C1326169,C0333359,AFFECTS,microglial cell activation,Perivascular inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1326212,C0021368,AFFECTS,neutrophil apoptotic process,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1326292,C0015376,AFFECTS,pore complex assembly,Extravasation,celf,patf,1,AFFECTS_CELFafctPATF
+C1326500,C0264956,AFFECTS,Leukocyte Trafficking,Atheroma,celf,patf,1,AFFECTS_CELFafctPATF
+C1327616,C3714514,AFFECTS,Cell secretion,Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C1512596,C1510411,AFFECTS,IL4 Signaling Pathway,metaplastic cell transformation,celf,patf,1,AFFECTS_CELFafctPATF
+C1516375,C1520005,AFFECTS,Cellular Tropism,Viral Pathogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C1523298,C0016059,AFFECTS,epithelial to mesenchymal transition,Fibrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C1523361,C0024348,AFFECTS,Activation of Membrane Attack Complex,Lysis,celf,patf,2,AFFECTS_CELFafctPATF
+C1523936,C0333467,AFFECTS,cellular biosynthetic process,Cytopathic effect,celf,patf,1,AFFECTS_CELFafctPATF
+C1524026,C3714514,AFFECTS,"Metabolic Process, Cellular",Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C1622891,C0021368,AFFECTS,Mast cell degranulation,Inflammation,celf,patf,1,AFFECTS_CELFafctPATF
+C1817908,C3714514,AFFECTS,Cellular Immune Response,Infection,celf,patf,1,AFFECTS_CELFafctPATF
+C1820119,C0027540,AFFECTS,Mitochondrial Degradation,Necrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C2244223,C1520005,AFFECTS,cellular homeostasis,Viral Pathogenesis,celf,patf,1,AFFECTS_CELFafctPATF
+C2610414,C0016059,AFFECTS,transdifferentiation,Fibrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C2610958,C1155266,AFFECTS,necroptotic process,inflammatory response,celf,patf,1,AFFECTS_CELFafctPATF
+C2611812,C0016059,AFFECTS,signaling cascade,Fibrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C2611812,C0021368,AFFECTS,signaling cascade,Inflammation,celf,patf,2,AFFECTS_CELFafctPATF
+C3156667,C1155266,AFFECTS,interleukin-8 secretion,inflammatory response,celf,patf,1,AFFECTS_CELFafctPATF
+C3158983,C0027540,AFFECTS,mitochondrial permeability transition,Necrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C3269125,C0024348,AFFECTS,ruffle assembly,Lysis,celf,patf,1,AFFECTS_CELFafctPATF
+C3271951,C2699153,AFFECTS,macropinocytosis,Cell Invasion,celf,patf,1,AFFECTS_CELFafctPATF
+C3494455,C0027540,AFFECTS,Mitochondrial Turnover,Necrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C3544385,C0027540,AFFECTS,pro-survival,Necrosis,celf,patf,1,AFFECTS_CELFafctPATF
+C3548489,C0028778,AFFECTS,autophagosome maturation,Obstruction,celf,patf,1,AFFECTS_CELFafctPATF
+C4236737,C0332448,AFFECTS,ferroptosis,Infiltration,celf,patf,1,AFFECTS_CELFafctPATF

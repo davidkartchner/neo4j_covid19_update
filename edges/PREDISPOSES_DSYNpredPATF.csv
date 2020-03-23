@@ -1,0 +1,123 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002395,C0242656,PREDISPOSES,Alzheimer's Disease,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004096,C0002792,PREDISPOSES,Asthma,anaphylaxis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004096,C0020507,PREDISPOSES,Asthma,Hyperplasia,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004096,C2717792,PREDISPOSES,Asthma,Airway Remodeling,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0004096,C3714514,PREDISPOSES,Asthma,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004364,C0242656,PREDISPOSES,Autoimmune Diseases,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004364,C0332448,PREDISPOSES,Autoimmune Diseases,Infiltration,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0004623,C0036983,PREDISPOSES,Bacterial Infections,Septic Shock,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0006267,C0021368,PREDISPOSES,Bronchiectasis,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0007222,C1155266,PREDISPOSES,Cardiovascular Diseases,inflammatory response,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0007222,C3714514,PREDISPOSES,Cardiovascular Diseases,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0008679,C3714514,PREDISPOSES,Chronic disease,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0009450,C0333288,PREDISPOSES,Communicable Diseases,Dissecting hemorrhage,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0010054,C0376297,PREDISPOSES,Coronary Arteriosclerosis,Cardiac Death,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0010823,C0206277,PREDISPOSES,Cytomegalovirus Infections,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0011119,C0036679,PREDISPOSES,Decompression Sickness,Diastasis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0011615,C0020517,PREDISPOSES,"Dermatitis, Atopic",Hypersensitivity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0011847,C3714514,PREDISPOSES,Diabetes,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0011847,C4287874,PREDISPOSES,Diabetes,Droplet Transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0011849,C0206277,PREDISPOSES,Diabetes Mellitus,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0014457,C0020517,PREDISPOSES,Eosinophilia,Hypersensitivity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0016627,C0242781,PREDISPOSES,Influenza in Birds,disease transmission,dsyn,patf,3,PREDISPOSES_DSYNpredPATF
+C0016627,C3714514,PREDISPOSES,Influenza in Birds,Infection,dsyn,patf,5,PREDISPOSES_DSYNpredPATF
+C0017168,C1261287,PREDISPOSES,Gastroesophageal reflux disease,Stenosis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0018133,C0206277,PREDISPOSES,Graft-vs-Host Disease,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0018802,C0700148,PREDISPOSES,Congestive heart failure,Congestion,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0019196,C0242656,PREDISPOSES,Hepatitis C,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0019348,C0242781,PREDISPOSES,Herpes Simplex Infections,disease transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0020498,C3714514,PREDISPOSES,"Hyperostosis, Diffuse Idiopathic Skeletal",Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0020538,C0085660,PREDISPOSES,Hypertensive disease,Aseptic necrosis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0020538,C0553692,PREDISPOSES,Hypertensive disease,Brain hemorrhage,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0020615,C0206277,PREDISPOSES,Hypoglycemia,Fatal Outcome,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0020877,C0021368,PREDISPOSES,Ileitis,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0021400,C4061114,PREDISPOSES,Influenza,Acute illness,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0022661,C0017181,PREDISPOSES,"Kidney Failure, Chronic",Gastrointestinal Hemorrhage,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0022661,C4287874,PREDISPOSES,"Kidney Failure, Chronic",Droplet Transmission,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0023374,C0242656,PREDISPOSES,Lesch-Nyhan Syndrome,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0023530,C3714514,PREDISPOSES,Leukopenia,Infection,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0024115,C0206277,PREDISPOSES,Lung diseases,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0024115,C0520817,PREDISPOSES,Lung diseases,Physical disability,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0025517,C0021368,PREDISPOSES,Metabolic Diseases,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0026769,C0011304,PREDISPOSES,Multiple Sclerosis,Demyelination,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0026769,C0021368,PREDISPOSES,Multiple Sclerosis,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0027051,C0040038,PREDISPOSES,Myocardial Infarction,Thromboembolism,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0028754,C0021655,PREDISPOSES,Obesity,Insulin Resistance,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0028754,C0030660,PREDISPOSES,Obesity,Pathologic Processes,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0028754,C0332448,PREDISPOSES,Obesity,Infiltration,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0028754,C3714514,PREDISPOSES,Obesity,Infection,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0032285,C0242656,PREDISPOSES,Pneumonia,Disease Progression,dsyn,patf,3,PREDISPOSES_DSYNpredPATF
+C0034063,C0021368,PREDISPOSES,Pulmonary Edema,Inflammation,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0034065,C0040038,PREDISPOSES,Pulmonary Embolism,Thromboembolism,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0034072,C0281169,PREDISPOSES,Cor pulmonale,pulmonary complications,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035127,C0243083,PREDISPOSES,Cumulative Trauma Disorders,associated disease,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035204,C3714514,PREDISPOSES,Respiration Disorders,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035222,C0021368,PREDISPOSES,"Respiratory Distress Syndrome, Adult",Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035235,C0232910,PREDISPOSES,Respiratory Syncytial Virus Infections,Teratogenesis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035235,C0848889,PREDISPOSES,Respiratory Syncytial Virus Infections,infant morbidity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035243,C3714514,PREDISPOSES,Respiratory Tract Infections,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0035455,C2718128,PREDISPOSES,Rhinitis,Nasal inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0036690,C0003811,PREDISPOSES,Septicemia,Cardiac Arrhythmia,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0036690,C0235063,PREDISPOSES,Septicemia,Respiratory Depression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0037278,C3714514,PREDISPOSES,"Skin Diseases, Infectious",Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0041912,C0242781,PREDISPOSES,Upper Respiratory Infections,disease transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042749,C0021368,PREDISPOSES,Viremia,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042749,C0206277,PREDISPOSES,Viremia,Fatal Outcome,dsyn,patf,2,PREDISPOSES_DSYNpredPATF
+C0042749,C0242656,PREDISPOSES,Viremia,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C0011304,PREDISPOSES,Virus Diseases,Demyelination,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C0021368,PREDISPOSES,Virus Diseases,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C0036974,PREDISPOSES,Virus Diseases,Shock,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C0162633,PREDISPOSES,Virus Diseases,Viral Shedding,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C1155266,PREDISPOSES,Virus Diseases,inflammatory response,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C3714514,PREDISPOSES,Virus Diseases,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042769,C4061114,PREDISPOSES,Virus Diseases,Acute illness,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0042870,C3714514,PREDISPOSES,Vitamin D Deficiency,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0085786,C0242656,PREDISPOSES,Hamman-Rich syndrome,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0149725,C3714514,PREDISPOSES,Lower respiratory tract infection,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0149871,C0040038,PREDISPOSES,Deep Vein Thrombosis,Thromboembolism,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0154830,C0085605,PREDISPOSES,Proliferative diabetic retinopathy,Liver Failure,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0235950,C0333641,PREDISPOSES,Zinc deficiency,Atrophic,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0238790,C4021973,PREDISPOSES,bone destruction,Cartilage destruction,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0242966,C0021368,PREDISPOSES,Systemic Inflammatory Response Syndrome,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0263214,C4289744,PREDISPOSES,Pyotraumatic dermatitis,Contact Transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0263428,C0398353,PREDISPOSES,Burnett Schwartz Berberian syndrome,Hypercapnic respiratory failure,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0275524,C0206277,PREDISPOSES,Coinfection,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0276447,C2717792,PREDISPOSES,Rhinovirus infection,Airway Remodeling,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0311213,C0242781,PREDISPOSES,Dermatitis verrucosa,disease transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0343662,C0242648,PREDISPOSES,Chronic congenital cytomegalic inclusion disease,Vertical Disease Transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0598608,C0016059,PREDISPOSES,Hyperhomocysteinemia,Fibrosis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0598608,C0152254,PREDISPOSES,Hyperhomocysteinemia,Fatty degeneration,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0694549,C0036974,PREDISPOSES,Community acquired pneumonia,Shock,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0729531,C0021368,PREDISPOSES,Viral respiratory infection,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0729531,C0028778,PREDISPOSES,Viral respiratory infection,Obstruction,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0743841,C0242656,PREDISPOSES,Disorder characterized by fever,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0744235,C0026766,PREDISPOSES,Sepsis due to fungus,Multiple Organ Failure,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0748168,C1155266,PREDISPOSES,Pulmonary Pathology,inflammatory response,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0854443,C0015376,PREDISPOSES,Vascular fragility,Extravasation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0872315,C0242781,PREDISPOSES,"Communicable Diseases, Emerging",disease transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0940933,C0410916,PREDISPOSES,infection as a complication,Neonatal Death,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0940933,C0595939,PREDISPOSES,infection as a complication,Stillbirth,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0947961,C0020517,PREDISPOSES,Atopic condition,Hypersensitivity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0947961,C0392707,PREDISPOSES,Atopic condition,Atopy,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0948008,C0040038,PREDISPOSES,Ischemic stroke,Thromboembolism,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C0948008,C0231170,PREDISPOSES,Ischemic stroke,Disability,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1145670,C0242656,PREDISPOSES,Respiratory Failure,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1175175,C0021368,PREDISPOSES,Severe Acute Respiratory Syndrome,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1175175,C0206277,PREDISPOSES,Severe Acute Respiratory Syndrome,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1175175,C0242781,PREDISPOSES,Severe Acute Respiratory Syndrome,disease transmission,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1175175,C3714514,PREDISPOSES,Severe Acute Respiratory Syndrome,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1290819,C3714514,PREDISPOSES,Pigeon circovirus infection,Infection,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1290884,C0021368,PREDISPOSES,Inflammatory disorder,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1623038,C0085660,PREDISPOSES,Cirrhosis,Aseptic necrosis,dsyn,patf,5,PREDISPOSES_DSYNpredPATF
+C1707758,C0011304,PREDISPOSES,Direct Contact Transmission Infection,Demyelination,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C1719672,C0206277,PREDISPOSES,Severe Sepsis,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C2062441,C0206277,PREDISPOSES,Influenza A,Fatal Outcome,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C2076600,C0242656,PREDISPOSES,Influenza due to Influenza A virus subtype H1N1,Disease Progression,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C2938905,C0020517,PREDISPOSES,Central Nervous System Sensitization,Hypersensitivity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C3277428,C0021368,PREDISPOSES,Severe viral infections,Inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C3694279,C0232910,PREDISPOSES,Middle East Respiratory Syndrome,Teratogenesis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C3694279,C1520005,PREDISPOSES,Middle East Respiratory Syndrome,Viral Pathogenesis,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C3805089,C0020517,PREDISPOSES,Hyperfibrinolysis,Hypersensitivity,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C4288963,C0021376,PREDISPOSES,Hepatitis C Virus Infection,Chronic inflammation,dsyn,patf,1,PREDISPOSES_DSYNpredPATF
+C4288963,C0152254,PREDISPOSES,Hepatitis C Virus Infection,Fatty degeneration,dsyn,patf,1,PREDISPOSES_DSYNpredPATF

@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007203,C1293116,PRECEDES,Cardiopulmonary Resuscitation,Introduction procedure,topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C0038897,C1293116,PRECEDES,Cardiovascular Surgical Procedures,Introduction procedure,topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C0040732,C1293116,PRECEDES,Transplantation,Introduction procedure,topp,hlca,2,PRECEDES_TOPPprcdHLCA
+C0042196,C0332140,PRECEDES,Vaccination,"Diagnosis, clinical",topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C0042196,C1293116,PRECEDES,Vaccination,Introduction procedure,topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C0206058,C1293116,PRECEDES,Elective Surgical Procedures,Introduction procedure,topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C0376518,C1318464,PRECEDES,Adoptive Transfer,Occupational therapy regime,topp,hlca,1,PRECEDES_TOPPprcdHLCA
+C1161075,C1293116,PRECEDES,Feeding Instruction,Introduction procedure,topp,hlca,1,PRECEDES_TOPPprcdHLCA

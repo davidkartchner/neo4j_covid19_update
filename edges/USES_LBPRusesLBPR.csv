@@ -1,0 +1,1258 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001674,C0008550,USES,Adsorption,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0001674,C0016318,USES,Adsorption,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0001674,C0079240,USES,Adsorption,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0001674,C1510438,USES,Adsorption,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0001802,C0079240,USES,Agglutination Tests,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0001802,C0085672,USES,Agglutination Tests,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0004400,C0026019,USES,Autoradiography,Electron Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0004400,C0600209,USES,Autoradiography,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0004400,C1719039,USES,Autoradiography,High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0004618,C0079240,USES,Bacterial Count Measurement,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005507,C0007584,USES,Biological Assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005833,C0027692,USES,Blood Sedimentation,Nephelometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005833,C1442046,USES,Blood Sedimentation,Westergren,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0007584,USES,Western Blotting,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0005863,C0011321,USES,Western Blotting,Densitometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0014441,USES,Western Blotting,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0016263,USES,Western Blotting,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0032102,USES,Western Blotting,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0033707,USES,Western Blotting,Prothrombin time assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0200363,USES,Western Blotting,Specimen preparation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0282646,USES,Western Blotting,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0282649,USES,Western Blotting,"Fluorescent Antibody Technique, Direct",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C0600209,USES,Western Blotting,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C1449705,USES,Western Blotting,Co-Immunoprecipitation,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0005863,C1450269,USES,Western Blotting,Luminescent Measurements,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C1510438,USES,Western Blotting,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0005863,C2700289,USES,Western Blotting,Yeast Cell Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0005863,C3146302,USES,Western Blotting,Mutagenesis Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0001674,USES,Cell Count,Adsorption,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0004400,USES,Cell Count,Autoradiography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0005507,USES,Cell Count,Biological Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0005863,USES,Cell Count,Western Blotting,lbpr,lbpr,10,USES_LBPRusesLBPR
+C0007584,C0007585,USES,Cell Count,Cell Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0007616,USES,Cell Count,Cell Separation,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0007703,USES,Cell Count,Centrifugation,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007584,C0007704,USES,Cell Count,"Centrifugation, Density Gradient",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0008551,USES,Cell Count,"Chromatography, Affinity",lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007584,C0008562,USES,Cell Count,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0009555,USES,Cell Count,Complete Blood Count,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0013064,USES,Cell Count,Dot Immunoblotting,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0013855,USES,Cell Count,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0013856,USES,Cell Count,"Electrophoresis, Agar Gel",lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0013860,USES,Cell Count,"Electrophoresis, Gel, Two-Dimensional",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0014441,USES,Cell Count,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0007584,C0016263,USES,Cell Count,Flow Cytometry,lbpr,lbpr,66,USES_LBPRusesLBPR
+C0007584,C0016318,USES,Cell Count,Fluorescent Antibody Technique,lbpr,lbpr,16,USES_LBPRusesLBPR
+C0007584,C0018904,USES,Cell Count,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0020985,USES,Cell Count,Immunoblotting,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007584,C0021067,USES,Cell Count,Immunoperoxidase Techniques,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0021069,USES,Cell Count,Immunoprecipitation,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007584,C0022885,USES,Cell Count,Laboratory Procedures,lbpr,lbpr,14,USES_LBPRusesLBPR
+C0007584,C0026018,USES,Cell Count,Microscopy,lbpr,lbpr,15,USES_LBPRusesLBPR
+C0007584,C0026019,USES,Cell Count,Electron Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0026020,USES,Cell Count,Scanning Electron Microscopy,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0026022,USES,Cell Count,"Microscopy, Fluorescence",lbpr,lbpr,69,USES_LBPRusesLBPR
+C0007584,C0026024,USES,Cell Count,"Microscopy, Phase-Contrast",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0027944,USES,Cell Count,Neutralization Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0029205,USES,Cell Count,Organ Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0032102,USES,Cell Count,plaque assay,lbpr,lbpr,18,USES_LBPRusesLBPR
+C0007584,C0032428,USES,Cell Count,2D Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0034584,USES,Cell Count,Radioimmunoprecipitation Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0036743,USES,Cell Count,Serologic tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0040284,USES,Cell Count,Tissue culture,lbpr,lbpr,89,USES_LBPRusesLBPR
+C0007584,C0079240,USES,Cell Count,Dilution technique,lbpr,lbpr,14,USES_LBPRusesLBPR
+C0007584,C0079366,USES,Cell Count,Fluorescence-Activated Cell Sorting,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007584,C0079604,USES,Cell Count,Immunofluorescence Microscopy,lbpr,lbpr,10,USES_LBPRusesLBPR
+C0007584,C0085117,USES,Cell Count,"Electrophoresis, Gel, Pulsed-Field",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0085194,USES,Cell Count,Negative Staining,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0162676,USES,Cell Count,Enzyme Multiplied Immunoassay Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0200631,USES,Cell Count,Complete blood count without differential,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0200723,USES,Cell Count,Stereo microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0200765,USES,Cell Count,Image analysis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0200931,USES,Cell Count,Polymerase chain reaction analysis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0200955,USES,Cell Count,Viral culture procedure,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007584,C0201576,USES,Cell Count,Cytokine assay,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0201591,USES,Cell Count,Interferon assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0201622,USES,Cell Count,Cytotoxicity assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0201709,USES,Cell Count,Chemiluminescence assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0202113,USES,Cell Count,Lactate dehydrogenase measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0202118,USES,Cell Count,Leucine aminopeptidase measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0206691,USES,Cell Count,Electroporation,lbpr,lbpr,9,USES_LBPRusesLBPR
+C0007584,C0242349,USES,Cell Count,Immunocytochemistry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0242506,USES,Cell Count,Fluorescence Spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0242841,USES,Cell Count,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C0242842,USES,Cell Count,"Microscopy, Confocal",lbpr,lbpr,24,USES_LBPRusesLBPR
+C0007584,C0282547,USES,Cell Count,Coculture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0282646,USES,Cell Count,Indirect Immunofluorescence,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007584,C0282647,USES,Cell Count,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0282649,USES,Cell Count,"Fluorescent Antibody Technique, Direct",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0337438,USES,Cell Count,Glucose measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0368993,USES,Cell Count,Colony count,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007584,C0427385,USES,Cell Count,Cell phenotype determination procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0427716,USES,Cell Count,"Protein concentration, test strip measurement",lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0430389,USES,Cell Count,Light Microscopy,lbpr,lbpr,10,USES_LBPRusesLBPR
+C0007584,C0441073,USES,Cell Count,Bright field,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0457437,USES,Cell Count,Microscopy technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0597717,USES,Cell Count,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0599662,USES,Cell Count,magnetic cell separation system,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0600070,USES,Cell Count,Direct microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0600209,USES,Cell Count,SDS-PAGE,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007584,C0600396,USES,Cell Count,Laser Scanning Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0678118,USES,Cell Count,Transmission Electron Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0684296,USES,Cell Count,Column Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0752248,USES,Cell Count,Gene Expression Profiling,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0814048,USES,Cell Count,Cytometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0872262,USES,Cell Count,RNA Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0872318,USES,Cell Count,Liquid Chromatography Mass Spectrometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0919242,USES,Cell Count,ASSAY OF CARBOHYDRATE DEFICIENT TRANSFERRIN,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C0919386,USES,Cell Count,Pathology procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0920508,USES,Cell Count,Enzyme-Linked Immunospot Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C0949466,USES,Cell Count,Western Blot,lbpr,lbpr,21,USES_LBPRusesLBPR
+C0007584,C1273421,USES,Cell Count,Viral studies,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1285572,USES,Cell Count,Phenotype determination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1293968,USES,Cell Count,Crystal violet stain method,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C1294356,USES,Cell Count,Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1318786,USES,Cell Count,Fluorescent stain method,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C1318793,USES,Cell Count,Immunofluorescent stain method,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007584,C1439852,USES,Cell Count,incubated,lbpr,lbpr,32,USES_LBPRusesLBPR
+C0007584,C1441648,USES,Cell Count,Microscopy.electron.thin section,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1449705,USES,Cell Count,Co-Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1450269,USES,Cell Count,Luminescent Measurements,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C1510438,USES,Cell Count,Assay,lbpr,lbpr,142,USES_LBPRusesLBPR
+C0007584,C1511124,USES,Cell Count,"Bioassay, In Vivo",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1511148,USES,Cell Count,Biological Testing,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1513300,USES,Cell Count,Cell Migration Assays,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1515100,USES,Cell Count,Suspension Culture,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C1522662,USES,Cell Count,sample fixation,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C1553117,USES,Cell Count,Protein A affinity chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1656251,USES,Cell Count,subcellular fractionation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C1705192,USES,Cell Count,Seeding,lbpr,lbpr,8,USES_LBPRusesLBPR
+C0007584,C1707903,USES,Cell Count,Embedding,lbpr,lbpr,13,USES_LBPRusesLBPR
+C0007584,C1710378,USES,Cell Count,Thaw,lbpr,lbpr,10,USES_LBPRusesLBPR
+C0007584,C2021606,USES,Cell Count,Blood mononuclear cells culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C2347338,USES,Cell Count,Negative Selection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C2347644,USES,Cell Count,Positive Selection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C2350255,USES,Cell Count,Electron Microscope Tomography,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007584,C2986505,USES,Cell Count,Genomic Profile,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C3812195,USES,Cell Count,Chemokine (C-X-C Motif) Ligand 10 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C3825819,USES,Cell Count,Plaque assay technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4049862,USES,Cell Count,Immunoglobulin G Subclass 4 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4049928,USES,Cell Count,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4049944,USES,Cell Count,Ki67 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4054524,USES,Cell Count,Microneutralization Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4055064,USES,Cell Count,Endpoint Dilution Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007584,C4317078,USES,Cell Count,Mycobacterium Tuberculosis Measurement,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0007585,C0007584,USES,Cell Culture Techniques,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007585,C0014772,USES,Cell Culture Techniques,Red Blood Cell Count measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007585,C0016318,USES,Cell Culture Techniques,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007585,C0022885,USES,Cell Culture Techniques,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007585,C0200955,USES,Cell Culture Techniques,Viral culture procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007585,C1443948,USES,Cell Culture Techniques,Measurement of antibody using direct fluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007585,C1510438,USES,Cell Culture Techniques,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007585,C4284307,USES,Cell Culture Techniques,RNA Isolation,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007594,C0007584,USES,Cell fusion procedure,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007594,C0597717,USES,Cell fusion procedure,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007616,C0016263,USES,Cell Separation,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007616,C0200955,USES,Cell Separation,Viral culture procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007616,C0599662,USES,Cell Separation,magnetic cell separation system,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007703,C0005863,USES,Centrifugation,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0008551,USES,Centrifugation,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0014441,USES,Centrifugation,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007703,C0021069,USES,Centrifugation,Immunoprecipitation,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007703,C0022885,USES,Centrifugation,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0032102,USES,Centrifugation,plaque assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007703,C0041609,USES,Centrifugation,Ultracentrifugation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0162621,USES,Centrifugation,Titration Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0200931,USES,Centrifugation,Polymerase chain reaction analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0200955,USES,Centrifugation,Viral culture procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007703,C0597301,USES,Centrifugation,protein purification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0597428,USES,Centrifugation,Sedimentation procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0007703,C0600209,USES,Centrifugation,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0007703,C0678624,USES,Centrifugation,flotation,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0007703,C1510438,USES,Centrifugation,Assay,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0007703,C4284307,USES,Centrifugation,RNA Isolation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008550,C0008562,USES,Chromatography,High pressure liquid chromatography procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0008550,C0599209,USES,Chromatography,Fast Protein Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008550,C1441565,USES,Chromatography,Elution,lbpr,lbpr,8,USES_LBPRusesLBPR
+C0008551,C0008550,USES,"Chromatography, Affinity",Chromatography,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0008551,C0599209,USES,"Chromatography, Affinity",Fast Protein Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008552,C0008550,USES,"Chromatography, Agarose",Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008555,C0022885,USES,Gas Chromatography,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008555,C0037813,USES,Gas Chromatography,Mass Spectrometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0008556,C0008555,USES,"Chromatography, Gas-Liquid",Gas Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008559,C0008550,USES,Gel Chromatography,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008559,C0008562,USES,Gel Chromatography,High pressure liquid chromatography procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0008559,C0599209,USES,Gel Chromatography,Fast Protein Liquid Chromatography,lbpr,lbpr,13,USES_LBPRusesLBPR
+C0008562,C0008559,USES,High pressure liquid chromatography procedure,Gel Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008562,C0037813,USES,High pressure liquid chromatography procedure,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008562,C0597410,USES,High pressure liquid chromatography procedure,"Chromatography, Reverse-Phase",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008562,C1441565,USES,High pressure liquid chromatography procedure,Elution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008562,C1516801,USES,High pressure liquid chromatography procedure,Electrospray Ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008565,C0008562,USES,Liquid Chromatography,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008565,C0037813,USES,Liquid Chromatography,Mass Spectrometry,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0008565,C0596495,USES,Liquid Chromatography,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0008565,C1516801,USES,Liquid Chromatography,Electrospray Ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009017,C0014441,USES,"Cloning, Molecular",Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009017,C0032520,USES,"Cloning, Molecular",Polymerase Chain Reaction,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009017,C0200902,USES,"Cloning, Molecular",Fluorescence activated cell sorter assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009407,C0014441,USES,Colorimetry,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009541,C0022885,USES,Complement Fixation Tests,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009555,C0007585,USES,Complete Blood Count,Cell Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0009555,C0162401,USES,Complete Blood Count,Differential white blood cell count procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0010214,C0201720,USES,Countercurrent electrophoresis measurement,Serum protein electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0010818,C0242349,USES,Cytological Techniques,Immunocytochemistry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0011321,C0005863,USES,Densitometry,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0011321,C0200765,USES,Densitometry,Image analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0011321,C0600209,USES,Densitometry,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0011321,C1510438,USES,Densitometry,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013844,C0026020,USES,Electron Probe Microanalysis,Scanning Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013855,C0005863,USES,Electrophoresis,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013855,C0022169,USES,Electrophoresis,Isoelectric Focusing,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0013855,C0032428,USES,Electrophoresis,2D Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013855,C0085672,USES,Electrophoresis,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013855,C0598490,USES,Electrophoresis,Gel Shift Analysis,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0013855,C0600209,USES,Electrophoresis,SDS-PAGE,lbpr,lbpr,23,USES_LBPRusesLBPR
+C0013855,C3494467,USES,Electrophoresis,Native Polyacrylamide Gel Electrophoresis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0013856,C1318786,USES,"Electrophoresis, Agar Gel",Fluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013860,C0005863,USES,"Electrophoresis, Gel, Two-Dimensional",Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0013860,C0282597,USES,"Electrophoresis, Gel, Two-Dimensional","Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014440,C0001674,USES,Clinical Enzyme Tests (procedure),Adsorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014440,C2697666,USES,Clinical Enzyme Tests (procedure),Immunoenzyme Procedure,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0014441,C0004618,USES,Enzyme-Linked Immunosorbent Assay,Bacterial Count Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0005863,USES,Enzyme-Linked Immunosorbent Assay,Western Blotting,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C0007584,USES,Enzyme-Linked Immunosorbent Assay,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C0007585,USES,Enzyme-Linked Immunosorbent Assay,Cell Culture Techniques,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C0008559,USES,Enzyme-Linked Immunosorbent Assay,Gel Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0009407,USES,Enzyme-Linked Immunosorbent Assay,Colorimetry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0014441,C0011321,USES,Enzyme-Linked Immunosorbent Assay,Densitometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0013064,USES,Enzyme-Linked Immunosorbent Assay,Dot Immunoblotting,lbpr,lbpr,30,USES_LBPRusesLBPR
+C0014441,C0016318,USES,Enzyme-Linked Immunosorbent Assay,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0018904,USES,Enzyme-Linked Immunosorbent Assay,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0020985,USES,Enzyme-Linked Immunosorbent Assay,Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0022885,USES,Enzyme-Linked Immunosorbent Assay,Laboratory Procedures,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0014441,C0027944,USES,Enzyme-Linked Immunosorbent Assay,Neutralization Tests,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C0036759,USES,Enzyme-Linked Immunosorbent Assay,Serotyping,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0079240,USES,Enzyme-Linked Immunosorbent Assay,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0086231,USES,Enzyme-Linked Immunosorbent Assay,Enzyme Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0201300,USES,Enzyme-Linked Immunosorbent Assay,Serum neutralization test,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C0201409,USES,Enzyme-Linked Immunosorbent Assay,Toluidine red unheated serum test,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0014441,C0282649,USES,Enzyme-Linked Immunosorbent Assay,"Fluorescent Antibody Technique, Direct",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0428539,USES,Enzyme-Linked Immunosorbent Assay,Total immunoglobulin measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0430420,USES,Enzyme-Linked Immunosorbent Assay,Antigen assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0014441,C0430425,USES,Enzyme-Linked Immunosorbent Assay,Procedure to identify antibody,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0522986,USES,Enzyme-Linked Immunosorbent Assay,Antibody titration,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0872232,USES,Enzyme-Linked Immunosorbent Assay,Nucleic acid assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C0949466,USES,Enzyme-Linked Immunosorbent Assay,Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C1294356,USES,Enzyme-Linked Immunosorbent Assay,Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C1303222,USES,Enzyme-Linked Immunosorbent Assay,Treponema pallidum particle agglutination test,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0014441,C1315072,USES,Enzyme-Linked Immunosorbent Assay,Serology (antibodies and most antigens except blood bank and infectious agents),lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C1441604,USES,Enzyme-Linked Immunosorbent Assay,High sensitivity,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0014441,C1444132,USES,Enzyme-Linked Immunosorbent Assay,Immunochromatographic test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014441,C1510438,USES,Enzyme-Linked Immunosorbent Assay,Assay,lbpr,lbpr,27,USES_LBPRusesLBPR
+C0014441,C3812195,USES,Enzyme-Linked Immunosorbent Assay,Chemokine (C-X-C Motif) Ligand 10 Measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014441,C3830326,USES,Enzyme-Linked Immunosorbent Assay,Electrochemiluminescence,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0014772,C0007584,USES,Red Blood Cell Count measurement,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014772,C0007704,USES,Red Blood Cell Count measurement,"Centrifugation, Density Gradient",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014772,C0016263,USES,Red Blood Cell Count measurement,Flow Cytometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014772,C0018904,USES,Red Blood Cell Count measurement,Hemagglutination Inhibition Tests,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0014772,C0022885,USES,Red Blood Cell Count measurement,Laboratory Procedures,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0014772,C0026018,USES,Red Blood Cell Count measurement,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0014772,C1510438,USES,Red Blood Cell Count measurement,Assay,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0016263,C0007584,USES,Flow Cytometry,Cell Count,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0016263,C0016318,USES,Flow Cytometry,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C0026022,USES,Flow Cytometry,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C0032102,USES,Flow Cytometry,plaque assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016263,C0200931,USES,Flow Cytometry,Polymerase chain reaction analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C0282646,USES,Flow Cytometry,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C0597452,USES,Flow Cytometry,Single-Cell Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C1318786,USES,Flow Cytometry,Fluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016263,C1510438,USES,Flow Cytometry,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016318,C0007584,USES,Fluorescent Antibody Technique,Cell Count,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0016318,C0014441,USES,Fluorescent Antibody Technique,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0016318,C0016263,USES,Fluorescent Antibody Technique,Flow Cytometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016318,C0022885,USES,Fluorescent Antibody Technique,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016318,C0026018,USES,Fluorescent Antibody Technique,Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0016318,C0026022,USES,Fluorescent Antibody Technique,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016318,C0085672,USES,Fluorescent Antibody Technique,Microbiology procedure,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0016318,C0200924,USES,Fluorescent Antibody Technique,Molecular biology method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016318,C0430420,USES,Fluorescent Antibody Technique,Antigen assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016318,C0600324,USES,Fluorescent Antibody Technique,Serodiagnosis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016318,C1510438,USES,Fluorescent Antibody Technique,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016318,C4054524,USES,Fluorescent Antibody Technique,Microneutralization Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0016352,C1510438,USES,Fluorometry,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016456,C0600209,USES,Food Analysis,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018904,C0014772,USES,Hemagglutination Inhibition Tests,Red Blood Cell Count measurement,lbpr,lbpr,9,USES_LBPRusesLBPR
+C0018904,C0021069,USES,Hemagglutination Inhibition Tests,Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018904,C0079240,USES,Hemagglutination Inhibition Tests,Dilution technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0018904,C0430425,USES,Hemagglutination Inhibition Tests,Procedure to identify antibody,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018904,C1510438,USES,Hemagglutination Inhibition Tests,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018905,C0014772,USES,Hemagglutination test,Red Blood Cell Count measurement,lbpr,lbpr,12,USES_LBPRusesLBPR
+C0018905,C0032102,USES,Hemagglutination test,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018905,C0430402,USES,Hemagglutination test,Bacterial culture (procedure),lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018905,C1510438,USES,Hemagglutination test,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0018935,C0022885,USES,Hematocrit procedure,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0018935,C1510438,USES,Hematocrit procedure,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0019635,C0016318,USES,Histocytochemistry,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0019637,C0523207,USES,Histological Techniques,Hematoxylin and eosin stain method,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0020980,C0005863,USES,Immunoassay method,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020980,C0008550,USES,Immunoassay method,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020980,C0013064,USES,Immunoassay method,Dot Immunoblotting,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0020980,C0014441,USES,Immunoassay method,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0020985,C0007584,USES,Immunoblotting,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020985,C0032428,USES,Immunoblotting,2D Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020985,C0201709,USES,Immunoblotting,Chemiluminescence assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020985,C0337438,USES,Immunoblotting,Glucose measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020985,C0430425,USES,Immunoblotting,Procedure to identify antibody,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0020985,C0600209,USES,Immunoblotting,SDS-PAGE,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0020985,C1510438,USES,Immunoblotting,Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0020985,C3830326,USES,Immunoblotting,Electrochemiluminescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021001,C0013855,USES,"Immunoelectrophoresis, Two-Dimensional",Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C0007584,USES,Immunohistochemistry,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C0014441,USES,Immunohistochemistry,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0021044,C0016318,USES,Immunohistochemistry,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C0022885,USES,Immunohistochemistry,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C0441073,USES,Immunohistochemistry,Bright field,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C1510438,USES,Immunohistochemistry,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C4049944,USES,Immunohistochemistry,Ki67 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021044,C4054450,USES,Immunohistochemistry,Myelin Basic Protein Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021052,C0282646,USES,Immunodiagnosis,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021069,C0007584,USES,Immunoprecipitation,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0021069,C0428357,USES,Immunoprecipitation,Serum insulin measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021069,C0600209,USES,Immunoprecipitation,SDS-PAGE,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0021069,C1449705,USES,Immunoprecipitation,Co-Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0021074,C1510438,USES,Immunosorbent Techniques,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022526,C1514633,USES,Karyotype determination procedure,R-Banding,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022526,C1517334,USES,Karyotype determination procedure,G-Banding,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0001674,USES,Laboratory Procedures,Adsorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0005507,USES,Laboratory Procedures,Biological Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0007584,USES,Laboratory Procedures,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0008550,USES,Laboratory Procedures,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0008559,USES,Laboratory Procedures,Gel Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0008569,USES,Laboratory Procedures,Thin Layer Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0009555,USES,Laboratory Procedures,Complete Blood Count,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0022885,C0013855,USES,Laboratory Procedures,Electrophoresis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0014441,USES,Laboratory Procedures,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,138,USES_LBPRusesLBPR
+C0022885,C0014772,USES,Laboratory Procedures,Red Blood Cell Count measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0016316,USES,Laboratory Procedures,Fluorescence Polarization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0016318,USES,Laboratory Procedures,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0016352,USES,Laboratory Procedures,Fluorometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0018904,USES,Laboratory Procedures,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0020985,USES,Laboratory Procedures,Immunoblotting,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0022885,C0021052,USES,Laboratory Procedures,Immunodiagnosis,lbpr,lbpr,9,USES_LBPRusesLBPR
+C0022885,C0026018,USES,Laboratory Procedures,Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0022885,C0026019,USES,Laboratory Procedures,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0036759,USES,Laboratory Procedures,Serotyping,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0079240,USES,Laboratory Procedures,Dilution technique,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0022885,C0086231,USES,Laboratory Procedures,Enzyme Immunoassay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0200345,USES,Laboratory Procedures,Specimen Collection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0200631,USES,Laboratory Procedures,Complete blood count without differential,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0200765,USES,Laboratory Procedures,Image analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0200932,USES,Laboratory Procedures,Nucleic Acid Amplification Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0200955,USES,Laboratory Procedures,Viral culture procedure,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0022885,C0201811,USES,Laboratory Procedures,Fecal occult blood test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0242506,USES,Laboratory Procedures,Fluorescence Spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0282646,USES,Laboratory Procedures,Indirect Immunofluorescence,lbpr,lbpr,30,USES_LBPRusesLBPR
+C0022885,C0282647,USES,Laboratory Procedures,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0373861,USES,Laboratory Procedures,Immunodiffusion; not elsewhere specified (procedure in CPT),lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C0430389,USES,Laboratory Procedures,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0430425,USES,Laboratory Procedures,Procedure to identify antibody,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0474643,USES,Laboratory Procedures,Antibody titer measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0475379,USES,Laboratory Procedures,Single radial hemolysis,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0022885,C0596495,USES,Laboratory Procedures,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0597717,USES,Laboratory Procedures,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0599616,USES,Laboratory Procedures,Virus identification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0600324,USES,Laboratory Procedures,Serodiagnosis,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0022885,C0678624,USES,Laboratory Procedures,flotation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0678628,USES,Laboratory Procedures,membrane filtration,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0858451,USES,Laboratory Procedures,serum immunoglobulin a,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0871511,USES,Laboratory Procedures,Test Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C0872232,USES,Laboratory Procedures,Nucleic acid assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C1273935,USES,Laboratory Procedures,Anaerobic microbial culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1275826,USES,Laboratory Procedures,PCR test for SARS,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C1277852,USES,Laboratory Procedures,RSV antigen level,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1285573,USES,Laboratory Procedures,Genotype determination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1294356,USES,Laboratory Procedures,Detection of virus procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0022885,C1294423,USES,Laboratory Procedures,Allergen identification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1294915,USES,Laboratory Procedures,Rotavirus antigen assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1441457,USES,Laboratory Procedures,Agar diffusion,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0022885,C1441554,USES,Laboratory Procedures,Direct assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C1441604,USES,Laboratory Procedures,High sensitivity,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0022885,C1443948,USES,Laboratory Procedures,Measurement of antibody using direct fluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1510438,USES,Laboratory Procedures,Assay,lbpr,lbpr,23,USES_LBPRusesLBPR
+C0022885,C1511124,USES,Laboratory Procedures,"Bioassay, In Vivo",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1533728,USES,Laboratory Procedures,Hepatitis C virus genotype determination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1535922,USES,Laboratory Procedures,Procalcitonin measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1551407,USES,Laboratory Procedures,Plate agglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1551411,USES,Laboratory Procedures,Tube agglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1553126,USES,Laboratory Procedures,Agar Gel Immunodiffusion,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0022885,C1553132,USES,Laboratory Procedures,API 20E,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1553166,USES,Laboratory Procedures,Transcription-mediated Amplification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C1707759,USES,Laboratory Procedures,Direct Fluorescent Antibody Test,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0022885,C1720909,USES,Laboratory Procedures,Kirby-Bauer Disk-Diffusion Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C2229773,USES,Laboratory Procedures,serum indirect Hemagglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C2229794,USES,Laboratory Procedures,serum Latex agglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C2347644,USES,Laboratory Procedures,Positive Selection,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C2697666,USES,Laboratory Procedures,Immunoenzyme Procedure,lbpr,lbpr,9,USES_LBPRusesLBPR
+C0022885,C2707655,USES,Laboratory Procedures,Respiratory Pathogen Panel,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C2825907,USES,Laboratory Procedures,ProB-Type Natriuretic Peptide Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0022885,C3178802,USES,Laboratory Procedures,Interferon-gamma Release Tests,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0022885,C3539922,USES,Laboratory Procedures,Loop-mediated Isothermal Amplification,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C4264425,USES,Laboratory Procedures,Culture-independent,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0022885,C4318939,USES,Laboratory Procedures,Nasal Swab (procedure),lbpr,lbpr,1,USES_LBPRusesLBPR
+C0023117,C0014441,USES,Latex Fixation Tests,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0023508,C0022885,USES,White Blood Cell Count procedure,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0024868,C0008562,USES,Gas Chromatography-Mass Spectrometry,High pressure liquid chromatography procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0024868,C1510438,USES,Gas Chromatography-Mass Spectrometry,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0007584,USES,Microscopy,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026018,C0007703,USES,Microscopy,Centrifugation,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026018,C0014441,USES,Microscopy,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0022885,USES,Microscopy,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026018,C0026022,USES,Microscopy,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0242841,USES,Microscopy,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0282646,USES,Microscopy,Indirect Immunofluorescence,lbpr,lbpr,91,USES_LBPRusesLBPR
+C0026018,C0430389,USES,Microscopy,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0523207,USES,Microscopy,Hematoxylin and eosin stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C0597717,USES,Microscopy,Fluorescence Resonance Energy Transfer,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0026018,C0696215,USES,Microscopy,wet mount,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026018,C1442775,USES,Microscopy,IMMUNE FLUORESCENCE,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0026018,C1719039,USES,Microscopy,High resolution,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0026018,C2238079,USES,Microscopy,Blood Smear,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0026019,C0021052,USES,Electron Microscopy,Immunodiagnosis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026019,C0085194,USES,Electron Microscopy,Negative Staining,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026019,C0200955,USES,Electron Microscopy,Viral culture procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026019,C0242349,USES,Electron Microscopy,Immunocytochemistry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026019,C0242842,USES,Electron Microscopy,"Microscopy, Confocal",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026019,C0430389,USES,Electron Microscopy,Light Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026019,C1294356,USES,Electron Microscopy,Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026019,C1719039,USES,Electron Microscopy,High resolution,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0026019,C2350255,USES,Electron Microscopy,Electron Microscope Tomography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026020,C0242849,USES,Scanning Electron Microscopy,"Microscopy, Atomic Force",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026020,C0678118,USES,Scanning Electron Microscopy,Transmission Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026020,C1719039,USES,Scanning Electron Microscopy,High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026022,C0007584,USES,"Microscopy, Fluorescence",Cell Count,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0026022,C0014441,USES,"Microscopy, Fluorescence",Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026022,C0016263,USES,"Microscopy, Fluorescence",Flow Cytometry,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0026022,C0016318,USES,"Microscopy, Fluorescence",Fluorescent Antibody Technique,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0026022,C0027944,USES,"Microscopy, Fluorescence",Neutralization Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026022,C0242841,USES,"Microscopy, Fluorescence","Microscopy, Confocal, Laser Scanning",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026022,C0282597,USES,"Microscopy, Fluorescence","Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026022,C1441604,USES,"Microscopy, Fluorescence",High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026024,C0441073,USES,"Microscopy, Phase-Contrast",Bright field,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0026040,C0678118,USES,Microtomy,Transmission Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0027944,C0007584,USES,Neutralization Tests,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0027944,C0014441,USES,Neutralization Tests,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0027944,C0016263,USES,Neutralization Tests,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0027944,C0016318,USES,Neutralization Tests,Fluorescent Antibody Technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0027944,C0040284,USES,Neutralization Tests,Tissue culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0027944,C0085672,USES,Neutralization Tests,Microbiology procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0031753,C0016318,USES,Photomicrography,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0031753,C0026024,USES,Photomicrography,"Microscopy, Phase-Contrast",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032102,C0007584,USES,plaque assay,Cell Count,lbpr,lbpr,29,USES_LBPRusesLBPR
+C0032102,C0027944,USES,plaque assay,Neutralization Tests,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0032102,C0036782,USES,plaque assay,Serum Bactericidal Test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032102,C0079240,USES,plaque assay,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032102,C1293968,USES,plaque assay,Crystal violet stain method,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0032181,C0009555,USES,Platelet Count measurement,Complete Blood Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0007584,USES,Polymerase Chain Reaction,Cell Count,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0032520,C0013855,USES,Polymerase Chain Reaction,Electrophoresis,lbpr,lbpr,13,USES_LBPRusesLBPR
+C0032520,C0013856,USES,Polymerase Chain Reaction,"Electrophoresis, Agar Gel",lbpr,lbpr,9,USES_LBPRusesLBPR
+C0032520,C0014441,USES,Polymerase Chain Reaction,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0022885,USES,Polymerase Chain Reaction,Laboratory Procedures,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0032520,C0026018,USES,Polymerase Chain Reaction,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0026019,USES,Polymerase Chain Reaction,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0037812,USES,Polymerase Chain Reaction,Spectrum Analysis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0037813,USES,Polymerase Chain Reaction,Mass Spectrometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0079240,USES,Polymerase Chain Reaction,Dilution technique,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0032520,C0085672,USES,Polymerase Chain Reaction,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0162801,USES,Polymerase Chain Reaction,Sequence Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0200345,USES,Polymerase Chain Reaction,Specimen Collection,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0200765,USES,Polymerase Chain Reaction,Image analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0200949,USES,Polymerase Chain Reaction,Blood culture,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0200955,USES,Polymerase Chain Reaction,Viral culture procedure,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0032520,C0201519,USES,Polymerase Chain Reaction,Antibody to islet cells of pancreas measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0201699,USES,Polymerase Chain Reaction,"Electrophoresis, Capillary",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0201811,USES,Polymerase Chain Reaction,Fecal occult blood test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0206691,USES,Polymerase Chain Reaction,Electroporation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0430402,USES,Polymerase Chain Reaction,Bacterial culture (procedure),lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0596495,USES,Polymerase Chain Reaction,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0599616,USES,Polymerase Chain Reaction,Virus identification,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C0871511,USES,Polymerase Chain Reaction,Test Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C0872148,USES,Polymerase Chain Reaction,DNA purification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C1285573,USES,Polymerase Chain Reaction,Genotype determination,lbpr,lbpr,9,USES_LBPRusesLBPR
+C0032520,C1294356,USES,Polymerase Chain Reaction,Detection of virus procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C1318786,USES,Polymerase Chain Reaction,Fluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C1441565,USES,Polymerase Chain Reaction,Elution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C1441604,USES,Polymerase Chain Reaction,High sensitivity,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0032520,C1449619,USES,Polymerase Chain Reaction,Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C1510438,USES,Polymerase Chain Reaction,Assay,lbpr,lbpr,24,USES_LBPRusesLBPR
+C0032520,C2347338,USES,Polymerase Chain Reaction,Negative Selection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C3146302,USES,Polymerase Chain Reaction,Mutagenesis Procedure,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0032520,C3178894,USES,Polymerase Chain Reaction,Genotyping Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C3811844,USES,Polymerase Chain Reaction,Estimated Glomerular Filtration Rate,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0032520,C4318939,USES,Polymerase Chain Reaction,Nasal Swab (procedure),lbpr,lbpr,6,USES_LBPRusesLBPR
+C0032520,C4505178,USES,Polymerase Chain Reaction,Immunoturbidimetric Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0034580,C0021069,USES,Radioimmunoassay,Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0034584,C0005863,USES,Radioimmunoprecipitation Assay,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0034589,C0008562,USES,Radioisotope Dilution Technique,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0035269,C0013856,USES,Restriction Mapping,"Electrophoresis, Agar Gel",lbpr,lbpr,2,USES_LBPRusesLBPR
+C0036743,C0014441,USES,Serologic tests,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0036743,C0016318,USES,Serologic tests,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0036743,C0022885,USES,Serologic tests,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0036743,C0027944,USES,Serologic tests,Neutralization Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0036743,C0282646,USES,Serologic tests,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0036759,C1510438,USES,Serotyping,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0036782,C0032102,USES,Serum Bactericidal Test,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037805,C2945612,USES,Spectrophotometry,mass chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037812,C0001674,USES,Spectrum Analysis,Adsorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037812,C0008813,USES,Spectrum Analysis,Circular Dichroism,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037812,C0444427,USES,Spectrum Analysis,Ultraviolet absorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037812,C0597717,USES,Spectrum Analysis,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037812,C2697666,USES,Spectrum Analysis,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C0007584,USES,Mass Spectrometry,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C0008551,USES,Mass Spectrometry,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C0008562,USES,Mass Spectrometry,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C0201699,USES,Mass Spectrometry,"Electrophoresis, Capillary",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C0282597,USES,Mass Spectrometry,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",lbpr,lbpr,11,USES_LBPRusesLBPR
+C0037813,C0436196,USES,Mass Spectrometry,Spectrometry,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0037813,C0872318,USES,Mass Spectrometry,Liquid Chromatography Mass Spectrometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0037813,C1441604,USES,Mass Spectrometry,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C1510438,USES,Mass Spectrometry,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C1516801,USES,Mass Spectrometry,Electrospray Ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C1537055,USES,Mass Spectrometry,surface enhanced laser desorption ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C1553145,USES,Mass Spectrometry,Vitek,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0037813,C1719039,USES,Mass Spectrometry,High resolution,lbpr,lbpr,35,USES_LBPRusesLBPR
+C0038577,C1510438,USES,Substance Abuse Detection,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0040284,C0007584,USES,Tissue culture,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0041394,C0023117,USES,Turbidimetry,Latex Fixation Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0041609,C0200931,USES,Ultracentrifugation,Polymerase chain reaction analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0041609,C1510438,USES,Ultracentrifugation,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0042014,C0026018,USES,Urinalysis,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0042014,C0037813,USES,Urinalysis,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0042014,C0162622,USES,Urinalysis,Titrimetry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0042014,C0428627,USES,Urinalysis,Protein to Creatinine Ratio Measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0042014,C1294275,USES,Urinalysis,Aerobic microbial culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0007584,USES,Dilution technique,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0014441,USES,Dilution technique,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,7,USES_LBPRusesLBPR
+C0079240,C0018904,USES,Dilution technique,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0022885,USES,Dilution technique,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0024868,USES,Dilution technique,Gas Chromatography-Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0027944,USES,Dilution technique,Neutralization Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0085672,USES,Dilution technique,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0201591,USES,Dilution technique,Interferon assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0427716,USES,Dilution technique,"Protein concentration, test strip measurement",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C0474643,USES,Dilution technique,Antibody titer measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C1318793,USES,Dilution technique,Immunofluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C1441604,USES,Dilution technique,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079240,C1510438,USES,Dilution technique,Assay,lbpr,lbpr,13,USES_LBPRusesLBPR
+C0079604,C1719039,USES,Immunofluorescence Microscopy,High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0079607,C0026019,USES,Immunogold Techniques,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0085188,C0026022,USES,Cryoultramicrotomy,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0085188,C1710378,USES,Cryoultramicrotomy,Thaw,lbpr,lbpr,23,USES_LBPRusesLBPR
+C0085194,C0026019,USES,Negative Staining,Electron Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0086231,C0013064,USES,Enzyme Immunoassay,Dot Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086231,C0201709,USES,Enzyme Immunoassay,Chemiluminescence assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086231,C3714540,USES,Enzyme Immunoassay,HIV Antibody Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086890,C0014441,USES,Quick Test for Liver Function,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0086890,C0016263,USES,Quick Test for Liver Function,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086890,C0200955,USES,Quick Test for Liver Function,Viral culture procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0086890,C1277852,USES,Quick Test for Liver Function,RSV antigen level,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086890,C1441604,USES,Quick Test for Liver Function,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0086890,C1510438,USES,Quick Test for Liver Function,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0086890,C2697666,USES,Quick Test for Liver Function,Immunoenzyme Procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0086890,C3178849,USES,Quick Test for Liver Function,Immunochromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162621,C0006779,USES,Titration Method,Calorimetry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0162621,C0014441,USES,Titration Method,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162621,C1261478,USES,Titration Method,Viral load measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162621,C1441604,USES,Titration Method,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162788,C0016318,USES,In Situ Hybridization,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162789,C0079240,USES,Fluorescent in Situ Hybridization,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162801,C0007584,USES,Sequence Analysis,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162801,C0032520,USES,Sequence Analysis,Polymerase Chain Reaction,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0162801,C0037813,USES,Sequence Analysis,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200345,C0018904,USES,Specimen Collection,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200345,C0022885,USES,Specimen Collection,Laboratory Procedures,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0200345,C1261153,USES,Specimen Collection,Drug measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200345,C1510438,USES,Specimen Collection,Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0200345,C4321306,USES,Specimen Collection,Nasal Wash and Collection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200345,C4505178,USES,Specimen Collection,Immunoturbidimetric Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0008562,USES,Specimen preparation,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0026019,USES,Specimen preparation,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0026020,USES,Specimen preparation,Scanning Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0037813,USES,Specimen preparation,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0085194,USES,Specimen preparation,Negative Staining,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0200363,C0200932,USES,Specimen preparation,Nucleic Acid Amplification Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0242842,USES,Specimen preparation,"Microscopy, Confocal",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C0597705,USES,Specimen preparation,Cryoelectron Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0200363,C0872232,USES,Specimen preparation,Nucleic acid assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200363,C1510438,USES,Specimen preparation,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200382,C0037812,USES,Lipid panel,Spectrum Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200636,C1441488,USES,Reactive Lymphocyte Count Measurement,Auto,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200665,C1979797,USES,Platelet mean volume determination (procedure),Platelet indices,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200760,C2362103,USES,Morphometric analysis,Computer assisted,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200765,C0016318,USES,Image analysis,Fluorescent Antibody Technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0200765,C0026018,USES,Image analysis,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200765,C0026019,USES,Image analysis,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200765,C0242842,USES,Image analysis,"Microscopy, Confocal",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200765,C1285572,USES,Image analysis,Phenotype determination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200898,C0013064,USES,DNA analysis,Dot Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200898,C0016263,USES,DNA analysis,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200902,C0007584,USES,Fluorescence activated cell sorter assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200902,C0597717,USES,Fluorescence activated cell sorter assay,Fluorescence Resonance Energy Transfer,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0200931,C0013855,USES,Polymerase chain reaction analysis,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200931,C0596495,USES,Polymerase chain reaction analysis,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200931,C0599734,USES,Polymerase chain reaction analysis,Denaturing Gradient Gel Electrophoresis,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0200931,C1285573,USES,Polymerase chain reaction analysis,Genotype determination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200931,C1510438,USES,Polymerase chain reaction analysis,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200932,C0022885,USES,Nucleic Acid Amplification Tests,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200932,C0036743,USES,Nucleic Acid Amplification Tests,Serologic tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200949,C1553145,USES,Blood culture,Vitek,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200949,C1720786,USES,Blood culture,Antibiogram,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C0001674,USES,Viral culture procedure,Adsorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C0007584,USES,Viral culture procedure,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C0018904,USES,Viral culture procedure,Hemagglutination Inhibition Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C0022885,USES,Viral culture procedure,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0200955,C0032102,USES,Viral culture procedure,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C0201248,USES,Viral culture procedure,Egg inoculation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C1449619,USES,Viral culture procedure,Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C1510438,USES,Viral culture procedure,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C1719048,USES,Viral culture procedure,Shell Vial Culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0200955,C2733022,USES,Viral culture procedure,Quantitative PCR analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201223,C0474643,USES,Synergistic hemolysis test,Antibody titer measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201248,C0014772,USES,Egg inoculation,Red Blood Cell Count measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201284,C0430420,USES,Fluorescent antibody measurement,Antigen assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0201284,C0457437,USES,Fluorescent antibody measurement,Microscopy technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201284,C1510438,USES,Fluorescent antibody measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201286,C1510438,USES,Fluorescent antibody titer,Assay,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0201300,C1510438,USES,Serum neutralization test,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201336,C0016318,USES,Viral serologic study,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201336,C1510438,USES,Viral serologic study,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201478,C3830325,USES,Hepatitis B surface antibody measurement,Electrochemiluminescence Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201511,C0020985,USES,Smooth muscle antibody measurement,Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201519,C0014441,USES,Antibody to islet cells of pancreas measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0201519,C1510438,USES,Antibody to islet cells of pancreas measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201544,C0014441,USES,Prostate specific antigen measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201576,C0014441,USES,Cytokine assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0201576,C4522212,USES,Cytokine assay,Complement Ba Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201584,C0920508,USES,IL-2 assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201586,C0920508,USES,IL-4 assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0201591,C0014441,USES,Interferon assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201591,C0597717,USES,Interferon assay,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201591,C0920508,USES,Interferon assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,51,USES_LBPRusesLBPR
+C0201594,C0920508,USES,Interferon gamma assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0201595,C0014441,USES,Tumor necrosis factor assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201595,C0920508,USES,Tumor necrosis factor assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201595,C3830326,USES,Tumor necrosis factor assay,Electrochemiluminescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201618,C0007584,USES,Cell mediated lympholysis assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201619,C0014441,USES,Antigen capture assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0201622,C0007584,USES,Cytotoxicity assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201622,C1318869,USES,Cytotoxicity assay,Trypan blue stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201624,C0016263,USES,Antibody dependent cellular cytotoxicity assay,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201657,C0027692,USES,C-reactive protein measurement,Nephelometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201657,C1442046,USES,C-reactive protein measurement,Westergren,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201677,C0036743,USES,Viral neutralization test,Serologic tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201679,C1510438,USES,Human papillomavirus typing (procedure),Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201683,C0597239,USES,Chemical method,physical separation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201699,C0085672,USES,"Electrophoresis, Capillary",Microbiology procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0201699,C1510438,USES,"Electrophoresis, Capillary",Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201699,C1719039,USES,"Electrophoresis, Capillary",High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201709,C0005863,USES,Chemiluminescence assay,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201709,C0038577,USES,Chemiluminescence assay,Substance Abuse Detection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201709,C0949466,USES,Chemiluminescence assay,Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201720,C0013856,USES,Serum protein electrophoresis,"Electrophoresis, Agar Gel",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201783,C0014441,USES,Inhibition test,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201783,C0016318,USES,Inhibition test,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201783,C0022885,USES,Inhibition test,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201811,C0014441,USES,Fecal occult blood test,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0201811,C0678624,USES,Fecal occult blood test,flotation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0202010,C0014441,USES,Fecal analysis procedure,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0202010,C0678624,USES,Fecal analysis procedure,flotation,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0202143,C1510438,USES,Neopterin measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0202165,C0597717,USES,Hydrogen ion concentration measurement,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0202533,C0034554,USES,Semen analysis procedure,Radioallergosorbent Test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0206691,C0007584,USES,Electroporation,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0206691,C0032102,USES,Electroporation,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0206691,C0600209,USES,Electroporation,SDS-PAGE,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0206755,C1719039,USES,"Crystallography, X-Ray",High resolution,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0242318,C1719039,USES,HLA Typing,High resolution,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0242349,C0026019,USES,Immunocytochemistry,Electron Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0242349,C0026022,USES,Immunocytochemistry,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242831,C0014441,USES,Epitope Mapping,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242831,C3146302,USES,Epitope Mapping,Mutagenesis Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242841,C0007584,USES,"Microscopy, Confocal, Laser Scanning",Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242841,C0016318,USES,"Microscopy, Confocal, Laser Scanning",Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242841,C0201720,USES,"Microscopy, Confocal, Laser Scanning",Serum protein electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242842,C0005863,USES,"Microscopy, Confocal",Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242842,C0007584,USES,"Microscopy, Confocal",Cell Count,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0242842,C0016318,USES,"Microscopy, Confocal",Fluorescent Antibody Technique,lbpr,lbpr,30,USES_LBPRusesLBPR
+C0242842,C0242841,USES,"Microscopy, Confocal","Microscopy, Confocal, Laser Scanning",lbpr,lbpr,3,USES_LBPRusesLBPR
+C0242842,C0282646,USES,"Microscopy, Confocal",Indirect Immunofluorescence,lbpr,lbpr,11,USES_LBPRusesLBPR
+C0242842,C0282647,USES,"Microscopy, Confocal","Fluorescent Antibody Technique, Indirect",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242842,C1510438,USES,"Microscopy, Confocal",Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0242842,C1719039,USES,"Microscopy, Confocal",High resolution,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0242849,C1719039,USES,"Microscopy, Atomic Force",High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0260249,C0001674,USES,Infrared spectroscopy,Adsorption,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0260252,C0008550,USES,Emission spectroscopy,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282547,C0007584,USES,Coculture Techniques,Cell Count,lbpr,lbpr,20,USES_LBPRusesLBPR
+C0282547,C0242349,USES,Coculture Techniques,Immunocytochemistry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282597,C0008556,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization","Chromatography, Gas-Liquid",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282597,C0008565,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282597,C1553145,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Vitek,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0007584,USES,Indirect Immunofluorescence,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0014441,USES,Indirect Immunofluorescence,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0021052,USES,Indirect Immunofluorescence,Immunodiagnosis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0022885,USES,Indirect Immunofluorescence,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0026022,USES,Indirect Immunofluorescence,"Microscopy, Fluorescence",lbpr,lbpr,4,USES_LBPRusesLBPR
+C0282646,C0242841,USES,Indirect Immunofluorescence,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282646,C0597717,USES,Indirect Immunofluorescence,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282647,C0007584,USES,"Fluorescent Antibody Technique, Indirect",Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282647,C0022885,USES,"Fluorescent Antibody Technique, Indirect",Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282647,C0026018,USES,"Fluorescent Antibody Technique, Indirect",Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282647,C0026022,USES,"Fluorescent Antibody Technique, Indirect","Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282649,C0007584,USES,"Fluorescent Antibody Technique, Direct",Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0282649,C1510438,USES,"Fluorescent Antibody Technique, Direct",Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0368676,C0005863,USES,Antibody screen,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0368676,C0009541,USES,Antibody screen,Complement Fixation Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0369671,C1510438,USES,Microscopic observation,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0373919,C1510438,USES,Influenza virus antibody test,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427385,C0016263,USES,Cell phenotype determination procedure,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427408,C3825122,USES,Serum vitamin B12 measurement,Chemiluminescence immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C0008559,USES,"Protein concentration, test strip measurement",Gel Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C0014441,USES,"Protein concentration, test strip measurement",Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C0021069,USES,"Protein concentration, test strip measurement",Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C0079240,USES,"Protein concentration, test strip measurement",Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C0600209,USES,"Protein concentration, test strip measurement",SDS-PAGE,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0427716,C0949466,USES,"Protein concentration, test strip measurement",Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C1449705,USES,"Protein concentration, test strip measurement",Co-Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0427716,C1510438,USES,"Protein concentration, test strip measurement",Assay,lbpr,lbpr,13,USES_LBPRusesLBPR
+C0427716,C1514627,USES,"Protein concentration, test strip measurement",Quantitative Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428152,C0428627,USES,Urine level measurement,Protein to Creatinine Ratio Measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0428247,C1510438,USES,Poison measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428539,C0014441,USES,Total immunoglobulin measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428539,C0020980,USES,Total immunoglobulin measurement,Immunoassay method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428539,C0086231,USES,Total immunoglobulin measurement,Enzyme Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428539,C1510438,USES,Total immunoglobulin measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428581,C0008565,USES,Serum vitamin A measurement,Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0428627,C2697666,USES,Protein to Creatinine Ratio Measurement,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430027,C1510438,USES,biochemical test,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430325,C0007584,USES,Lymphocytotoxicity assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430389,C0026018,USES,Light Microscopy,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430389,C0026024,USES,Light Microscopy,"Microscopy, Phase-Contrast",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430389,C1510438,USES,Light Microscopy,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430402,C1294356,USES,Bacterial culture (procedure),Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430402,C1510438,USES,Bacterial culture (procedure),Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430420,C0007584,USES,Antigen assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430420,C0014441,USES,Antigen assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430420,C0016318,USES,Antigen assay,Fluorescent Antibody Technique,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0430420,C0086890,USES,Antigen assay,Quick Test for Liver Function,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430420,C1318793,USES,Antigen assay,Immunofluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430420,C3178849,USES,Antigen assay,Immunochromatography,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0430420,C4049928,USES,Antigen assay,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430425,C0005863,USES,Procedure to identify antibody,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430425,C0014441,USES,Procedure to identify antibody,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0430425,C0016318,USES,Procedure to identify antibody,Fluorescent Antibody Technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0430425,C0022885,USES,Procedure to identify antibody,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0430425,C0086231,USES,Procedure to identify antibody,Enzyme Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0436196,C0008555,USES,Spectrometry,Gas Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0436196,C0008813,USES,Spectrometry,Circular Dichroism,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0436196,C0444427,USES,Spectrometry,Ultraviolet absorption,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0436196,C2945612,USES,Spectrometry,mass chromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0441667,C0085672,USES,Broth dilution,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0441707,C0282597,USES,Biotyping,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0444680,C0037813,USES,Protein profiling,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0444680,C1537055,USES,Protein profiling,surface enhanced laser desorption ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0445138,C0037813,USES,Nucleic acid analysis,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0457437,C0242842,USES,Microscopy technique,"Microscopy, Confocal",lbpr,lbpr,3,USES_LBPRusesLBPR
+C0457437,C1719039,USES,Microscopy technique,High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C0001802,USES,Antibody titer measurement,Agglutination Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C0014441,USES,Antibody titer measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,29,USES_LBPRusesLBPR
+C0474643,C0016318,USES,Antibody titer measurement,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C0022885,USES,Antibody titer measurement,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0474643,C0027944,USES,Antibody titer measurement,Neutralization Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C0201478,USES,Antibody titer measurement,Hepatitis B surface antibody measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C1510438,USES,Antibody titer measurement,Assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0474643,C1551404,USES,Antibody titer measurement,Serum Neutralization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0474643,C2229730,USES,Antibody titer measurement,serum Haemagglutination inhibition,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0474643,C4049928,USES,Antibody titer measurement,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0474643,C4054524,USES,Antibody titer measurement,Microneutralization Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0487602,C0016263,USES,Staining method,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0487602,C0026022,USES,Staining method,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0522986,C1510438,USES,Antibody titration,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0523207,C0007584,USES,Hematoxylin and eosin stain method,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0523207,C0026022,USES,Hematoxylin and eosin stain method,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0523465,C0033085,USES,Serum albumin measurement,Biologic Preservation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0523559,C0947630,USES,Intermediate density lipoprotein cholesterol measurement (procedure),Scientific Study,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0523826,C1441554,USES,Phosphate measurement,Direct assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0523891,C0018941,USES,Serum sodium measurement,Hematologic Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0525032,C0033707,USES,International Normalized Ratio,Prothrombin time assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0552933,C0242506,USES,Free Prostate Specific Antigen Measurement,Fluorescence Spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0554818,C0373861,USES,Double test,Immunodiffusion; not elsewhere specified (procedure in CPT),lbpr,lbpr,1,USES_LBPRusesLBPR
+C0558979,C1275826,USES,Serum blood tests,PCR test for SARS,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0558979,C2229794,USES,Serum blood tests,serum Latex agglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0580327,C0014441,USES,Antibody studies (procedure),Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0580327,C0016318,USES,Antibody studies (procedure),Fluorescent Antibody Technique,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0580327,C0282646,USES,Antibody studies (procedure),Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0596085,C0597428,USES,Analytical Ultracentrifugation,Sedimentation procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0596495,C1719039,USES,"Spectrometry, Mass, Electrospray Ionization",High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0596795,C0026019,USES,Intravital Microscopy,Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0596795,C0037805,USES,Intravital Microscopy,Spectrophotometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0596967,C1510438,USES,molecular sieving,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0597301,C0008550,USES,protein purification,Chromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0597301,C0008551,USES,protein purification,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0597428,C0872318,USES,Sedimentation procedure,Liquid Chromatography Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0597452,C0200760,USES,Single-Cell Analysis,Morphometric analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0597705,C0010424,USES,Cryoelectron Microscopy,Crystallography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0597705,C1719039,USES,Cryoelectron Microscopy,High resolution,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0597717,C0016263,USES,Fluorescence Resonance Energy Transfer,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0599209,C0022885,USES,Fast Protein Liquid Chromatography,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0599209,C0085672,USES,Fast Protein Liquid Chromatography,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0599616,C0200955,USES,Virus identification,Viral culture procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0599616,C1510438,USES,Virus identification,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0599777,C0162789,USES,physical mapping,Fluorescent in Situ Hybridization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600209,C0004400,USES,SDS-PAGE,Autoradiography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600209,C0005863,USES,SDS-PAGE,Western Blotting,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0600209,C0011321,USES,SDS-PAGE,Densitometry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0600209,C0013855,USES,SDS-PAGE,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600209,C0014441,USES,SDS-PAGE,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0600209,C0949466,USES,SDS-PAGE,Western Blot,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0600209,C1293950,USES,SDS-PAGE,Silver stain method,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0600209,C1449705,USES,SDS-PAGE,Co-Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600209,C3146302,USES,SDS-PAGE,Mutagenesis Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600324,C0014441,USES,Serodiagnosis,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600395,C0026022,USES,Laser Microscopy,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600395,C0282647,USES,Laser Microscopy,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0600396,C0016318,USES,Laser Scanning Microscopy,Fluorescent Antibody Technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0678118,C0026040,USES,Transmission Electron Microscopy,Microtomy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0678118,C0085194,USES,Transmission Electron Microscopy,Negative Staining,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0678118,C0430389,USES,Transmission Electron Microscopy,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0678621,C0008565,USES,separation method,Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0678624,C0007703,USES,flotation,Centrifugation,lbpr,lbpr,6,USES_LBPRusesLBPR
+C0678624,C0430389,USES,flotation,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0678647,C0037812,USES,optical analysis,Spectrum Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0679560,C0022885,USES,Genetic screening method,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0684292,C0037812,USES,Illumination Technique,Spectrum Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0684296,C0201720,USES,Column Chromatography,Serum protein electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0684296,C0600209,USES,Column Chromatography,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0729856,C0014441,USES,Antigen test,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0729856,C0022885,USES,Antigen test,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0729856,C3178849,USES,Antigen test,Immunochromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0729856,C3178850,USES,Antigen test,Immunochromatographic Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0752248,C1449575,USES,Gene Expression Profiling,Microarray Analysis,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0806957,C0007584,USES,Microbial susceptibility tests,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0806957,C1720909,USES,Microbial susceptibility tests,Kirby-Bauer Disk-Diffusion Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0814048,C0007616,USES,Cytometry,Cell Separation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0814048,C0201576,USES,Cytometry,Cytokine assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872232,C0005863,USES,Nucleic acid assay,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872232,C0014441,USES,Nucleic acid assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872232,C1294356,USES,Nucleic acid assay,Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872232,C1510438,USES,Nucleic acid assay,Assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0872262,C0013856,USES,RNA Analysis,"Electrophoresis, Agar Gel",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872262,C0162789,USES,RNA Analysis,Fluorescent in Situ Hybridization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C0005863,USES,Liquid Chromatography Mass Spectrometry,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C0008550,USES,Liquid Chromatography Mass Spectrometry,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C0008562,USES,Liquid Chromatography Mass Spectrometry,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C0600209,USES,Liquid Chromatography Mass Spectrometry,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C1516801,USES,Liquid Chromatography Mass Spectrometry,Electrospray Ionization,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0872318,C1719039,USES,Liquid Chromatography Mass Spectrometry,High resolution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0872318,C3178840,USES,Liquid Chromatography Mass Spectrometry,Liquid-Liquid Extraction,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0883003,C0014441,USES,Differential panel,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0883003,C0022885,USES,Differential panel,Laboratory Procedures,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0883003,C1510438,USES,Differential panel,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0883409,C1441604,USES,Cardiac troponin I measurement,High sensitivity,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0919386,C0026018,USES,Pathology procedure,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0919386,C1510438,USES,Pathology procedure,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0920433,C0007584,USES,cell preparation,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0920508,C0007584,USES,Enzyme-Linked Immunospot Assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0920508,C0014441,USES,Enzyme-Linked Immunospot Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0920624,C0016352,USES,nucleic acid quantitation,Fluorometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0007584,USES,Scientific Study,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0947630,C0008630,USES,Scientific Study,Chromosome Mapping,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0947630,C0010424,USES,Scientific Study,Crystallography,lbpr,lbpr,24,USES_LBPRusesLBPR
+C0947630,C0013845,USES,Scientific Study,Electron Spin Resonance Spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0016318,USES,Scientific Study,Fluorescent Antibody Technique,lbpr,lbpr,34,USES_LBPRusesLBPR
+C0947630,C0022885,USES,Scientific Study,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0026018,USES,Scientific Study,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0026019,USES,Scientific Study,Electron Microscopy,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0947630,C0026022,USES,Scientific Study,"Microscopy, Fluorescence",lbpr,lbpr,4,USES_LBPRusesLBPR
+C0947630,C0037812,USES,Scientific Study,Spectrum Analysis,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0947630,C0079604,USES,Scientific Study,Immunofluorescence Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0206755,USES,Scientific Study,"Crystallography, X-Ray",lbpr,lbpr,3,USES_LBPRusesLBPR
+C0947630,C0242831,USES,Scientific Study,Epitope Mapping,lbpr,lbpr,10,USES_LBPRusesLBPR
+C0947630,C0242842,USES,Scientific Study,"Microscopy, Confocal",lbpr,lbpr,5,USES_LBPRusesLBPR
+C0947630,C0242849,USES,Scientific Study,"Microscopy, Atomic Force",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0282646,USES,Scientific Study,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0430389,USES,Scientific Study,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0597705,USES,Scientific Study,Cryoelectron Microscopy,lbpr,lbpr,4,USES_LBPRusesLBPR
+C0947630,C0678118,USES,Scientific Study,Transmission Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C0949466,USES,Scientific Study,Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C1441648,USES,Scientific Study,Microscopy.electron.thin section,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0947630,C1510438,USES,Scientific Study,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0947630,C1708481,USES,Scientific Study,In Vivo Imaging,lbpr,lbpr,5,USES_LBPRusesLBPR
+C0947630,C4264425,USES,Scientific Study,Culture-independent,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0947630,C4277686,USES,Scientific Study,Single Molecule Imaging,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0949466,C0007584,USES,Western Blot,Cell Count,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0949466,C0008551,USES,Western Blot,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
+C0949466,C0201242,USES,Western Blot,Animal inoculation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C0949466,C0600209,USES,Western Blot,SDS-PAGE,lbpr,lbpr,3,USES_LBPRusesLBPR
+C0949632,C0600209,USES,Electrophoretic Mobility Shift Assay,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1167875,C0010818,USES,cerebrospinal fluid test,Cytological Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1167996,C0016263,USES,B lymphocyte count procedure,Flow Cytometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1168005,C1510438,USES,Alpha tumour necrosis factor measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1254545,C1441565,USES,time measurements,Elution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1261149,C1444132,USES,Viral antigen assay,Immunochromatographic test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1261153,C0487602,USES,Drug measurement,Staining method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1261478,C0022885,USES,Viral load measurement,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1261478,C3850137,USES,Viral load measurement,In Vitro Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1266211,C0016318,USES,Optical density measurement,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1266211,C1510438,USES,Optical density measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1269632,C0014441,USES,Cerebrospinal fluid IgG measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1273421,C0007584,USES,Viral studies,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1273421,C0201677,USES,Viral studies,Viral neutralization test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1273421,C1510438,USES,Viral studies,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1273421,C2697666,USES,Viral studies,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1277793,C4049928,USES,Specific antibody measurement,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1285572,C0016263,USES,Phenotype determination,Flow Cytometry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1285573,C0085117,USES,Genotype determination,"Electrophoresis, Gel, Pulsed-Field",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1285573,C1510438,USES,Genotype determination,Assay,lbpr,lbpr,12,USES_LBPRusesLBPR
+C1285573,C1719039,USES,Genotype determination,High resolution,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1293950,C0600209,USES,Silver stain method,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1293950,C1510438,USES,Silver stain method,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294000,C0026022,USES,Oil red O stain method,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294000,C2733022,USES,Oil red O stain method,Quantitative PCR analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294233,C4284307,USES,Salmonella species culture,RNA Isolation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294275,C1262012,USES,Aerobic microbial culture,Urinalysis for bacteria,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294275,C1285573,USES,Aerobic microbial culture,Genotype determination,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1294355,C0678624,USES,Detection of parasite,flotation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294356,C0014441,USES,Detection of virus procedure,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294356,C0022885,USES,Detection of virus procedure,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294356,C0200955,USES,Detection of virus procedure,Viral culture procedure,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1294356,C1441554,USES,Detection of virus procedure,Direct assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294356,C1510438,USES,Detection of virus procedure,Assay,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1294356,C1705913,USES,Detection of virus procedure,Rapid Antigen Test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294356,C4318939,USES,Detection of virus procedure,Nasal Swab (procedure),lbpr,lbpr,1,USES_LBPRusesLBPR
+C1294381,C0201519,USES,Rotavirus detection,Antibody to islet cells of pancreas measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1303103,C1510438,USES,Sample analysis,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1318786,C0016318,USES,Fluorescent stain method,Fluorescent Antibody Technique,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1318793,C0026018,USES,Immunofluorescent stain method,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1318793,C0242841,USES,Immunofluorescent stain method,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,3,USES_LBPRusesLBPR
+C1318793,C1510438,USES,Immunofluorescent stain method,Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1318793,C4049928,USES,Immunofluorescent stain method,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1439852,C4084871,USES,incubated,Intercellular Adhesion Molecule 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1439852,C4284307,USES,incubated,RNA Isolation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441513,C0008556,USES,Cell wall fatty acid analysis,"Chromatography, Gas-Liquid",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441554,C0009407,USES,Direct assay,Colorimetry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1441554,C0016263,USES,Direct assay,Flow Cytometry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1441554,C0079604,USES,Direct assay,Immunofluorescence Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441565,C0007584,USES,Elution,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441565,C0008559,USES,Elution,Gel Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441565,C1510438,USES,Elution,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441604,C0022885,USES,High sensitivity,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441604,C0037813,USES,High sensitivity,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441604,C1510438,USES,High sensitivity,Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1441604,C2697666,USES,High sensitivity,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441604,C3536614,USES,High sensitivity,Single nucleotide polymorphism analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441639,C0026022,USES,Manual count,"Microscopy, Fluorescence",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441647,C1441648,USES,Microscopy.electron.negative stain,Microscopy.electron.thin section,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441657,C0920508,USES,Mouse bioassay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1441713,C0200363,USES,Quick method,Specimen preparation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1442775,C0026022,USES,IMMUNE FLUORESCENCE,"Microscopy, Fluorescence",lbpr,lbpr,2,USES_LBPRusesLBPR
+C1443948,C1510438,USES,Measurement of antibody using direct fluorescence,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1446951,C1510438,USES,Tissue Culture Techniques,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1449562,C0007584,USES,Primary Cell Culture,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1449571,C0013855,USES,Microchip Analytical Procedures,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1449575,C0200363,USES,Microarray Analysis,Specimen preparation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1449575,C0200898,USES,Microarray Analysis,DNA analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1449705,C0007584,USES,Co-Immunoprecipitation,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1449705,C0600209,USES,Co-Immunoprecipitation,SDS-PAGE,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0001674,USES,Assay,Adsorption,lbpr,lbpr,15,USES_LBPRusesLBPR
+C1510438,C0005863,USES,Assay,Western Blotting,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0006779,USES,Assay,Calorimetry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0007584,USES,Assay,Cell Count,lbpr,lbpr,50,USES_LBPRusesLBPR
+C1510438,C0007585,USES,Assay,Cell Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0007593,USES,Assay,Cell Fractionation,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0007594,USES,Assay,Cell fusion procedure,lbpr,lbpr,13,USES_LBPRusesLBPR
+C1510438,C0007703,USES,Assay,Centrifugation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0008550,USES,Assay,Chromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0008551,USES,Assay,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0008559,USES,Assay,Gel Chromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0008562,USES,Assay,High pressure liquid chromatography procedure,lbpr,lbpr,12,USES_LBPRusesLBPR
+C1510438,C0008813,USES,Assay,Circular Dichroism,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0009407,USES,Assay,Colorimetry,lbpr,lbpr,95,USES_LBPRusesLBPR
+C1510438,C0011321,USES,Assay,Densitometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0013855,USES,Assay,Electrophoresis,lbpr,lbpr,7,USES_LBPRusesLBPR
+C1510438,C0013856,USES,Assay,"Electrophoresis, Agar Gel",lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0013862,USES,Assay,Polyacrylamide Gel Electrophoresis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0014441,USES,Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,13,USES_LBPRusesLBPR
+C1510438,C0014772,USES,Assay,Red Blood Cell Count measurement,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0016263,USES,Assay,Flow Cytometry,lbpr,lbpr,85,USES_LBPRusesLBPR
+C1510438,C0016318,USES,Assay,Fluorescent Antibody Technique,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0016352,USES,Assay,Fluorometry,lbpr,lbpr,21,USES_LBPRusesLBPR
+C1510438,C0021052,USES,Assay,Immunodiagnosis,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0021069,USES,Assay,Immunoprecipitation,lbpr,lbpr,92,USES_LBPRusesLBPR
+C1510438,C0021730,USES,Assay,Interferometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0022885,USES,Assay,Laboratory Procedures,lbpr,lbpr,29,USES_LBPRusesLBPR
+C1510438,C0023509,USES,Assay,"Lymphocyte Culture Test, Mixed",lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0024868,USES,Assay,Gas Chromatography-Mass Spectrometry,lbpr,lbpr,7,USES_LBPRusesLBPR
+C1510438,C0025951,USES,Assay,Microbiological Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0026006,USES,Assay,Micronucleus Tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0026018,USES,Assay,Microscopy,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0026019,USES,Assay,Electron Microscopy,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0026020,USES,Assay,Scanning Electron Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0026022,USES,Assay,"Microscopy, Fluorescence",lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0027692,USES,Assay,Nephelometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0027944,USES,Assay,Neutralization Tests,lbpr,lbpr,7,USES_LBPRusesLBPR
+C1510438,C0031752,USES,Assay,Photometry,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0032102,USES,Assay,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0032428,USES,Assay,2D Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0034580,USES,Assay,Radioimmunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0034603,USES,Assay,Radiometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0036759,USES,Assay,Serotyping,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0037805,USES,Assay,Spectrophotometry,lbpr,lbpr,11,USES_LBPRusesLBPR
+C1510438,C0037812,USES,Assay,Spectrum Analysis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0037813,USES,Assay,Mass Spectrometry,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0037815,USES,Assay,"Spectrum Analysis, Raman",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0040284,USES,Assay,Tissue culture,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0041394,USES,Assay,Turbidimetry,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C0079240,USES,Assay,Dilution technique,lbpr,lbpr,28,USES_LBPRusesLBPR
+C1510438,C0079366,USES,Assay,Fluorescence-Activated Cell Sorting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0079604,USES,Assay,Immunofluorescence Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0085117,USES,Assay,"Electrophoresis, Gel, Pulsed-Field",lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0085672,USES,Assay,Microbiology procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0086890,USES,Assay,Quick Test for Liver Function,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0087129,USES,Assay,Ultramicrotomy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0162621,USES,Assay,Titration Method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0200345,USES,Assay,Specimen Collection,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0200932,USES,Assay,Nucleic Acid Amplification Tests,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C0200949,USES,Assay,Blood culture,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0200955,USES,Assay,Viral culture procedure,lbpr,lbpr,23,USES_LBPRusesLBPR
+C1510438,C0201519,USES,Assay,Antibody to islet cells of pancreas measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0201575,USES,Assay,Phagocytosis assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0201677,USES,Assay,Viral neutralization test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0201682,USES,Assay,Chemical procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0201699,USES,Assay,"Electrophoresis, Capillary",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0206691,USES,Assay,Electroporation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0236287,USES,Assay,Insulin tolerance test,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0242349,USES,Assay,Immunocytochemistry,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0242841,USES,Assay,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0242842,USES,Assay,"Microscopy, Confocal",lbpr,lbpr,9,USES_LBPRusesLBPR
+C1510438,C0260249,USES,Assay,Infrared spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0282547,USES,Assay,Coculture Techniques,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0282646,USES,Assay,Indirect Immunofluorescence,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0282647,USES,Assay,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0282649,USES,Assay,"Fluorescent Antibody Technique, Direct",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0337438,USES,Assay,Glucose measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0368676,USES,Assay,Antibody screen,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0373680,USES,Assay,Myoglobin measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0373861,USES,Assay,Immunodiffusion; not elsewhere specified (procedure in CPT),lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0427508,USES,Assay,"Glucose-6-phosphate dehydrogenase measurement, quantitative",lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0427716,USES,Assay,"Protein concentration, test strip measurement",lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0430420,USES,Assay,Antigen assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0430425,USES,Assay,Procedure to identify antibody,lbpr,lbpr,9,USES_LBPRusesLBPR
+C1510438,C0436196,USES,Assay,Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0441667,USES,Assay,Broth dilution,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C0441707,USES,Assay,Biotyping,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0474643,USES,Assay,Antibody titer measurement,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C0475379,USES,Assay,Single radial hemolysis,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C0522986,USES,Assay,Antibody titration,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0525026,USES,Assay,Biotinylation,lbpr,lbpr,8,USES_LBPRusesLBPR
+C1510438,C0596495,USES,Assay,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0597428,USES,Assay,Sedimentation procedure,lbpr,lbpr,6,USES_LBPRusesLBPR
+C1510438,C0597452,USES,Assay,Single-Cell Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0597717,USES,Assay,Fluorescence Resonance Energy Transfer,lbpr,lbpr,77,USES_LBPRusesLBPR
+C1510438,C0599953,USES,Assay,Virus Inactivation,lbpr,lbpr,8,USES_LBPRusesLBPR
+C1510438,C0600209,USES,Assay,SDS-PAGE,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C0600324,USES,Assay,Serodiagnosis,lbpr,lbpr,12,USES_LBPRusesLBPR
+C1510438,C0678118,USES,Assay,Transmission Electron Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C0678624,USES,Assay,flotation,lbpr,lbpr,25,USES_LBPRusesLBPR
+C1510438,C0678634,USES,Assay,zone electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0684296,USES,Assay,Column Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0696215,USES,Assay,wet mount,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0752248,USES,Assay,Gene Expression Profiling,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0814048,USES,Assay,Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0852887,USES,Assay,urinary aldosterone,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0872318,USES,Assay,Liquid Chromatography Mass Spectrometry,lbpr,lbpr,7,USES_LBPRusesLBPR
+C1510438,C0887905,USES,Assay,Ligase Chain Reaction,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C0920508,USES,Assay,Enzyme-Linked Immunospot Assay,lbpr,lbpr,236,USES_LBPRusesLBPR
+C1510438,C0949466,USES,Assay,Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1273421,USES,Assay,Viral studies,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C1275826,USES,Assay,PCR test for SARS,lbpr,lbpr,5,USES_LBPRusesLBPR
+C1510438,C1285572,USES,Assay,Phenotype determination,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C1285573,USES,Assay,Genotype determination,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C1294000,USES,Assay,Oil red O stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1294197,USES,Assay,Nucleic acid sequencing,lbpr,lbpr,10,USES_LBPRusesLBPR
+C1510438,C1294248,USES,Assay,Enterovirus culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1294356,USES,Assay,Detection of virus procedure,lbpr,lbpr,10,USES_LBPRusesLBPR
+C1510438,C1294367,USES,Assay,Yeast detection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1294374,USES,Assay,Astrovirus detection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1294378,USES,Assay,Herpes simplex virus 1 detection,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1305205,USES,Assay,Acridine orange stain test,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C1318786,USES,Assay,Fluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1318793,USES,Assay,Immunofluorescent stain method,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C1318869,USES,Assay,Trypan blue stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1319309,USES,Assay,Hematoxylin stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1328856,USES,Assay,chromatin immunoprecipitation,lbpr,lbpr,52,USES_LBPRusesLBPR
+C1510438,C1441457,USES,Assay,Agar diffusion,lbpr,lbpr,10,USES_LBPRusesLBPR
+C1510438,C1441565,USES,Assay,Elution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1441604,USES,Assay,High sensitivity,lbpr,lbpr,16,USES_LBPRusesLBPR
+C1510438,C1442775,USES,Assay,IMMUNE FLUORESCENCE,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C1449562,USES,Assay,Primary Cell Culture,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1449619,USES,Assay,Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1449705,USES,Assay,Co-Immunoprecipitation,lbpr,lbpr,129,USES_LBPRusesLBPR
+C1510438,C1535922,USES,Assay,Procalcitonin measurement,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C1551404,USES,Assay,Serum Neutralization,lbpr,lbpr,39,USES_LBPRusesLBPR
+C1510438,C1551407,USES,Assay,Plate agglutination,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1553126,USES,Assay,Agar Gel Immunodiffusion,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C1553144,USES,Assay,VIDAS,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C1553148,USES,Assay,"Immunofluorescent antibody, indirect",lbpr,lbpr,6,USES_LBPRusesLBPR
+C1510438,C1553162,USES,Assay,Nucleic acid probe with target amplification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1553166,USES,Assay,Transcription-mediated Amplification,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C1553175,USES,Assay,Turbidometric,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1553183,USES,Assay,Inductively-Coupled Plasma Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C1656251,USES,Assay,subcellular fractionation,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C1707759,USES,Assay,Direct Fluorescent Antibody Test,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C1719048,USES,Assay,Shell Vial Culture,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C1882368,USES,Assay,Photon Correlation Spectroscopy,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1510438,C2121080,USES,Assay,molecular diagnostics (lab procedure),lbpr,lbpr,44,USES_LBPRusesLBPR
+C1510438,C2347885,USES,Assay,Radioisotopic Labeling (lab procedure),lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C2699154,USES,Assay,Cell Wash,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C2700289,USES,Assay,Yeast Cell Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C2707655,USES,Assay,Respiratory Pathogen Panel,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C2733022,USES,Assay,Quantitative PCR analysis,lbpr,lbpr,13,USES_LBPRusesLBPR
+C1510438,C2986494,USES,Assay,Optical Spectroscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C3146302,USES,Assay,Mutagenesis Procedure,lbpr,lbpr,7,USES_LBPRusesLBPR
+C1510438,C3178802,USES,Assay,Interferon-gamma Release Tests,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C3178849,USES,Assay,Immunochromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C3258987,USES,Assay,Bacterial 16S rRNA sequencing,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C3274383,USES,Assay,Cytomegalovirus Viral Load Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C3494467,USES,Assay,Native Polyacrylamide Gel Electrophoresis,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C3539922,USES,Assay,Loop-mediated Isothermal Amplification,lbpr,lbpr,8,USES_LBPRusesLBPR
+C1510438,C3830326,USES,Assay,Electrochemiluminescence,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C4049918,USES,Assay,Liquid Chromatography/Tandem Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C4049928,USES,Assay,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C4053868,USES,Assay,Viral Identification,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C4277707,USES,Assay,Oxygen Radical Absorbance Capacity,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C4279974,USES,Assay,Single Molecule Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C4289745,USES,Assay,Consensus PCR,lbpr,lbpr,11,USES_LBPRusesLBPR
+C1510438,C4318456,USES,Assay,Zaire Ebolavirus Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1510438,C4330263,USES,Assay,High Resolution Melt Analysis,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C4522212,USES,Assay,Complement Ba Measurement,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1510438,C4542589,USES,Assay,Laboratory Screening,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1511124,C0007584,USES,"Bioassay, In Vivo",Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1511124,C1510438,USES,"Bioassay, In Vivo",Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1511327,C1449619,USES,Brightfield Microscopy,Culture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1514627,C0016318,USES,Quantitative Microscopy,Fluorescent Antibody Technique,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1515100,C0007584,USES,Suspension Culture,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1518155,C0014441,USES,Magnetic Bead Separation,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1535922,C0014441,USES,Procalcitonin measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1551404,C1510438,USES,Serum Neutralization,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1553138,C0022885,USES,API Staph,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1553158,C0007584,USES,Immune blot,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1705913,C1441604,USES,Rapid Antigen Test,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1707759,C0282647,USES,Direct Fluorescent Antibody Test,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,1,USES_LBPRusesLBPR
+C1707759,C1510438,USES,Direct Fluorescent Antibody Test,Assay,lbpr,lbpr,4,USES_LBPRusesLBPR
+C1710378,C0007584,USES,Thaw,Cell Count,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1710378,C1510438,USES,Thaw,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1710378,C1882516,USES,Thaw,Quick Freeze,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1719039,C0037812,USES,High resolution,Spectrum Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1719039,C0597717,USES,High resolution,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1720880,C0008565,USES,Solid Phase Extraction,Liquid Chromatography,lbpr,lbpr,3,USES_LBPRusesLBPR
+C1881921,C0008559,USES,Multi-Angle Laser Light Scattering,Gel Chromatography,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1882495,C0949466,USES,Protein Expression Analysis,Western Blot,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1882495,C1510438,USES,Protein Expression Analysis,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1882495,C2348289,USES,Protein Expression Analysis,Differential In-Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1883166,C1510438,USES,Static Light Scattering,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C1955172,C1510438,USES,Antibody investigation,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2019329,C0026018,USES,sputum smear tests,Microscopy,lbpr,lbpr,3,USES_LBPRusesLBPR
+C2020499,C1510438,USES,Faecal swab,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2170357,C0523452,USES,Aldosterone to Renin Activity Ratio Measurement,Adenosine diphosphate measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2238079,C1441758,USES,Blood Smear,Thick film,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2347338,C0599662,USES,Negative Selection,magnetic cell separation system,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2347644,C0022885,USES,Positive Selection,Laboratory Procedures,lbpr,lbpr,2,USES_LBPRusesLBPR
+C2347644,C0162801,USES,Positive Selection,Sequence Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2348289,C0013860,USES,Differential In-Gel Electrophoresis,"Electrophoresis, Gel, Two-Dimensional",lbpr,lbpr,1,USES_LBPRusesLBPR
+C2348289,C0037813,USES,Differential In-Gel Electrophoresis,Mass Spectrometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2350255,C1719039,USES,Electron Microscope Tomography,High resolution,lbpr,lbpr,3,USES_LBPRusesLBPR
+C2697666,C0005863,USES,Immunoenzyme Procedure,Western Blotting,lbpr,lbpr,3,USES_LBPRusesLBPR
+C2697666,C0008550,USES,Immunoenzyme Procedure,Chromatography,lbpr,lbpr,4,USES_LBPRusesLBPR
+C2697666,C0013064,USES,Immunoenzyme Procedure,Dot Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C0014441,USES,Immunoenzyme Procedure,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C2697666,C0016352,USES,Immunoenzyme Procedure,Fluorometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C0201699,USES,Immunoenzyme Procedure,"Electrophoresis, Capillary",lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C0242849,USES,Immunoenzyme Procedure,"Microscopy, Atomic Force",lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C1441604,USES,Immunoenzyme Procedure,High sensitivity,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C1449577,USES,Immunoenzyme Procedure,"Electrophoresis, Microchip",lbpr,lbpr,1,USES_LBPRusesLBPR
+C2697666,C2699541,USES,Immunoenzyme Procedure,Cytokine Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2700094,C0041394,USES,Turbidity Measurement,Turbidimetry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2700289,C0013855,USES,Yeast Cell Measurement,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2707655,C1510438,USES,Respiratory Pathogen Panel,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C2717789,C0008562,USES,"Chromatography, Reversed-Phase Liquid",High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2717789,C0014441,USES,"Chromatography, Reversed-Phase Liquid",Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2717977,C0007584,USES,Enzyme Assays,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2717977,C0009407,USES,Enzyme Assays,Colorimetry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C2717977,C0016352,USES,Enzyme Assays,Fluorometry,lbpr,lbpr,2,USES_LBPRusesLBPR
+C2717977,C0037805,USES,Enzyme Assays,Spectrophotometry,lbpr,lbpr,6,USES_LBPRusesLBPR
+C2717977,C0597717,USES,Enzyme Assays,Fluorescence Resonance Energy Transfer,lbpr,lbpr,2,USES_LBPRusesLBPR
+C2717977,C1510438,USES,Enzyme Assays,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2717977,C2697666,USES,Enzyme Assays,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2718002,C1510438,USES,High-Throughput Screening Assays,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2748351,C0022885,USES,Cerebrospinal fluid Antibody,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2825782,C1441657,USES,Chemokine Measurement,Mouse bioassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2825862,C0014441,USES,Antimitochondrial Antibody Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2985515,C0014441,USES,Glycan Analysis,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C2986505,C0085117,USES,Genomic Profile,"Electrophoresis, Gel, Pulsed-Field",lbpr,lbpr,1,USES_LBPRusesLBPR
+C3146302,C0016263,USES,Mutagenesis Procedure,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3146302,C0523459,USES,Mutagenesis Procedure,Alanine measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3178850,C0014441,USES,Immunochromatographic Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3178850,C1510438,USES,Immunochromatographic Assay,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3178894,C0032520,USES,Genotyping Techniques,Polymerase Chain Reaction,lbpr,lbpr,2,USES_LBPRusesLBPR
+C3179262,C0007584,USES,Viral Plaque Assay,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3274766,C0008555,USES,Isotope Dilution Mass Spectrometry,Gas Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3495389,C0008565,USES,Chemical analysis,Liquid Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3533107,C0200363,USES,Microscopic method,Specimen preparation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3533107,C1707903,USES,Microscopic method,Embedding,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3539922,C0079240,USES,Loop-mediated Isothermal Amplification,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3811844,C0016263,USES,Estimated Glomerular Filtration Rate,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3811844,C0020985,USES,Estimated Glomerular Filtration Rate,Immunoblotting,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3811844,C1318793,USES,Estimated Glomerular Filtration Rate,Immunofluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3811844,C1510438,USES,Estimated Glomerular Filtration Rate,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3812195,C0014441,USES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C3812195,C2697666,USES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3814778,C0037805,USES,Hemolytic Index,Spectrophotometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3815102,C0200363,USES,Protein Precipitation,Specimen preparation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3815172,C0014441,USES,Interleukin 1 Beta Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3820394,C0007584,USES,Thrombin to Antithrombin Ratio Measurement,Cell Count,lbpr,lbpr,3,USES_LBPRusesLBPR
+C3820394,C0206691,USES,Thrombin to Antithrombin Ratio Measurement,Electroporation,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3820394,C1510438,USES,Thrombin to Antithrombin Ratio Measurement,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3828289,C0086231,USES,Rubeola IgG Antibody Measurement,Enzyme Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3829558,C2697666,USES,Immunoturbidimetry,Immunoenzyme Procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3839242,C1510438,USES,Neutralization method,Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C3850137,C0016263,USES,In Vitro Techniques,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3850137,C1510438,USES,In Vitro Techniques,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C3872568,C0008550,USES,Rapid immunoassay,Chromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4048362,C0014441,USES,Immunoglobulin G Subclass 3 Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4049918,C0008562,USES,Liquid Chromatography/Tandem Mass Spectrometry,High pressure liquid chromatography procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4049918,C1441565,USES,Liquid Chromatography/Tandem Mass Spectrometry,Elution,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4049918,C1516801,USES,Liquid Chromatography/Tandem Mass Spectrometry,Electrospray Ionization,lbpr,lbpr,5,USES_LBPRusesLBPR
+C4049928,C0014441,USES,Immunoglobulin G Subclass 1 Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C4049928,C0920508,USES,Immunoglobulin G Subclass 1 Measurement,Enzyme-Linked Immunospot Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4054359,C0806957,USES,Neuraminidase Inhibition Assay,Microbial susceptibility tests,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4054524,C0009407,USES,Microneutralization Assay,Colorimetry,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4054524,C0014441,USES,Microneutralization Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4054772,C1516801,USES,High-performance Liquid Chromatography/Tandem Mass Spectrometry,Electrospray Ionization,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4054879,C0014441,USES,HTLV-I HTLV-II Antibody Measurement,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4055064,C0014441,USES,Endpoint Dilution Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4279974,C0037812,USES,Single Molecule Microscopy,Spectrum Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4284307,C1449575,USES,RNA Isolation,Microarray Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4288189,C4054450,USES,Staining Intensity,Myelin Basic Protein Measurement,lbpr,lbpr,2,USES_LBPRusesLBPR
+C4297010,C0022885,USES,Computational analysis,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4297013,C1449575,USES,Merging,Microarray Analysis,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4317078,C0009385,USES,Mycobacterium Tuberculosis Measurement,Colony-Forming Units Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4317078,C0679560,USES,Mycobacterium Tuberculosis Measurement,Genetic screening method,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4317078,C1510438,USES,Mycobacterium Tuberculosis Measurement,Assay,lbpr,lbpr,3,USES_LBPRusesLBPR
+C4318939,C0022885,USES,Nasal Swab (procedure),Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4318939,C1273421,USES,Nasal Swab (procedure),Viral studies,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4318939,C1294356,USES,Nasal Swab (procedure),Detection of virus procedure,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4318939,C1510438,USES,Nasal Swab (procedure),Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C4318939,C2707655,USES,Nasal Swab (procedure),Respiratory Pathogen Panel,lbpr,lbpr,1,USES_LBPRusesLBPR
+C4484268,C0079240,USES,Fluorescent polarization assay,Dilution technique,lbpr,lbpr,1,USES_LBPRusesLBPR

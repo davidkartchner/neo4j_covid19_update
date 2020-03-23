@@ -1,0 +1,76 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0027651,DIAGNOSES,angiogram,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0004398,C0079772,DIAGNOSES,Autopsy,T-Cell Lymphoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0004398,C0343079,DIAGNOSES,Autopsy,"Milia, Multiple Eruptive",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0004398,C1512694,DIAGNOSES,Autopsy,Increased Cellularity Present,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0005558,C0009402,DIAGNOSES,Biopsy,Colorectal Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0005558,C0024299,DIAGNOSES,Biopsy,Lymphoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0005558,C0024623,DIAGNOSES,Biopsy,Malignant neoplasm of stomach,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0005558,C0027651,DIAGNOSES,Biopsy,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0011923,C0007113,DIAGNOSES,Diagnostic Imaging,Rectal Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0014245,C0006826,DIAGNOSES,Endoscopy (procedure),Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0014245,C0024623,DIAGNOSES,Endoscopy (procedure),Malignant neoplasm of stomach,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0017195,C0024623,DIAGNOSES,Endoscopy of stomach,Malignant neoplasm of stomach,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0017195,C0334044,DIAGNOSES,Endoscopy of stomach,Dysplasia,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0017195,C0349530,DIAGNOSES,Endoscopy of stomach,Early gastric cancer,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024119,C0006826,DIAGNOSES,Pulmonary function tests,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024485,C0006826,DIAGNOSES,Magnetic Resonance Imaging,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024485,C0007113,DIAGNOSES,Magnetic Resonance Imaging,Rectal Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024485,C0027627,DIAGNOSES,Magnetic Resonance Imaging,Neoplasm Metastasis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024485,C0279000,DIAGNOSES,Magnetic Resonance Imaging,Liver and Intrahepatic Biliary Tract Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0024671,C0006142,DIAGNOSES,Mammography,Malignant neoplasm of breast,diap,neop,2,DIAGNOSES_DIAPdiagNEOP
+C0030247,C0027651,DIAGNOSES,Palpation,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0030247,C0206655,DIAGNOSES,Palpation,Alveolar rhabdomyosarcoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0034606,C0006826,DIAGNOSES,Radionuclide Imaging,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0034606,C0494165,DIAGNOSES,Radionuclide Imaging,Secondary malignant neoplasm of liver,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0034606,C0686619,DIAGNOSES,Radionuclide Imaging,Secondary malignant neoplasm of lymph node,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0039985,C0027627,DIAGNOSES,Plain chest X-ray,Neoplasm Metastasis,diap,neop,2,DIAGNOSES_DIAPdiagNEOP
+C0040395,C4318618,DIAGNOSES,tomography,Peritoneal Surface Malignancy,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0040399,C0027651,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0040399,C2939419,DIAGNOSES,"Tomography, Emission-Computed, Single-Photon",Secondary Neoplasm,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0041618,C0006826,DIAGNOSES,Ultrasonography,Malignant Neoplasms,diap,neop,2,DIAGNOSES_DIAPdiagNEOP
+C0041618,C0027651,DIAGNOSES,Ultrasonography,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0086143,C0006142,DIAGNOSES,Diagnostic tests,Malignant neoplasm of breast,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0086143,C0376358,DIAGNOSES,Diagnostic tests,Malignant neoplasm of prostate,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0150411,C0005684,DIAGNOSES,Analysis of arterial blood gases and pH,Malignant neoplasm of urinary bladder,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0150411,C0235974,DIAGNOSES,Analysis of arterial blood gases and pH,Pancreatic carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0199214,C0027627,DIAGNOSES,Anatomic measurement,Neoplasm Metastasis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0199214,C0677930,DIAGNOSES,Anatomic measurement,primary tumor,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0203634,C0343079,DIAGNOSES,Nuclear medicine procedure,"Milia, Multiple Eruptive",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0203668,C0006826,DIAGNOSES,Radioisotope scan of bone,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0203668,C0027627,DIAGNOSES,Radioisotope scan of bone,Neoplasm Metastasis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0203779,C0007138,DIAGNOSES,Radionuclide thyroid imaging study,"Carcinoma, Transitional Cell",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0242890,C0017185,DIAGNOSES,Toxicity Tests,Gastrointestinal Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0344104,C0006142,DIAGNOSES,Magnetic resonance imaging of breast,Malignant neoplasm of breast,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0412620,C0006826,DIAGNOSES,CT of abdomen,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0596473,C0006826,DIAGNOSES,Early Diagnosis,Malignant Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0596473,C0027651,DIAGNOSES,Early Diagnosis,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0596473,C0376358,DIAGNOSES,Early Diagnosis,Malignant neoplasm of prostate,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0598801,C0027651,DIAGNOSES,Diffusion weighted imaging,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0679557,C0007138,DIAGNOSES,histological diagnosis,"Carcinoma, Transitional Cell",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0750430,C0024299,DIAGNOSES,work up,Lymphoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0872169,C0027627,DIAGNOSES,fdg pet,Neoplasm Metastasis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0872169,C0260037,DIAGNOSES,fdg pet,Multiple tumors,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0872169,C0346979,DIAGNOSES,fdg pet,Secondary malignant neoplasm of bone marrow,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C0920688,C0027651,DIAGNOSES,cancer diagnosis,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1318309,C0023467,DIAGNOSES,Core needle biopsy,"Leukemia, Myelocytic, Acute",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1318309,C0026987,DIAGNOSES,Core needle biopsy,Myelofibrosis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1449699,C0009375,DIAGNOSES,Tumor Burden,Colonic Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1510483,C0024299,DIAGNOSES,Fine needle aspiration biopsy,Lymphoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1510483,C0027627,DIAGNOSES,Fine needle aspiration biopsy,Neoplasm Metastasis,diap,neop,3,DIAGNOSES_DIAPdiagNEOP
+C1510483,C0238463,DIAGNOSES,Fine needle aspiration biopsy,Papillary thyroid carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1699633,C0027627,DIAGNOSES,PET/CT scan,Neoplasm Metastasis,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1699633,C0346979,DIAGNOSES,PET/CT scan,Secondary malignant neoplasm of bone marrow,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0005684,DIAGNOSES,Observation - diagnostic procedure,Malignant neoplasm of urinary bladder,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0006826,DIAGNOSES,Observation - diagnostic procedure,Malignant Neoplasms,diap,neop,2,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0007097,DIAGNOSES,Observation - diagnostic procedure,Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0009402,DIAGNOSES,Observation - diagnostic procedure,Colorectal Carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0027651,DIAGNOSES,Observation - diagnostic procedure,Neoplasms,diap,neop,4,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0032463,DIAGNOSES,Observation - diagnostic procedure,Polycythemia Vera,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0079731,DIAGNOSES,Observation - diagnostic procedure,B-Cell Lymphomas,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0235974,DIAGNOSES,Observation - diagnostic procedure,Pancreatic carcinoma,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C1964257,C0343079,DIAGNOSES,Observation - diagnostic procedure,"Milia, Multiple Eruptive",diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C2348813,C0027651,DIAGNOSES,Transabdominal Ultrasound,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C2370811,C0242379,DIAGNOSES,Bronchial brush biopsy,Malignant neoplasm of lung,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C2986793,C0027651,DIAGNOSES,Parametric Image,Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP
+C4038483,C0040422,DIAGNOSES,Deep biopsy,Tonsillar Neoplasms,diap,neop,1,DIAGNOSES_DIAPdiagNEOP

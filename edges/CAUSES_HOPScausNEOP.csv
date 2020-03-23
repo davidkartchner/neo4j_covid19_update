@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000677,C0007137,CAUSES,"9,10-Dimethyl-1,2-benzanthracene",Squamous cell carcinoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0003947,C0242379,CAUSES,Asbestos,Malignant neoplasm of lung,hops,neop,1,CAUSES_HOPScausNEOP
+C0005052,C0242379,CAUSES,Benzo(a)pyrene,Malignant neoplasm of lung,hops,neop,1,CAUSES_HOPScausNEOP
+C0005052,C0596263,CAUSES,Benzo(a)pyrene,Carcinogenesis,hops,neop,2,CAUSES_HOPScausNEOP
+C0007090,C0007130,CAUSES,Carcinogens,Mucinous Adenocarcinoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0007090,C0007621,CAUSES,Carcinogens,Neoplastic Cell Transformation,hops,neop,1,CAUSES_HOPScausNEOP
+C0007090,C0009375,CAUSES,Carcinogens,Colonic Neoplasms,hops,neop,2,CAUSES_HOPScausNEOP
+C0007090,C0027651,CAUSES,Carcinogens,Neoplasms,hops,neop,2,CAUSES_HOPScausNEOP
+C0007090,C0028433,CAUSES,Carcinogens,Nose Neoplasms,hops,neop,2,CAUSES_HOPScausNEOP
+C0007090,C0220630,CAUSES,Carcinogens,Adult Liver Carcinoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0007090,C0334044,CAUSES,Carcinogens,Dysplasia,hops,neop,1,CAUSES_HOPScausNEOP
+C0007090,C0596263,CAUSES,Carcinogens,Carcinogenesis,hops,neop,1,CAUSES_HOPScausNEOP
+C0012200,C0007097,CAUSES,Diethylnitrosamine,Carcinoma,hops,neop,2,CAUSES_HOPScausNEOP
+C0012200,C1512409,CAUSES,Diethylnitrosamine,Hepatocarcinogenesis,hops,neop,1,CAUSES_HOPScausNEOP
+C0012200,C1882693,CAUSES,Diethylnitrosamine,Rat Hepatic Neoplasm,hops,neop,1,CAUSES_HOPScausNEOP
+C0012200,C1882694,CAUSES,Diethylnitrosamine,Rat Hepatocellular Adenoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0012200,C2239176,CAUSES,Diethylnitrosamine,Liver carcinoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0016564,C0006826,CAUSES,Formaldehyde,Malignant Neoplasms,hops,neop,1,CAUSES_HOPScausNEOP
+C0016564,C0028433,CAUSES,Formaldehyde,Nose Neoplasms,hops,neop,1,CAUSES_HOPScausNEOP
+C0040329,C0006826,CAUSES,Tobacco,Malignant Neoplasms,hops,neop,1,CAUSES_HOPScausNEOP
+C0040329,C0242379,CAUSES,Tobacco,Malignant neoplasm of lung,hops,neop,1,CAUSES_HOPScausNEOP
+C0041370,C0007621,CAUSES,Tumor Promoters,Neoplastic Cell Transformation,hops,neop,1,CAUSES_HOPScausNEOP
+C0069299,C0042076,CAUSES,ochratoxin A,Urologic Neoplasms,hops,neop,1,CAUSES_HOPScausNEOP
+C0069299,C1519840,CAUSES,ochratoxin A,Urothelial Neoplasm,hops,neop,1,CAUSES_HOPScausNEOP
+C0239059,C0242379,CAUSES,Cigarette smoke (substance),Malignant neoplasm of lung,hops,neop,1,CAUSES_HOPScausNEOP
+C0599787,C0596263,CAUSES,toxicant,Carcinogenesis,hops,neop,1,CAUSES_HOPScausNEOP
+C0600434,C0023903,CAUSES,Peroxisome Proliferators,Liver neoplasms,hops,neop,2,CAUSES_HOPScausNEOP
+C0600434,C1512409,CAUSES,Peroxisome Proliferators,Hepatocarcinogenesis,hops,neop,1,CAUSES_HOPScausNEOP
+C0600434,C2239176,CAUSES,Peroxisome Proliferators,Liver carcinoma,hops,neop,1,CAUSES_HOPScausNEOP
+C0949307,C0007099,CAUSES,Formalin,Carcinoma in Situ,hops,neop,1,CAUSES_HOPScausNEOP
+C0949307,C1261473,CAUSES,Formalin,Sarcoma,hops,neop,1,CAUSES_HOPScausNEOP

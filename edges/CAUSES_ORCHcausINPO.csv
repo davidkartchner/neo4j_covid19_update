@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0013221,CAUSES,Acetaminophen,Drug toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0000970,C0019193,CAUSES,Acetaminophen,"Hepatitis, Toxic",orch,inpo,1,CAUSES_ORCHcausINPO
+C0000970,C0235378,CAUSES,Acetaminophen,Hepatotoxicity,orch,inpo,2,CAUSES_ORCHcausINPO
+C0001159,C0876994,CAUSES,Aconitine,Cardiotoxicity,orch,inpo,9,CAUSES_ORCHcausINPO
+C0002062,C0876994,CAUSES,Alkaloids,Cardiotoxicity,orch,inpo,9,CAUSES_ORCHcausINPO
+C0002403,C0235032,CAUSES,Amantadine,Neurotoxicity Syndromes,orch,inpo,1,CAUSES_ORCHcausINPO
+C0003968,C0235378,CAUSES,Ascorbic Acid,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0004057,C0685898,CAUSES,Aspirin,Food anaphylaxis,orch,inpo,1,CAUSES_ORCHcausINPO
+C0005802,C0010957,CAUSES,Blood Glucose,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0008809,C0013221,CAUSES,Ciprofloxacin,Drug toxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0010460,C0600688,CAUSES,Cuprizone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0018546,C0041755,CAUSES,Haloperidol,Adverse reaction to drug,orch,inpo,2,CAUSES_ORCHcausINPO
+C0022245,C0876994,CAUSES,Isoproterenol,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023779,C0600688,CAUSES,Lipids,Toxic effect,orch,inpo,3,CAUSES_ORCHcausINPO
+C0023810,C0010957,CAUSES,Lipopolysaccharides,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023810,C0178324,CAUSES,Lipopolysaccharides,Vascular System Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C0023810,C0242488,CAUSES,Lipopolysaccharides,Acute Lung Injury,orch,inpo,45,CAUSES_ORCHcausINPO
+C0023810,C0273115,CAUSES,Lipopolysaccharides,Lung Injury,orch,inpo,50,CAUSES_ORCHcausINPO
+C0023810,C0341336,CAUSES,Lipopolysaccharides,Drug-induced colitis,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028910,C0160390,CAUSES,"Oils, Volatile",Injury of liver,orch,inpo,1,CAUSES_ORCHcausINPO
+C0028910,C0235378,CAUSES,"Oils, Volatile",Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0039245,C0600688,CAUSES,Tacrine,Toxic effect,orch,inpo,2,CAUSES_ORCHcausINPO
+C0042291,C0235378,CAUSES,Valproic Acid,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0042291,C1960448,CAUSES,Valproic Acid,Hyperammonemic encephalopathy,orch,inpo,1,CAUSES_ORCHcausINPO
+C0042679,C0600688,CAUSES,Vincristine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0042874,C0235378,CAUSES,Vitamin E,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0052432,C0600688,CAUSES,artesunate,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0066350,C0010957,CAUSES,methylene dimethanesulfonate,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0069717,C0161479,CAUSES,oxaliplatin,Nerve injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0073591,C0160420,CAUSES,rosoxacin,Injury of kidney,orch,inpo,1,CAUSES_ORCHcausINPO
+C0073591,C0242488,CAUSES,rosoxacin,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0073591,C0600688,CAUSES,rosoxacin,Toxic effect,orch,inpo,4,CAUSES_ORCHcausINPO
+C0074992,C0016479,CAUSES,sphingosine 1-phosphate,Food Poisoning,orch,inpo,1,CAUSES_ORCHcausINPO
+C0074992,C0679360,CAUSES,sphingosine 1-phosphate,Foodborne Disease,orch,inpo,2,CAUSES_ORCHcausINPO
+C0076080,C0600688,CAUSES,temozolomide,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0076150,C0600688,CAUSES,tert-Butylhydroperoxide,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0085196,C0600688,CAUSES,Oxidopamine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0148405,C0007020,CAUSES,Vinegar,Carbon Monoxide Poisoning,orch,inpo,1,CAUSES_ORCHcausINPO
+C0165032,C0281980,CAUSES,imiquimod,Injury of integument,orch,inpo,1,CAUSES_ORCHcausINPO
+C0172217,C0010957,CAUSES,arsenal,Tissue damage,orch,inpo,1,CAUSES_ORCHcausINPO
+C0215136,C0600688,CAUSES,taxane,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0215706,C0600688,CAUSES,tris(2-carboxyethyl)phosphine,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0246415,C0600688,CAUSES,docetaxel,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0282564,C0876994,CAUSES,Anthracyclines,Cardiotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0525678,C0273115,CAUSES,rasagiline,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C0595490,C0600688,CAUSES,Malarone,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0605507,C0600688,CAUSES,grandisol,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0939237,C0235378,CAUSES,lopinavir / Ritonavir,Hepatotoxicity,orch,inpo,1,CAUSES_ORCHcausINPO
+C0950301,C0600688,CAUSES,Baker's Antifol,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C0965129,C0273115,CAUSES,rosuvastatin,Lung Injury,orch,inpo,3,CAUSES_ORCHcausINPO
+C1259613,C0600688,CAUSES,capromorelin,Toxic effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C1328819,C3203359,CAUSES,Small Molecule,Rupture,orch,inpo,1,CAUSES_ORCHcausINPO
+C1609342,C0242488,CAUSES,PAMAM dendrimer,Acute Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C1609342,C0273115,CAUSES,PAMAM dendrimer,Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C2348066,C0043251,CAUSES,dabigatran,Wounds and Injuries,orch,inpo,1,CAUSES_ORCHcausINPO
+C2604414,C0273115,CAUSES,Poly(amidoamine),Lung Injury,orch,inpo,1,CAUSES_ORCHcausINPO
+C2926735,C0850107,CAUSES,Duration,antibiotic side-effect,orch,inpo,1,CAUSES_ORCHcausINPO
+C3851350,C0041755,CAUSES,ledipasvir,Adverse reaction to drug,orch,inpo,1,CAUSES_ORCHcausINPO

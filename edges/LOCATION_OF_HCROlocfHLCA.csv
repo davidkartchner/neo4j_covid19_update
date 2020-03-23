@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002424,C0332140,LOCATION_OF,Ambulatory Care Facilities,"Diagnosis, clinical",hcro,hlca,2,LOCATION_OF_HCROlocfHLCA
+C0009469,C0018701,LOCATION_OF,Community Health Centers,Health education,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0019994,C0018701,LOCATION_OF,Hospitals,Health education,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0019994,C0037793,LOCATION_OF,Hospitals,Specimen processing (procedure),hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0019994,C0150375,LOCATION_OF,Hospitals,Group education,hcro,hlca,2,LOCATION_OF_HCROlocfHLCA
+C0019994,C0242802,LOCATION_OF,Hospitals,Patient Selection,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0019994,C0332140,LOCATION_OF,Hospitals,"Diagnosis, clinical",hcro,hlca,3,LOCATION_OF_HCROlocfHLCA
+C0020021,C0025355,LOCATION_OF,Psychiatric hospital,Mental Health Services,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0442592,C0018701,LOCATION_OF,Clinic,Health education,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C0868949,C0018701,LOCATION_OF,dispensaries,Health education,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA
+C1305702,C1516615,LOCATION_OF,Ward (environment),Clinical Management,hcro,hlca,1,LOCATION_OF_HCROlocfHLCA

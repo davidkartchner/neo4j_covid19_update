@@ -1,0 +1,43 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003261,AFFECTS,Immunologic Adjuvants,Antibody Formation,imft,celf,6,AFFECTS_IMFTafctCELF
+C0001551,C0206431,AFFECTS,Immunologic Adjuvants,Antigen Presentation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1318468,AFFECTS,Immunologic Adjuvants,cell mediated immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1817908,AFFECTS,Immunologic Adjuvants,Cellular Immune Response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0002092,C0019595,AFFECTS,Allergens,Histamine Release,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C0003261,AFFECTS,Epitopes,Antibody Formation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C0003272,AFFECTS,Epitopes,Antibody-Dependent Cellular Cytotoxicity,imft,celf,3,AFFECTS_IMFTafctCELF
+C0003316,C1155080,AFFECTS,Epitopes,T-helper 1 type immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1155229,AFFECTS,Epitopes,Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1159342,AFFECTS,Epitopes,Secretory Pathway,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1327616,AFFECTS,Epitopes,Cell secretion,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1516375,AFFECTS,Epitopes,Cellular Tropism,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003324,C1326212,AFFECTS,Differentiation Antigens,neutrophil apoptotic process,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003342,C0004391,AFFECTS,"Antigens, Viral",Autophagy,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003342,C0162638,AFFECTS,"Antigens, Viral",Apoptosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0004359,C0007586,AFFECTS,Autoantigens,Cell Cycle,imft,celf,1,AFFECTS_IMFTafctCELF
+C0019168,C0003272,AFFECTS,Hepatitis B Surface Antigens,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C0019168,C0599894,AFFECTS,Hepatitis B Surface Antigens,cellular targeting,imft,celf,1,AFFECTS_IMFTafctCELF
+C0021403,C1155229,AFFECTS,Influenza virus vaccine,Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0032595,C1155065,AFFECTS,"Polysaccharides, Bacterial",T-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0042210,C0003261,AFFECTS,Vaccines,Antibody Formation,imft,celf,4,AFFECTS_IMFTafctCELF
+C0042210,C1155046,AFFECTS,Vaccines,T-Cell Proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0042210,C1160716,AFFECTS,Vaccines,viral transmission,imft,celf,1,AFFECTS_IMFTafctCELF
+C0042212,C0003261,AFFECTS,"Vaccines, Inactivated",Antibody Formation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0206253,C1155229,AFFECTS,"Vaccines, Combined",Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0282581,C0599952,AFFECTS,"Epitopes, B-Lymphocyte",modulation by virus of host morphology or physiology,imft,celf,1,AFFECTS_IMFTafctCELF
+C0301869,C0597601,AFFECTS,Immunostimulating conjugate (antigen),Transcytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0312653,C0003261,AFFECTS,HLA class II antigen,Antibody Formation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0376613,C1155229,AFFECTS,"Vaccines, DNA",Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0887892,C0003261,AFFECTS,"Vaccines, Subunit",Antibody Formation,imft,celf,1,AFFECTS_IMFTafctCELF
+C1440710,C1155046,AFFECTS,HIV 1 gp41,T-Cell Proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C1515333,C0086982,AFFECTS,tetanus toxoid helper peptide,Signal Transduction Pathways,imft,celf,1,AFFECTS_IMFTafctCELF
+C1519904,C1817908,AFFECTS,Vaccinia Vaccine,Cellular Immune Response,imft,celf,1,AFFECTS_IMFTafctCELF
+C1649421,C1516337,AFFECTS,Coxsackievirus A6,Cell Cycle Phase,imft,celf,1,AFFECTS_IMFTafctCELF
+C1883036,C0007595,AFFECTS,Single-Chain Antibodies,cell growth,imft,celf,1,AFFECTS_IMFTafctCELF
+C1883036,C1156309,AFFECTS,Single-Chain Antibodies,syncytium formation by plasma membrane fusion,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C0031308,AFFECTS,"Immunoglobulin A, Human",Phagocytosis,imft,celf,9,AFFECTS_IMFTafctCELF
+C2825347,C0597601,AFFECTS,"Immunoglobulin A, Human",Transcytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C1326120,AFFECTS,"Immunoglobulin A, Human",cell activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C2986386,C1159455,AFFECTS,Virus-neutralizing Antibody,syncytium formation,imft,celf,1,AFFECTS_IMFTafctCELF
+C4040777,C0031308,AFFECTS,Leptospira Ag,Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C4549501,C0003261,AFFECTS,Matrix-M,Antibody Formation,imft,celf,1,AFFECTS_IMFTafctCELF

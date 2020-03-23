@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002844,C0014939,INTERACTS_WITH,Androgens,Estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0014939,C0033308,INTERACTS_WITH,Estrogens,Progesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0017710,C0033308,INTERACTS_WITH,Glucocorticoids,Progesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0020268,C0002006,INTERACTS_WITH,Hydrocortisone,Aldosterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0020268,C0010137,INTERACTS_WITH,Hydrocortisone,Cortisone,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0028351,C0014563,INTERACTS_WITH,Norepinephrine,Epinephrine,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0014939,INTERACTS_WITH,Progesterone,Estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0682762,INTERACTS_WITH,Progesterone,pregnancy hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM

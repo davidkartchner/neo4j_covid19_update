@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006104,C0003064,PART_OF,Brain,"Animals, Laboratory",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0006104,C1511501,PART_OF,Brain,Control Animal,bpoc,anim,2,PART_OF_BPOCprtfANIM
+C0021851,C0598744,PART_OF,Large Intestine,juvenile animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0021853,C0003063,PART_OF,Intestines,"Animals, Domestic",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0021853,C0003070,PART_OF,Intestines,"Animals, Wild",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0022378,C0562691,PART_OF,Jejunum,Herbivory,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0022378,C0562693,PART_OF,Jejunum,Omnivore,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0022646,C1511501,PART_OF,Kidney,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0022663,C1547282,PART_OF,Kidney Glomerulus,Show,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0023884,C0003064,PART_OF,Liver,"Animals, Laboratory",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0023884,C0003069,PART_OF,Liver,"Animals, Transgenic",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0023884,C0003070,PART_OF,Liver,"Animals, Wild",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0023884,C1511501,PART_OF,Liver,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0023884,C1554184,PART_OF,Liver,Dual,bpoc,anim,2,PART_OF_BPOCprtfANIM
+C0023884,C3687489,PART_OF,Liver,Animal for breeding,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0024109,C0003069,PART_OF,Lung,"Animals, Transgenic",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0024109,C0003070,PART_OF,Lung,"Animals, Wild",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0024109,C0596888,PART_OF,Lung,mature animal,bpoc,anim,2,PART_OF_BPOCprtfANIM
+C0024109,C0599779,PART_OF,Lung,Animal Model,bpoc,anim,2,PART_OF_BPOCprtfANIM
+C0024109,C1511501,PART_OF,Lung,Control Animal,bpoc,anim,6,PART_OF_BPOCprtfANIM
+C0024204,C0599779,PART_OF,lymph nodes,Animal Model,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0037949,C0012656,PART_OF,Vertebral column,Disease Vectors,bpoc,anim,52,PART_OF_BPOCprtfANIM
+C0037993,C0003064,PART_OF,Spleen,"Animals, Laboratory",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0037993,C0003069,PART_OF,Spleen,"Animals, Transgenic",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0037993,C0003070,PART_OF,Spleen,"Animals, Wild",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0037993,C1511501,PART_OF,Spleen,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0040113,C0596888,PART_OF,Thymus Gland,mature animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0178784,C0599779,PART_OF,Organ,Animal Model,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0227266,C0003063,PART_OF,Intestinal Villus,"Animals, Domestic",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0262950,C2936506,PART_OF,Skeletal bone,Livestock,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0282335,C0599779,PART_OF,Respiratory tract structure,Animal Model,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0376152,C0596888,PART_OF,Marrow,mature animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0504064,C0003064,PART_OF,Secondary lymphoid organ,"Animals, Laboratory",bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0507851,C1511501,PART_OF,Wall of aorta,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0746922,C1554184,PART_OF,Anatomic Node,Dual,bpoc,anim,2,PART_OF_BPOCprtfANIM
+C0819757,C0012656,PART_OF,Structure of parenchyma of lung,Disease Vectors,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0819757,C0599779,PART_OF,Structure of parenchyma of lung,Animal Model,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0819757,C1554184,PART_OF,Structure of parenchyma of lung,Dual,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C0934502,C1554184,PART_OF,anatomical layer,Dual,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C1179178,C1511501,PART_OF,Epithelium of lobular bronchiole,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C1305694,C0596888,PART_OF,Medulla,mature animal,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C1515933,C1547282,PART_OF,Alveolus,Show,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C1552104,C0012656,PART_OF,Mandibular left third molar distal hemisection,Disease Vectors,bpoc,anim,1,PART_OF_BPOCprtfANIM
+C3275276,C1511501,PART_OF,Bronchial lymph node,Control Animal,bpoc,anim,1,PART_OF_BPOCprtfANIM

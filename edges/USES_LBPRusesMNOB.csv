@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005771,C0026032,USES,Blood Cell Count,Microspheres,lbpr,mnob,2,USES_LBPRusesMNOB
+C0005863,C0086296,USES,Western Blotting,film (photographic),lbpr,mnob,1,USES_LBPRusesMNOB
+C0005863,C1709016,USES,Western Blotting,Microarray,lbpr,mnob,1,USES_LBPRusesMNOB
+C0005863,C2697665,USES,Western Blotting,Imaging System,lbpr,mnob,1,USES_LBPRusesMNOB
+C0007584,C0026032,USES,Cell Count,Microspheres,lbpr,mnob,6,USES_LBPRusesMNOB
+C0007584,C0183309,USES,Cell Count,Simulators,lbpr,mnob,1,USES_LBPRusesMNOB
+C0007584,C0348000,USES,Cell Count,Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0008550,C0348000,USES,Chromatography,Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0008551,C0026032,USES,"Chromatography, Affinity",Microspheres,lbpr,mnob,2,USES_LBPRusesMNOB
+C0008562,C0010600,USES,High pressure liquid chromatography procedure,Cyclotrons,lbpr,mnob,1,USES_LBPRusesMNOB
+C0010405,C0026032,USES,Cryopreservation,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C0016263,C0026032,USES,Flow Cytometry,Microspheres,lbpr,mnob,2,USES_LBPRusesMNOB
+C0016318,C0026032,USES,Fluorescent Antibody Technique,Microspheres,lbpr,mnob,21,USES_LBPRusesMNOB
+C0018941,C0348000,USES,Hematologic Tests,Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0020980,C0026032,USES,Immunoassay method,Microspheres,lbpr,mnob,3,USES_LBPRusesMNOB
+C0022885,C0181467,USES,Laboratory Procedures,knife,lbpr,mnob,5,USES_LBPRusesMNOB
+C0026018,C1289846,USES,Microscopy,Helium Neon Gas Lasers,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C0034762,USES,Polymerase Chain Reaction,Real-Time Systems,lbpr,mnob,14,USES_LBPRusesMNOB
+C0032520,C0037585,USES,Polymerase Chain Reaction,Computer software,lbpr,mnob,2,USES_LBPRusesMNOB
+C0032520,C0336757,USES,Polymerase Chain Reaction,"Heater, device",lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C0336779,USES,Polymerase Chain Reaction,Machine,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C0336789,USES,Polymerase Chain Reaction,Combine,lbpr,mnob,3,USES_LBPRusesMNOB
+C0032520,C1450054,USES,Polymerase Chain Reaction,Artificial nanoparticles,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C1553451,USES,Polymerase Chain Reaction,System - kit,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C1704639,USES,Polymerase Chain Reaction,Matrix Component of Device,lbpr,mnob,2,USES_LBPRusesMNOB
+C0032520,C1709016,USES,Polymerase Chain Reaction,Microarray,lbpr,mnob,4,USES_LBPRusesMNOB
+C0032520,C1736830,USES,Polymerase Chain Reaction,Workstation,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C1883167,USES,Polymerase Chain Reaction,Station,lbpr,mnob,1,USES_LBPRusesMNOB
+C0032520,C1948062,USES,Polymerase Chain Reaction,Copy (object),lbpr,mnob,3,USES_LBPRusesMNOB
+C0032520,C2697665,USES,Polymerase Chain Reaction,Imaging System,lbpr,mnob,5,USES_LBPRusesMNOB
+C0037812,C0348000,USES,Spectrum Analysis,Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0079240,C0026032,USES,Dilution technique,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C0162788,C0336789,USES,In Situ Hybridization,Combine,lbpr,mnob,1,USES_LBPRusesMNOB
+C0162801,C0009622,USES,Sequence Analysis,Computers,lbpr,mnob,2,USES_LBPRusesMNOB
+C0162801,C0179586,USES,Sequence Analysis,Caps,lbpr,mnob,1,USES_LBPRusesMNOB
+C0200345,C0348000,USES,Specimen Collection,Instrument - device,lbpr,mnob,2,USES_LBPRusesMNOB
+C0200765,C0175720,USES,Image analysis,Caliper,lbpr,mnob,1,USES_LBPRusesMNOB
+C0201699,C0348000,USES,"Electrophoresis, Capillary",Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0201927,C0013812,USES,Measurement of serum ionized calcium,electrode,lbpr,mnob,2,USES_LBPRusesMNOB
+C0206618,C0026032,USES,Immunomagnetic Separation,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C0242831,C0336794,USES,Epitope Mapping,Power tool,lbpr,mnob,3,USES_LBPRusesMNOB
+C0598888,C0037003,USES,gene cloning,Shotguns,lbpr,mnob,1,USES_LBPRusesMNOB
+C0599662,C0026032,USES,magnetic cell separation system,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C0678651,C0348000,USES,spectrography,Instrument - device,lbpr,mnob,1,USES_LBPRusesMNOB
+C0683134,C0013812,USES,voltammetry,electrode,lbpr,mnob,1,USES_LBPRusesMNOB
+C0752248,C0336794,USES,Gene Expression Profiling,Power tool,lbpr,mnob,1,USES_LBPRusesMNOB
+C0752248,C1709016,USES,Gene Expression Profiling,Microarray,lbpr,mnob,10,USES_LBPRusesMNOB
+C0872232,C0026032,USES,Nucleic acid assay,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C0919386,C0002422,USES,Pathology procedure,Ambulances,lbpr,mnob,1,USES_LBPRusesMNOB
+C0947630,C0037585,USES,Scientific Study,Computer software,lbpr,mnob,1,USES_LBPRusesMNOB
+C1449575,C0026032,USES,Microarray Analysis,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C1510438,C0013812,USES,Assay,electrode,lbpr,mnob,2,USES_LBPRusesMNOB
+C1510438,C0025256,USES,Assay,"Membranes, Artificial",lbpr,mnob,1,USES_LBPRusesMNOB
+C1510438,C0026032,USES,Assay,Microspheres,lbpr,mnob,13,USES_LBPRusesMNOB
+C1510438,C0348000,USES,Assay,Instrument - device,lbpr,mnob,3,USES_LBPRusesMNOB
+C1879655,C0026032,USES,Corner Minus,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB
+C2347644,C0026032,USES,Positive Selection,Microspheres,lbpr,mnob,13,USES_LBPRusesMNOB
+C2697666,C0026032,USES,Immunoenzyme Procedure,Microspheres,lbpr,mnob,13,USES_LBPRusesMNOB
+C3825122,C0026032,USES,Chemiluminescence immunoassay,Microspheres,lbpr,mnob,1,USES_LBPRusesMNOB

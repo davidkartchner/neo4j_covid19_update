@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0016266,C0028778,CAUSES,Flowmeters,Obstruction,medd,patf,1,CAUSES_MEDDcausPATF
+C0021102,C3714514,CAUSES,Implants,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0024861,C3203358,CAUSES,Masks,Hypoventilation,medd,patf,1,CAUSES_MEDDcausPATF
+C0039142,C3714514,CAUSES,Syringes,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0040661,C0036679,CAUSES,Transducers,Diastasis,medd,patf,3,CAUSES_MEDDcausPATF
+C0042497,C0015376,CAUSES,Mechanical Ventilator,Extravasation,medd,patf,2,CAUSES_MEDDcausPATF
+C0175649,C3714514,CAUSES,Prosthesis,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0178987,C0021368,CAUSES,Artificial Airways,Inflammation,medd,patf,2,CAUSES_MEDDcausPATF
+C0178987,C1155266,CAUSES,Artificial Airways,inflammatory response,medd,patf,1,CAUSES_MEDDcausPATF
+C0181687,C0011304,CAUSES,loops,Demyelination,medd,patf,1,CAUSES_MEDDcausPATF
+C0182400,C0020517,CAUSES,Probes,Hypersensitivity,medd,patf,2,CAUSES_MEDDcausPATF
+C0182953,C0011304,CAUSES,Regulators (device),Demyelination,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C0020507,CAUSES,Regulators (device),Hyperplasia,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C0021368,CAUSES,Regulators (device),Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C0028778,CAUSES,Regulators (device),Obstruction,medd,patf,1,CAUSES_MEDDcausPATF
+C0182953,C3714514,CAUSES,Regulators (device),Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C0183479,C3714514,CAUSES,Spreader,Infection,medd,patf,3,CAUSES_MEDDcausPATF
+C0493436,C3714514,CAUSES,CAMPYLOBACTER SPP.,Infection,medd,patf,1,CAUSES_MEDDcausPATF
+C1314650,C0027543,CAUSES,"SUPPLY, NOT OTHERWISE SPECIFIED",Avascular necrosis of bone,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0003130,CAUSES,BARRIER,Anoxia,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0015376,CAUSES,BARRIER,Extravasation,medd,patf,3,CAUSES_MEDDcausPATF
+C1706912,C0021368,CAUSES,BARRIER,Inflammation,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0242781,CAUSES,BARRIER,disease transmission,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0333138,CAUSES,BARRIER,Stasis,medd,patf,1,CAUSES_MEDDcausPATF
+C1706912,C0544688,CAUSES,BARRIER,complication of disease,medd,patf,2,CAUSES_MEDDcausPATF
+C1706912,C3714514,CAUSES,BARRIER,Infection,medd,patf,3,CAUSES_MEDDcausPATF

@@ -1,0 +1,666 @@
+cui,type,name
+C0000833,patf,Abscess
+C0000887,patf,Acantholysis
+C0001122,patf,Acidosis
+C0001349,patf,Acute-Phase Reaction
+C0001364,patf,Massive Hepatic Necrosis
+C0001688,patf,aspects of adverse effects
+C0002064,patf,"Alkalosis, Respiratory"
+C0002170,patf,Alopecia
+C0002792,patf,anaphylaxis
+C0002994,patf,Angioedema
+C0003130,patf,Anoxia
+C0003132,patf,Anoxic Encephalopathy
+C0003578,patf,Apnea
+C0003811,patf,Cardiac Arrhythmia
+C0003860,patf,Arteritis
+C0004044,patf,Asphyxia
+C0004058,patf,Aspirin allergy
+C0004144,patf,Atelectasis
+C0004238,patf,Atrial Fibrillation
+C0004239,patf,Atrial Flutter
+C0004366,patf,Autoimmune Response
+C0004372,patf,Autolysis
+C0005417,patf,Biliary Fistula
+C0005758,patf,Bulla
+C0006110,patf,Brain Death
+C0006114,patf,Cerebral Edema
+C0006119,patf,Brain Pathology
+C0007820,patf,Cerebrovascular Disorders
+C0007994,patf,chemically induced
+C0008519,patf,Ectopic Tissue
+C0009760,patf,Conjunctival hemorrhage
+C0009814,patf,Acquired stenosis
+C0010828,patf,Cytopenia
+C0011164,patf,Abnormal degeneration
+C0011304,patf,Demyelination
+C0011560,patf,Amyloid deposition
+C0012359,patf,Pathological Dilatation
+C0012767,patf,Tooth eruption disorder
+C0013390,patf,Dysmenorrhea
+C0013604,patf,Edema
+C0013687,patf,effusion
+C0013922,patf,Embolism
+C0013990,patf,Pathological accumulation of air in tissues
+C0014461,patf,Eosinophilic Granuloma
+C0014591,patf,Epistaxis
+C0015376,patf,Extravasation
+C0015668,patf,Fat necrosis
+C0015924,patf,Fetal Anoxia
+C0015927,patf,Fetal Death
+C0015934,patf,Fetal Growth Retardation
+C0015959,patf,Fetomaternal Transfusion
+C0016059,patf,Fibrosis
+C0016549,patf,Foreign-Body Reaction
+C0017181,patf,Gastrointestinal Hemorrhage
+C0017639,patf,Gliosis
+C0018134,patf,Graft vs Host Reaction
+C0018188,patf,Granuloma
+C0018193,patf,"Granuloma, Foreign-Body"
+C0018273,patf,Growth Disorders
+C0018790,patf,Cardiac Arrest
+C0018926,patf,Hematemesis
+C0018944,patf,Hematoma
+C0019123,patf,Hemothorax
+C0020452,patf,Hyperemia
+C0020461,patf,Hyperkalemia
+C0020507,patf,Hyperplasia
+C0020510,patf,Nodular hyperplasia
+C0020517,patf,Hypersensitivity
+C0020522,patf,Delayed Hypersensitivity
+C0020523,patf,Immediate hypersensitivity
+C0020564,patf,Hypertrophy
+C0020683,patf,Hypovolemic Shock
+C0020963,patf,Immune Tolerance
+C0021308,patf,Infarction
+C0021361,patf,Female infertility
+C0021368,patf,Inflammation
+C0021375,patf,allergic inflammation
+C0021376,patf,Chronic inflammation
+C0021385,patf,Necrotizing inflammation
+C0021387,patf,Postinfection inflammation
+C0021655,patf,Insulin Resistance
+C0022346,patf,Icterus
+C0022650,patf,Kidney Calculi
+C0023052,patf,Laryngeal Edema
+C0023518,patf,Leukocytosis
+C0023869,patf,Lithiasis
+C0024050,patf,Lower gastrointestinal hemorrhage
+C0024348,patf,Lysis
+C0024524,patf,Malacia
+C0025062,patf,Mediastinal Emphysema
+C0025222,patf,Melena
+C0025345,patf,Menstruation Disturbances
+C0025874,patf,Metrorrhagia
+C0026766,patf,Multiple Organ Failure
+C0027055,patf,Myocardial Reperfusion Injury
+C0027540,patf,Necrosis
+C0027543,patf,Avascular necrosis of bone
+C0027626,patf,Neoplasm Invasiveness
+C0027686,patf,Pathologic Neovascularization
+C0028778,patf,Obstruction
+C0029163,patf,Oral Hemorrhage
+C0029191,patf,Orchitis
+C0029445,patf,Bone necrosis
+C0030660,patf,Pathologic Processes
+C0031557,patf,Phlegmon
+C0032227,patf,Pleural effusion disorder
+C0032780,patf,Postmortem Changes
+C0032787,patf,Postoperative Complications
+C0032788,patf,Postoperative Hemorrhage
+C0032797,patf,Postpartum Hemorrhage
+C0033677,patf,Protein-Energy Malnutrition
+C0035228,patf,Respiratory Hypersensitivity
+C0035229,patf,Respiratory Insufficiency
+C0035317,patf,Retinal Hemorrhage
+C0035320,patf,Retinal Neovascularization
+C0035410,patf,Rhabdomyolysis
+C0035956,patf,"Rupture, Spontaneous"
+C0036429,patf,Sclerosis
+C0036679,patf,Diastasis
+C0036749,patf,Serositis
+C0036974,patf,Shock
+C0036980,patf,"Shock, Cardiogenic"
+C0036982,patf,"Shock, Hemorrhagic"
+C0036983,patf,Septic Shock
+C0036986,patf,"Shock, Traumatic"
+C0038536,patf,Subcutaneous Emphysema
+C0038862,patf,Suppurative inflammation
+C0038940,patf,Surgical Wound Dehiscence
+C0038941,patf,Surgical Wound Infection
+C0039231,patf,Tachycardia
+C0040038,patf,Thromboembolism
+C0040053,patf,Thrombosis
+C0041582,patf,Ulcer
+C0042134,patf,Uterine hemorrhage
+C0042300,patf,Valvular regurgitation
+C0042484,patf,Venous Engorgement
+C0042487,patf,Venous Thrombosis
+C0042514,patf,"Tachycardia, Ventricular"
+C0042909,patf,Vitreous Hemorrhage
+C0043065,patf,Water-Electrolyte Imbalance
+C0043241,patf,Wound Infection
+C0079027,patf,"Blood Loss, Surgical"
+C0080203,patf,Tachyarrhythmia
+C0085073,patf,Prosthesis-Related Infection
+C0085109,patf,Corneal Neovascularization
+C0085257,patf,Yin Deficiency
+C0085258,patf,Yang Deficiency
+C0085298,patf,Sudden Cardiac Death
+C0085605,patf,Liver Failure
+C0085610,patf,Sinus bradycardia
+C0085611,patf,Atrial arrhythmia
+C0085612,patf,Ventricular arrhythmia
+C0085660,patf,Aseptic necrosis
+C0086565,patf,Liver Dysfunction
+C0149721,patf,Left Ventricular Hypertrophy
+C0149777,patf,Abscess of skin AND/OR subcutaneous tissue
+C0149825,patf,Hypertrophy of adenoids
+C0149938,patf,Analgesic nephropathy
+C0150034,patf,Impaired gas exchange
+C0151517,patf,Complete atrioventricular block
+C0151521,patf,Bacterial resistance
+C0151526,patf,Premature Birth
+C0151603,patf,Anasarca
+C0151636,patf,Premature ventricular contractions
+C0151654,patf,Myocardial fibrosis
+C0151661,patf,Peripheral gangrene
+C0151686,patf,Growth retardation
+C0151692,patf,Impaired wound healing
+C0151699,patf,Intracranial Hemorrhages
+C0151701,patf,Pulmonary hemorrhage
+C0151702,patf,Muscle hemorrhage
+C0151713,patf,Hyperchlorhydria
+C0151718,patf,Hypocholesterolemia
+C0151735,patf,Injection Site Reaction
+C0151746,patf,Abnormal renal function
+C0151763,patf,Liver damage
+C0151799,patf,Skin necrosis
+C0151811,patf,Subcutaneous nodule
+C0151857,patf,Pleocytosis
+C0152154,patf,Prolonged labor
+C0152156,patf,Obstructed labor
+C0152158,patf,Failure of lactation
+C0152245,patf,Extravasation of urine
+C0152254,patf,Fatty degeneration
+C0155268,patf,Orbital hemorrhage
+C0156404,patf,Irregular periods
+C0161815,patf,Central nervous system complication
+C0161816,patf,Cardiac complication
+C0161818,patf,Respiratory complication
+C0162351,patf,Contact hypersensitivity
+C0162633,patf,Viral Shedding
+C0162770,patf,Right Ventricular Hypertrophy
+C0162834,patf,Hyperpigmentation
+C0178292,patf,"Complications of pregnancy, childbirth and the puerperium"
+C0206277,patf,Fatal Outcome
+C0220981,patf,Metabolic acidosis
+C0220994,patf,Hyperammonemia
+C0221242,patf,Fixed drug eruption
+C0221255,patf,Metastatic calcification
+C0221270,patf,Acanthosis
+C0221333,patf,Hypouricemia
+C0221791,patf,medical complication
+C0231170,patf,Disability
+C0231176,patf,Acute failure
+C0231178,patf,Chronic failure
+C0231181,patf,Acute insufficiency
+C0231302,patf,Physical stress
+C0232018,patf,Decreased lung compliance
+C0232100,patf,Exsanguination
+C0232200,patf,Gallop rhythm
+C0232219,patf,Abnormal cardiac conduction
+C0232340,patf,Abnormal vascular flow
+C0232342,patf,Decreased vascular flow
+C0232483,patf,Reflux
+C0232841,patf,Bladder dysfunction
+C0232910,patf,Teratogenesis
+C0232981,patf,Arrest of spermatogenesis
+C0233315,patf,Premature birth of newborn
+C0234985,patf,Mental deterioration
+C0235029,patf,neurological complication
+C0235063,patf,Respiratory Depression
+C0235395,patf,Fluid loss
+C0235480,patf,Paroxysmal atrial fibrillation
+C0235490,patf,Peripheral ischemia
+C0235592,patf,Cervical lymphadenopathy
+C0235656,patf,Lesion of cervix
+C0235665,patf,Flow or discharge
+C0235723,patf,reaction febrile
+C0235883,patf,uterine inflammation
+C0235957,patf,myonecrosis
+C0236003,patf,Mucous membrane swelling
+C0236013,patf,hyperosmolar state
+C0238217,patf,Renal transplant rejection
+C0240059,patf,Ventricular hemorrhage
+C0241742,patf,Wound hemorrhage
+C0241816,patf,Global brain atrophy
+C0242184,patf,Hypoxia
+C0242648,patf,Vertical Disease Transmission
+C0242649,patf,"Infectious Disease Transmission, Horizontal"
+C0242656,patf,Disease Progression
+C0242698,patf,"Ventricular Dysfunction, Left"
+C0242707,patf,"Ventricular Dysfunction, Right"
+C0242781,patf,disease transmission
+C0242973,patf,Ventricular Dysfunction
+C0243069,patf,Hypoplasia
+C0243083,patf,associated disease
+C0243085,patf,coexistent disease
+C0243086,patf,concomitant conditions
+C0243087,patf,concomitant disease
+C0262514,patf,HIV exposure
+C0263833,patf,Hip joint effusion
+C0264006,patf,Muscular steatosis
+C0264906,patf,Second degree atrioventricular block
+C0264940,patf,Hemorrhage of blood vessel
+C0264956,patf,Atheroma
+C0267778,patf,Adhesion of intestine
+C0268000,patf,Body fluid retention
+C0269389,patf,Miscarriage in second trimester
+C0272396,patf,Lymph node abscess
+C0281169,patf,pulmonary complications
+C0282474,patf,Maternal-Fetal Infection Transmission
+C0282683,patf,Tumor Escape
+C0301889,patf,Immune defect
+C0301943,patf,Graft reaction
+C0302085,patf,Decreased erythrocyte production
+C0302144,patf,Mucus retention
+C0302149,patf,Serous effusion
+C0302158,patf,Leucocytic infiltrate
+C0302590,patf,calcium disorders
+C0332448,patf,Infiltration
+C0332534,patf,Induration
+C0333106,patf,Bleeding varices
+C0333128,patf,Open comedone
+C0333138,patf,Stasis
+C0333139,patf,Gas retention
+C0333140,patf,Ruptured simple cyst
+C0333165,patf,Acute obstruction
+C0333166,patf,Chronic obstruction
+C0333167,patf,Intermittent obstruction
+C0333168,patf,Progressive obstruction
+C0333169,patf,Partial obstruction
+C0333173,patf,Pseudo-obstruction of gastrointestinal tract
+C0333197,patf,Fibrin blood clot
+C0333257,patf,Air leakage
+C0333276,patf,Acute hemorrhage
+C0333279,patf,Massive hemorrhage
+C0333280,patf,Diffuse hemorrhage
+C0333281,patf,Localized hemorrhage
+C0333285,patf,Intramural hemorrhage
+C0333288,patf,Dissecting hemorrhage
+C0333353,patf,Fibrinous inflammation
+C0333355,patf,Inflammatory disease of mucous membrane
+C0333357,patf,Ulcerative inflammation
+C0333358,patf,Hemorrhagic inflammation
+C0333359,patf,Perivascular inflammation
+C0333371,patf,Ruptured abscess
+C0333373,patf,Microabscess
+C0333374,patf,Crypt abscess
+C0333383,patf,Acute and chronic inflammation
+C0333386,patf,Chronic lymphocytic inflammation
+C0333390,patf,Chronic eosinophilic inflammation
+C0333398,patf,Chronic abscess
+C0333405,patf,Pyogranuloma
+C0333409,patf,Miliary granuloma
+C0333418,patf,Non-necrotizing granulomatous inflammation
+C0333431,patf,Localized degeneration
+C0333435,patf,Cystic degeneration
+C0333437,patf,Granular degeneration
+C0333438,patf,Hyaline degeneration
+C0333443,patf,Senile degeneration
+C0333451,patf,Myxoid degeneration
+C0333456,patf,Primary demyelination
+C0333467,patf,Cytopathic effect
+C0333471,patf,Collagenolysis
+C0333484,patf,Fatty streaks
+C0333501,patf,Acute necrosis
+C0333504,patf,Focal necrosis
+C0333505,patf,Diffuse necrosis
+C0333506,patf,Massive necrosis
+C0333508,patf,Hemorrhagic necrosis
+C0333509,patf,Liquefactive necrosis
+C0333511,patf,Bridging necrosis
+C0333512,patf,Caseous necrosis
+C0333513,patf,Fibrinoid necrosis
+C0333525,patf,Maceration
+C0333542,patf,Focal infarct
+C0333543,patf,Multifocal infarct
+C0333547,patf,Multiple infarcts
+C0333548,patf,Acute infarct
+C0333549,patf,Hemorrhagic infarct
+C0333551,patf,Healed infarct
+C0333563,patf,Hyaline membrane
+C0333565,patf,Fibrin deposition
+C0333574,patf,Fatty deposition
+C0333575,patf,Fatty infiltration
+C0333606,patf,Dystrophy
+C0333629,patf,Hemosiderin pigmentation
+C0333641,patf,Atrophic
+C0333642,patf,Secondary atrophy
+C0333644,patf,Acute atrophy
+C0333670,patf,Glycogen depletion
+C0333951,patf,Growth arrest
+C0333957,patf,Growth acceleration
+C0333964,patf,Eccentric hypertrophy
+C0333965,patf,Unilateral hypertrophy
+C0333966,patf,Giant hypertrophy
+C0333976,patf,Bilateral hyperplasia
+C0333977,patf,Atypical hyperplasia
+C0333979,patf,Secondary hyperplasia
+C0333985,patf,Cystic hyperplasia
+C0333990,patf,Basal cell hyperplasia
+C0333994,patf,Intraductal Hyperplasia
+C0334011,patf,Melanocytic hyperplasia
+C0334040,patf,Osseous metaplasia
+C0334061,patf,Dyskeratosis
+C0334096,patf,Intimal proliferation
+C0334097,patf,Epithelial proliferation
+C0334133,patf,Chronic fibrosis
+C0334149,patf,Massive fibrosis
+C0340515,patf,Myocardial dysfunction
+C0340517,patf,Atrial thrombosis
+C0340654,patf,Arterial hemorrhage
+C0342257,patf,Complications of Diabetes Mellitus
+C0342299,patf,Poor glycemic control
+C0342300,patf,Chronic hyperglycemia
+C0342314,patf,Dawn phenomenon
+C0342579,patf,Electrolyte imbalance
+C0342629,patf,Idiopathic hypercalcemia
+C0342649,patf,Vascular calcification
+C0345468,patf,Transplanted organ rejection
+C0347959,patf,Lactic acidemia
+C0348024,patf,Thyroid dysfunction
+C0349725,patf,Graft infection
+C0376297,patf,Cardiac Death
+C0392025,patf,Enlargement abdomen
+C0392190,patf,Mucositis following radiation therapy
+C0392459,patf,Intra-alveolar hemorrhage
+C0392676,patf,Hyperpyrexia
+C0392707,patf,Atopy
+C0394019,patf,Brainstem death
+C0398353,patf,Hypercapnic respiratory failure
+C0401151,patf,Chronic diarrhea
+C0404844,patf,Non-viable pregnancy
+C0405332,patf,Antepartum fetal death
+C0410013,patf,Soft tissue lesion
+C0410480,patf,Avascular Necrosis of Femur Head
+C0410916,patf,Neonatal Death
+C0428974,patf,Supraventricular arrhythmia
+C0429001,patf,Paired ventricular premature complexes
+C0429892,patf,Type 1 hypersensitivity response
+C0432487,patf,Post-transplant lymphoproliferative disorder
+C0442860,patf,Intravascular thrombosis
+C0443146,patf,Autoimmune reaction
+C0452115,patf,Infection following immunization
+C0456056,patf,Fetus at risk
+C0456057,patf,Fetal stress
+C0456070,patf,Growth delay
+C0472383,patf,"Subarachnoid Hemorrhage, Spontaneous"
+C0473390,patf,Threatened Preterm Labor
+C0473485,patf,Maternal distress
+C0475737,patf,Perinatal subependymal hemorrhage
+C0476474,patf,persistent fever
+C0478664,patf,Localized enlarged lymph nodes
+C0494876,patf,Epidermal thickening
+C0520817,patf,Physical disability
+C0520863,patf,Diastolic dysfunction
+C0520893,patf,Localized desquamation
+C0521173,patf,Granulomatosis
+C0521174,patf,Microcalcification
+C0521464,patf,Edematous skin
+C0522563,patf,Acute congestion
+C0522564,patf,Chronic congestion
+C0522565,patf,Inflammatory edema
+C0524672,patf,Positional Nystagmus
+C0544688,patf,complication of disease
+C0544779,patf,Diffuse acute inflammation
+C0544819,patf,Digestion chambers
+C0546884,patf,Hypovolemia
+C0546959,patf,Atrial tachycardia
+C0549314,patf,Brain stem dysfunction
+C0549384,patf,hypotonic-hyporesponsive episode
+C0549562,patf,Oxygen Disorders
+C0549563,patf,Sodium disorder
+C0549592,patf,kidney morphologic
+C0553572,patf,Secondary infertility
+C0553686,patf,Cerebral herniation
+C0553692,patf,Brain hemorrhage
+C0553697,patf,Granulomatous inflammation
+C0557874,patf,Global developmental delay
+C0558360,patf,Aortic thromboembolism
+C0559477,patf,Perinatal asphyxia
+C0559751,patf,Recurrent hematuria
+C0587240,patf,bone erosion
+C0595862,patf,Vasodilation disorder
+C0595938,patf,effect increased
+C0595939,patf,Stillbirth
+C0595950,patf,Mechanical Detachment
+C0596761,patf,Immunosenescence
+C0597469,patf,skin hyperplasia
+C0597849,patf,low renin hypertension
+C0598906,patf,multiorgan injury
+C0599878,patf,disease characteristic
+C0600177,patf,Low Cardiac Output Syndrome
+C0600228,patf,Cardiopulmonary Arrest
+C0600518,patf,Choroidal Neovascularization
+C0679221,patf,hypofunction
+C0679223,patf,functional failure
+C0679316,patf,Dysmotility
+C0679317,patf,hypomotility
+C0679330,patf,abnormal secretion
+C0679333,patf,inflammation or infection
+C0683370,patf,hypermotility
+C0684320,patf,Disease regression
+C0685934,patf,Pallor of liver
+C0699748,patf,Pathogenesis
+C0700148,patf,Congestion
+C0700185,patf,Decalcification
+C0700198,patf,Pulmonary aspiration
+C0702120,patf,Spongiosis
+C0728867,patf,Drug effect disorder
+C0729264,patf,Preterm premature rupture of membranes (disorder)
+C0729958,patf,Lung transplant rejection
+C0740341,patf,Septic thrombophlebitis
+C0740947,patf,AMNIOTIC Embolism
+C0742007,patf,catheter sepsis
+C0744813,patf,Portal embolisation
+C0746552,patf,Mesenteric lymphadenopathy
+C0747264,patf,parenchymal hemorrhage
+C0747772,patf,postpartum complication
+C0748137,patf,pulmonary hemorrhage idiopathic
+C0749225,patf,Systolic dysfunction
+C0751530,patf,"Subarachnoid Hemorrhage, Aneurysmal"
+C0815080,patf,organ rejection
+C0848885,patf,immature Neonates
+C0848889,patf,infant morbidity
+C0848898,patf,Neonatal morbidity
+C0852962,patf,Complication of delivery
+C0853041,patf,reaction to colouring
+C0853336,patf,Infiltrate of cornea
+C0853888,patf,Hypocomplementemia
+C0854457,patf,Direct disease transmission
+C0854460,patf,Indirect Transmission
+C0856757,patf,dilated veins
+C0857353,patf,Hypotensive
+C0859290,patf,black spot
+C0860239,patf,Catheter related infection
+C0867389,patf,Chronic graft-versus-host disease
+C0877042,patf,graft loss
+C0877326,patf,Bone infarction
+C0877792,patf,"Sleep Disorders, Circadian Rhythm"
+C0878575,patf,Peripheral demyelination
+C0919661,patf,alternation
+C0919924,patf,pulmonary toxicity
+C0920269,patf,Microsatellite Instability
+C0920394,patf,angiotensin hypertension
+C0920474,patf,drug mechanism
+C0920563,patf,Insulin Sensitivity
+C0920569,patf,hepatic ischemia
+C0920779,patf,Cancer invasiveness
+C0948031,patf,Primary Graft Dysfunction
+C0948496,patf,abortion late
+C1140716,patf,Hypoxic Brain Damage
+C1155266,patf,inflammatory response
+C1156244,patf,invasive growth
+C1261281,patf,Disorder of transplanted kidney
+C1261287,patf,Stenosis
+C1262023,patf,dilutional coagulopathy
+C1264521,patf,Effects of chemotherapy
+C1264605,patf,Post-viral disorder
+C1265580,patf,Acute collapse
+C1265762,patf,Chronic dilatation
+C1265765,patf,Duct ectasia
+C1265799,patf,Massive embolus
+C1265804,patf,Non-pitting edema
+C1265813,patf,Diffuse ulceration
+C1265815,patf,Multiple ulcers
+C1265821,patf,Enclosed cavity
+C1265824,patf,Persistent inflammation
+C1265825,patf,Multifocal inflammation
+C1265828,patf,Progressive inflammation
+C1265831,patf,Interstitial inflammation
+C1265832,patf,Focal acute inflammation
+C1265833,patf,Deep abscess
+C1265851,patf,Diffuse degeneration
+C1265868,patf,Confluent necrosis
+C1265869,patf,Early necrosis
+C1265870,patf,Midzonal necrosis
+C1265880,patf,Focal calcium deposition
+C1265885,patf,Diffuse calcium deposition
+C1265891,patf,Focal atrophy
+C1265892,patf,Partial atrophy
+C1265895,patf,Progressive atrophy
+C1265896,patf,Diffuse atrophy
+C1265929,patf,Asymmetric hypertrophy
+C1265931,patf,Chronic hypertrophy
+C1265932,patf,Focal hyperplasia
+C1265933,patf,Diffuse hyperplasia
+C1265954,patf,Focal metaplasia
+C1265958,patf,Bronchiolization
+C1265970,patf,Focal proliferation
+C1265975,patf,Inflamed polyp
+C1265979,patf,Reactive fibrosis
+C1265984,patf,Diffuse fibrosis
+C1277187,patf,Left ventricular systolic dysfunction
+C1280751,patf,Focal hypertrophy
+C1285169,patf,Antibody-mediated cytolysis
+C1285228,patf,Degenerative disorder of cartilage
+C1285328,patf,Infectious sequelae of disorders
+C1299557,patf,Dynamic obstruction
+C1328314,patf,Thoracic hemorrhage
+C1336083,patf,Squamous Hyperplasia
+C1383860,patf,Cardiac Hypertrophy
+C1386627,patf,Bilateral carotid artery occlusion
+C1398094,patf,induced; birth
+C1404117,patf,Kidney transplant failure
+C1444079,patf,Focal chronic inflammation
+C1446357,patf,Linear ulcer
+C1510411,patf,metaplastic cell transformation
+C1514893,patf,physiologic resolution
+C1516670,patf,Clonal Expansion
+C1518304,patf,Neurotropism
+C1519697,patf,Tumorigenicity
+C1520005,patf,Viral Pathogenesis
+C1522058,patf,Coagulative necrosis
+C1527304,patf,Allergic Reaction
+C1527348,patf,Brain Hypoxia
+C1533651,patf,Deficiency of cell-mediated immunity
+C1547889,patf,Transfusion Adverse Reaction
+C1560305,patf,Prolonged QTc interval
+C1563937,patf,Atherogenesis
+C1566590,patf,Delayed Graft Function
+C1621954,patf,Erythromycin sensitivity
+C1659441,patf,entry into host cell
+C1692321,patf,Cellular infiltrate
+C1704431,patf,Disorder of electrolytes
+C1704489,patf,Extended Rotated Sidebent
+C1704493,patf,Neutral Sidebent Rotated
+C1720105,patf,AIDS-associated disorder
+C1720776,patf,"Kindling, Neurologic"
+C1720824,patf,Sudden Cardiac Arrest
+C1817976,patf,hypersensitivity response
+C1817978,patf,acute inflammatory response
+C1817997,patf,chronic inflammatory response
+C1827687,patf,Chemotherapy-induced neutropenia
+C1827755,patf,Physiologic pseudocyesis
+C1832055,patf,hepatic complications
+C1849249,patf,SENILE PLAQUE FORMATION
+C1961112,patf,Heart Decompensation
+C2004491,patf,Cicatrix
+C2265909,patf,smooth muscle hypertrophy
+C2349672,patf,Post vaccination fever
+C2584654,patf,Posttraumatic seizure
+C2585653,patf,Persistent atrial fibrillation
+C2586211,patf,Thrombosis of blood vessel
+C2609166,patf,Discordant Twin
+C2699153,patf,Cell Invasion
+C2713497,patf,Saccular Aneurysm
+C2717792,patf,Airway Remodeling
+C2717864,patf,Colony Collapse Disorder
+C2718076,patf,Fetal Mummification
+C2718128,patf,Nasal inflammation
+C2733376,patf,Inflammation of ligament
+C2830448,patf,Drug induced fever
+C2886794,patf,Catheter related bloodstream infection
+C2887352,patf,Intraoperative cardiac arrest
+C2911645,patf,Weight Loss Adverse Event
+C2936381,patf,Neointima Formation
+C2936490,patf,Out-of-Hospital Cardiac Arrest
+C2937358,patf,Cerebral Hemorrhage
+C2938937,patf,Acute Hemorrhagic Edema of Infancy
+C2979982,patf,Vaginal Hemorrhage
+C3159310,patf,oncogene-induced senescence
+C3160769,patf,Major bleeding problems
+C3160770,patf,Minor bleeding problems
+C3161456,patf,Central line-associated infection NOS
+C3178781,patf,Vascular Stiffness
+C3203358,patf,Hypoventilation
+C3203360,patf,Suppuration
+C3241936,patf,Non-cardiogenic pulmonary edema
+C3249873,patf,Childbirth Problems
+C3274677,patf,Histologic Progression
+C3495374,patf,penicillin allergic reaction
+C3532483,patf,Allergic process
+C3640852,patf,Extensively Drug Resistance Process
+C3645947,patf,Tissue graft rejection
+C3658208,patf,Dysbiosis
+C3658220,patf,Atrial Remodeling
+C3662030,patf,Spontaneous cerebral hemorrhage
+C3670572,patf,Perivascular hemorrhage
+C3670573,patf,Perivascular edema
+C3672482,patf,Soft tissue mineralization
+C3686534,patf,Perivascular cuffing
+C3686874,patf,Microgliosis
+C3686920,patf,Early embryonic death
+C3697906,patf,Indirect maternal death
+C3698086,patf,Submucosal hemorrhage
+C3698200,patf,Postoperative sepsis
+C3714514,patf,Infection
+C3805220,patf,Marked Baseline Fetal Heart Rate Variability
+C3825618,patf,Surgery--Complications
+C3825727,patf,Respiratory allergy
+C3826020,patf,Medical emergencies
+C3838777,patf,Sensitization process
+C3838785,patf,Catheter-associated urinary tract infection
+C3887486,patf,Interstitial lung fibrosis
+C3887513,patf,Avascular necrosis
+C3887640,patf,Astrocytosis
+C3897493,patf,Stent Thrombosis
+C3898092,patf,Oral Complication
+C4021753,patf,Abnormality of the immune system
+C4021973,patf,Cartilage destruction
+C4022804,patf,Decreased inflammatory response
+C4022805,patf,Abnormal inflammatory response
+C4022910,patf,Hyperoxemia
+C4061114,patf,Acute illness
+C4287874,patf,Droplet Transmission
+C4288028,patf,Vector Transmission
+C4289682,patf,Direct Transmission
+C4289744,patf,Contact Transmission
+C4290181,patf,thrombotic occlusion
+C4304717,patf,Ectopic endometrial tissue
+C4505076,patf,Capillary Rarefaction
+C4505499,patf,Transfusion-Transmitted Infection
+C4534318,patf,Catheter-related blood stream infection
+C4545429,patf,Perioperative complication

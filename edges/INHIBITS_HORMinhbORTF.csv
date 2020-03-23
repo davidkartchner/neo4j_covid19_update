@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0302600,INHIBITS,Adrenal Cortex Hormones,Angiogenic Process,horm,ortf,1,INHIBITS_HORMinhbORTF
+C0014563,C0037990,INHIBITS,Epinephrine,Splanchnic Circulation,horm,ortf,1,INHIBITS_HORMinhbORTF
+C0017710,C0596138,INHIBITS,Glucocorticoids,autocrine,horm,ortf,1,INHIBITS_HORMinhbORTF
+C0017710,C1817756,INHIBITS,Glucocorticoids,Immune System Processes,horm,ortf,1,INHIBITS_HORMinhbORTF
+C0020268,C1817756,INHIBITS,Hydrocortisone,Immune System Processes,horm,ortf,1,INHIBITS_HORMinhbORTF
+C0032952,C0517349,INHIBITS,Prednisone,Muscle Strength,horm,ortf,1,INHIBITS_HORMinhbORTF

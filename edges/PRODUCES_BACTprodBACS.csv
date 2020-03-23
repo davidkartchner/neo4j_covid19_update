@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001830,C0035693,PRODUCES,Agrobacterium,"RNA, Double-Stranded",bact,bacs,1,PRODUCES_BACTprodBACS
+C0004597,C0040549,PRODUCES,Bacillus thuringiensis,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0005390,PRODUCES,Bacteria,Bile Acids,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0012854,PRODUCES,Bacteria,DNA,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0015691,PRODUCES,Bacteria,"Fatty Acids, Volatile",bact,bacs,6,PRODUCES_BACTprodBACS
+C0004611,C0019588,PRODUCES,Bacteria,Histamine,bact,bacs,2,PRODUCES_BACTprodBACS
+C0004611,C0028606,PRODUCES,Bacteria,Nucleic Acids,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0032136,PRODUCES,Bacteria,Plasmids,bact,bacs,2,PRODUCES_BACTprodBACS
+C0004611,C0032712,PRODUCES,Bacteria,Porphyrins,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0034170,PRODUCES,Bacteria,Putrescine,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0037871,PRODUCES,Bacteria,spermidine,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0039705,PRODUCES,Bacteria,Tetrodotoxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0040549,PRODUCES,Bacteria,Toxin,bact,bacs,11,PRODUCES_BACTprodBACS
+C0004611,C0064582,PRODUCES,Bacteria,Lactic acid,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0304207,PRODUCES,Bacteria,Bacterial product,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C0577749,PRODUCES,Bacteria,Phytochemicals,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004611,C1136170,PRODUCES,Bacteria,Virulence Factors,bact,bacs,3,PRODUCES_BACTprodBACS
+C0004611,C1519315,PRODUCES,Bacteria,Signaling Molecule,bact,bacs,1,PRODUCES_BACTprodBACS
+C0004661,C0015691,PRODUCES,Bacteroides,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C0005380,C0015691,PRODUCES,Bifidobacterium,"Fatty Acids, Volatile",bact,bacs,2,PRODUCES_BACTprodBACS
+C0006017,C0004630,PRODUCES,Bordetella pertussis,Bacterial Toxins,bact,bacs,1,PRODUCES_BACTprodBACS
+C0009055,C0040549,PRODUCES,Clostridium botulinum,Toxin,bact,bacs,3,PRODUCES_BACTprodBACS
+C0009063,C0040549,PRODUCES,Clostridium perfringens,Toxin,bact,bacs,2,PRODUCES_BACTprodBACS
+C0009064,C0040549,PRODUCES,Clostridium tetani,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0014346,C0040549,PRODUCES,Enterobacteriaceae,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0014834,C0010868,PRODUCES,Escherichia coli,Cytotoxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0014834,C0040549,PRODUCES,Escherichia coli,Toxin,bact,bacs,2,PRODUCES_BACTprodBACS
+C0014834,C1528429,PRODUCES,Escherichia coli,taxadiene,bact,bacs,1,PRODUCES_BACTprodBACS
+C0016677,C0040549,PRODUCES,FRANCISELLA TULARENSIS,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0018150,C0040549,PRODUCES,Gram-Negative Bacteria,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0022938,C0015691,PRODUCES,Lactobacillus,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C0022938,C0064582,PRODUCES,Lactobacillus,Lactic acid,bact,bacs,3,PRODUCES_BACTprodBACS
+C0023861,C0040549,PRODUCES,Listeria monocytogenes,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0026926,C0012854,PRODUCES,Mycobacterium tuberculosis,DNA,bact,bacs,1,PRODUCES_BACTprodBACS
+C0026926,C0065041,PRODUCES,Mycobacterium tuberculosis,lipoarabinomannan,bact,bacs,1,PRODUCES_BACTprodBACS
+C0026941,C0017950,PRODUCES,Mycoplasma pneumoniae,Glycolipids,bact,bacs,1,PRODUCES_BACTprodBACS
+C0033809,C0034211,PRODUCES,Pseudomonas aeruginosa,Pyocyanine,bact,bacs,1,PRODUCES_BACTprodBACS
+C0033809,C1136170,PRODUCES,Pseudomonas aeruginosa,Virulence Factors,bact,bacs,1,PRODUCES_BACTprodBACS
+C0036111,C0032136,PRODUCES,Salmonella,Plasmids,bact,bacs,2,PRODUCES_BACTprodBACS
+C0038172,C0019053,PRODUCES,Staphylococcus aureus,Hemolysin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0038172,C0040549,PRODUCES,Staphylococcus aureus,Toxin,bact,bacs,2,PRODUCES_BACTprodBACS
+C0038172,C0064841,PRODUCES,Staphylococcus aureus,leukotoxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0038172,C0597508,PRODUCES,Staphylococcus aureus,Staphylococcal Enterotoxins,bact,bacs,2,PRODUCES_BACTprodBACS
+C0038402,C0064582,PRODUCES,Streptococcus,Lactic acid,bact,bacs,1,PRODUCES_BACTprodBACS
+C0038410,C0040549,PRODUCES,Streptococcus pneumoniae,Toxin,bact,bacs,2,PRODUCES_BACTprodBACS
+C0042629,C0314768,PRODUCES,Vibrio cholerae,Bacterial exotoxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0042629,C3710730,PRODUCES,Vibrio cholerae,cyclic guanosine monophosphate-adenosine monophosphate,bact,bacs,1,PRODUCES_BACTprodBACS
+C0079488,C0040549,PRODUCES,Helicobacter pylori,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0079488,C1136170,PRODUCES,Helicobacter pylori,Virulence Factors,bact,bacs,3,PRODUCES_BACTprodBACS
+C0085471,C0016945,PRODUCES,Xanthomonas campestris,Galactose,bact,bacs,1,PRODUCES_BACTprodBACS
+C0085471,C0024742,PRODUCES,Xanthomonas campestris,Mannose,bact,bacs,1,PRODUCES_BACTprodBACS
+C0085549,C0064582,PRODUCES,Lactococcus,Lactic acid,bact,bacs,1,PRODUCES_BACTprodBACS
+C0242946,C0015691,PRODUCES,Prevotella,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C0315063,C0015691,PRODUCES,Clostridium butyricum,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C0315444,C1099354,PRODUCES,Salmonella choleraesuis,"RNA, Small Interfering",bact,bacs,1,PRODUCES_BACTprodBACS
+C0525033,C0005522,PRODUCES,Probiotics,Biological Products,bact,bacs,1,PRODUCES_BACTprodBACS
+C0525033,C0015691,PRODUCES,Probiotics,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C0525033,C0040549,PRODUCES,Probiotics,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C0525033,C0064582,PRODUCES,Probiotics,Lactic acid,bact,bacs,1,PRODUCES_BACTprodBACS
+C0563199,C0032136,PRODUCES,Bacterial cell,Plasmids,bact,bacs,1,PRODUCES_BACTprodBACS
+C0752001,C0018966,PRODUCES,Wolbachia,Heme,bact,bacs,2,PRODUCES_BACTprodBACS
+C1002615,C0064582,PRODUCES,Dolosigranulum,Lactic acid,bact,bacs,1,PRODUCES_BACTprodBACS
+C1004293,C0015691,PRODUCES,Coprococcus,"Fatty Acids, Volatile",bact,bacs,1,PRODUCES_BACTprodBACS
+C1532691,C0040549,PRODUCES,Streptococcus pneumoniae serotype 1,Toxin,bact,bacs,1,PRODUCES_BACTprodBACS
+C4193625,C0043791,PRODUCES,Streptomyces conglobatus,"1,2-diacylglycerol",bact,bacs,1,PRODUCES_BACTprodBACS

@@ -1,0 +1,34 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009429,C0600688,PREVENTS,Combined Modality Therapy,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0009429,C0876994,PREVENTS,Combined Modality Therapy,Cardiotoxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0013216,C0041755,PREVENTS,Pharmacotherapy,Adverse reaction to drug,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0013969,C0004760,PREVENTS,Emergency treatment,Dysbarism,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0020971,C0080194,PREVENTS,Immunization,Muscle strain,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021079,C1167870,PREVENTS,Therapeutic immunosuppression,Graft dysfunction,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021083,C0013221,PREVENTS,Immunotherapy,Drug toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021107,C0600688,PREVENTS,Implantation procedure,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0031740,C0013221,PREVENTS,Photochemotherapy,Drug toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0035139,C0600688,PREVENTS,Surgical Replantation,Toxic effect,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0042196,C0000921,PREVENTS,Vaccination,Accidental Falls,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0042196,C0080194,PREVENTS,Vaccination,Muscle strain,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0042196,C0274281,PREVENTS,Vaccination,Injury due to exposure to external cause,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0042196,C0521819,PREVENTS,Vaccination,Vaccination failure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0079613,C0010957,PREVENTS,Adoptive Immunotherapy,Tissue damage,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0150255,C0746730,PREVENTS,Hypothermia treatment,myocardial injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0150638,C0085178,PREVENTS,Preventing injury,Needlestick Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0184898,C0410256,PREVENTS,Surgical incisions,muscle injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0185364,C0016658,PREVENTS,Osteoplasty,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0000773,PREVENTS,Prophylactic treatment,"Abnormalities, Radiation-Induced",topp,inpo,1,PREVENTS_TOPPprevINPO
+C0204727,C0274281,PREVENTS,Isolation procedure,Injury due to exposure to external cause,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0204727,C0340257,PREVENTS,Isolation procedure,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0235062,C0273115,PREVENTS,Induction of neuromuscular blockade,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0280274,C4520766,PREVENTS,Antiviral Therapy,Bite of mosquito,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0282402,C0016658,PREVENTS,Hormone replacement therapy,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0472452,C0748233,PREVENTS,Fracture infiltration with local anesthetic,radius fracture distal,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0543467,C0340257,PREVENTS,Operative Surgical Procedures,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0556034,C0679360,PREVENTS,Food hygiene education,Foodborne Disease,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0564626,C0340257,PREVENTS,Pressure controlled ventilation,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0581602,C0600688,PREVENTS,Structural modification,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0920619,C0041755,PREVENTS,neoplasm therapy,Adverse reaction to drug,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1274136,C1510518,PREVENTS,Symptom control (regime/therapy),Acute radiation pneumonitis,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1868981,C0340257,PREVENTS,Invasive mechanical ventilation NOS,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO

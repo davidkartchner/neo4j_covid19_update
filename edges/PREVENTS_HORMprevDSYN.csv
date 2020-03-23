@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0004096,PREVENTS,Adrenal Cortex Hormones,Asthma,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0001617,C0010340,PREVENTS,Adrenal Cortex Hormones,Critical Illness,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0001617,C0032285,PREVENTS,Adrenal Cortex Hormones,Pneumonia,horm,dsyn,2,PREVENTS_HORMprevDSYN
+C0001617,C0035222,PREVENTS,Adrenal Cortex Hormones,"Respiratory Distress Syndrome, Adult",horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0001617,C0729531,PREVENTS,Adrenal Cortex Hormones,Viral respiratory infection,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0001617,C0740848,PREVENTS,Adrenal Cortex Hormones,Chronic Obstructive Pulmonary Disease EXACERBATION,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0012472,C0151798,PREVENTS,Dinoprostone,Hepatic necrosis,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0014939,C0038454,PREVENTS,Estrogens,Cerebrovascular accident,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0014939,C0206750,PREVENTS,Estrogens,Coronavirus Infections,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C0025815,C0035613,PREVENTS,Methylprednisolone,Rift Valley Fever,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C3540777,C0004096,PREVENTS,"Glucocorticoids, Systemic",Asthma,horm,dsyn,1,PREVENTS_HORMprevDSYN
+C4224854,C0009450,PREVENTS,React,Communicable Diseases,horm,dsyn,1,PREVENTS_HORMprevDSYN

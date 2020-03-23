@@ -1,0 +1,34 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004180,C0025594,ISA,Atmospheric Pressure,Meteorological Factors,npop,npop,1,ISA_NPOPisaNPOP
+C0008946,C0004178,ISA,Climate,"Atmosphere, planetary",npop,npop,2,ISA_NPOPisaNPOP
+C0008946,C0043085,ISA,Climate,Weather,npop,npop,4,ISA_NPOPisaNPOP
+C0009264,C0043085,ISA,Cold Temperature,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0016315,C0023693,ISA,Fluorescence,Light,npop,npop,2,ISA_NPOPisaNPOP
+C0016315,C1450275,ISA,Fluorescence,luminescence,npop,npop,1,ISA_NPOPisaNPOP
+C0017011,C0034538,ISA,Gamma Rays,Ionizing radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0017011,C0851346,ISA,Gamma Rays,Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0020167,C0025594,ISA,Humidity,Meteorological Factors,npop,npop,1,ISA_NPOPisaNPOP
+C0020183,C0337000,ISA,Hurricanes,Cyclonic Storms,npop,npop,2,ISA_NPOPisaNPOP
+C0034640,C0043085,ISA,Rain,Weather,npop,npop,2,ISA_NPOPisaNPOP
+C0038817,C0023693,ISA,Sunlight,Light,npop,npop,1,ISA_NPOPisaNPOP
+C0041183,C0008946,ISA,Tropical Climate,Climate,npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0034538,ISA,Ultraviolet Rays,Ionizing radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0041625,C0851346,ISA,Ultraviolet Rays,Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0086685,C0042333,ISA,Natural Selection,Variation (Genetics),npop,npop,1,ISA_NPOPisaNPOP
+C0162524,C0023693,ISA,Chemiluminescence,Light,npop,npop,1,ISA_NPOPisaNPOP
+C0162524,C0851346,ISA,Chemiluminescence,Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0337003,C0016248,ISA,Flash flood,Floods,npop,npop,1,ISA_NPOPisaNPOP
+C0337005,C0025594,ISA,Cold weather,Meteorological Factors,npop,npop,1,ISA_NPOPisaNPOP
+C0337007,C0004178,ISA,High humidity,"Atmosphere, planetary",npop,npop,1,ISA_NPOPisaNPOP
+C0376534,C0336996,ISA,Electrostatics,Physical force,npop,npop,2,ISA_NPOPisaNPOP
+C0376534,C0542479,ISA,Electrostatics,"Energy, Physics",npop,npop,3,ISA_NPOPisaNPOP
+C0459800,C0026597,ISA,Vibration - physical agent,Motion,npop,npop,5,ISA_NPOPisaNPOP
+C0564461,C0038817,ISA,Ultraviolet B radiation,Sunlight,npop,npop,3,ISA_NPOPisaNPOP
+C0599514,C0039029,ISA,Mutualism,Symbiosis,npop,npop,2,ISA_NPOPisaNPOP
+C0678575,C0851346,ISA,infrared spectrum,Radiation,npop,npop,1,ISA_NPOPisaNPOP
+C0681778,C0043085,ISA,monsoon,Weather,npop,npop,1,ISA_NPOPisaNPOP
+C0851346,C0542479,ISA,Radiation,"Energy, Physics",npop,npop,1,ISA_NPOPisaNPOP
+C1721088,C0162358,ISA,Wetlands,Ecosystem,npop,npop,1,ISA_NPOPisaNPOP
+C2350595,C0337016,ISA,Mudslides,Landslides,npop,npop,1,ISA_NPOPisaNPOP
+C2936614,C0008946,ISA,El Nino-Southern Oscillation,Climate,npop,npop,1,ISA_NPOPisaNPOP
+C3536899,C0039029,ISA,Commensalism,Symbiosis,npop,npop,1,ISA_NPOPisaNPOP

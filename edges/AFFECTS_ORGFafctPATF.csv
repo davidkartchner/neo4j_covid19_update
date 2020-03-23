@@ -1,0 +1,86 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0020517,AFFECTS,Acclimatization,Hypersensitivity,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0000934,C3714514,AFFECTS,Acclimatization,Infection,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0001811,C0021376,AFFECTS,Aging,Chronic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0004614,C1155266,AFFECTS,Bacterial Adhesion,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0005615,C0021368,AFFECTS,Birth,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0005615,C0162633,AFFECTS,Birth,Viral Shedding,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0005823,C0857353,AFFECTS,Blood Pressure,Hypotensive,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0006147,C0021375,AFFECTS,Breast Feeding,allergic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0006147,C0282474,AFFECTS,Breast Feeding,Maternal-Fetal Infection Transmission,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0006147,C0456070,AFFECTS,Breast Feeding,Growth delay,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0011065,C0011304,AFFECTS,Cessation of life,Demyelination,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0011065,C0036983,AFFECTS,Cessation of life,Septic Shock,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0011065,C0242656,AFFECTS,Cessation of life,Disease Progression,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0011065,C1155266,AFFECTS,Cessation of life,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0011065,C1518304,AFFECTS,Cessation of life,Neurotropism,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0014653,C0021368,AFFECTS,Equilibrium,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0018270,C0151686,AFFECTS,Growth,Growth retardation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0018270,C3658208,AFFECTS,Growth,Dysbiosis,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0018270,C3714514,AFFECTS,Growth,Infection,orgf,patf,3,AFFECTS_ORGFafctPATF
+C0019868,C0021368,AFFECTS,Homeostasis,Inflammation,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0019868,C0699748,AFFECTS,Homeostasis,Pathogenesis,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0020967,C0021368,AFFECTS,Humoral Immunity,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0020967,C3714514,AFFECTS,Humoral Immunity,Infection,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0021144,C0028778,AFFECTS,Inbreeding,Obstruction,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0025519,C1520005,AFFECTS,Metabolism,Viral Pathogenesis,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0026649,C0242781,AFFECTS,Movement,disease transmission,orgf,patf,5,AFFECTS_ORGFafctPATF
+C0026649,C3714514,AFFECTS,Movement,Infection,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0032961,C0242648,AFFECTS,Pregnancy,Vertical Disease Transmission,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0032961,C0242656,AFFECTS,Pregnancy,Disease Progression,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0032961,C0282474,AFFECTS,Pregnancy,Maternal-Fetal Infection Transmission,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0037313,C4061114,AFFECTS,Sleep,Acute illness,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042767,C1155266,AFFECTS,Virus Activation,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0011304,AFFECTS,Virus Replication,Demyelination,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0020507,AFFECTS,Virus Replication,Hyperplasia,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0021368,AFFECTS,Virus Replication,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0024348,AFFECTS,Virus Replication,Lysis,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0027540,AFFECTS,Virus Replication,Necrosis,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0042774,C0242656,AFFECTS,Virus Replication,Disease Progression,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C0333467,AFFECTS,Virus Replication,Cytopathic effect,orgf,patf,3,AFFECTS_ORGFafctPATF
+C0042774,C1155266,AFFECTS,Virus Replication,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0042774,C1520005,AFFECTS,Virus Replication,Viral Pathogenesis,orgf,patf,3,AFFECTS_ORGFafctPATF
+C0042789,C3714514,AFFECTS,Vision,Infection,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0043240,C0011304,AFFECTS,Wound Healing,Demyelination,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0043240,C0021368,AFFECTS,Wound Healing,Inflammation,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0043240,C2717792,AFFECTS,Wound Healing,Airway Remodeling,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0232338,C0036983,AFFECTS,Blood flow,Septic Shock,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0020517,AFFECTS,Immune response,Hypersensitivity,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0301872,C0020963,AFFECTS,Immune response,Immune Tolerance,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0021368,AFFECTS,Immune response,Inflammation,orgf,patf,9,AFFECTS_ORGFafctPATF
+C0301872,C0021375,AFFECTS,Immune response,allergic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0021376,AFFECTS,Immune response,Chronic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0036983,AFFECTS,Immune response,Septic Shock,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0151763,AFFECTS,Immune response,Liver damage,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0162633,AFFECTS,Immune response,Viral Shedding,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C0206277,AFFECTS,Immune response,Fatal Outcome,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0301872,C0242656,AFFECTS,Immune response,Disease Progression,orgf,patf,3,AFFECTS_ORGFafctPATF
+C0301872,C1155266,AFFECTS,Immune response,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C1265828,AFFECTS,Immune response,Progressive inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C1398094,AFFECTS,Immune response,induced; birth,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C1520005,AFFECTS,Immune response,Viral Pathogenesis,orgf,patf,4,AFFECTS_ORGFafctPATF
+C0301872,C1817997,AFFECTS,Immune response,chronic inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0301872,C3714514,AFFECTS,Immune response,Infection,orgf,patf,3,AFFECTS_ORGFafctPATF
+C0560560,C1155266,AFFECTS,Moving,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0678209,C0011304,AFFECTS,Adaptive Immunity,Demyelination,orgf,patf,1,AFFECTS_ORGFafctPATF
+C0678723,C0011304,AFFECTS,Biologic Development,Demyelination,orgf,patf,2,AFFECTS_ORGFafctPATF
+C0678889,C0021368,AFFECTS,Immunoregulation,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1155328,C0021368,AFFECTS,Antiviral Response,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1155328,C1155266,AFFECTS,Antiviral Response,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1327413,C0020517,AFFECTS,cytokine production,Hypersensitivity,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1327413,C0021368,AFFECTS,cytokine production,Inflammation,orgf,patf,2,AFFECTS_ORGFafctPATF
+C1510835,C0021376,AFFECTS,Aging-Related Process,Chronic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1510835,C0333467,AFFECTS,Aging-Related Process,Cytopathic effect,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1516559,C0021376,AFFECTS,Circulatory Process,Chronic inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1516559,C3714514,AFFECTS,Circulatory Process,Infection,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1749719,C0011304,AFFECTS,Adaptive Immune Response,Demyelination,orgf,patf,2,AFFECTS_ORGFafctPATF
+C1749719,C0021368,AFFECTS,Adaptive Immune Response,Inflammation,orgf,patf,2,AFFECTS_ORGFafctPATF
+C1749719,C1285328,AFFECTS,Adaptive Immune Response,Infectious sequelae of disorders,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1752856,C1520005,AFFECTS,Host-Pathogen Interactions,Viral Pathogenesis,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1819437,C0021368,AFFECTS,interleukin-10 production,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1819437,C1155266,AFFECTS,interleukin-10 production,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1819459,C0242656,AFFECTS,interleukin-6 production,Disease Progression,orgf,patf,1,AFFECTS_ORGFafctPATF
+C1819464,C0021368,AFFECTS,tumor necrosis factor production,Inflammation,orgf,patf,1,AFFECTS_ORGFafctPATF
+C2936272,C1155266,AFFECTS,Circadian Clocks,inflammatory response,orgf,patf,1,AFFECTS_ORGFafctPATF
+C2936375,C3714514,AFFECTS,Th1-Th2 Balance,Infection,orgf,patf,1,AFFECTS_ORGFafctPATF
+C4505137,C0020963,AFFECTS,Anterior Chamber Associated Immune Deviation,Immune Tolerance,orgf,patf,1,AFFECTS_ORGFafctPATF

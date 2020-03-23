@@ -1,0 +1,80 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0019134,USES,"Administration, Intranasal",heparin,topp,bacs,1,USES_TOPPusesBACS
+C0001560,C0020196,USES,"Administration, Intranasal",Hyaluronic Acid,topp,bacs,1,USES_TOPPusesBACS
+C0002903,C0006353,USES,Anesthesia procedures,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0009429,C0013982,USES,Combined Modality Therapy,Emodin,topp,bacs,3,USES_TOPPusesBACS
+C0011946,C0006353,USES,Dialysis procedure,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0011946,C0142823,USES,Dialysis procedure,Sodium Cholate,topp,bacs,2,USES_TOPPusesBACS
+C0012002,C0302583,USES,Diathermy,Iron,topp,bacs,1,USES_TOPPusesBACS
+C0012683,C0034085,USES,Disinfection,Pulmonary Surfactants,topp,bacs,1,USES_TOPPusesBACS
+C0013216,C0042670,USES,Pharmacotherapy,Vinblastine,topp,bacs,1,USES_TOPPusesBACS
+C0017296,C0020196,USES,gene therapy,Hyaluronic Acid,topp,bacs,1,USES_TOPPusesBACS
+C0020944,C0006353,USES,Immobilization,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0020944,C0042479,USES,Immobilization,Venoms,topp,bacs,1,USES_TOPPusesBACS
+C0020971,C0038071,USES,Immunization,Squalene,topp,bacs,1,USES_TOPPusesBACS
+C0020971,C0302583,USES,Immunization,Iron,topp,bacs,1,USES_TOPPusesBACS
+C0021107,C0001443,USES,Implantation procedure,Adenosine,topp,bacs,2,USES_TOPPusesBACS
+C0021440,C0017725,USES,Intravenous infusion procedures,Glucose,topp,bacs,4,USES_TOPPusesBACS
+C0021440,C0028928,USES,Intravenous infusion procedures,Oleic Acid,topp,bacs,1,USES_TOPPusesBACS
+C0021485,C0002658,USES,Injection of therapeutic agent,Amphetamine,topp,bacs,1,USES_TOPPusesBACS
+C0021485,C0006353,USES,Injection of therapeutic agent,Buffers,topp,bacs,2,USES_TOPPusesBACS
+C0021485,C0036581,USES,Injection of therapeutic agent,Selenium,topp,bacs,1,USES_TOPPusesBACS
+C0021493,C0006353,USES,"Injections, Intraperitoneal",Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0030693,C0006353,USES,Patient Isolation,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0034997,C0006353,USES,Rehydration,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0035139,C0006675,USES,Surgical Replantation,Calcium,topp,bacs,1,USES_TOPPusesBACS
+C0035139,C0036581,USES,Surgical Replantation,Selenium,topp,bacs,1,USES_TOPPusesBACS
+C0035273,C0038179,USES,Resuscitation procedure,Starch,topp,bacs,1,USES_TOPPusesBACS
+C0038288,C0006353,USES,Sexual sterilization,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0042196,C0003320,USES,Vaccination,Antigens,topp,bacs,1,USES_TOPPusesBACS
+C0042196,C0006353,USES,Vaccination,Buffers,topp,bacs,5,USES_TOPPusesBACS
+C0042196,C0012854,USES,Vaccination,DNA,topp,bacs,1,USES_TOPPusesBACS
+C0079613,C0016895,USES,Adoptive Immunotherapy,Ganglioside GM1,topp,bacs,1,USES_TOPPusesBACS
+C0108844,C0006353,USES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Buffers,topp,bacs,10,USES_TOPPusesBACS
+C0152060,C0006353,USES,Transection (procedure),Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0152060,C0038636,USES,Transection (procedure),Sucrose,topp,bacs,1,USES_TOPPusesBACS
+C0152060,C0043481,USES,Transection (procedure),Zinc,topp,bacs,2,USES_TOPPusesBACS
+C0152060,C0055819,USES,Transection (procedure),Citric Acid,topp,bacs,1,USES_TOPPusesBACS
+C0184933,C0006353,USES,Scraping,Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0185014,C0038636,USES,Banding procedure,Sucrose,topp,bacs,2,USES_TOPPusesBACS
+C0185026,C0041942,USES,Plication,Urea,topp,bacs,1,USES_TOPPusesBACS
+C0185026,C0206008,USES,Plication,2-Mercaptoethanesulfonic Acid,topp,bacs,1,USES_TOPPusesBACS
+C0185115,C0006353,USES,Extraction,Buffers,topp,bacs,7,USES_TOPPusesBACS
+C0185115,C0018284,USES,Extraction,Growth Factor,topp,bacs,1,USES_TOPPusesBACS
+C0185115,C0024742,USES,Extraction,Mannose,topp,bacs,1,USES_TOPPusesBACS
+C0185115,C0034085,USES,Extraction,Pulmonary Surfactants,topp,bacs,1,USES_TOPPusesBACS
+C0185115,C0041942,USES,Extraction,Urea,topp,bacs,1,USES_TOPPusesBACS
+C0185115,C0042479,USES,Extraction,Venoms,topp,bacs,2,USES_TOPPusesBACS
+C0199176,C0043481,USES,Prophylactic treatment,Zinc,topp,bacs,1,USES_TOPPusesBACS
+C0199176,C3712557,USES,Prophylactic treatment,Echinaforce,topp,bacs,1,USES_TOPPusesBACS
+C0204727,C0006353,USES,Isolation procedure,Buffers,topp,bacs,2,USES_TOPPusesBACS
+C0204727,C0034085,USES,Isolation procedure,Pulmonary Surfactants,topp,bacs,1,USES_TOPPusesBACS
+C0206074,C0019134,USES,Renal Replacement Therapy,heparin,topp,bacs,1,USES_TOPPusesBACS
+C0242297,C0036581,USES,Dietary Supplementation,Selenium,topp,bacs,1,USES_TOPPusesBACS
+C0242297,C0043481,USES,Dietary Supplementation,Zinc,topp,bacs,1,USES_TOPPusesBACS
+C0242297,C0302583,USES,Dietary Supplementation,Iron,topp,bacs,1,USES_TOPPusesBACS
+C0242972,C0006353,USES,"Diet, Protein-Restricted",Buffers,topp,bacs,1,USES_TOPPusesBACS
+C0280274,C0007289,USES,Antiviral Therapy,Carrageenan,topp,bacs,1,USES_TOPPusesBACS
+C0280274,C0033607,USES,Antiviral Therapy,Protease Inhibitors,topp,bacs,1,USES_TOPPusesBACS
+C0439775,C0006675,USES,Elevation procedure,Calcium,topp,bacs,1,USES_TOPPusesBACS
+C0441509,C0019134,USES,Coagulation procedure,heparin,topp,bacs,1,USES_TOPPusesBACS
+C0444735,C0021528,USES,Intermittent administration,Inosine,topp,bacs,3,USES_TOPPusesBACS
+C0444889,C0037494,USES,Continuous infusion,Sodium Chloride,topp,bacs,1,USES_TOPPusesBACS
+C0450076,C0038636,USES,Gradient method,Sucrose,topp,bacs,1,USES_TOPPusesBACS
+C0524865,C2974291,USES,Reconstructive Surgical Procedures,IMod,topp,bacs,1,USES_TOPPusesBACS
+C0574032,C0017725,USES,Infusion procedures,Glucose,topp,bacs,1,USES_TOPPusesBACS
+C0600080,C0001443,USES,Stretching exercises,Adenosine,topp,bacs,13,USES_TOPPusesBACS
+C0678823,C0302583,USES,parenteral administration,Iron,topp,bacs,1,USES_TOPPusesBACS
+C0679628,C0017725,USES,blood modification,Glucose,topp,bacs,1,USES_TOPPusesBACS
+C1261381,C0028606,USES,Destructive procedure (surgical),Nucleic Acids,topp,bacs,1,USES_TOPPusesBACS
+C1293130,C0034085,USES,Stabilization,Pulmonary Surfactants,topp,bacs,1,USES_TOPPusesBACS
+C1510425,C0033607,USES,Anti-HIV Therapy,Protease Inhibitors,topp,bacs,1,USES_TOPPusesBACS
+C1511790,C0003320,USES,Detection,Antigens,topp,bacs,2,USES_TOPPusesBACS
+C1511790,C0006353,USES,Detection,Buffers,topp,bacs,2,USES_TOPPusesBACS
+C1511790,C0006675,USES,Detection,Calcium,topp,bacs,1,USES_TOPPusesBACS
+C1511790,C0012854,USES,Detection,DNA,topp,bacs,1,USES_TOPPusesBACS
+C1511790,C0017725,USES,Detection,Glucose,topp,bacs,3,USES_TOPPusesBACS
+C1511790,C0033554,USES,Detection,Prostaglandins,topp,bacs,1,USES_TOPPusesBACS
+C1511790,C0043481,USES,Detection,Zinc,topp,bacs,1,USES_TOPPusesBACS
+C1659427,C0019134,USES,Nebulization,heparin,topp,bacs,1,USES_TOPPusesBACS
+C1881814,C0596087,USES,Metronomic Chemotherapy,Angiogenesis Inhibitors,topp,bacs,1,USES_TOPPusesBACS

@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0024219,C0079595,ISA,Lymphangiography,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP
+C0024485,C0079595,ISA,Magnetic Resonance Imaging,Imaging Techniques,diap,topp,3,ISA_DIAPisaTOPP
+C0040395,C0079595,ISA,tomography,Imaging Techniques,diap,topp,3,ISA_DIAPisaTOPP
+C0041618,C0079595,ISA,Ultrasonography,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP
+C0043299,C0079595,ISA,Diagnostic radiologic examination,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP
+C0150866,C0199171,ISA,Biopsy of skin procedure,Medical procedure,diap,topp,2,ISA_DIAPisaTOPP
+C0189381,C0022100,ISA,Bronchial Lavage,Irrigation,diap,topp,1,ISA_DIAPisaTOPP
+C0598801,C0079595,ISA,Diffusion weighted imaging,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP
+C0920118,C0349707,ISA,Transtracheal aspiration,Aspiration-action,diap,topp,1,ISA_DIAPisaTOPP
+C1306645,C0079595,ISA,Plain x-ray,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP
+C1699633,C0079595,ISA,PET/CT scan,Imaging Techniques,diap,topp,1,ISA_DIAPisaTOPP

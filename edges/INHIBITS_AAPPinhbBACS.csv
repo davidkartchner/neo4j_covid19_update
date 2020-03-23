@@ -1,0 +1,317 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001044,C0001041,INHIBITS,Acetylcholinesterase,Acetylcholine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0001271,C0010738,INHIBITS,Actins,Cytochalasin D,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0001457,C0001443,INHIBITS,ADENOSINE DEAMINASE,Adenosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0001473,C0032821,INHIBITS,Adenosine Triphosphatases,Potassium,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0001924,C0040549,INHIBITS,Albumins,Toxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0002402,C0035700,INHIBITS,Amanitins,"RNA, Nuclear",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003241,C0003320,INHIBITS,Antibodies,Antigens,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0003241,C0018909,INHIBITS,Antibodies,Hemagglutinin,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0003241,C0028606,INHIBITS,Antibodies,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003241,C0040549,INHIBITS,Antibodies,Toxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003242,C0033532,INHIBITS,"Antibodies, Anti-Idiotypic",Prostaglandin D2,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003250,C0003320,INHIBITS,Monoclonal Antibodies,Antigens,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0003250,C0040549,INHIBITS,Monoclonal Antibodies,Toxin,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0003250,C0600472,INHIBITS,Monoclonal Antibodies,Long Interspersed Nucleotide Element-1,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003253,C0018909,INHIBITS,"Antibodies, Viral",Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0003995,C0018909,INHIBITS,Asparagine,Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0004599,C0018338,INHIBITS,Bacitracin,Cyclic GMP,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0004641,C0004630,INHIBITS,bacteriocin,Bacterial Toxins,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0006560,C0032821,INHIBITS,C-reactive protein,Potassium,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0006784,C0600508,INHIBITS,Calpain,Response Elements,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0008905,C0010738,INHIBITS,Clathrin,Cytochalasin D,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0009498,C1101610,INHIBITS,Complement System Proteins,MicroRNAs,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0009630,C0003320,INHIBITS,Concanavalin A,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0010590,C0003320,INHIBITS,Cycloserine,Antigens,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0010590,C1099354,INHIBITS,Cycloserine,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0010592,C0018909,INHIBITS,Cyclosporine,Hemagglutinin,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0010749,C0013030,INHIBITS,Cytochromes c,Dopamine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0010749,C0162772,INHIBITS,Cytochromes c,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0011519,C0012854,INHIBITS,Deoxyribonuclease I,DNA,aapp,bacs,11,INHIBITS_AAPPinhbBACS
+C0011519,C0032136,INHIBITS,Deoxyribonuclease I,Plasmids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0011519,C0035701,INHIBITS,Deoxyribonuclease I,Ribosomal RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0012020,C0028128,INHIBITS,Diazooxonorleucine,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0012524,C0025196,INHIBITS,Catechol Oxidase,Melanins,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0012892,C0018966,INHIBITS,DNA-Directed DNA Polymerase,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0014143,C0012854,INHIBITS,endodeoxyribonuclease,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0014230,C1099354,INHIBITS,endonuclease,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0014241,C0035696,INHIBITS,Endoribonucleases,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0014241,C1099354,INHIBITS,Endoribonucleases,"RNA, Small Interfering",aapp,bacs,4,INHIBITS_AAPPinhbBACS
+C0015296,C0035693,INHIBITS,Exonuclease,"RNA, Double-Stranded",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0015301,C0035693,INHIBITS,Exoribonucleases,"RNA, Double-Stranded",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0015528,C0038179,INHIBITS,factor XIII,Starch,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0017645,C0018966,INHIBITS,Globin,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0017757,C0027303,INHIBITS,Glucosephosphate Dehydrogenase,NADP,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0018850,C0018966,INHIBITS,Heat shock proteins,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0018969,C0005437,INHIBITS,Heme Oxygenase (Decyclizing),Bilirubin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0019046,C0028128,INHIBITS,Hemoglobin,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0019475,C0035696,INHIBITS,Hexokinase 2,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0019602,C0028606,INHIBITS,Histidine,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0020197,C0061444,INHIBITS,Hyaluronidase,Glucuronic Acid,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0020374,C0008377,INHIBITS,Hydroxymethylglutaryl-CoA reductase,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0020731,C0001455,INHIBITS,Pertussis Toxin,Cyclic AMP,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0021743,C0035696,INHIBITS,Interferon Type I,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0021747,C0012854,INHIBITS,Interferons,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0021760,C1099354,INHIBITS,Interleukin-6,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0023206,C0162772,INHIBITS,Lectin,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0023401,C1764827,INHIBITS,Leucine,Isolate - microorganism,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0023820,C0008377,INHIBITS,Lipoproteins,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0024075,C0032136,INHIBITS,Luciferases,Plasmids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0024420,C0019134,INHIBITS,Macroglobulins,heparin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0025831,C0600508,INHIBITS,Methyltransferase,Response Elements,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0027754,C0003320,INHIBITS,Nerve Growth Factors,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0027893,C1099354,INHIBITS,neuropeptide Y,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0030940,C0003320,INHIBITS,Peptide Hydrolases,Antigens,aapp,bacs,4,INHIBITS_AAPPinhbBACS
+C0030946,C0006353,INHIBITS,Endopeptidases,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0030946,C0033607,INHIBITS,Endopeptidases,Protease Inhibitors,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0031727,C0018966,INHIBITS,Phosphotransferases,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0032120,C0034085,INHIBITS,Plasma Proteins,Pulmonary Surfactants,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0032120,C1764827,INHIBITS,Plasma Proteins,Isolate - microorganism,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0033634,C1099354,INHIBITS,Protein Kinase C,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0033640,C0015684,INHIBITS,Protein Kinases,Fatty Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034135,C0021528,INHIBITS,Purine-Nucleoside Phosphorylase,Inosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034790,C0003320,INHIBITS,T-Cell Receptor,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034800,C0032136,INHIBITS,"Receptors, Cell Surface",Plasmids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034805,C0003320,INHIBITS,Fc Receptor,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034809,C0035696,INHIBITS,Glucocorticoid Receptor,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034861,C0006353,INHIBITS,Recombinant Proteins,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034861,C0064582,INHIBITS,Recombinant Proteins,Lactic acid,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0034862,C0018909,INHIBITS,"Vaccines, Recombinant",Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035094,C0037494,INHIBITS,Renin,Sodium Chloride,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035541,C0028606,INHIBITS,Pancreatic ribonuclease,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035542,C0028606,INHIBITS,Ribonucleases,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035542,C0035696,INHIBITS,Ribonucleases,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035569,C0040549,INHIBITS,Ricin,Toxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035678,C0035901,INHIBITS,RNA Polymerase I,"RNA, Ribosomal, Precursors",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035679,C0035696,INHIBITS,RNA Polymerase II,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0035679,C0086860,INHIBITS,RNA Polymerase II,promoter,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0036774,C0006353,INHIBITS,"Serum Albumin, Bovine",Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0037067,C0040549,INHIBITS,Sigma Factor,Toxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0039213,C0012854,INHIBITS,T4 DNA Ligase,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0040691,C0035696,INHIBITS,Transforming Growth Factors,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0041236,C0008377,INHIBITS,TRYPSIN,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0041236,C0041242,INHIBITS,TRYPSIN,Trypsin Inhibitors,aapp,bacs,5,INHIBITS_AAPPinhbBACS
+C0041538,C0006353,INHIBITS,Ubiquitin,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0042736,C0035696,INHIBITS,Viral Proteins,"RNA, Messenger",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0042736,C1099354,INHIBITS,Viral Proteins,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0055633,C3710730,INHIBITS,Chromogranin A,cyclic guanosine monophosphate-adenosine monophosphate,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0055817,C0035693,INHIBITS,citrate carrier,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0059944,C0012854,INHIBITS,Exodeoxyribonuclease I,DNA,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0061472,C0035711,INHIBITS,Glutamic Acid,Transfer RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0064612,C0022949,INHIBITS,lactose permease,Lactose,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0065827,C1099354,INHIBITS,Measles Virus Nucleoprotein,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0065827,C1519315,INHIBITS,Measles Virus Nucleoprotein,Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0069838,C0008377,INHIBITS,oxysterol binding protein,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0069906,C0020196,INHIBITS,P-Glycoproteins,Hyaluronic Acid,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0069919,C0035696,INHIBITS,ranpirnase,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0071795,C0035693,INHIBITS,2-5A-dependent ribonuclease,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0071795,C0073434,INHIBITS,2-5A-dependent ribonuclease,"RNA, mitochondrial",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0071795,C0600472,INHIBITS,2-5A-dependent ribonuclease,Long Interspersed Nucleotide Element-1,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0073240,C0035693,INHIBITS,Ribonuclease III,"RNA, Double-Stranded",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0073240,C1101610,INHIBITS,Ribonuclease III,MicroRNAs,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0073310,C0035693,INHIBITS,ribosomal protein S1,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079073,C0008377,INHIBITS,c-src Genes,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079189,C0001480,INHIBITS,cytokine,Adenosine Triphosphate,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079189,C0162772,INHIBITS,cytokine,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079259,C0006353,INHIBITS,Dystrophin,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079419,C1099354,INHIBITS,TP53 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079633,C0086860,INHIBITS,Interleukin-8,promoter,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079904,C0028128,INHIBITS,NF-kappa B,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0079904,C0162772,INHIBITS,NF-kappa B,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0084692,C0018909,INHIBITS,Pulmonary Surfactant-Associated Protein D,Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0084692,C0023822,INHIBITS,Pulmonary Surfactant-Associated Protein D,High Density Lipoprotein Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0084692,C0034085,INHIBITS,Pulmonary Surfactant-Associated Protein D,Pulmonary Surfactants,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0084692,C0041004,INHIBITS,Pulmonary Surfactant-Associated Protein D,Triglycerides,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0085175,C0006353,INHIBITS,Vinculin,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0085201,C0008377,INHIBITS,Apolipoprotein A-I,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0085295,C0028128,INHIBITS,Interleukin-10,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0103306,C0006675,INHIBITS,angiotensin I (1-7),Calcium,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0103306,C0162772,INHIBITS,angiotensin I (1-7),Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0103408,C0369332,INHIBITS,Annexin A7,Hepatitis B virus DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0107103,C0536252,INHIBITS,Brain-Derived Neurotrophic Factor,TRPC3 cation channel,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0120285,C0242494,INHIBITS,Green Fluorescent Proteins,Poly(A) Tail,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0121463,C0027303,INHIBITS,"nucleocapsid protein, Hepatitis C virus",NADP,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0121463,C0597765,INHIBITS,"nucleocapsid protein, Hepatitis C virus",Adenylate,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0144555,C0086860,INHIBITS,TATA-Box Binding Protein,promoter,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0208355,C0003320,INHIBITS,multicatalytic endopeptidase complex,Antigens,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0242417,C0023546,INHIBITS,Oxidases,Leukotriene B4,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0243021,C0035696,INHIBITS,Cell Cycle Proteins,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0250400,C0008377,INHIBITS,occludin,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0252274,C0023705,INHIBITS,"HD protein, human",Lignin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0252902,C1099354,INHIBITS,"PKN1 protein, human","RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0254610,C0028128,INHIBITS,Interleukin-15,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0282682,C1099354,INHIBITS,"Antibodies, Blocking","RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0288250,C0037473,INHIBITS,Large-Conductance Calcium-Activated Potassium Channels,Sodium,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0291573,C0013030,INHIBITS,caspase-3,Dopamine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0301521,C0012854,INHIBITS,therapeutic vaccine,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0305052,C0028606,INHIBITS,Gamma globulin serum,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0305052,C0041984,INHIBITS,Gamma globulin serum,Uridine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0381943,C1099354,INHIBITS,Skp2 Proteins,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0383017,C1099354,INHIBITS,CaM kinase I activator,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0384156,C0162772,INHIBITS,epithelial sodium channel,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0389071,C0041004,INHIBITS,Adiponectin,Triglycerides,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0391483,C1519315,INHIBITS,"Fc receptor, neonatal",Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0443640,C0162772,INHIBITS,Specific antibody,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0529196,C1099354,INHIBITS,ADAM17 Protein,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0537784,C1099354,INHIBITS,cathepsin W,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0538674,C0005446,INHIBITS,Heme Oxygenase-1,Biliverdine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0538674,C0018966,INHIBITS,Heme Oxygenase-1,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0538674,C0302583,INHIBITS,Heme Oxygenase-1,Iron,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0597094,C0012854,INHIBITS,nuclease,DNA,aapp,bacs,3,INHIBITS_AAPPinhbBACS
+C0597094,C0028606,INHIBITS,nuclease,Nucleic Acids,aapp,bacs,4,INHIBITS_AAPPinhbBACS
+C0597094,C0032136,INHIBITS,nuclease,Plasmids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0597094,C0040077,INHIBITS,nuclease,Thymidine,aapp,bacs,3,INHIBITS_AAPPinhbBACS
+C0597094,C1099354,INHIBITS,nuclease,"RNA, Small Interfering",aapp,bacs,3,INHIBITS_AAPPinhbBACS
+C0597357,C0035696,INHIBITS,receptor,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0597357,C1099354,INHIBITS,receptor,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0597551,C0003320,INHIBITS,synthetic peptide,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0599220,C0035696,INHIBITS,Protein Subunits,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0599220,C1099354,INHIBITS,Protein Subunits,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0623362,C0016693,INHIBITS,Matrix Metalloproteinases,Free Radicals,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0669365,C0028128,INHIBITS,"NOS3 protein, human",Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0694891,C2350877,INHIBITS,SMAD4 gene,"Promoter, Genetic",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0729663,C0003320,INHIBITS,Maternal antibody,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0752312,C0028128,INHIBITS,Mitogen-Activated Protein Kinases,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0753802,C0056912,INHIBITS,"Neuro-Oncological Ventral Antigen 2, Human",cytidylyl-3'-5'-guanosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0910167,C0013030,INHIBITS,caspase-9,Dopamine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0920283,C0028606,INHIBITS,DNA Helicases,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0950448,C0035693,INHIBITS,3'-5'-Exonucleases,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C0972232,C0017725,INHIBITS,fibroblast growth factor 21,Glucose,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C0972232,C0041004,INHIBITS,fibroblast growth factor 21,Triglycerides,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1099355,C0035696,INHIBITS,RNA-Induced Silencing Complex,"RNA, Messenger",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1099355,C1099354,INHIBITS,RNA-Induced Silencing Complex,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1136376,C0023545,INHIBITS,"Receptors, C-Type Lectin",Leukotrienes,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1179132,C0008377,INHIBITS,Scaffold protein,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1180347,C1099354,INHIBITS,Protein complex,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1256770,C0019134,INHIBITS,Vascular Endothelial Growth Factors,heparin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1258415,C1099354,INHIBITS,enhanced green fluorescent protein,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1258835,C0035693,INHIBITS,"N protein, Severe acute respiratory syndrome virus","RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1309025,C0035696,INHIBITS,"SH2D3A protein, human","RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1309025,C1519315,INHIBITS,"SH2D3A protein, human",Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1309483,C0035693,INHIBITS,"DICER1 protein, human","RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1309483,C1101610,INHIBITS,"DICER1 protein, human",MicroRNAs,aapp,bacs,5,INHIBITS_AAPPinhbBACS
+C1310463,C0035693,INHIBITS,"IFIH1 protein, human","RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1332098,C0035711,INHIBITS,APAF1 gene,Transfer RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1332651,C0035696,INHIBITS,C-Terminal Binding Protein 2,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1333261,C0027270,INHIBITS,Deacetylase,Nicotinamide adenine dinucleotide (NAD),aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1333368,C0035696,INHIBITS,EZH2 gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1335439,C0006353,INHIBITS,Polymerase,Buffers,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1335884,C0039771,INHIBITS,SWI1,Theophylline,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1336763,C1519315,INHIBITS,Toll-Like Receptor Family Gene,Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1366752,C0080124,INHIBITS,Neomycin resistance gene,Antisense RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1366894,C0162772,INHIBITS,PTK2 gene,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412215,C0035693,INHIBITS,ADAR gene,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412515,C0041942,INHIBITS,ARG1 gene,Urea,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412617,C1099354,INHIBITS,ATF4 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412731,C0041004,INHIBITS,BAG3 gene,Triglycerides,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412785,C0012929,INHIBITS,BECN1 gene,"DNA, Mitochondrial",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1412785,C0162772,INHIBITS,BECN1 gene,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1413460,C0008377,INHIBITS,CLDN1 gene,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1413603,C0013982,INHIBITS,COLQ gene,Emodin,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1413809,C0036733,INHIBITS,CTRL gene,Serine Proteinase Inhibitors,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1413844,C1099354,INHIBITS,CYBB gene,"RNA, Small Interfering",aapp,bacs,3,INHIBITS_AAPPinhbBACS
+C1413966,C0032136,INHIBITS,DHX9 gene,Plasmids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1414141,C0001443,INHIBITS,DPP4 gene,Adenosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1414168,C0006353,INHIBITS,DSG1 gene,Buffers,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1414338,C0080124,INHIBITS,EIF3A gene,Antisense RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1414349,C0080124,INHIBITS,EIF4A2 gene,Antisense RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1414444,C0035696,INHIBITS,ERN1 gene,"RNA, Messenger",aapp,bacs,4,INHIBITS_AAPPinhbBACS
+C1414444,C1101610,INHIBITS,ERN1 gene,MicroRNAs,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1414968,C3494461,INHIBITS,GAPDH gene,AU Rich Elements,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415053,C0002607,INHIBITS,GGT1 gene,Ammonia,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415099,C1099354,INHIBITS,GLDC gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415151,C0080124,INHIBITS,RACK1 gene,Antisense RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415181,C0017725,INHIBITS,GOT1 gene,Glucose,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1415284,C0006353,INHIBITS,GRAP2 gene,Buffers,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1415761,C0010868,INHIBITS,HSPA5 gene,Cytotoxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415761,C1099354,INHIBITS,HSPA5 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415846,C1310768,INHIBITS,ICOS gene,EPs 7630,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415888,C3840404,INHIBITS,IFI30 gene,Porcine epidemic diarrhea virus RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415892,C0035549,INHIBITS,IFIT1 gene,Ribose,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415892,C0035696,INHIBITS,IFIT1 gene,"RNA, Messenger",aapp,bacs,6,INHIBITS_AAPPinhbBACS
+C1415898,C0018909,INHIBITS,IFITM3 gene,Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1415932,C0028606,INHIBITS,IGFBP7 gene,Nucleic Acids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1416540,C0035725,INHIBITS,KARS gene,Lysine-Specific tRNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1416914,C0035696,INHIBITS,LRP2 gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1417137,C0067762,INHIBITS,MGAT4B gene,N-Acetylneuraminic Acid,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1417196,C0008377,INHIBITS,MLYCD gene,Cholesterol,aapp,bacs,6,INHIBITS_AAPPinhbBACS
+C1417510,C0035670,INHIBITS,MX1 gene,RNA Caps,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1417510,C1099354,INHIBITS,MX1 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1417601,C0003320,INHIBITS,NASP gene,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1417608,C0162772,INHIBITS,NCF1 gene,Reactive Oxygen Species,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1417750,C0162772,INHIBITS,NNT gene,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1418188,C0008377,INHIBITS,OSBP gene,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1418742,C0035339,INHIBITS,POLR2D gene,Retinoids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1418873,C0949370,INHIBITS,PRCP gene,Neuromodulators,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419063,C0001455,INHIBITS,PTGER3 gene,Cyclic AMP,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419142,C1519315,INHIBITS,NECTIN1 gene,Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419187,C0038636,INHIBITS,RAB1A gene,Sucrose,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419212,C1099354,INHIBITS,RAB5A gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419227,C1099354,INHIBITS,RAC1 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1419413,C0035696,INHIBITS,RNASEL gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1420002,C0018909,INHIBITS,SFTPA1 gene,Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1421466,C1099354,INHIBITS,VPS41 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1421554,C0035693,INHIBITS,YME1L1 gene,"RNA, Double-Stranded",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1422064,C0032821,INHIBITS,ACE2 gene,Potassium,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1422064,C0035696,INHIBITS,ACE2 gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1423062,C0012854,INHIBITS,SIRT1 gene,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1423067,C0035711,INHIBITS,SIRT7 gene,Transfer RNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1423837,C0486948,INHIBITS,SAMHD1 gene,Human immunodeficiency virus 1 DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1424594,C0035696,INHIBITS,IPO13 gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1424716,C0031621,INHIBITS,SACM1L gene,Phosphatidylinositols,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1425082,C0056912,INHIBITS,SAV1 gene,cytidylyl-3'-5'-guanosine,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1425219,C0935936,INHIBITS,SLC22A12 gene,Urate,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1425942,C2936590,INHIBITS,SCARA3 gene,Riboswitch,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1426212,C1099354,INHIBITS,SOCS3 gene,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1426592,C0008377,INHIBITS,PCSK9 gene,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1427185,C1101610,INHIBITS,CASKIN1 gene,MicroRNAs,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1442738,C0086860,INHIBITS,PABPC1 gene,promoter,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1442757,C0034085,INHIBITS,SFTPB gene,Pulmonary Surfactants,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1522002,C0037494,INHIBITS,RNA Recognition Motif,Sodium Chloride,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1533698,C0028128,INHIBITS,Nitric Oxide Synthase Type II,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1537799,C1101610,INHIBITS,MIR145 gene,MicroRNAs,aapp,bacs,3,INHIBITS_AAPPinhbBACS
+C1538124,C0035696,INHIBITS,XRN1 gene,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1538124,C0600600,INHIBITS,XRN1 gene,3' Untranslated Regions,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1538391,C0007412,INHIBITS,RNLS gene,Catecholamines,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1538577,C0027270,INHIBITS,PARP1 gene,Nicotinamide adenine dinucleotide (NAD),aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1539098,C0003320,INHIBITS,CLEC4G gene,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1539340,C0018966,INHIBITS,EIF2AK1 gene,Heme,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1539614,C0031676,INHIBITS,GREM1 gene,Phospholipids,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1564139,C0012854,INHIBITS,Mutant Proteins,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1567950,C0035142,INHIBITS,alisporivir,Replicon,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1705590,C0002658,INHIBITS,PIK3CB wt Allele,Amphetamine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1706289,C0035696,INHIBITS,Interleukin-27,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1822789,C0242612,INHIBITS,SMG6 gene,"Codon, Nonsense",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C1824414,C0001443,INHIBITS,USB1 gene,Adenosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1824414,C0041984,INHIBITS,USB1 gene,Uridine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1824492,C0002607,INHIBITS,DNAAF3 gene,Ammonia,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1825497,C0082774,INHIBITS,ATG5 gene,"RNA, Guide",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1825598,C1101610,INHIBITS,IMPACT gene,MicroRNAs,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C1883559,C0012854,INHIBITS,Wild Type,DNA,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2352110,C0040549,INHIBITS,"CXCR4 protein, human",Toxin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2744535,C0002607,INHIBITS,"CD69 protein, human",Ammonia,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2744535,C0018909,INHIBITS,"CD69 protein, human",Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2826044,C0017725,INHIBITS,MIR451 wt Allele,Glucose,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2975999,C0008377,INHIBITS,"HMGCR protein, human",Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C2985160,C0003320,INHIBITS,ARID1A wt Allele,Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3252643,C0041004,INHIBITS,"APOB protein, human",Triglycerides,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3272751,C0035696,INHIBITS,Inhibitor of Nuclear Factor Kappa-B Kinase Subunit Beta,"RNA, Messenger",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3494363,C0008377,INHIBITS,Tight Junction Proteins,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3494454,C1519315,INHIBITS,Sialic Acid Binding Immunoglobulin-like Lectins,Signaling Molecule,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3538698,C1099354,INHIBITS,TFF3 wt Allele,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3710914,C0035693,INHIBITS,"EIF2AK2 protein, human","RNA, Double-Stranded",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C3710914,C0035696,INHIBITS,"EIF2AK2 protein, human","RNA, Messenger",aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C3710914,C1136170,INHIBITS,"EIF2AK2 protein, human",Virulence Factors,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3710967,C1099354,INHIBITS,"latent Orf73 antigen, human herpesvirus 8","RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3715044,C0028128,INHIBITS,AKR1A1 wt Allele,Nitric Oxide,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3715044,C0162772,INHIBITS,AKR1A1 wt Allele,Reactive Oxygen Species,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3811127,C0537224,INHIBITS,SULT1E1 wt Allele,viron,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3811629,C0001443,INHIBITS,Anti-Drug Antibody,Adenosine,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3816168,C0008377,INHIBITS,B-Cell Receptor Complex,Cholesterol,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3816168,C0056912,INHIBITS,B-Cell Receptor Complex,cytidylyl-3'-5'-guanosine,aapp,bacs,2,INHIBITS_AAPPinhbBACS
+C3884535,C0018340,INHIBITS,"AREG protein, human",Guanosine Diphosphate,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3890206,C0018909,INHIBITS,PON1 wt Allele,Hemagglutinin,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3890397,C0017725,INHIBITS,PRKAA1 wt Allele,Glucose,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3890397,C1099354,INHIBITS,PRKAA1 wt Allele,"RNA, Small Interfering",aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C3890659,C0026661,INHIBITS,NRIR gene,mRNA Precursor,aapp,bacs,1,INHIBITS_AAPPinhbBACS
+C4048280,C0003320,INHIBITS,"T-Cell Surface Glycoprotein CD4, human",Antigens,aapp,bacs,1,INHIBITS_AAPPinhbBACS

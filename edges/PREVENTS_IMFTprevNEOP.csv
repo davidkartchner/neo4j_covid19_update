@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0006826,PREVENTS,Immunologic Adjuvants,Malignant Neoplasms,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0001551,C0814141,PREVENTS,Immunologic Adjuvants,genital cancer,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0023767,C0007847,PREVENTS,Lipid A,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0041361,C0027651,PREVENTS,Tumor Antigens,Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0041361,C0598934,PREVENTS,Tumor Antigens,tumor growth,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0006826,PREVENTS,Vaccines,Malignant Neoplasms,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0042210,C0007847,PREVENTS,Vaccines,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0027149,PREVENTS,Vaccines,Myxoma,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C0027651,PREVENTS,Vaccines,Neoplasms,imft,neop,2,PREVENTS_IMFTprevNEOP
+C0042210,C0220630,PREVENTS,Vaccines,Adult Liver Carcinoma,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0042210,C1266119,PREVENTS,Vaccines,Solitary fibrous tumor,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0675907,C0007847,PREVENTS,AIDSVAX,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1514218,C0007847,PREVENTS,Polyvalent Vaccine,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1548477,C0027627,PREVENTS,Dengue fever vaccine,Neoplasm Metastasis,imft,neop,1,PREVENTS_IMFTprevNEOP

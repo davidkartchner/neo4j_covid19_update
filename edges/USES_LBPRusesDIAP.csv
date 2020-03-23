@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007584,C0189381,USES,Cell Count,Bronchial Lavage,lbpr,diap,23,USES_LBPRusesDIAP
+C0007584,C0581714,USES,Cell Count,Buccal smear procedure,lbpr,diap,3,USES_LBPRusesDIAP
+C0007585,C0581714,USES,Cell Culture Techniques,Buccal smear procedure,lbpr,diap,1,USES_LBPRusesDIAP
+C0010818,C0189381,USES,Cytological Techniques,Bronchial Lavage,lbpr,diap,4,USES_LBPRusesDIAP
+C0022885,C0040017,USES,Laboratory Procedures,Thrombelastography,lbpr,diap,4,USES_LBPRusesDIAP
+C0022885,C0150411,USES,Laboratory Procedures,Analysis of arterial blood gases and pH,lbpr,diap,4,USES_LBPRusesDIAP
+C0022885,C0581714,USES,Laboratory Procedures,Buccal smear procedure,lbpr,diap,4,USES_LBPRusesDIAP
+C0023508,C0189381,USES,White Blood Cell Count procedure,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C0079611,C1511221,USES,Immunophenotyping,Blood Flow Cytometry,lbpr,diap,1,USES_LBPRusesDIAP
+C0200345,C0189381,USES,Specimen Collection,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C0200345,C0581714,USES,Specimen Collection,Buccal smear procedure,lbpr,diap,2,USES_LBPRusesDIAP
+C0201253,C0189381,USES,Colony count on plate,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C0202113,C0189381,USES,Lactate dehydrogenase measurement,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C0848397,C0581714,USES,Throat culture,Buccal smear procedure,lbpr,diap,4,USES_LBPRusesDIAP
+C1294356,C0581714,USES,Detection of virus procedure,Buccal smear procedure,lbpr,diap,1,USES_LBPRusesDIAP
+C1441657,C0189381,USES,Mouse bioassay,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C1510438,C0150411,USES,Assay,Analysis of arterial blood gases and pH,lbpr,diap,1,USES_LBPRusesDIAP
+C1510438,C0189381,USES,Assay,Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C1510438,C0581714,USES,Assay,Buccal smear procedure,lbpr,diap,2,USES_LBPRusesDIAP
+C1510438,C0796357,USES,Assay,Genetic Variation Analysis,lbpr,diap,1,USES_LBPRusesDIAP
+C1705913,C0581714,USES,Rapid Antigen Test,Buccal smear procedure,lbpr,diap,1,USES_LBPRusesDIAP
+C4318939,C0189381,USES,Nasal Swab (procedure),Bronchial Lavage,lbpr,diap,1,USES_LBPRusesDIAP
+C4318939,C0581714,USES,Nasal Swab (procedure),Buccal smear procedure,lbpr,diap,2,USES_LBPRusesDIAP

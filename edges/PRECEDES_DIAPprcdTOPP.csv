@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0042196,PRECEDES,Autopsy,Vaccination,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0004398,C0152060,PRECEDES,Autopsy,Transection (procedure),diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0005558,C0001563,PRECEDES,Biopsy,"Administration, Oral",diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0011906,C1511790,PRECEDES,Differential Diagnosis,Detection,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0011923,C3540512,PRECEDES,Diagnostic Imaging,Circumferential Supracrestal Fiberotomy,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0034606,C0002903,PRECEDES,Radionuclide Imaging,Anesthesia procedures,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0034606,C0204727,PRECEDES,Radionuclide Imaging,Isolation procedure,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0040405,C0162577,PRECEDES,X-Ray Computed Tomography,Angioplasty,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0085532,C2051503,PRECEDES,Coronary angiography,patient Objectives,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0185283,C0002766,PRECEDES,Muscle biopsy,Pain management,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0203634,C0185115,PRECEDES,Nuclear medicine procedure,Extraction,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0203634,C1511790,PRECEDES,Nuclear medicine procedure,Detection,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0392823,C0021932,PRECEDES,Direct examination of larynx,"Intubation, Intratracheal",diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0860888,C0185115,PRECEDES,"Tomography, Spiral Computed",Extraction,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0920550,C0524865,PRECEDES,HIV diagnosis,Reconstructive Surgical Procedures,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C0920688,C0920424,PRECEDES,cancer diagnosis,cancer surgery,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C1510483,C0199779,PRECEDES,Fine needle aspiration biopsy,Administration of antibiotic,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C1535502,C0474166,PRECEDES,Bronchoalveolar Lavage,Medical counseling,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C1964257,C0042196,PRECEDES,Observation - diagnostic procedure,Vaccination,diap,topp,1,PRECEDES_DIAPprcdTOPP
+C1964257,C4526535,PRECEDES,Observation - diagnostic procedure,Bendamustine/Lenalidomide/Dexamethasone Regimen,diap,topp,1,PRECEDES_DIAPprcdTOPP

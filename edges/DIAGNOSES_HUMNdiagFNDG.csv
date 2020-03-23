@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0031831,C0019080,DIAGNOSES,Physicians,Hemorrhage,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C0031831,C1299586,DIAGNOSES,Physicians,Has difficulty doing (qualifier value),humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C0087009,C0020625,DIAGNOSES,Hospital specialist,Hyponatremia,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C0871685,C3806166,DIAGNOSES,Clinician,Poor outcome,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C1709627,C0015967,DIAGNOSES,Practitioner,Fever,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C1709627,C0023380,DIAGNOSES,Practitioner,Lethargy,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C3812881,C0015967,DIAGNOSES,Author,Fever,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG
+C4522252,C1290905,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Discrepancy,humn,fndg,1,DIAGNOSES_HUMNdiagFNDG

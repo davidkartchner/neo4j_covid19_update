@@ -1,0 +1,186 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0001551,USES,"Administration, Intranasal",Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0001560,C0021403,USES,"Administration, Intranasal",Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0001560,C0042211,USES,"Administration, Intranasal","Vaccines, Attenuated",topp,imft,2,USES_TOPPusesIMFT
+C0001560,C0376613,USES,"Administration, Intranasal","Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C0001563,C0042210,USES,"Administration, Oral",Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C0001563,C0042211,USES,"Administration, Oral","Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C0009429,C0019168,USES,Combined Modality Therapy,Hepatitis B Surface Antigens,topp,imft,1,USES_TOPPusesIMFT
+C0009429,C0042210,USES,Combined Modality Therapy,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0013216,C0001551,USES,Pharmacotherapy,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0017296,C0042210,USES,gene therapy,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0001551,USES,Immunization,Immunologic Adjuvants,topp,imft,11,USES_TOPPusesIMFT
+C0020971,C0004632,USES,Immunization,Bacterial Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0004886,USES,Immunization,BCG Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0016712,USES,Immunization,Freund's Adjuvant,topp,imft,2,USES_TOPPusesIMFT
+C0020971,C0019168,USES,Immunization,Hepatitis B Surface Antigens,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0021403,USES,Immunization,Influenza virus vaccine,topp,imft,7,USES_TOPPusesIMFT
+C0020971,C0032375,USES,Immunization,Oral Poliovirus Vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0020971,C0037355,USES,Immunization,Smallpox Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0039620,USES,Immunization,Tetanus Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0042210,USES,Immunization,Vaccines,topp,imft,66,USES_TOPPusesIMFT
+C0020971,C0042211,USES,Immunization,"Vaccines, Attenuated",topp,imft,12,USES_TOPPusesIMFT
+C0020971,C0042212,USES,Immunization,"Vaccines, Inactivated",topp,imft,9,USES_TOPPusesIMFT
+C0020971,C0065828,USES,Immunization,Measles-Mumps-Rubella Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0071315,USES,Immunization,Pneumovax,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0242654,USES,Immunization,SIV Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0376613,USES,Immunization,"Vaccines, DNA",topp,imft,24,USES_TOPPusesIMFT
+C0020971,C0597641,USES,Immunization,plasmid vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0020971,C0718003,USES,Immunization,"Poliovirus Vaccine, Inactivated",topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0770694,USES,Immunization,trivalent influenza vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0770698,USES,Immunization,"Poliovirus vaccine, live",topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0887892,USES,Immunization,"Vaccines, Subunit",topp,imft,4,USES_TOPPusesIMFT
+C0020971,C0887894,USES,Immunization,Respiratory Syncytial Virus Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C0887902,USES,Immunization,"Vaccines, Edible",topp,imft,3,USES_TOPPusesIMFT
+C0020971,C0982332,USES,Immunization,"acellular pertussis vaccine, inactivated",topp,imft,2,USES_TOPPusesIMFT
+C0020971,C1514218,USES,Immunization,Polyvalent Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C1519887,USES,Immunization,Vaccine Antigen,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C1519904,USES,Immunization,Vaccinia Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C1579314,USES,Immunization,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C1579319,USES,Immunization,Pneumococcal conjugate vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C2714181,USES,Immunization,13-valent pneumococcal vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C3161957,USES,Immunization,INFLUENZA strains,topp,imft,1,USES_TOPPusesIMFT
+C0020971,C3272757,USES,Immunization,Live Attenuated Influenza Vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0020971,C3273243,USES,Immunization,Polysaccharide Vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0020971,C3526553,USES,Immunization,"diphtheria, tetanus toxoids and acellular pertussis vaccine",topp,imft,1,USES_TOPPusesIMFT
+C0020972,C0016712,USES,Immunization Schedule,Freund's Adjuvant,topp,imft,1,USES_TOPPusesIMFT
+C0020972,C0042210,USES,Immunization Schedule,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0020974,C0042210,USES,passive immunization procedure,Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C0020975,C0039620,USES,Secondary Immunization,Tetanus Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020975,C0042210,USES,Secondary Immunization,Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C0020975,C1552907,USES,Secondary Immunization,Adenovirus Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0020975,C3526553,USES,Secondary Immunization,"diphtheria, tetanus toxoids and acellular pertussis vaccine",topp,imft,1,USES_TOPPusesIMFT
+C0021083,C0001551,USES,Immunotherapy,Immunologic Adjuvants,topp,imft,2,USES_TOPPusesIMFT
+C0021083,C0041361,USES,Immunotherapy,Tumor Antigens,topp,imft,1,USES_TOPPusesIMFT
+C0021083,C0042210,USES,Immunotherapy,Vaccines,topp,imft,3,USES_TOPPusesIMFT
+C0021083,C0376613,USES,Immunotherapy,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C0021107,C1165245,USES,Implantation procedure,Pacis,topp,imft,1,USES_TOPPusesIMFT
+C0021107,C1519887,USES,Implantation procedure,Vaccine Antigen,topp,imft,1,USES_TOPPusesIMFT
+C0021485,C0042210,USES,Injection of therapeutic agent,Vaccines,topp,imft,16,USES_TOPPusesIMFT
+C0021485,C0042212,USES,Injection of therapeutic agent,"Vaccines, Inactivated",topp,imft,1,USES_TOPPusesIMFT
+C0021485,C0376613,USES,Injection of therapeutic agent,"Vaccines, DNA",topp,imft,8,USES_TOPPusesIMFT
+C0023690,C0042210,USES,Ligation,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0034386,C0042210,USES,Quarantine,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0035139,C0042212,USES,Surgical Replantation,"Vaccines, Inactivated",topp,imft,1,USES_TOPPusesIMFT
+C0040808,C0001551,USES,Treatment Protocols,Immunologic Adjuvants,topp,imft,3,USES_TOPPusesIMFT
+C0040808,C0021403,USES,Treatment Protocols,Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0040808,C0042210,USES,Treatment Protocols,Vaccines,topp,imft,29,USES_TOPPusesIMFT
+C0040808,C0042211,USES,Treatment Protocols,"Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C0040808,C0086413,USES,Treatment Protocols,HIV Vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0040808,C0206253,USES,Treatment Protocols,"Vaccines, Combined",topp,imft,1,USES_TOPPusesIMFT
+C0040808,C0376613,USES,Treatment Protocols,"Vaccines, DNA",topp,imft,4,USES_TOPPusesIMFT
+C0040808,C0597641,USES,Treatment Protocols,plasmid vaccine,topp,imft,3,USES_TOPPusesIMFT
+C0040808,C1519904,USES,Treatment Protocols,Vaccinia Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0040808,C3272757,USES,Treatment Protocols,Live Attenuated Influenza Vaccine,topp,imft,5,USES_TOPPusesIMFT
+C0042196,C0001551,USES,Vaccination,Immunologic Adjuvants,topp,imft,18,USES_TOPPusesIMFT
+C0042196,C0004632,USES,Vaccination,Bacterial Vaccines,topp,imft,4,USES_TOPPusesIMFT
+C0042196,C0019168,USES,Vaccination,Hepatitis B Surface Antigens,topp,imft,4,USES_TOPPusesIMFT
+C0042196,C0021403,USES,Vaccination,Influenza virus vaccine,topp,imft,8,USES_TOPPusesIMFT
+C0042196,C0032375,USES,Vaccination,Oral Poliovirus Vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0042196,C0034496,USES,Vaccination,Rabies Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C0037355,USES,Vaccination,Smallpox Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C0040555,USES,Vaccination,Toxoids,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C0042210,USES,Vaccination,Vaccines,topp,imft,62,USES_TOPPusesIMFT
+C0042196,C0042211,USES,Vaccination,"Vaccines, Attenuated",topp,imft,22,USES_TOPPusesIMFT
+C0042196,C0042212,USES,Vaccination,"Vaccines, Inactivated",topp,imft,17,USES_TOPPusesIMFT
+C0042196,C0042742,USES,Vaccination,Viral Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C0042196,C0206515,USES,Vaccination,"Vaccines, Conjugate",topp,imft,3,USES_TOPPusesIMFT
+C0042196,C0358314,USES,Vaccination,Pneumococcal vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C0376613,USES,Vaccination,"Vaccines, DNA",topp,imft,17,USES_TOPPusesIMFT
+C0042196,C0597641,USES,Vaccination,plasmid vaccine,topp,imft,4,USES_TOPPusesIMFT
+C0042196,C0599597,USES,Vaccination,genetic vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0042196,C0770694,USES,Vaccination,trivalent influenza vaccine,topp,imft,3,USES_TOPPusesIMFT
+C0042196,C0887892,USES,Vaccination,"Vaccines, Subunit",topp,imft,5,USES_TOPPusesIMFT
+C0042196,C1514218,USES,Vaccination,Polyvalent Vaccine,topp,imft,3,USES_TOPPusesIMFT
+C0042196,C1519904,USES,Vaccination,Vaccinia Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C1579319,USES,Vaccination,Pneumococcal conjugate vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C2981837,USES,Vaccination,pandemrix,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C3161957,USES,Vaccination,INFLUENZA strains,topp,imft,1,USES_TOPPusesIMFT
+C0042196,C3178367,USES,Vaccination,MVA vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0042196,C3272757,USES,Vaccination,Live Attenuated Influenza Vaccine,topp,imft,3,USES_TOPPusesIMFT
+C0042200,C0001551,USES,Influenza vaccination,Immunologic Adjuvants,topp,imft,2,USES_TOPPusesIMFT
+C0042200,C0042210,USES,Influenza vaccination,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0042200,C0376613,USES,Influenza vaccination,"Vaccines, DNA",topp,imft,2,USES_TOPPusesIMFT
+C0042201,C0042210,USES,Measles vaccination,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0042203,C1520145,USES,Pertussis vaccination,Whole Cell Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0042205,C0034496,USES,Rabies vaccination,Rabies Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0042205,C0042742,USES,Rabies vaccination,Viral Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0052712,C0021403,USES,doxorubicin/mitomycin/vinblastine protocol,Influenza virus vaccine,topp,imft,2,USES_TOPPusesIMFT
+C0052712,C0037355,USES,doxorubicin/mitomycin/vinblastine protocol,Smallpox Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0052712,C0042210,USES,doxorubicin/mitomycin/vinblastine protocol,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0052712,C0042211,USES,doxorubicin/mitomycin/vinblastine protocol,"Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C0079612,C0041361,USES,"Immunotherapy, Active",Tumor Antigens,topp,imft,1,USES_TOPPusesIMFT
+C0079613,C1699926,USES,Adoptive Immunotherapy,fingolimod,topp,imft,2,USES_TOPPusesIMFT
+C0150370,C0042210,USES,Surveillance: safety,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0152060,C0042210,USES,Transection (procedure),Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0162352,C0001551,USES,Allergen Immunotherapy,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0184907,C0042210,USES,Scarification,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0185027,C2825347,USES,Imbrication (procedure),"Immunoglobulin A, Human",topp,imft,1,USES_TOPPusesIMFT
+C0199176,C0021403,USES,Prophylactic treatment,Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0199176,C0042210,USES,Prophylactic treatment,Vaccines,topp,imft,22,USES_TOPPusesIMFT
+C0199176,C0042211,USES,Prophylactic treatment,"Vaccines, Attenuated",topp,imft,3,USES_TOPPusesIMFT
+C0199176,C0376613,USES,Prophylactic treatment,"Vaccines, DNA",topp,imft,2,USES_TOPPusesIMFT
+C0199176,C0597641,USES,Prophylactic treatment,plasmid vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0199176,C0887892,USES,Prophylactic treatment,"Vaccines, Subunit",topp,imft,1,USES_TOPPusesIMFT
+C0199176,C3272757,USES,Prophylactic treatment,Live Attenuated Influenza Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0199798,C0001551,USES,human vaccination,Immunologic Adjuvants,topp,imft,6,USES_TOPPusesIMFT
+C0199798,C0042210,USES,human vaccination,Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C0199798,C0042211,USES,human vaccination,"Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C0199807,C0040555,USES,Tetanus vaccination,Toxoids,topp,imft,1,USES_TOPPusesIMFT
+C0279023,C0887892,USES,chemosensitization/potentiation,"Vaccines, Subunit",topp,imft,1,USES_TOPPusesIMFT
+C0280274,C0001551,USES,Antiviral Therapy,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0393005,C0376613,USES,chlorodihydroxypyridine/potassium oxonate/tegafur,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C0419688,C0042212,USES,First cholera vaccination,"Vaccines, Inactivated",topp,imft,1,USES_TOPPusesIMFT
+C0565867,C0042210,USES,delivery method,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0565867,C0376613,USES,delivery method,"Vaccines, DNA",topp,imft,2,USES_TOPPusesIMFT
+C0596742,C0042210,USES,hyperimmunization,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0600249,C0042210,USES,"Immunotherapy, Passive",Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0600250,C0376613,USES,Passive Antibody Transfer,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C0678815,C0001551,USES,"Administration, Mucosal",Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0678815,C0042210,USES,"Administration, Mucosal",Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0678823,C0042210,USES,parenteral administration,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0678823,C0042212,USES,parenteral administration,"Vaccines, Inactivated",topp,imft,1,USES_TOPPusesIMFT
+C0679698,C0021403,USES,disease prevention,Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0679698,C0042210,USES,disease prevention,Vaccines,topp,imft,3,USES_TOPPusesIMFT
+C0679698,C0720492,USES,disease prevention,Fluzone,topp,imft,1,USES_TOPPusesIMFT
+C0683174,C0021403,USES,topical application,Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C0683465,C0042210,USES,novel AODU treatment method,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0683468,C0042210,USES,invasive treatment,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0857208,C0042211,USES,routine immunization,"Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C0920425,C0001551,USES,cancer therapy,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0920425,C0376613,USES,cancer therapy,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C0920467,C0041469,USES,disorder control (procedure),"Vaccines, Typhoid",topp,imft,1,USES_TOPPusesIMFT
+C0920467,C0042210,USES,disorder control (procedure),Vaccines,topp,imft,3,USES_TOPPusesIMFT
+C0920619,C0001551,USES,neoplasm therapy,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C0920619,C0042210,USES,neoplasm therapy,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C0920619,C1135130,USES,neoplasm therapy,Avastin,topp,imft,1,USES_TOPPusesIMFT
+C0936077,C0042210,USES,Complementary therapies,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1135929,C0042210,USES,Mass Vaccination,Vaccines,topp,imft,4,USES_TOPPusesIMFT
+C1135929,C0376613,USES,Mass Vaccination,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C1273551,C0001551,USES,Postoperative chemotherapy,Immunologic Adjuvants,topp,imft,2,USES_TOPPusesIMFT
+C1280903,C0001551,USES,Exploration procedure,Immunologic Adjuvants,topp,imft,1,USES_TOPPusesIMFT
+C1283040,C0004632,USES,Autogenous vaccination,Bacterial Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1293132,C0042210,USES,Anchoring procedure,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1328526,C0042210,USES,Primary Immunologic Sensitization,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1328526,C1519904,USES,Primary Immunologic Sensitization,Vaccinia Vaccine,topp,imft,1,USES_TOPPusesIMFT
+C1443861,C0597641,USES,Post-Exposure Prophylaxis,plasmid vaccine,topp,imft,1,USES_TOPPusesIMFT
+C1456647,C0021403,USES,Childhood Immunization,Influenza virus vaccine,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C0019168,USES,Detection,Hepatitis B Surface Antigens,topp,imft,3,USES_TOPPusesIMFT
+C1511790,C0042210,USES,Detection,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C0042211,USES,Detection,"Vaccines, Attenuated",topp,imft,1,USES_TOPPusesIMFT
+C1511790,C0042742,USES,Detection,Viral Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C0166049,USES,Detection,Hepatitis C Antibodies,topp,imft,3,USES_TOPPusesIMFT
+C1511790,C0376613,USES,Detection,"Vaccines, DNA",topp,imft,1,USES_TOPPusesIMFT
+C1511790,C0807464,USES,Detection,Porcine reproductive and respiratory syndrome virus antibody,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C1148434,USES,Detection,West Nile virus Ag,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C1446601,USES,Detection,lactoglobulin,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C1545345,USES,Detection,Human Metapneumovirus antigen,topp,imft,1,USES_TOPPusesIMFT
+C1511790,C2825347,USES,Detection,"Immunoglobulin A, Human",topp,imft,6,USES_TOPPusesIMFT
+C1697762,C0042210,USES,Booster Immunization - ActSubstanceAdministrationCode,Vaccines,topp,imft,2,USES_TOPPusesIMFT
+C2348331,C0042210,USES,Dose Regimen,Vaccines,topp,imft,3,USES_TOPPusesIMFT
+C2718059,C0042210,USES,Precision Medicine,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C2936643,C0166049,USES,Standard of Care,Hepatitis C Antibodies,topp,imft,1,USES_TOPPusesIMFT
+C2945704,C0042210,USES,Conventional Treatment,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C2987620,C0042210,USES,Inoculation,Vaccines,topp,imft,1,USES_TOPPusesIMFT
+C3658366,C4040385,USES,Sublingual Immunotherapy,Allergen product,topp,imft,1,USES_TOPPusesIMFT
+C3661918,C0042210,USES,Pneumococcal conjugate vaccination,Vaccines,topp,imft,2,USES_TOPPusesIMFT

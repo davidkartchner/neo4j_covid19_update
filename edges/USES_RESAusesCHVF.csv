@@ -1,0 +1,26 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008972,C0011740,USES,Clinical Research,Detergents,resa,chvf,1,USES_RESAusesCHVF
+C0008972,C0243077,USES,Clinical Research,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0008976,C0038998,USES,Clinical Trials,Sweetening Agents,resa,chvf,2,USES_RESAusesCHVF
+C0008976,C0443769,USES,Clinical Trials,volatile substances,resa,chvf,1,USES_RESAusesCHVF
+C0008976,C0450442,USES,Clinical Trials,Agent,resa,chvf,2,USES_RESAusesCHVF
+C0023981,C0450442,USES,Longitudinal Studies,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0205664,C0450442,USES,Animal Experiments,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0302523,C0450442,USES,Observation in research,Agent,resa,chvf,2,USES_RESAusesCHVF
+C0679083,C0450442,USES,simulation,Agent,resa,chvf,24,USES_RESAusesCHVF
+C0681814,C0011740,USES,research study,Detergents,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C0243077,USES,research study,inhibitors,resa,chvf,10,USES_RESAusesCHVF
+C0681814,C0450442,USES,research study,Agent,resa,chvf,5,USES_RESAusesCHVF
+C0681814,C1550600,USES,research study,Ingredient,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C2347609,USES,research study,Chemical Probe,resa,chvf,4,USES_RESAusesCHVF
+C0681829,C0243077,USES,in vivo study,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0681833,C0243077,USES,basic research,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0683933,C0450442,USES,scientific research,Agent,resa,chvf,1,USES_RESAusesCHVF
+C1515653,C0243077,USES,In Vitro Assay,inhibitors,resa,chvf,2,USES_RESAusesCHVF
+C1515657,C0243077,USES,In Vivo Model,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C1518527,C0450442,USES,Observational Study,Agent,resa,chvf,1,USES_RESAusesCHVF
+C1519941,C0243077,USES,Validation,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C0243076,USES,Study,antagonists,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C0243077,USES,Study,inhibitors,resa,chvf,8,USES_RESAusesCHVF
+C2603343,C0450442,USES,Study,Agent,resa,chvf,11,USES_RESAusesCHVF
+C2603343,C1550600,USES,Study,Ingredient,resa,chvf,3,USES_RESAusesCHVF

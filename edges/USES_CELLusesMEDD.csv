@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007600,C0181839,USES,Cultured Cell Line,Microscopes,cell,medd,1,USES_CELLusesMEDD
+C0007600,C0491970,USES,Cultured Cell Line,Light microscope,cell,medd,1,USES_CELLusesMEDD
+C0042542,C0491970,USES,Vero Cells,Light microscope,cell,medd,1,USES_CELLusesMEDD
+C0178708,C0180279,USES,immortalized cell,automated flow cytometers,cell,medd,1,USES_CELLusesMEDD
+C0596890,C0180279,USES,MCF-7 Cells,automated flow cytometers,cell,medd,1,USES_CELLusesMEDD
+C1253961,C0181168,USES,Colligocyte,HEMOCYTOMETER,cell,medd,1,USES_CELLusesMEDD
+C1253961,C0181839,USES,Colligocyte,Microscopes,cell,medd,1,USES_CELLusesMEDD
+C1253961,C1626420,USES,Colligocyte,Confocal microscope,cell,medd,1,USES_CELLusesMEDD
+C2936239,C0180279,USES,HEK293 Cells,automated flow cytometers,cell,medd,2,USES_CELLusesMEDD
+C4277577,C0181200,USES,A549 Cells,homogenizers,cell,medd,1,USES_CELLusesMEDD
+C4277577,C0182299,USES,A549 Cells,Pipette tip,cell,medd,1,USES_CELLusesMEDD

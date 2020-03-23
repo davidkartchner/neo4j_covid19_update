@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005841,C1293116,ISA,Blood Transfusion,Introduction procedure,topp,hlca,2,ISA_TOPPisaHLCA
+C0015357,C1293116,ISA,Extracorporeal Membrane Oxygenation,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0021925,C1293116,ISA,Intubation,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0029216,C1293116,ISA,Organ Transplantation,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0032134,C1293116,ISA,Plasmapheresis,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0035260,C1293116,ISA,Physical Restraint (procedure),Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0040590,C1293116,ISA,Tracheostomy procedure,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0040732,C1293116,ISA,Transplantation,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0042019,C1293116,ISA,Urinary Catheterization,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0042196,C1293116,ISA,Vaccination,Introduction procedure,topp,hlca,13,ISA_TOPPisaHLCA
+C0042200,C1293116,ISA,Influenza vaccination,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0149783,C1293116,ISA,Steroid therapy,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0150238,C1293116,ISA,Fluid resuscitation,Introduction procedure,topp,hlca,3,ISA_TOPPisaHLCA
+C0204819,C1293116,ISA,"Intubation, Nasogastric",Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0242783,C0422202,ISA,Disease Notification,Notifications,topp,hlca,1,ISA_TOPPisaHLCA
+C0412767,C1293116,ISA,Rapid sequence induction,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C0553741,C1293116,ISA,Fluid Management,Introduction procedure,topp,hlca,3,ISA_TOPPisaHLCA
+C0584877,C1293116,ISA,Percutaneous tracheostomy,Introduction procedure,topp,hlca,2,ISA_TOPPisaHLCA
+C0600015,C0010210,ISA,Emotional support,Counseling,topp,hlca,1,ISA_TOPPisaHLCA
+C0740178,C0220908,ISA,Antenatal screening procedures,Screening procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C1301784,C1293116,ISA,Unintended endobronchial intubation,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA
+C3649547,C1293116,ISA,Continuous renal replacement therapy,Introduction procedure,topp,hlca,1,ISA_TOPPisaHLCA

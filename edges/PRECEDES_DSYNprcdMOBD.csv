@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010340,C0011581,PRECEDES,Critical Illness,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0010340,C0038436,PRECEDES,Critical Illness,Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0032285,C0011581,PRECEDES,Pneumonia,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0035222,C0004936,PRECEDES,"Respiratory Distress Syndrome, Adult",Mental disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0038454,C0009241,PRECEDES,Cerebrovascular accident,Cognition Disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0038454,C0011581,PRECEDES,Cerebrovascular accident,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0042769,C0011581,PRECEDES,Virus Diseases,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0042769,C0858952,PRECEDES,Virus Diseases,silence,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0042769,C1535926,PRECEDES,Virus Diseases,Neurodevelopmental Disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0004352,PRECEDES,Severe Acute Respiratory Syndrome,Autistic Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0038436,PRECEDES,Severe Acute Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C1175175,C0815107,PRECEDES,Severe Acute Respiratory Syndrome,psychological distress,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C3694279,C0011581,PRECEDES,Middle East Respiratory Syndrome,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C3694279,C0038436,PRECEDES,Middle East Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD

@@ -1,0 +1,52 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001461,C0020291,AFFECTS,Adenosine Diphosphate Ribose,Hydrolysis,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0003320,C0337026,AFFECTS,Antigens,Blast (physical force),bacs,npop,1,AFFECTS_BACSafctNPOP
+C0003320,C0376534,AFFECTS,Antigens,Electrostatics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0003320,C2936413,AFFECTS,Antigens,Host Range,bacs,npop,2,AFFECTS_BACSafctNPOP
+C0003320,C3826426,AFFECTS,Antigens,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0005390,C0031164,AFFECTS,Bile Acids,Permeability,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0006353,C0030012,AFFECTS,Buffers,Oxidation-Reduction,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0008377,C4042896,AFFECTS,Cholesterol,Organelle Biogenesis,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0012854,C0016315,AFFECTS,DNA,Fluorescence,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0012854,C0038884,AFFECTS,DNA,Surface Properties,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0012990,C0017982,AFFECTS,Dolichol,glycosylation,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0013030,C0016315,AFFECTS,Dopamine,Fluorescence,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0018340,C0012222,AFFECTS,Guanosine Diphosphate,Diffusion,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0018340,C3826426,AFFECTS,Guanosine Diphosphate,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0018353,C3826426,AFFECTS,Guanosine Triphosphate,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0018366,C0020291,AFFECTS,Guanylyl Imidodiphosphate,Hydrolysis,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0018909,C2936413,AFFECTS,Hemagglutinin,Host Range,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0024742,C0017982,AFFECTS,Mannose,glycosylation,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0025196,C0564461,AFFECTS,Melanins,Ultraviolet B radiation,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0027908,C3826426,AFFECTS,Neurotransmitters,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0028128,C3826426,AFFECTS,Nitric Oxide,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0030958,C0020291,AFFECTS,Peptidoglycan,Hydrolysis,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0033607,C0030012,AFFECTS,Protease Inhibitors,Oxidation-Reduction,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0034085,C0038884,AFFECTS,Pulmonary Surfactants,Surface Properties,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0035693,C0376525,AFFECTS,"RNA, Double-Stranded",Dimerization,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0035696,C0025723,AFFECTS,"RNA, Messenger",Methylation,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0035711,C0597571,AFFECTS,Transfer RNA,thermostability,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0035711,C3826426,AFFECTS,Transfer RNA,Dynamics,bacs,npop,4,AFFECTS_BACSafctNPOP
+C0039771,C0034553,AFFECTS,Theophylline,Radioactivity,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0043481,C0522534,AFFECTS,Zinc,Saturated,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0055819,C0243052,AFFECTS,Citric Acid,Virus Physiological Phenomena,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0056912,C0011061,AFFECTS,cytidylyl-3'-5'-guanosine,Deamination,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0061078,C1881775,AFFECTS,gamma-Linolenic Acid,Melting Point,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0067762,C0026597,AFFECTS,N-Acetylneuraminic Acid,Motion,bacs,npop,3,AFFECTS_BACSafctNPOP
+C0162772,C0030012,AFFECTS,Reactive Oxygen Species,Oxidation-Reduction,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0304207,C0683109,AFFECTS,Bacterial product,high intensity light,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0597277,C2717975,AFFECTS,Potassium Ion,Virus Release,bacs,npop,1,AFFECTS_BACSafctNPOP
+C0600508,C1948023,AFFECTS,Response Elements,Stimulation (motivation),bacs,npop,1,AFFECTS_BACSafctNPOP
+C0763286,C2936412,AFFECTS,mycolactone,Host Specificity,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1099354,C0016315,AFFECTS,"RNA, Small Interfering",Fluorescence,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1099354,C0301630,AFFECTS,"RNA, Small Interfering",Reduction (chemical),bacs,npop,1,AFFECTS_BACSafctNPOP
+C1101610,C0301630,AFFECTS,MicroRNAs,Reduction (chemical),bacs,npop,1,AFFECTS_BACSafctNPOP
+C1136170,C0037783,AFFECTS,Virulence Factors,Species Specificity,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1506352,C0030012,AFFECTS,silvestrol,Oxidation-Reduction,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1508748,C0243053,AFFECTS,second messenger,Bacterial Physiological Phenomena,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1518157,C0007382,AFFECTS,Major Groove,Catalysis,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1519315,C0030012,AFFECTS,Signaling Molecule,Oxidation-Reduction,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1764827,C0042333,AFFECTS,Isolate - microorganism,Variation (Genetics),bacs,npop,1,AFFECTS_BACSafctNPOP
+C1764827,C2936412,AFFECTS,Isolate - microorganism,Host Specificity,bacs,npop,1,AFFECTS_BACSafctNPOP
+C1764827,C3826426,AFFECTS,Isolate - microorganism,Dynamics,bacs,npop,1,AFFECTS_BACSafctNPOP
+C3181308,C0678568,AFFECTS,yinqiaosan,Cool - action,bacs,npop,1,AFFECTS_BACSafctNPOP

@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017296,C0887889,USES,gene therapy,Bacterial Artificial Chromosomes,topp,resd,3,USES_TOPPusesRESD
+C0020971,C0920531,USES,Immunization,gene gun,topp,resd,4,USES_TOPPusesRESD
+C0021107,C0242743,USES,Implantation procedure,Spacecraft,topp,resd,1,USES_TOPPusesRESD
+C0042196,C0026339,USES,Vaccination,Biological Models,topp,resd,1,USES_TOPPusesRESD
+C0042196,C0920531,USES,Vaccination,gene gun,topp,resd,4,USES_TOPPusesRESD
+C0152060,C0026339,USES,Transection (procedure),Biological Models,topp,resd,1,USES_TOPPusesRESD
+C0152060,C0444330,USES,Transection (procedure),Slide (glass microscope),topp,resd,1,USES_TOPPusesRESD
+C0185115,C0887889,USES,Extraction,Bacterial Artificial Chromosomes,topp,resd,1,USES_TOPPusesRESD
+C0185115,C1706746,USES,Extraction,Agarose Gel,topp,resd,1,USES_TOPPusesRESD
+C0204727,C0026339,USES,Isolation procedure,Biological Models,topp,resd,1,USES_TOPPusesRESD
+C0204727,C1710360,USES,Isolation procedure,Technology Platform,topp,resd,1,USES_TOPPusesRESD
+C0204727,C2347727,USES,Isolation procedure,Quadrupole,topp,resd,4,USES_TOPPusesRESD
+C0565867,C0920531,USES,delivery method,gene gun,topp,resd,1,USES_TOPPusesRESD
+C1511790,C0026339,USES,Detection,Biological Models,topp,resd,1,USES_TOPPusesRESD
+C1511790,C0600596,USES,Detection,DNA Microarray Chip,topp,resd,6,USES_TOPPusesRESD
+C1511790,C0872110,USES,Detection,biochip,topp,resd,1,USES_TOPPusesRESD
+C1511790,C1449582,USES,Detection,Microchip Analytical Devices,topp,resd,3,USES_TOPPusesRESD
+C1511790,C1706746,USES,Detection,Agarose Gel,topp,resd,1,USES_TOPPusesRESD

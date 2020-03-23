@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0030685,C0332149,TREATS,Patient Discharge,Possible,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C0086930,C0332149,TREATS,Risk Assessment,Possible,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C0220908,C0184511,TREATS,Screening procedure,Improved,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C0220908,C0332149,TREATS,Screening procedure,Possible,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C0805586,C0013658,TREATS,Challenge,Educational Status,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C1261322,C0332149,TREATS,Evaluation procedure,Possible,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C1261322,C0332219,TREATS,Evaluation procedure,Easy,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C1515187,C0442797,TREATS,Take,Decreasing,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C1522577,C0332149,TREATS,follow-up,Possible,hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C4036459,C0184512,TREATS,Contacts,Stabilized (qualifier value),hlca,qlco,1,TREATS_HLCAtrtsQLCO
+C4505148,C0184511,TREATS,Vaccination Coverage,Improved,hlca,qlco,1,TREATS_HLCAtrtsQLCO

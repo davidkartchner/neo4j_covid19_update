@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013203,C0042765,AFFECTS,Drug resistance,Virulence,biof,biof,2,AFFECTS_BIOFafctBIOF
+C0013203,C1699206,AFFECTS,Drug resistance,Virologic Failure,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0024352,C0042765,AFFECTS,Lysogeny,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0042765,C1721019,AFFECTS,Virulence,Virus Attachment,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0678661,C3714634,AFFECTS,biological control,Biological Processes,biof,biof,3,AFFECTS_BIOFafctBIOF
+C0678796,C3853734,AFFECTS,additive drug interaction,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1721020,C0220781,AFFECTS,Virus Membrane Fusion,Anabolism,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3156318,C3714634,AFFECTS,cardiovascular system development,Biological Processes,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3714634,C0042765,AFFECTS,Biological Processes,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3714634,C3853734,AFFECTS,Biological Processes,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3820740,C3714634,AFFECTS,viroporin,Biological Processes,biof,biof,3,AFFECTS_BIOFafctBIOF

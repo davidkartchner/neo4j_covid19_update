@@ -1,0 +1,415 @@
+cui,type,name
+C0000727,sosy,"Abdomen, Acute"
+C0000729,sosy,Abdominal Cramps
+C0000737,sosy,Abdominal Pain
+C0000765,sosy,Excessive body weight gain
+C0001416,sosy,Adenitis
+C0002962,sosy,Angina Pectoris
+C0003123,sosy,Anorexia
+C0003564,sosy,Aphonia
+C0003862,sosy,Arthralgia
+C0004059,sosy,aspirin intolerance
+C0004093,sosy,Asthenia
+C0004134,sosy,Ataxia
+C0004604,sosy,Back Pain
+C0004941,sosy,Behavioral Symptoms
+C0005687,sosy,Bladder distention
+C0006625,sosy,Cachexia
+C0007859,sosy,Neck Pain
+C0008031,sosy,Chest Pain
+C0008033,sosy,Pleuritic pain
+C0008035,sosy,Chest wall pain
+C0008489,sosy,Chorea
+C0009024,sosy,Clonus
+C0009806,sosy,Constipation
+C0009812,sosy,Constitutional Symptom
+C0010200,sosy,Coughing
+C0010201,sosy,Chronic cough
+C0010520,sosy,Cyanosis
+C0011991,sosy,Diarrhea
+C0011992,sosy,Infantile Diarrhea
+C0012833,sosy,Dizziness
+C0012872,sosy,"Markers, DNA"
+C0013132,sosy,Drooling
+C0013144,sosy,Drowsiness
+C0013404,sosy,Dyspnea
+C0013428,sosy,Dysuria
+C0013456,sosy,Earache
+C0013609,sosy,Localized edema
+C0013911,sosy,Emaciation
+C0014724,sosy,Eructation
+C0014745,sosy,Palmar erythema
+C0015468,sosy,Facial Pain
+C0015644,sosy,Muscular fasciculation
+C0015672,sosy,Fatigue
+C0015970,sosy,Fever of Unknown Origin
+C0016204,sosy,Flatulence
+C0016382,sosy,Flushing
+C0018681,sosy,Headache
+C0018808,sosy,Heart murmur
+C0018834,sosy,Heartburn
+C0018991,sosy,Hemiplegia
+C0019079,sosy,Hemoptysis
+C0019209,sosy,Hepatomegaly
+C0019214,sosy,Hepatosplenomegaly
+C0019825,sosy,Hoarseness
+C0020175,sosy,Hunger
+C0020440,sosy,Hypercapnia
+C0020453,sosy,Hyperesthesia
+C0020639,sosy,Hypoproteinemia
+C0020672,sosy,"Hypothermia, natural"
+C0021479,sosy,INJECTED EYE
+C0023218,sosy,Leg cramps
+C0023222,sosy,Pain in lower limb
+C0024031,sosy,Low Back Pain
+C0025287,sosy,Meningism
+C0026635,sosy,Mouth Breathing
+C0026821,sosy,Muscle Cramp
+C0026825,sosy,Flaccid Muscle Tone
+C0026826,sosy,Muscle Hypertonia
+C0026837,sosy,Muscle Rigidity
+C0026858,sosy,Musculoskeletal Pain
+C0027066,sosy,Myoclonus
+C0027424,sosy,Nasal congestion (finding)
+C0027497,sosy,Nausea
+C0027498,sosy,Nausea and vomiting
+C0027796,sosy,Neuralgia
+C0028081,sosy,Night sweats
+C0028961,sosy,Oliguria
+C0030193,sosy,Pain
+C0030201,sosy,"Pain, Postoperative"
+C0030232,sosy,Pallor
+C0030552,sosy,Paresis
+C0030554,sosy,Paresthesia
+C0030794,sosy,Pelvic Pain
+C0032617,sosy,Polyuria
+C0032781,sosy,Posterior rhinorrhea
+C0033774,sosy,Pruritus
+C0034642,sosy,Rales
+C0035508,sosy,Rhonchi
+C0036572,sosy,Seizures
+C0037088,sosy,Signs and Symptoms
+C0037089,sosy,"Signs and Symptoms, Digestive"
+C0037090,sosy,"Signs and Symptoms, Respiratory"
+C0037383,sosy,Sneezing
+C0037384,sosy,Snoring
+C0037763,sosy,Spasm
+C0038002,sosy,Splenomegaly
+C0038187,sosy,Starvation
+C0038450,sosy,Stridor
+C0038506,sosy,Stuttering
+C0039070,sosy,Syncope
+C0040460,sosy,Toothache
+C0040485,sosy,Torticollis
+C0040822,sosy,Tremor
+C0041834,sosy,Erythema
+C0042571,sosy,Vertigo
+C0042755,sosy,Virilism
+C0042963,sosy,Vomiting
+C0043144,sosy,Wheezing
+C0085593,sosy,Chills
+C0085594,sosy,Fever with chills
+C0085602,sosy,Polydipsia
+C0085620,sosy,Flaccid paralysis
+C0085624,sosy,Burning sensation
+C0085631,sosy,Agitation
+C0085632,sosy,Apathy
+C0085635,sosy,Photopsia
+C0085636,sosy,Photophobia
+C0086132,sosy,Depressive Symptoms
+C0086439,sosy,Hypokinesia
+C0087169,sosy,Withdrawal Symptoms
+C0149707,sosy,Hemospermia
+C0150041,sosy,Feeling hopeless
+C0151315,sosy,Neck stiffness
+C0151602,sosy,Facial swelling (finding)
+C0151825,sosy,Bone pain
+C0151826,sosy,Retrosternal pain
+C0151827,sosy,Eye pain
+C0151828,sosy,Injection site pain
+C0151908,sosy,Dry skin
+C0152031,sosy,Joint swelling
+C0152032,sosy,Urinary hesitation
+C0152165,sosy,Persistent vomiting
+C0157536,sosy,Puerperal pyrexia of unknown origin
+C0158369,sosy,Swelling of limb
+C0159056,sosy,Abnormal chest sounds
+C0162298,sosy,Joint stiffness
+C0184567,sosy,Acute onset pain
+C0221151,sosy,Projectile vomiting
+C0221166,sosy,Paraparesis
+C0221200,sosy,Koplik spots
+C0221232,sosy,Welts
+C0231217,sosy,Multiple symptoms
+C0231218,sosy,Malaise
+C0231230,sosy,Fatigability
+C0231239,sosy,Fluctuation
+C0231246,sosy,Failure to gain weight
+C0231519,sosy,Gegenhalten
+C0231528,sosy,Myalgia
+C0231530,sosy,Muscle twitch
+C0231617,sosy,Catch - Finding of sensory dimension of pain
+C0231748,sosy,Giving-way
+C0231780,sosy,Heel pain
+C0231796,sosy,respiratory abnormalities
+C0231807,sosy,Dyspnea on exertion
+C0231818,sosy,Airway constriction
+C0231819,sosy,Air trapping
+C0231835,sosy,Tachypnea
+C0231855,sosy,Normal breath sounds
+C0231856,sosy,Abnormal breath sounds
+C0231857,sosy,Vesicular breathing
+C0231873,sosy,Bronchial breathing
+C0231875,sosy,Expiratory wheezing
+C0231912,sosy,Nocturnal cough
+C0231918,sosy,Nose symptoms
+C0231929,sosy,Acute hypoventilation
+C0232086,sosy,Diaphragmatic excursion
+C0232292,sosy,Chest tightness
+C0232462,sosy,Decrease in appetite
+C0232487,sosy,Abdominal discomfort
+C0232488,sosy,Abdominal colic
+C0232517,sosy,Gurgling
+C0232597,sosy,Acute vomiting
+C0232598,sosy,Chronic vomiting
+C0232599,sosy,Vomiting bile
+C0232605,sosy,Regurgitates after swallowing
+C0232607,sosy,Chronic regurgitation
+C0232698,sosy,Abnormal defecation
+C0233205,sosy,Halo sign
+C0233397,sosy,Psychological symptom
+C0233401,sosy,Psychiatric symptom
+C0233565,sosy,Bradykinesia
+C0233647,sosy,Neologism
+C0233763,sosy,"Hallucinations, Visual"
+C0233844,sosy,Clumsiness
+C0234132,sosy,Pyramidal sign
+C0234166,sosy,Hyperexplexia
+C0234229,sosy,Deep pain
+C0234230,sosy,"Pain, Burning"
+C0234233,sosy,Sore to touch
+C0234235,sosy,Tissue sensitivity
+C0234238,sosy,Ache
+C0234369,sosy,Trembling
+C0234372,sosy,Intermittent Tremor
+C0234376,sosy,Action Tremor
+C0234428,sosy,Disturbance of consciousness
+C0234544,sosy,Todd Paralysis
+C0235031,sosy,Neurologic Symptoms
+C0235050,sosy,Tingling of skin
+C0235081,sosy,"Tremor, Limb"
+C0235082,sosy,"Tremor, Muscle"
+C0235162,sosy,Difficulty sleeping
+C0235169,sosy,Excitability
+C0235198,sosy,Unable to concentrate
+C0235263,sosy,Conjunctival congestion
+C0235290,sosy,bitter taste
+C0235309,sosy,Upset stomach
+C0235710,sosy,Chest discomfort
+C0236075,sosy,Menopausal symptom
+C0236080,sosy,Vaginal discomfort
+C0237326,sosy,Dyschezia
+C0238656,sosy,Ankle pain
+C0239134,sosy,Productive cough
+C0239181,sosy,Intermittent diarrhea
+C0239182,sosy,Watery diarrhea
+C0239779,sosy,Grimaces
+C0239888,sosy,Headache recurrent
+C0240129,sosy,Knee stiff
+C0240735,sosy,Personality change
+C0240805,sosy,Prodrome
+C0241235,sosy,Purulent sputum
+C0242429,sosy,Sore Throat
+C0242706,sosy,Hyperoxia
+C0263540,sosy,Onychomadesis
+C0264272,sosy,Purulent rhinitis
+C0267373,sosy,Intestinal hemorrhage NOS
+C0271188,sosy,Visual halos (disorder)
+C0277787,sosy,Social stigmata
+C0277794,sosy,Extreme exhaustion
+C0277799,sosy,Intermittent fever
+C0277855,sosy,Inspiratory dyspnea
+C0277873,sosy,Nasal flaring
+C0277876,sosy,Pulmonary sign AND/OR symptom
+C0277959,sosy,Coarse hair
+C0277967,sosy,Adipsia
+C0278008,sosy,Altered bowel function
+C0278138,sosy,Mild pain
+C0278139,sosy,Moderate pain
+C0278140,sosy,Severe pain
+C0278144,sosy,Dull pain
+C0278147,sosy,Radicular pain
+C0282666,sosy,Very Low Birth Weight
+C0314719,sosy,Dryness of eye
+C0333240,sosy,Acute edema
+C0333243,sosy,Pitting edema
+C0333244,sosy,Transient edema
+C0333245,sosy,Massive edema
+C0333248,sosy,Brown edema
+C0333271,sosy,Bloody discharge finding
+C0333274,sosy,Purulent discharge
+C0344329,sosy,Collapse (finding)
+C0349506,sosy,Photosensitivity of skin
+C0391860,sosy,Diffuse inflammation
+C0392171,sosy,Influenza-like symptoms
+C0392513,sosy,Inanition
+C0392674,sosy,Exhaustion
+C0401149,sosy,Chronic constipation
+C0422879,sosy,CNS symptom
+C0423365,sosy,Vitreous inflammatory infiltrate
+C0424790,sosy,Rigor - Temperature-associated observation
+C0425258,sosy,Mobility poor
+C0425481,sosy,Sighing respiration
+C0426317,sosy,Genitourinary symptoms
+C0426359,sosy,Urinary symptoms
+C0426576,sosy,Gastrointestinal symptom
+C0426980,sosy,Motor symptoms
+C0427008,sosy,Stiffness
+C0427055,sosy,Facial Paresis
+C0427086,sosy,Involuntary Movements
+C0427190,sosy,"Ataxia, Truncal"
+C0439035,sosy,Wheezing symptom
+C0476270,sosy,Cardiovascular symptoms
+C0476273,sosy,Respiratory distress
+C0476287,sosy,Breath-holding spell
+C0476288,sosy,Digestive symptom
+C0476481,sosy,Chronic intractable pain
+C0478147,sosy,General symptoms and signs (R50-R69)
+C0494475,sosy,Tonic - clonic seizures
+C0497339,sosy,Sneezing/nasal congestion
+C0497364,sosy,Localized eruption of skin
+C0497365,sosy,Generalized rash
+C0497406,sosy,Overweight
+C0520904,sosy,Postoperative Nausea
+C0520963,sosy,Diffuse pain
+C0520966,sosy,Abnormal coordination
+C0521483,sosy,Mucous membrane hyperplasia
+C0521671,sosy,Unilateral facial paresis
+C0521800,sosy,Central cyanosis
+C0521989,sosy,Associated symptom
+C0521990,sosy,Associated sign
+C0542476,sosy,Forgetful
+C0548823,sosy,gastrointestinal distress
+C0549297,sosy,ear swelling
+C0553668,sosy,Labored breathing
+C0562483,sosy,Persistent cough
+C0564823,sosy,Pain in right lower limb
+C0574066,sosy,Increasing breathlessness
+C0574785,sosy,Lower Urinary Tract Symptoms
+C0575081,sosy,Gait abnormality
+C0575090,sosy,Equilibration disorder
+C0576690,sosy,Impaired body position sense
+C0577725,sosy,Anterior mediastinum mass
+C0577979,sosy,Frothy sputum
+C0581860,sosy,Right iliac fossa mass
+C0586407,sosy,Skin symptom
+C0596240,sosy,Cancer Pain
+C0599766,sosy,Recovery of Function
+C0600142,sosy,Hot flushes
+C0677600,sosy,Inspiratory stridor
+C0679309,sosy,physical symptom
+C0687681,sosy,Feeling feverish
+C0700184,sosy,Throat irritation
+C0700590,sosy,Increased sweating
+C0740418,sosy,Chronic back pain
+C0740577,sosy,Acute abdominal pain
+C0740651,sosy,Abdominal symptom
+C0740903,sosy,allergic symptom
+C0741548,sosy,bladder symptoms
+C0741585,sosy,BODY ACHE
+C0742857,sosy,Acute onset cough
+C0743323,sosy,dyspnea acute
+C0744176,sosy,Symptom of foot
+C0745417,sosy,ischemic pain
+C0746759,sosy,nasal drainage
+C0747556,sosy,Recurrent pharyngitis
+C0749874,sosy,upper respiratory symptom
+C0750016,sosy,generalized urticaria
+C0750323,sosy,Intractable vomiting
+C0750403,sosy,Proximal weakness
+C0750937,sosy,"Ataxia, Appendicular"
+C0751213,sosy,Tactile Allodynia
+C0751214,sosy,"Hyperalgesia, Thermal"
+C0751229,sosy,Hypersomnolence
+C0751378,sosy,Neurologic Signs
+C0751401,sosy,Ophthalmoparesis
+C0751409,sosy,Upper Extremity Paresis
+C0751460,sosy,Flaccid Quadriplegia
+C0751494,sosy,Convulsive Seizures
+C0751495,sosy,"Seizures, Focal"
+C0812426,sosy,Kidney problem
+C0847233,sosy,pulling at ears
+C0848633,sosy,sinus pressure
+C0848771,sosy,neurological disability
+C0849640,sosy,skin damage
+C0849850,sosy,blotch
+C0850149,sosy,Dry cough
+C0851121,sosy,digestive problem
+C0853813,sosy,local reaction
+C0854525,sosy,Post surgical diarrhea
+C0856863,sosy,Broad-based gait
+C0857393,sosy,excitable
+C0858640,sosy,moist rales
+C0858786,sosy,toxic symptom
+C0858854,sosy,Unrest
+C0859032,sosy,moaning
+C0863106,sosy,Afebrile seizure
+C0866962,sosy,Recurrent colic of kidney
+C0871189,sosy,Psychotic symptom
+C0872263,sosy,RNA marker
+C0877617,sosy,intestinal cramps
+C0917799,sosy,Hypersomnia
+C0917801,sosy,Sleeplessness
+C0920703,sosy,gastrointestinal sign
+C0948288,sosy,Conjunctival discharge
+C0948775,sosy,high weight
+C0948786,sosy,Blanching
+C1096020,sosy,Secretion Drainage
+C1096446,sosy,slight fever
+C1112500,sosy,skin tenting
+C1167782,sosy,Lung hyperinflation
+C1168343,sosy,numbness throat
+C1260880,sosy,Rhinorrhea
+C1260922,sosy,Abnormal breathing
+C1262148,sosy,Decreased grip strength
+C1274925,sosy,Skin-ache syndrome
+C1279511,sosy,Malarial pigment deposition
+C1282322,sosy,Acute pelvic pain
+C1291077,sosy,Abdominal bloating
+C1321587,sosy,Breathing abnormally deep
+C1377828,sosy,Paraneoplastic Opsoclonus Ataxia
+C1384493,sosy,Catarrh
+C1384666,sosy,hearing impairment
+C1397014,sosy,Imbalance
+C1443924,sosy,Severe diarrhea
+C1510410,sosy,Sense of smell altered
+C1510453,sosy,strain symptom
+C1517205,sosy,Flare
+C1535964,sosy,Cholestatic pruritus
+C2032741,sosy,painless Oral ulcers
+C2037193,sosy,Acute onset fever
+C2128963,sosy,formed Faeces
+C2129214,sosy,Loose stool
+C2220109,sosy,Neonatal stools
+C2242814,sosy,acute sore throat
+C2364135,sosy,Actual Discomfort
+C2732413,sosy,Postexertional fatigue
+C2921133,sosy,Fecal soiling
+C2936179,sosy,"Obesity, Visceral"
+C2936719,sosy,Mechanical Allodynia
+C2945698,sosy,panic symptoms
+C2957106,sosy,headache severe
+C2985306,sosy,Maternal Fever
+C3177142,sosy,Main presenting symptom
+C3258060,sosy,Primary sign and symptom
+C3494360,sosy,Prodromal Period
+C3494361,sosy,Prodromal Stage
+C3640017,sosy,Tearing Pain
+C3687364,sosy,Rear limb ataxia
+C3697716,sosy,Acute flaccid paralysis
+C3714552,sosy,Weakness
+C3887688,sosy,Glare - eye symptom
+C3890602,sosy,Bodily Pain
+C4287543,sosy,Intestinal dysbiosis
+C4317006,sosy,Arthritis Pain
+C4510110,sosy,Habitual snoring

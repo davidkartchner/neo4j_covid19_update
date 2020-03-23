@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009653,C0042210,USES,"Condoms, Male",Vaccines,medd,imft,1,USES_MEDDusesIMFT
+C0039142,C0021403,USES,Syringes,Influenza virus vaccine,medd,imft,1,USES_MEDDusesIMFT
+C0039142,C0042210,USES,Syringes,Vaccines,medd,imft,1,USES_MEDDusesIMFT
+C0175727,C0001551,USES,Stimulator,Immunologic Adjuvants,medd,imft,1,USES_MEDDusesIMFT
+C0179199,C0042210,USES,"Balance, device",Vaccines,medd,imft,1,USES_MEDDusesIMFT
+C0180504,C0042210,USES,Drapes (device),Vaccines,medd,imft,1,USES_MEDDusesIMFT
+C0184301,C0042210,USES,Vial device,Vaccines,medd,imft,4,USES_MEDDusesIMFT
+C0184301,C0376613,USES,Vial device,"Vaccines, DNA",medd,imft,2,USES_MEDDusesIMFT
+C0221093,C0037355,USES,Hypodermic Needles,Smallpox Vaccine,medd,imft,1,USES_MEDDusesIMFT
+C0794888,C0376613,USES,Injection device,"Vaccines, DNA",medd,imft,3,USES_MEDDusesIMFT
+C1314650,C0021403,USES,"SUPPLY, NOT OTHERWISE SPECIFIED",Influenza virus vaccine,medd,imft,3,USES_MEDDusesIMFT
+C1314650,C0042210,USES,"SUPPLY, NOT OTHERWISE SPECIFIED",Vaccines,medd,imft,37,USES_MEDDusesIMFT
+C1322644,C0037355,USES,"Bifurcated needle, device",Smallpox Vaccine,medd,imft,1,USES_MEDDusesIMFT
+C1608324,C0042210,USES,Vascular Access Ports,Vaccines,medd,imft,3,USES_MEDDusesIMFT
+C1618912,C0042210,USES,"TRANSFER DEVICE, ANY TYPE, EACH",Vaccines,medd,imft,1,USES_MEDDusesIMFT
+C1875815,C0086413,USES,SYRINGES/NEEDLES,HIV Vaccine,medd,imft,1,USES_MEDDusesIMFT
+C2363670,C0042210,USES,developers,Vaccines,medd,imft,22,USES_MEDDusesIMFT
+C2363670,C0086413,USES,developers,HIV Vaccine,medd,imft,1,USES_MEDDusesIMFT

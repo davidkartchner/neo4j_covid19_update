@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017262,C0243037,AFFECTS,Gene Expression,"Genes, cdc",genf,gngm,1,AFFECTS_GENFafctGNGM
+C0026882,C0017376,AFFECTS,Mutation,"Genes, Viral",genf,gngm,2,AFFECTS_GENFafctGNGM
+C0026882,C0042720,AFFECTS,Mutation,Viral Genome,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0026882,C0079941,AFFECTS,Mutation,Open Reading Frames,genf,gngm,3,AFFECTS_GENFafctGNGM
+C0026882,C0440471,AFFECTS,Mutation,Genetic Materials,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0034865,C0042720,AFFECTS,"Recombination, Genetic",Viral Genome,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0040624,C0017376,AFFECTS,"Trans-Activation, Genetic","Genes, Viral",genf,gngm,1,AFFECTS_GENFafctGNGM
+C0040649,C1332838,AFFECTS,"Transcription, Genetic",Candidate Disease Gene,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0079868,C0033713,AFFECTS,"Mutagenesis, Insertional",Proto-Oncogenes,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0079870,C0206414,AFFECTS,"Mutagenesis, Site-Directed","Genes, Reporter",genf,gngm,1,AFFECTS_GENFafctGNGM
+C0282572,C0017376,AFFECTS,"Frameshifting, Ribosomal","Genes, Viral",genf,gngm,2,AFFECTS_GENFafctGNGM
+C0282572,C0314604,AFFECTS,"Frameshifting, Ribosomal",Human gene,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0376452,C1413710,AFFECTS,DNA Methylation,CRHR2 gene,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0525038,C0017376,AFFECTS,Amino Acid Substitution,"Genes, Viral",genf,gngm,1,AFFECTS_GENFafctGNGM
+C0525038,C0079941,AFFECTS,Amino Acid Substitution,Open Reading Frames,genf,gngm,1,AFFECTS_GENFafctGNGM
+C0598510,C0017376,AFFECTS,gene terminator,"Genes, Viral",genf,gngm,1,AFFECTS_GENFafctGNGM
+C0678945,C0678933,AFFECTS,polygene,Genetic Loci,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1136031,C0033799,AFFECTS,RNA Interference,Pseudogenes,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1136031,C1257902,AFFECTS,RNA Interference,Jumping Genes,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1456459,C0282641,AFFECTS,Chromatin Modeling,Transgenes,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1512167,C0017376,AFFECTS,Ectopic Gene Expression,"Genes, Viral",genf,gngm,1,AFFECTS_GENFafctGNGM
+C1519323,C0042720,AFFECTS,Silent Mutation,Viral Genome,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1519323,C0079941,AFFECTS,Silent Mutation,Open Reading Frames,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1519613,C0079941,AFFECTS,Translation Initiation,Open Reading Frames,genf,gngm,1,AFFECTS_GENFafctGNGM
+C1956002,C0042720,AFFECTS,INDEL Mutation,Viral Genome,genf,gngm,1,AFFECTS_GENFafctGNGM
+C2610186,C0314604,AFFECTS,"nuclear mRNA cis splicing, via spliceosome",Human gene,genf,gngm,1,AFFECTS_GENFafctGNGM

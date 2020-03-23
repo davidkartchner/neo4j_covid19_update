@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006142,C0751623,PRECEDES,Malignant neoplasm of breast,Second Primary Cancers,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0023467,PRECEDES,Renal Cell Carcinoma,"Leukemia, Myelocytic, Acute",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0024299,PRECEDES,Renal Cell Carcinoma,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0007134,C0027651,PRECEDES,Renal Cell Carcinoma,Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0023467,C0026764,PRECEDES,"Leukemia, Myelocytic, Acute",Multiple Myeloma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0007134,PRECEDES,Lymphoma,Renal Cell Carcinoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0023467,PRECEDES,Lymphoma,"Leukemia, Myelocytic, Acute",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0024299,C0027651,PRECEDES,Lymphoma,Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0085669,C0024299,PRECEDES,Acute leukemia,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0242379,C0024623,PRECEDES,Malignant neoplasm of lung,Malignant neoplasm of stomach,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0280785,C0206716,PRECEDES,Diffuse Astrocytoma,Ganglioglioma,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0376358,C0085183,PRECEDES,Malignant neoplasm of prostate,"Neoplasms, Second Primary",neop,neop,1,PRECEDES_NEOPprcdNEOP
+C0376545,C0006826,PRECEDES,Hematologic Neoplasms,Malignant Neoplasms,neop,neop,1,PRECEDES_NEOPprcdNEOP
+C3463824,C0024299,PRECEDES,MYELODYSPLASTIC SYNDROME,Lymphoma,neop,neop,1,PRECEDES_NEOPprcdNEOP

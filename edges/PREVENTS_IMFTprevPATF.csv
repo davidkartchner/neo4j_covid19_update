@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0162633,PREVENTS,Immunologic Adjuvants,Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C0001551,C1155266,PREVENTS,Immunologic Adjuvants,inflammatory response,imft,patf,1,PREVENTS_IMFTprevPATF
+C0021403,C3714514,PREVENTS,Influenza virus vaccine,Infection,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C0020517,PREVENTS,Vaccines,Hypersensitivity,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0162633,PREVENTS,Vaccines,Viral Shedding,imft,patf,8,PREVENTS_IMFTprevPATF
+C0042210,C0242781,PREVENTS,Vaccines,disease transmission,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042210,C0243083,PREVENTS,Vaccines,associated disease,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C0848898,PREVENTS,Vaccines,Neonatal morbidity,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042210,C3714514,PREVENTS,Vaccines,Infection,imft,patf,30,PREVENTS_IMFTprevPATF
+C0042211,C0162633,PREVENTS,"Vaccines, Attenuated",Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C0042212,C0162633,PREVENTS,"Vaccines, Inactivated",Viral Shedding,imft,patf,2,PREVENTS_IMFTprevPATF
+C0042212,C3714514,PREVENTS,"Vaccines, Inactivated",Infection,imft,patf,2,PREVENTS_IMFTprevPATF
+C0086413,C3714514,PREVENTS,HIV Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0206515,C0243083,PREVENTS,"Vaccines, Conjugate",associated disease,imft,patf,1,PREVENTS_IMFTprevPATF
+C0368675,C1520005,PREVENTS,antibody antigen,Viral Pathogenesis,imft,patf,1,PREVENTS_IMFTprevPATF
+C0376613,C0242656,PREVENTS,"Vaccines, DNA",Disease Progression,imft,patf,1,PREVENTS_IMFTprevPATF
+C0376613,C3714514,PREVENTS,"Vaccines, DNA",Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C0887892,C0162633,PREVENTS,"Vaccines, Subunit",Viral Shedding,imft,patf,1,PREVENTS_IMFTprevPATF
+C3272757,C3714514,PREVENTS,Live Attenuated Influenza Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C3273243,C3714514,PREVENTS,Polysaccharide Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF
+C4505396,C3714514,PREVENTS,High-Dose Trivalent Influenza Vaccine,Infection,imft,patf,1,PREVENTS_IMFTprevPATF

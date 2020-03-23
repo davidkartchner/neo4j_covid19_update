@@ -1,0 +1,958 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001280,C0005953,PART_OF,Armed macrophage,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0001280,C0006104,PART_OF,Armed macrophage,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0001280,C0024204,PART_OF,Armed macrophage,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0001280,C0031153,PART_OF,Armed macrophage,Peritoneum,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0001280,C0037993,PART_OF,Armed macrophage,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0001280,C1440080,PART_OF,Armed macrophage,Alveolar,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0003154,C0037925,PART_OF,Anterior Horn Cells,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0003273,C0029939,PART_OF,Antibody-Producing Cells,Ovary,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0003273,C0037993,PART_OF,Antibody-Producing Cells,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0003315,C0021853,PART_OF,Antigen-Presenting Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0003315,C0024109,PART_OF,Antigen-Presenting Cells,Lung,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0003315,C0040113,PART_OF,Antigen-Presenting Cells,Thymus Gland,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C0003315,C0933845,PART_OF,Antigen-Presenting Cells,Parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004112,C0001613,PART_OF,Astrocytes,Adrenal Cortex,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0004112,C0005854,PART_OF,Astrocytes,Blood - brain barrier anatomy,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0004112,C0006104,PART_OF,Astrocytes,Brain,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0004112,C0007765,PART_OF,Astrocytes,Cerebellum,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0004112,C0007776,PART_OF,Astrocytes,Cerebral cortex,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004112,C0016733,PART_OF,Astrocytes,frontal lobe,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004112,C0019564,PART_OF,Astrocytes,Hippocampus (Brain),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004112,C0025462,PART_OF,Astrocytes,Midbrain structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004112,C0037925,PART_OF,Astrocytes,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0004112,C0933845,PART_OF,Astrocytes,Parenchyma,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0004112,C1882598,PART_OF,Astrocytes,Rat Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004561,C0006104,PART_OF,B-Lymphocytes,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0004561,C0023884,PART_OF,B-Lymphocytes,Liver,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0004561,C0024109,PART_OF,B-Lymphocytes,Lung,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0004561,C0024204,PART_OF,B-Lymphocytes,lymph nodes,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0004561,C0028429,PART_OF,B-Lymphocytes,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004561,C0037993,PART_OF,B-Lymphocytes,Spleen,cell,bpoc,24,PART_OF_CELLprtfBPOC
+C0004561,C0040421,PART_OF,B-Lymphocytes,Palatine Tonsil,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0004561,C0178784,PART_OF,B-Lymphocytes,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004561,C0836921,PART_OF,B-Lymphocytes,Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0004561,C3658298,PART_OF,B-Lymphocytes,External Lateral Ligament,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0005773,C0006141,PART_OF,Blood Cells,Breast,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0005773,C0022646,PART_OF,Blood Cells,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0005773,C1184743,PART_OF,Blood Cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C0006104,PART_OF,Cultured Cell Line,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C0006141,PART_OF,Cultured Cell Line,Breast,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C0010031,PART_OF,Cultured Cell Line,Cornea,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0007600,C0022646,PART_OF,Cultured Cell Line,Kidney,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0007600,C0022677,PART_OF,Cultured Cell Line,"Kidney Tubules, Proximal",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C0024109,PART_OF,Cultured Cell Line,Lung,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C0007600,C0030274,PART_OF,Cultured Cell Line,Pancreas,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0007600,C0033572,PART_OF,Cultured Cell Line,Prostate,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0007600,C0037993,PART_OF,Cultured Cell Line,Spleen,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0007600,C0038351,PART_OF,Cultured Cell Line,Stomach,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C0042232,PART_OF,Cultured Cell Line,Vagina,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0007600,C0205039,PART_OF,Cultured Cell Line,Bronchial,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0007600,C0227829,PART_OF,Cultured Cell Line,Exocervix,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0007600,C0694666,PART_OF,Cultured Cell Line,Right deltoid,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007600,C1184743,PART_OF,Cultured Cell Line,bony process,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0007600,C1882714,PART_OF,Cultured Cell Line,Rat Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0007601,C0021853,PART_OF,"Cell Line, Transformed",Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0009013,C0022646,PART_OF,Clone Cells,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0009013,C0024109,PART_OF,Clone Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0009013,C0029939,PART_OF,Clone Cells,Ovary,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0009013,C0039452,PART_OF,Clone Cells,Telencephalon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0005847,PART_OF,Dendritic Cells,Blood Vessel,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0011306,C0021853,PART_OF,Dendritic Cells,Intestines,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C0011306,C0024109,PART_OF,Dendritic Cells,Lung,cell,bpoc,21,PART_OF_CELLprtfBPOC
+C0011306,C0031272,PART_OF,Dendritic Cells,Structure of aggregated lymphoid follicle of small intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0037993,PART_OF,Dendritic Cells,Spleen,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0011306,C0040113,PART_OF,Dendritic Cells,Thymus Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0040578,PART_OF,Dendritic Cells,Trachea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0221971,PART_OF,Dendritic Cells,Hair follicle structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0262304,PART_OF,Dendritic Cells,pars postrema of the ventral lateral nucleus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0458578,PART_OF,Dendritic Cells,Upper respiratory tract,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0011306,C0819757,PART_OF,Dendritic Cells,Structure of parenchyma of lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014467,C0005847,PART_OF,eosinophil,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014467,C0021853,PART_OF,eosinophil,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014467,C0024109,PART_OF,eosinophil,Lung,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0014467,C0028429,PART_OF,eosinophil,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014467,C0042149,PART_OF,eosinophil,Uterus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0001613,PART_OF,Epithelial Cells,Adrenal Cortex,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0001629,PART_OF,Epithelial Cells,Adrenal Medulla,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0005400,PART_OF,Epithelial Cells,Bile duct structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0005401,PART_OF,Epithelial Cells,Intrahepatic bile duct,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0005682,PART_OF,Epithelial Cells,Urinary Bladder,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0005847,PART_OF,Epithelial Cells,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0005854,PART_OF,Epithelial Cells,Blood - brain barrier anatomy,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0006104,PART_OF,Epithelial Cells,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0006141,PART_OF,Epithelial Cells,Breast,cell,bpoc,40,PART_OF_CELLprtfBPOC
+C0014597,C0006255,PART_OF,Epithelial Cells,Bronchi,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0014597,C0006270,PART_OF,Epithelial Cells,Bronchioles,cell,bpoc,59,PART_OF_CELLprtfBPOC
+C0014597,C0007531,PART_OF,Epithelial Cells,Cecum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0008524,PART_OF,Epithelial Cells,Structure of choroid plexus,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C0014597,C0009368,PART_OF,Epithelial Cells,Colon structure (body structure),cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0014597,C0009758,PART_OF,Epithelial Cells,conjunctiva,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0014597,C0010031,PART_OF,Epithelial Cells,Cornea,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0014180,PART_OF,Epithelial Cells,Endometrium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0014533,PART_OF,Epithelial Cells,Epididymis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0014876,PART_OF,Epithelial Cells,Esophagus,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0015392,PART_OF,Epithelial Cells,Eye,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0015426,PART_OF,Epithelial Cells,Eyelid structure,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0015560,PART_OF,Epithelial Cells,Fallopian Tubes,cell,bpoc,33,PART_OF_CELLprtfBPOC
+C0014597,C0016976,PART_OF,Epithelial Cells,Gallbladder,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0017420,PART_OF,Epithelial Cells,Genitalia,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0017421,PART_OF,Epithelial Cells,Female genitalia,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0017562,PART_OF,Epithelial Cells,Gingiva,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C0018827,PART_OF,Epithelial Cells,Heart Ventricle,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0020885,PART_OF,Epithelial Cells,ileum,cell,bpoc,27,PART_OF_CELLprtfBPOC
+C0014597,C0021851,PART_OF,Epithelial Cells,Large Intestine,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C0021852,PART_OF,Epithelial Cells,"Intestines, Small",cell,bpoc,48,PART_OF_CELLprtfBPOC
+C0014597,C0021853,PART_OF,Epithelial Cells,Intestines,cell,bpoc,399,PART_OF_CELLprtfBPOC
+C0014597,C0022378,PART_OF,Epithelial Cells,Jejunum,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C0022646,PART_OF,Epithelial Cells,Kidney,cell,bpoc,30,PART_OF_CELLprtfBPOC
+C0014597,C0022674,PART_OF,Epithelial Cells,Renal tubule structure,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0014597,C0022677,PART_OF,Epithelial Cells,"Kidney Tubules, Proximal",cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0022889,PART_OF,Epithelial Cells,Labyrinth,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0022907,PART_OF,Epithelial Cells,Lacrimal gland structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0023078,PART_OF,Epithelial Cells,Larynx,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0023884,PART_OF,Epithelial Cells,Liver,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0024109,PART_OF,Epithelial Cells,Lung,cell,bpoc,282,PART_OF_CELLprtfBPOC
+C0014597,C0024204,PART_OF,Epithelial Cells,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0026639,PART_OF,Epithelial Cells,Oral mucous membrane structure,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C0027442,PART_OF,Epithelial Cells,Nasopharynx,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0014597,C0028058,PART_OF,Epithelial Cells,Nictitating Membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0028429,PART_OF,Epithelial Cells,Nose,cell,bpoc,75,PART_OF_CELLprtfBPOC
+C0014597,C0030274,PART_OF,Epithelial Cells,Pancreas,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0030288,PART_OF,Epithelial Cells,Pancreatic duct,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0030580,PART_OF,Epithelial Cells,Parotid Gland,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0033572,PART_OF,Epithelial Cells,Prostate,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0014597,C0035298,PART_OF,Epithelial Cells,Retina,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0036098,PART_OF,Epithelial Cells,Salivary Glands,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0036505,PART_OF,Epithelial Cells,Sebaceous Glands,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0038351,PART_OF,Epithelial Cells,Stomach,cell,bpoc,30,PART_OF_CELLprtfBPOC
+C0014597,C0038445,PART_OF,Epithelial Cells,Stria Vascularis,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0040408,PART_OF,Epithelial Cells,Tongue,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0014597,C0040421,PART_OF,Epithelial Cells,Palatine Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0040578,PART_OF,Epithelial Cells,Trachea,cell,bpoc,98,PART_OF_CELLprtfBPOC
+C0014597,C0042027,PART_OF,Epithelial Cells,Urinary tract,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0042149,PART_OF,Epithelial Cells,Uterus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0042160,PART_OF,Epithelial Cells,Uvea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0175325,PART_OF,Epithelial Cells,Structure of infundibular stem of neurohypophysis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0178784,PART_OF,Epithelial Cells,Organ,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C0205039,PART_OF,Epithelial Cells,Bronchial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0206187,PART_OF,Epithelial Cells,"Bile Ducts, Extrahepatic",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0225584,PART_OF,Epithelial Cells,Tracheal mucous membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0225602,PART_OF,Epithelial Cells,Bronchial mucous gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0227198,PART_OF,Epithelial Cells,Non-glandular stomach,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0227266,PART_OF,Epithelial Cells,Intestinal Villus,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0014597,C0227374,PART_OF,Epithelial Cells,Ansa spiralis of colon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0227523,PART_OF,Epithelial Cells,Structure of hepatic sinusoid,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0227837,PART_OF,Epithelial Cells,Endocervix,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C0229480,PART_OF,Epithelial Cells,Vestibular membrane,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0014597,C0231053,PART_OF,Epithelial Cells,Hindgut,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0282582,PART_OF,Epithelial Cells,Salivary duct structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0458578,PART_OF,Epithelial Cells,Upper respiratory tract,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C0014597,C0458827,PART_OF,Epithelial Cells,Airway structure,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0014597,C0524448,PART_OF,Epithelial Cells,Glomerular capsule structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0545747,PART_OF,Epithelial Cells,pulmonary artery and pulmonary artery,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0687028,PART_OF,Epithelial Cells,Duct (organ) structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0700374,PART_OF,Epithelial Cells,Palate,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0014597,C0736268,PART_OF,Epithelial Cells,Liver parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0796494,PART_OF,Epithelial Cells,lobe,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C0836921,PART_OF,Epithelial Cells,Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1184808,PART_OF,Epithelial Cells,Plexus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1185580,PART_OF,Epithelial Cells,Set of lobar and segmental bronchi,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1266928,PART_OF,Epithelial Cells,Nasal turbinate bone structure,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0014597,C1268998,PART_OF,Epithelial Cells,Entire small intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1285092,PART_OF,Epithelial Cells,Gland,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0014597,C1508661,PART_OF,Epithelial Cells,Pulmonary vessels,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1515933,PART_OF,Epithelial Cells,Alveolus,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0014597,C1519988,PART_OF,Epithelial Cells,Villus,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C0014597,C1550227,PART_OF,Epithelial Cells,Body Parts - Canal,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0014597,C1880192,PART_OF,Epithelial Cells,Crypt,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0014597,C1882727,PART_OF,Epithelial Cells,Rat Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0014597,C1882857,PART_OF,Epithelial Cells,Rat Small Intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0015161,C0021853,PART_OF,Eukaryotic Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0015161,C0037949,PART_OF,Eukaryotic Cells,Vertebral column,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0016030,C0008524,PART_OF,Fibroblasts,Structure of choroid plexus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0009758,PART_OF,Fibroblasts,conjunctiva,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0010031,PART_OF,Fibroblasts,Cornea,cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0016030,C0017562,PART_OF,Fibroblasts,Gingiva,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0016030,C0018787,PART_OF,Fibroblasts,Heart,cell,bpoc,21,PART_OF_CELLprtfBPOC
+C0016030,C0022646,PART_OF,Fibroblasts,Kidney,cell,bpoc,14,PART_OF_CELLprtfBPOC
+C0016030,C0024109,PART_OF,Fibroblasts,Lung,cell,bpoc,76,PART_OF_CELLprtfBPOC
+C0016030,C0028429,PART_OF,Fibroblasts,Nose,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0016030,C0031093,PART_OF,Fibroblasts,Periodontal Ligament,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0039259,PART_OF,Fibroblasts,Tail,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C0016030,C0042149,PART_OF,Fibroblasts,Uterus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0205039,PART_OF,Fibroblasts,Bronchial,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0016030,C0229889,PART_OF,Fibroblasts,Lymphatic vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0836921,PART_OF,Fibroblasts,Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C0927195,PART_OF,Fibroblasts,Stroma,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0016030,C1184207,PART_OF,Fibroblasts,Wall of bronchiole,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0016030,C1550315,PART_OF,Fibroblasts,Synovial,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0016030,C1882687,PART_OF,Fibroblasts,Rat Heart,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016030,C1882714,PART_OF,Fibroblasts,Rat Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0016390,C1440080,PART_OF,Foam Cells,Alveolar,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0017471,C0035322,PART_OF,Germ Cells,Structure of retinal pigment epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0017471,C1184743,PART_OF,Germ Cells,bony process,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0017527,C1515933,PART_OF,"Giant Cells, Foreign-Body",Alveolus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018183,C0005953,PART_OF,granulocyte,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018183,C0037993,PART_OF,granulocyte,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018207,C1512279,PART_OF,granulosa cell,Growing Follicle,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018496,C0022889,PART_OF,Auditory Hair Cell,Labyrinth,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018496,C0178784,PART_OF,Auditory Hair Cell,Organ,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0018956,C0005953,PART_OF,Hematopoietic stem cells,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018956,C0024109,PART_OF,Hematopoietic stem cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0018956,C1184743,PART_OF,Hematopoietic stem cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0019612,C0024109,PART_OF,Histiocytes,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0019612,C0178784,PART_OF,Histiocytes,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0019612,C1440080,PART_OF,Histiocytes,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0020204,C0037993,PART_OF,Hybridomas,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0021792,C0035298,PART_OF,Interneurons,Retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0021792,C0175405,PART_OF,Interneurons,Ventral Tegmental Area,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022567,C0014876,PART_OF,keratinocyte,Esophagus,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0022567,C0028429,PART_OF,keratinocyte,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022567,C0040421,PART_OF,keratinocyte,Palatine Tonsil,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0022567,C0042232,PART_OF,keratinocyte,Vagina,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0022567,C0221971,PART_OF,keratinocyte,Hair follicle structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022567,C0836921,PART_OF,keratinocyte,Tonsil,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0022688,C0011106,PART_OF,Natural Killer Cells,Decidua,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022688,C0023884,PART_OF,Natural Killer Cells,Liver,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0022688,C0024109,PART_OF,Natural Killer Cells,Lung,cell,bpoc,10,PART_OF_CELLprtfBPOC
+C0022688,C0028429,PART_OF,Natural Killer Cells,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022688,C0031153,PART_OF,Natural Killer Cells,Peritoneum,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0022688,C0037993,PART_OF,Natural Killer Cells,Spleen,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0022688,C0042149,PART_OF,Natural Killer Cells,Uterus,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C0022688,C0423866,PART_OF,Natural Killer Cells,Lanugo,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0022801,C0023884,PART_OF,Hepatic macrophage,Liver,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0023516,C0005953,PART_OF,Leukocytes,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0006104,PART_OF,Leukocytes,Brain,cell,bpoc,20,PART_OF_CELLprtfBPOC
+C0023516,C0011106,PART_OF,Leukocytes,Decidua,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0023516,C0015392,PART_OF,Leukocytes,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0020885,PART_OF,Leukocytes,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0022646,PART_OF,Leukocytes,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0023884,PART_OF,Leukocytes,Liver,cell,bpoc,20,PART_OF_CELLprtfBPOC
+C0023516,C0024109,PART_OF,Leukocytes,Lung,cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0023516,C0024204,PART_OF,Leukocytes,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0025285,PART_OF,Leukocytes,Meninges,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0023516,C0031153,PART_OF,Leukocytes,Peritoneum,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0023516,C0037925,PART_OF,Leukocytes,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0023516,C0037993,PART_OF,Leukocytes,Spleen,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0023516,C0819757,PART_OF,Leukocytes,Structure of parenchyma of lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0023516,C0927195,PART_OF,Leukocytes,Stroma,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0023516,C3178921,PART_OF,Leukocytes,Head Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0005847,PART_OF,Lymphocyte,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0006104,PART_OF,Lymphocyte,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024264,C0009368,PART_OF,Lymphocyte,Colon structure (body structure),cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0024264,C0009758,PART_OF,Lymphocyte,conjunctiva,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0020885,PART_OF,Lymphocyte,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0021853,PART_OF,Lymphocyte,Intestines,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024264,C0023884,PART_OF,Lymphocyte,Liver,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024264,C0024109,PART_OF,Lymphocyte,Lung,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0024264,C0024204,PART_OF,Lymphocyte,lymph nodes,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024264,C0025285,PART_OF,Lymphocyte,Meninges,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0028429,PART_OF,Lymphocyte,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0031153,PART_OF,Lymphocyte,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0037993,PART_OF,Lymphocyte,Spleen,cell,bpoc,61,PART_OF_CELLprtfBPOC
+C0024264,C0040421,PART_OF,Lymphocyte,Palatine Tonsil,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0024264,C0229686,PART_OF,Lymphocyte,Malpighian corpuscles,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0819757,PART_OF,Lymphocyte,Structure of parenchyma of lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C0933845,PART_OF,Lymphocyte,Parenchyma,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024264,C1440080,PART_OF,Lymphocyte,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024264,C3275276,PART_OF,Lymphocyte,Bronchial lymph node,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024265,C0035322,PART_OF,Null cell,Structure of retinal pigment epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0001629,PART_OF,macrophage,Adrenal Medulla,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0005847,PART_OF,macrophage,Blood Vessel,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0024432,C0005953,PART_OF,macrophage,Bone Marrow,cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0024432,C0006104,PART_OF,macrophage,Brain,cell,bpoc,16,PART_OF_CELLprtfBPOC
+C0024432,C0008524,PART_OF,macrophage,Structure of choroid plexus,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0011106,PART_OF,macrophage,Decidua,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0013303,PART_OF,macrophage,Duodenum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0015392,PART_OF,macrophage,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0021851,PART_OF,macrophage,Large Intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0021853,PART_OF,macrophage,Intestines,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0024432,C0022646,PART_OF,macrophage,Kidney,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024432,C0023884,PART_OF,macrophage,Liver,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0024432,C0024109,PART_OF,macrophage,Lung,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0024432,C0024204,PART_OF,macrophage,lymph nodes,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024432,C0024631,PART_OF,macrophage,Malleus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0035298,PART_OF,macrophage,Retina,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0037993,PART_OF,macrophage,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0040421,PART_OF,macrophage,Palatine Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0040578,PART_OF,macrophage,Trachea,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024432,C0041445,PART_OF,macrophage,Tympanic membrane structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0041967,PART_OF,macrophage,Urethra,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0178784,PART_OF,macrophage,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0227784,PART_OF,macrophage,Vaginal mucous membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0229687,PART_OF,macrophage,Splenic Red Pulp,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024432,C0229702,PART_OF,macrophage,Structure of lymphatic cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0229749,PART_OF,macrophage,Structure of intrapulmonary lymph node,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0458827,PART_OF,macrophage,Airway structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0819757,PART_OF,macrophage,Structure of parenchyma of lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C0933845,PART_OF,macrophage,Parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C0935397,PART_OF,macrophage,Neuroepithelium,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024432,C1180764,PART_OF,macrophage,Terminal bronchus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C1515933,PART_OF,macrophage,Alveolus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C1519988,PART_OF,macrophage,Villus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C1550270,PART_OF,macrophage,Knee Fluid,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0024432,C1550315,PART_OF,macrophage,Synovial,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0024880,C0006270,PART_OF,mast cell,Bronchioles,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024880,C0024109,PART_OF,mast cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0024880,C0031153,PART_OF,mast cell,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0025166,C0005953,PART_OF,Megakaryocytes,Bone Marrow,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0025201,C0015392,PART_OF,melanocyte,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0025201,C0042160,PART_OF,melanocyte,Uvea,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0026473,C0005953,PART_OF,Monocytes,Bone Marrow,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0026473,C0006104,PART_OF,Monocytes,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0026473,C0023884,PART_OF,Monocytes,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026473,C0024109,PART_OF,Monocytes,Lung,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0026473,C0024204,PART_OF,Monocytes,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026473,C0031153,PART_OF,Monocytes,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026473,C1440080,PART_OF,Monocytes,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026609,C0006104,PART_OF,Motor Neurons,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026609,C0037925,PART_OF,Motor Neurons,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0026609,C0459525,PART_OF,Motor Neurons,Abdominal ganglion,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0026609,C3853029,PART_OF,Motor Neurons,Lumbar Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027836,C0001613,PART_OF,Neuroglia,Adrenal Cortex,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027836,C0006104,PART_OF,Neuroglia,Brain,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0027836,C0007776,PART_OF,Neuroglia,Cerebral cortex,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027836,C0009195,PART_OF,Neuroglia,Cochlear structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027836,C0035298,PART_OF,Neuroglia,Retina,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027836,C0037925,PART_OF,Neuroglia,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027836,C0040421,PART_OF,Neuroglia,Palatine Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0001613,PART_OF,Neurons,Adrenal Cortex,cell,bpoc,123,PART_OF_CELLprtfBPOC
+C0027882,C0002708,PART_OF,Neurons,Amygdaloid structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0006104,PART_OF,Neurons,Brain,cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0027882,C0006121,PART_OF,Neurons,Brain Stem,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027882,C0007765,PART_OF,Neurons,Cerebellum,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0027882,C0007776,PART_OF,Neurons,Cerebral cortex,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0027882,C0016733,PART_OF,Neurons,frontal lobe,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027882,C0017067,PART_OF,Neurons,Ganglia,cell,bpoc,14,PART_OF_CELLprtfBPOC
+C0027882,C0017070,PART_OF,Neurons,"Ganglia, Spinal",cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0027882,C0017651,PART_OF,Neurons,Globus Pallidus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0019564,PART_OF,Neurons,Hippocampus (Brain),cell,bpoc,39,PART_OF_CELLprtfBPOC
+C0027882,C0020885,PART_OF,Neurons,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0023884,PART_OF,Neurons,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0024109,PART_OF,Neurons,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0025148,PART_OF,Neurons,Medulla Oblongata,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0027882,C0025462,PART_OF,Neurons,Midbrain structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0027028,PART_OF,Neurons,Myenteric Plexus,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0027882,C0028936,PART_OF,Neurons,Structure of olfactory bulb,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0030532,PART_OF,Neurons,Structure of paraventricular nucleus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0032639,PART_OF,Neurons,Pontine structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0037925,PART_OF,Neurons,Spinal Cord,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C0027882,C0039452,PART_OF,Neurons,Telencephalon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0040995,PART_OF,Neurons,Structure of trigeminal ganglion,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027882,C0085140,PART_OF,Neurons,Prosencephalon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0162512,PART_OF,Neurons,Neostriatum,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027882,C0175405,PART_OF,Neurons,Ventral Tegmental Area,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0175518,PART_OF,Neurons,Nucleus solitarius,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0175850,PART_OF,Neurons,Cerebral ganglion,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0178784,PART_OF,Neurons,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0206429,PART_OF,Neurons,"Ganglia, Sensory",cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027882,C0229063,PART_OF,Neurons,Structure of submaxillary ganglion,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0457846,PART_OF,Neurons,Cervical segment of spinal cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027882,C0459525,PART_OF,Neurons,Abdominal ganglion,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027882,C0489802,PART_OF,Neurons,Capillary Beds,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0501399,PART_OF,Neurons,Enteric ganglion,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0934502,PART_OF,Neurons,anatomical layer,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027882,C0949650,PART_OF,Neurons,Mushroom Bodies,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0027883,C0009195,PART_OF,Afferent neuron,Cochlear structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027883,C0024109,PART_OF,Afferent neuron,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027883,C0035298,PART_OF,Afferent neuron,Retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027883,C0043189,PART_OF,Afferent neuron,Wing,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027883,C0228575,PART_OF,Afferent neuron,Structure of posterior gray horn of spinal cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0005847,PART_OF,neutrophil,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0005953,PART_OF,neutrophil,Bone Marrow,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0027950,C0006901,PART_OF,neutrophil,Blood capillaries,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0010031,PART_OF,neutrophil,Cornea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0016976,PART_OF,neutrophil,Gallbladder,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0021853,PART_OF,neutrophil,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0022646,PART_OF,neutrophil,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0023884,PART_OF,neutrophil,Liver,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0027950,C0024109,PART_OF,neutrophil,Lung,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0027950,C0024204,PART_OF,neutrophil,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0028429,PART_OF,neutrophil,Nose,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027950,C0037993,PART_OF,neutrophil,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0178784,PART_OF,neutrophil,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C0458827,PART_OF,neutrophil,Airway structure,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027950,C0933845,PART_OF,neutrophil,Parenchyma,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0027950,C0934502,PART_OF,neutrophil,anatomical layer,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C1440080,PART_OF,neutrophil,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0027950,C1550315,PART_OF,neutrophil,Synovial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0028944,C0016733,PART_OF,Oligodendroglia,frontal lobe,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0028944,C0037925,PART_OF,Oligodendroglia,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0029045,C0221971,PART_OF,Oocytes,Hair follicle structure,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0029418,C0005953,PART_OF,Osteoblasts,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0029418,C0205950,PART_OF,Osteoblasts,Calvaria,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0029418,C0262950,PART_OF,Osteoblasts,Skeletal bone,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0029431,C0005953,PART_OF,Osteoclasts,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0029432,C1299725,PART_OF,Osteocytes,Tympanic bulla,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0029974,C0024109,PART_OF,Ovum,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0029974,C0227192,PART_OF,Ovum,Inferior esophageal sphincter structure,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0030559,C0005847,PART_OF,"Parietal Cells, Gastric",Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0031307,C0005847,PART_OF,Phagocytes,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0031307,C0024109,PART_OF,Phagocytes,Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0031307,C0227130,PART_OF,Phagocytes,Tooth Socket,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0031307,C1440080,PART_OF,Phagocytes,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0031760,C0035298,PART_OF,Photoreceptors,Retina,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0032112,C0005953,PART_OF,Plasma Cells,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0032112,C0933845,PART_OF,Plasma Cells,Parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0034143,C0007765,PART_OF,Purkinje Cells,Cerebellum,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0035316,C0228686,PART_OF,Retinal Ganglion Cells,Oculomotor nucleus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0036387,C0015392,PART_OF,Schwann Cells,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0036770,C0039597,PART_OF,Structure of sertoli cell,Testis,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0037866,C0039597,PART_OF,Spermatogonia,Testis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0037868,C0014533,PART_OF,sperm cell,Epididymis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0037868,C0227813,PART_OF,sperm cell,Body of uterus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0037868,C0228024,PART_OF,sperm cell,Structure of tail of epididymis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0038250,C0005847,PART_OF,Stem cells,Blood Vessel,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0038250,C0019564,PART_OF,Stem cells,Hippocampus (Brain),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0038250,C0021852,PART_OF,Stem cells,"Intestines, Small",cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0038250,C0021853,PART_OF,Stem cells,Intestines,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0038250,C0024109,PART_OF,Stem cells,Lung,cell,bpoc,17,PART_OF_CELLprtfBPOC
+C0038250,C0030274,PART_OF,Stem cells,Pancreas,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0038250,C0037993,PART_OF,Stem cells,Spleen,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0038250,C0458827,PART_OF,Stem cells,Airway structure,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0038250,C0545674,PART_OF,Stem cells,broncho-alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0038250,C1184743,PART_OF,Stem cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0038250,C1880192,PART_OF,Stem cells,Crypt,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0039194,C0006104,PART_OF,T-Lymphocyte,Brain,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0039194,C0009368,PART_OF,T-Lymphocyte,Colon structure (body structure),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039194,C0019564,PART_OF,T-Lymphocyte,Hippocampus (Brain),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039194,C0021853,PART_OF,T-Lymphocyte,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039194,C0023884,PART_OF,T-Lymphocyte,Liver,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0039194,C0024109,PART_OF,T-Lymphocyte,Lung,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0039194,C0024204,PART_OF,T-Lymphocyte,lymph nodes,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0039194,C0037993,PART_OF,T-Lymphocyte,Spleen,cell,bpoc,41,PART_OF_CELLprtfBPOC
+C0039194,C0221971,PART_OF,T-Lymphocyte,Hair follicle structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0039194,C0729596,PART_OF,T-Lymphocyte,Inguinal lymph node group,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039195,C0023884,PART_OF,Cytotoxic T-Lymphocytes,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039195,C0024109,PART_OF,Cytotoxic T-Lymphocytes,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039195,C0037993,PART_OF,Cytotoxic T-Lymphocytes,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039195,C0178784,PART_OF,Cytotoxic T-Lymphocytes,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039198,C0006104,PART_OF,Regulatory T-Lymphocytes,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039198,C0024109,PART_OF,Regulatory T-Lymphocytes,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039198,C0037993,PART_OF,Regulatory T-Lymphocytes,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039215,C0024109,PART_OF,CD4 Positive T Lymphocytes,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0039215,C0031272,PART_OF,CD4 Positive T Lymphocytes,Structure of aggregated lymphoid follicle of small intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0039215,C0227829,PART_OF,CD4 Positive T Lymphocytes,Exocervix,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0042542,C0022646,PART_OF,Vero Cells,Kidney,cell,bpoc,14,PART_OF_CELLprtfBPOC
+C0079722,C0042232,PART_OF,"Lymphocytes, Tumor-Infiltrating",Vagina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085080,C0029939,PART_OF,Chinese Hamster Ovary Cell,Ovary,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C0006255,PART_OF,"Macrophages, Alveolar",Bronchi,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C0006270,PART_OF,"Macrophages, Alveolar",Bronchioles,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C0007776,PART_OF,"Macrophages, Alveolar",Cerebral cortex,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C0024109,PART_OF,"Macrophages, Alveolar",Lung,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C0085236,C1185580,PART_OF,"Macrophages, Alveolar",Set of lobar and segmental bronchi,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C1285092,PART_OF,"Macrophages, Alveolar",Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085236,C1440080,PART_OF,"Macrophages, Alveolar",Alveolar,cell,bpoc,73,PART_OF_CELLprtfBPOC
+C0085983,C0006104,PART_OF,"Cell Line, Tumor",Brain,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0085983,C0006141,PART_OF,"Cell Line, Tumor",Breast,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0085983,C0024109,PART_OF,"Cell Line, Tumor",Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085983,C0033572,PART_OF,"Cell Line, Tumor",Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0085983,C0205065,PART_OF,"Cell Line, Tumor",ovarian,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0086574,C0003847,PART_OF,Lymphoid Cells,Structure of arteriole,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0086574,C0021853,PART_OF,Lymphoid Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0086574,C0024109,PART_OF,Lymphoid Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0162597,C0010031,PART_OF,Stromal Cells,Cornea,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0162597,C0011106,PART_OF,Stromal Cells,Decidua,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0162597,C0024109,PART_OF,Stromal Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0162597,C0024204,PART_OF,Stromal Cells,lymph nodes,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0162597,C0025285,PART_OF,Stromal Cells,Meninges,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0162597,C0037993,PART_OF,Stromal Cells,Spleen,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0162597,C0376152,PART_OF,Stromal Cells,Marrow,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0178708,C0021853,PART_OF,immortalized cell,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0178708,C0022646,PART_OF,immortalized cell,Kidney,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0178708,C0024109,PART_OF,immortalized cell,Lung,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0178708,C3714556,PART_OF,immortalized cell,Papilla,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0206116,C0001613,PART_OF,Microglia,Adrenal Cortex,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0206116,C0006104,PART_OF,Microglia,Brain,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C0206116,C0016733,PART_OF,Microglia,frontal lobe,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0206116,C0019564,PART_OF,Microglia,Hippocampus (Brain),cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0206116,C0035298,PART_OF,Microglia,Retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0206116,C0037925,PART_OF,Microglia,Spinal Cord,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0206116,C0933845,PART_OF,Microglia,Parenchyma,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0206131,C0005953,PART_OF,Adipocytes,Bone Marrow,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0206131,C1184743,PART_OF,Adipocytes,bony process,cell,bpoc,18,PART_OF_CELLprtfBPOC
+C0206428,C0028429,PART_OF,Retinal Cone,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0206441,C0001613,PART_OF,Pyramidal Cells,Adrenal Cortex,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0206441,C0019564,PART_OF,Pyramidal Cells,Hippocampus (Brain),cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0206513,C0178784,PART_OF,Type 2 vestibular sensory cell,Organ,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0221284,C0022646,PART_OF,Leptocyte,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221284,C0037993,PART_OF,Leptocyte,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221284,C0458827,PART_OF,Leptocyte,Airway structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221910,C0014876,PART_OF,Squamous Epithelial Cells,Esophagus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221910,C0034051,PART_OF,Squamous Epithelial Cells,Pulmonary alveolar structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221910,C0040408,PART_OF,Squamous Epithelial Cells,Tongue,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221910,C0524448,PART_OF,Squamous Epithelial Cells,Glomerular capsule structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0221910,C1285092,PART_OF,Squamous Epithelial Cells,Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0222677,C0015813,PART_OF,Cell of bone,Head of femur,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225332,C1281722,PART_OF,Fibrocyte,Limbus of cochlear duct (body structure),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225335,C0031050,PART_OF,Mesothelial cell,Pericardial sac structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225335,C0031153,PART_OF,Mesothelial cell,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225335,C0032225,PART_OF,Mesothelial cell,Pleura,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0003483,PART_OF,Endothelial Cells,Aorta,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0225336,C0003842,PART_OF,Endothelial Cells,Arteries,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C0225336,C0003847,PART_OF,Endothelial Cells,Structure of arteriole,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0005847,PART_OF,Endothelial Cells,Blood Vessel,cell,bpoc,10,PART_OF_CELLprtfBPOC
+C0225336,C0005854,PART_OF,Endothelial Cells,Blood - brain barrier anatomy,cell,bpoc,21,PART_OF_CELLprtfBPOC
+C0225336,C0006104,PART_OF,Endothelial Cells,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0007770,PART_OF,Endothelial Cells,Structure of cerebral artery,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0008524,PART_OF,Endothelial Cells,Structure of choroid plexus,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225336,C0011106,PART_OF,Endothelial Cells,Decidua,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225336,C0015392,PART_OF,Endothelial Cells,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0019145,PART_OF,Endothelial Cells,Hepatic artery,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0021852,PART_OF,Endothelial Cells,"Intestines, Small",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0022646,PART_OF,Endothelial Cells,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0023884,PART_OF,Endothelial Cells,Liver,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C0225336,C0024109,PART_OF,Endothelial Cells,Lung,cell,bpoc,41,PART_OF_CELLprtfBPOC
+C0225336,C0024204,PART_OF,Endothelial Cells,lymph nodes,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0225336,C0034052,PART_OF,Endothelial Cells,Pulmonary artery structure,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0225336,C0035298,PART_OF,Endothelial Cells,Retina,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0225336,C0035322,PART_OF,Endothelial Cells,Structure of retinal pigment epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0035330,PART_OF,Endothelial Cells,Structure of blood vessel of retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0040578,PART_OF,Endothelial Cells,Trachea,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0225336,C0042449,PART_OF,Endothelial Cells,Veins,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0225336,C0178784,PART_OF,Endothelial Cells,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0205039,PART_OF,Endothelial Cells,Bronchial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0205042,PART_OF,Endothelial Cells,Coronary artery,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225336,C0225988,PART_OF,Endothelial Cells,Structure of small blood vessel (organ),cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225336,C0225990,PART_OF,Endothelial Cells,Large blood vessel structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0225991,PART_OF,Endothelial Cells,Structure of great blood vessel (organ),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0226002,PART_OF,Endothelial Cells,Structure of medium artery,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0458827,PART_OF,Endothelial Cells,Airway structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0596700,PART_OF,Endothelial Cells,High Endothelial Venule,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0933845,PART_OF,Endothelial Cells,Parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C0935624,PART_OF,Endothelial Cells,Capillary vessel,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0225336,C1508661,PART_OF,Endothelial Cells,Pulmonary vessels,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C1882561,PART_OF,Endothelial Cells,Rat Aorta,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0225336,C1882726,PART_OF,Endothelial Cells,Rat Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225336,C2350570,PART_OF,Endothelial Cells,Microvessels,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225338,C0021853,PART_OF,Columnar epithelial cell,Intestines,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225338,C0027442,PART_OF,Columnar epithelial cell,Nasopharynx,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225338,C0028429,PART_OF,Columnar epithelial cell,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225338,C0227837,PART_OF,Columnar epithelial cell,Endocervix,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225338,C0458451,PART_OF,Columnar epithelial cell,Spongy urethra,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225338,C0458578,PART_OF,Columnar epithelial cell,Upper respiratory tract,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225338,C1184743,PART_OF,Columnar epithelial cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225340,C0022664,PART_OF,Transitional Epithelial Cells,Structure of medulla of kidney,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225340,C0227666,PART_OF,Transitional Epithelial Cells,Renal pelvis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225360,C0018787,PART_OF,Myofibroblasts,Heart,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0225360,C0018792,PART_OF,Myofibroblasts,Heart Atrium,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225360,C0020885,PART_OF,Myofibroblasts,ileum,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225360,C0021853,PART_OF,Myofibroblasts,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225369,C0039099,PART_OF,Chondrocyte,Synovial Membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225369,C0229408,PART_OF,Chondrocyte,Base of stapes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225668,C0006270,PART_OF,Clara cell,Bronchioles,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225668,C0024109,PART_OF,Clara cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225668,C0458580,PART_OF,Clara cell,Tracheobronchial structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225698,C0006270,PART_OF,Alveolar Epithelial Cells,Bronchioles,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225698,C0021852,PART_OF,Alveolar Epithelial Cells,"Intestines, Small",cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0225698,C0024109,PART_OF,Alveolar Epithelial Cells,Lung,cell,bpoc,22,PART_OF_CELLprtfBPOC
+C0225698,C0929301,PART_OF,Alveolar Epithelial Cells,Mammary gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225698,C1184743,PART_OF,Alveolar Epithelial Cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225698,C1440080,PART_OF,Alveolar Epithelial Cells,Alveolar,cell,bpoc,34,PART_OF_CELLprtfBPOC
+C0225698,C1508661,PART_OF,Alveolar Epithelial Cells,Pulmonary vessels,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225698,C1515933,PART_OF,Alveolar Epithelial Cells,Alveolus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225699,C0024109,PART_OF,Type-I Pneumocytes,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225699,C1440080,PART_OF,Type-I Pneumocytes,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C0024109,PART_OF,Type-II Pneumocytes,Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225700,C0034051,PART_OF,Type-II Pneumocytes,Pulmonary alveolar structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C0225691,PART_OF,Type-II Pneumocytes,Alveolar sac,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C0227130,PART_OF,Type-II Pneumocytes,Tooth Socket,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C0819757,PART_OF,Type-II Pneumocytes,Structure of parenchyma of lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C1180764,PART_OF,Type-II Pneumocytes,Terminal bronchus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0225700,C1440080,PART_OF,Type-II Pneumocytes,Alveolar,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C0225828,C0018787,PART_OF,"Myocytes, Cardiac",Heart,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0225828,C0018827,PART_OF,"Myocytes, Cardiac",Heart Ventricle,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0225828,C0024109,PART_OF,"Myocytes, Cardiac",Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0225828,C2355627,PART_OF,"Myocytes, Cardiac",Ventricle,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227276,C0020885,PART_OF,Paneth Cells,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227276,C0021852,PART_OF,Paneth Cells,"Intestines, Small",cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0227276,C0021853,PART_OF,Paneth Cells,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0227525,C0006104,PART_OF,Hepatocyte,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227525,C0023884,PART_OF,Hepatocyte,Liver,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C0227525,C0227952,PART_OF,Hepatocyte,Foreskin of penis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227525,C1116449,PART_OF,Hepatocyte,central vein,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227599,C0227666,PART_OF,Transitional epithelial cell of urinary bladder,Renal pelvis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0227650,C0022646,PART_OF,Juxtaglomerular cell,Kidney,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0228072,C0006104,PART_OF,Large neuron,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0228075,C0017070,PART_OF,Small neuron,"Ganglia, Spinal",cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0228078,C1184743,PART_OF,Partly differentiated neural cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0228092,C0008520,PART_OF,Ependymal cell,Choroid,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0228092,C0008524,PART_OF,Ependymal cell,Structure of choroid plexus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0228092,C0018827,PART_OF,Ependymal cell,Heart Ventricle,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0229130,C0927195,PART_OF,Structure of corneal corpuscle,Stroma,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0229525,C0021853,PART_OF,Endocrine Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0229579,C0022646,PART_OF,Structure of thyroid parafollicular cell,Kidney,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0229951,C0001613,PART_OF,Thymic epithelial cell,Adrenal Cortex,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242245,C0037993,PART_OF,"Dendritic Cells, Follicular",Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242629,C0006104,PART_OF,CD8-Positive T-Lymphocytes,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242629,C0023884,PART_OF,CD8-Positive T-Lymphocytes,Liver,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0242629,C0024109,PART_OF,CD8-Positive T-Lymphocytes,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0242629,C0037925,PART_OF,CD8-Positive T-Lymphocytes,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242629,C0037993,PART_OF,CD8-Positive T-Lymphocytes,Spleen,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0242629,C0586688,PART_OF,CD8-Positive T-Lymphocytes,Tissue specimen from liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242697,C0040408,PART_OF,Muscle Fibers,Tongue,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0242697,C0242692,PART_OF,Muscle Fibers,Skeletal muscle structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0282560,C0018563,PART_OF,Caco-2 Cells,Hand,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0282560,C0021853,PART_OF,Caco-2 Cells,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0282639,C0021853,PART_OF,HT29 Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0312864,C0037993,PART_OF,Sensitized cell,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0314587,C0178784,PART_OF,Colony-forming unit of granulocytic lineage (cell),Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0314596,C0024109,PART_OF,Spleen colony-forming unit,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0333843,C1184743,PART_OF,Myeloma cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0334227,C0005847,PART_OF,"Tumor cells, malignant",Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0334227,C0024109,PART_OF,"Tumor cells, malignant",Lung,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0334227,C0033572,PART_OF,"Tumor cells, malignant",Prostate,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0334227,C0035298,PART_OF,"Tumor cells, malignant",Retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0334227,C1882628,PART_OF,"Tumor cells, malignant",Rat Colon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0427529,C0796494,PART_OF,Smear cell,lobe,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C0006104,PART_OF,Inflammatory cell,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C0024109,PART_OF,Inflammatory cell,Lung,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0440752,C0031153,PART_OF,Inflammatory cell,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C0037925,PART_OF,Inflammatory cell,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C0228126,PART_OF,Inflammatory cell,Leptomeninges,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C0458827,PART_OF,Inflammatory cell,Airway structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0440752,C1550315,PART_OF,Inflammatory cell,Synovial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C0009368,PART_OF,Goblet Cells,Colon structure (body structure),cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0506994,C0009758,PART_OF,Goblet Cells,conjunctiva,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0506994,C0022378,PART_OF,Goblet Cells,Jejunum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C0024109,PART_OF,Goblet Cells,Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0506994,C0227318,PART_OF,Goblet Cells,Ileal epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C0458578,PART_OF,Goblet Cells,Upper respiratory tract,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C1185738,PART_OF,Goblet Cells,Column (anatomic),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C1285092,PART_OF,Goblet Cells,Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0506994,C1519988,PART_OF,Goblet Cells,Villus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524459,C0228641,PART_OF,Lower motor neuron,Lumbosacral spinal cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524977,C0175518,PART_OF,Intestinal L Cells,Nucleus solitarius,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524979,C0021853,PART_OF,Enteroendocrine Cell,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0524979,C0227395,PART_OF,Enteroendocrine Cell,Rectal mucous membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524983,C0006104,PART_OF,Gastrin-Secreting Cells,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0524983,C0013303,PART_OF,Gastrin-Secreting Cells,Duodenum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524983,C0024109,PART_OF,Gastrin-Secreting Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524983,C0029130,PART_OF,Gastrin-Secreting Cells,Optic Nerve,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0524984,C0024109,PART_OF,Somatostatin-Secreting Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0552639,C0022646,PART_OF,tubular cells,Kidney,cell,bpoc,35,PART_OF_CELLprtfBPOC
+C0552639,C0022655,PART_OF,tubular cells,Structure of cortex of kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0552639,C0022664,PART_OF,tubular cells,Structure of medulla of kidney,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0553257,C0022677,PART_OF,Epithelial cell of renal tubule,"Kidney Tubules, Proximal",cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0596030,C0033572,PART_OF,Acinar Cell,Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596030,C0225396,PART_OF,Acinar Cell,Structure of olfactory gland,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0596030,C1285092,PART_OF,Acinar Cell,Gland,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0596155,C0006255,PART_OF,Basal Cell,Bronchi,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C0010031,PART_OF,Basal Cell,Cornea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C0033572,PART_OF,Basal Cell,Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C0038445,PART_OF,Basal Cell,Stria Vascularis,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0596155,C0040578,PART_OF,Basal Cell,Trachea,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0596155,C0042232,PART_OF,Basal Cell,Vagina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C0225396,PART_OF,Basal Cell,Structure of olfactory gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C0225599,PART_OF,Basal Cell,Tracheal bronchus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596155,C1184743,PART_OF,Basal Cell,bony process,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0596208,C0005854,PART_OF,brain cell,Blood - brain barrier anatomy,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596630,C0007765,PART_OF,granule cell,Cerebellum,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0596981,C0005847,PART_OF,Muscle Cells,Blood Vessel,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0596981,C0018787,PART_OF,Muscle Cells,Heart,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596981,C0018792,PART_OF,Muscle Cells,Heart Atrium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596981,C0018827,PART_OF,Muscle Cells,Heart Ventricle,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0596981,C0242692,PART_OF,Muscle Cells,Skeletal muscle structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0596981,C1882687,PART_OF,Muscle Cells,Rat Heart,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0596993,C0024109,PART_OF,Myeloid Progenitor Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0597032,C0033572,PART_OF,Neoplastic Cell,Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598091,C0022646,PART_OF,stable cell line,Kidney,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0598091,C0023884,PART_OF,stable cell line,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598091,C0205065,PART_OF,stable cell line,ovarian,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598102,C0021853,PART_OF,polarized cell,Intestines,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0598117,C0588055,PART_OF,stellate cell,Mediastinal lymph node group,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598800,C0005847,PART_OF,Pericytes,Blood Vessel,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0598800,C0006901,PART_OF,Pericytes,Blood capillaries,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598800,C0011106,PART_OF,Pericytes,Decidua,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598800,C0015392,PART_OF,Pericytes,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598800,C0035330,PART_OF,Pericytes,Structure of blood vessel of retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598800,C0037993,PART_OF,Pericytes,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0598829,C0022646,PART_OF,Madin Darby Canine Kidney Cells,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0599757,C0031272,PART_OF,Microfold cell,Structure of aggregated lymphoid follicle of small intestine,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0599757,C0227318,PART_OF,Microfold cell,Ileal epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0677646,C0020885,PART_OF,crypt cell,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0677646,C0022378,PART_OF,crypt cell,Jejunum,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0677646,C1184743,PART_OF,crypt cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0006104,PART_OF,human cell line,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0006141,PART_OF,human cell line,Breast,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0017070,PART_OF,human cell line,"Ganglia, Spinal",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0021853,PART_OF,human cell line,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0022646,PART_OF,human cell line,Kidney,cell,bpoc,20,PART_OF_CELLprtfBPOC
+C0682523,C0023884,PART_OF,human cell line,Liver,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0682523,C0024109,PART_OF,human cell line,Lung,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0682523,C0030274,PART_OF,human cell line,Pancreas,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0682523,C0035298,PART_OF,human cell line,Retina,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0035322,PART_OF,human cell line,Structure of retinal pigment epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0038351,PART_OF,human cell line,Stomach,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C0227829,PART_OF,human cell line,Exocervix,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682523,C1440080,PART_OF,human cell line,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682524,C0022646,PART_OF,fibroblast cell line,Kidney,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682524,C0024109,PART_OF,fibroblast cell line,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682524,C0039259,PART_OF,fibroblast cell line,Tail,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682540,C0038445,PART_OF,spindle cell,Stria Vascularis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682541,C0043189,PART_OF,polyhedral cell,Wing,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682542,C0024109,PART_OF,ciliated cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682542,C0028429,PART_OF,ciliated cell,Nose,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682542,C0040578,PART_OF,ciliated cell,Trachea,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C0682542,C0205039,PART_OF,ciliated cell,Bronchial,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C0682542,C0458578,PART_OF,ciliated cell,Upper respiratory tract,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682542,C0458827,PART_OF,ciliated cell,Airway structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682542,C1185738,PART_OF,ciliated cell,Column (anatomic),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682552,C0001625,PART_OF,Parenchymal cell,Adrenal Glands,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682552,C0006104,PART_OF,Parenchymal cell,Brain,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C0682552,C0018787,PART_OF,Parenchymal cell,Heart,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682552,C0022646,PART_OF,Parenchymal cell,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682552,C0023884,PART_OF,Parenchymal cell,Liver,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C0682552,C0024109,PART_OF,Parenchymal cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682610,C0007531,PART_OF,Enterocytes,Cecum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682610,C0009368,PART_OF,Enterocytes,Colon structure (body structure),cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682610,C0013303,PART_OF,Enterocytes,Duodenum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682610,C0020885,PART_OF,Enterocytes,ileum,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0682610,C0021852,PART_OF,Enterocytes,"Intestines, Small",cell,bpoc,24,PART_OF_CELLprtfBPOC
+C0682610,C0021853,PART_OF,Enterocytes,Intestines,cell,bpoc,10,PART_OF_CELLprtfBPOC
+C0682610,C0022378,PART_OF,Enterocytes,Jejunum,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0682610,C0227266,PART_OF,Enterocytes,Intestinal Villus,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0682610,C0227318,PART_OF,Enterocytes,Ileal epithelium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682610,C1519988,PART_OF,Enterocytes,Villus,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0682610,C1880192,PART_OF,Enterocytes,Crypt,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C0682638,C0040421,PART_OF,memory b cell,Palatine Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682701,C0017651,PART_OF,Central neuron,Globus Pallidus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0682702,C0006104,PART_OF,Cerebellar neuron,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0734999,C0006270,PART_OF,Exocrine cell,Bronchioles,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0734999,C0030274,PART_OF,Exocrine cell,Pancreas,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0806036,C0022677,PART_OF,Renal epithelial cell,"Kidney Tubules, Proximal",cell,bpoc,13,PART_OF_CELLprtfBPOC
+C0806987,C0000780,PART_OF,mononuclear cells,Abomasum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0806987,C0021853,PART_OF,mononuclear cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0806987,C0024109,PART_OF,mononuclear cells,Lung,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0806987,C0037993,PART_OF,mononuclear cells,Spleen,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0806987,C0225584,PART_OF,mononuclear cells,Tracheal mucous membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0806987,C0227514,PART_OF,mononuclear cells,Portal triad,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0806987,C0376152,PART_OF,mononuclear cells,Marrow,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0806987,C0588055,PART_OF,mononuclear cells,Mediastinal lymph node group,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0814995,C3714556,PART_OF,Skin cell,Papilla,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0814997,C1880192,PART_OF,Intestinal cell,Crypt,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C0814999,C0001629,PART_OF,thymocyte,Adrenal Medulla,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0814999,C0040113,PART_OF,thymocyte,Thymus Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0815002,C0175405,PART_OF,GABAergic Neurons,Ventral Tegmental Area,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0872362,C1184743,PART_OF,primitive cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0879593,C0024109,PART_OF,therapeutic autologous dendritic cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0882784,C0024109,PART_OF,Cell positive for CD11C antigen,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0882849,C0024109,PART_OF,Cell positive for CD34 antigen,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0882849,C1184743,PART_OF,Cell positive for CD34 antigen,bony process,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C0887899,C0024204,PART_OF,Myeloid Cells,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0887899,C0036098,PART_OF,Myeloid Cells,Salivary Glands,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0933799,C0006270,PART_OF,Ciliated columnar cell,Bronchioles,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0935440,C0036029,PART_OF,Cuboidal cell,Saccule structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0935440,C0205039,PART_OF,Cuboidal cell,Bronchial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0935440,C1512817,PART_OF,Cuboidal cell,Intercalated Duct,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0945933,C0024109,PART_OF,CD45+ cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C0945933,C0037993,PART_OF,CD45+ cell,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C0947286,C0040113,PART_OF,Cell positive for CD14 antigen,Thymus Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1113654,C0001613,PART_OF,Neural Stem Cells,Adrenal Cortex,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1135918,C0003483,PART_OF,"Myocytes, Smooth Muscle",Aorta,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C1135918,C0003842,PART_OF,"Myocytes, Smooth Muscle",Arteries,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C1135918,C0005847,PART_OF,"Myocytes, Smooth Muscle",Blood Vessel,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1135918,C0007770,PART_OF,"Myocytes, Smooth Muscle",Structure of cerebral artery,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1135918,C0018787,PART_OF,"Myocytes, Smooth Muscle",Heart,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1135918,C0021852,PART_OF,"Myocytes, Smooth Muscle","Intestines, Small",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1135918,C0021853,PART_OF,"Myocytes, Smooth Muscle",Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1135918,C0034052,PART_OF,"Myocytes, Smooth Muscle",Pulmonary artery structure,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C1135918,C0042449,PART_OF,"Myocytes, Smooth Muscle",Veins,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1135918,C0205039,PART_OF,"Myocytes, Smooth Muscle",Bronchial,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C1135918,C0205042,PART_OF,"Myocytes, Smooth Muscle",Coronary artery,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1135918,C0458827,PART_OF,"Myocytes, Smooth Muscle",Airway structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1135918,C1510668,PART_OF,"Myocytes, Smooth Muscle",Gizzard,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1136335,C0021853,PART_OF,Multipotent Stem Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1148382,C0024204,PART_OF,Monocytes+Macrophages,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1148382,C0227140,PART_OF,Monocytes+Macrophages,Pharyngeal mucous membrane,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1148382,C0934502,PART_OF,Monocytes+Macrophages,anatomical layer,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1171322,C0018787,PART_OF,Adult Stem Cells,Heart,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1171322,C0021853,PART_OF,Adult Stem Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1171322,C0023884,PART_OF,Adult Stem Cells,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1171322,C0024109,PART_OF,Adult Stem Cells,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1171322,C1880192,PART_OF,Adult Stem Cells,Crypt,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1179186,C0205039,PART_OF,Serous cell,Bronchial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1179186,C0225587,PART_OF,Serous cell,Structure of tracheal gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1179870,C0022646,PART_OF,Nodal myocyte,Kidney,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C1179870,C0024109,PART_OF,Nodal myocyte,Lung,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C1180059,C0023884,PART_OF,Nucleated cell,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1180238,C0006104,PART_OF,Capillary Endothelial Cells,Brain,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C1180238,C0008524,PART_OF,Capillary Endothelial Cells,Structure of choroid plexus,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1180238,C0024109,PART_OF,Capillary Endothelial Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1180238,C0178784,PART_OF,Capillary Endothelial Cells,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1180238,C1440080,PART_OF,Capillary Endothelial Cells,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1180326,C0028429,PART_OF,Olfactory epithelial cell,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1182605,C1508661,PART_OF,Ciliated columnar cell of tracheobronchial tree,Pulmonary vessels,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1182610,C0010031,PART_OF,Corneal epithelial cell,Cornea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1182789,C0022646,PART_OF,Epithelial cell of visceral layer of glomerular capsule,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1182789,C0022677,PART_OF,Epithelial cell of visceral layer of glomerular capsule,"Kidney Tubules, Proximal",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257792,C0005854,PART_OF,Vascular Endothelial Cells,Blood - brain barrier anatomy,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257792,C0006104,PART_OF,Vascular Endothelial Cells,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257792,C0024109,PART_OF,Vascular Endothelial Cells,Lung,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C1257792,C0178784,PART_OF,Vascular Endothelial Cells,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257792,C0935624,PART_OF,Vascular Endothelial Cells,Capillary vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257792,C1285092,PART_OF,Vascular Endothelial Cells,Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257857,C0022646,PART_OF,COS-1 Cells,Kidney,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C1257909,C0029939,PART_OF,Diploid Cell,Ovary,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C1257909,C0205065,PART_OF,Diploid Cell,ovarian,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1257909,C0227952,PART_OF,Diploid Cell,Foreskin of penis,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1257909,C0929301,PART_OF,Diploid Cell,Mammary gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257909,C1571705,PART_OF,Diploid Cell,Follicle,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257975,C0021853,PART_OF,Mesenchymal Stem Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257975,C0023317,PART_OF,Mesenchymal Stem Cells,"Lens, Crystalline",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1257975,C0024109,PART_OF,Mesenchymal Stem Cells,Lung,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C1257975,C0376152,PART_OF,Mesenchymal Stem Cells,Marrow,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C1257975,C2355627,PART_OF,Mesenchymal Stem Cells,Ventricle,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1267822,C0023884,PART_OF,CD4+ CD25+ Regulatory T Cells,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1267822,C0037993,PART_OF,CD4+ CD25+ Regulatory T Cells,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1267837,C0037993,PART_OF,B lymphocyte positive for CD19 antigen,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1268007,C1184743,PART_OF,Myeloid precursor cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1269647,C0010031,PART_OF,Entire cell,Cornea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1269647,C0024109,PART_OF,Entire cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1269647,C0028429,PART_OF,Entire cell,Nose,cell,bpoc,5,PART_OF_CELLprtfBPOC
+C1275629,C0015392,PART_OF,Keratocyte,Eye,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1275629,C0927195,PART_OF,Keratocyte,Stroma,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C1292100,C0037925,PART_OF,IgG B lymphocyte,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1321301,C0024204,PART_OF,Peripheral blood mononuclear cell (cell),lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1328818,C0022646,PART_OF,Podocytes,Kidney,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C1441322,C0009368,PART_OF,Viable cells,Colon structure (body structure),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1441322,C0023078,PART_OF,Viable cells,Larynx,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1449624,C1184743,PART_OF,Neuroepithelial Cells,bony process,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1510779,C0024109,PART_OF,Adenocarcinoma Cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1510779,C0033572,PART_OF,Adenocarcinoma Cell,Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1511762,C0024109,PART_OF,Mouse Dendritic Cell,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1511762,C0037993,PART_OF,Mouse Dendritic Cell,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512035,C0025462,PART_OF,Dopaminergic Neurons,Midbrain structure,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1512035,C0175405,PART_OF,Dopaminergic Neurons,Ventral Tegmental Area,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1512035,C0175412,PART_OF,Dopaminergic Neurons,Pars Compacta,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512333,C0022646,PART_OF,Hamster Cell Line,Kidney,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C1512505,C0927195,PART_OF,Breast Cancer Cell,Stroma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512944,C0021852,PART_OF,Intraepithelial Lymphocytes,"Intestines, Small",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512944,C0021853,PART_OF,Intraepithelial Lymphocytes,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1512944,C0022378,PART_OF,Intraepithelial Lymphocytes,Jejunum,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1512977,C0010031,PART_OF,Mammalian Cell,Cornea,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512977,C0021853,PART_OF,Mammalian Cell,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1512977,C0022646,PART_OF,Mammalian Cell,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1513029,C0037993,PART_OF,Mature T-Lymphocyte,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1513029,C0376152,PART_OF,Mature T-Lymphocyte,Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1513410,C0022646,PART_OF,Monkey Cell Line,Kidney,cell,bpoc,21,PART_OF_CELLprtfBPOC
+C1514733,C0022646,PART_OF,Rat Cell Line,Kidney,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1514733,C1440080,PART_OF,Rat Cell Line,Alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1514965,C0024109,PART_OF,Mouse Stem Cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1514965,C0545674,PART_OF,Mouse Stem Cell,broncho-alveolar,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1515964,C0024496,PART_OF,Anaplastic Cell,Main Bronchus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1515964,C0205039,PART_OF,Anaplastic Cell,Bronchial,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1516469,C0022646,PART_OF,Chicken Cells,Kidney,cell,bpoc,72,PART_OF_CELLprtfBPOC
+C1516469,C0023884,PART_OF,Chicken Cells,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1516469,C0024109,PART_OF,Chicken Cells,Lung,cell,bpoc,9,PART_OF_CELLprtfBPOC
+C1516469,C0040578,PART_OF,Chicken Cells,Trachea,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1516469,C0178784,PART_OF,Chicken Cells,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1516469,C1184743,PART_OF,Chicken Cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1516859,C1882904,PART_OF,Stromal cell of endometrium,Rat Uterus,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1517548,C0003617,PART_OF,Glandular cell,Appendix,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1517548,C0016976,PART_OF,Glandular cell,Gallbladder,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1517548,C0021853,PART_OF,Glandular cell,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1517548,C0038351,PART_OF,Glandular cell,Stomach,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1518174,C0024109,PART_OF,Malignant Epithelial Cell,Lung,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C1518174,C0038351,PART_OF,Malignant Epithelial Cell,Stomach,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1518275,C0021853,PART_OF,Neuroendocrine Cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1518275,C0024109,PART_OF,Neuroendocrine Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1518990,C0022359,PART_OF,Periosteal cell,Jaw,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519221,C0006141,PART_OF,Secretory cell,Breast,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519221,C0036098,PART_OF,Secretory cell,Salivary Glands,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519221,C0037993,PART_OF,Secretory cell,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519221,C0227479,PART_OF,Secretory cell,Venom gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519221,C1285092,PART_OF,Secretory cell,Gland,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1519477,C0024109,PART_OF,Splenocyte,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519477,C0037925,PART_OF,Splenocyte,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519515,C0040421,PART_OF,Tingible Body Macrophage,Palatine Tonsil,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519515,C0600225,PART_OF,Tingible Body Macrophage,Graafian Follicle,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1519550,C1184743,PART_OF,Dental pulp cell,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519720,C0024109,PART_OF,Type I Epithelial Receptor Cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1519720,C1440080,PART_OF,Type I Epithelial Receptor Cell,Alveolar,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C1522131,C0037993,PART_OF,Leukocyte - Lymphocyte - T-Lymphocyte (MMHCC),Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1522173,C0007765,PART_OF,CNS - Brain - Astrocyte (MMHCC),Cerebellum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1522173,C0085140,PART_OF,CNS - Brain - Astrocyte (MMHCC),Prosencephalon,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1522260,C0927195,PART_OF,Connective Tissue - Fibroblasts (MMHCC),Stroma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1522406,C0039597,PART_OF,interstitial cell,Testis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1522703,C0037993,PART_OF,Leukocyte - Lymphocyte (MMHCC),Spleen,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C1522703,C0588054,PART_OF,Leukocyte - Lymphocyte (MMHCC),Cervical lymph node group,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1523993,C0024109,PART_OF,Leukocyte - Monocyte - Macrophage (MMHCC),Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1523993,C0736268,PART_OF,Leukocyte - Monocyte - Macrophage (MMHCC),Liver parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1706725,C0227952,PART_OF,Adrenal Cortical Cell,Foreskin of penis,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1707937,C0006141,PART_OF,Epithelial Stem Cell,Breast,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1707937,C0021853,PART_OF,Epithelial Stem Cell,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1707937,C0024109,PART_OF,Epithelial Stem Cell,Lung,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C1711178,C0006270,PART_OF,Bronchial Epithelial Cell,Bronchioles,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C1711178,C0014124,PART_OF,Bronchial Epithelial Cell,Endocardium,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1711178,C0024109,PART_OF,Bronchial Epithelial Cell,Lung,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C1711178,C0037993,PART_OF,Bronchial Epithelial Cell,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1711178,C0040578,PART_OF,Bronchial Epithelial Cell,Trachea,cell,bpoc,7,PART_OF_CELLprtfBPOC
+C1883279,C0038556,PART_OF,Terminal Duct Cell,Submandibular gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1956385,C0021853,PART_OF,Plasmacytoid Dendritic Cells,Intestines,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1956385,C0023884,PART_OF,Plasmacytoid Dendritic Cells,Liver,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C1956385,C0024109,PART_OF,Plasmacytoid Dendritic Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C1956385,C0037993,PART_OF,Plasmacytoid Dendritic Cells,Spleen,cell,bpoc,23,PART_OF_CELLprtfBPOC
+C1956385,C0836921,PART_OF,Plasmacytoid Dendritic Cells,Tonsil,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C1956422,C0006141,PART_OF,Cancer Stem Cells,Breast,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C2323499,C0178784,PART_OF,Hematopoietic cell,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2325187,C0023317,PART_OF,Lens epithelial cell,"Lens, Crystalline",cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2328961,C0178784,PART_OF,Type 1 vestibular sensory cell,Organ,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C2331651,C0021853,PART_OF,Polar Bodies,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2334011,C0031153,PART_OF,Wandering histiocyte,Peritoneum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2334670,C0205039,PART_OF,Tracheal goblet cell,Bronchial,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2339194,C0178784,PART_OF,Supporting cell,Organ,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C2340022,C0024109,PART_OF,Resting histiocyte,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2340022,C1440080,PART_OF,Resting histiocyte,Alveolar,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C2350466,C0023884,PART_OF,Natural Killer T-Cells,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2599885,C0005953,PART_OF,Immature neutrophils,Bone Marrow,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2717940,C0023884,PART_OF,Hep G2 Cells,Liver,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C2717959,C1184743,PART_OF,Induced Pluripotent Stem Cells,bony process,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2936239,C0022646,PART_OF,HEK293 Cells,Kidney,cell,bpoc,101,PART_OF_CELLprtfBPOC
+C2936239,C0029939,PART_OF,HEK293 Cells,Ovary,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2936411,C0020885,PART_OF,Th17 Cells,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C2952444,C0006104,PART_OF,Mononuclear phagocyte,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3172555,C0006270,PART_OF,Ciliated epithelial cell,Bronchioles,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3172555,C0024109,PART_OF,Ciliated epithelial cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3172555,C0028429,PART_OF,Ciliated epithelial cell,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3172555,C0040578,PART_OF,Ciliated epithelial cell,Trachea,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C3172555,C0178784,PART_OF,Ciliated epithelial cell,Organ,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3172555,C0458827,PART_OF,Ciliated epithelial cell,Airway structure,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3178844,C0024109,PART_OF,Mesenchymal Stromal Cells,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3178844,C1184743,PART_OF,Mesenchymal Stromal Cells,bony process,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C3179121,C0005847,PART_OF,Human Umbilical Vein Endothelial Cells,Blood Vessel,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3496194,C0021853,PART_OF,Epidermal cells,Intestines,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3496194,C1285092,PART_OF,Epidermal cells,Gland,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C3496194,C2985236,PART_OF,Epidermal cells,Structure of thick cushion of skin on foot,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3641722,C0023884,PART_OF,Effector T-Lymphocyte,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3686472,C0020885,PART_OF,Biliary epithelial cell,ileum,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3686472,C0023884,PART_OF,Biliary epithelial cell,Liver,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C3686472,C0227514,PART_OF,Biliary epithelial cell,Portal triad,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3686472,C1550227,PART_OF,Biliary epithelial cell,Body Parts - Canal,cell,bpoc,15,PART_OF_CELLprtfBPOC
+C3849991,C0033572,PART_OF,Glandular Epithelial Cells,Prostate,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C3849991,C0038351,PART_OF,Glandular Epithelial Cells,Stomach,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C3849991,C0205039,PART_OF,Glandular Epithelial Cells,Bronchial,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C3849991,C1285092,PART_OF,Glandular Epithelial Cells,Gland,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4085194,C0024109,PART_OF,Conventional Dendritic Cell,Lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4085194,C0024204,PART_OF,Conventional Dendritic Cell,lymph nodes,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4085194,C0037993,PART_OF,Conventional Dendritic Cell,Spleen,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C4086555,C0024109,PART_OF,M2 Macrophage,Lung,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C4086923,C0006104,PART_OF,Unselected Mononuclear Cell,Brain,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4277577,C0024109,PART_OF,A549 Cells,Lung,cell,bpoc,12,PART_OF_CELLprtfBPOC
+C4277577,C0423866,PART_OF,A549 Cells,Lanugo,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C4277577,C1440080,PART_OF,A549 Cells,Alveolar,cell,bpoc,6,PART_OF_CELLprtfBPOC
+C4277577,C1552119,PART_OF,A549 Cells,Supernumerary maxillary right first premolar,cell,bpoc,4,PART_OF_CELLprtfBPOC
+C4322670,C0037993,PART_OF,CD3+ T lymphocyte,Spleen,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0005847,PART_OF,Immune Cell,Blood Vessel,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C4330475,C0006104,PART_OF,Immune Cell,Brain,cell,bpoc,2,PART_OF_CELLprtfBPOC
+C4330475,C0009368,PART_OF,Immune Cell,Colon structure (body structure),cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0023884,PART_OF,Immune Cell,Liver,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0024109,PART_OF,Immune Cell,Lung,cell,bpoc,11,PART_OF_CELLprtfBPOC
+C4330475,C0028429,PART_OF,Immune Cell,Nose,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0037925,PART_OF,Immune Cell,Spinal Cord,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0037993,PART_OF,Immune Cell,Spleen,cell,bpoc,8,PART_OF_CELLprtfBPOC
+C4330475,C0178784,PART_OF,Immune Cell,Organ,cell,bpoc,3,PART_OF_CELLprtfBPOC
+C4330475,C0819757,PART_OF,Immune Cell,Structure of parenchyma of lung,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C0933845,PART_OF,Immune Cell,Parenchyma,cell,bpoc,1,PART_OF_CELLprtfBPOC
+C4330475,C1278908,PART_OF,Immune Cell,Entire lung,cell,bpoc,1,PART_OF_CELLprtfBPOC

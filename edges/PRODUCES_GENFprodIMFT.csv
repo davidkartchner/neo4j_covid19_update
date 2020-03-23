@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017260,C0003333,PRODUCES,Gene Deletion,"Antigens, Heterophile",genf,imft,1,PRODUCES_GENFprodIMFT
+C0017262,C0003342,PRODUCES,Gene Expression,"Antigens, Viral",genf,imft,1,PRODUCES_GENFprodIMFT
+C0026882,C0003316,PRODUCES,Mutation,Epitopes,genf,imft,2,PRODUCES_GENFprodIMFT
+C0026882,C0042210,PRODUCES,Mutation,Vaccines,genf,imft,2,PRODUCES_GENFprodIMFT
+C0026882,C0042211,PRODUCES,Mutation,"Vaccines, Attenuated",genf,imft,1,PRODUCES_GENFprodIMFT
+C0026882,C3272757,PRODUCES,Mutation,Live Attenuated Influenza Vaccine,genf,imft,1,PRODUCES_GENFprodIMFT
+C0034865,C0042210,PRODUCES,"Recombination, Genetic",Vaccines,genf,imft,2,PRODUCES_GENFprodIMFT
+C0040649,C0057317,PRODUCES,"Transcription, Genetic",Hepatitis delta Antigens,genf,imft,1,PRODUCES_GENFprodIMFT
+C0598312,C0042211,PRODUCES,DNA Replication,"Vaccines, Attenuated",genf,imft,1,PRODUCES_GENFprodIMFT
+C1171362,C0376613,PRODUCES,protein expression,"Vaccines, DNA",genf,imft,1,PRODUCES_GENFprodIMFT
+C1171362,C1883036,PRODUCES,protein expression,Single-Chain Antibodies,genf,imft,1,PRODUCES_GENFprodIMFT
+C1519614,C0057317,PRODUCES,Genetic Translation Process,Hepatitis delta Antigens,genf,imft,1,PRODUCES_GENFprodIMFT

@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0021493,C0021368,NEG_CAUSES,"Injections, Intraperitoneal",Inflammation,topp,patf,6,NEG_CAUSES_TOPPncausPATF
+C0024128,C0021368,NEG_CAUSES,Lung Transplantation,Inflammation,topp,patf,1,NEG_CAUSES_TOPPncausPATF
+C0042196,C0011304,NEG_CAUSES,Vaccination,Demyelination,topp,patf,4,NEG_CAUSES_TOPPncausPATF
+C0042196,C0162633,NEG_CAUSES,Vaccination,Viral Shedding,topp,patf,1,NEG_CAUSES_TOPPncausPATF
+C0920467,C0020517,NEG_CAUSES,disorder control (procedure),Hypersensitivity,topp,patf,2,NEG_CAUSES_TOPPncausPATF
+C1522449,C0231176,NEG_CAUSES,Therapeutic radiology procedure,Acute failure,topp,patf,1,NEG_CAUSES_TOPPncausPATF

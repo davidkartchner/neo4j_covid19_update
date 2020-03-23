@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012854,C0079160,INHIBITS,DNA,Consensus Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0012854,C0162326,INHIBITS,DNA,DNA Sequence,bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C0028606,C0004793,INHIBITS,Nucleic Acids,Base Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0028606,C0162326,INHIBITS,Nucleic Acids,DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0032136,C0009802,INHIBITS,Plasmids,Conserved Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0032136,C1512886,INHIBITS,Plasmids,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035142,C1883633,INHIBITS,Replicon,3' Region,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035693,C0162326,INHIBITS,"RNA, Double-Stranded",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035696,C3178810,INHIBITS,"RNA, Messenger",Transcriptome,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035711,C0086908,INHIBITS,Transfer RNA,Repetitive Region,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079249,C0162326,INHIBITS,"DNA, Antisense",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0082774,C1883644,INHIBITS,"RNA, Guide",5' Region,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0600493,C0009802,INHIBITS,5' Untranslated Regions,Conserved Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0600680,C1512886,INHIBITS,Untranslated Regions,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1099354,C0004793,INHIBITS,"RNA, Small Interfering",Base Sequence,bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C1099354,C0009802,INHIBITS,"RNA, Small Interfering",Conserved Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1099354,C0162326,INHIBITS,"RNA, Small Interfering",DNA Sequence,bacs,nusq,10,INHIBITS_BACSinhbNUSQ
+C1099354,C1512886,INHIBITS,"RNA, Small Interfering",Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1101610,C0162326,INHIBITS,MicroRNAs,DNA Sequence,bacs,nusq,4,INHIBITS_BACSinhbNUSQ

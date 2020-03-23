@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001047,C0020517,TREATS,Acetylcysteine,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0001047,C0151763,TREATS,Acetylcysteine,Liver damage,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0002199,C0020517,TREATS,Interferon-alpha,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0002199,C0162633,TREATS,Interferon-alpha,Viral Shedding,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0002712,C0342257,TREATS,Amylases,Complications of Diabetes Mellitus,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0005740,C0021368,TREATS,Bleomycin,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0006217,C0020517,TREATS,Bromelains,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0008742,C0020517,TREATS,CHYMOTRYPSIN,Hypersensitivity,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0009316,C0281169,TREATS,Colistin,pulmonary complications,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0009316,C3714514,TREATS,Colistin,Infection,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0010132,C0036986,TREATS,Corticotropin-Releasing Hormone,"Shock, Traumatic",aapp,patf,1,TREATS_AAPPtrtsPATF
+C0010590,C0021368,TREATS,Cycloserine,Inflammation,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0010592,C0020517,TREATS,Cyclosporine,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0014822,C0020564,TREATS,Erythropoietin,Hypertrophy,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0015528,C1262023,TREATS,factor XIII,dilutional coagulopathy,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0015980,C0020517,TREATS,Interferon-beta,Hypersensitivity,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0016006,C1262023,TREATS,Fibrinogen,dilutional coagulopathy,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0017132,C0152254,TREATS,Gastric Inhibitory Polypeptide,Fatty degeneration,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0018066,C0021361,TREATS,Pituitary Gonadotropins,Female infertility,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0021743,C0020517,TREATS,Interferon Type I,Hypersensitivity,aapp,patf,3,TREATS_AAPPtrtsPATF
+C0021747,C0020517,TREATS,Interferons,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0021747,C0021368,TREATS,Interferons,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0021747,C3714514,TREATS,Interferons,Infection,aapp,patf,3,TREATS_AAPPtrtsPATF
+C0026794,C0024348,TREATS,Muramidase,Lysis,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0030946,C3714514,TREATS,Endopeptidases,Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0032143,C0240059,TREATS,alteplase,Ventricular hemorrhage,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0032144,C0333565,TREATS,Plasminogen Activator,Fibrin deposition,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0037668,C0021368,TREATS,Somatotropin-Releasing Hormone,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0041236,C0020517,TREATS,TRYPSIN,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0041236,C0024348,TREATS,TRYPSIN,Lysis,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0041236,C0333467,TREATS,TRYPSIN,Cytopathic effect,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0042313,C0020517,TREATS,Vancomycin,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0042313,C3714514,TREATS,Vancomycin,Infection,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0042413,C0036983,TREATS,Vasopressins,Septic Shock,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0054015,C0036983,TREATS,Nesiritide,Septic Shock,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0085297,C0021368,TREATS,"Immunoglobulins, Intravenous",Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0085297,C0161816,TREATS,"Immunoglobulins, Intravenous",Cardiac complication,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0085297,C0162633,TREATS,"Immunoglobulins, Intravenous",Viral Shedding,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0085297,C0476474,TREATS,"Immunoglobulins, Intravenous",persistent fever,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0085297,C1155266,TREATS,"Immunoglobulins, Intravenous",inflammatory response,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0085297,C3714514,TREATS,"Immunoglobulins, Intravenous",Infection,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0103306,C0242656,TREATS,angiotensin I (1-7),Disease Progression,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0103403,C0016059,TREATS,Annexin A1,Fibrosis,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0103403,C0021368,TREATS,Annexin A1,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0123759,C0021368,TREATS,Interleukin-12,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0145106,C3714514,TREATS,Teicoplanin,Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0145185,C0036983,TREATS,terlipressin,Septic Shock,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0162724,C3714514,TREATS,Glycopeptide antibiotic,Infection,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0245109,C0021368,TREATS,anakinra,Inflammation,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0287990,C3714514,TREATS,paired basic amino acid cleaving enzyme,Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0299583,C0036983,TREATS,leptin,Septic Shock,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0301521,C0151517,TREATS,therapeutic vaccine,Complete atrioventricular block,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0301521,C0242656,TREATS,therapeutic vaccine,Disease Progression,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0358321,C3714514,TREATS,Immune Globulin (Human),Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0360506,C0020517,TREATS,Intramuscular immunoglobulin,Hypersensitivity,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0376659,C0020963,TREATS,Cancer Vaccines,Immune Tolerance,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0666743,C0021368,TREATS,infliximab,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0912332,C0334097,TREATS,Glucagon-Like Peptide 2,Epithelial proliferation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0966225,C0002792,TREATS,omalizumab,anaphylaxis,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0966897,C0021376,TREATS,hepcidin,Chronic inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C0969595,C0013990,TREATS,"BbKI protein, Bauhinia bauhinioides",Pathological accumulation of air in tissues,aapp,patf,2,TREATS_AAPPtrtsPATF
+C0995188,C0020517,TREATS,cetuximab,Hypersensitivity,aapp,patf,3,TREATS_AAPPtrtsPATF
+C1099914,C3714514,TREATS,"IL12B protein, human",Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C1172734,C0332448,TREATS,natalizumab,Infiltration,aapp,patf,1,TREATS_AAPPtrtsPATF
+C1522537,C0021368,TREATS,Recombinant Interferon,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C1527233,C3714514,TREATS,Recombinant Immune Globulin,Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C1564892,C0021368,TREATS,Complement Inactivating Agents,Inflammation,aapp,patf,1,TREATS_AAPPtrtsPATF
+C1831600,C0600228,TREATS,Revival,Cardiopulmonary Arrest,aapp,patf,1,TREATS_AAPPtrtsPATF
+C2003387,C3714514,TREATS,DAS181,Infection,aapp,patf,1,TREATS_AAPPtrtsPATF
+C2316467,C0333279,TREATS,Packed red blood cells,Massive hemorrhage,aapp,patf,1,TREATS_AAPPtrtsPATF
+C3657270,C0348024,TREATS,nivolumab,Thyroid dysfunction,aapp,patf,1,TREATS_AAPPtrtsPATF
+C3891304,C1520005,TREATS,"Cathelicidin LL-37, human",Viral Pathogenesis,aapp,patf,1,TREATS_AAPPtrtsPATF
+C4079739,C1155266,TREATS,EA-230,inflammatory response,aapp,patf,1,TREATS_AAPPtrtsPATF
+C4084937,C3714514,TREATS,Antimicrobial Peptide,Infection,aapp,patf,2,TREATS_AAPPtrtsPATF

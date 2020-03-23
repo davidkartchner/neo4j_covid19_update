@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0018747,C0035648,AFFECTS,Health Services,risk factors,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C0019993,C0035648,AFFECTS,Hospitalization,risk factors,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C0019993,C0150312,AFFECTS,Hospitalization,Present,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C0030685,C0150312,AFFECTS,Patient Discharge,Present,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C0184666,C0035648,AFFECTS,Hospital admission,risk factors,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C0220908,C0150312,AFFECTS,Screening procedure,Present,hlca,qnco,2,AFFECTS_HLCAafctQNCO
+C0422202,C0035648,AFFECTS,Notifications,risk factors,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C1516879,C0150312,AFFECTS,Enrollment,Present,hlca,qnco,1,AFFECTS_HLCAafctQNCO
+C1522577,C0150312,AFFECTS,follow-up,Present,hlca,qnco,1,AFFECTS_HLCAafctQNCO

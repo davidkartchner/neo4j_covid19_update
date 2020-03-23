@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009653,C3714514,TREATS,"Condoms, Male",Infection,medd,patf,2,TREATS_MEDDtrtsPATF
+C0024861,C0242781,TREATS,Masks,disease transmission,medd,patf,3,TREATS_MEDDtrtsPATF
+C0024861,C3714514,TREATS,Masks,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0032042,C0021368,TREATS,Placebos,Inflammation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0032042,C3714514,TREATS,Placebos,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0038257,C0036974,TREATS,"Stent, device",Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0042497,C0242781,TREATS,Mechanical Ventilator,disease transmission,medd,patf,2,TREATS_MEDDtrtsPATF
+C0085104,C0040053,TREATS,Drug Delivery Systems,Thrombosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C3714514,TREATS,Drug Delivery Systems,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175723,C3714514,TREATS,Bands,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175730,C0028778,TREATS,biomedical tube device,Obstruction,medd,patf,2,TREATS_MEDDtrtsPATF
+C0175730,C0036679,TREATS,biomedical tube device,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179038,C0036679,TREATS,"Analyzer, device",Diastasis,medd,patf,2,TREATS_MEDDtrtsPATF
+C0179302,C3714514,TREATS,"Binder, device",Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179574,C0026766,TREATS,Nasal Cannula,Multiple Organ Failure,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179630,C0036679,TREATS,Cartridge device,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179790,C0036980,TREATS,"Swan-Ganz catheter, device","Shock, Cardiogenic",medd,patf,1,TREATS_MEDDtrtsPATF
+C0180266,C0020517,TREATS,CUVETTES,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181633,C0020517,TREATS,Light source,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181839,C0333467,TREATS,Microscopes,Cytopathic effect,medd,patf,3,TREATS_MEDDtrtsPATF
+C0182400,C0020517,TREATS,Probes,Hypersensitivity,medd,patf,7,TREATS_MEDDtrtsPATF
+C0182400,C0025874,TREATS,Probes,Metrorrhagia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0182953,C0016059,TREATS,Regulators (device),Fibrosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0184104,C0036679,TREATS,blood collection tubes,Diastasis,medd,patf,2,TREATS_MEDDtrtsPATF
+C0184301,C0036679,TREATS,Vial device,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C1272835,C0020517,TREATS,Test kit,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C1273532,C4061114,TREATS,Diagnostic device,Acute illness,medd,patf,1,TREATS_MEDDtrtsPATF
+C1314650,C0242781,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",disease transmission,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0020517,TREATS,BARRIER,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0028778,TREATS,BARRIER,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0242781,TREATS,BARRIER,disease transmission,medd,patf,3,TREATS_MEDDtrtsPATF
+C1706912,C3714514,TREATS,BARRIER,Infection,medd,patf,4,TREATS_MEDDtrtsPATF
+C1968515,C0000833,TREATS,Pack (physical object),Abscess,medd,patf,1,TREATS_MEDDtrtsPATF
+C3694424,C0041582,TREATS,Indwelling Device,Ulcer,medd,patf,1,TREATS_MEDDtrtsPATF
+C3876322,C0015376,TREATS,Viral filter,Extravasation,medd,patf,1,TREATS_MEDDtrtsPATF
+C3876323,C0015376,TREATS,Nosepiece,Extravasation,medd,patf,1,TREATS_MEDDtrtsPATF

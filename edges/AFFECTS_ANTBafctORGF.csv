@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0018270,AFFECTS,Antibiotics,Growth,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0003232,C0301872,AFFECTS,Antibiotics,Immune response,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0003232,C0678889,AFFECTS,Antibiotics,Immunoregulation,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0007735,C1510470,AFFECTS,Cephalothin,Motility,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0008947,C0018270,AFFECTS,Clindamycin,Growth,antb,orgf,2,AFFECTS_ANTBafctORGF
+C0010572,C0042774,AFFECTS,Cycloheximide,Virus Replication,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0013090,C0301872,AFFECTS,Doxycycline,Immune response,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0034145,C1563744,AFFECTS,Puromycin,Lipogenesis,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0054036,C0026649,AFFECTS,Brefeldin A,Movement,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0054036,C1160185,AFFECTS,Brefeldin A,transduction,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0072980,C1160185,AFFECTS,Sirolimus,transduction,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0125179,C0678723,AFFECTS,lactacystin,Biologic Development,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0125179,C0699900,AFFECTS,lactacystin,Catabolism,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0279516,C0301872,AFFECTS,Anti-Bacterial Agents,Immune response,antb,orgf,1,AFFECTS_ANTBafctORGF
+C0614427,C0042774,AFFECTS,NS 5,Virus Replication,antb,orgf,3,AFFECTS_ANTBafctORGF

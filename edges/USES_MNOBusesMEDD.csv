@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013812,C0005971,USES,electrode,Bone plates,mnob,medd,2,USES_MNOBusesMEDD
+C0013812,C0175718,USES,electrode,Medical pins,mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C0175722,USES,electrode,Clip,mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C0175723,USES,electrode,Bands,mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C0180459,USES,electrode,Disks (device),mnob,medd,2,USES_MNOBusesMEDD
+C0013812,C0182301,USES,electrode,Pipette (physical object),mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C0183210,USES,electrode,sensor (device),mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C0776677,USES,electrode,Disposable Needle,mnob,medd,1,USES_MNOBusesMEDD
+C0013812,C2825163,USES,electrode,Cardiac Event Monitor,mnob,medd,1,USES_MNOBusesMEDD
+C0026032,C0179038,USES,Microspheres,"Analyzer, device",mnob,medd,1,USES_MNOBusesMEDD
+C0026032,C0182400,USES,Microspheres,Probes,mnob,medd,2,USES_MNOBusesMEDD
+C0026032,C1140606,USES,Microspheres,"SORTER, CELL",mnob,medd,1,USES_MNOBusesMEDD
+C0043303,C0183115,USES,X-Ray Film,Scanning Systems,mnob,medd,1,USES_MNOBusesMEDD
+C0181467,C0725865,USES,knife,disposable,mnob,medd,1,USES_MNOBusesMEDD
+C0348000,C0180392,USES,Instrument - device,Detectors,mnob,medd,2,USES_MNOBusesMEDD
+C0348000,C0180860,USES,Instrument - device,Filters,mnob,medd,1,USES_MNOBusesMEDD
+C0348000,C0181839,USES,Instrument - device,Microscopes,mnob,medd,1,USES_MNOBusesMEDD
+C0348000,C0182400,USES,Instrument - device,Probes,mnob,medd,1,USES_MNOBusesMEDD
+C0348000,C0183396,USES,Instrument - device,Mass Spectrometers (device),mnob,medd,2,USES_MNOBusesMEDD
+C0348000,C1611676,USES,Instrument - device,Thermal Cycler,mnob,medd,3,USES_MNOBusesMEDD

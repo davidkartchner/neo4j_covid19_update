@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C1302682,CONVERTS_TO,Antibodies,Entire immunoglobulin,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0003241,C1883036,CONVERTS_TO,Antibodies,Single-Chain Antibodies,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0003250,C1883036,CONVERTS_TO,Monoclonal Antibodies,Single-Chain Antibodies,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0003313,C0003316,CONVERTS_TO,Immune complex,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0010762,C0003316,CONVERTS_TO,Cytochrome P450,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0017968,C0003316,CONVERTS_TO,Glycoproteins,Epitopes,aapp,imft,2,CONVERTS_TO_AAPPcvttIMFT
+C0017968,C0042210,CONVERTS_TO,Glycoproteins,Vaccines,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0017968,C0282580,CONVERTS_TO,Glycoproteins,"Epitopes, T-Lymphocyte",aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0020838,C2825347,CONVERTS_TO,Secretory Immunoglobulin A,"Immunoglobulin A, Human",aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0024297,C0026484,CONVERTS_TO,Lymphokines,Monokines,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0028612,C0003316,CONVERTS_TO,Nucleoproteins,Epitopes,aapp,imft,2,CONVERTS_TO_AAPPcvttIMFT
+C0028612,C0282580,CONVERTS_TO,Nucleoproteins,"Epitopes, T-Lymphocyte",aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0029923,C0003316,CONVERTS_TO,Ovalbumin,Epitopes,aapp,imft,2,CONVERTS_TO_AAPPcvttIMFT
+C0042711,C0003316,CONVERTS_TO,Viral Envelope Proteins,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0069428,C0079600,CONVERTS_TO,Oligodendrocyte-Myelin Glycoprotein,Immunodominant Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0258855,C1883036,CONVERTS_TO,"CA9 protein, human",Single-Chain Antibodies,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0376436,C0282580,CONVERTS_TO,Peptide Library,"Epitopes, T-Lymphocyte",aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0582263,C0003342,CONVERTS_TO,Structural protein,"Antigens, Viral",aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0599220,C0003316,CONVERTS_TO,Protein Subunits,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0599537,C0003316,CONVERTS_TO,glycoprotein G,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C0877857,C1883036,CONVERTS_TO,Immunoglobulin Variable Region,Single-Chain Antibodies,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C1333350,C0003316,CONVERTS_TO,EPS8 gene,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C1415189,C0079600,CONVERTS_TO,GP5 gene,Immunodominant Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C1539357,C0003316,CONVERTS_TO,EMB gene,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C1669512,C0042210,CONVERTS_TO,"RAB8A protein, human",Vaccines,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C2362561,C0003316,CONVERTS_TO,Gluten,Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C2825348,C0003316,CONVERTS_TO,"immunoglobulin M, human",Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C3147110,C0042210,CONVERTS_TO,DSCAM-AS1 gene,Vaccines,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C3711684,C0003316,CONVERTS_TO,"S protein, severe acute respiratory syndrome coronavirus",Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT
+C4281807,C0003316,CONVERTS_TO,"Vitronectin, human",Epitopes,aapp,imft,1,CONVERTS_TO_AAPPcvttIMFT

@@ -1,0 +1,133 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010357,C0014257,PROCESS_OF,Cross Reactions,Endothelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0015852,C0001527,PROCESS_OF,Fermentation,Adipose tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0017952,C0026845,PROCESS_OF,Glycolysis,Muscle,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0017952,C0040300,PROCESS_OF,Glycolysis,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0017952,C1304649,PROCESS_OF,Glycolysis,Tissue fiber,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0030892,C0440744,PROCESS_OF,Pentose Phosphate Pathway,Human tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C0001527,PROCESS_OF,Phosphorylation,Adipose tissue,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C0031715,C0014609,PROCESS_OF,Phosphorylation,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C0026845,PROCESS_OF,Phosphorylation,Muscle,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0031715,C0027061,PROCESS_OF,Phosphorylation,Myocardium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C0040300,PROCESS_OF,Phosphorylation,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C1516828,PROCESS_OF,Phosphorylation,Mouse Embryonic Fibroblast,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C0031715,C1517914,PROCESS_OF,Phosphorylation,Mouse Liver,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0031715,C1518039,PROCESS_OF,Phosphorylation,Mouse Lung,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C1522062,PROCESS_OF,Phosphorylation,Liver - Hepatocyte (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C1522528,PROCESS_OF,Phosphorylation,Endocrine Pancreas - Islet of Langerhans (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C1563740,PROCESS_OF,Phosphorylation,Visceral Fat,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0031715,C2700413,PROCESS_OF,Phosphorylation,Mouse Cornea,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0033666,C0040300,PROCESS_OF,Post-Translational Protein Processing,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0033666,C0440744,PROCESS_OF,Post-Translational Protein Processing,Human tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0033666,C1522642,PROCESS_OF,Post-Translational Protein Processing,Clone,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0033666,C1955394,PROCESS_OF,Post-Translational Protein Processing,Tissue specific,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0242943,C4524574,PROCESS_OF,Molecular Mimicry,Ocular Tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0243102,C0001527,PROCESS_OF,enzyme activity,Adipose tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0243102,C0025255,PROCESS_OF,enzyme activity,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0243102,C0040300,PROCESS_OF,enzyme activity,Body tissue,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0301641,C0025255,PROCESS_OF,Macromolecular alteration,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0314668,C1522642,PROCESS_OF,Molecular stability,Clone,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597295,C0025255,PROCESS_OF,Protein Biosynthesis,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597295,C0026724,PROCESS_OF,Protein Biosynthesis,Mucous Membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597295,C1516828,PROCESS_OF,Protein Biosynthesis,Mouse Embryonic Fibroblast,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597297,C0026845,PROCESS_OF,"Protein Degradation, Metabolic",Muscle,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C0597304,C0014609,PROCESS_OF,Proteolysis,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597304,C0026845,PROCESS_OF,Proteolysis,Muscle,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597304,C0040300,PROCESS_OF,Proteolysis,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597358,C0014609,PROCESS_OF,receptor binding,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597513,C0040300,PROCESS_OF,Steroid biosynthesis,Body tissue,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0597879,C0004799,PROCESS_OF,immunoreactivity,Basement membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597879,C0014609,PROCESS_OF,immunoreactivity,Epithelium,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0597879,C0026969,PROCESS_OF,immunoreactivity,Myelin,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597879,C0027428,PROCESS_OF,immunoreactivity,Structure of mucous membrane of nose,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0597879,C0040300,PROCESS_OF,immunoreactivity,Body tissue,moft,tisu,4,PROCESS_OF_MOFTprcfTISU
+C0597879,C0682708,PROCESS_OF,immunoreactivity,White matter,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597879,C1521747,PROCESS_OF,immunoreactivity,Mammary Gland Parenchyma,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0597879,C2316368,PROCESS_OF,immunoreactivity,Tissue section,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C0598783,C1521713,PROCESS_OF,Lipid Metabolism,CNS - Brain (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0600436,C3668871,PROCESS_OF,Base Pairing,Structure of round subcutaneous fat tissue of forehead (body structure),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C0678659,C0040300,PROCESS_OF,biochemical mechanism,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1148560,C1955394,PROCESS_OF,molecular_function,Tissue specific,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1148564,C0001527,PROCESS_OF,antioxidant activity,Adipose tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1148636,C0025255,PROCESS_OF,Lipid Binding,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1149236,C0040300,PROCESS_OF,interleukin-26 binding activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1149552,C0040300,PROCESS_OF,chaperone activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1149779,C0040300,PROCESS_OF,pantetheinase activity,Body tissue,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1149842,C0014609,PROCESS_OF,phospholipase A2 activity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1149970,C0040300,PROCESS_OF,arylsulfatase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150095,C0040300,PROCESS_OF,peptidase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150129,C0014257,PROCESS_OF,calpain activity,Endothelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150130,C1521747,PROCESS_OF,caspase activity,Mammary Gland Parenchyma,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150224,C0040300,PROCESS_OF,metallopeptidase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150239,C0014609,PROCESS_OF,serine protease activity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150423,C0014609,PROCESS_OF,kinase activity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150571,C1516828,PROCESS_OF,IkappaB kinase activity,Mouse Embryonic Fibroblast,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150587,C0014609,PROCESS_OF,JUN kinase activity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150587,C1521713,PROCESS_OF,JUN kinase activity,CNS - Brain (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150596,C0014609,PROCESS_OF,transforming growth factor beta receptor activity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150635,C0025255,PROCESS_OF,stem cell factor receptor activity,Tissue membrane,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1150635,C0040300,PROCESS_OF,stem cell factor receptor activity,Body tissue,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1150635,C1511228,PROCESS_OF,stem cell factor receptor activity,Blood Vessel Tissue,moft,tisu,22,PROCESS_OF_MOFTprcfTISU
+C1150635,C1519524,PROCESS_OF,stem cell factor receptor activity,Paraffin Embedded Tissue,moft,tisu,6,PROCESS_OF_MOFTprcfTISU
+C1150635,C1522642,PROCESS_OF,stem cell factor receptor activity,Clone,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1150758,C0040300,PROCESS_OF,4-coumarate-CoA ligase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1151115,C0029250,PROCESS_OF,luciferin monooxygenase activity,Organoids,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1151115,C0040300,PROCESS_OF,luciferin monooxygenase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1151115,C1518039,PROCESS_OF,luciferin monooxygenase activity,Mouse Lung,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1151115,C1522062,PROCESS_OF,luciferin monooxygenase activity,Liver - Hepatocyte (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1152102,C0025255,PROCESS_OF,galactosyltransferase activity,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1152112,C0221909,PROCESS_OF,N-acetyllactosamine synthase activity,Squamous epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1153410,C0025255,PROCESS_OF,channel activity,Tissue membrane,moft,tisu,4,PROCESS_OF_MOFTprcfTISU
+C1155364,C0014609,PROCESS_OF,BMP Receptor Signaling Pathway,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1155501,C0014257,PROCESS_OF,nitric oxide mediated signal transduction,Endothelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1156199,C1518039,PROCESS_OF,histone modification,Mouse Lung,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1158366,C0026845,PROCESS_OF,fatty acid oxidation,Muscle,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C1159825,C1518039,PROCESS_OF,Caspase Activation,Mouse Lung,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1324815,C0040300,PROCESS_OF,dextransucrase activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1325934,C0026724,PROCESS_OF,T Cell Receptor Signaling Pathway,Mucous Membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1328948,C0025255,PROCESS_OF,RNA biosynthesis,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1449568,C1516828,PROCESS_OF,Co-Translational Protein Modification,Mouse Embryonic Fibroblast,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1510811,C0026724,PROCESS_OF,Adjuvanticity,Mucous Membrane,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C1511737,C1514590,PROCESS_OF,Deacetylation,Pseudostratified Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1513109,C0025255,PROCESS_OF,Membrane Fusion Activity,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1514762,C0026845,PROCESS_OF,Receptor Signaling,Muscle,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1514762,C0040300,PROCESS_OF,Receptor Signaling,Body tissue,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1518094,C0026724,PROCESS_OF,Lytic Phase,Mucous Membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1518094,C0040300,PROCESS_OF,Lytic Phase,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1519751,C0040300,PROCESS_OF,Ubiquitination,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1519751,C0771377,PROCESS_OF,Ubiquitination,Spleen Tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1519751,C1516828,PROCESS_OF,Ubiquitination,Mouse Embryonic Fibroblast,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1536991,C0014609,PROCESS_OF,antigen specificity,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1536991,C0026724,PROCESS_OF,antigen specificity,Mucous Membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1537044,C1518039,PROCESS_OF,protein activity,Mouse Lung,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1623036,C0026845,PROCESS_OF,"Protein Degradation, Regulatory",Muscle,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C1704259,C0014609,PROCESS_OF,Biochemical Pathway,Epithelium,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C1704259,C0028937,PROCESS_OF,Biochemical Pathway,Olfactory Mucosa,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1704259,C0029250,PROCESS_OF,Biochemical Pathway,Organoids,moft,tisu,3,PROCESS_OF_MOFTprcfTISU
+C1704259,C0040300,PROCESS_OF,Biochemical Pathway,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1704259,C1522062,PROCESS_OF,Biochemical Pathway,Liver - Hepatocyte (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1704259,C4277544,PROCESS_OF,Biochemical Pathway,Tertiary Lymphoid Structures,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1720950,C0027061,PROCESS_OF,Gene Regulatory Networks,Myocardium,moft,tisu,19,PROCESS_OF_MOFTprcfTISU
+C1720950,C0040300,PROCESS_OF,Gene Regulatory Networks,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1721101,C0040300,PROCESS_OF,Biosynthetic Pathways,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1749428,C1518039,PROCESS_OF,integrin ligand,Mouse Lung,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1817393,C0014609,PROCESS_OF,Toll-Like Receptor Signaling Pathway,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1817393,C0040300,PROCESS_OF,Toll-Like Receptor Signaling Pathway,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C1817832,C1180138,PROCESS_OF,glycosylase,Principal tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2246243,C0015350,PROCESS_OF,transforming growth factor beta1 production,Extracellular Matrix,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2247721,C0028937,PROCESS_OF,toll-like receptor 3 signaling pathway,Olfactory Mucosa,moft,tisu,2,PROCESS_OF_MOFTprcfTISU
+C2247725,C0014609,PROCESS_OF,toll-like receptor 4 signaling pathway,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2247725,C0021839,PROCESS_OF,toll-like receptor 4 signaling pathway,Intestinal Mucosa,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2248778,C0015641,PROCESS_OF,cyclic nucleotide-gated mechanosensitive ion channel activity,Fascia,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2248778,C0040300,PROCESS_OF,cyclic nucleotide-gated mechanosensitive ion channel activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2256521,C0025255,PROCESS_OF,thromboplastin activity,Tissue membrane,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2258685,C0040300,PROCESS_OF,angiotensin converting enzyme activity,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2753504,C0040300,PROCESS_OF,interleukin-35 receptor binding,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2754815,C1521713,PROCESS_OF,chemokine (C-C motif) ligand 5 production,CNS - Brain (MMHCC),moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2984300,C1272575,PROCESS_OF,Insulin/Insulin Receptor Signaling Pathway,Heart tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C2984468,C0014257,PROCESS_OF,Sphingosine 1-Phosphate Signaling Pathway,Endothelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C3268357,C1272575,PROCESS_OF,p38 MAPK signaling,Heart tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C3271802,C0026969,PROCESS_OF,Fc-gamma receptor signaling pathway involved in phagocytosis,Myelin,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C3272080,C0040300,PROCESS_OF,NLRP3 inflammasome activation,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C3824143,C0014609,PROCESS_OF,proteasome complex disassembly,Epithelium,moft,tisu,1,PROCESS_OF_MOFTprcfTISU
+C3824143,C0040300,PROCESS_OF,proteasome complex disassembly,Body tissue,moft,tisu,1,PROCESS_OF_MOFTprcfTISU

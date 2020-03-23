@@ -1,0 +1,484 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0026809,TREATS,Acetaminophen,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0000975,C0012984,TREATS,Acetate,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0000983,C0034693,TREATS,Acetic Acid,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0001927,C0019944,TREATS,Albuterol,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0001962,C0026809,TREATS,Ethanol,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0001962,C0035804,TREATS,Ethanol,Rodent,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0002062,C0026809,TREATS,Alkaloids,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0002144,C0007450,TREATS,Allopurinol,Felis catus,orch,mamm,8,TREATS_ORCHtrtsMAMM
+C0002144,C0012984,TREATS,Allopurinol,Canis familiaris,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0002144,C0324419,TREATS,Allopurinol,Toy poodle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002335,C0034693,TREATS,Alprostadil,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002533,C0036945,TREATS,Aminoacetonitrile,Sheep,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002556,C3687529,TREATS,Aminoglycosides,Cow for milk production,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002598,C0012984,TREATS,Amiodarone,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0002641,C0034693,TREATS,Amodiaquine,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002641,C0034715,TREATS,Amodiaquine,"Rats, Sprague-Dawley",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002641,C0237798,TREATS,Amodiaquine,Nonhuman primate,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0002772,C0012984,TREATS,"Analgesics, Opioid",Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0003174,C0026809,TREATS,Anthraquinones,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0003968,C0034693,TREATS,Ascorbic Acid,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0004057,C0012984,TREATS,Aspirin,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0004057,C0026809,TREATS,Aspirin,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0004147,C0012984,TREATS,Atenolol,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0004320,C0024398,TREATS,Auranofin,Macaca,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0005117,C0026809,TREATS,Berberine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0005117,C0034693,TREATS,Berberine,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0006405,C0026809,TREATS,Buprenorphine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0006405,C0034693,TREATS,Buprenorphine,Rattus norvegicus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0006463,C0025914,TREATS,Busulfan,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0006463,C0026809,TREATS,Busulfan,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0006463,C0034693,TREATS,Busulfan,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0006863,C0012984,TREATS,Cannabidiol,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0008269,C0015859,TREATS,Chloroquine,Ferrets,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0008269,C0018557,TREATS,Chloroquine,Hamsters,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0008269,C0025914,TREATS,Chloroquine,House mice,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0008269,C0026447,TREATS,Chloroquine,Monkeys,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0008269,C0026809,TREATS,Chloroquine,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0008269,C0034693,TREATS,Chloroquine,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0008425,C0007450,TREATS,Cholinesterase Inhibitors,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0008809,C0026809,TREATS,Ciprofloxacin,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0009008,C0026809,TREATS,Clomiphene,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0009074,C0012984,TREATS,Clotrimazole,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0009074,C0869010,TREATS,Clotrimazole,Young dog,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0009214,C0085979,TREATS,Codeine,Cavia,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0009262,C0026809,TREATS,Colchicine,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0010206,C0324889,TREATS,coumarin,Old World rabbit,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0010467,C0034693,TREATS,Curcumin,Rattus norvegicus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0010467,C0035804,TREATS,Curcumin,Rodent,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0010583,C0012984,TREATS,Cyclophosphamide,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0010583,C0024398,TREATS,Cyclophosphamide,Macaca,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0010583,C0025932,TREATS,Cyclophosphamide,"Mice, Nude",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0010583,C0026447,TREATS,Cyclophosphamide,Monkeys,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0010583,C0026809,TREATS,Cyclophosphamide,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0010648,C0012984,TREATS,Cysteamine,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0011816,C0024398,TREATS,Dextromethorphan,Macaca,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0011816,C0026809,TREATS,Dextromethorphan,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0011816,C0034695,TREATS,Dextromethorphan,"Rats, Cotton",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0011816,C1513853,TREATS,Dextromethorphan,NON Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0012306,C0007450,TREATS,Hydromorphone,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0012403,C0026809,TREATS,Dimethyl Sulfoxide,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0012447,C0036945,TREATS,Diminazene,Sheep,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0012586,C0019944,TREATS,Dipyrone,Equus caballus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0012789,C0026809,TREATS,Dithiothreitol,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0013092,C0034703,TREATS,Doxylamine,"Rats, Inbred F344",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0013618,C0012984,TREATS,Edetic Acid,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0014582,C0012984,TREATS,Epirubicin,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0015620,C0007452,TREATS,Famotidine,Cattle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0015846,C0012984,TREATS,Fentanyl,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0016229,C0019944,TREATS,Flecainide,Equus caballus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0016277,C0007450,TREATS,Fluconazole,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0016410,C0026809,TREATS,Folic Acid,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0016745,C0034693,TREATS,Fructose,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0016860,C0012984,TREATS,Furosemide,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0017245,C0026809,TREATS,Gemfibrozil,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0018546,C0026809,TREATS,Haloperidol,Mus,orch,mamm,9,TREATS_ORCHtrtsMAMM
+C0021236,C0007450,TREATS,indole,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0021236,C0012984,TREATS,indole,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0021246,C0026809,TREATS,Indomethacin,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0021246,C0034695,TREATS,Indomethacin,"Rats, Cotton",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022020,C0008139,TREATS,Ionomycin,Chiroptera,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022115,C0034693,TREATS,Isatin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022180,C0026809,TREATS,Isoflurane,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0022180,C0324547,TREATS,Isoflurane,New Zealand Rabbits,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022209,C0026809,TREATS,isoniazid,Mus,orch,mamm,13,TREATS_ORCHtrtsMAMM
+C0022209,C0324889,TREATS,isoniazid,Old World rabbit,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0022614,C0026809,TREATS,Ketamine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022816,C0034693,TREATS,Kynurenic Acid,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0022957,C0007450,TREATS,Lactulose,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0023556,C0007450,TREATS,Levamisole,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0023556,C0012984,TREATS,Levamisole,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0023660,C0007452,TREATS,Lidocaine,Cattle,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0023828,C0018557,TREATS,Liposomes,Hamsters,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0023972,C0012984,TREATS,Lomustine,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0025242,C0026809,TREATS,Memantine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0025598,C0007450,TREATS,Metformin,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0025598,C0012984,TREATS,Metformin,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0025598,C0026809,TREATS,Metformin,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0025638,C0034693,TREATS,Methenamine,Rattus norvegicus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0025872,C0007450,TREATS,Metronidazole,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0025872,C0012984,TREATS,Metronidazole,Canis familiaris,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0026056,C0012984,TREATS,Midazolam,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0026056,C0034693,TREATS,Midazolam,Rattus norvegicus,orch,mamm,11,TREATS_ORCHtrtsMAMM
+C0026056,C0324547,TREATS,Midazolam,New Zealand Rabbits,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0026056,C0324889,TREATS,Midazolam,Old World rabbit,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0026156,C0025919,TREATS,Mineral Oil,"Mice, Inbred BALB C",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0026156,C0034693,TREATS,Mineral Oil,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0026196,C0026809,TREATS,Minoxidil,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0026549,C0085979,TREATS,Morphine,Cavia,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0027360,C0012984,TREATS,Naltrexone,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0027996,C0034693,TREATS,Niacin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0028066,C1521751,TREATS,Nifedipine,C57BL/6 Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0028426,C0026809,TREATS,Noscapine,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0028978,C0007450,TREATS,Omeprazole,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0028978,C0019944,TREATS,Omeprazole,Equus caballus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0030078,C0019944,TREATS,Oxyphenbutazone,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0031007,C0019944,TREATS,Pergolide,Equus caballus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0031007,C0324180,TREATS,Pergolide,Pony,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0031463,C0019944,TREATS,Phenylbutazone,Equus caballus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0031849,C0026809,TREATS,Physostigmine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0031957,C0025914,TREATS,piperazine,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0032594,C0018557,TREATS,Polysaccharides,Hamsters,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0032594,C0025914,TREATS,Polysaccharides,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0032594,C0026809,TREATS,Polysaccharides,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0033223,C0012984,TREATS,Procarbazine,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0033223,C0026809,TREATS,Procarbazine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0033228,C0026809,TREATS,Fenofibrate,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0033487,C0012984,TREATS,Propofol,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0033487,C0039005,TREATS,Propofol,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0033487,C0324306,TREATS,Propofol,Beagle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0034266,C0008139,TREATS,Pyridoxal Phosphate,Chiroptera,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0034283,C0007450,TREATS,Pyrimethamine,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0034392,C0034693,TREATS,Quercetin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0035527,C0012984,TREATS,Riboflavin,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0035527,C0034693,TREATS,Riboflavin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0035527,C0035804,TREATS,Riboflavin,Rodent,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0035976,C0034693,TREATS,Rutin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0035976,C2699798,TREATS,Rutin,Domestic Short Hair Cat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0037135,C0684072,TREATS,Silymarin,albino rat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0037556,C0034693,TREATS,Sodium Tetradecyl Sulfate,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0037556,C0035804,TREATS,Sodium Tetradecyl Sulfate,Rodent,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0037707,C0012984,TREATS,Sotalol,Canis familiaris,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0038229,C0012984,TREATS,Stearic acid,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0038675,C0007450,TREATS,Sulfadiazine,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0038675,C0026809,TREATS,Sulfadiazine,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0038675,C0206745,TREATS,Sulfadiazine,"Mice, Knockout",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0038675,C3669692,TREATS,Sulfadiazine,Young housecat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0038689,C0026809,TREATS,Sulfamethoxazole,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0039286,C0025936,TREATS,Tamoxifen,"Mice, Transgenic",orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0039286,C0026809,TREATS,Tamoxifen,Mus,orch,mamm,12,TREATS_ORCHtrtsMAMM
+C0039294,C3687524,TREATS,Tannic Acid,Calf for milk production,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0039840,C0012984,TREATS,Thiamine,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0040233,C0007450,TREATS,Timolol,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0040958,C0026809,TREATS,Triclosan,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0041037,C0026809,TREATS,Trimetazidine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0041041,C0026809,TREATS,Trimethoprim,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0041098,C0035804,TREATS,Triprolidine,Rodent,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0041415,C0018019,TREATS,Tween 20,Capra hircus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0041415,C0025914,TREATS,Tween 20,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0041964,C0034693,TREATS,Urethane,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0042679,C0012984,TREATS,Vincristine,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0042839,C0012984,TREATS,Vitamin A,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0042845,C0007450,TREATS,Vitamin B 12,Felis catus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0042845,C0012984,TREATS,Vitamin B 12,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0042845,C0324376,TREATS,Vitamin B 12,Greyhound,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0042874,C0012984,TREATS,Vitamin E,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0042874,C0019944,TREATS,Vitamin E,Equus caballus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0042874,C0026809,TREATS,Vitamin E,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0042890,C0012984,TREATS,Vitamins,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0042890,C0034693,TREATS,Vitamins,Rattus norvegicus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0043366,C0026809,TREATS,Xylazine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0043369,C0007450,TREATS,Xylitol,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0044411,C0034693,TREATS,1-hydroxymethylmidazolam,Rattus norvegicus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0045745,C0007450,TREATS,2-(9-anthroyloxy)stearic acid,Felis catus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0045745,C0012984,TREATS,2-(9-anthroyloxy)stearic acid,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0049506,C0007450,TREATS,Mirtazapine,Felis catus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0049506,C0012984,TREATS,Mirtazapine,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0051482,C0007450,TREATS,alfaxalone,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0051482,C0324889,TREATS,alfaxalone,Old World rabbit,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0051561,C0034693,TREATS,amentoflavone,Rattus norvegicus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0051696,C0007450,TREATS,Amlodipine,Felis catus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0051696,C0012984,TREATS,Amlodipine,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0052430,C0034693,TREATS,artemisinine,Rattus norvegicus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0052432,C0034693,TREATS,artesunate,Rattus norvegicus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0052927,C0025919,TREATS,baicalein,"Mice, Inbred BALB C",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0053091,C0012984,TREATS,benazepril,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0053091,C0324382,TREATS,benazepril,Irish wolfhound,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0055738,C0026809,TREATS,Eucalyptol,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0055775,C0026809,TREATS,ciprofibrate,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0056608,C0026809,TREATS,curdlan,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0056789,C0018866,TREATS,cyclopamine,Erinaceidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0057090,C0034693,TREATS,daidzein,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0057091,C0034693,TREATS,daidzin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0057142,C1521751,TREATS,DAPI,C57BL/6 Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0057874,C0036945,TREATS,diclazuril,Sheep,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0058405,C0026809,TREATS,diphyllin,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0059747,C0026809,TREATS,ethyl acetate,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0059874,C0012984,TREATS,etoposide phosphate,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0060291,C0026809,TREATS,ferulic acid,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0060503,C0019944,TREATS,flunixin meglumine,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0060503,C0684075,TREATS,flunixin meglumine,Adult female pig having farrowed,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0061751,C0026809,TREATS,Glycyrrhizic Acid,Mus,orch,mamm,7,TREATS_ORCHtrtsMAMM
+C0062068,C0034693,TREATS,fasudil,Rattus norvegicus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0062095,C0007452,TREATS,halofuginone,Cattle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0062637,C1668676,TREATS,Hexamethonium,Rhinolophus pusillus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0063034,C0026809,TREATS,huperzine B,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0063041,C0012984,TREATS,leflunomide,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0064326,C0019944,TREATS,Ketorolac Tromethamine,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0065656,C0026809,TREATS,manidipine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0066776,C0026809,TREATS,monophosphoryl lipid A,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0066776,C0324889,TREATS,monophosphoryl lipid A,Old World rabbit,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0067067,C0026809,TREATS,myricetin,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0068451,C0034693,TREATS,naringin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0068788,C0007450,TREATS,nitazoxanide,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0068788,C0026809,TREATS,nitazoxanide,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0070122,C0026809,TREATS,Paroxetine,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0071071,C0007450,TREATS,pimobendan,Felis catus,orch,mamm,9,TREATS_ORCHtrtsMAMM
+C0071071,C0012984,TREATS,pimobendan,Canis familiaris,orch,mamm,7,TREATS_ORCHtrtsMAMM
+C0071071,C0324382,TREATS,pimobendan,Irish wolfhound,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0071071,C0324504,TREATS,pimobendan,Persian cat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0071097,C0026809,TREATS,pioglitazone,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0071649,C0026809,TREATS,polyphenols,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0071986,C0034693,TREATS,pristane,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0072279,C0026809,TREATS,prostaglandin F1,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0072973,C0012984,TREATS,Ramipril,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0073096,C0034693,TREATS,resveratrol,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0073561,C0026809,TREATS,Rolipram,Mus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0073591,C0025914,TREATS,rosoxacin,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0073591,C0026809,TREATS,rosoxacin,Mus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0073591,C0034693,TREATS,rosoxacin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0073591,C0034715,TREATS,rosoxacin,"Rats, Sprague-Dawley",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0073633,C0019944,TREATS,ranolazine,Equus caballus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0073992,C0026809,TREATS,salmeterol,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0074393,C0026809,TREATS,Sertraline,Mus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0074554,C0012984,TREATS,Simvastatin,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0074554,C0039005,TREATS,Simvastatin,Family suidae,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0075019,C0008139,TREATS,spiromustine,Chiroptera,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0075134,C0026809,TREATS,Specific Substance of Maruyama,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0075252,C0012984,TREATS,stigmastanol,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0075857,C0026809,TREATS,tauroursodeoxycholic acid,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0075857,C0085243,TREATS,tauroursodeoxycholic acid,"Mice, Inbred NOD",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0076080,C0324306,TREATS,temozolomide,Beagle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0076110,C0012984,TREATS,terbinafine,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0076799,C0007450,TREATS,tolfenamic acid,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0076836,C0012984,TREATS,Toremifene,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0076836,C0026809,TREATS,Toremifene,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0076840,C0007450,TREATS,torsemide,Felis catus,orch,mamm,8,TREATS_ORCHtrtsMAMM
+C0076840,C0012984,TREATS,torsemide,Canis familiaris,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0076840,C0019944,TREATS,torsemide,Equus caballus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0077194,C0012984,TREATS,trimethyloxamine,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0077497,C0012984,TREATS,tulobuterol,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0077938,C0026809,TREATS,ursolic acid,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0078257,C0026809,TREATS,vinorelbine,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0078844,C0012984,TREATS,zonisamide,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0079083,C0012984,TREATS,Carboplatin,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0079225,C0026809,TREATS,Dextran Sulfate Sodium,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0081408,C0026809,TREATS,zileuton,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0081876,C0007452,TREATS,pantoprazole,Cattle,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0081876,C0018019,TREATS,pantoprazole,Capra hircus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0081876,C0026809,TREATS,pantoprazole,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0081876,C0325253,TREATS,pantoprazole,Bos grunniens,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0082607,C0026809,TREATS,fluticasone,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0083144,C0024398,TREATS,KN 62,Macaca,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0083144,C0025914,TREATS,KN 62,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0083381,C0007450,TREATS,meloxicam,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0083381,C0015859,TREATS,meloxicam,Ferrets,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0084111,C0039005,TREATS,polybis(carbophenoxypropane),Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0085542,C0012984,TREATS,Pravastatin,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0086325,C0015859,TREATS,Foy,Ferrets,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0086616,C0324382,TREATS,Methyldigoxin,Irish wolfhound,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0087163,C0012984,TREATS,Levocarnitine,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0088341,C1521751,TREATS,benidipine hydrochloride,C57BL/6 Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0102885,C0026809,TREATS,Am 580,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0105753,C0026809,TREATS,Berenil,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0108434,C0007452,TREATS,Carbopol,Cattle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0108434,C0026809,TREATS,Carbopol,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0108434,C0324889,TREATS,Carbopol,Old World rabbit,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0108939,C0018019,TREATS,cefquinome,Capra hircus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0113293,C0007450,TREATS,Dexmedetomidine,Felis catus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0113293,C0012984,TREATS,Dexmedetomidine,Canis familiaris,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0113293,C0324889,TREATS,Dexmedetomidine,Old World rabbit,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0115685,C0026809,TREATS,elliptinium,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0126174,C0026809,TREATS,Losartan,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0128634,C0026809,TREATS,MK 0571,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0129975,C0026809,TREATS,camostat,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0143993,C0012984,TREATS,Sufentanil,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0143993,C0039005,TREATS,Sufentanil,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0143993,C0324547,TREATS,Sufentanil,New Zealand Rabbits,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0144576,C0026809,TREATS,Paclitaxel,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0162357,C0018557,TREATS,Clodronate,Hamsters,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0162357,C0026809,TREATS,Clodronate,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0162969,C0026809,TREATS,Chitosan,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0162969,C0039005,TREATS,Chitosan,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0165032,C0024400,TREATS,imiquimod,Macaca mulatta,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0165032,C0026809,TREATS,imiquimod,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0165703,C0012984,TREATS,imidapril,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0169014,C0019944,TREATS,erucylphosphocholine,Equus caballus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0178487,C0012984,TREATS,Ascorbate,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0178638,C0012984,TREATS,Folate,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0178638,C0324376,TREATS,Folate,Greyhound,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0207800,C0026809,TREATS,monorden,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0209368,C0006764,TREATS,mycophenolate mofetil,Callithrix,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0209368,C0006765,TREATS,mycophenolate mofetil,Callithrix jacchus jacchus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0209368,C0007450,TREATS,mycophenolate mofetil,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0209368,C0012984,TREATS,mycophenolate mofetil,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0209368,C0026809,TREATS,mycophenolate mofetil,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0211223,C0034693,TREATS,totarol,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0214439,C0012984,TREATS,marbofloxacin,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0216660,C0026809,TREATS,Zanamivir,Mus,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0220014,C0034693,TREATS,liquiritigenin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0246415,C0026809,TREATS,docetaxel,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0248719,C0007450,TREATS,telmisartan,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0249458,C0019944,TREATS,valacyclovir,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0253767,C0026809,TREATS,TiterMax,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0254211,C0026809,TREATS,arbidol,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0280485,C0007450,TREATS,m-azidopyrimethamine,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0281643,C0007450,TREATS,incomplete Freund's adjuvant,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0282386,C0026809,TREATS,Levofloxacin,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0283766,C0206745,TREATS,AD-6 (8-chlorocarbochromen),"Mice, Knockout",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0284559,C0026809,TREATS,gusperimus,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0289313,C0025914,TREATS,rosiglitazone,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0289313,C0026809,TREATS,rosiglitazone,Mus,orch,mamm,8,TREATS_ORCHtrtsMAMM
+C0289313,C0034693,TREATS,rosiglitazone,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0289313,C4053825,TREATS,rosiglitazone,db/db Mouse,orch,mamm,9,TREATS_ORCHtrtsMAMM
+C0297666,C0024398,TREATS,SB 203580,Macaca,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0297666,C0025914,TREATS,SB 203580,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0297666,C0025919,TREATS,SB 203580,"Mice, Inbred BALB C",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0297666,C0026179,TREATS,SB 203580,Mink,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0297666,C0026809,TREATS,SB 203580,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0297666,C0034693,TREATS,SB 203580,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0298130,C0026809,TREATS,montelukast,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0298130,C1521751,TREATS,montelukast,C57BL/6 Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0298346,C0034693,TREATS,PD 98059,Rattus norvegicus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0300903,C0007450,TREATS,orbifloxacin,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0359916,C0012984,TREATS,Phenolics,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0360714,C0012984,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0360714,C0039005,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Family suidae,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0360714,C0237798,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Nonhuman primate,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0376637,C0007452,TREATS,Indinavir,Cattle,orch,mamm,7,TREATS_ORCHtrtsMAMM
+C0376637,C0013127,TREATS,Indinavir,Camelus dromedarius,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0376637,C0015859,TREATS,Indinavir,Ferrets,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0376637,C0018019,TREATS,Indinavir,Capra hircus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0376637,C0035950,TREATS,Indinavir,Ruminants,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0376637,C0039005,TREATS,Indinavir,Family suidae,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C0376637,C0085979,TREATS,Indinavir,Cavia,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0376637,C0325203,TREATS,Indinavir,Camelus bactrianus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0377265,C0007450,TREATS,Levetiracetam,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0388088,C0026809,TREATS,FTY-720,Mus,orch,mamm,11,TREATS_ORCHtrtsMAMM
+C0388088,C0206745,TREATS,FTY-720,"Mice, Knockout",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0525005,C0007450,TREATS,Nelfinavir,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0525129,C0026809,TREATS,"WY 14,643",Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C0525129,C1520150,TREATS,"WY 14,643",Wild Type Mouse,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0525678,C0008139,TREATS,rasagiline,Chiroptera,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0525678,C0034693,TREATS,rasagiline,Rattus norvegicus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0526501,C0012984,TREATS,mosapride,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0528985,C0026809,TREATS,tyrphostin AG 1478,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0529793,C0012984,TREATS,sildenafil,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0529793,C0026809,TREATS,sildenafil,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0529793,C0324420,TREATS,sildenafil,Miniature poodle,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0529793,C0324449,TREATS,sildenafil,Shih tzu dog,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0536495,C0012984,TREATS,moxifloxacin,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0538927,C0025914,TREATS,celecoxib,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0538927,C0026809,TREATS,celecoxib,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0600203,C0026809,TREATS,Dichloroacetic Acid,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0605507,C0026809,TREATS,grandisol,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0606246,C0684075,TREATS,Banamine,Adult female pig having farrowed,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0635106,C0026809,TREATS,benzyloxycarbonyl-Phe-Ala-fluormethylketone,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0663448,C0026447,TREATS,Viagra,Monkeys,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0663733,C0007450,TREATS,tipranavir,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0664962,C0026809,TREATS,rocaglamide,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0674432,C0006764,TREATS,lopinavir,Callithrix,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0699595,C0026809,TREATS,Septra,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0701019,C0019944,TREATS,Buscopan,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0720544,C0026809,TREATS,G-1,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0721062,C0034693,TREATS,InFed,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0721501,C0026809,TREATS,MZM,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0722978,C0012984,TREATS,RMS,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0724624,C0007450,TREATS,Medium chain triglycerides,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0724624,C0012984,TREATS,Medium chain triglycerides,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0733696,C0026809,TREATS,Primaxin,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C0733696,C0206745,TREATS,Primaxin,"Mice, Knockout",orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0753951,C0007450,TREATS,bicyclam,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0755562,C0026809,TREATS,U 0126,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0756158,C0026809,TREATS,corosolic acid,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0758840,C0026809,TREATS,CC 3052,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0765273,C0026809,TREATS,bexarotene,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0769069,C0085979,TREATS,"CP 471,474",Cavia,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0872908,C0015859,TREATS,Oseltamivir phosphate,Ferrets,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0874161,C0015859,TREATS,Oseltamivir,Ferrets,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C0874161,C0025914,TREATS,Oseltamivir,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0874161,C0026809,TREATS,Oseltamivir,Mus,orch,mamm,13,TREATS_ORCHtrtsMAMM
+C0885057,C0026809,TREATS,Garlic preparation,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0885297,C1521751,TREATS,"Eosinum, eosin, Homeopathic preparation",C57BL/6 Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0904036,C0012984,TREATS,Etopophos,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0917964,C0034693,TREATS,Colforsin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0937846,C0012984,TREATS,Esomeprazole,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0949647,C0026809,TREATS,Tocotrienols,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0949665,C0007450,TREATS,Fluoroquinolones,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0949665,C0012984,TREATS,Fluoroquinolones,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C0949665,C3669692,TREATS,Fluoroquinolones,Young housecat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0961838,C0026809,TREATS,SCH 79797,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0968383,C0034693,TREATS,SP600125,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0968887,C0026809,TREATS,Cilomilast,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C0969677,C0019944,TREATS,alpha Tocopherol,Equus caballus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1096768,C0007450,TREATS,meglumine antimoniate,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1096768,C0012984,TREATS,meglumine antimoniate,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1101537,C0035804,TREATS,LASSBio 294,Rodent,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1122962,C0025914,TREATS,gefitinib,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1122962,C0025936,TREATS,gefitinib,"Mice, Transgenic",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1122962,C0026809,TREATS,gefitinib,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1136704,C0034693,TREATS,amotosalen,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1138226,C0018561,TREATS,favipiravir,Mesocricetus auratus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1138226,C0026809,TREATS,favipiravir,Mus,orch,mamm,8,TREATS_ORCHtrtsMAMM
+C1138226,C0039005,TREATS,favipiravir,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1170231,C0024398,TREATS,Dryvax,Macaca,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1170231,C0025914,TREATS,Dryvax,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1170231,C0032898,TREATS,Dryvax,Prairie Dogs,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1170231,C3887509,TREATS,Dryvax,Rabbits,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1176309,C0026809,TREATS,bortezomib,Mus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C1257954,C0026809,TREATS,Cyclooxygenase 2 Inhibitors,Mus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C1257987,C0025914,TREATS,Thiazolidinediones,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1259613,C0007450,TREATS,capromorelin,Felis catus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C1259613,C0012984,TREATS,capromorelin,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1311732,C0025936,TREATS,montanide ISA 51,"Mice, Transgenic",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1311732,C0026809,TREATS,montanide ISA 51,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1312150,C0012984,TREATS,BMS-378806,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1312150,C0026447,TREATS,BMS-378806,Monkeys,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1312150,C0034693,TREATS,BMS-378806,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1384629,C0034693,TREATS,BABY OIL,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1449704,C0025914,TREATS,Fibrates,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C1527262,C0085979,TREATS,17-(dimethylaminoethylamino)-17-demethoxygeldanamycin,Cavia,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1675326,C0024398,TREATS,peramivir,Macaca,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1831808,C0007450,TREATS,apixaban,Felis catus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C1871004,C0012984,TREATS,maropitant,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2713617,C0026809,TREATS,MK 0608,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2720148,C0012984,TREATS,Vetoryl,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2720164,C0026809,TREATS,MLN4924,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2728259,C0008139,TREATS,Program,Chiroptera,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2728259,C0012984,TREATS,Program,Canis familiaris,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C2728259,C0026809,TREATS,Program,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2728259,C0030362,TREATS,Program,Papio,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2728259,C0039005,TREATS,Program,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2728259,C3672276,TREATS,Program,Feral housecat,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2742474,C0012984,TREATS,toceranib phosphate,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C2742475,C0012984,TREATS,Palladia,Canis familiaris,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2746078,C0026809,TREATS,Linagliptin,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C2746078,C0034693,TREATS,Linagliptin,Rattus norvegicus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2746078,C0206745,TREATS,Linagliptin,"Mice, Knockout",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2825257,C0007450,TREATS,robenacoxib,Felis catus,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C2825368,C0007450,TREATS,toceranib,Felis catus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C2825368,C0012984,TREATS,toceranib,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C2926735,C0006801,TREATS,Duration,Camels,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C2926735,C0007450,TREATS,Duration,Felis catus,orch,mamm,5,TREATS_ORCHtrtsMAMM
+C2926735,C0007452,TREATS,Duration,Cattle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2926735,C0008139,TREATS,Duration,Chiroptera,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C2926735,C0012984,TREATS,Duration,Canis familiaris,orch,mamm,11,TREATS_ORCHtrtsMAMM
+C2926735,C0019944,TREATS,Duration,Equus caballus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C2926735,C0035804,TREATS,Duration,Rodent,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2926735,C0039005,TREATS,Duration,Family suidae,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C2926735,C0684075,TREATS,Duration,Adult female pig having farrowed,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2930490,C0026809,TREATS,vadimezan,Mus,orch,mamm,21,TREATS_ORCHtrtsMAMM
+C2930490,C0206745,TREATS,vadimezan,"Mice, Knockout",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2930490,C1521751,TREATS,vadimezan,C57BL/6 Mouse,orch,mamm,6,TREATS_ORCHtrtsMAMM
+C2930789,C0026809,TREATS,nintedanib,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2934718,C0026809,TREATS,SM 934,Mus,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C2935547,C0018866,TREATS,GANT 61,Erinaceidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C2962221,C0012984,TREATS,TAC,Canis familiaris,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C2974522,C0026809,TREATS,SCH 530348,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3152857,C0036945,TREATS,Prevail,Sheep,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3179789,C0024400,TREATS,MB 003,Macaca mulatta,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3256127,C0007452,TREATS,Bos taurus colostrum preparation,Cattle,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3256127,C0039005,TREATS,Bos taurus colostrum preparation,Family suidae,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3267761,C0024399,TREATS,B-Natal,Macaca fascicularis,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3486845,C0085112,TREATS,Sus scrofa thymus preparation,SCID Mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C3659159,C0026809,TREATS,ST-148,Mus,orch,mamm,2,TREATS_ORCHtrtsMAMM
+C3858027,C0007450,TREATS,Convenia,Felis catus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C4033616,C0012984,TREATS,Entresto,Canis familiaris,orch,mamm,3,TREATS_ORCHtrtsMAMM
+C4045487,C0015859,TREATS,verdinexor,Ferrets,orch,mamm,4,TREATS_ORCHtrtsMAMM
+C4045487,C0025914,TREATS,verdinexor,House mice,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C4045487,C0026809,TREATS,verdinexor,Mus,orch,mamm,7,TREATS_ORCHtrtsMAMM
+C4050026,C0025919,TREATS,Matrix,"Mice, Inbred BALB C",orch,mamm,1,TREATS_ORCHtrtsMAMM
+C4050026,C0026809,TREATS,Matrix,Mus,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C4050026,C4053825,TREATS,Matrix,db/db Mouse,orch,mamm,1,TREATS_ORCHtrtsMAMM
+C4548092,C0026809,TREATS,KDU731,Mus,orch,mamm,6,TREATS_ORCHtrtsMAMM

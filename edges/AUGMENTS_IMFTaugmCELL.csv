@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003315,AUGMENTS,Immunologic Adjuvants,Antigen-Presenting Cells,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0001551,C0004561,AUGMENTS,Immunologic Adjuvants,B-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0001551,C0011306,AUGMENTS,Immunologic Adjuvants,Dendritic Cells,imft,cell,3,AUGMENTS_IMFTaugmCELL
+C0001551,C0024432,AUGMENTS,Immunologic Adjuvants,macrophage,imft,cell,4,AUGMENTS_IMFTaugmCELL
+C0001551,C0027950,AUGMENTS,Immunologic Adjuvants,neutrophil,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C0039194,AUGMENTS,Immunologic Adjuvants,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C0039195,AUGMENTS,Immunologic Adjuvants,Cytotoxic T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C0039198,AUGMENTS,Immunologic Adjuvants,Regulatory T-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0001551,C0085820,AUGMENTS,Immunologic Adjuvants,Antibody-Secreting Cells,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C0242629,AUGMENTS,Immunologic Adjuvants,CD8-Positive T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C1519477,AUGMENTS,Immunologic Adjuvants,Splenocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0001551,C4330475,AUGMENTS,Immunologic Adjuvants,Immune Cell,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0003316,C0039194,AUGMENTS,Epitopes,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0004886,C0039194,AUGMENTS,BCG Vaccine,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0004886,C0039215,AUGMENTS,BCG Vaccine,CD4 Positive T Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0016712,C0039194,AUGMENTS,Freund's Adjuvant,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0021403,C0039194,AUGMENTS,Influenza virus vaccine,T-Lymphocyte,imft,cell,3,AUGMENTS_IMFTaugmCELL
+C0025010,C0242629,AUGMENTS,Measles Vaccine,CD8-Positive T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0003315,AUGMENTS,Vaccines,Antigen-Presenting Cells,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0004561,AUGMENTS,Vaccines,B-Lymphocytes,imft,cell,4,AUGMENTS_IMFTaugmCELL
+C0042210,C0011306,AUGMENTS,Vaccines,Dendritic Cells,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0029974,AUGMENTS,Vaccines,Ovum,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0039194,AUGMENTS,Vaccines,T-Lymphocyte,imft,cell,23,AUGMENTS_IMFTaugmCELL
+C0042210,C0039195,AUGMENTS,Vaccines,Cytotoxic T-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0042210,C0039215,AUGMENTS,Vaccines,CD4 Positive T Lymphocytes,imft,cell,6,AUGMENTS_IMFTaugmCELL
+C0042210,C0221284,AUGMENTS,Vaccines,Leptocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0242629,AUGMENTS,Vaccines,CD8-Positive T-Lymphocytes,imft,cell,6,AUGMENTS_IMFTaugmCELL
+C0042210,C0242633,AUGMENTS,Vaccines,T-helper cell type 2,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0682638,AUGMENTS,Vaccines,memory b cell,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C0682639,AUGMENTS,Vaccines,Memory T-Lymphocyte,imft,cell,3,AUGMENTS_IMFTaugmCELL
+C0042210,C1257857,AUGMENTS,Vaccines,COS-1 Cells,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C1267822,AUGMENTS,Vaccines,CD4+ CD25+ Regulatory T Cells,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0042210,C4289596,AUGMENTS,Vaccines,Effector Memory T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C4330475,AUGMENTS,Vaccines,Immune Cell,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042210,C4331503,AUGMENTS,Vaccines,Virus-specific Cytotoxic T-lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042212,C0039215,AUGMENTS,"Vaccines, Inactivated",CD4 Positive T Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042212,C0242629,AUGMENTS,"Vaccines, Inactivated",CD8-Positive T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042742,C0004561,AUGMENTS,Viral Vaccines,B-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042742,C0039194,AUGMENTS,Viral Vaccines,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042742,C0039195,AUGMENTS,Viral Vaccines,Cytotoxic T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0042742,C4331503,AUGMENTS,Viral Vaccines,Virus-specific Cytotoxic T-lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0083193,C0004561,AUGMENTS,larifan,B-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0083193,C0024432,AUGMENTS,larifan,macrophage,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0376613,C0004561,AUGMENTS,"Vaccines, DNA",B-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0376613,C0018894,AUGMENTS,"Vaccines, DNA",Helper-Inducer T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0376613,C0024432,AUGMENTS,"Vaccines, DNA",macrophage,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0376613,C0039194,AUGMENTS,"Vaccines, DNA",T-Lymphocyte,imft,cell,4,AUGMENTS_IMFTaugmCELL
+C0376613,C0039195,AUGMENTS,"Vaccines, DNA",Cytotoxic T-Lymphocytes,imft,cell,4,AUGMENTS_IMFTaugmCELL
+C0376613,C0039215,AUGMENTS,"Vaccines, DNA",CD4 Positive T Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0376613,C0242629,AUGMENTS,"Vaccines, DNA",CD8-Positive T-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0376613,C3641722,AUGMENTS,"Vaccines, DNA",Effector T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0376613,C3896693,AUGMENTS,"Vaccines, DNA",Bone Marrow-Derived Cell,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C0597420,C0018894,AUGMENTS,Salmonella Vaccines,Helper-Inducer T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0597420,C0039195,AUGMENTS,Salmonella Vaccines,Cytotoxic T-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0597641,C0039194,AUGMENTS,plasmid vaccine,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0887892,C0022686,AUGMENTS,"Vaccines, Subunit",Killer Cells,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0887892,C0039194,AUGMENTS,"Vaccines, Subunit",T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0887894,C0039215,AUGMENTS,Respiratory Syncytial Virus Vaccines,CD4 Positive T Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C0887902,C0312737,AUGMENTS,"Vaccines, Edible",Immunologic cell,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C3161957,C0242629,AUGMENTS,INFLUENZA strains,CD8-Positive T-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C3178367,C0039194,AUGMENTS,MVA vaccine,T-Lymphocyte,imft,cell,5,AUGMENTS_IMFTaugmCELL
+C3178367,C0242629,AUGMENTS,MVA vaccine,CD8-Positive T-Lymphocytes,imft,cell,2,AUGMENTS_IMFTaugmCELL
+C3272757,C0004561,AUGMENTS,Live Attenuated Influenza Vaccine,B-Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C3272757,C0039194,AUGMENTS,Live Attenuated Influenza Vaccine,T-Lymphocyte,imft,cell,1,AUGMENTS_IMFTaugmCELL
+C3272757,C1512944,AUGMENTS,Live Attenuated Influenza Vaccine,Intraepithelial Lymphocytes,imft,cell,1,AUGMENTS_IMFTaugmCELL

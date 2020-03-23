@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011211,C0018747,ISA,Delivery of Health Care,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0013961,C0018747,ISA,Emergency medical service,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019855,C0018747,ISA,Home Care Services,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0019993,C0018747,ISA,Hospitalization,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0030685,C1261322,ISA,Patient Discharge,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0031809,C0199182,ISA,Physical Examination,History taking,hlca,hlca,5,ISA_HLCAisaHLCA
+C0031809,C1261322,ISA,Physical Examination,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033021,C0013961,ISA,Prehospital Emergency Care,Emergency medical service,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033101,C1261322,ISA,pretesting,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033137,C0017313,ISA,Primary Health Care,patient care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0033137,C0018747,ISA,Primary Health Care,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0085557,C0017313,ISA,Infectious disease prevention / control,patient care,hlca,hlca,1,ISA_HLCAisaHLCA
+C0086930,C0035649,ISA,Risk Assessment,Risk Management,hlca,hlca,2,ISA_HLCAisaHLCA
+C0086930,C1261322,ISA,Risk Assessment,Evaluation procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0162648,C1261322,ISA,Telemedicine,Evaluation procedure,hlca,hlca,2,ISA_HLCAisaHLCA
+C0184666,C0018747,ISA,Hospital admission,Health Services,hlca,hlca,1,ISA_HLCAisaHLCA
+C0184666,C0019993,ISA,Hospital admission,Hospitalization,hlca,hlca,9,ISA_HLCAisaHLCA
+C0220908,C1261322,ISA,Screening procedure,Evaluation procedure,hlca,hlca,3,ISA_HLCAisaHLCA
+C0561867,C0030695,ISA,Respiratory volume monitoring,Patient Monitoring,hlca,hlca,1,ISA_HLCAisaHLCA
+C0582103,C0940824,ISA,Medical Examination,Additional procedure,hlca,hlca,1,ISA_HLCAisaHLCA
+C0872369,C0162648,ISA,telecare,Telemedicine,hlca,hlca,1,ISA_HLCAisaHLCA
+C3494318,C0034024,ISA,Public Health Surveillance,Public Health Practice,hlca,hlca,2,ISA_HLCAisaHLCA
+C3650404,C0019993,ISA,Admission unit,Hospitalization,hlca,hlca,1,ISA_HLCAisaHLCA

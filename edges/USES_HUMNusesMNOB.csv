@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0028661,C0002422,USES,Nurses,Ambulances,humn,mnob,1,USES_HUMNusesMNOB
+C0028661,C0039818,USES,Nurses,"Thermometer, device",humn,mnob,16,USES_HUMNusesMNOB
+C0028661,C0348000,USES,Nurses,Instrument - device,humn,mnob,1,USES_HUMNusesMNOB
+C0030450,C0002422,USES,Paramedical Personnel,Ambulances,humn,mnob,4,USES_HUMNusesMNOB
+C0030551,C0039818,USES,parent,"Thermometer, device",humn,mnob,5,USES_HUMNusesMNOB
+C0030551,C0348000,USES,parent,Instrument - device,humn,mnob,1,USES_HUMNusesMNOB
+C0031831,C0348000,USES,Physicians,Instrument - device,humn,mnob,2,USES_HUMNusesMNOB
+C0237426,C0013812,USES,Neurologists,electrode,humn,mnob,1,USES_HUMNusesMNOB
+C0242170,C0183309,USES,Policy Makers,Simulators,humn,mnob,1,USES_HUMNusesMNOB
+C0242856,C0175720,USES,Veterinarian,Caliper,humn,mnob,1,USES_HUMNusesMNOB
+C0335306,C0002422,USES,Service worker,Ambulances,humn,mnob,1,USES_HUMNusesMNOB
+C0403065,C0183309,USES,Builder,Simulators,humn,mnob,1,USES_HUMNusesMNOB
+C0554244,C0183309,USES,Maker (occupation),Simulators,humn,mnob,1,USES_HUMNusesMNOB
+C0582175,C0183309,USES,Surgeon,Simulators,humn,mnob,1,USES_HUMNusesMNOB
+C0684312,C0002422,USES,Drivers of Vehicles,Ambulances,humn,mnob,5,USES_HUMNusesMNOB
+C0687759,C0039818,USES,traveler,"Thermometer, device",humn,mnob,1,USES_HUMNusesMNOB
+C0871489,C0002422,USES,teams,Ambulances,humn,mnob,2,USES_HUMNusesMNOB
+C0871489,C0183309,USES,teams,Simulators,humn,mnob,1,USES_HUMNusesMNOB
+C1706077,C0183309,USES,user - individual,Simulators,humn,mnob,1,USES_HUMNusesMNOB

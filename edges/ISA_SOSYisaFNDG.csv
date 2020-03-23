@@ -1,0 +1,55 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003123,C3540840,ISA,Anorexia,Sign or Symptom,sosy,fndg,11,ISA_SOSYisaFNDG
+C0004134,C3540840,ISA,Ataxia,Sign or Symptom,sosy,fndg,4,ISA_SOSYisaFNDG
+C0006625,C0342952,ISA,Cachexia,Hypermetabolism,sosy,fndg,1,ISA_SOSYisaFNDG
+C0006625,C3540840,ISA,Cachexia,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0010200,C0221198,ISA,Coughing,Lesion,sosy,fndg,1,ISA_SOSYisaFNDG
+C0010200,C3540840,ISA,Coughing,Sign or Symptom,sosy,fndg,13,ISA_SOSYisaFNDG
+C0010520,C3540840,ISA,Cyanosis,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0011991,C3540840,ISA,Diarrhea,Sign or Symptom,sosy,fndg,31,ISA_SOSYisaFNDG
+C0012833,C3540840,ISA,Dizziness,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0013132,C3540840,ISA,Drooling,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0013144,C0278060,ISA,Drowsiness,Mental state,sosy,fndg,1,ISA_SOSYisaFNDG
+C0013404,C3540840,ISA,Dyspnea,Sign or Symptom,sosy,fndg,4,ISA_SOSYisaFNDG
+C0013428,C3540840,ISA,Dysuria,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0015672,C0424575,ISA,Fatigue,General health,sosy,fndg,1,ISA_SOSYisaFNDG
+C0018681,C3540840,ISA,Headache,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0027066,C0027854,ISA,Myoclonus,Neurologic Manifestations,sosy,fndg,1,ISA_SOSYisaFNDG
+C0027497,C0232459,ISA,Nausea,Abnormal digestive tract function,sosy,fndg,1,ISA_SOSYisaFNDG
+C0028961,C0278060,ISA,Oliguria,Mental state,sosy,fndg,1,ISA_SOSYisaFNDG
+C0030552,C0522224,ISA,Paresis,Paralysed,sosy,fndg,1,ISA_SOSYisaFNDG
+C0035508,C0425542,ISA,Rhonchi,Added respiratory sounds,sosy,fndg,1,ISA_SOSYisaFNDG
+C0036572,C0027854,ISA,Seizures,Neurologic Manifestations,sosy,fndg,2,ISA_SOSYisaFNDG
+C0036572,C0422837,ISA,Seizures,Neurological observations,sosy,fndg,1,ISA_SOSYisaFNDG
+C0036572,C3540840,ISA,Seizures,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0037383,C3540840,ISA,Sneezing,Sign or Symptom,sosy,fndg,3,ISA_SOSYisaFNDG
+C0040485,C3540840,ISA,Torticollis,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0040822,C0027854,ISA,Tremor,Neurologic Manifestations,sosy,fndg,1,ISA_SOSYisaFNDG
+C0040822,C3540840,ISA,Tremor,Sign or Symptom,sosy,fndg,4,ISA_SOSYisaFNDG
+C0041834,C0221198,ISA,Erythema,Lesion,sosy,fndg,1,ISA_SOSYisaFNDG
+C0042963,C3540840,ISA,Vomiting,Sign or Symptom,sosy,fndg,15,ISA_SOSYisaFNDG
+C0152031,C0221198,ISA,Joint swelling,Lesion,sosy,fndg,1,ISA_SOSYisaFNDG
+C0231218,C3540840,ISA,Malaise,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0231528,C3540840,ISA,Myalgia,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0231835,C3540840,ISA,Tachypnea,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0232605,C3540840,ISA,Regurgitates after swallowing,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0234369,C3540840,ISA,Trembling,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0234372,C1704258,ISA,Intermittent Tremor,Abnormality,sosy,fndg,1,ISA_SOSYisaFNDG
+C0234428,C3540840,ISA,Disturbance of consciousness,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0235031,C0422837,ISA,Neurologic Symptoms,Neurological observations,sosy,fndg,1,ISA_SOSYisaFNDG
+C0239134,C3540840,ISA,Productive cough,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0239182,C3540840,ISA,Watery diarrhea,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0277787,C0033213,ISA,Social stigmata,Problem,sosy,fndg,2,ISA_SOSYisaFNDG
+C0277794,C3540840,ISA,Extreme exhaustion,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0277873,C3540840,ISA,Nasal flaring,Sign or Symptom,sosy,fndg,1,ISA_SOSYisaFNDG
+C0333274,C3540840,ISA,Purulent discharge,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0476273,C3540840,ISA,Respiratory distress,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0520966,C3540840,ISA,Abnormal coordination,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C0553668,C3540840,ISA,Labored breathing,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C1260880,C3540840,ISA,Rhinorrhea,Sign or Symptom,sosy,fndg,7,ISA_SOSYisaFNDG
+C1443924,C3540840,ISA,Severe diarrhea,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C3697716,C0027854,ISA,Acute flaccid paralysis,Neurologic Manifestations,sosy,fndg,1,ISA_SOSYisaFNDG
+C3697716,C0521654,ISA,Acute flaccid paralysis,Neurologic Deficits,sosy,fndg,2,ISA_SOSYisaFNDG
+C3714552,C3540840,ISA,Weakness,Sign or Symptom,sosy,fndg,2,ISA_SOSYisaFNDG
+C3887688,C0033213,ISA,Glare - eye symptom,Problem,sosy,fndg,1,ISA_SOSYisaFNDG
+C3890602,C0424575,ISA,Bodily Pain,General health,sosy,fndg,5,ISA_SOSYisaFNDG

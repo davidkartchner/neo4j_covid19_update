@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015967,C0009818,CAUSES,Fever,Consultation,fndg,hlca,1,CAUSES_FNDGcausHLCA
+C0015967,C0019993,CAUSES,Fever,Hospitalization,fndg,hlca,4,CAUSES_FNDGcausHLCA
+C0015967,C0030685,CAUSES,Fever,Patient Discharge,fndg,hlca,2,CAUSES_FNDGcausHLCA
+C0015967,C0220908,CAUSES,Fever,Screening procedure,fndg,hlca,2,CAUSES_FNDGcausHLCA

@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C3714514,NEG_AFFECTS,Antibiotics,Infection,antb,patf,2,NEG_AFFECTS_ANTBnafctPATF
+C0003240,C0020517,NEG_AFFECTS,Macrolide Antibiotics,Hypersensitivity,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0003240,C0243087,NEG_AFFECTS,Macrolide Antibiotics,concomitant disease,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0007559,C0020517,NEG_AFFECTS,Ceftazidime,Hypersensitivity,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0007561,C0020517,NEG_AFFECTS,Ceftriaxone,Hypersensitivity,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0014806,C0020517,NEG_AFFECTS,Erythromycin,Hypersensitivity,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0016610,C3714514,NEG_AFFECTS,Fosfomycin,Infection,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C0282215,C0020517,NEG_AFFECTS,beta-Lactams,Hypersensitivity,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF
+C1451406,C0027540,NEG_AFFECTS,tulathromycin,Necrosis,antb,patf,1,NEG_AFFECTS_ANTBnafctPATF

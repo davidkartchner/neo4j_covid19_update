@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020969,C0042765,AFFECTS,"Immunity, Innate",Virulence,orga,biof,1,AFFECTS_ORGAafctBIOF
+C1537068,C0220781,AFFECTS,Virus Internalization,Anabolism,orga,biof,1,AFFECTS_ORGAafctBIOF
+C1537068,C1160638,AFFECTS,Virus Internalization,Viral life cycle,orga,biof,3,AFFECTS_ORGAafctBIOF
+C1537068,C1721019,AFFECTS,Virus Internalization,Virus Attachment,orga,biof,5,AFFECTS_ORGAafctBIOF

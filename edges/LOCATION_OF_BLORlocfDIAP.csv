@@ -1,0 +1,114 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000726,C0004339,LOCATION_OF,Abdomen,Auscultation,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0000726,C0030247,LOCATION_OF,Abdomen,Palpation,blor,diap,25,LOCATION_OF_BLORlocfDIAP
+C0000726,C0034606,LOCATION_OF,Abdomen,Radionuclide Imaging,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0000726,C0040395,LOCATION_OF,Abdomen,tomography,blor,diap,3,LOCATION_OF_BLORlocfDIAP
+C0000726,C0041618,LOCATION_OF,Abdomen,Ultrasonography,blor,diap,34,LOCATION_OF_BLORlocfDIAP
+C0000726,C0085704,LOCATION_OF,Abdomen,Exploratory laparotomy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0000726,C0474781,LOCATION_OF,Abdomen,Color doppler ultrasound,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0000726,C0742919,LOCATION_OF,Abdomen,ct scan contrast,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0000726,C0948501,LOCATION_OF,Abdomen,Ultrasound examination,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0003086,C0043299,LOCATION_OF,Ankle,Diagnostic radiologic examination,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0004454,C0581714,LOCATION_OF,Axilla,Buccal smear procedure,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0004454,C0683454,LOCATION_OF,Axilla,internal-external locus of control scale,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0004600,C0033367,LOCATION_OF,Back,Projective Techniques,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0004600,C0599519,LOCATION_OF,Back,remote sensing,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0015450,C0039810,LOCATION_OF,Face,thermography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0015450,C0683454,LOCATION_OF,Face,internal-external locus of control scale,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0016536,C0430494,LOCATION_OF,Forearm,Venous occlusion plethysmography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0018246,C0581714,LOCATION_OF,Inguinal region,Buccal smear procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0018670,C0005558,LOCATION_OF,Head,Biopsy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0018670,C0024485,LOCATION_OF,Head,Magnetic Resonance Imaging,blor,diap,4,LOCATION_OF_BLORlocfDIAP
+C0018670,C0189024,LOCATION_OF,Head,Endoscopy of nose,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0018670,C0872186,LOCATION_OF,Head,high throughput analysis,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0018670,C0872187,LOCATION_OF,Head,high throughput screening,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0018670,C1964257,LOCATION_OF,Head,Observation - diagnostic procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0019552,C0024485,LOCATION_OF,Hip structure,Magnetic Resonance Imaging,blor,diap,4,LOCATION_OF_BLORlocfDIAP
+C0019552,C0043299,LOCATION_OF,Hip structure,Diagnostic radiologic examination,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0022742,C0024485,LOCATION_OF,Knee,Magnetic Resonance Imaging,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0022742,C0043299,LOCATION_OF,Knee,Diagnostic radiologic examination,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0022742,C0729707,LOCATION_OF,Knee,"Computerized tomography, 3 dimensional reconstruction",blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0023216,C0005776,LOCATION_OF,Lower Extremity,blood flow measurement,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0023216,C0031545,LOCATION_OF,Lower Extremity,Venography - procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0023216,C0041618,LOCATION_OF,Lower Extremity,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0023216,C0200125,LOCATION_OF,Lower Extremity,Nerve conduction study,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0023216,C1536105,LOCATION_OF,Lower Extremity,Computed Tomography Angiography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0025066,C0039985,LOCATION_OF,Mediastinum,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0025474,C0005558,LOCATION_OF,Mesentery,Biopsy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0005558,LOCATION_OF,Neck,Biopsy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0030247,LOCATION_OF,Neck,Palpation,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0034606,LOCATION_OF,Neck,Radionuclide Imaging,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0041618,LOCATION_OF,Neck,Ultrasonography,blor,diap,3,LOCATION_OF_BLORlocfDIAP
+C0027530,C0184924,LOCATION_OF,Neck,Punch biopsy (procedure),blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0242844,LOCATION_OF,Neck,"Ultrasonography, Doppler, Color",blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0262485,LOCATION_OF,Neck,Flash,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C0581714,LOCATION_OF,Neck,Buccal smear procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C1306645,LOCATION_OF,Neck,Plain x-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C1880637,LOCATION_OF,Neck,Exploratory Surgery,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0027530,C2826145,LOCATION_OF,Neck,Fluid Attenuated Inversion Recovery,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0030797,C0034606,LOCATION_OF,Pelvis,Radionuclide Imaging,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0030797,C0040405,LOCATION_OF,Pelvis,X-Ray Computed Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0030797,C1306645,LOCATION_OF,Pelvis,Plain x-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0043262,C0043299,LOCATION_OF,Wrist,Diagnostic radiologic examination,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0178802,C0041618,LOCATION_OF,Pleural cavity,Ultrasonography,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0205054,C0005558,LOCATION_OF,Hepatic,Biopsy,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0225759,C0004339,LOCATION_OF,Lung field,Auscultation,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0229247,C1831737,LOCATION_OF,Medial canthus,infrared thermography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230132,C0039985,LOCATION_OF,Anterior chest wall structure,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230132,C0041618,LOCATION_OF,Anterior chest wall structure,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230166,C0034573,LOCATION_OF,Lower abdomen,"Radiography, Abdominal",blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230166,C0041618,LOCATION_OF,Lower abdomen,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230168,C0004398,LOCATION_OF,Abdominal Cavity,Autopsy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0230168,C1306645,LOCATION_OF,Abdominal Cavity,Plain x-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0442037,C0041618,LOCATION_OF,Popliteal,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0446472,C1306645,LOCATION_OF,Side of chest,Plain x-ray,blor,diap,3,LOCATION_OF_BLORlocfDIAP
+C0450810,C0419358,LOCATION_OF,CV1,Exploration with a probe,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0460004,C0032743,LOCATION_OF,Head and neck structure,Positron-Emission Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0460004,C0441633,LOCATION_OF,Head and neck structure,Scanning,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0521450,C1964257,LOCATION_OF,lysosomal,Observation - diagnostic procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0521463,C0444186,LOCATION_OF,cloacal,Smear test,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0521463,C0581714,LOCATION_OF,cloacal,Buccal smear procedure,blor,diap,18,LOCATION_OF_BLORlocfDIAP
+C0524454,C0041618,LOCATION_OF,endovaginal,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0524466,C0005558,LOCATION_OF,Intracranial,Biopsy,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0559285,C0039985,LOCATION_OF,Zone of lung,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0596790,C0005558,LOCATION_OF,interstitial,Biopsy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0596790,C0040405,LOCATION_OF,interstitial,X-Ray Computed Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0815275,C0024485,LOCATION_OF,subcortical,Magnetic Resonance Imaging,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0815275,C0040405,LOCATION_OF,subcortical,X-Ray Computed Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0815275,C0412675,LOCATION_OF,subcortical,MRI brain procedure,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0816951,C0581714,LOCATION_OF,Inguinal part of abdomen,Buccal smear procedure,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0002978,LOCATION_OF,Chest,angiogram,blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0817096,C0004339,LOCATION_OF,Chest,Auscultation,blor,diap,26,LOCATION_OF_BLORlocfDIAP
+C0817096,C0012249,LOCATION_OF,Chest,Digital Radiography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0013516,LOCATION_OF,Chest,Echocardiography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0016356,LOCATION_OF,Chest,Fluoroscopy,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0024119,LOCATION_OF,Chest,Pulmonary function tests,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0034606,LOCATION_OF,Chest,Radionuclide Imaging,blor,diap,13,LOCATION_OF_BLORlocfDIAP
+C0817096,C0039985,LOCATION_OF,Chest,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0040395,LOCATION_OF,Chest,tomography,blor,diap,15,LOCATION_OF_BLORlocfDIAP
+C0817096,C0040405,LOCATION_OF,Chest,X-Ray Computed Tomography,blor,diap,10,LOCATION_OF_BLORlocfDIAP
+C0817096,C0041618,LOCATION_OF,Chest,Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0043299,LOCATION_OF,Chest,Diagnostic radiologic examination,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0599551,LOCATION_OF,Chest,angiotomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C0742919,LOCATION_OF,Chest,ct scan contrast,blor,diap,4,LOCATION_OF_BLORlocfDIAP
+C0817096,C0860888,LOCATION_OF,Chest,"Tomography, Spiral Computed",blor,diap,2,LOCATION_OF_BLORlocfDIAP
+C0817096,C1306645,LOCATION_OF,Chest,Plain x-ray,blor,diap,12,LOCATION_OF_BLORlocfDIAP
+C0817096,C1512457,LOCATION_OF,Chest,High Resolution Computed Tomography,blor,diap,5,LOCATION_OF_BLORlocfDIAP
+C0817096,C1881134,LOCATION_OF,Chest,Image Study,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0817096,C3179130,LOCATION_OF,Chest,Multidetector Computed Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0920882,C0041618,LOCATION_OF,Region of neck (body structure),Ultrasonography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0929212,C0039985,LOCATION_OF,Left lung zone,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0929226,C0040395,LOCATION_OF,Right lung field,tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0929435,C0039985,LOCATION_OF,Right middle lung field,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0931963,C0030247,LOCATION_OF,Abdomen proper,Palpation,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0934571,C0039985,LOCATION_OF,Left lower lung zone,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0934571,C0202823,LOCATION_OF,Left lower lung zone,Chest CT,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0934576,C0004339,LOCATION_OF,Lower lung field,Auscultation,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0934576,C0039985,LOCATION_OF,Lower lung field,Plain chest X-ray,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C0935598,C2826145,LOCATION_OF,Sagittal plane,Fluid Attenuated Inversion Recovery,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C1140621,C0002978,LOCATION_OF,Leg,angiogram,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C1140621,C0444186,LOCATION_OF,Leg,Smear test,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C1442171,C0040405,LOCATION_OF,Chest and abdomen,X-Ray Computed Tomography,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C3887460,C0750430,LOCATION_OF,Cardiovascular,work up,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C4240456,C0444186,LOCATION_OF,Oropharyngeal tract,Smear test,blor,diap,1,LOCATION_OF_BLORlocfDIAP
+C4267692,C0430479,LOCATION_OF,Superior mesenteric,Arterial blood flow test,blor,diap,2,LOCATION_OF_BLORlocfDIAP

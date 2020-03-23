@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0020523,TREATS,Immunologic Adjuvants,Immediate hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C0032797,TREATS,Immunologic Adjuvants,Postpartum Hemorrhage,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C1520005,TREATS,Immunologic Adjuvants,Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C0019168,C0151517,TREATS,Hepatitis B Surface Antigens,Complete atrioventricular block,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021403,C0020517,TREATS,Influenza virus vaccine,Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021403,C3714514,TREATS,Influenza virus vaccine,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0020517,TREATS,Vaccines,Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0020523,TREATS,Vaccines,Immediate hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0021368,TREATS,Vaccines,Inflammation,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0026766,TREATS,Vaccines,Multiple Organ Failure,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0035228,TREATS,Vaccines,Respiratory Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0242781,TREATS,Vaccines,disease transmission,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C0243083,TREATS,Vaccines,associated disease,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C1520005,TREATS,Vaccines,Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042210,C3714514,TREATS,Vaccines,Infection,imft,patf,23,TREATS_IMFTtrtsPATF
+C0042211,C0242656,TREATS,"Vaccines, Attenuated",Disease Progression,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042742,C3714514,TREATS,Viral Vaccines,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0059586,C3714514,TREATS,Escherichia coli Vaccines,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0062086,C0151526,TREATS,Haemophilus influenzae type b polysaccharide vaccine,Premature Birth,imft,patf,1,TREATS_IMFTtrtsPATF
+C0376613,C0004366,TREATS,"Vaccines, DNA",Autoimmune Response,imft,patf,1,TREATS_IMFTtrtsPATF
+C0376613,C0243083,TREATS,"Vaccines, DNA",associated disease,imft,patf,1,TREATS_IMFTtrtsPATF
+C0376613,C0587240,TREATS,"Vaccines, DNA",bone erosion,imft,patf,2,TREATS_IMFTtrtsPATF
+C0887892,C3714514,TREATS,"Vaccines, Subunit",Infection,imft,patf,2,TREATS_IMFTtrtsPATF
+C1515333,C3714514,TREATS,tetanus toxoid helper peptide,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C1519887,C1520005,TREATS,Vaccine Antigen,Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C1548477,C3714514,TREATS,Dengue fever vaccine,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C2825347,C0020517,TREATS,"Immunoglobulin A, Human",Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C3161957,C3714514,TREATS,INFLUENZA strains,Infection,imft,patf,1,TREATS_IMFTtrtsPATF

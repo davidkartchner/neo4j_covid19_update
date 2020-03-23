@@ -1,0 +1,62 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017430,C0014834,PART_OF,Genomic Library,Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0017430,C0027573,PART_OF,Genomic Library,Neisseria gonorrhoeae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0022895,C0014834,PART_OF,Lac Operon,Escherichia coli,gngm,bact,2,PART_OF_GNGMprtfBACT
+C0022959,C0014834,PART_OF,LacZ Genes,Escherichia coli,gngm,bact,7,PART_OF_GNGMprtfBACT
+C0029073,C0004611,PART_OF,Operon,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0029073,C0014834,PART_OF,Operon,Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0029073,C0038410,PART_OF,Operon,Streptococcus pneumoniae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0035899,C0686817,PART_OF,Ribosomal RNA Genes,Prokaryote,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0035903,C0014834,PART_OF,rrnB Operon,Escherichia coli,gngm,bact,3,PART_OF_GNGMprtfBACT
+C0042720,C0004611,PART_OF,Viral Genome,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0042720,C2369992,PART_OF,Viral Genome,Align,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0079941,C0004611,PART_OF,Open Reading Frames,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0079941,C0014834,PART_OF,Open Reading Frames,Escherichia coli,gngm,bact,4,PART_OF_GNGMprtfBACT
+C0085238,C0317474,PART_OF,"Genome, Bacterial",Enterococcus hirae,gngm,bact,2,PART_OF_GNGMprtfBACT
+C0243037,C0038410,PART_OF,"Genes, cdc",Streptococcus pneumoniae,gngm,bact,2,PART_OF_GNGMprtfBACT
+C0282641,C0004611,PART_OF,Transgenes,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0440471,C0004611,PART_OF,Genetic Materials,Bacteria,gngm,bact,2,PART_OF_GNGMprtfBACT
+C0440471,C0014834,PART_OF,Genetic Materials,Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0440471,C0043408,PART_OF,Genetic Materials,Yersinia pestis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0599797,C1265292,PART_OF,hla gene,Methicillin-Resistant Staphylococcus aureus,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0600449,C0004611,PART_OF,"Genes, Essential",Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0600449,C0026926,PART_OF,"Genes, Essential",Mycobacterium tuberculosis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0600449,C0445750,PART_OF,"Genes, Essential",Salmonella enterica,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0600449,C0580794,PART_OF,"Genes, Essential",Shiga-Toxigenic Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C0751608,C0686817,PART_OF,cDNA Library,Prokaryote,gngm,bact,2,PART_OF_GNGMprtfBACT
+C1136352,C0014834,PART_OF,Genetic Structures,Escherichia coli,gngm,bact,5,PART_OF_GNGMprtfBACT
+C1136366,C0004611,PART_OF,Genome Components,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1332838,C0085467,PART_OF,Candidate Disease Gene,Acinetobacter calcoaceticus,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1333398,C0004611,PART_OF,Endoribonuclease Gene,Bacteria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1334043,C0014834,PART_OF,Homologous Gene,Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1334043,C0579233,PART_OF,Homologous Gene,Streptococcus agalactiae,gngm,bact,2,PART_OF_GNGMprtfBACT
+C1334043,C0686817,PART_OF,Homologous Gene,Prokaryote,gngm,bact,2,PART_OF_GNGMprtfBACT
+C1334693,C0752001,PART_OF,Membrane Protein Gene,Wolbachia,gngm,bact,5,PART_OF_GNGMprtfBACT
+C1335144,C0036957,PART_OF,Orthologous Gene,Shigella flexneri,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1335144,C2369992,PART_OF,Orthologous Gene,Align,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1336799,C0027575,PART_OF,Transferase Gene,Neisseria meningitidis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1412438,C2585025,PART_OF,AP1M2 gene,Staphylococcus equorum equorum,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1413666,C0009063,PART_OF,CPB2 gene,Clostridium perfringens,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1413892,C0026926,PART_OF,CYP51A1 gene,Mycobacterium tuberculosis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1417170,C0023238,PART_OF,MIP gene,Legionella pneumophila,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C0221084,PART_OF,PDE6B gene,Mycobacterium marinum,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C0317751,PART_OF,PDE6B gene,Mycobacterium kansasii,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C0317753,PART_OF,PDE6B gene,Mycobacterium gastri,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C0317766,PART_OF,PDE6B gene,Mycobacterium szulgai,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C1032649,PART_OF,PDE6B gene,Mycobacterium tuberculosis complex,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1418426,C2301323,PART_OF,PDE6B gene,Mycobacterium riyadhense,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1419129,C0022937,PART_OF,PTS gene,Lactobacillaceae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1419382,C0006132,PART_OF,RHD gene,Moraxella (Branhamella) catarrhalis,gngm,bact,2,PART_OF_GNGMprtfBACT
+C1420798,C1001866,PART_OF,TNFAIP2 gene,Bifidobacterium animalis,gngm,bact,2,PART_OF_GNGMprtfBACT
+C1422254,C0018483,PART_OF,ABCG4 gene,Haemophilus influenzae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1422254,C0027571,PART_OF,ABCG4 gene,Neisseria,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1429001,C0686817,PART_OF,EIF5B gene,Prokaryote,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1517488,C0686817,PART_OF,Gene Family,Prokaryote,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1517495,C0006017,PART_OF,Gene Feature,Bordetella pertussis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1517495,C0014834,PART_OF,Gene Feature,Escherichia coli,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1538303,C0038410,PART_OF,ATXN7 gene,Streptococcus pneumoniae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1822716,C0018483,PART_OF,SHD gene,Haemophilus influenzae,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1825552,C0085549,PART_OF,HTRA1 gene,Lactococcus,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1825676,C1269175,PART_OF,CEP162 gene,Staphylococcus capitis,gngm,bact,1,PART_OF_GNGMprtfBACT
+C1848335,C1920627,PART_OF,A-11 GENE,Pelosinus fermentans,gngm,bact,1,PART_OF_GNGMprtfBACT
+C3889422,C0014834,PART_OF,OPTN wt Allele,Escherichia coli,gngm,bact,2,PART_OF_GNGMprtfBACT

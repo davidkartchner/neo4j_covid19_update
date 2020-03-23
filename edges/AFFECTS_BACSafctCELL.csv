@@ -1,0 +1,82 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001455,C0014597,AFFECTS,Cyclic AMP,Epithelial Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0003320,C0004561,AFFECTS,Antigens,B-Lymphocytes,bacs,cell,3,AFFECTS_BACSafctCELL
+C0003320,C0018894,AFFECTS,Antigens,Helper-Inducer T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0003320,C0039194,AFFECTS,Antigens,T-Lymphocyte,bacs,cell,5,AFFECTS_BACSafctCELL
+C0003320,C0682639,AFFECTS,Antigens,Memory T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0003320,C2717940,AFFECTS,Antigens,Hep G2 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0003320,C3641721,AFFECTS,Antigens,Naive T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0004630,C0042542,AFFECTS,Bacterial Toxins,Vero Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0006353,C0039194,AFFECTS,Buffers,T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0008013,C0027950,AFFECTS,Chemotactic Factors,neutrophil,bacs,cell,1,AFFECTS_BACSafctCELL
+C0008377,C0444746,AFFECTS,Cholesterol,Endocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0012854,C0018873,AFFECTS,DNA,HeLa Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0012854,C0221284,AFFECTS,DNA,Leptocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0012854,C2717940,AFFECTS,DNA,Hep G2 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0013982,C0024432,AFFECTS,Emodin,macrophage,bacs,cell,1,AFFECTS_BACSafctCELL
+C0013982,C1523993,AFFECTS,Emodin,Leukocyte - Monocyte - Macrophage (MMHCC),bacs,cell,1,AFFECTS_BACSafctCELL
+C0013982,C3641722,AFFECTS,Emodin,Effector T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0015684,C0014597,AFFECTS,Fatty Acids,Epithelial Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0018284,C0036387,AFFECTS,Growth Factor,Schwann Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0018909,C0039194,AFFECTS,Hemagglutinin,T-Lymphocyte,bacs,cell,2,AFFECTS_BACSafctCELL
+C0019143,C0042542,AFFECTS,Heparitin Sulfate,Vero Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0023545,C0005821,AFFECTS,Leukotrienes,Blood Platelets,bacs,cell,1,AFFECTS_BACSafctCELL
+C0023545,C0023516,AFFECTS,Leukotrienes,Leukocytes,bacs,cell,1,AFFECTS_BACSafctCELL
+C0023546,C0027950,AFFECTS,Leukotriene B4,neutrophil,bacs,cell,1,AFFECTS_BACSafctCELL
+C0024467,C1135918,AFFECTS,Magnesium,"Myocytes, Smooth Muscle",bacs,cell,1,AFFECTS_BACSafctCELL
+C0028128,C4042840,AFFECTS,Nitric Oxide,RAW 264.7 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0031676,C0227525,AFFECTS,Phospholipids,Hepatocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0031676,C3686472,AFFECTS,Phospholipids,Biliary epithelial cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C0031860,C0039194,AFFECTS,Phytol,T-Lymphocyte,bacs,cell,2,AFFECTS_BACSafctCELL
+C0032403,C0524984,AFFECTS,Poly Adenosine Diphosphate Ribose,Somatostatin-Secreting Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0034085,C0011306,AFFECTS,Pulmonary Surfactants,Dendritic Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0034085,C0085236,AFFECTS,Pulmonary Surfactants,"Macrophages, Alveolar",bacs,cell,1,AFFECTS_BACSafctCELL
+C0035142,C0007600,AFFECTS,Replicon,Cultured Cell Line,bacs,cell,1,AFFECTS_BACSafctCELL
+C0035693,C4042840,AFFECTS,"RNA, Double-Stranded",RAW 264.7 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0035693,C4277577,AFFECTS,"RNA, Double-Stranded",A549 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0035696,C0039194,AFFECTS,"RNA, Messenger",T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0035696,C2331667,AFFECTS,"RNA, Messenger",Type II of carotid body,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040061,C0005821,AFFECTS,Thromboxanes,Blood Platelets,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040061,C0023516,AFFECTS,Thromboxanes,Leukocytes,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040549,C0024432,AFFECTS,Toxin,macrophage,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040549,C0031760,AFFECTS,Toxin,Photoreceptors,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040549,C4330475,AFFECTS,Toxin,Immune Cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C0040577,C3826603,AFFECTS,Trace Elements,Cell metabolism,bacs,cell,1,AFFECTS_BACSafctCELL
+C0056912,C0018873,AFFECTS,cytidylyl-3'-5'-guanosine,HeLa Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0062006,C2709199,AFFECTS,Gur,Natural killer,bacs,cell,1,AFFECTS_BACSafctCELL
+C0062496,C0225698,AFFECTS,hemozoin,Alveolar Epithelial Cells,bacs,cell,3,AFFECTS_BACSafctCELL
+C0070939,C4042840,AFFECTS,phosphoethanolamine,RAW 264.7 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0070939,C4277577,AFFECTS,phosphoethanolamine,A549 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0086860,C4330475,AFFECTS,promoter,Immune Cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C0162772,C0038856,AFFECTS,Reactive Oxygen Species,Suppressor T Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0162772,C0227525,AFFECTS,Reactive Oxygen Species,Hepatocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0162772,C0524984,AFFECTS,Reactive Oxygen Species,Somatostatin-Secreting Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0178555,C0227525,AFFECTS,chemical cofactor,Hepatocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0242494,C0015161,AFFECTS,Poly(A) Tail,Eukaryotic Cells,bacs,cell,2,AFFECTS_BACSafctCELL
+C0304207,C0024432,AFFECTS,Bacterial product,macrophage,bacs,cell,1,AFFECTS_BACSafctCELL
+C0369169,C0039194,AFFECTS,Epstein-Barr virus DNA,T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C0600508,C0014597,AFFECTS,Response Elements,Epithelial Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C0920643,C0027836,AFFECTS,reactive oxygen intermediate,Neuroglia,bacs,cell,1,AFFECTS_BACSafctCELL
+C1099354,C0007600,AFFECTS,"RNA, Small Interfering",Cultured Cell Line,bacs,cell,1,AFFECTS_BACSafctCELL
+C1099354,C0018873,AFFECTS,"RNA, Small Interfering",HeLa Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C1099354,C0022688,AFFECTS,"RNA, Small Interfering",Natural Killer Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C1099354,C0024432,AFFECTS,"RNA, Small Interfering",macrophage,bacs,cell,1,AFFECTS_BACSafctCELL
+C1099354,C3714800,AFFECTS,"RNA, Small Interfering",SCID-Repopulating Cell,bacs,cell,2,AFFECTS_BACSafctCELL
+C1099354,C4277548,AFFECTS,"RNA, Small Interfering",Cancer-Associated Fibroblasts,bacs,cell,1,AFFECTS_BACSafctCELL
+C1101610,C0011306,AFFECTS,MicroRNAs,Dendritic Cells,bacs,cell,2,AFFECTS_BACSafctCELL
+C1101610,C0206131,AFFECTS,MicroRNAs,Adipocytes,bacs,cell,1,AFFECTS_BACSafctCELL
+C1101610,C0221284,AFFECTS,MicroRNAs,Leptocyte,bacs,cell,2,AFFECTS_BACSafctCELL
+C1101610,C1182610,AFFECTS,MicroRNAs,Corneal epithelial cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C1101610,C1512977,AFFECTS,MicroRNAs,Mammalian Cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C1101610,C1956422,AFFECTS,MicroRNAs,Cancer Stem Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C1136170,C2340022,AFFECTS,Virulence Factors,Resting histiocyte,bacs,cell,1,AFFECTS_BACSafctCELL
+C1310768,C0026473,AFFECTS,EPs 7630,Monocytes,bacs,cell,3,AFFECTS_BACSafctCELL
+C1310768,C4330475,AFFECTS,EPs 7630,Immune Cell,bacs,cell,1,AFFECTS_BACSafctCELL
+C1506352,C4277577,AFFECTS,silvestrol,A549 Cells,bacs,cell,3,AFFECTS_BACSafctCELL
+C1507143,C0014597,AFFECTS,Vitamin D+Metabolites,Epithelial Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C1519315,C0024432,AFFECTS,Signaling Molecule,macrophage,bacs,cell,1,AFFECTS_BACSafctCELL
+C1519315,C0206116,AFFECTS,Signaling Molecule,Microglia,bacs,cell,1,AFFECTS_BACSafctCELL
+C1570188,C0598829,AFFECTS,sugiol,Madin Darby Canine Kidney Cells,bacs,cell,2,AFFECTS_BACSafctCELL
+C1764827,C0596508,AFFECTS,Isolate - microorganism,Embryonic Stem Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C1764827,C4277577,AFFECTS,Isolate - microorganism,A549 Cells,bacs,cell,1,AFFECTS_BACSafctCELL
+C3494264,C0039194,AFFECTS,"RNA, Long Untranslated",T-Lymphocyte,bacs,cell,1,AFFECTS_BACSafctCELL

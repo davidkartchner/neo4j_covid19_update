@@ -1,0 +1,137 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0007450,PART_OF,Immunologic Adjuvants,Felis catus,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0001551,C0018019,PART_OF,Immunologic Adjuvants,Capra hircus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0001551,C0025914,PART_OF,Immunologic Adjuvants,House mice,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0001551,C0039005,PART_OF,Immunologic Adjuvants,Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0002092,C0007450,PART_OF,Allergens,Felis catus,imft,mamm,23,PART_OF_IMFTprtfMAMM
+C0002092,C0012984,PART_OF,Allergens,Canis familiaris,imft,mamm,5,PART_OF_IMFTprtfMAMM
+C0002092,C0025914,PART_OF,Allergens,House mice,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0002092,C0026809,PART_OF,Allergens,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0025914,PART_OF,Epitopes,House mice,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0003316,C0025919,PART_OF,Epitopes,"Mice, Inbred BALB C",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0025936,PART_OF,Epitopes,"Mice, Transgenic",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0026809,PART_OF,Epitopes,Mus,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0003316,C0030362,PART_OF,Epitopes,Papio,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0033147,PART_OF,Epitopes,Primates,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0039005,PART_OF,Epitopes,Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003316,C0085979,PART_OF,Epitopes,Cavia,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0003316,C1521751,PART_OF,Epitopes,C57BL/6 Mouse,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003333,C0025914,PART_OF,"Antigens, Heterophile",House mice,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0003333,C0039005,PART_OF,"Antigens, Heterophile",Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003342,C0007450,PART_OF,"Antigens, Viral",Felis catus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0003342,C0015859,PART_OF,"Antigens, Viral",Ferrets,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0003342,C0026809,PART_OF,"Antigens, Viral",Mus,imft,mamm,4,PART_OF_IMFTprtfMAMM
+C0003342,C0035950,PART_OF,"Antigens, Viral",Ruminants,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0003342,C0039005,PART_OF,"Antigens, Viral",Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003342,C0325125,PART_OF,"Antigens, Viral",Phocidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0003445,C0019944,PART_OF,Antitoxins,Equus caballus,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0004886,C0085979,PART_OF,BCG Vaccine,Cavia,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0008897,C0012984,PART_OF,Human Class I Antigens,Canis familiaris,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0016712,C0025914,PART_OF,Freund's Adjuvant,House mice,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0019168,C0026809,PART_OF,Hepatitis B Surface Antigens,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021009,C0023919,PART_OF,Immunoglobulin Fragments,Llamas,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021054,C0008139,PART_OF,Immunologic Factors,Chiroptera,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021054,C0026809,PART_OF,Immunologic Factors,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021403,C0012984,PART_OF,Influenza virus vaccine,Canis familiaris,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021403,C0026809,PART_OF,Influenza virus vaccine,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0021403,C0039005,PART_OF,Influenza virus vaccine,Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0034496,C0012984,PART_OF,Rabies Vaccines,Canis familiaris,imft,mamm,4,PART_OF_IMFTprtfMAMM
+C0037355,C0007452,PART_OF,Smallpox Vaccine,Cattle,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0039620,C0026809,PART_OF,Tetanus Vaccine,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042210,C0006801,PART_OF,Vaccines,Camels,imft,mamm,6,PART_OF_IMFTprtfMAMM
+C0042210,C0007452,PART_OF,Vaccines,Cattle,imft,mamm,14,PART_OF_IMFTprtfMAMM
+C0042210,C0012984,PART_OF,Vaccines,Canis familiaris,imft,mamm,11,PART_OF_IMFTprtfMAMM
+C0042210,C0013127,PART_OF,Vaccines,Camelus dromedarius,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0042210,C0018019,PART_OF,Vaccines,Capra hircus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042210,C0019944,PART_OF,Vaccines,Equus caballus,imft,mamm,9,PART_OF_IMFTprtfMAMM
+C0042210,C0026809,PART_OF,Vaccines,Mus,imft,mamm,13,PART_OF_IMFTprtfMAMM
+C0042210,C0039005,PART_OF,Vaccines,Family suidae,imft,mamm,6,PART_OF_IMFTprtfMAMM
+C0042210,C0237798,PART_OF,Vaccines,Nonhuman primate,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042210,C0325224,PART_OF,Vaccines,Odocoileus virginianus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042210,C0684075,PART_OF,Vaccines,Adult female pig having farrowed,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0042210,C1123019,PART_OF,Vaccines,Domestic Sheep,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042211,C0012984,PART_OF,"Vaccines, Attenuated",Canis familiaris,imft,mamm,5,PART_OF_IMFTprtfMAMM
+C0042211,C0034695,PART_OF,"Vaccines, Attenuated","Rats, Cotton",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042211,C0039005,PART_OF,"Vaccines, Attenuated",Family suidae,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C0042211,C0684075,PART_OF,"Vaccines, Attenuated",Adult female pig having farrowed,imft,mamm,4,PART_OF_IMFTprtfMAMM
+C0042212,C0019944,PART_OF,"Vaccines, Inactivated",Equus caballus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042212,C0026809,PART_OF,"Vaccines, Inactivated",Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042212,C0035950,PART_OF,"Vaccines, Inactivated",Ruminants,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042212,C0684075,PART_OF,"Vaccines, Inactivated",Adult female pig having farrowed,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042742,C0015859,PART_OF,Viral Vaccines,Ferrets,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042742,C0018557,PART_OF,Viral Vaccines,Hamsters,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042742,C0025925,PART_OF,Viral Vaccines,"Mice, Inbred ICR",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042742,C0026809,PART_OF,Viral Vaccines,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0042742,C0035950,PART_OF,Viral Vaccines,Ruminants,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0042742,C0039005,PART_OF,Viral Vaccines,Family suidae,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0042742,C0041390,PART_OF,Viral Vaccines,Tupaiidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0051967,C0025914,PART_OF,anti-c antibody,House mice,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0051967,C0034693,PART_OF,anti-c antibody,Rattus norvegicus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0069180,C0026809,PART_OF,O Antigens,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0086413,C0026809,PART_OF,HIV Vaccine,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0086413,C0085979,PART_OF,HIV Vaccine,Cavia,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0116216,C0324306,PART_OF,Enterococcus SF 68,Beagle,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0282580,C0025919,PART_OF,"Epitopes, T-Lymphocyte","Mice, Inbred BALB C",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0282580,C0026809,PART_OF,"Epitopes, T-Lymphocyte",Mus,imft,mamm,5,PART_OF_IMFTprtfMAMM
+C0282581,C0024398,PART_OF,"Epitopes, B-Lymphocyte",Macaca,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0282581,C0039005,PART_OF,"Epitopes, B-Lymphocyte",Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0301869,C0026809,PART_OF,Immunostimulating conjugate (antigen),Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0312653,C0012984,PART_OF,HLA class II antigen,Canis familiaris,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0376613,C0024400,PART_OF,"Vaccines, DNA",Macaca mulatta,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0376613,C0025914,PART_OF,"Vaccines, DNA",House mice,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0376613,C0025919,PART_OF,"Vaccines, DNA","Mice, Inbred BALB C",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0376613,C0026809,PART_OF,"Vaccines, DNA",Mus,imft,mamm,5,PART_OF_IMFTprtfMAMM
+C0376613,C0043219,PART_OF,"Vaccines, DNA",Woodchucks,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0376613,C0324547,PART_OF,"Vaccines, DNA",New Zealand Rabbits,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0456981,C0024400,PART_OF,Specific antigen,Macaca mulatta,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0456981,C0025919,PART_OF,Specific antigen,"Mice, Inbred BALB C",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0521390,C0026809,PART_OF,neuronal,Mus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0555907,C0026809,PART_OF,Human leukocyte antigen allele,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0596057,C0007450,PART_OF,airborne allergen,Felis catus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0597641,C0043219,PART_OF,plasmid vaccine,Woodchucks,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0598658,C3887509,PART_OF,antibody conjugate,Rabbits,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0598670,C0018019,PART_OF,peroxidase labeled antibody,Capra hircus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C0770694,C0026809,PART_OF,trivalent influenza vaccine,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0807098,C0026809,PART_OF,neutrophil antibody,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0883007,C0524516,PART_OF,Dirofilaria immitis antigen,Canis,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0887892,C0026809,PART_OF,"Vaccines, Subunit",Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0887894,C0025919,PART_OF,Respiratory Syncytial Virus Vaccines,"Mice, Inbred BALB C",imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0946132,C0026809,PART_OF,Human papilloma virus (antigen),Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C0965741,C0026809,PART_OF,MOv18 monoclonal antibody,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1291777,C0039005,PART_OF,Protein antigen,Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1291777,C0324889,PART_OF,Protein antigen,Old World rabbit,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1291845,C0007450,PART_OF,Erythrocyte antigen,Felis catus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1291845,C0012984,PART_OF,Erythrocyte antigen,Canis familiaris,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C1291845,C0036945,PART_OF,Erythrocyte antigen,Sheep,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440666,C0026809,PART_OF,Hay,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440710,C0026809,PART_OF,HIV 1 gp41,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440759,C0019944,PART_OF,Horse meat,Equus caballus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440928,C0034693,PART_OF,Liver cytosol,Rattus norvegicus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440965,C0025914,PART_OF,Milk powder,House mice,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440965,C0325228,PART_OF,Milk powder,Cervus elaphus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1440965,C3887509,PART_OF,Milk powder,Rabbits,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1442148,C3887509,PART_OF,Ab.IgG,Rabbits,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1446601,C0007452,PART_OF,lactoglobulin,Cattle,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1514218,C0012984,PART_OF,Polyvalent Vaccine,Canis familiaris,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C1518416,C0019944,PART_OF,Normal Horse Serum,Equus caballus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1519904,C0007970,PART_OF,Vaccinia Vaccine,Cheetahs,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C1519904,C0026809,PART_OF,Vaccinia Vaccine,Mus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C1883036,C0026809,PART_OF,Single-Chain Antibodies,Mus,imft,mamm,5,PART_OF_IMFTprtfMAMM
+C1883036,C0039005,PART_OF,Single-Chain Antibodies,Family suidae,imft,mamm,3,PART_OF_IMFTprtfMAMM
+C1958496,C0026809,PART_OF,1G12 monoclonal antibody,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C2825347,C0007450,PART_OF,"Immunoglobulin A, Human",Felis catus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C2825347,C0007452,PART_OF,"Immunoglobulin A, Human",Cattle,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C2825347,C0008139,PART_OF,"Immunoglobulin A, Human",Chiroptera,imft,mamm,4,PART_OF_IMFTprtfMAMM
+C2825347,C0025914,PART_OF,"Immunoglobulin A, Human",House mice,imft,mamm,4,PART_OF_IMFTprtfMAMM
+C2825347,C0026809,PART_OF,"Immunoglobulin A, Human",Mus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C2825347,C0039005,PART_OF,"Immunoglobulin A, Human",Family suidae,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C2825347,C0999478,PART_OF,"Immunoglobulin A, Human",Artibeus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C3161957,C0026809,PART_OF,INFLUENZA strains,Mus,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C3178367,C0024398,PART_OF,MVA vaccine,Macaca,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C3253496,C0324889,PART_OF,influvac,Old World rabbit,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C3530029,C0026809,PART_OF,advax,Mus,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C4039466,C0524516,PART_OF,Borrelia Ag,Canis,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C4282212,C0008139,PART_OF,IgG.serum,Chiroptera,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C4282212,C0036945,PART_OF,IgG.serum,Sheep,imft,mamm,1,PART_OF_IMFTprtfMAMM
+C4282212,C3887509,PART_OF,IgG.serum,Rabbits,imft,mamm,2,PART_OF_IMFTprtfMAMM
+C4505399,C0039005,PART_OF,Universal Flu Vaccines,Family suidae,imft,mamm,1,PART_OF_IMFTprtfMAMM

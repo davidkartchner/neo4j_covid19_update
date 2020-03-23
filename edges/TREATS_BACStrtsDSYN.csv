@@ -1,0 +1,110 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000545,C0007194,TREATS,Eicosapentaenoic Acid,Hypertrophic Cardiomyopathy,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0003320,C0009450,TREATS,Antigens,Communicable Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0006353,C0020498,TREATS,Buffers,"Hyperostosis, Diffuse Idiopathic Skeletal",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0006675,C0017178,TREATS,Calcium,Gastrointestinal Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0007289,C0009443,TREATS,Carrageenan,Common Cold,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0007289,C0021400,TREATS,Carrageenan,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0007289,C0042769,TREATS,Carrageenan,Virus Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0007289,C0339916,TREATS,Carrageenan,Viral upper respiratory tract infection,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0007412,C0035078,TREATS,Catecholamines,Kidney Failure,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0008405,C0007193,TREATS,Choline,"Cardiomyopathy, Dilated",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0008405,C0010054,TREATS,Choline,Coronary Arteriosclerosis,bacs,dsyn,3,TREATS_BACStrtsDSYN
+C0008405,C0018799,TREATS,Choline,Heart Diseases,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0010294,C0242528,TREATS,Creatinine,Azotemia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0010658,C0026847,TREATS,Cysteine Proteinase Inhibitors,Spinal Muscular Atrophy,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0010737,C0033036,TREATS,Cytochalasin B,Atrial Premature Complexes,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0011479,C0021831,TREATS,Deoxycholic Acid,Intestinal Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013030,C0002395,TREATS,Dopamine,Alzheimer's Disease,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013030,C0010340,TREATS,Dopamine,Critical Illness,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013030,C0014130,TREATS,Dopamine,Endocrine System Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013982,C0008370,TREATS,Emodin,Cholestasis,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0013982,C0008372,TREATS,Emodin,Intrahepatic Cholestasis,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0013982,C0010246,TREATS,Emodin,Coxsackievirus Infections,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013982,C0149904,TREATS,Emodin,Cholestatic hepatitis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013982,C0520680,TREATS,Emodin,"Sleep Apnea, Central",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0013982,C1561643,TREATS,Emodin,Chronic Kidney Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0015689,C0017178,TREATS,Omega-3 Fatty Acids,Gastrointestinal Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0015689,C0018799,TREATS,Omega-3 Fatty Acids,Heart Diseases,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0015689,C0018802,TREATS,Omega-3 Fatty Acids,Congestive heart failure,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0015689,C1561643,TREATS,Omega-3 Fatty Acids,Chronic Kidney Diseases,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0015689,C1719672,TREATS,Omega-3 Fatty Acids,Severe Sepsis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0016072,C0033860,TREATS,Ficusin,Psoriasis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0017082,C0042029,TREATS,Gangliosides,Urinary tract infection,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0017082,C1704272,TREATS,Gangliosides,Benign Prostatic Hyperplasia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0017725,C0011175,TREATS,Glucose,Dehydration,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0018330,C0019348,TREATS,Guanosine,Herpes Simplex Infections,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0018330,C0021400,TREATS,Guanosine,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0018330,C3694279,TREATS,Guanosine,Middle East Respiratory Syndrome,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0019134,C0035078,TREATS,heparin,Kidney Failure,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0019134,C0036690,TREATS,heparin,Septicemia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0021528,C0035222,TREATS,Inosine,"Respiratory Distress Syndrome, Adult",bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0021528,C0042769,TREATS,Inosine,Virus Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0022030,C0009443,TREATS,iota-Carrageenan,Common Cold,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0022030,C0042769,TREATS,iota-Carrageenan,Virus Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0022511,C0021400,TREATS,kappa-Carrageenan,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0028128,C0004096,TREATS,Nitric Oxide,Asthma,bacs,dsyn,4,TREATS_BACStrtsDSYN
+C0028128,C0008780,TREATS,Nitric Oxide,Ciliary Motility Disorders,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0028128,C0034069,TREATS,Nitric Oxide,Pulmonary Fibrosis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0028128,C0035222,TREATS,Nitric Oxide,"Respiratory Distress Syndrome, Adult",bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0028606,C0275524,TREATS,Nucleic Acids,Coinfection,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0028928,C0035222,TREATS,Oleic Acid,"Respiratory Distress Syndrome, Adult",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0028928,C0036690,TREATS,Oleic Acid,Septicemia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0031866,C0021831,TREATS,Phytosterols,Intestinal Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0032821,C0405580,TREATS,Potassium,Adrenal cortical hypofunction,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0019158,TREATS,Protease Inhibitors,Hepatitis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0019196,TREATS,Protease Inhibitors,Hepatitis C,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0019693,TREATS,Protease Inhibitors,HIV Infections,bacs,dsyn,3,TREATS_BACStrtsDSYN
+C0033607,C0021400,TREATS,Protease Inhibitors,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0024117,TREATS,Protease Inhibitors,Chronic Obstructive Airway Disease,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0033607,C0027873,TREATS,Protease Inhibitors,Neuromyelitis Optica,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0035204,TREATS,Protease Inhibitors,Respiration Disorders,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0036690,TREATS,Protease Inhibitors,Septicemia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0276289,TREATS,Protease Inhibitors,Zika Virus Infection,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0277564,TREATS,Protease Inhibitors,Acquired disease,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C0524910,TREATS,Protease Inhibitors,"Hepatitis C, Chronic",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C1623038,TREATS,Protease Inhibitors,Cirrhosis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C3277428,TREATS,Protease Inhibitors,Severe viral infections,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0033607,C3672014,TREATS,Protease Inhibitors,Feline coronavirus infection,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0034085,C0035222,TREATS,Pulmonary Surfactants,"Respiratory Distress Syndrome, Adult",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0035549,C0014175,TREATS,Ribose,Endometriosis,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0036733,C0001339,TREATS,Serine Proteinase Inhibitors,Acute pancreatitis,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0036733,C0030305,TREATS,Serine Proteinase Inhibitors,Pancreatitis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0036733,C0036690,TREATS,Serine Proteinase Inhibitors,Septicemia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0036733,C1290884,TREATS,Serine Proteinase Inhibitors,Inflammatory disorder,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0037494,C0009443,TREATS,Sodium Chloride,Common Cold,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0037494,C0019342,TREATS,Sodium Chloride,Genital Herpes,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0037494,C0019345,TREATS,Sodium Chloride,Herpes Labialis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0037494,C0152517,TREATS,Sodium Chloride,Enteritis due to specified virus,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0039771,C0004096,TREATS,Theophylline,Asthma,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0039771,C1175175,TREATS,Theophylline,Severe Acute Respiratory Syndrome,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0040815,C0009319,TREATS,Trehalose,Colitis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0041942,C1332133,TREATS,Urea,Abstinence Syndrome,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0043481,C0009443,TREATS,Zinc,Common Cold,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0043481,C0024530,TREATS,Zinc,Malaria,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0043481,C0030567,TREATS,Zinc,Parkinson Disease,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0043481,C0032285,TREATS,Zinc,Pneumonia,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0043481,C0042769,TREATS,Zinc,Virus Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053454,C0026846,TREATS,beta-hydroxyisovaleric acid,Muscular Atrophy,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0009450,TREATS,borrelidin,Communicable Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0010418,TREATS,borrelidin,Cryptosporidiosis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0024530,TREATS,borrelidin,Malaria,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0040558,TREATS,borrelidin,Toxoplasmosis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0041228,TREATS,borrelidin,African Trypanosomiasis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0053956,C0041296,TREATS,borrelidin,Tuberculosis,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0061078,C0010340,TREATS,gamma-Linolenic Acid,Critical Illness,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0061078,C0035222,TREATS,gamma-Linolenic Acid,"Respiratory Distress Syndrome, Adult",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0078517,C0745283,TREATS,wortmannin,INFECTIOUS PROCESS,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0216194,C0019345,TREATS,Tea Tree Oil,Herpes Labialis,bacs,dsyn,3,TREATS_BACStrtsDSYN
+C0291752,C0009443,TREATS,ge-gen-tang,Common Cold,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0302583,C0011854,TREATS,Iron,"Diabetes Mellitus, Insulin-Dependent",bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0302583,C0026265,TREATS,Iron,Diseases of mitral valve,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C0302583,C1640363,TREATS,Iron,Vector-transmitted infectious disease,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C0907850,C0004096,TREATS,ciclesonide,Asthma,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C1310768,C1442786,TREATS,EPs 7630,Acute respiratory tract infection,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C1529273,C0021400,TREATS,Mao-to,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C1620047,C0035435,TREATS,dieckol,Rheumatism,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C2974291,C0009450,TREATS,IMod,Communicable Diseases,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C2974291,C0021400,TREATS,IMod,Influenza,bacs,dsyn,1,TREATS_BACStrtsDSYN
+C3657935,C2317131,TREATS,BNO 1016,Acute rhinosinusitis,bacs,dsyn,2,TREATS_BACStrtsDSYN
+C3824990,C0036690,TREATS,Blood lactate,Septicemia,bacs,dsyn,1,TREATS_BACStrtsDSYN

@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017359,C1334043,PRODUCES,"Genes, Overlapping",Homologous Gene,gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C0042720,C0079941,PRODUCES,Viral Genome,Open Reading Frames,gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C0042720,C0282641,PRODUCES,Viral Genome,Transgenes,gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C0079941,C0079429,PRODUCES,Open Reading Frames,"Genes, vif",gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C0919453,C1334043,PRODUCES,cancer-predisposing genes,Homologous Gene,gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C1334043,C0919453,PRODUCES,Homologous Gene,cancer-predisposing genes,gngm,gngm,1,PRODUCES_GNGMprodGNGM
+C1517495,C1257902,PRODUCES,Gene Feature,Jumping Genes,gngm,gngm,1,PRODUCES_GNGMprodGNGM

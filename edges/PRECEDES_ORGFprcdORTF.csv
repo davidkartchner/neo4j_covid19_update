@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005615,C0018131,PRECEDES,Birth,Graft Survival,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C0231940,PRECEDES,Birth,Alveolar ventilation function,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C0282558,PRECEDES,Birth,"Immunity, Mucosal",orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C0683201,PRECEDES,Birth,specific immunity,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C0920516,PRECEDES,Birth,fetus circulation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0029957,C0029965,PRECEDES,Oviposition,Ovulation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0232338,C0162337,PRECEDES,Blood flow,Vascular Permeability,orgf,ortf,1,PRECEDES_ORGFprcdORTF

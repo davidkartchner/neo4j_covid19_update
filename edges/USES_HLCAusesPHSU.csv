@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0521942,USES,Hospitalization,Angiotensin II receptor antagonist,hlca,phsu,1,USES_HLCAusesPHSU
+C0023977,C0003211,USES,long-term care,"Anti-Inflammatory Agents, Non-Steroidal",hlca,phsu,1,USES_HLCAusesPHSU
+C0023977,C0031638,USES,long-term care,Phosphodiesterase Inhibitors,hlca,phsu,1,USES_HLCAusesPHSU
+C0023977,C0042105,USES,long-term care,Ursodiol,hlca,phsu,1,USES_HLCAusesPHSU
+C0023977,C0907160,USES,long-term care,pegylated interferon alfa,hlca,phsu,1,USES_HLCAusesPHSU
+C0030231,C1579410,USES,Palliative Care,Nucleoside Analogs,hlca,phsu,1,USES_HLCAusesPHSU
+C0030677,C0718566,USES,Patient Care Management,Anti-Fungal,hlca,phsu,1,USES_HLCAusesPHSU
+C0030685,C0393080,USES,Patient Discharge,voriconazole,hlca,phsu,2,USES_HLCAusesPHSU
+C0030685,C1874451,USES,Patient Discharge,Basis,hlca,phsu,3,USES_HLCAusesPHSU
+C0032786,C0002771,USES,Postoperative Care,Analgesics,hlca,phsu,1,USES_HLCAusesPHSU
+C0085093,C0719214,USES,"Medicine, African Traditional",century,hlca,phsu,1,USES_HLCAusesPHSU
+C0086930,C1874451,USES,Risk Assessment,Basis,hlca,phsu,2,USES_HLCAusesPHSU
+C0150270,C0310255,USES,Medication Management,survive,hlca,phsu,1,USES_HLCAusesPHSU
+C0175637,C1874451,USES,Health evaluation,Basis,hlca,phsu,1,USES_HLCAusesPHSU
+C0184666,C0026698,USES,Hospital admission,mucolytic agents,hlca,phsu,1,USES_HLCAusesPHSU
+C0184666,C0724139,USES,Hospital admission,Urised,hlca,phsu,1,USES_HLCAusesPHSU
+C0204695,C1136254,USES,Feeding patient,Microbicides,hlca,phsu,1,USES_HLCAusesPHSU
+C0204695,C3543842,USES,Feeding patient,TONICS,hlca,phsu,1,USES_HLCAusesPHSU
+C0204695,C3812869,USES,Feeding patient,Medicated,hlca,phsu,1,USES_HLCAusesPHSU
+C0205787,C1874451,USES,Health Campaigns,Basis,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0002932,USES,Screening procedure,Anesthetics,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0003209,USES,Screening procedure,Anti-Inflammatory Agents,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0003211,USES,Screening procedure,"Anti-Inflammatory Agents, Non-Steroidal",hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0003374,USES,Screening procedure,Antimalarials,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0003419,USES,Screening procedure,Antipyretics,hlca,phsu,2,USES_HLCAusesPHSU
+C0220908,C0003451,USES,Screening procedure,Antiviral Agents,hlca,phsu,4,USES_HLCAusesPHSU
+C0220908,C0035525,USES,Screening procedure,Ribavirin,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0073080,USES,Screening procedure,resazurin,hlca,phsu,1,USES_HLCAusesPHSU
+C0220908,C0718566,USES,Screening procedure,Anti-Fungal,hlca,phsu,2,USES_HLCAusesPHSU
+C0220908,C1874451,USES,Screening procedure,Basis,hlca,phsu,2,USES_HLCAusesPHSU
+C0220908,C3539125,USES,Screening procedure,other medicated shampoos in ATC,hlca,phsu,1,USES_HLCAusesPHSU
+C0278329,C0003364,USES,prescribed,Antihypertensive Agents,hlca,phsu,1,USES_HLCAusesPHSU
+C0278329,C0718566,USES,prescribed,Anti-Fungal,hlca,phsu,1,USES_HLCAusesPHSU
+C0278329,C1136254,USES,prescribed,Microbicides,hlca,phsu,1,USES_HLCAusesPHSU
+C0332140,C3241999,USES,"Diagnosis, clinical",limited use,hlca,phsu,1,USES_HLCAusesPHSU
+C0441587,C1520007,USES,Clinical act of insertion,viral vector,hlca,phsu,1,USES_HLCAusesPHSU
+C0441587,C3205287,USES,Clinical act of insertion,Terminator,hlca,phsu,1,USES_HLCAusesPHSU
+C0441640,C0011777,USES,Tapering - action,Dexamethasone,hlca,phsu,1,USES_HLCAusesPHSU
+C0548471,C0003451,USES,protocols: surgery,Antiviral Agents,hlca,phsu,1,USES_HLCAusesPHSU
+C0558024,C2827525,USES,Functional behavioral assessment,Atu027,hlca,phsu,1,USES_HLCAusesPHSU
+C1160858,C0699680,USES,Behavior assessment,Metric,hlca,phsu,1,USES_HLCAusesPHSU
+C1261322,C0011777,USES,Evaluation procedure,Dexamethasone,hlca,phsu,1,USES_HLCAusesPHSU
+C1261322,C0037215,USES,Evaluation procedure,Sitosterols,hlca,phsu,1,USES_HLCAusesPHSU
+C1261322,C0699680,USES,Evaluation procedure,Metric,hlca,phsu,3,USES_HLCAusesPHSU
+C1261322,C1874451,USES,Evaluation procedure,Basis,hlca,phsu,2,USES_HLCAusesPHSU
+C1269815,C3241999,USES,Patient identification,limited use,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C0205962,USES,Introduction procedure,Pertechnetate,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C0699540,USES,Introduction procedure,Predate,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C0719214,USES,Introduction procedure,century,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C0720654,USES,Introduction procedure,Gentle,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C0979582,USES,Introduction procedure,Pneumococcal 7-valent conjugate vaccine,hlca,phsu,13,USES_HLCAusesPHSU
+C1293116,C1136254,USES,Introduction procedure,Microbicides,hlca,phsu,1,USES_HLCAusesPHSU
+C1293116,C1874451,USES,Introduction procedure,Basis,hlca,phsu,2,USES_HLCAusesPHSU
+C1444562,C1874451,USES,Wellness surveillance,Basis,hlca,phsu,1,USES_HLCAusesPHSU
+C1514918,C0772162,USES,Retrieval,AROMATICS,hlca,phsu,1,USES_HLCAusesPHSU
+C1514918,C3256468,USES,Retrieval,citrate buffer,hlca,phsu,4,USES_HLCAusesPHSU
+C1516615,C0005525,USES,Clinical Management,Biological Response Modifiers,hlca,phsu,1,USES_HLCAusesPHSU
+C1516615,C4033447,USES,Clinical Management,sacubitril,hlca,phsu,1,USES_HLCAusesPHSU
+C1522577,C0042105,USES,follow-up,Ursodiol,hlca,phsu,2,USES_HLCAusesPHSU
+C2350442,C0054201,USES,Nasal Lavage,Budesonide,hlca,phsu,4,USES_HLCAusesPHSU
+C2718016,C1718097,USES,Compassionate Use,New medications,hlca,phsu,1,USES_HLCAusesPHSU
+C4036459,C0772162,USES,Contacts,AROMATICS,hlca,phsu,1,USES_HLCAusesPHSU
+C4036459,C3539125,USES,Contacts,other medicated shampoos in ATC,hlca,phsu,2,USES_HLCAusesPHSU
+C4036459,C4309115,USES,Contacts,cn-716,hlca,phsu,1,USES_HLCAusesPHSU
+C4279933,C3539125,USES,Vaccination Campaign,other medicated shampoos in ATC,hlca,phsu,1,USES_HLCAusesPHSU

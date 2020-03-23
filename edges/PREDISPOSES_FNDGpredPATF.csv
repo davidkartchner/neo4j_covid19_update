@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0026562,C0242781,PREDISPOSES,Morphologic diagnosis deferred,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0242781,PREDISPOSES,Problem,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0021655,PREDISPOSES,Stress,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C1155266,PREDISPOSES,Stress,inflammatory response,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0038435,C1519697,PREDISPOSES,Stress,Tumorigenicity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C3714514,PREDISPOSES,Stress,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0041674,C0242781,PREDISPOSES,Unemployment,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0085393,C3714514,PREDISPOSES,Immunocompromised Host,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0206076,C0242656,PREDISPOSES,Reproductive History,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0021368,PREDISPOSES,Lesion,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0036974,PREDISPOSES,Lesion,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231221,C3714514,PREDISPOSES,Asymptomatic,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0021368,PREDISPOSES,Senility,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0206277,PREDISPOSES,Senility,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C3714514,PREDISPOSES,Senility,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0235988,C0021368,PREDISPOSES,Serum iron low (finding),Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0238646,C0020517,PREDISPOSES,ANIMAL EXPOSURE,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0239981,C0013687,PREDISPOSES,Hypoalbuminemia,effusion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239981,C0220994,PREDISPOSES,Hypoalbuminemia,Hyperammonemia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241158,C1510411,PREDISPOSES,Scar Tissue,metaplastic cell transformation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241889,C0020517,PREDISPOSES,Family history,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241889,C0392707,PREDISPOSES,Family history,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0260877,C0021368,PREDISPOSES,laboratory examination,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0278250,C0020517,PREDISPOSES,Prognosis good,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0278252,C0003811,PREDISPOSES,Prognosis bad,Cardiac Arrhythmia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424576,C0242781,PREDISPOSES,Fit and well,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442726,C0242781,PREDISPOSES,Detected (finding),disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0449575,C0410480,PREDISPOSES,Histological finding,Avascular Necrosis of Femur Head,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0564474,C0032787,PREDISPOSES,Level of anxiety,Postoperative Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0682132,C4061114,PREDISPOSES,regional difference,Acute illness,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0683314,C0242656,PREDISPOSES,personal health,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0728725,C0036974,PREDISPOSES,Low pH,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0745041,C0242656,PREDISPOSES,prolonged hospitalization,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750484,C0206277,PREDISPOSES,Confirmation,Fatal Outcome,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0750558,C3887513,PREDISPOSES,Unlikely,Avascular necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1134488,C0021655,PREDISPOSES,hormonal changes,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1262477,C0242656,PREDISPOSES,Weight decreased,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1275743,C0029445,PREDISPOSES,Co-morbid conditions,Bone necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1275743,C0206277,PREDISPOSES,Co-morbid conditions,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0206277,PREDISPOSES,Has difficulty doing (qualifier value),Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1318963,C0242781,PREDISPOSES,Readiness,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1318963,C3714514,PREDISPOSES,Readiness,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1516998,C3714514,PREDISPOSES,Exogenous Factors,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0021368,PREDISPOSES,Protection,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0151763,PREDISPOSES,Protection,Liver damage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0242781,PREDISPOSES,Protection,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0401151,PREDISPOSES,Protection,Chronic diarrhea,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C0242781,PREDISPOSES,Negative Surgical Margin,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C1155266,PREDISPOSES,Negative Surgical Margin,inflammatory response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1821461,C0026766,PREDISPOSES,Close Relationship,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1836348,C0242656,PREDISPOSES,Severe disorder,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2186379,C3714514,PREDISPOSES,immunocompromised condition,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3242274,C0020517,PREDISPOSES,new therapy,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3258050,C0026766,PREDISPOSES,Possible injury,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0242781,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3476546,C0021368,PREDISPOSES,Symptoms score,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3816499,C1520005,PREDISPOSES,Pathogenic,Viral Pathogenesis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3842672,C0206277,PREDISPOSES,Day 7,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3843354,C0854457,PREDISPOSES,Extremely Difficult,Direct disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3890735,C0021368,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3890735,C0242656,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4015487,C0040038,PREDISPOSES,Left atrial dilation,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4036057,C0020963,PREDISPOSES,Too low,Immune Tolerance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4045969,C0021368,PREDISPOSES,Physical Barriers,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055223,C0392707,PREDISPOSES,Clinical Response,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C1155266,PREDISPOSES,Accumulation,inflammatory response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C0021368,PREDISPOSES,Exacerbation,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C0028778,PREDISPOSES,Exacerbation,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C0035228,PREDISPOSES,Exacerbation,Respiratory Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C3714514,PREDISPOSES,Exacerbation,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0020517,PREDISPOSES,Colonization,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0021368,PREDISPOSES,High Level,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0242781,PREDISPOSES,High Level,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4534363,C0242781,PREDISPOSES,At home,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF

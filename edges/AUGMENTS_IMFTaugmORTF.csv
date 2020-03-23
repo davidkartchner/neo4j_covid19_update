@@ -1,0 +1,38 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0021055,AUGMENTS,Immunologic Adjuvants,Immunologic Memory,imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C0001551,C0036658,AUGMENTS,Immunologic Adjuvants,Esthesia,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0001551,C0282557,AUGMENTS,Immunologic Adjuvants,"Immune Response, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0001551,C0282558,AUGMENTS,Immunologic Adjuvants,"Immunity, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0001551,C0683201,AUGMENTS,Immunologic Adjuvants,specific immunity,imft,ortf,10,AUGMENTS_IMFTaugmORTF
+C0001551,C1516031,AUGMENTS,Immunologic Adjuvants,Antitumor Response,imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C0002092,C0683201,AUGMENTS,Allergens,specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0003316,C0302086,AUGMENTS,Epitopes,Erythrocyte destruction,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0003316,C0683201,AUGMENTS,Epitopes,specific immunity,imft,ortf,5,AUGMENTS_IMFTaugmORTF
+C0003333,C0683201,AUGMENTS,"Antigens, Heterophile",specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0003335,C1516031,AUGMENTS,"Antigens, Neoplasm",Antitumor Response,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0003445,C0020965,AUGMENTS,Antitoxins,Active immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0021403,C0683201,AUGMENTS,Influenza virus vaccine,specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0041361,C1516031,AUGMENTS,Tumor Antigens,Antitumor Response,imft,ortf,3,AUGMENTS_IMFTaugmORTF
+C0042210,C0021055,AUGMENTS,Vaccines,Immunologic Memory,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0042210,C0282557,AUGMENTS,Vaccines,"Immune Response, Mucosal",imft,ortf,19,AUGMENTS_IMFTaugmORTF
+C0042210,C0282558,AUGMENTS,Vaccines,"Immunity, Mucosal",imft,ortf,9,AUGMENTS_IMFTaugmORTF
+C0042210,C0683201,AUGMENTS,Vaccines,specific immunity,imft,ortf,9,AUGMENTS_IMFTaugmORTF
+C0042210,C1516031,AUGMENTS,Vaccines,Antitumor Response,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0042210,C2936721,AUGMENTS,Vaccines,Active Immune Response,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0042211,C0021055,AUGMENTS,"Vaccines, Attenuated",Immunologic Memory,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0042211,C0282558,AUGMENTS,"Vaccines, Attenuated","Immunity, Mucosal",imft,ortf,4,AUGMENTS_IMFTaugmORTF
+C0042212,C0683201,AUGMENTS,"Vaccines, Inactivated",specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0042742,C0282557,AUGMENTS,Viral Vaccines,"Immune Response, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0086413,C0282558,AUGMENTS,HIV Vaccine,"Immunity, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0282580,C0683201,AUGMENTS,"Epitopes, T-Lymphocyte",specific immunity,imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C0301838,C0282557,AUGMENTS,Soluble antigen,"Immune Response, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0376613,C0683201,AUGMENTS,"Vaccines, DNA",specific immunity,imft,ortf,6,AUGMENTS_IMFTaugmORTF
+C0487378,C0021055,AUGMENTS,Plasmodium falciparum antigen,Immunologic Memory,imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C0599597,C0683201,AUGMENTS,genetic vaccine,specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0887892,C0683201,AUGMENTS,"Vaccines, Subunit",specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C0887902,C0683201,AUGMENTS,"Vaccines, Edible",specific immunity,imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C1291777,C0683201,AUGMENTS,Protein antigen,specific immunity,imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C1519887,C0282557,AUGMENTS,Vaccine Antigen,"Immune Response, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C2825347,C0282558,AUGMENTS,"Immunoglobulin A, Human","Immunity, Mucosal",imft,ortf,2,AUGMENTS_IMFTaugmORTF
+C3272757,C0282557,AUGMENTS,Live Attenuated Influenza Vaccine,"Immune Response, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF
+C3272757,C0282558,AUGMENTS,Live Attenuated Influenza Vaccine,"Immunity, Mucosal",imft,ortf,1,AUGMENTS_IMFTaugmORTF

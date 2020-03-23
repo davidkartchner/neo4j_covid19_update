@@ -1,0 +1,39 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001122,C0025517,ISA,Acidosis,Metabolic Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0002170,C0037274,ISA,Alopecia,Dermatologic disorders,patf,dsyn,2,ISA_PATFisaDSYN
+C0002792,C0413234,ISA,anaphylaxis,Acute allergic reaction,patf,dsyn,1,ISA_PATFisaDSYN
+C0002994,C0042109,ISA,Angioedema,Urticaria,patf,dsyn,2,ISA_PATFisaDSYN
+C0003811,C0007222,ISA,Cardiac Arrhythmia,Cardiovascular Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0004238,C0007222,ISA,Atrial Fibrillation,Cardiovascular Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0007820,C0007222,ISA,Cerebrovascular Disorders,Cardiovascular Diseases,patf,dsyn,3,ISA_PATFisaDSYN
+C0013604,C0018801,ISA,Edema,Heart failure,patf,dsyn,1,ISA_PATFisaDSYN
+C0014461,C0037274,ISA,Eosinophilic Granuloma,Dermatologic disorders,patf,dsyn,1,ISA_PATFisaDSYN
+C0015927,C0242354,ISA,Fetal Death,Congenital Disorders,patf,dsyn,1,ISA_PATFisaDSYN
+C0015934,C0032962,ISA,Fetal Growth Retardation,Pregnancy Complications,patf,dsyn,1,ISA_PATFisaDSYN
+C0020517,C0021053,ISA,Hypersensitivity,Immune System Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0021655,C0020459,ISA,Insulin Resistance,Hyperinsulinism,patf,dsyn,3,ISA_PATFisaDSYN
+C0021655,C0025517,ISA,Insulin Resistance,Metabolic Diseases,patf,dsyn,2,ISA_PATFisaDSYN
+C0022346,C0020433,ISA,Icterus,Hyperbilirubinemia,patf,dsyn,1,ISA_PATFisaDSYN
+C0026766,C0005779,ISA,Multiple Organ Failure,Blood Coagulation Disorders,patf,dsyn,1,ISA_PATFisaDSYN
+C0027055,C0007222,ISA,Myocardial Reperfusion Injury,Cardiovascular Diseases,patf,dsyn,2,ISA_PATFisaDSYN
+C0035410,C0031117,ISA,Rhabdomyolysis,Peripheral Neuropathy,patf,dsyn,1,ISA_PATFisaDSYN
+C0036983,C0036690,ISA,Septic Shock,Septicemia,patf,dsyn,5,ISA_PATFisaDSYN
+C0036983,C0242966,ISA,Septic Shock,Systemic Inflammatory Response Syndrome,patf,dsyn,1,ISA_PATFisaDSYN
+C0039231,C0007222,ISA,Tachycardia,Cardiovascular Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0151521,C0004623,ISA,Bacterial resistance,Bacterial Infections,patf,dsyn,1,ISA_PATFisaDSYN
+C0151526,C0032962,ISA,Premature Birth,Pregnancy Complications,patf,dsyn,1,ISA_PATFisaDSYN
+C0156404,C0014130,ISA,Irregular periods,Endocrine System Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0333398,C0009450,ISA,Chronic abscess,Communicable Diseases,patf,dsyn,1,ISA_PATFisaDSYN
+C0342299,C0020456,ISA,Poor glycemic control,Hyperglycemia,patf,dsyn,1,ISA_PATFisaDSYN
+C0342314,C0020456,ISA,Dawn phenomenon,Hyperglycemia,patf,dsyn,1,ISA_PATFisaDSYN
+C0521173,C1290884,ISA,Granulomatosis,Inflammatory disorder,patf,dsyn,1,ISA_PATFisaDSYN
+C0521174,C0007682,ISA,Microcalcification,CNS disorder,patf,dsyn,1,ISA_PATFisaDSYN
+C0751530,C0038525,ISA,"Subarachnoid Hemorrhage, Aneurysmal",Subarachnoid Hemorrhage,patf,dsyn,1,ISA_PATFisaDSYN
+C1383860,C0003850,ISA,Cardiac Hypertrophy,Arteriosclerosis,patf,dsyn,1,ISA_PATFisaDSYN
+C1383860,C0018799,ISA,Cardiac Hypertrophy,Heart Diseases,patf,dsyn,2,ISA_PATFisaDSYN
+C1383860,C0018801,ISA,Cardiac Hypertrophy,Heart failure,patf,dsyn,1,ISA_PATFisaDSYN
+C3203360,C0024115,ISA,Suppuration,Lung diseases,patf,dsyn,3,ISA_PATFisaDSYN
+C3714514,C0035204,ISA,Infection,Respiration Disorders,patf,dsyn,6,ISA_PATFisaDSYN
+C3714514,C1290325,ISA,Infection,Disorder of lower respiratory system,patf,dsyn,1,ISA_PATFisaDSYN
+C3887486,C0034069,ISA,Interstitial lung fibrosis,Pulmonary Fibrosis,patf,dsyn,1,ISA_PATFisaDSYN
+C3887486,C0746102,ISA,Interstitial lung fibrosis,Chronic lung disease,patf,dsyn,2,ISA_PATFisaDSYN

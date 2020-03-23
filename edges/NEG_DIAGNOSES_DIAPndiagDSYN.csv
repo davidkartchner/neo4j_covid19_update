@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0009450,NEG_DIAGNOSES,Autopsy,Communicable Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0004398,C0010340,NEG_DIAGNOSES,Autopsy,Critical Illness,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0024485,C0014059,NEG_DIAGNOSES,Magnetic Resonance Imaging,"Encephalomyelitis, Acute Disseminated",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034606,C0006105,NEG_DIAGNOSES,Radionuclide Imaging,Brain Abscess,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034606,C0275522,NEG_DIAGNOSES,Radionuclide Imaging,Asymptomatic Infections,diap,dsyn,2,NEG_DIAGNOSES_DIAPndiagDSYN
+C0034606,C0520575,NEG_DIAGNOSES,Radionuclide Imaging,Acute pyelonephritis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0039985,C0032310,NEG_DIAGNOSES,Plain chest X-ray,"Pneumonia, Viral",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040017,C0398623,NEG_DIAGNOSES,Thrombelastography,Thrombophilia,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C0009450,NEG_DIAGNOSES,X-Ray Computed Tomography,Communicable Diseases,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0040405,C1175175,NEG_DIAGNOSES,X-Ray Computed Tomography,Severe Acute Respiratory Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0043299,C0006267,NEG_DIAGNOSES,Diagnostic radiologic examination,Bronchiectasis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0086143,C0276276,NEG_DIAGNOSES,Diagnostic tests,Canine parvovirus infection,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0203408,C0020295,NEG_DIAGNOSES,Echography of kidney,Hydronephrosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0430022,C0276472,NEG_DIAGNOSES,diagnostic procedure,Avian infectious bronchitis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0523807,C0001883,NEG_DIAGNOSES,Oxygen saturation measurement,Airway Obstruction,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0523807,C0520679,NEG_DIAGNOSES,Oxygen saturation measurement,"Sleep Apnea, Obstructive",diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0581714,C0021400,NEG_DIAGNOSES,Buccal smear procedure,Influenza,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0581714,C1175175,NEG_DIAGNOSES,Buccal smear procedure,Severe Acute Respiratory Syndrome,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0581714,C2062441,NEG_DIAGNOSES,Buccal smear procedure,Influenza A,diap,dsyn,2,NEG_DIAGNOSES_DIAPndiagDSYN
+C0683454,C0339284,NEG_DIAGNOSES,internal-external locus of control scale,Polymorphous corneal dystrophy,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C0750430,C0008312,NEG_DIAGNOSES,work up,Primary biliary cirrhosis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1655737,C0014122,NEG_DIAGNOSES,cardiac ultrasound,Subacute Bacterial Endocarditis,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN
+C1655737,C0018824,NEG_DIAGNOSES,cardiac ultrasound,Heart valve disease,diap,dsyn,1,NEG_DIAGNOSES_DIAPndiagDSYN

@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012854,C0162326,STIMULATES,DNA,DNA Sequence,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0012854,C1517336,STIMULATES,DNA,G-Quadruplexes,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0035701,C0162326,STIMULATES,Ribosomal RNA,DNA Sequence,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0242494,C1512886,STIMULATES,Poly(A) Tail,Internal Ribosome Entry Sites,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0242610,C1883644,STIMULATES,"Codon, Initiator",5' Region,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0242610,C1956150,STIMULATES,"Codon, Initiator",Opal Stop Codon,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0600493,C1512886,STIMULATES,5' Untranslated Regions,Internal Ribosome Entry Sites,bacs,nusq,1,STIMULATES_BACSstimNUSQ
+C0600600,C1512886,STIMULATES,3' Untranslated Regions,Internal Ribosome Entry Sites,bacs,nusq,5,STIMULATES_BACSstimNUSQ
+C1337054,C0162326,STIMULATES,Primary MicroRNA,DNA Sequence,bacs,nusq,1,STIMULATES_BACSstimNUSQ

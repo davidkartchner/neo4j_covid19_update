@@ -1,0 +1,107 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017347,C1326743,AFFECTS,"Genes, Homeobox",flower development,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C0017350,C0301872,AFFECTS,"Genes, Immunoglobulin",Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017355,C0678723,AFFECTS,"Genes, MHC Class I",Biologic Development,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017362,C0301872,AFFECTS,"Genes, Regulator",Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017366,C0043240,AFFECTS,Structural gene,Wound Healing,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017376,C0000934,AFFECTS,"Genes, Viral",Acclimatization,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C0017376,C0042774,AFFECTS,"Genes, Viral",Virus Replication,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C0017376,C0301872,AFFECTS,"Genes, Viral",Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017376,C1155328,AFFECTS,"Genes, Viral",Antiviral Response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0017376,C1654934,AFFECTS,"Genes, Viral",Immune Evasion,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0029073,C0237446,AFFECTS,Operon,Thermal Acclimatization,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0034787,C1160185,AFFECTS,Angiotensin Receptor,transduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0042720,C0042774,AFFECTS,Viral Genome,Virus Replication,gngm,orgf,6,AFFECTS_GNGMafctORGF
+C0042720,C1154988,AFFECTS,Viral Genome,defense response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0042720,C1752856,AFFECTS,Viral Genome,Host-Pathogen Interactions,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0079941,C0012238,AFFECTS,Open Reading Frames,Digestion,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0079941,C0018270,AFFECTS,Open Reading Frames,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0079941,C0042774,AFFECTS,Open Reading Frames,Virus Replication,gngm,orgf,4,AFFECTS_GNGMafctORGF
+C0079941,C0301872,AFFECTS,Open Reading Frames,Immune response,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C0086344,C0301872,AFFECTS,Immune response gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0282641,C0042789,AFFECTS,Transgenes,Vision,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0282641,C0301872,AFFECTS,Transgenes,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0282641,C0678209,AFFECTS,Transgenes,Adaptive Immunity,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0314604,C0035150,AFFECTS,Human gene,Reproduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0314604,C1155328,AFFECTS,Human gene,Antiviral Response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0600449,C0042774,AFFECTS,"Genes, Essential",Virus Replication,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C0751608,C0301872,AFFECTS,cDNA Library,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0812235,C1160185,AFFECTS,RHOB gene,transduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C0919453,C0042774,AFFECTS,cancer-predisposing genes,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1328027,C0019868,AFFECTS,SULT gene,Homeostasis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C0019868,AFFECTS,Candidate Disease Gene,Homeostasis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C0025519,AFFECTS,Candidate Disease Gene,Metabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C0042774,AFFECTS,Candidate Disease Gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C0301872,AFFECTS,Candidate Disease Gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C0596074,AFFECTS,Candidate Disease Gene,Amino Acid Biosynthesis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1332838,C1155328,AFFECTS,Candidate Disease Gene,Antiviral Response,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C1332838,C1563744,AFFECTS,Candidate Disease Gene,Lipogenesis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C0005615,AFFECTS,Homologous Gene,Birth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C0014653,AFFECTS,Homologous Gene,Equilibrium,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C0042774,AFFECTS,Homologous Gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C0043240,AFFECTS,Homologous Gene,Wound Healing,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C0301872,AFFECTS,Homologous Gene,Immune response,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C1334043,C1510470,AFFECTS,Homologous Gene,Motility,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334043,C1654934,AFFECTS,Homologous Gene,Immune Evasion,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334435,C0018270,AFFECTS,Luc Gene,Growth,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C1334545,C1136180,AFFECTS,Major histocompatibility complex gene,Disease Resistance,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1334889,C1327413,AFFECTS,NOTCH1 gene,cytokine production,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1335144,C0018270,AFFECTS,Orthologous Gene,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1335144,C0301872,AFFECTS,Orthologous Gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1335208,C0042774,AFFECTS,PHB gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1336663,C0042774,AFFECTS,TPMT gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1337034,C0043240,AFFECTS,XRCC5 gene,Wound Healing,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1366571,C0301872,AFFECTS,CXCL8 gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1367671,C0301872,AFFECTS,MAP4K4 gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1367675,C0301872,AFFECTS,MAP3K1 gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1412918,C0699900,AFFECTS,LDLRAD4 gene,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1413124,C0018270,AFFECTS,CAPZB gene,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1414269,C0011065,AFFECTS,EED gene,Cessation of life,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1414306,C0301872,AFFECTS,EFNB2 gene,Immune response,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C1415642,C0042774,AFFECTS,HNRNPH1 gene,Virus Replication,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C1415758,C0018270,AFFECTS,HSPA2 gene,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1415927,C0018270,AFFECTS,IFRD1 gene,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1416178,C0042774,AFFECTS,IGKV1-17 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1417393,C1510470,AFFECTS,MT1E gene,Motility,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1417700,C0042774,AFFECTS,NFE2L1 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1418189,C0042774,AFFECTS,OSBP2 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1419291,C0014653,AFFECTS,RBBP6 gene,Equilibrium,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1419752,C0042774,AFFECTS,RPS8 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1420244,C0301872,AFFECTS,SLIT2 gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1420317,C0814002,AFFECTS,SOX10 gene,Neurogenesis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1420818,C0678889,AFFECTS,TNFSF18 gene,Immunoregulation,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1421381,C1654934,AFFECTS,USH2A gene,Immune Evasion,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1421399,C1155328,AFFECTS,USP21 gene,Antiviral Response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1421447,C0042774,AFFECTS,VGF gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1421504,C0333953,AFFECTS,FOXN1 gene,Involution,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1421587,C0699900,AFFECTS,ZNF1 gene,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1422660,C0042774,AFFECTS,ANAPC11 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1422801,C0042774,AFFECTS,CDCA8 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1422833,C0026559,AFFECTS,DEAF1 gene,Morphogenesis,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1423676,C0042774,AFFECTS,ANAPC5 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1424302,C0699900,AFFECTS,SUFU gene,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1424617,C0699900,AFFECTS,PSMD14 gene,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1424742,C0699900,AFFECTS,EXOSC2 gene,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1424917,C0042774,AFFECTS,APOBEC3A gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1425999,C0301872,AFFECTS,CKS1B gene,Immune response,gngm,orgf,3,AFFECTS_GNGMafctORGF
+C1426587,C0042774,AFFECTS,ANAPC4 gene,Virus Replication,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1427003,C0678723,AFFECTS,RHBDF1 gene,Biologic Development,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1427004,C1155328,AFFECTS,MBNL3 gene,Antiviral Response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1428258,C0678723,AFFECTS,PIKFYVE gene,Biologic Development,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1511573,C1160185,AFFECTS,Cyclic AMP Response Element,transduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1517488,C0019868,AFFECTS,Gene Family,Homeostasis,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C1517488,C0035150,AFFECTS,Gene Family,Reproduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1517488,C0301872,AFFECTS,Gene Family,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1517488,C1136180,AFFECTS,Gene Family,Disease Resistance,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1519623,C0699900,AFFECTS,Transmembrane Domain,Catabolism,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1537447,C0678723,AFFECTS,RUBCN gene,Biologic Development,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1538763,C0678723,AFFECTS,RAB7B gene,Biologic Development,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C1539341,C0301872,AFFECTS,EIF2AK2 gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1705625,C0043240,AFFECTS,RRAD wt Allele,Wound Healing,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1705873,C0043240,AFFECTS,G22P1 wt Allele,Wound Healing,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1822724,C0301872,AFFECTS,SIGIRR gene,Immune response,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1826471,C1160185,AFFECTS,NRSN1 gene,transduction,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1826547,C0025519,AFFECTS,PCF11 gene,Metabolism,gngm,orgf,2,AFFECTS_GNGMafctORGF
+C1826825,C0678723,AFFECTS,RHBDF2 gene,Biologic Development,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C1969646,C0018270,AFFECTS,CXCL17 gene,Growth,gngm,orgf,1,AFFECTS_GNGMafctORGF
+C4320370,C1155328,AFFECTS,LUARIS gene,Antiviral Response,gngm,orgf,1,AFFECTS_GNGMafctORGF

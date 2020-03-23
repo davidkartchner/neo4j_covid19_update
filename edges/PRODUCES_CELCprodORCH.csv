@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0073591,PRODUCES,Plasma membrane,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0007623,C0023810,PRODUCES,Cell Wall,Lipopolysaccharides,celc,orch,1,PRODUCES_CELCprodORCH
+C0007623,C0073591,PRODUCES,Cell Wall,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0010834,C0073591,PRODUCES,Cytoplasm,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0010834,C0208308,PRODUCES,Cytoplasm,artemisic acid,celc,orch,1,PRODUCES_CELCprodORCH
+C0010834,C2728259,PRODUCES,Cytoplasm,Program,celc,orch,1,PRODUCES_CELCprodORCH
+C0010851,C0723285,PRODUCES,Cytoskeletal Filaments,Septa,celc,orch,1,PRODUCES_CELCprodORCH
+C0024369,C0031701,PRODUCES,Lysosomes,Phosphoric Acid Esters,celc,orch,2,PRODUCES_CELCprodORCH
+C0026237,C0073591,PRODUCES,Mitochondria,rosoxacin,celc,orch,11,PRODUCES_CELCprodORCH
+C0026237,C0208308,PRODUCES,Mitochondria,artemisic acid,celc,orch,1,PRODUCES_CELCprodORCH
+C0029219,C0073591,PRODUCES,Organelles,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0031310,C0073591,PRODUCES,Phagosomes,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0042219,C0063522,PRODUCES,Vacuole,indoxyl,celc,orch,1,PRODUCES_CELCprodORCH
+C0042760,C0073591,PRODUCES,Virion,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0175996,C0073591,PRODUCES,Protoplasm,rosoxacin,celc,orch,5,PRODUCES_CELCprodORCH
+C0230764,C0073591,PRODUCES,Golgi membrane,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C0230770,C0028959,PRODUCES,"Endoplasmic reticulum, membrane",Oligosaccharides,celc,orch,1,PRODUCES_CELCprodORCH
+C0333785,C0214192,PRODUCES,Virus-like particles,9-aminocamptothecin,celc,orch,1,PRODUCES_CELCprodORCH
+C0596901,C0073591,PRODUCES,Membrane,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C1166607,C0007004,PRODUCES,cellular_component,Carbohydrates,celc,orch,1,PRODUCES_CELCprodORCH
+C1166607,C0023779,PRODUCES,cellular_component,Lipids,celc,orch,1,PRODUCES_CELCprodORCH
+C1166803,C0070797,PRODUCES,phosphatidylinositol 3-kinase complex,phosphatidylinositol 3-phosphate,celc,orch,1,PRODUCES_CELCprodORCH
+C1325742,C0073591,PRODUCES,Pore,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C1383501,C0046699,PRODUCES,Cytoplasmic matrix,25-hydroxycholesterol,celc,orch,1,PRODUCES_CELCprodORCH
+C1621975,C0023779,PRODUCES,organelle membrane,Lipids,celc,orch,1,PRODUCES_CELCprodORCH
+C1819995,C0028959,PRODUCES,Host Cell,Oligosaccharides,celc,orch,1,PRODUCES_CELCprodORCH
+C1819995,C0073591,PRODUCES,Host Cell,rosoxacin,celc,orch,1,PRODUCES_CELCprodORCH
+C2350332,C0011816,PRODUCES,Exosomes,Dextromethorphan,celc,orch,1,PRODUCES_CELCprodORCH
+C2612461,C0023779,PRODUCES,high-density lipoprotein particle,Lipids,celc,orch,1,PRODUCES_CELCprodORCH

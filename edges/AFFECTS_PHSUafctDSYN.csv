@@ -1,0 +1,82 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C0034088,AFFECTS,Acyclovir,Pulmonary Valve Insufficiency,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003015,C0007222,AFFECTS,Angiotensin-Converting Enzyme Inhibitors,Cardiovascular Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003015,C0020538,AFFECTS,Angiotensin-Converting Enzyme Inhibitors,Hypertensive disease,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003015,C0022658,AFFECTS,Angiotensin-Converting Enzyme Inhibitors,Kidney Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003209,C0028754,AFFECTS,Anti-Inflammatory Agents,Obesity,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003209,C0243010,AFFECTS,Anti-Inflammatory Agents,Viral Encephalitis,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C0003209,C1373218,AFFECTS,Anti-Inflammatory Agents,Decreased Immunologic Activity [PE],phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003308,C0034088,AFFECTS,Antifungal Agents,Pulmonary Valve Insufficiency,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003360,C0004096,AFFECTS,Antihistamines,Asthma,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003392,C0010418,AFFECTS,Antineoplastic Agents,Cryptosporidiosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003392,C0206750,AFFECTS,Antineoplastic Agents,Coronavirus Infections,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003402,C0023895,AFFECTS,Antioxidants,Liver diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003402,C0029456,AFFECTS,Antioxidants,Osteoporosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003451,C0021400,AFFECTS,Antiviral Agents,Influenza,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003451,C0042769,AFFECTS,Antiviral Agents,Virus Diseases,phsu,dsyn,4,AFFECTS_PHSUafctDSYN
+C0003451,C0745283,AFFECTS,Antiviral Agents,INFECTIOUS PROCESS,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0003451,C0856238,AFFECTS,Antiviral Agents,influenza (epidemic),phsu,dsyn,4,AFFECTS_PHSUafctDSYN
+C0009905,C0011847,AFFECTS,"Contraceptives, Oral",Diabetes,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0009905,C0011860,AFFECTS,"Contraceptives, Oral","Diabetes Mellitus, Non-Insulin-Dependent",phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0011777,C0024312,AFFECTS,Dexamethasone,Lymphopenia,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0012798,C1565489,AFFECTS,Diuretics,Renal Insufficiency,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C0011615,AFFECTS,Ergocalciferol,"Dermatitis, Atopic",phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C0021400,AFFECTS,Ergocalciferol,Influenza,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C0276447,AFFECTS,Ergocalciferol,Rhinovirus infection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C0729531,AFFECTS,Ergocalciferol,Viral respiratory infection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C0856238,AFFECTS,Ergocalciferol,influenza (epidemic),phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C1290884,AFFECTS,Ergocalciferol,Inflammatory disorder,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0014695,C2062441,AFFECTS,Ergocalciferol,Influenza A,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0020592,C0524851,AFFECTS,Hypnotics and Sedatives,Neurodegenerative Disorders,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0021081,C0021831,AFFECTS,Immunosuppressive Agents,Intestinal Diseases,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C0021081,C0042769,AFFECTS,Immunosuppressive Agents,Virus Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0040616,C0019163,AFFECTS,Anti-Anxiety Agents,Hepatitis B,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0042105,C0742395,AFFECTS,Ursodiol,"Cholestasis, chronic",phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0042105,C1623038,AFFECTS,Ursodiol,Cirrhosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0042397,C0008679,AFFECTS,Vasoconstrictor Agents,Chronic disease,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0042397,C0036690,AFFECTS,Vasoconstrictor Agents,Septicemia,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0050063,C0004364,AFFECTS,8-chloro-cyclic adenosine monophosphate,Autoimmune Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0050063,C0042769,AFFECTS,8-chloro-cyclic adenosine monophosphate,Virus Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0063469,C0021400,AFFECTS,indirubin,Influenza,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0063469,C0032285,AFFECTS,indirubin,Pneumonia,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0071849,C0008370,AFFECTS,"pregna-4,17-diene-3,16-dione",Cholestasis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0084844,C0004364,AFFECTS,trestolone,Autoimmune Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0119192,C0003850,AFFECTS,ginsenoside Rb1,Arteriosclerosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0225326,C1096155,AFFECTS,Fiber,Macrophage Activation Syndrome,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0282519,C0042769,AFFECTS,Reverse Transcriptase Inhibitors,Virus Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0302837,C0006271,AFFECTS,Vitamin supplementation,Bronchiolitis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0598447,C2676739,AFFECTS,fluorophore,Chromosome 2q32-Q33 Deletion Syndrome,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C0663241,C0030312,AFFECTS,linezolid,Pancytopenia,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0663241,C0036285,AFFECTS,linezolid,Scarlet Fever,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0663241,C0040034,AFFECTS,linezolid,Thrombocytopenia,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0696725,C0019196,AFFECTS,Huang Lian preparation,Hepatitis C,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0699680,C1175175,AFFECTS,Metric,Severe Acute Respiratory Syndrome,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0718566,C0007222,AFFECTS,Anti-Fungal,Cardiovascular Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0719214,C0024530,AFFECTS,century,Malaria,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C0914671,C0009319,AFFECTS,CPG-ODN,Colitis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1136254,C0006272,AFFECTS,Microbicides,Bronchiolitis Obliterans,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1443643,C0009450,AFFECTS,Proteasome inhibitor,Communicable Diseases,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C1519059,C4288963,AFFECTS,Phosphorothioate Oligonucleotides,Hepatitis C Virus Infection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1562242,C0004096,AFFECTS,Anti-tumor necrosis factor alpha drug (product),Asthma,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1718097,C0001175,AFFECTS,New medications,Acquired Immunodeficiency Syndrome,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1827106,C0011881,AFFECTS,Dipeptidyl-Peptidase IV Inhibitors,Diabetic Nephropathy,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1827106,C0442874,AFFECTS,Dipeptidyl-Peptidase IV Inhibitors,Neuropathy,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C1874451,C0035222,AFFECTS,Basis,"Respiratory Distress Syndrome, Adult",phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1874451,C0154682,AFFECTS,Basis,Lateral Sclerosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1874451,C0746102,AFFECTS,Basis,Chronic lung disease,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1874451,C1264606,AFFECTS,Basis,Persistent infection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C1875235,C0010340,AFFECTS,Helium / Oxygen,Critical Illness,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C2987634,C0004096,AFFECTS,Agonist,Asthma,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539125,C0004096,AFFECTS,other medicated shampoos in ATC,Asthma,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539125,C0019348,AFFECTS,other medicated shampoos in ATC,Herpes Simplex Infections,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539125,C0021053,AFFECTS,other medicated shampoos in ATC,Immune System Diseases,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539125,C0042769,AFFECTS,other medicated shampoos in ATC,Virus Diseases,phsu,dsyn,2,AFFECTS_PHSUafctDSYN
+C3539125,C0149725,AFFECTS,other medicated shampoos in ATC,Lower respiratory tract infection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539125,C0275524,AFFECTS,other medicated shampoos in ATC,Coinfection,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539957,C0002726,AFFECTS,opium alkaloids and derivative combination cough suppressants,Amyloidosis,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3539957,C1096155,AFFECTS,opium alkaloids and derivative combination cough suppressants,Macrophage Activation Syndrome,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3541969,C0021400,AFFECTS,"Neuraminidase inhibitors, direct acting antivirals",Influenza,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3541969,C0276357,AFFECTS,"Neuraminidase inhibitors, direct acting antivirals",Swine influenza,phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C3658209,C0205882,AFFECTS,Phospholipase A2 Inhibitors,"Infections, Parvovirus",phsu,dsyn,3,AFFECTS_PHSUafctDSYN
+C3827031,C0019243,AFFECTS,Activated Marrow Infiltrating Lymphocytes,"Angioedemas, Hereditary",phsu,dsyn,1,AFFECTS_PHSUafctDSYN
+C4524581,C0277527,AFFECTS,Source Plasma,Epidemic diarrhea,phsu,dsyn,1,AFFECTS_PHSUafctDSYN

@@ -1,0 +1,34 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009818,C0042210,USES,Consultation,Vaccines,hlca,imft,3,USES_HLCAusesIMFT
+C0013194,C0042210,USES,Drug Packaging,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0030677,C0001551,USES,Patient Care Management,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0030685,C0001551,USES,Patient Discharge,Immunologic Adjuvants,hlca,imft,1,USES_HLCAusesIMFT
+C0030685,C0042210,USES,Patient Discharge,Vaccines,hlca,imft,4,USES_HLCAusesIMFT
+C0033333,C0042211,USES,Program Development,"Vaccines, Attenuated",hlca,imft,1,USES_HLCAusesIMFT
+C0033333,C0086413,USES,Program Development,HIV Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0085557,C0042210,USES,Infectious disease prevention / control,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0206082,C0042210,USES,Immunization Programs,Vaccines,hlca,imft,4,USES_HLCAusesIMFT
+C0206082,C0042211,USES,Immunization Programs,"Vaccines, Attenuated",hlca,imft,3,USES_HLCAusesIMFT
+C0220908,C0042742,USES,Screening procedure,Viral Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0441587,C0034496,USES,Clinical act of insertion,Rabies Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0441587,C0042210,USES,Clinical act of insertion,Vaccines,hlca,imft,4,USES_HLCAusesIMFT
+C0441587,C0376613,USES,Clinical act of insertion,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C0548471,C0042210,USES,protocols: surgery,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0585648,C0021403,USES,Registration procedure,Influenza virus vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C0679831,C0042210,USES,Patient History,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C0805586,C0042210,USES,Challenge,Vaccines,hlca,imft,6,USES_HLCAusesIMFT
+C0805586,C0042211,USES,Challenge,"Vaccines, Attenuated",hlca,imft,2,USES_HLCAusesIMFT
+C0805586,C0376613,USES,Challenge,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C1261322,C0042210,USES,Evaluation procedure,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C1293116,C0021403,USES,Introduction procedure,Influenza virus vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C1293116,C0042210,USES,Introduction procedure,Vaccines,hlca,imft,21,USES_HLCAusesIMFT
+C1293116,C0358314,USES,Introduction procedure,Pneumococcal vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C1293116,C0770694,USES,Introduction procedure,trivalent influenza vaccine,hlca,imft,2,USES_HLCAusesIMFT
+C1514821,C0042210,USES,Registration,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C1516879,C0376613,USES,Enrollment,"Vaccines, DNA",hlca,imft,1,USES_HLCAusesIMFT
+C2718016,C0042210,USES,Compassionate Use,Vaccines,hlca,imft,1,USES_HLCAusesIMFT
+C4036459,C0042210,USES,Contacts,Vaccines,hlca,imft,2,USES_HLCAusesIMFT
+C4279933,C0008359,USES,Vaccination Campaign,Cholera Vaccine,hlca,imft,1,USES_HLCAusesIMFT
+C4279933,C0032375,USES,Vaccination Campaign,Oral Poliovirus Vaccine,hlca,imft,2,USES_HLCAusesIMFT
+C4279933,C0042210,USES,Vaccination Campaign,Vaccines,hlca,imft,3,USES_HLCAusesIMFT
+C4505148,C0358314,USES,Vaccination Coverage,Pneumococcal vaccine,hlca,imft,1,USES_HLCAusesIMFT

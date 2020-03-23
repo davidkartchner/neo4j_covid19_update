@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0231170,PREVENTS,Hospitalization,Disability,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0019993,C3714514,PREVENTS,Hospitalization,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0030685,C0015376,PREVENTS,Patient Discharge,Extravasation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0021368,PREVENTS,Patient Discharge,Inflammation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C1155266,PREVENTS,Patient Discharge,inflammatory response,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0033137,C0020517,PREVENTS,Primary Health Care,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0034115,C3714514,PREVENTS,Paracentesis,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085557,C0242781,PREVENTS,Infectious disease prevention / control,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085557,C3714514,PREVENTS,Infectious disease prevention / control,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0085559,C0242656,PREVENTS,intensive care,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0150270,C0333456,PREVENTS,Medication Management,Primary demyelination,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220908,C0020517,PREVENTS,Screening procedure,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220908,C0242781,PREVENTS,Screening procedure,disease transmission,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0220908,C3714514,PREVENTS,Screening procedure,Infection,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0262458,C4505499,PREVENTS,donor evaluation,Transfusion-Transmitted Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0679897,C0151526,PREVENTS,health care program,Premature Birth,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0805586,C0151526,PREVENTS,Challenge,Premature Birth,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0871311,C3714514,PREVENTS,screening tests,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1293116,C0003130,PREVENTS,Introduction procedure,Anoxia,hlca,patf,2,PREVENTS_HLCAprevPATF
+C1293116,C0020517,PREVENTS,Introduction procedure,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1293116,C0206277,PREVENTS,Introduction procedure,Fatal Outcome,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1293116,C0860239,PREVENTS,Introduction procedure,Catheter related infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1406915,C0242656,PREVENTS,breathing therapy,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1514821,C0242648,PREVENTS,Registration,Vertical Disease Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1516615,C4061114,PREVENTS,Clinical Management,Acute illness,hlca,patf,1,PREVENTS_HLCAprevPATF
+C3889687,C0242656,PREVENTS,Clinical Observation,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4036459,C3714514,PREVENTS,Contacts,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4279933,C3714514,PREVENTS,Vaccination Campaign,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4505148,C0242781,PREVENTS,Vaccination Coverage,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF

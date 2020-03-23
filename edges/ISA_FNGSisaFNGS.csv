@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003965,C0016832,ISA,Ascomycota (fungus),Fungi,fngs,fngs,3,ISA_FNGSisaFNGS
+C0004034,C0016832,ISA,Aspergillus,Fungi,fngs,fngs,12,ISA_FNGSisaFNGS
+C0004037,C0016832,ISA,Aspergillus fumigatus,Fungi,fngs,fngs,3,ISA_FNGSisaFNGS
+C0004039,C0016832,ISA,Aspergillus niger,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0004042,C0016832,ISA,Aspergillus oryzae,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0004810,C0016832,ISA,Basidiomycota,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0005713,C0016832,ISA,Blastomyces,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0006836,C0016832,ISA,Candida (fungus),Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0006837,C0006836,ISA,Candida albicans,Candida (fungus),fngs,fngs,1,ISA_FNGSisaFNGS
+C0006837,C0016832,ISA,Candida albicans,Fungi,fngs,fngs,9,ISA_FNGSisaFNGS
+C0006837,C0043393,ISA,Candida albicans,Yeasts,fngs,fngs,1,ISA_FNGSisaFNGS
+C0009183,C0016832,ISA,Coccidioides,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0010415,C0016832,ISA,Cryptococcus,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0010416,C0016832,ISA,Cryptococcus neoformans,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0010416,C0043393,ISA,Cryptococcus neoformans,Yeasts,fngs,fngs,1,ISA_FNGSisaFNGS
+C0014181,C0043393,ISA,Saccharomycetales,Yeasts,fngs,fngs,1,ISA_FNGSisaFNGS
+C0015298,C1005084,ISA,Exophiala,Chaetothyriales,fngs,fngs,2,ISA_FNGSisaFNGS
+C0016871,C0016832,ISA,Fusarium,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0020606,C0016832,ISA,Hypocreales,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0024448,C0600440,ISA,Madurella,Sordariales,fngs,fngs,1,ISA_FNGSisaFNGS
+C0024541,C0016832,ISA,Malassezia,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0028434,C0016832,ISA,Encephalitozoon cuniculi,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0030843,C0016832,ISA,Penicillium,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0030844,C0016832,ISA,Penicillium chrysogenum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0032030,C0016832,ISA,Malassezia furfur,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0036024,C0043393,ISA,Saccharomyces,Yeasts,fngs,fngs,12,ISA_FNGSisaFNGS
+C0036025,C0014181,ISA,Saccharomyces cerevisiae,Saccharomycetales,fngs,fngs,14,ISA_FNGSisaFNGS
+C0036025,C0016832,ISA,Saccharomyces cerevisiae,Fungi,fngs,fngs,5,ISA_FNGSisaFNGS
+C0036025,C0036024,ISA,Saccharomyces cerevisiae,Saccharomyces,fngs,fngs,8,ISA_FNGSisaFNGS
+C0036025,C0043393,ISA,Saccharomyces cerevisiae,Yeasts,fngs,fngs,6,ISA_FNGSisaFNGS
+C0040934,C0011635,ISA,Trichophyton mentagrophytes,Arthrodermataceae,fngs,fngs,1,ISA_FNGSisaFNGS
+C0043393,C0016832,ISA,Yeasts,Fungi,fngs,fngs,4,ISA_FNGSisaFNGS
+C0319527,C0016832,ISA,Rhizomucor,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319558,C0016832,ISA,Ajellomyces capsulatus,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C0319615,C0016832,ISA,Emericella,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319662,C0001774,ISA,Lepiota procera,Agaricales,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319852,C0016832,ISA,Cordyceps militaris,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319862,C0016832,ISA,Uredinales,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319895,C0016832,ISA,Rhodotorula glutinis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319899,C0043393,ISA,Candida glabrata,Yeasts,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319975,C0997446,ISA,Penicillium marneffei,Talaromyces,fngs,fngs,3,ISA_FNGSisaFNGS
+C0319990,C0016832,ISA,Trichoderma viride,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0319991,C0016832,ISA,Trichophyton concentricum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0320062,C0016832,ISA,Alternaria alternata,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0320062,C1002093,ISA,Alternaria alternata,Pleosporaceae,fngs,fngs,1,ISA_FNGSisaFNGS
+C0320167,C0016832,ISA,Fusarium graminearum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0320385,C0016832,ISA,Pneumocystis jiroveci,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0446010,C0010415,ISA,Cryptococcus gattii,Cryptococcus,fngs,fngs,1,ISA_FNGSisaFNGS
+C0521057,C0949695,ISA,Hyphae,Mycelium,fngs,fngs,1,ISA_FNGSisaFNGS
+C0579190,C0016832,ISA,Botrytis cinerea,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0772093,C0043393,ISA,Saccharomyces boulardii,Yeasts,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997431,C0016832,ISA,Aspergillus giganteus,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997454,C0016832,ISA,Ascosphaera apis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997457,C0016832,ISA,Cryphonectria parasitica,Fungi,fngs,fngs,3,ISA_FNGSisaFNGS
+C0997468,C0016832,ISA,Podospora anserina,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997544,C0319862,ISA,Melampsora lini,Uredinales,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997613,C0001774,ISA,Agrocybe aegerita,Agaricales,fngs,fngs,1,ISA_FNGSisaFNGS
+C0997671,C0016832,ISA,Metarhizium,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1002888,C0016832,ISA,Clonostachys rosea,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1002920,C0004810,ISA,Rhodotorula graminis,Basidiomycota,fngs,fngs,2,ISA_FNGSisaFNGS
+C1002924,C2295701,ISA,Tolypocladium,Ophiocordycipitaceae,fngs,fngs,1,ISA_FNGSisaFNGS
+C1002925,C0016832,ISA,Tolypocladium inflatum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1005084,C0003965,ISA,Chaetothyriales,Ascomycota (fungus),fngs,fngs,1,ISA_FNGSisaFNGS
+C1005084,C0016832,ISA,Chaetothyriales,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1005086,C0016832,ISA,Clavicipitaceae,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1005139,C0016832,ISA,Entomophthora muscae,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C1008127,C0016832,ISA,Hamigera avellanea,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C1009193,C0016832,ISA,Aspergillus carbonarius,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1011788,C0016832,ISA,Pyrenophora tritici-repentis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1011843,C0016832,ISA,Cordyceps,Fungi,fngs,fngs,27,ISA_FNGSisaFNGS
+C1022024,C0016832,ISA,Penicillium verrucosum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1023673,C0016832,ISA,Golovinomyces cichoracearum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1025512,C0016832,ISA,Serendipita indica,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1027110,C0016832,ISA,Scleroderma citrinum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1027652,C0016832,ISA,Penicillium ochrochloron,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1028843,C0016832,ISA,Lacrymaria velutina,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1039585,C0016832,ISA,Isaria farinosa,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1040682,C0004810,ISA,Bovista plumbea,Basidiomycota,fngs,fngs,1,ISA_FNGSisaFNGS
+C1048004,C0020606,ISA,Bionectriaceae,Hypocreales,fngs,fngs,1,ISA_FNGSisaFNGS
+C1051658,C0016832,ISA,Batrachochytrium dendrobatidis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1070970,C0016832,ISA,Pezizomycotina,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1072840,C0016832,ISA,Truncatella angustata,Fungi,fngs,fngs,3,ISA_FNGSisaFNGS
+C1080959,C0016832,ISA,Sclerotinia sclerotiorum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1082148,C0016832,ISA,Xylaria,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C1082326,C0085345,ISA,Nosema bombi,Microsporidia <fungus>,fngs,fngs,1,ISA_FNGSisaFNGS
+C1087980,C0016832,ISA,Bipolaris oryzae,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1092989,C0319862,ISA,Uromyces appendiculatus,Uredinales,fngs,fngs,2,ISA_FNGSisaFNGS
+C1136244,C0016832,ISA,Mycorrhizae,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C1138420,C0016832,ISA,Endomycorrhizae,Fungi,fngs,fngs,11,ISA_FNGSisaFNGS
+C1192674,C0001774,ISA,Russula lepida,Agaricales,fngs,fngs,1,ISA_FNGSisaFNGS
+C1202050,C0016832,ISA,Aspergillus silvaticus,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1212653,C1070970,ISA,Orbiliomycetes,Pezizomycotina,fngs,fngs,2,ISA_FNGSisaFNGS
+C1219666,C0016832,ISA,Coccidioides posadasii,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1483636,C0016832,ISA,Hemileia vastatrix,Fungi,fngs,fngs,2,ISA_FNGSisaFNGS
+C1485146,C0016832,ISA,Cordyceps cicadae,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1562222,C0016832,ISA,Dimorphic fungi,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C1661026,C0319635,ISA,Erysiphe necator,Erysiphe,fngs,fngs,1,ISA_FNGSisaFNGS
+C2295746,C1005086,ISA,Metacordyceps,Clavicipitaceae,fngs,fngs,1,ISA_FNGSisaFNGS
+C2295747,C2295701,ISA,Ophiocordyceps,Ophiocordycipitaceae,fngs,fngs,1,ISA_FNGSisaFNGS
+C2618512,C0004810,ISA,Rhizoctonia solani,Basidiomycota,fngs,fngs,1,ISA_FNGSisaFNGS
+C2628258,C0016832,ISA,Candida auris,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C2664655,C0016832,ISA,Rhizophagus irregularis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C2786697,C0016832,ISA,Pseudogymnoascus destructans,Fungi,fngs,fngs,9,ISA_FNGSisaFNGS
+C2989359,C0016832,ISA,Sporothrix brasiliensis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C3012172,C0016832,ISA,Paecilomyces hepiali,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C3424526,C0016832,ISA,Penicillium brefeldianum,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C3715795,C0016832,ISA,Cordyceps guangdongensis,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C4137221,C0016832,ISA,Arthrinium sp.,Fungi,fngs,fngs,1,ISA_FNGSisaFNGS
+C4160854,C0016832,ISA,Eutypella sp.,Fungi,fngs,fngs,4,ISA_FNGSisaFNGS
+C4277539,C4277685,ISA,Fungal Microbiota,Mycobiome,fngs,fngs,1,ISA_FNGSisaFNGS

@@ -1,0 +1,510 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001126,C0024348,CAUSES,Renal tubular acidosis,Lysis,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0001139,C0022346,CAUSES,Acinetobacter Infections,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001339,C0026766,CAUSES,Acute pancreatitis,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001486,C0020517,CAUSES,Adenovirus Infections,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001486,C0026766,CAUSES,Adenovirus Infections,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001486,C0206277,CAUSES,Adenovirus Infections,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001623,C0036983,CAUSES,Adrenal gland hypofunction,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0001883,C0004144,CAUSES,Airway Obstruction,Atelectasis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0003128,C0021361,CAUSES,Anovulation,Female infertility,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0003873,C0021368,CAUSES,Rheumatoid Arthritis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004096,C0020517,CAUSES,Asthma,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004096,C0021368,CAUSES,Asthma,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004096,C2717792,CAUSES,Asthma,Airway Remodeling,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004135,C0040038,CAUSES,Ataxia Telangiectasia,Thromboembolism,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004364,C0011304,CAUSES,Autoimmune Diseases,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004364,C0021376,CAUSES,Autoimmune Diseases,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004364,C0242656,CAUSES,Autoimmune Diseases,Disease Progression,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004364,C3714514,CAUSES,Autoimmune Diseases,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004610,C0026766,CAUSES,Bacteremia,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004610,C0036983,CAUSES,Bacteremia,Septic Shock,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0004623,C0021368,CAUSES,Bacterial Infections,Inflammation,dsyn,patf,9,CAUSES_DSYNcausPATF
+C0004623,C0022346,CAUSES,Bacterial Infections,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004623,C0041582,CAUSES,Bacterial Infections,Ulcer,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0004623,C1155266,CAUSES,Bacterial Infections,inflammatory response,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0004626,C0021368,CAUSES,"Pneumonia, Bacterial",Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0005779,C0026766,CAUSES,Blood Coagulation Disorders,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0005779,C0040053,CAUSES,Blood Coagulation Disorders,Thrombosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0005806,C0022346,CAUSES,Blood Group Incompatibility,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0006271,C0021368,CAUSES,Bronchiolitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0006271,C0333508,CAUSES,Bronchiolitis,Hemorrhagic necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0006271,C1520005,CAUSES,Bronchiolitis,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0006272,C3887486,CAUSES,Bronchiolitis Obliterans,Interstitial lung fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0006285,C3203360,CAUSES,Bronchopneumonia,Suppuration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007193,C0032227,CAUSES,"Cardiomyopathy, Dilated",Pleural effusion disorder,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007682,C0011304,CAUSES,CNS disorder,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007684,C0004144,CAUSES,Central Nervous System Infection,Atelectasis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007684,C0011304,CAUSES,Central Nervous System Infection,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007684,C0151701,CAUSES,Central Nervous System Infection,Pulmonary hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0007785,C0021368,CAUSES,Cerebral Infarction,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0008055,C3714514,CAUSES,Chikungunya Fever,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0008055,C4061114,CAUSES,Chikungunya Fever,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0008677,C0235063,CAUSES,"Bronchitis, Chronic",Respiratory Depression,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0008679,C0013604,CAUSES,Chronic disease,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009324,C0021368,CAUSES,Ulcerative Colitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009324,C0040038,CAUSES,Ulcerative Colitis,Thromboembolism,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0009421,C0021368,CAUSES,Comatose,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009443,C3714514,CAUSES,Common Cold,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C0016059,CAUSES,Communicable Diseases,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C0021368,CAUSES,Communicable Diseases,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C0036983,CAUSES,Communicable Diseases,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C0853888,CAUSES,Communicable Diseases,Hypocomplementemia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C1155266,CAUSES,Communicable Diseases,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009450,C3714514,CAUSES,Communicable Diseases,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009763,C0021368,CAUSES,Conjunctivitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0009952,C0919661,CAUSES,Febrile Convulsions,alternation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010054,C0018790,CAUSES,Coronary Arteriosclerosis,Cardiac Arrest,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010054,C0023518,CAUSES,Coronary Arteriosclerosis,Leukocytosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010232,C3714514,CAUSES,Cowpox,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010346,C0017181,CAUSES,Crohn Disease,Gastrointestinal Hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010346,C0040038,CAUSES,Crohn Disease,Thromboembolism,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0010418,C0401151,CAUSES,Cryptosporidiosis,Chronic diarrhea,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0010674,C0028778,CAUSES,Cystic Fibrosis,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010674,C3714514,CAUSES,Cystic Fibrosis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010823,C0015934,CAUSES,Cytomegalovirus Infections,Fetal Growth Retardation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010823,C0151526,CAUSES,Cytomegalovirus Infections,Premature Birth,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0010823,C1516670,CAUSES,Cytomegalovirus Infections,Clonal Expansion,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011168,C0016059,CAUSES,Deglutition Disorders,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011175,C0021368,CAUSES,Dehydration,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011175,C0036974,CAUSES,Dehydration,Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011175,C0232342,CAUSES,Dehydration,Decreased vascular flow,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011175,C0857353,CAUSES,Dehydration,Hypotensive,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011334,C0016059,CAUSES,Dental caries,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011847,C0021655,CAUSES,Diabetes,Insulin Resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0011849,C0020963,CAUSES,Diabetes Mellitus,Immune Tolerance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0012739,C0018790,CAUSES,Disseminated Intravascular Coagulation,Cardiac Arrest,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0012739,C0026766,CAUSES,Disseminated Intravascular Coagulation,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0012739,C2937358,CAUSES,Disseminated Intravascular Coagulation,Cerebral Hemorrhage,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0013182,C0002792,CAUSES,Drug Allergy,anaphylaxis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0013238,C0021368,CAUSES,Dry Eye Syndromes,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014038,C0011304,CAUSES,Encephalitis,Demyelination,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0014038,C0021368,CAUSES,Encephalitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014038,C0232910,CAUSES,Encephalitis,Teratogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014070,C0443146,CAUSES,Encephalomyelitis,Autoimmune reaction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014078,C1520005,CAUSES,Venezuelan equine encephalomyelitis,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014378,C0332448,CAUSES,Enterovirus Infections,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014493,C0021368,CAUSES,Epidemic keratoconjunctivitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014518,C0029445,CAUSES,Toxic Epidermal Necrolysis,Bone necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014544,C1155266,CAUSES,Epilepsy,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014836,C0020517,CAUSES,Escherichia coli Infections,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0014836,C2586211,CAUSES,Escherichia coli Infections,Thrombosis of blood vessel,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0015652,C0021368,CAUSES,Fascioliasis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0015652,C0022346,CAUSES,Fascioliasis,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016052,C1261287,CAUSES,Fibromuscular Dysplasia,Stenosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016514,C0206277,CAUSES,Foot-and-Mouth Disease,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016514,C0235029,CAUSES,Foot-and-Mouth Disease,neurological complication,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0016627,C0021368,CAUSES,Influenza in Birds,Inflammation,dsyn,patf,6,CAUSES_DSYNcausPATF
+C0016627,C0235029,CAUSES,Influenza in Birds,neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016627,C0333467,CAUSES,Influenza in Birds,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016627,C1155266,CAUSES,Influenza in Birds,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0016627,C3714514,CAUSES,Influenza in Birds,Infection,dsyn,patf,21,CAUSES_DSYNcausPATF
+C0016807,C0021368,CAUSES,Functional disorder of intestine,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0017160,C0017181,CAUSES,Gastroenteritis,Gastrointestinal Hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0017601,C0020564,CAUSES,Glaucoma,Hypertrophy,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018213,C0004366,CAUSES,Graves Disease,Autoimmune Response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018378,C0232910,CAUSES,Guillain-Barre Syndrome,Teratogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018572,C0021368,CAUSES,"Hand, Foot and Mouth Disease",Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018799,C0040038,CAUSES,Heart Diseases,Thromboembolism,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018799,C0085298,CAUSES,Heart Diseases,Sudden Cardiac Death,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018799,C0268000,CAUSES,Heart Diseases,Body fluid retention,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018801,C0013604,CAUSES,Heart failure,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0018802,C0032227,CAUSES,Congestive heart failure,Pleural effusion disorder,dsyn,patf,4,CAUSES_DSYNcausPATF
+C0018824,C0004238,CAUSES,Heart valve disease,Atrial Fibrillation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019100,C0015376,CAUSES,Severe Dengue,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019100,C0026766,CAUSES,Severe Dengue,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019100,C0036974,CAUSES,Severe Dengue,Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019100,C0333279,CAUSES,Severe Dengue,Massive hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019101,C0015376,CAUSES,Hemorrhagic Fever with Renal Syndrome,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019158,C0011304,CAUSES,Hepatitis,Demyelination,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0019158,C0333641,CAUSES,Hepatitis,Atrophic,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019158,C0685934,CAUSES,Hepatitis,Pallor of liver,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019158,C1520005,CAUSES,Hepatitis,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019159,C0333467,CAUSES,Hepatitis A,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019196,C0016059,CAUSES,Hepatitis C,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019196,C0021376,CAUSES,Hepatitis C,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019196,C0021655,CAUSES,Hepatitis C,Insulin Resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019196,C0151763,CAUSES,Hepatitis C,Liver damage,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0019212,C0026766,CAUSES,Hepatorenal Syndrome,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019247,C0301889,CAUSES,Hereditary Diseases,Immune defect,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019357,C0027686,CAUSES,"Keratitis, Herpetic",Pathologic Neovascularization,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019693,C0021376,CAUSES,HIV Infections,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0019693,C0282474,CAUSES,HIV Infections,Maternal-Fetal Infection Transmission,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020097,C1520005,CAUSES,HTLV-I Infections,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020456,C0161816,CAUSES,Hyperglycemia,Cardiac complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020473,C0029445,CAUSES,Hyperlipidemia,Bone necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020538,C0016059,CAUSES,Hypertensive disease,Fibrosis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0020538,C0020564,CAUSES,Hypertensive disease,Hypertrophy,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020538,C0151746,CAUSES,Hypertensive disease,Abnormal renal function,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020538,C1383860,CAUSES,Hypertensive disease,Cardiac Hypertrophy,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020541,C0012359,CAUSES,"Hypertension, Portal",Pathological Dilatation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020541,C0856757,CAUSES,"Hypertension, Portal",dilated veins,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020542,C0242707,CAUSES,Pulmonary Hypertension,"Ventricular Dysfunction, Right",dsyn,patf,1,CAUSES_DSYNcausPATF
+C0020550,C0021655,CAUSES,Hyperthyroidism,Insulin Resistance,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0020877,C1261287,CAUSES,Ileitis,Stenosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021051,C0021376,CAUSES,Immunologic Deficiency Syndromes,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021051,C0162633,CAUSES,Immunologic Deficiency Syndromes,Viral Shedding,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0021051,C3714514,CAUSES,Immunologic Deficiency Syndromes,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0021390,C0017181,CAUSES,Inflammatory Bowel Diseases,Gastrointestinal Hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021390,C0021368,CAUSES,Inflammatory Bowel Diseases,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021390,C0021376,CAUSES,Inflammatory Bowel Diseases,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021390,C0401151,CAUSES,Inflammatory Bowel Diseases,Chronic diarrhea,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021400,C0013604,CAUSES,Influenza,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021400,C0020517,CAUSES,Influenza,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021400,C0021368,CAUSES,Influenza,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0021400,C0035410,CAUSES,Influenza,Rhabdomyolysis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0021400,C0151701,CAUSES,Influenza,Pulmonary hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021400,C0333641,CAUSES,Influenza,Atrophic,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021400,C3714514,CAUSES,Influenza,Infection,dsyn,patf,8,CAUSES_DSYNcausPATF
+C0021400,C4061114,CAUSES,Influenza,Acute illness,dsyn,patf,4,CAUSES_DSYNcausPATF
+C0021831,C0021368,CAUSES,Intestinal Diseases,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0021832,C1155266,CAUSES,"Intestinal Diseases, Parasitic",inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0022521,C0021368,CAUSES,Kartagener Syndrome,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0022660,C0220981,CAUSES,"Kidney Failure, Acute",Metabolic acidosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0022661,C1265885,CAUSES,"Kidney Failure, Chronic",Diffuse calcium deposition,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0022890,C0264940,CAUSES,Labyrinthine disorder,Hemorrhage of blood vessel,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023066,C0004044,CAUSES,Laryngismus,Asphyxia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023066,C0028778,CAUSES,Laryngismus,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023364,C3714514,CAUSES,Leptospirosis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023524,C0011304,CAUSES,"Leukoencephalopathy, Progressive Multifocal",Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023530,C0026766,CAUSES,Leukopenia,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0023890,C0032227,CAUSES,Liver Cirrhosis,Pleural effusion disorder,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024117,C0016059,CAUSES,Chronic Obstructive Airway Disease,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024117,C0021368,CAUSES,Chronic Obstructive Airway Disease,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0024117,C0028778,CAUSES,Chronic Obstructive Airway Disease,Obstruction,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0024117,C2717792,CAUSES,Chronic Obstructive Airway Disease,Airway Remodeling,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024117,C3887486,CAUSES,Chronic Obstructive Airway Disease,Interstitial lung fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024266,C3714514,CAUSES,Lymphocytic Choriomeningitis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024530,C3714514,CAUSES,Malaria,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0024534,C0235029,CAUSES,"Malaria, Cerebral",neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024534,C1155266,CAUSES,"Malaria, Cerebral",inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024796,C0024348,CAUSES,Marfan Syndrome,Lysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0024894,C3714514,CAUSES,Mastitis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C0015934,CAUSES,Measles,Fetal Growth Retardation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C0021368,CAUSES,Measles,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C0085605,CAUSES,Measles,Liver Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C0151526,CAUSES,Measles,Premature Birth,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C0235029,CAUSES,Measles,neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C1155266,CAUSES,Measles,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025007,C3714514,CAUSES,Measles,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025229,C0000833,CAUSES,Melioidosis,Abscess,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025289,C0011304,CAUSES,Meningitis,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025289,C0021368,CAUSES,Meningitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025289,C3714514,CAUSES,Meningitis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0025309,C1155266,CAUSES,Meningoencephalitis,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0026769,C0006114,CAUSES,Multiple Sclerosis,Cerebral Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0026769,C0011304,CAUSES,Multiple Sclerosis,Demyelination,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0026769,C0020963,CAUSES,Multiple Sclerosis,Immune Tolerance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0026769,C0021376,CAUSES,Multiple Sclerosis,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0026780,C0029191,CAUSES,Mumps,Orchitis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0026946,C0040053,CAUSES,Mycoses,Thrombosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0027059,C0016059,CAUSES,Myocarditis,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0027059,C0332448,CAUSES,Myocarditis,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0027697,C3714514,CAUSES,Nephritis,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0027765,C0232910,CAUSES,nervous system disorder,Teratogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0027765,C3714514,CAUSES,nervous system disorder,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0028754,C0021368,CAUSES,Obesity,Inflammation,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0028754,C0021376,CAUSES,Obesity,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0028754,C0021655,CAUSES,Obesity,Insulin Resistance,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0029001,C0021368,CAUSES,Onchocerciasis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0029118,C0151686,CAUSES,Opportunistic Infections,Growth retardation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0029342,C3714514,CAUSES,Orthomyxoviridae Infections,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0029882,C0236003,CAUSES,Otitis Media,Mucous membrane swelling,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0029883,C0021368,CAUSES,Otitis Media with Effusion,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0030389,C0035410,CAUSES,Parainfluenza,Rhabdomyolysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0030499,C0021376,CAUSES,Parasitic Diseases,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0030809,C0000887,CAUSES,Pemphigus Vulgaris,Acantholysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0031350,C0021368,CAUSES,Pharyngitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032231,C0013687,CAUSES,Pleurisy,effusion,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0003130,CAUSES,Pneumonia,Anoxia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0021368,CAUSES,Pneumonia,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0025062,CAUSES,Pneumonia,Mediastinal Emphysema,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0032285,C0026766,CAUSES,Pneumonia,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0032227,CAUSES,Pneumonia,Pleural effusion disorder,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0036983,CAUSES,Pneumonia,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0038536,CAUSES,Pneumonia,Subcutaneous Emphysema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0332448,CAUSES,Pneumonia,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0333168,CAUSES,Pneumonia,Progressive obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C0333508,CAUSES,Pneumonia,Hemorrhagic necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C1520005,CAUSES,Pneumonia,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032285,C3697906,CAUSES,Pneumonia,Indirect maternal death,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0032285,C3714514,CAUSES,Pneumonia,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0032300,C0021368,CAUSES,Lobar Pneumonia,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032310,C0026766,CAUSES,"Pneumonia, Viral",Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032371,C0242781,CAUSES,Poliomyelitis,disease transmission,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0032768,C0332448,CAUSES,Postherpetic neuralgia,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0033036,C0011304,CAUSES,Atrial Premature Complexes,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0033587,C0020517,CAUSES,Prosthesis Loosening,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0033626,C0456070,CAUSES,Protein Deficiency,Growth delay,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0034041,C0021368,CAUSES,Puerperal Infection,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0034063,C0013604,CAUSES,Pulmonary Edema,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0034362,C3714514,CAUSES,Q Fever,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0034494,C1155266,CAUSES,Rabies (disorder),inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035220,C0206277,CAUSES,"Respiratory Distress Syndrome, Newborn",Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035222,C0015376,CAUSES,"Respiratory Distress Syndrome, Adult",Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035222,C0021368,CAUSES,"Respiratory Distress Syndrome, Adult",Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035222,C0026766,CAUSES,"Respiratory Distress Syndrome, Adult",Multiple Organ Failure,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0035222,C0333197,CAUSES,"Respiratory Distress Syndrome, Adult",Fibrin blood clot,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035235,C0020517,CAUSES,Respiratory Syncytial Virus Infections,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035235,C0021368,CAUSES,Respiratory Syncytial Virus Infections,Inflammation,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0035235,C0032787,CAUSES,Respiratory Syncytial Virus Infections,Postoperative Complications,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035235,C0235029,CAUSES,Respiratory Syncytial Virus Infections,neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035235,C0332448,CAUSES,Respiratory Syncytial Virus Infections,Infiltration,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0035235,C1155266,CAUSES,Respiratory Syncytial Virus Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035235,C4061114,CAUSES,Respiratory Syncytial Virus Infections,Acute illness,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0035243,C0021368,CAUSES,Respiratory Tract Infections,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035243,C0026766,CAUSES,Respiratory Tract Infections,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035243,C0333641,CAUSES,Respiratory Tract Infections,Atrophic,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0035243,C1155266,CAUSES,Respiratory Tract Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0035243,C3714514,CAUSES,Respiratory Tract Infections,Infection,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0035585,C4061114,CAUSES,Rickettsia Infections,Acute illness,dsyn,patf,4,CAUSES_DSYNcausPATF
+C0035869,C0022346,CAUSES,Rotavirus Infections,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036117,C0016059,CAUSES,Salmonella infections,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036117,C0021368,CAUSES,Salmonella infections,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036117,C0333508,CAUSES,Salmonella infections,Hemorrhagic necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036117,C0401151,CAUSES,Salmonella infections,Chronic diarrhea,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036323,C0016059,CAUSES,Schistosomiasis,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036323,C0021368,CAUSES,Schistosomiasis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036323,C0235029,CAUSES,Schistosomiasis,neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036690,C0021368,CAUSES,Septicemia,Inflammation,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0036690,C0026766,CAUSES,Septicemia,Multiple Organ Failure,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0036690,C0036974,CAUSES,Septicemia,Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036690,C0085605,CAUSES,Septicemia,Liver Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036690,C0220981,CAUSES,Septicemia,Metabolic acidosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0036690,C0231176,CAUSES,Septicemia,Acute failure,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0036690,C0340515,CAUSES,Septicemia,Myocardial dysfunction,dsyn,patf,4,CAUSES_DSYNcausPATF
+C0036916,C0021368,CAUSES,Sexually Transmitted Diseases,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0039128,C0015927,CAUSES,Syphilis,Fetal Death,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0039128,C0018188,CAUSES,Syphilis,Granuloma,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0040034,C0151701,CAUSES,Thrombocytopenia,Pulmonary hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0040034,C2937358,CAUSES,Thrombocytopenia,Cerebral Hemorrhage,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0040149,C4061114,CAUSES,Subacute thyroiditis,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0041296,C0020683,CAUSES,Tuberculosis,Hypovolemic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0041296,C0032227,CAUSES,Tuberculosis,Pleural effusion disorder,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0041912,C0021368,CAUSES,Upper Respiratory Infections,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0041912,C0028778,CAUSES,Upper Respiratory Infections,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0041912,C3714514,CAUSES,Upper Respiratory Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042164,C0021368,CAUSES,Uveitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042214,C0151526,CAUSES,Vaccinia,Premature Birth,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042214,C0242184,CAUSES,Vaccinia,Hypoxia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042373,C0040038,CAUSES,Vascular Diseases,Thromboembolism,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042384,C0015376,CAUSES,Vasculitis,Extravasation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042384,C0040053,CAUSES,Vasculitis,Thrombosis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042510,C0018790,CAUSES,Ventricular Fibrillation,Cardiac Arrest,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042721,C0085605,CAUSES,Viral hepatitis,Liver Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042749,C0162633,CAUSES,Viremia,Viral Shedding,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042749,C3714514,CAUSES,Viremia,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0011304,CAUSES,Virus Diseases,Demyelination,dsyn,patf,5,CAUSES_DSYNcausPATF
+C0042769,C0020517,CAUSES,Virus Diseases,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0021368,CAUSES,Virus Diseases,Inflammation,dsyn,patf,15,CAUSES_DSYNcausPATF
+C0042769,C0021375,CAUSES,Virus Diseases,allergic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0022346,CAUSES,Virus Diseases,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0024348,CAUSES,Virus Diseases,Lysis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042769,C0028778,CAUSES,Virus Diseases,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0151521,CAUSES,Virus Diseases,Bacterial resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0151763,CAUSES,Virus Diseases,Liver damage,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0042769,C0152254,CAUSES,Virus Diseases,Fatty degeneration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0242648,CAUSES,Virus Diseases,Vertical Disease Transmission,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0332448,CAUSES,Virus Diseases,Infiltration,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042769,C0333467,CAUSES,Virus Diseases,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0333641,CAUSES,Virus Diseases,Atrophic,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C0443146,CAUSES,Virus Diseases,Autoimmune reaction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C1155266,CAUSES,Virus Diseases,inflammatory response,dsyn,patf,12,CAUSES_DSYNcausPATF
+C0042769,C1817978,CAUSES,Virus Diseases,acute inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0042769,C3658208,CAUSES,Virus Diseases,Dysbiosis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042769,C3714514,CAUSES,Virus Diseases,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0042769,C4061114,CAUSES,Virus Diseases,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0043124,C1155266,CAUSES,West Nile Fever,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0043124,C4061114,CAUSES,West Nile Fever,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0043528,C3714514,CAUSES,Zoonoses,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085129,C0002792,CAUSES,Bronchial Hyperreactivity,anaphylaxis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085306,C0020517,CAUSES,Feline infectious peritonitis,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085306,C0030660,CAUSES,Feline infectious peritonitis,Pathologic Processes,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085306,C0206277,CAUSES,Feline infectious peritonitis,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085395,C1155266,CAUSES,Ureaplasma Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085423,C0036983,CAUSES,Gram-Negative Bacterial Infections,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085652,C0041582,CAUSES,Pyoderma Gangrenosum,Ulcer,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0085679,C0001122,CAUSES,Hyperchloremia,Acidosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0149678,C1516670,CAUSES,Epstein-Barr Virus Infections,Clonal Expansion,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0149725,C0206277,CAUSES,Lower respiratory tract infection,Fatal Outcome,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0149725,C1520005,CAUSES,Lower respiratory tract infection,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0149725,C3714514,CAUSES,Lower respiratory tract infection,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C0021368,CAUSES,Chronic infectious disease,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C0151763,CAUSES,Chronic infectious disease,Liver damage,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0151317,C0332448,CAUSES,Chronic infectious disease,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C0443146,CAUSES,Chronic infectious disease,Autoimmune reaction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C1155266,CAUSES,Chronic infectious disease,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C1520005,CAUSES,Chronic infectious disease,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0151317,C4061114,CAUSES,Chronic infectious disease,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0152445,C0013604,CAUSES,Hydrops of gallbladder,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0153064,C1520005,CAUSES,"Encephalomyelitis, Western Equine",Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0153065,C1520005,CAUSES,"Encephalomyelitis, Eastern Equine",Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0155514,C0020564,CAUSES,Labyrinthine dysfunction,Hypertrophy,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0162699,C3714514,CAUSES,Tick-Borne Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0162871,C0036982,CAUSES,"Aortic Aneurysm, Abdominal","Shock, Hemorrhagic",dsyn,patf,1,CAUSES_DSYNcausPATF
+C0206750,C0011304,CAUSES,Coronavirus Infections,Demyelination,dsyn,patf,8,CAUSES_DSYNcausPATF
+C0206750,C0021368,CAUSES,Coronavirus Infections,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0206750,C0161818,CAUSES,Coronavirus Infections,Respiratory complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0206750,C0333467,CAUSES,Coronavirus Infections,Cytopathic effect,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0206750,C1155266,CAUSES,Coronavirus Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0206750,C3714514,CAUSES,Coronavirus Infections,Infection,dsyn,patf,9,CAUSES_DSYNcausPATF
+C0206750,C4061114,CAUSES,Coronavirus Infections,Acute illness,dsyn,patf,6,CAUSES_DSYNcausPATF
+C0235946,C0016059,CAUSES,Cerebral atrophy,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0238327,C0016059,CAUSES,Oxygen toxicity,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0238990,C0021368,CAUSES,Acute lower respiratory tract infection,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0238990,C4061114,CAUSES,Acute lower respiratory tract infection,Acute illness,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0242528,C0020507,CAUSES,Azotemia,Hyperplasia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0242994,C0015376,CAUSES,Hantavirus Infections,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0243026,C0026766,CAUSES,Sepsis,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0243026,C0036974,CAUSES,Sepsis,Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0243026,C0332448,CAUSES,Sepsis,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0243026,C4061114,CAUSES,Sepsis,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0263541,C0021368,CAUSES,Equine laminitis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0264219,C3714514,CAUSES,Acute respiratory disease,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0264383,C0332448,CAUSES,Organized pneumonia,Infiltration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0264939,C0015376,CAUSES,Systemic Vasculitis,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0264992,C0021368,CAUSES,Polyarteritis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0270814,C0021368,CAUSES,Spastic syndrome,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0271547,C0021655,CAUSES,Overproduction of growth hormone,Insulin Resistance,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0272285,C0024348,CAUSES,Heparin-induced thrombocytopenia,Lysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275518,C0151521,CAUSES,Acute infectious disease,Bacterial resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275518,C3714514,CAUSES,Acute infectious disease,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275522,C0235883,CAUSES,Asymptomatic Infections,uterine inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275522,C1155266,CAUSES,Asymptomatic Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275522,C3714514,CAUSES,Asymptomatic Infections,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0275524,C0020517,CAUSES,Coinfection,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C0021368,CAUSES,Coinfection,Inflammation,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0275524,C0021385,CAUSES,Coinfection,Necrotizing inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C0035410,CAUSES,Coinfection,Rhabdomyolysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C0162633,CAUSES,Coinfection,Viral Shedding,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0275524,C0242656,CAUSES,Coinfection,Disease Progression,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C1155266,CAUSES,Coinfection,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C3203360,CAUSES,Coinfection,Suppuration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0275524,C3714514,CAUSES,Coinfection,Infection,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0276289,C0006119,CAUSES,Zika Virus Infection,Brain Pathology,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0276289,C0015927,CAUSES,Zika Virus Infection,Fetal Death,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0276289,C0021368,CAUSES,Zika Virus Infection,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0276289,C0235029,CAUSES,Zika Virus Infection,neurological complication,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0276289,C0282474,CAUSES,Zika Virus Infection,Maternal-Fetal Infection Transmission,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0276289,C1155266,CAUSES,Zika Virus Infection,inflammatory response,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0276289,C2911645,CAUSES,Zika Virus Infection,Weight Loss Adverse Event,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0276447,C0021368,CAUSES,Rhinovirus infection,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0276469,C3714514,CAUSES,Lethal intestinal viral infection of mouse,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0276500,C1155266,CAUSES,Human immunodeficiency virus I infection,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0277524,C0036983,CAUSES,Infectious colitis,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0277550,C3714514,CAUSES,Endemic Diseases,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0282193,C0333629,CAUSES,Iron Overload,Hemosiderin pigmentation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0282687,C3714514,CAUSES,"Hemorrhagic Fever, Ebola",Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0339901,C0021368,CAUSES,Acute respiratory infections,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0339916,C0021368,CAUSES,Viral upper respiratory tract infection,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0339916,C3714514,CAUSES,Viral upper respiratory tract infection,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0339952,C0206277,CAUSES,Secondary bacterial pneumonia,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0340194,C0036983,CAUSES,Respiratory failure without hypercapnia,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0340194,C0206277,CAUSES,Respiratory failure without hypercapnia,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0343400,C0401151,CAUSES,Intestinal microsporidiosis,Chronic diarrhea,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0343401,C3714514,CAUSES,MRSA - Methicillin resistant Staphylococcus aureus infection,Infection,dsyn,patf,3,CAUSES_DSYNcausPATF
+C0343537,C0011304,CAUSES,Specific viral infections,Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0343641,C0028778,CAUSES,Human papilloma virus infection,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0398367,C0029191,CAUSES,Histiocytic Necrotizing Lymphadenitis,Orchitis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0398623,C0026766,CAUSES,Thrombophilia,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0398686,C0857353,CAUSES,Primary immune deficiency disorder,Hypotensive,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0403601,C1404117,CAUSES,Transplant glomerulopathy,Kidney transplant failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0404521,C0015934,CAUSES,Infective vaginitis,Fetal Growth Retardation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0442886,C0013604,CAUSES,Secondary Infections,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0442886,C3203360,CAUSES,Secondary Infections,Suppuration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0442886,C3658208,CAUSES,Secondary Infections,Dysbiosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0442886,C3714514,CAUSES,Secondary Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0442893,C0026766,CAUSES,Systemic disease,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0520679,C0028778,CAUSES,"Sleep Apnea, Obstructive",Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0520680,C0021368,CAUSES,"Sleep Apnea, Central",Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0524909,C0022346,CAUSES,"Hepatitis B, Chronic",Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0524909,C0085605,CAUSES,"Hepatitis B, Chronic",Liver Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0524910,C0016059,CAUSES,"Hepatitis C, Chronic",Fibrosis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0549493,C0333508,CAUSES,Alveolitis,Hemorrhagic necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0559469,C0002792,CAUSES,Allergy to eggs,anaphylaxis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0577631,C0007820,CAUSES,Carotid Atherosclerosis,Cerebrovascular Disorders,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0577689,C0036983,CAUSES,Coliform septicemia,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0679225,C3714514,CAUSES,multiple pathologies,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0683384,C0026766,CAUSES,vascular hypoxia,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0684256,C0013604,CAUSES,Bacterial sepsis,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0694550,C0036974,CAUSES,Recurrent pneumonia,Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0702166,C1155266,CAUSES,Acne,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0729552,C0021368,CAUSES,Genital infection,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0740304,C0021368,CAUSES,copd exacerbation,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0740766,C0206277,CAUSES,acute pneumonia,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0740766,C3241936,CAUSES,acute pneumonia,Non-cardiogenic pulmonary edema,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0743841,C1155266,CAUSES,Disorder characterized by fever,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0744471,C0036983,CAUSES,gram negative bacteremia,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0748355,C0003130,CAUSES,Acute respiratory distress,Anoxia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0851341,C3203360,CAUSES,Infestation,Suppuration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0851887,C0020517,CAUSES,Adenoviral infections,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0851894,C0024348,CAUSES,Newcastle Viral infection,Lysis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0856169,C0021368,CAUSES,endothelial dysfunction,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0858318,C3714514,CAUSES,Plasmodium falciparum infection,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0858321,C3714514,CAUSES,Plasmodium vivax infection,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0858906,C1522058,CAUSES,infection pyogenic,Coagulative necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0860207,C0152254,CAUSES,Drug-Induced Liver Disease,Fatty degeneration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0872315,C3714514,CAUSES,"Communicable Diseases, Emerging",Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0872315,C4061114,CAUSES,"Communicable Diseases, Emerging",Acute illness,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0876973,C0036983,CAUSES,Infectious disease of lung,Septic Shock,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0876973,C0162633,CAUSES,Infectious disease of lung,Viral Shedding,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0878544,C0242973,CAUSES,Cardiomyopathies,Ventricular Dysfunction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0940931,C3160769,CAUSES,hemorrhage as a complication,Major bleeding problems,dsyn,patf,1,CAUSES_DSYNcausPATF
+C0948268,C0235490,CAUSES,Hemodynamic instability,Peripheral ischemia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1112209,C0036983,CAUSES,Intraabdominal Infections,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1145670,C0021368,CAUSES,Respiratory Failure,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C0021368,CAUSES,Severe Acute Respiratory Syndrome,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C0029191,CAUSES,Severe Acute Respiratory Syndrome,Orchitis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C0152254,CAUSES,Severe Acute Respiratory Syndrome,Fatty degeneration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C0333501,CAUSES,Severe Acute Respiratory Syndrome,Acute necrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C1155266,CAUSES,Severe Acute Respiratory Syndrome,inflammatory response,dsyn,patf,2,CAUSES_DSYNcausPATF
+C1175175,C1520005,CAUSES,Severe Acute Respiratory Syndrome,Viral Pathogenesis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1175175,C3714514,CAUSES,Severe Acute Respiratory Syndrome,Infection,dsyn,patf,4,CAUSES_DSYNcausPATF
+C1175175,C4061114,CAUSES,Severe Acute Respiratory Syndrome,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1262313,C3714514,CAUSES,Invasive Fungal Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1264606,C1155266,CAUSES,Persistent infection,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1290819,C0333641,CAUSES,Pigeon circovirus infection,Atrophic,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1290884,C0021368,CAUSES,Inflammatory disorder,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C1290884,C3714514,CAUSES,Inflammatory disorder,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1290886,C0028778,CAUSES,Chronic inflammatory disorder,Obstruction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1319466,C0002792,CAUSES,Barber Say syndrome,anaphylaxis,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1328843,C0015376,CAUSES,Autoimmune vasculitis,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1443953,C0021368,CAUSES,Acute viral disease,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1443953,C0026766,CAUSES,Acute viral disease,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1443953,C0206277,CAUSES,Acute viral disease,Fatal Outcome,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1535950,C1261287,CAUSES,Gastrointestinal inflammation,Stenosis,dsyn,patf,2,CAUSES_DSYNcausPATF
+C1701940,C3714514,CAUSES,"Pneumonia, Ventilator-Associated",Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1707758,C0011304,CAUSES,Direct Contact Transmission Infection,Demyelination,dsyn,patf,3,CAUSES_DSYNcausPATF
+C1707758,C0020683,CAUSES,Direct Contact Transmission Infection,Hypovolemic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1707758,C0026766,CAUSES,Direct Contact Transmission Infection,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1719672,C0036983,CAUSES,Severe Sepsis,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1719672,C0340515,CAUSES,Severe Sepsis,Myocardial dysfunction,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1827894,C0036983,CAUSES,Upper urinary tract infection,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1838625,C0151661,CAUSES,Warburg Sjo Fledelius syndrome,Peripheral gangrene,dsyn,patf,1,CAUSES_DSYNcausPATF
+C1860224,C0021368,CAUSES,ABLEPHARON-MACROSTOMIA SYNDROME,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2047215,C3714514,CAUSES,Herpesvirus 5 infection,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2062416,C0021368,CAUSES,Sindbis virus infection,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2062441,C3714514,CAUSES,Influenza A,Infection,dsyn,patf,3,CAUSES_DSYNcausPATF
+C2062441,C4061114,CAUSES,Influenza A,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2711227,C0021368,CAUSES,Steatohepatitis,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C2712971,C0221791,CAUSES,Enteritis due to Norovirus,medical complication,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2930826,C0853888,CAUSES,Acute malaria,Hypocomplementemia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2931826,C1817978,CAUSES,Potassium aggravated myotonia,acute inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C2936329,C0030660,CAUSES,Asymptomatic Diseases,Pathologic Processes,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3151001,C0020517,CAUSES,Retinitis Pigmentosa 4,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3669463,C0242656,CAUSES,Feline immunodeficiency virus infection,Disease Progression,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3694279,C0242648,CAUSES,Middle East Respiratory Syndrome,Vertical Disease Transmission,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3694279,C3714514,CAUSES,Middle East Respiratory Syndrome,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3694279,C4061114,CAUSES,Middle East Respiratory Syndrome,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3853962,C0021368,CAUSES,Enterovirus 71 infection,Inflammation,dsyn,patf,2,CAUSES_DSYNcausPATF
+C3853962,C0235029,CAUSES,Enterovirus 71 infection,neurological complication,dsyn,patf,4,CAUSES_DSYNcausPATF
+C3853962,C1155266,CAUSES,Enterovirus 71 infection,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
+C3874414,C4061114,CAUSES,Human metapneumovirus infection,Acute illness,dsyn,patf,2,CAUSES_DSYNcausPATF
+C4082764,C0020517,CAUSES,Gastrointestinal infection,Hypersensitivity,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4288963,C0151718,CAUSES,Hepatitis C Virus Infection,Hypocholesterolemia,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4288963,C0152254,CAUSES,Hepatitis C Virus Infection,Fatty degeneration,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4288963,C0333467,CAUSES,Hepatitis C Virus Infection,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4325590,C1265762,CAUSES,Partial urethral obstruction,Chronic dilatation,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4476767,C0036983,CAUSES,Diffuse alveolar hemorrhage,Septic Shock,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4479344,C0011304,CAUSES,"SCLEROSING CHOLANGITIS, NEONATAL",Demyelination,dsyn,patf,1,CAUSES_DSYNcausPATF
+C4505065,C3714514,CAUSES,Noncommunicable Diseases,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF

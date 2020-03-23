@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0037793,C3844126,DIAGNOSES,Specimen processing (procedure),Can Do Very Little,hlca,fndg,1,DIAGNOSES_HLCAdiagFNDG
+C0332140,C0449411,DIAGNOSES,"Diagnosis, clinical",Causative_agents,hlca,fndg,1,DIAGNOSES_HLCAdiagFNDG
+C0332140,C0750484,DIAGNOSES,"Diagnosis, clinical",Confirmation,hlca,fndg,1,DIAGNOSES_HLCAdiagFNDG
+C0332140,C0857465,DIAGNOSES,"Diagnosis, clinical",peak flow,hlca,fndg,2,DIAGNOSES_HLCAdiagFNDG

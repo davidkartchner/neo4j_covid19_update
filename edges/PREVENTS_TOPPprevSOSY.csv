@@ -1,0 +1,33 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0000737,PREVENTS,"Administration, Oral",Abdominal Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0001563,C0011991,PREVENTS,"Administration, Oral",Diarrhea,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0001563,C1443924,PREVENTS,"Administration, Oral",Severe diarrhea,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0002766,C0008033,PREVENTS,Pain management,Pleuritic pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0002913,C0030193,PREVENTS,Epidural Anesthesia,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0003893,C0030193,PREVENTS,Arthroplasty,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0012683,C0041834,PREVENTS,Disinfection,Erythema,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0013216,C0030193,PREVENTS,Pharmacotherapy,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0020971,C0043144,PREVENTS,Immunization,Wheezing,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0021079,C0042963,PREVENTS,Therapeutic immunosuppression,Vomiting,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0021925,C0030193,PREVENTS,Intubation,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0042196,C0011991,PREVENTS,Vaccination,Diarrhea,topp,sosy,2,PREVENTS_TOPPprevSOSY
+C0042196,C0037088,PREVENTS,Vaccination,Signs and Symptoms,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0042196,C0152032,PREVENTS,Vaccination,Urinary hesitation,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0042196,C1260880,PREVENTS,Vaccination,Rhinorrhea,topp,sosy,3,PREVENTS_TOPPprevSOSY
+C0042200,C0392171,PREVENTS,Influenza vaccination,Influenza-like symptoms,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0086511,C0030193,PREVENTS,Knee Replacement Arthroplasty (procedure),Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0162352,C0740903,PREVENTS,Allergen Immunotherapy,allergic symptom,topp,sosy,2,PREVENTS_TOPPprevSOSY
+C0184898,C0030193,PREVENTS,Surgical incisions,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0394162,C0427086,PREVENTS,Deep Brain Stimulation,Involuntary Movements,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0574032,C0026837,PREVENTS,Infusion procedures,Muscle Rigidity,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0597815,C0030193,PREVENTS,crystal healing,Pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0600015,C0086132,PREVENTS,Emotional support,Depressive Symptoms,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0677850,C0184567,PREVENTS,adjuvant therapy,Acute onset pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C0683468,C0231218,PREVENTS,invasive treatment,Malaise,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C1278444,C0087169,PREVENTS,Nicotine replacement therapy,Withdrawal Symptoms,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C1443861,C0392171,PREVENTS,Post-Exposure Prophylaxis,Influenza-like symptoms,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C1963724,C0011991,PREVENTS,Antiretroviral therapy,Diarrhea,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C2363964,C0184567,PREVENTS,Antiviral Administration,Acute onset pain,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C2987620,C0011991,PREVENTS,Inoculation,Diarrhea,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C3658366,C0740903,PREVENTS,Sublingual Immunotherapy,allergic symptom,topp,sosy,1,PREVENTS_TOPPprevSOSY
+C4330729,C0271188,PREVENTS,Myelosuppressive Chemotherapy,Visual halos (disorder),topp,sosy,1,PREVENTS_TOPPprevSOSY

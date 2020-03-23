@@ -1,0 +1,72 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C4061114,TREATS,ambulatory care services,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0008952,C0700148,TREATS,Clinic Visits,Congestion,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0010337,C0026766,TREATS,Care of intensive care unit patient,Multiple Organ Failure,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0007820,TREATS,Hospitalization,Cerebrovascular Disorders,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0151526,TREATS,Hospitalization,Premature Birth,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0242781,TREATS,Hospitalization,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C0281169,TREATS,Hospitalization,pulmonary complications,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0019993,C3714514,TREATS,Hospitalization,Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0019993,C4061114,TREATS,Hospitalization,Acute illness,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0030685,C0021368,TREATS,Patient Discharge,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0024348,TREATS,Patient Discharge,Lysis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0302590,TREATS,Patient Discharge,calcium disorders,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C0920563,TREATS,Patient Discharge,Insulin Sensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C1155266,TREATS,Patient Discharge,inflammatory response,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C1510411,TREATS,Patient Discharge,metaplastic cell transformation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030685,C3714514,TREATS,Patient Discharge,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0030695,C0036983,TREATS,Patient Monitoring,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0033137,C0036974,TREATS,Primary Health Care,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0034927,C3714514,TREATS,Patient referral,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085557,C0242781,TREATS,Infectious disease prevention / control,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0032227,TREATS,intensive care,Pleural effusion disorder,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0036983,TREATS,intensive care,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0085559,C0242656,TREATS,intensive care,Disease Progression,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0086930,C0242781,TREATS,Risk Assessment,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150270,C0020517,TREATS,Medication Management,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150270,C0920563,TREATS,Medication Management,Insulin Sensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0150600,C3714514,TREATS,Advice,Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0175745,C4061114,TREATS,Telephone consultation,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0204695,C0162633,TREATS,Feeding patient,Viral Shedding,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0206056,C0036983,TREATS,Microdialysis,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0206082,C3714514,TREATS,Immunization Programs,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0220908,C0006119,TREATS,Screening procedure,Brain Pathology,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0020517,TREATS,Screening procedure,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0243087,TREATS,Screening procedure,concomitant disease,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C0751530,TREATS,Screening procedure,"Subarachnoid Hemorrhage, Aneurysmal",hlca,patf,1,TREATS_HLCAtrtsPATF
+C0220908,C1520005,TREATS,Screening procedure,Viral Pathogenesis,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0220908,C3714514,TREATS,Screening procedure,Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C0237070,C0018790,TREATS,discipline,Cardiac Arrest,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0422202,C0242781,TREATS,Notifications,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0545084,C4061114,TREATS,Outpatient visits,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0553618,C4061114,TREATS,emergency visit,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0558024,C1520005,TREATS,Functional behavioral assessment,Viral Pathogenesis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0596893,C1704489,TREATS,medical appointment,Extended Rotated Sidebent,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0679226,C0242781,TREATS,disorder analysis,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0679831,C0242781,TREATS,Patient History,disease transmission,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0805586,C3714514,TREATS,Challenge,Infection,hlca,patf,3,TREATS_HLCAtrtsPATF
+C0850397,C1510411,TREATS,health information,metaplastic cell transformation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C0020517,TREATS,screening tests,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0871311,C0392707,TREATS,screening tests,Atopy,hlca,patf,1,TREATS_HLCAtrtsPATF
+C0940824,C0020517,TREATS,Additional procedure,Hypersensitivity,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C0036983,TREATS,Evaluation procedure,Septic Shock,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1261322,C0231170,TREATS,Evaluation procedure,Disability,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1261322,C3714514,TREATS,Evaluation procedure,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1293116,C0020517,TREATS,Introduction procedure,Hypersensitivity,hlca,patf,2,TREATS_HLCAtrtsPATF
+C1293116,C0021368,TREATS,Introduction procedure,Inflammation,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1293116,C0026766,TREATS,Introduction procedure,Multiple Organ Failure,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1293116,C0036974,TREATS,Introduction procedure,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1293116,C0036983,TREATS,Introduction procedure,Septic Shock,hlca,patf,3,TREATS_HLCAtrtsPATF
+C1293116,C3714514,TREATS,Introduction procedure,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1516879,C0036983,TREATS,Enrollment,Septic Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C0003130,TREATS,follow-up,Anoxia,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C0023518,TREATS,follow-up,Leukocytosis,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C1277187,TREATS,follow-up,Left ventricular systolic dysfunction,hlca,patf,1,TREATS_HLCAtrtsPATF
+C1522577,C4061114,TREATS,follow-up,Acute illness,hlca,patf,1,TREATS_HLCAtrtsPATF
+C2350504,C0013604,TREATS,"Medicine, Korean Traditional",Edema,hlca,patf,2,TREATS_HLCAtrtsPATF
+C2350504,C0036974,TREATS,"Medicine, Korean Traditional",Shock,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3176875,C0022346,TREATS,Asymptomatic screening,Icterus,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3178995,C3714514,TREATS,Disease Elimination,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3494318,C3714514,TREATS,Public Health Surveillance,Infection,hlca,patf,1,TREATS_HLCAtrtsPATF
+C3826004,C3714514,TREATS,Medical screening,Infection,hlca,patf,2,TREATS_HLCAtrtsPATF
+C4082936,C0036974,TREATS,Hemodynamic Monitoring,Shock,hlca,patf,1,TREATS_HLCAtrtsPATF

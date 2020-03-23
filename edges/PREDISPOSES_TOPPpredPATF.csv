@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005841,C0242781,PREDISPOSES,Blood Transfusion,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0007876,C0020517,PREDISPOSES,Cesarean section,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0012683,C0242781,PREDISPOSES,Disinfection,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C0016059,PREDISPOSES,Electroconvulsive Therapy,Fibrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0014327,C0700198,PREDISPOSES,Enteral Nutrition,Pulmonary aspiration,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C3714514,PREDISPOSES,gene therapy,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021079,C0206277,PREDISPOSES,Therapeutic immunosuppression,Fatal Outcome,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021083,C0020517,PREDISPOSES,Immunotherapy,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021860,C4545429,PREDISPOSES,Intra-Aortic Balloon Pumping,Perioperative complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021932,C0242781,PREDISPOSES,"Intubation, Intratracheal",disease transmission,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0034386,C0242781,PREDISPOSES,Quarantine,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040508,C0085660,PREDISPOSES,Total Hip Replacement (procedure),Aseptic necrosis,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0040508,C3887513,PREDISPOSES,Total Hip Replacement (procedure),Avascular necrosis,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0040591,C0242781,PREDISPOSES,Tracheotomy procedure,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0040808,C0242781,PREDISPOSES,Treatment Protocols,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C0021368,PREDISPOSES,Vaccination,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042200,C3714514,PREDISPOSES,Influenza vaccination,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0055670,C0242656,PREDISPOSES,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0065764,C1520005,PREDISPOSES,bleomycin/cisplatin/methotrexate protocol,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0149783,C0027543,PREDISPOSES,Steroid therapy,Avascular necrosis of bone,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0149783,C0029445,PREDISPOSES,Steroid therapy,Bone necrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152060,C0020517,PREDISPOSES,Transection (procedure),Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152060,C0242781,PREDISPOSES,Transection (procedure),disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185115,C0021368,PREDISPOSES,Extraction,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0242781,PREDISPOSES,Prophylactic treatment,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C4061114,PREDISPOSES,Prophylactic treatment,Acute illness,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0204727,C0206277,PREDISPOSES,Isolation procedure,Fatal Outcome,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0204727,C0242781,PREDISPOSES,Isolation procedure,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0419000,C0242781,PREDISPOSES,"Respiratory assist, manual",disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0441509,C0006110,PREDISPOSES,Coagulation procedure,Brain Death,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0520251,C0242781,PREDISPOSES,Multiple interventional procedures,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0678812,C0029445,PREDISPOSES,systemic administration,Bone necrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0679698,C0242781,PREDISPOSES,disease prevention,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0679698,C1520005,PREDISPOSES,disease prevention,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0920467,C0015376,PREDISPOSES,disorder control (procedure),Extravasation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0947647,C3714514,PREDISPOSES,Manipulation procedure,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1096021,C0553692,PREDISPOSES,antiplatelet therapy,Brain hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1144863,C0242781,PREDISPOSES,Group setting,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0013604,PREDISPOSES,Destructive procedure (surgical),Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0030660,PREDISPOSES,Destructive procedure (surgical),Pathologic Processes,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0242781,PREDISPOSES,Detection,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0854460,PREDISPOSES,Detection,Indirect Transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C3714514,PREDISPOSES,Detection,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1541822,C0282474,PREDISPOSES,Vaginal delivery procedure,Maternal-Fetal Infection Transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1997883,C0242781,PREDISPOSES,Noninvasive Ventilation,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C2242628,C0242781,PREDISPOSES,Fecal Microbiota Transplantation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2349751,C0242781,PREDISPOSES,Invasive positive pressure ventilation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2985296,C3714514,PREDISPOSES,Hormonal Contraception,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3164735,C0242781,PREDISPOSES,Noninvasive positive pressure ventilation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF

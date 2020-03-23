@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007202,C1155266,AFFECTS,Cardiopulmonary Bypass,inflammatory response,topp,patf,1,AFFECTS_TOPPafctPATF
+C0010055,C0038941,AFFECTS,Coronary Artery Bypass Surgery,Surgical Wound Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0011307,C0333641,AFFECTS,Denervation,Atrophic,topp,patf,1,AFFECTS_TOPPafctPATF
+C0013103,C0242781,AFFECTS,Drainage procedure,disease transmission,topp,patf,1,AFFECTS_TOPPafctPATF
+C0013216,C3714514,AFFECTS,Pharmacotherapy,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0013806,C1817978,AFFECTS,Electroconvulsive Therapy,acute inflammatory response,topp,patf,1,AFFECTS_TOPPafctPATF
+C0013931,C0021368,AFFECTS,"Embolization, Therapeutic",Inflammation,topp,patf,1,AFFECTS_TOPPafctPATF
+C0017296,C1510411,AFFECTS,gene therapy,metaplastic cell transformation,topp,patf,1,AFFECTS_TOPPafctPATF
+C0020971,C0020523,AFFECTS,Immunization,Immediate hypersensitivity,topp,patf,1,AFFECTS_TOPPafctPATF
+C0020971,C0151735,AFFECTS,Immunization,Injection Site Reaction,topp,patf,1,AFFECTS_TOPPafctPATF
+C0020971,C0282683,AFFECTS,Immunization,Tumor Escape,topp,patf,1,AFFECTS_TOPPafctPATF
+C0021079,C0242656,AFFECTS,Therapeutic immunosuppression,Disease Progression,topp,patf,1,AFFECTS_TOPPafctPATF
+C0021079,C0332448,AFFECTS,Therapeutic immunosuppression,Infiltration,topp,patf,1,AFFECTS_TOPPafctPATF
+C0021079,C3714514,AFFECTS,Therapeutic immunosuppression,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0021107,C0151686,AFFECTS,Implantation procedure,Growth retardation,topp,patf,3,AFFECTS_TOPPafctPATF
+C0034386,C0036679,AFFECTS,Quarantine,Diastasis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0035273,C0036983,AFFECTS,Resuscitation procedure,Septic Shock,topp,patf,1,AFFECTS_TOPPafctPATF
+C0040739,C0162633,AFFECTS,"Transplantation, Homologous",Viral Shedding,topp,patf,1,AFFECTS_TOPPafctPATF
+C0040808,C0242656,AFFECTS,Treatment Protocols,Disease Progression,topp,patf,1,AFFECTS_TOPPafctPATF
+C0040861,C3714514,AFFECTS,Triage,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0042196,C0027540,AFFECTS,Vaccination,Necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0042196,C0162633,AFFECTS,Vaccination,Viral Shedding,topp,patf,1,AFFECTS_TOPPafctPATF
+C0042196,C0242656,AFFECTS,Vaccination,Disease Progression,topp,patf,1,AFFECTS_TOPPafctPATF
+C0042196,C1817978,AFFECTS,Vaccination,acute inflammatory response,topp,patf,1,AFFECTS_TOPPafctPATF
+C0042196,C3670573,AFFECTS,Vaccination,Perivascular edema,topp,patf,1,AFFECTS_TOPPafctPATF
+C0057163,C3714514,AFFECTS,DAV regimen,Infection,topp,patf,2,AFFECTS_TOPPafctPATF
+C0079613,C0021368,AFFECTS,Adoptive Immunotherapy,Inflammation,topp,patf,1,AFFECTS_TOPPafctPATF
+C0085430,C3714514,AFFECTS,Blood Component Transfusion,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0086252,C0032787,AFFECTS,Red Blood Cell Transfusion,Postoperative Complications,topp,patf,1,AFFECTS_TOPPafctPATF
+C0086818,C3714514,AFFECTS,Platelet Transfusion,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C0150238,C0036983,AFFECTS,Fluid resuscitation,Septic Shock,topp,patf,1,AFFECTS_TOPPafctPATF
+C0152060,C0021368,AFFECTS,Transection (procedure),Inflammation,topp,patf,1,AFFECTS_TOPPafctPATF
+C0152060,C0302158,AFFECTS,Transection (procedure),Leucocytic infiltrate,topp,patf,1,AFFECTS_TOPPafctPATF
+C0185027,C0020517,AFFECTS,Imbrication (procedure),Hypersensitivity,topp,patf,2,AFFECTS_TOPPafctPATF
+C0185027,C0021368,AFFECTS,Imbrication (procedure),Inflammation,topp,patf,1,AFFECTS_TOPPafctPATF
+C0185027,C0036679,AFFECTS,Imbrication (procedure),Diastasis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0185047,C0011304,AFFECTS,Stripping,Demyelination,topp,patf,1,AFFECTS_TOPPafctPATF
+C0185115,C0242781,AFFECTS,Extraction,disease transmission,topp,patf,1,AFFECTS_TOPPafctPATF
+C0199176,C0029445,AFFECTS,Prophylactic treatment,Bone necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0199176,C0242656,AFFECTS,Prophylactic treatment,Disease Progression,topp,patf,1,AFFECTS_TOPPafctPATF
+C0199176,C1285228,AFFECTS,Prophylactic treatment,Degenerative disorder of cartilage,topp,patf,2,AFFECTS_TOPPafctPATF
+C0199176,C3714514,AFFECTS,Prophylactic treatment,Infection,topp,patf,2,AFFECTS_TOPPafctPATF
+C0199447,C0242781,AFFECTS,Nebulizer therapy,disease transmission,topp,patf,1,AFFECTS_TOPPafctPATF
+C0199779,C0021368,AFFECTS,Administration of antibiotic,Inflammation,topp,patf,2,AFFECTS_TOPPafctPATF
+C0204727,C0032227,AFFECTS,Isolation procedure,Pleural effusion disorder,topp,patf,1,AFFECTS_TOPPafctPATF
+C0204727,C0242781,AFFECTS,Isolation procedure,disease transmission,topp,patf,2,AFFECTS_TOPPafctPATF
+C0279025,C0027540,AFFECTS,Hormone Therapy,Necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0376518,C0011304,AFFECTS,Adoptive Transfer,Demyelination,topp,patf,1,AFFECTS_TOPPafctPATF
+C0439775,C0333471,AFFECTS,Elevation procedure,Collagenolysis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0543467,C0029445,AFFECTS,Operative Surgical Procedures,Bone necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0543467,C0242781,AFFECTS,Operative Surgical Procedures,disease transmission,topp,patf,1,AFFECTS_TOPPafctPATF
+C0547070,C0332448,AFFECTS,Ablation,Infiltration,topp,patf,1,AFFECTS_TOPPafctPATF
+C0597750,C0002792,AFFECTS,antigen challenge,anaphylaxis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0599081,C1155266,AFFECTS,passive sensitization,inflammatory response,topp,patf,1,AFFECTS_TOPPafctPATF
+C0600080,C1520005,AFFECTS,Stretching exercises,Viral Pathogenesis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0679699,C0020517,AFFECTS,Secondary Prevention,Hypersensitivity,topp,patf,1,AFFECTS_TOPPafctPATF
+C0728940,C0333279,AFFECTS,Excision,Massive hemorrhage,topp,patf,1,AFFECTS_TOPPafctPATF
+C0841790,C0027540,AFFECTS,caudal injection,Necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C0872178,C0333288,AFFECTS,gene replacement,Dissecting hemorrhage,topp,patf,1,AFFECTS_TOPPafctPATF
+C0947647,C4022804,AFFECTS,Manipulation procedure,Decreased inflammatory response,topp,patf,1,AFFECTS_TOPPafctPATF
+C1261381,C0021368,AFFECTS,Destructive procedure (surgical),Inflammation,topp,patf,1,AFFECTS_TOPPafctPATF
+C1283075,C0020517,AFFECTS,Fusion - action,Hypersensitivity,topp,patf,1,AFFECTS_TOPPafctPATF
+C1511790,C0020517,AFFECTS,Detection,Hypersensitivity,topp,patf,7,AFFECTS_TOPPafctPATF
+C1511790,C0032227,AFFECTS,Detection,Pleural effusion disorder,topp,patf,1,AFFECTS_TOPPafctPATF
+C1511790,C0036679,AFFECTS,Detection,Diastasis,topp,patf,1,AFFECTS_TOPPafctPATF
+C1511790,C0235029,AFFECTS,Detection,neurological complication,topp,patf,1,AFFECTS_TOPPafctPATF
+C1511790,C0242781,AFFECTS,Detection,disease transmission,topp,patf,2,AFFECTS_TOPPafctPATF
+C1511790,C0700148,AFFECTS,Detection,Congestion,topp,patf,1,AFFECTS_TOPPafctPATF
+C1511790,C3714514,AFFECTS,Detection,Infection,topp,patf,1,AFFECTS_TOPPafctPATF
+C1514818,C0013922,AFFECTS,Regional Chemotherapy,Embolism,topp,patf,1,AFFECTS_TOPPafctPATF
+C1515884,C0242656,AFFECTS,Acupuncture and Oriental Medicine,Disease Progression,topp,patf,1,AFFECTS_TOPPafctPATF
+C1515884,C2911645,AFFECTS,Acupuncture and Oriental Medicine,Weight Loss Adverse Event,topp,patf,1,AFFECTS_TOPPafctPATF
+C1527075,C0020517,AFFECTS,Revision procedure,Hypersensitivity,topp,patf,1,AFFECTS_TOPPafctPATF
+C1708063,C0027540,AFFECTS,First line treatment,Necrosis,topp,patf,1,AFFECTS_TOPPafctPATF
+C3897943,C0024348,AFFECTS,Peripheral Vascular Intervention,Lysis,topp,patf,1,AFFECTS_TOPPafctPATF
+C4085637,C0033677,AFFECTS,Carboplatin/Etoposide/Melphalan Regimen,Protein-Energy Malnutrition,topp,patf,2,AFFECTS_TOPPafctPATF
+C4526535,C1520005,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Viral Pathogenesis,topp,patf,1,AFFECTS_TOPPafctPATF
+C4526535,C3714514,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Infection,topp,patf,1,AFFECTS_TOPPafctPATF

@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003335,C0301872,NEG_AUGMENTS,"Antigens, Neoplasm",Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0019168,C0301872,NEG_AUGMENTS,Hepatitis B Surface Antigens,Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0041361,C0301872,NEG_AUGMENTS,Tumor Antigens,Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0042210,C0020966,NEG_AUGMENTS,Vaccines,Cellular Immunity,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0042210,C0301872,NEG_AUGMENTS,Vaccines,Immune response,imft,orgf,3,NEG_AUGMENTS_IMFTnaugmORGF
+C0042211,C0020966,NEG_AUGMENTS,"Vaccines, Attenuated",Cellular Immunity,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0042212,C0020966,NEG_AUGMENTS,"Vaccines, Inactivated",Cellular Immunity,imft,orgf,3,NEG_AUGMENTS_IMFTnaugmORGF
+C0042212,C0301872,NEG_AUGMENTS,"Vaccines, Inactivated",Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C0597641,C0301872,NEG_AUGMENTS,plasmid vaccine,Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C1291777,C0301872,NEG_AUGMENTS,Protein antigen,Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C1519887,C0301872,NEG_AUGMENTS,Vaccine Antigen,Immune response,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF
+C3272757,C0020966,NEG_AUGMENTS,Live Attenuated Influenza Vaccine,Cellular Immunity,imft,orgf,1,NEG_AUGMENTS_IMFTnaugmORGF

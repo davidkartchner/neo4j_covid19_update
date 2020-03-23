@@ -1,0 +1,222 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001802,C0085672,ISA,Agglutination Tests,Microbiology procedure,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0001802,C0474643,ISA,Agglutination Tests,Antibody titer measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005507,C0022885,ISA,Biological Assay,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005507,C1510438,ISA,Biological Assay,Assay,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0005774,C0022885,ISA,Blood Chemical Analysis,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0005833,C0018941,ISA,Blood Sedimentation,Hematologic Tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005845,C0022662,ISA,Blood urea nitrogen measurement,Kidney Function Tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005845,C0022885,ISA,Blood urea nitrogen measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005863,C0013855,ISA,Western Blotting,Electrophoresis,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0005863,C0020980,ISA,Western Blotting,Immunoassay method,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0005863,C0020985,ISA,Western Blotting,Immunoblotting,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0005863,C0022885,ISA,Western Blotting,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0007584,C0022885,ISA,Cell Count,Laboratory Procedures,lbpr,lbpr,13,ISA_LBPRisaLBPR
+C0007584,C0919386,ISA,Cell Count,Pathology procedure,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0008551,C0008550,ISA,"Chromatography, Affinity",Chromatography,lbpr,lbpr,9,ISA_LBPRisaLBPR
+C0008551,C0684296,ISA,"Chromatography, Affinity",Column Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0008562,C0008550,ISA,High pressure liquid chromatography procedure,Chromatography,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0008562,C0008565,ISA,High pressure liquid chromatography procedure,Liquid Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0008565,C0678621,ISA,Liquid Chromatography,separation method,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0008813,C0037812,ISA,Circular Dichroism,Spectrum Analysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0008813,C0436196,ISA,Circular Dichroism,Spectrometry,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0009541,C0022885,ISA,Complement Fixation Tests,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0009541,C0036743,ISA,Complement Fixation Tests,Serologic tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0009555,C0005771,ISA,Complete Blood Count,Blood Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0009555,C0007584,ISA,Complete Blood Count,Cell Count,lbpr,lbpr,6,ISA_LBPRisaLBPR
+C0009555,C0018941,ISA,Complete Blood Count,Hematologic Tests,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0009555,C0022885,ISA,Complete Blood Count,Laboratory Procedures,lbpr,lbpr,20,ISA_LBPRisaLBPR
+C0009555,C0702196,ISA,Complete Blood Count,Blood investigation,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0009961,C0022885,ISA,Coombs Test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0010367,C0022885,ISA,"Crossmatching, Blood",Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0013064,C0020980,ISA,Dot Immunoblotting,Immunoassay method,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0013855,C0022885,ISA,Electrophoresis,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0013860,C0013855,ISA,"Electrophoresis, Gel, Two-Dimensional",Electrophoresis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0014441,C0020980,ISA,Enzyme-Linked Immunosorbent Assay,Immunoassay method,lbpr,lbpr,6,ISA_LBPRisaLBPR
+C0014441,C0021044,ISA,Enzyme-Linked Immunosorbent Assay,Immunohistochemistry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0014441,C0021052,ISA,Enzyme-Linked Immunosorbent Assay,Immunodiagnosis,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0014441,C0021060,ISA,Enzyme-Linked Immunosorbent Assay,Immunologic Techniques,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0014441,C0022885,ISA,Enzyme-Linked Immunosorbent Assay,Laboratory Procedures,lbpr,lbpr,161,ISA_LBPRisaLBPR
+C0014441,C0086231,ISA,Enzyme-Linked Immunosorbent Assay,Enzyme Immunoassay,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0014441,C2697666,ISA,Enzyme-Linked Immunosorbent Assay,Immunoenzyme Procedure,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0014772,C0007584,ISA,Red Blood Cell Count measurement,Cell Count,lbpr,lbpr,10,ISA_LBPRisaLBPR
+C0016263,C0016318,ISA,Flow Cytometry,Fluorescent Antibody Technique,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0016263,C0021044,ISA,Flow Cytometry,Immunohistochemistry,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0016263,C0487602,ISA,Flow Cytometry,Staining method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0016316,C0022885,ISA,Fluorescence Polarization,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0016318,C0010818,ISA,Fluorescent Antibody Technique,Cytological Techniques,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0016318,C0019635,ISA,Fluorescent Antibody Technique,Histocytochemistry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0016318,C0021044,ISA,Fluorescent Antibody Technique,Immunohistochemistry,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0016318,C0022885,ISA,Fluorescent Antibody Technique,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0016318,C0085672,ISA,Fluorescent Antibody Technique,Microbiology procedure,lbpr,lbpr,7,ISA_LBPRisaLBPR
+C0016352,C0022885,ISA,Fluorometry,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0018904,C0018941,ISA,Hemagglutination Inhibition Tests,Hematologic Tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0018904,C1510438,ISA,Hemagglutination Inhibition Tests,Assay,lbpr,lbpr,7,ISA_LBPRisaLBPR
+C0018935,C0007584,ISA,Hematocrit procedure,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0018935,C0022885,ISA,Hematocrit procedure,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0018941,C0022885,ISA,Hematologic Tests,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0020985,C0022885,ISA,Immunoblotting,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0021001,C0013855,ISA,"Immunoelectrophoresis, Two-Dimensional",Electrophoresis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0021044,C0019635,ISA,Immunohistochemistry,Histocytochemistry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0021044,C0019637,ISA,Immunohistochemistry,Histological Techniques,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0021044,C0022885,ISA,Immunohistochemistry,Laboratory Procedures,lbpr,lbpr,11,ISA_LBPRisaLBPR
+C0021052,C0022885,ISA,Immunodiagnosis,Laboratory Procedures,lbpr,lbpr,10,ISA_LBPRisaLBPR
+C0021067,C0021044,ISA,Immunoperoxidase Techniques,Immunohistochemistry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0022169,C0013855,ISA,Isoelectric Focusing,Electrophoresis,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0023117,C0022885,ISA,Latex Fixation Tests,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0023117,C0036743,ISA,Latex Fixation Tests,Serologic tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0023508,C0007584,ISA,White Blood Cell Count procedure,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0023508,C0009555,ISA,White Blood Cell Count procedure,Complete Blood Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0023508,C0022885,ISA,White Blood Cell Count procedure,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0023901,C0022885,ISA,Liver Function Tests,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0024868,C0037813,ISA,Gas Chromatography-Mass Spectrometry,Mass Spectrometry,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0026006,C0022885,ISA,Micronucleus Tests,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0026018,C0022885,ISA,Microscopy,Laboratory Procedures,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0026019,C0022885,ISA,Electron Microscopy,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0026020,C0678118,ISA,Scanning Electron Microscopy,Transmission Electron Microscopy,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0027944,C0085672,ISA,Neutralization Tests,Microbiology procedure,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0027944,C0474643,ISA,Neutralization Tests,Antibody titer measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0032102,C1510438,ISA,plaque assay,Assay,lbpr,lbpr,12,ISA_LBPRisaLBPR
+C0032181,C0022885,ISA,Platelet Count measurement,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0032428,C0013855,ISA,2D Polyacrylamide Gel Electrophoresis,Electrophoresis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0032428,C0013860,ISA,2D Polyacrylamide Gel Electrophoresis,"Electrophoresis, Gel, Two-Dimensional",lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0033707,C0005790,ISA,Prothrombin time assay,Blood coagulation tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0033707,C0022885,ISA,Prothrombin time assay,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0033707,C1167912,ISA,Prothrombin time assay,Coagulation factor measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0034584,C0021069,ISA,Radioimmunoprecipitation Assay,Immunoprecipitation,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0036759,C0022885,ISA,Serotyping,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0037813,C0436196,ISA,Mass Spectrometry,Spectrometry,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0040130,C0022885,ISA,Thyroid Function Tests,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0079366,C0016263,ISA,Fluorescence-Activated Cell Sorting,Flow Cytometry,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0079604,C0430389,ISA,Immunofluorescence Microscopy,Light Microscopy,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0085115,C0009555,ISA,CD4/CD8 ratio procedure,Complete Blood Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0086231,C0022885,ISA,Enzyme Immunoassay,Laboratory Procedures,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C0162801,C0022885,ISA,Sequence Analysis,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0178539,C0010818,ISA,Cellular,Cytological Techniques,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200345,C0022885,ISA,Specimen Collection,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200370,C0022885,ISA,Laboratory reporting,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200555,C0001802,ISA,Direct Coombs test,Agglutination Tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200631,C0022885,ISA,Complete blood count without differential,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0200633,C0023508,ISA,Neutrophil count (procedure),White Blood Cell Count procedure,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0200635,C0007584,ISA,Lymphocyte Count measurement,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200635,C0023508,ISA,Lymphocyte Count measurement,White Blood Cell Count procedure,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0200638,C0022885,ISA,Eosinophil count procedure,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200932,C0022885,ISA,Nucleic Acid Amplification Tests,Laboratory Procedures,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C0200949,C0022885,ISA,Blood culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200949,C0085672,ISA,Blood culture,Microbiology procedure,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0200955,C0022885,ISA,Viral culture procedure,Laboratory Procedures,lbpr,lbpr,13,ISA_LBPRisaLBPR
+C0200955,C0040284,ISA,Viral culture procedure,Tissue culture,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201069,C0022885,ISA,Methyl red test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201284,C0022885,ISA,Fluorescent antibody measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201300,C0022885,ISA,Serum neutralization test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201519,C0022885,ISA,Antibody to islet cells of pancreas measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201595,C1510438,ISA,Tumor necrosis factor assay,Assay,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201617,C0022885,ISA,Primed lymphocyte test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201657,C0022885,ISA,C-reactive protein measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201677,C0022885,ISA,Viral neutralization test,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0201677,C0036743,ISA,Viral neutralization test,Serologic tests,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201699,C0678621,ISA,"Electrophoresis, Capillary",separation method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0201811,C0022885,ISA,Fecal occult blood test,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0201927,C0022885,ISA,Measurement of serum ionized calcium,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0201971,C1167874,ISA,Cosyntropin test,endocrine test,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0202010,C0022885,ISA,Fecal analysis procedure,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0202165,C0022885,ISA,Hydrogen ion concentration measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0206161,C0014772,ISA,Reticulocyte count (procedure),Red Blood Cell Count measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0236287,C0022885,ISA,Insulin tolerance test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0242349,C0022885,ISA,Immunocytochemistry,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0242842,C0457437,ISA,"Microscopy, Confocal",Microscopy technique,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0243009,C0200635,ISA,CD4 Count determination procedure,Lymphocyte Count measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0282597,C0037813,ISA,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Mass Spectrometry,lbpr,lbpr,15,ISA_LBPRisaLBPR
+C0282646,C0022885,ISA,Indirect Immunofluorescence,Laboratory Procedures,lbpr,lbpr,32,ISA_LBPRisaLBPR
+C0282647,C0016318,ISA,"Fluorescent Antibody Technique, Indirect",Fluorescent Antibody Technique,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0282647,C0022885,ISA,"Fluorescent Antibody Technique, Indirect",Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0373861,C0022885,ISA,Immunodiffusion; not elsewhere specified (procedure in CPT),Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0376519,C0037812,ISA,"Spectroscopy, Near-Infrared",Spectrum Analysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0427716,C0022885,ISA,"Protein concentration, test strip measurement",Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0427743,C0337438,ISA,"Glucose concentration, test strip measurement",Glucose measurement,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0428295,C0430179,ISA,Cystic fibrosis sweat test,Sweat test,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0428627,C0042014,ISA,Protein to Creatinine Ratio Measurement,Urinalysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0429845,C0007584,ISA,Sperm concentration measurement,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0430027,C0022885,ISA,biochemical test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0430404,C0022885,ISA,Urine for culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0430404,C0042014,ISA,Urine for culture,Urinalysis,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0430414,C0022885,ISA,Stool culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0474643,C0022885,ISA,Antibody titer measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0519825,C0022885,ISA,Comprehensive Metabolic Panel,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0523207,C1319309,ISA,Hematoxylin and eosin stain method,Hematoxylin stain method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0525032,C0022885,ISA,International Normalized Ratio,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0558979,C0022885,ISA,Serum blood tests,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0580327,C0022885,ISA,Antibody studies (procedure),Laboratory Procedures,lbpr,lbpr,4,ISA_LBPRisaLBPR
+C0587178,C0022885,ISA,Anti-nuclear antibody measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0597410,C0678621,ISA,"Chromatography, Reverse-Phase",separation method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0597717,C0022885,ISA,Fluorescence Resonance Energy Transfer,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0597717,C0037812,ISA,Fluorescence Resonance Energy Transfer,Spectrum Analysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0599209,C0008550,ISA,Fast Protein Liquid Chromatography,Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0599616,C0022885,ISA,Virus identification,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0599662,C0007616,ISA,magnetic cell separation system,Cell Separation,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C0600209,C0013855,ISA,SDS-PAGE,Electrophoresis,lbpr,lbpr,30,ISA_LBPRisaLBPR
+C0600209,C0013862,ISA,SDS-PAGE,Polyacrylamide Gel Electrophoresis,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C0678118,C0026019,ISA,Transmission Electron Microscopy,Electron Microscopy,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0729856,C0022885,ISA,Antigen test,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0740086,C0042014,ISA,Microalbuminuria measurement,Urinalysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0848397,C0022885,ISA,Throat culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0872318,C0008550,ISA,Liquid Chromatography Mass Spectrometry,Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0872318,C0008565,ISA,Liquid Chromatography Mass Spectrometry,Liquid Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0872318,C0037813,ISA,Liquid Chromatography Mass Spectrometry,Mass Spectrometry,lbpr,lbpr,7,ISA_LBPRisaLBPR
+C0872318,C0436196,ISA,Liquid Chromatography Mass Spectrometry,Spectrometry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0920267,C0022885,ISA,Platelet aggregation measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0920508,C0014441,ISA,Enzyme-Linked Immunospot Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C0920508,C0020980,ISA,Enzyme-Linked Immunospot Assay,Immunoassay method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0948762,C0005771,ISA,Absolute neutrophil count,Blood Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0948762,C0009555,ISA,Absolute neutrophil count,Complete Blood Count,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0948762,C0023508,ISA,Absolute neutrophil count,White Blood Cell Count procedure,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C0949466,C0020985,ISA,Western Blot,Immunoblotting,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C0949466,C0022885,ISA,Western Blot,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1167909,C0023508,ISA,T lymphocyte count,White Blood Cell Count procedure,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1167996,C0007584,ISA,B lymphocyte count procedure,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1273421,C0022885,ISA,Viral studies,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C1273935,C0022885,ISA,Anaerobic microbial culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1275826,C0022885,ISA,PCR test for SARS,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C1277852,C0022885,ISA,RSV antigen level,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1278024,C0022885,ISA,Serum insulin-like growth factor 1 measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1285573,C0022885,ISA,Genotype determination,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1294356,C0022885,ISA,Detection of virus procedure,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C1294423,C0022885,ISA,Allergen identification,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1294915,C0022885,ISA,Rotavirus antigen assay,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1441498,C0200949,ISA,Anaerobic blood culture,Blood culture,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1443948,C0022885,ISA,Measurement of antibody using direct fluorescence,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1510438,C0022885,ISA,Assay,Laboratory Procedures,lbpr,lbpr,68,ISA_LBPRisaLBPR
+C1511124,C0005507,ISA,"Bioassay, In Vivo",Biological Assay,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1511124,C0022885,ISA,"Bioassay, In Vivo",Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1511124,C1510438,ISA,"Bioassay, In Vivo",Assay,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C1533728,C0022885,ISA,Hepatitis C virus genotype determination,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1535922,C0022885,ISA,Procalcitonin measurement,Laboratory Procedures,lbpr,lbpr,6,ISA_LBPRisaLBPR
+C1537055,C0037813,ISA,surface enhanced laser desorption ionization,Mass Spectrometry,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1553166,C0022885,ISA,Transcription-mediated Amplification,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1705913,C0022885,ISA,Rapid Antigen Test,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1707759,C0022885,ISA,Direct Fluorescent Antibody Test,Laboratory Procedures,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C1719048,C0022885,ISA,Shell Vial Culture,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1720909,C0022885,ISA,Kirby-Bauer Disk-Diffusion Method,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C1882368,C0037812,ISA,Photon Correlation Spectroscopy,Spectrum Analysis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2229773,C0022885,ISA,serum indirect Hemagglutination,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2229794,C0022885,ISA,serum Latex agglutination,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2347644,C0022885,ISA,Positive Selection,Laboratory Procedures,lbpr,lbpr,5,ISA_LBPRisaLBPR
+C2350257,C2350255,ISA,STEM Tomography,Electron Microscope Tomography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2697666,C0022885,ISA,Immunoenzyme Procedure,Laboratory Procedures,lbpr,lbpr,10,ISA_LBPRisaLBPR
+C2698870,C0007584,ISA,Precursor Plasma Cell Count,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2700087,C0007584,ISA,Tubular Epithelial Cell Count,Cell Count,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C2700289,C0007584,ISA,Yeast Cell Measurement,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2717789,C0008550,ISA,"Chromatography, Reversed-Phase Liquid",Chromatography,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2825907,C0022885,ISA,ProB-Type Natriuretic Peptide Measurement,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2936240,C0013855,ISA,Two-Dimensional Difference Gel Electrophoresis,Electrophoresis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2936240,C0013860,ISA,Two-Dimensional Difference Gel Electrophoresis,"Electrophoresis, Gel, Two-Dimensional",lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2936361,C0919386,ISA,Dielectric Spectroscopy,Pathology procedure,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C2987207,C0022885,ISA,Fluorescent Treponemal Antibody Absorption,Laboratory Procedures,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C3178802,C0022885,ISA,Interferon-gamma Release Tests,Laboratory Procedures,lbpr,lbpr,3,ISA_LBPRisaLBPR
+C3272886,C0007584,ISA,Circulating Endothelial Cell Count,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C3494467,C0013855,ISA,Native Polyacrylamide Gel Electrophoresis,Electrophoresis,lbpr,lbpr,2,ISA_LBPRisaLBPR
+C3494467,C0013862,ISA,Native Polyacrylamide Gel Electrophoresis,Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C3539922,C0022885,ISA,Loop-mediated Isothermal Amplification,Laboratory Procedures,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C3539922,C0200924,ISA,Loop-mediated Isothermal Amplification,Molecular biology method,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C3641613,C0007584,ISA,CD19 Cell to Lymphocyte Ratio Measurement,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR
+C3641616,C0007584,ISA,CD4 Cell to Lymphocyte Ratio Measurement,Cell Count,lbpr,lbpr,1,ISA_LBPRisaLBPR

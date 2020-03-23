@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0028621,C0028621,COMPARED_WITH,Nucleosides,Nucleosides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0028630,C0028630,COMPARED_WITH,Nucleotides,Nucleotides,nnon,nnon,20,COMPARED_WITH_NNONcpwtNNON
+C0028630,C0035548,COMPARED_WITH,Nucleotides,Ribonucleotides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0028630,C0597101,COMPARED_WITH,Nucleotides,nucleobase,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0028948,C0028630,COMPARED_WITH,Oligodeoxyribonucleotides,Nucleotides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0028953,C0028953,COMPARED_WITH,Oligonucleotides,Oligonucleotides,nnon,nnon,4,COMPARED_WITH_NNONcpwtNNON
+C0028953,C0206415,COMPARED_WITH,Oligonucleotides,Oligonucleotide Primers,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0032400,C0071360,COMPARED_WITH,Poly A,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0035546,C0035546,COMPARED_WITH,Ribonucleosides,Ribonucleosides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0035736,C0033755,COMPARED_WITH,"RNA, Viral",Proviruses,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0035736,C0035736,COMPARED_WITH,"RNA, Viral","RNA, Viral",nnon,nnon,2,COMPARED_WITH_NNONcpwtNNON
+C0045186,C0045186,COMPARED_WITH,2'-deoxyadenosine triphosphate,2'-deoxyadenosine triphosphate,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0049935,C1699870,COMPARED_WITH,7-methyl-diguanosine triphosphate,m7GpppA,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0050178,C0050178,COMPARED_WITH,buciclovir,buciclovir,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0053697,C0053697,COMPARED_WITH,"bis(3',5')-cyclic diguanylic acid","bis(3',5')-cyclic diguanylic acid",nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0071360,C0032400,COMPARED_WITH,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",Poly A,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0071360,C0071360,COMPARED_WITH,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer","5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0206415,C0028630,COMPARED_WITH,Oligonucleotide Primers,Nucleotides,nnon,nnon,4,COMPARED_WITH_NNONcpwtNNON
+C0206415,C0206415,COMPARED_WITH,Oligonucleotide Primers,Oligonucleotide Primers,nnon,nnon,19,COMPARED_WITH_NNONcpwtNNON
+C0206416,C0206415,COMPARED_WITH,DNA Primers,Oligonucleotide Primers,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0217154,C0217154,COMPARED_WITH,thrombin aptamer,thrombin aptamer,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0599013,C0028630,COMPARED_WITH,aptamer,Nucleotides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0599013,C0599013,COMPARED_WITH,aptamer,aptamer,nnon,nnon,21,COMPARED_WITH_NNONcpwtNNON
+C0599013,C1567931,COMPARED_WITH,aptamer,Macugen,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0599013,C1744513,COMPARED_WITH,aptamer,AS1411,nnon,nnon,3,COMPARED_WITH_NNONcpwtNNON
+C0600500,C0600500,COMPARED_WITH,Peptide Nucleic Acids,Peptide Nucleic Acids,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C0887909,C0028630,COMPARED_WITH,"RNA, Untranslated",Nucleotides,nnon,nnon,4,COMPARED_WITH_NNONcpwtNNON
+C1510800,C1510800,COMPARED_WITH,Adenoviral Vector,Adenoviral Vector,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C1511699,C0028630,COMPARED_WITH,DNA Structure,Nucleotides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C1519595,C0028630,COMPARED_WITH,Transcript,Nucleotides,nnon,nnon,5,COMPARED_WITH_NNONcpwtNNON
+C1519595,C0035736,COMPARED_WITH,Transcript,"RNA, Viral",nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C1519595,C1519595,COMPARED_WITH,Transcript,Transcript,nnon,nnon,13,COMPARED_WITH_NNONcpwtNNON
+C1519595,C2930586,COMPARED_WITH,Transcript,Short Hairpin RNA,nnon,nnon,2,COMPARED_WITH_NNONcpwtNNON
+C1567953,C1567954,COMPARED_WITH,DNA Aptamers,RNA Aptamers,nnon,nnon,3,COMPARED_WITH_NNONcpwtNNON
+C1567954,C0599013,COMPARED_WITH,RNA Aptamers,aptamer,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C1881903,C1881903,COMPARED_WITH,Morpholinos,Morpholinos,nnon,nnon,3,COMPARED_WITH_NNONcpwtNNON
+C2930586,C1519595,COMPARED_WITH,Short Hairpin RNA,Transcript,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C2930586,C2930586,COMPARED_WITH,Short Hairpin RNA,Short Hairpin RNA,nnon,nnon,2,COMPARED_WITH_NNONcpwtNNON
+C2936494,C0028630,COMPARED_WITH,"RNA, Small Untranslated",Nucleotides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C2976303,C0028621,COMPARED_WITH,sofosbuvir,Nucleosides,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON
+C2982391,C0028630,COMPARED_WITH,Long Intergenic Non-Protein Coding RNA,Nucleotides,nnon,nnon,6,COMPARED_WITH_NNONcpwtNNON
+C2982391,C2982391,COMPARED_WITH,Long Intergenic Non-Protein Coding RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,6,COMPARED_WITH_NNONcpwtNNON
+C3272452,C3272452,COMPARED_WITH,Single-Stranded RNA,Single-Stranded RNA,nnon,nnon,2,COMPARED_WITH_NNONcpwtNNON
+C3640007,C2982391,COMPARED_WITH,Viral Small RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,2,COMPARED_WITH_NNONcpwtNNON
+C3830308,C2982391,COMPARED_WITH,Epstein-Barr Virus Early RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,1,COMPARED_WITH_NNONcpwtNNON

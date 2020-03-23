@@ -1,0 +1,158 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009818,C0040732,COEXISTS_WITH,Consultation,Transplantation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0009818,C0040861,COEXISTS_WITH,Consultation,Triage,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0009818,C0520484,COEXISTS_WITH,Consultation,Xenograft procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0009861,C0199176,COEXISTS_WITH,Family Planning,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0010337,C0002903,COEXISTS_WITH,Care of intensive care unit patient,Anesthesia procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0010337,C0013216,COEXISTS_WITH,Care of intensive care unit patient,Pharmacotherapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0010337,C0204727,COEXISTS_WITH,Care of intensive care unit patient,Isolation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0013164,C0009429,COEXISTS_WITH,Drug Compounding,Combined Modality Therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0015034,C0016419,COEXISTS_WITH,Ethnomedicine,"Medicine, Folk",hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0018738,C0199176,COEXISTS_WITH,Health Promotion,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0018747,C0034386,COEXISTS_WITH,Health Services,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0018747,C0199176,COEXISTS_WITH,Health Services,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C0040808,COEXISTS_WITH,Hospitalization,Treatment Protocols,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C0042200,COEXISTS_WITH,Hospitalization,Influenza vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C0199470,COEXISTS_WITH,Hospitalization,Mechanical ventilation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C0204727,COEXISTS_WITH,Hospitalization,Isolation procedure,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C0543467,COEXISTS_WITH,Hospitalization,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C1511790,COEXISTS_WITH,Hospitalization,Detection,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0019993,C3665674,COEXISTS_WITH,Hospitalization,Warburg Therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0020043,C0814435,COEXISTS_WITH,Home visit (procedure),early identification,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0025355,C0034386,COEXISTS_WITH,Mental Health Services,Quarantine,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0027459,C0543467,COEXISTS_WITH,National Health Programs,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030672,C0204727,COEXISTS_WITH,Patient Acceptance of Health Care,Isolation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0013806,COEXISTS_WITH,Patient Discharge,Electroconvulsive Therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0034386,COEXISTS_WITH,Patient Discharge,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0057163,COEXISTS_WITH,Patient Discharge,DAV regimen,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0152060,COEXISTS_WITH,Patient Discharge,Transection (procedure),hlca,topp,3,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0185026,COEXISTS_WITH,Patient Discharge,Plication,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0185115,COEXISTS_WITH,Patient Discharge,Extraction,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0280603,COEXISTS_WITH,Patient Discharge,fluorouracil/methotrexate protocol,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0439775,COEXISTS_WITH,Patient Discharge,Elevation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0857127,COEXISTS_WITH,Patient Discharge,Induction procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0920425,COEXISTS_WITH,Patient Discharge,cancer therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0920467,COEXISTS_WITH,Patient Discharge,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C0947647,COEXISTS_WITH,Patient Discharge,Manipulation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C1261381,COEXISTS_WITH,Patient Discharge,Destructive procedure (surgical),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C3540512,COEXISTS_WITH,Patient Discharge,Circumferential Supracrestal Fiberotomy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0030685,C4319935,COEXISTS_WITH,Patient Discharge,Irreversible Electroporation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0031809,C0008971,COEXISTS_WITH,Physical Examination,Clinical Protocols,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0031809,C0152060,COEXISTS_WITH,Physical Examination,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0033080,C1515884,COEXISTS_WITH,Prescription procedure,Acupuncture and Oriental Medicine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0034024,C0199176,COEXISTS_WITH,Public Health Practice,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0034117,C0947647,COEXISTS_WITH,Puncture procedure,Manipulation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0035649,C0040732,COEXISTS_WITH,Risk Management,Transplantation,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0035273,COEXISTS_WITH,Infectious disease prevention / control,Resuscitation procedure,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0204727,COEXISTS_WITH,Infectious disease prevention / control,Isolation procedure,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0280274,COEXISTS_WITH,Infectious disease prevention / control,Antiviral Therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0543467,COEXISTS_WITH,Infectious disease prevention / control,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0869904,COEXISTS_WITH,Infectious disease prevention / control,Obstetric procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0085557,C0920467,COEXISTS_WITH,Infectious disease prevention / control,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0085559,C0034386,COEXISTS_WITH,intensive care,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0086930,C0199176,COEXISTS_WITH,Risk Assessment,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0150600,C0199779,COEXISTS_WITH,Advice,Administration of antibiotic,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0204695,C0042196,COEXISTS_WITH,Feeding patient,Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0204695,C0543467,COEXISTS_WITH,Feeding patient,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0204695,C0920467,COEXISTS_WITH,Feeding patient,disorder control (procedure),hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0205908,C0018821,COEXISTS_WITH,Preoperative Procedure,Cardiac Surgery procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0206082,C0042196,COEXISTS_WITH,Immunization Programs,Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0206082,C0152060,COEXISTS_WITH,Immunization Programs,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0206082,C1511790,COEXISTS_WITH,Immunization Programs,Detection,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0020971,COEXISTS_WITH,Screening procedure,Immunization,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0033144,COEXISTS_WITH,Screening procedure,Primary Prevention,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0034386,COEXISTS_WITH,Screening procedure,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0078137,COEXISTS_WITH,Screening procedure,bleomycin/doxorubicin/vinblastine protocol,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0199176,COEXISTS_WITH,Screening procedure,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0204727,COEXISTS_WITH,Screening procedure,Isolation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0419997,COEXISTS_WITH,Screening procedure,Viral screening,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0679750,COEXISTS_WITH,Screening procedure,prevention through information dissemination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C0920467,COEXISTS_WITH,Screening procedure,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C1511790,COEXISTS_WITH,Screening procedure,Detection,hlca,topp,4,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C4520447,COEXISTS_WITH,Screening procedure,Decolonization,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0220908,C4526534,COEXISTS_WITH,Screening procedure,Bendamustine/Bortezomib/Dexamethasone Regimen,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0262500,C0021107,COEXISTS_WITH,Health maintenance,Implantation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0278329,C1135929,COEXISTS_WITH,prescribed,Mass Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0282664,C1511790,COEXISTS_WITH,Point-of-Care Systems,Detection,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0422202,C0419786,COEXISTS_WITH,Notifications,Infection surveillance,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0441587,C0052712,COEXISTS_WITH,Clinical act of insertion,doxorubicin/mitomycin/vinblastine protocol,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0441587,C0524865,COEXISTS_WITH,Clinical act of insertion,Reconstructive Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0444793,C0021107,COEXISTS_WITH,Position change,Implantation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0545084,C1511790,COEXISTS_WITH,Outpatient visits,Detection,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0548471,C0042196,COEXISTS_WITH,protocols: surgery,Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0581122,C0679699,COEXISTS_WITH,Asthma severity,Secondary Prevention,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0582103,C0034386,COEXISTS_WITH,Medical Examination,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0008971,COEXISTS_WITH,Challenge,Clinical Protocols,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0010332,COEXISTS_WITH,Challenge,Crisis Intervention,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0020971,COEXISTS_WITH,Challenge,Immunization,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0152060,COEXISTS_WITH,Challenge,Transection (procedure),hlca,topp,4,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0199176,COEXISTS_WITH,Challenge,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0204727,COEXISTS_WITH,Challenge,Isolation procedure,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0920425,COEXISTS_WITH,Challenge,cancer therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0920467,COEXISTS_WITH,Challenge,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C0947647,COEXISTS_WITH,Challenge,Manipulation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C1135929,COEXISTS_WITH,Challenge,Mass Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C1511790,COEXISTS_WITH,Challenge,Detection,hlca,topp,4,COEXISTS_WITH_HLCAcxwtTOPP
+C0805586,C4042855,COEXISTS_WITH,Challenge,RNAi Therapeutics,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0812196,C0035239,COEXISTS_WITH,community health promotion,Respiratory Therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0850397,C0042196,COEXISTS_WITH,health information,Vaccination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0850397,C0152060,COEXISTS_WITH,health information,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0850397,C0199176,COEXISTS_WITH,health information,Prophylactic treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0850397,C0204727,COEXISTS_WITH,health information,Isolation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C0948564,C0034386,COEXISTS_WITH,Medical observation,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1160858,C0558039,COEXISTS_WITH,Behavior assessment,Behavior Observation Techniques,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0007203,COEXISTS_WITH,Evaluation procedure,Cardiopulmonary Resuscitation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0011121,COEXISTS_WITH,Evaluation procedure,Decontamination,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0021107,COEXISTS_WITH,Evaluation procedure,Implantation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0021485,COEXISTS_WITH,Evaluation procedure,Injection of therapeutic agent,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0023911,COEXISTS_WITH,Evaluation procedure,Transplantation of liver,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0034386,COEXISTS_WITH,Evaluation procedure,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0035273,COEXISTS_WITH,Evaluation procedure,Resuscitation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0040808,COEXISTS_WITH,Evaluation procedure,Treatment Protocols,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0152060,COEXISTS_WITH,Evaluation procedure,Transection (procedure),hlca,topp,5,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0543467,COEXISTS_WITH,Evaluation procedure,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0557061,COEXISTS_WITH,Evaluation procedure,Discussion (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0920425,COEXISTS_WITH,Evaluation procedure,cancer therapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C0947734,COEXISTS_WITH,Evaluation procedure,Vascular Therapies,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C1511790,COEXISTS_WITH,Evaluation procedure,Detection,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1261322,C3540512,COEXISTS_WITH,Evaluation procedure,Circumferential Supracrestal Fiberotomy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1292781,C0055670,COEXISTS_WITH,Complex procedure,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1319069,C0034386,COEXISTS_WITH,Point-of-Care Testing,Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1319069,C1511790,COEXISTS_WITH,Point-of-Care Testing,Detection,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1331096,C0152060,COEXISTS_WITH,vaccine delivery,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1449559,C1504389,COEXISTS_WITH,Donor Selection,Stem cell transplant,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C1449559,C2242628,COEXISTS_WITH,Donor Selection,Fecal Microbiota Transplantation,hlca,topp,3,COEXISTS_WITH_HLCAcxwtTOPP
+C1514918,C0543467,COEXISTS_WITH,Retrieval,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1516615,C0040732,COEXISTS_WITH,Clinical Management,Transplantation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1516615,C1303150,COEXISTS_WITH,Clinical Management,Disease management program (regime/therapy),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1516879,C0543467,COEXISTS_WITH,Enrollment,Operative Surgical Procedures,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1516879,C1527077,COEXISTS_WITH,Enrollment,Peripheral Electronic Nerve Stimulation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1517942,C0024203,COEXISTS_WITH,Long-term Follow-up,Lymph node excision,hlca,topp,3,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C0034386,COEXISTS_WITH,follow-up,Quarantine,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C0040808,COEXISTS_WITH,follow-up,Treatment Protocols,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C0204727,COEXISTS_WITH,follow-up,Isolation procedure,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C0451615,COEXISTS_WITH,follow-up,Pain relief,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C1708063,COEXISTS_WITH,follow-up,First line treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C3658366,COEXISTS_WITH,follow-up,Sublingual Immunotherapy,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1522577,C3845698,COEXISTS_WITH,follow-up,PMTCT,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C1704289,C0557061,COEXISTS_WITH,Clinical Services,Discussion (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C2718026,C0920467,COEXISTS_WITH,Capacity Building,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C2826232,C0007202,COEXISTS_WITH,Dose Adjustment,Cardiopulmonary Bypass,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C2958078,C0034386,COEXISTS_WITH,Psychosocial care (regime/therapy),Quarantine,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C3178994,C0920467,COEXISTS_WITH,Disease Eradication,disorder control (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C3242284,C0877629,COEXISTS_WITH,Population Health,infection prophylaxis,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C3494318,C0152060,COEXISTS_WITH,Public Health Surveillance,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C3509523,C0040739,COEXISTS_WITH,Haematopoietic stem cell transplant,"Transplantation, Homologous",hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C3889687,C0040732,COEXISTS_WITH,Clinical Observation,Transplantation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0019004,COEXISTS_WITH,Contacts,Hemodialysis,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0034386,COEXISTS_WITH,Contacts,Quarantine,hlca,topp,8,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0152054,COEXISTS_WITH,Contacts,Therapeutic tactile stimulation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0152060,COEXISTS_WITH,Contacts,Transection (procedure),hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0199779,COEXISTS_WITH,Contacts,Administration of antibiotic,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0204727,COEXISTS_WITH,Contacts,Isolation procedure,hlca,topp,4,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C0524865,COEXISTS_WITH,Contacts,Reconstructive Surgical Procedures,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C1293130,COEXISTS_WITH,Contacts,Stabilization,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4036459,C1511790,COEXISTS_WITH,Contacts,Detection,hlca,topp,2,COEXISTS_WITH_HLCAcxwtTOPP
+C4050568,C0040732,COEXISTS_WITH,High Risk Acute Leukemia,Transplantation,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4279933,C1512721,COEXISTS_WITH,Vaccination Campaign,Inferential Current Treatment,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP
+C4505100,C4520447,COEXISTS_WITH,Antibiotic Stewardship,Decolonization,hlca,topp,1,COEXISTS_WITH_HLCAcxwtTOPP

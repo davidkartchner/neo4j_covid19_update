@@ -1,0 +1,52 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000545,C3714634,AFFECTS,Eicosapentaenoic Acid,Biological Processes,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0003320,C0042765,AFFECTS,Antigens,Virulence,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0006675,C0220781,AFFECTS,Calcium,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0008377,C0220781,AFFECTS,Cholesterol,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0008377,C1721020,AFFECTS,Cholesterol,Virus Membrane Fusion,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0010558,C0220781,AFFECTS,Cyclodextrins,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0010738,C0220781,AFFECTS,Cytochalasin D,Anabolism,bacs,biof,4,AFFECTS_BACSafctBIOF
+C0012854,C0042765,AFFECTS,DNA,Virulence,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0012854,C0220781,AFFECTS,DNA,Anabolism,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0012854,C3714634,AFFECTS,DNA,Biological Processes,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0012931,C0220781,AFFECTS,Recombinant DNA,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0014587,C0596824,AFFECTS,Episomes,latent virus infection process,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0018353,C0220781,AFFECTS,Guanosine Triphosphate,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0018909,C1721019,AFFECTS,Hemagglutinin,Virus Attachment,bacs,biof,4,AFFECTS_BACSafctBIOF
+C0018909,C3853734,AFFECTS,Hemagglutinin,viral process,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0019134,C1721019,AFFECTS,heparin,Virus Attachment,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0019143,C1721019,AFFECTS,Heparitin Sulfate,Virus Attachment,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0027801,C1721019,AFFECTS,Neuraminic acid,Virus Attachment,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0031618,C0220781,AFFECTS,Phosphatidylethanolamines,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0031621,C0220781,AFFECTS,Phosphatidylinositols,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0032081,C0220781,AFFECTS,Plant Extracts,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0032136,C0042765,AFFECTS,Plasmids,Virulence,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0033554,C3714634,AFFECTS,Prostaglandins,Biological Processes,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0035693,C0220781,AFFECTS,"RNA, Double-Stranded",Anabolism,bacs,biof,3,AFFECTS_BACSafctBIOF
+C0035696,C1160638,AFFECTS,"RNA, Messenger",Viral life cycle,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0035696,C3821011,AFFECTS,"RNA, Messenger",cap snatching,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0040549,C0042765,AFFECTS,Toxin,Virulence,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0040952,C0042765,AFFECTS,Trichothecenes,Virulence,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0042010,C0220781,AFFECTS,Uridine Triphosphate,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0065335,C0220781,AFFECTS,lycorine,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0067762,C0242290,AFFECTS,N-Acetylneuraminic Acid,Organogenesis,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0067762,C1721019,AFFECTS,N-Acetylneuraminic Acid,Virus Attachment,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0067995,C0220781,AFFECTS,N-glycolylneuraminic acid,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0082774,C0042765,AFFECTS,"RNA, Guide",Virulence,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0242494,C0220781,AFFECTS,Poly(A) Tail,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C0599745,C3714634,AFFECTS,lipid mediator,Biological Processes,bacs,biof,2,AFFECTS_BACSafctBIOF
+C0600680,C1160638,AFFECTS,Untranslated Regions,Viral life cycle,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1099354,C0220781,AFFECTS,"RNA, Small Interfering",Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1101610,C0013203,AFFECTS,MicroRNAs,Drug resistance,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1101610,C0220781,AFFECTS,MicroRNAs,Anabolism,bacs,biof,2,AFFECTS_BACSafctBIOF
+C1101610,C0596824,AFFECTS,MicroRNAs,latent virus infection process,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1101610,C1160638,AFFECTS,MicroRNAs,Viral life cycle,bacs,biof,9,AFFECTS_BACSafctBIOF
+C1101610,C3714634,AFFECTS,MicroRNAs,Biological Processes,bacs,biof,5,AFFECTS_BACSafctBIOF
+C1136170,C0042765,AFFECTS,Virulence Factors,Virulence,bacs,biof,3,AFFECTS_BACSafctBIOF
+C1136170,C0220781,AFFECTS,Virulence Factors,Anabolism,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1337053,C0596824,AFFECTS,pre-miRNA,latent virus infection process,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1506352,C1160638,AFFECTS,silvestrol,Viral life cycle,bacs,biof,2,AFFECTS_BACSafctBIOF
+C1519315,C3714634,AFFECTS,Signaling Molecule,Biological Processes,bacs,biof,1,AFFECTS_BACSafctBIOF
+C1764827,C0042765,AFFECTS,Isolate - microorganism,Virulence,bacs,biof,2,AFFECTS_BACSafctBIOF
+C3178546,C0220781,AFFECTS,notoginsenoside ST-4,Anabolism,bacs,biof,2,AFFECTS_BACSafctBIOF
+C3494264,C3714634,AFFECTS,"RNA, Long Untranslated",Biological Processes,bacs,biof,1,AFFECTS_BACSafctBIOF

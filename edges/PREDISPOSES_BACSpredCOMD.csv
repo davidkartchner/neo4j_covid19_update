@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005437,C0242606,PREDISPOSES,Bilirubin,Oxidative Stress,bacs,comd,1,PREDISPOSES_BACSpredCOMD
+C0010843,C0012860,PREDISPOSES,Cytosine,DNA Damage,bacs,comd,1,PREDISPOSES_BACSpredCOMD
+C0012854,C0012860,PREDISPOSES,DNA,DNA Damage,bacs,comd,1,PREDISPOSES_BACSpredCOMD
+C0012854,C0242606,PREDISPOSES,DNA,Oxidative Stress,bacs,comd,1,PREDISPOSES_BACSpredCOMD
+C0018909,C0920672,PREDISPOSES,Hemagglutinin,virus pathogenesis,bacs,comd,1,PREDISPOSES_BACSpredCOMD
+C0067762,C0920672,PREDISPOSES,N-Acetylneuraminic Acid,virus pathogenesis,bacs,comd,2,PREDISPOSES_BACSpredCOMD
+C1101610,C0242606,PREDISPOSES,MicroRNAs,Oxidative Stress,bacs,comd,1,PREDISPOSES_BACSpredCOMD

@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010572,C0018270,AUGMENTS,Cycloheximide,Growth,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0013089,C0018270,AUGMENTS,Doxorubicin,Growth,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0013089,C1819464,AUGMENTS,Doxorubicin,tumor necrosis factor production,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0026187,C0042774,AUGMENTS,Minocycline,Virus Replication,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0052796,C3159140,AUGMENTS,Azithromycin,interferon production,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0054036,C0026649,AUGMENTS,Brefeldin A,Movement,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0072980,C0011065,AUGMENTS,Sirolimus,Cessation of life,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C0072980,C0042774,AUGMENTS,Sirolimus,Virus Replication,antb,orgf,2,AUGMENTS_ANTBaugmORGF
+C0072980,C1160185,AUGMENTS,Sirolimus,transduction,antb,orgf,3,AUGMENTS_ANTBaugmORGF
+C0279516,C0301872,AUGMENTS,Anti-Bacterial Agents,Immune response,antb,orgf,1,AUGMENTS_ANTBaugmORGF
+C1451406,C0011065,AUGMENTS,tulathromycin,Cessation of life,antb,orgf,1,AUGMENTS_ANTBaugmORGF

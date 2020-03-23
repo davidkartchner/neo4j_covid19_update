@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C1136254,INHIBITS,Immunologic Adjuvants,Microbicides,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0003316,C0003209,INHIBITS,Epitopes,Anti-Inflammatory Agents,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0003316,C0003280,INHIBITS,Epitopes,Anticoagulants,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0042210,C0914671,INHIBITS,Vaccines,CPG-ODN,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0042210,C1136254,INHIBITS,Vaccines,Microbicides,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0042212,C1520007,INHIBITS,"Vaccines, Inactivated",viral vector,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0042742,C1520007,INHIBITS,Viral Vaccines,viral vector,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0376613,C1520007,INHIBITS,"Vaccines, DNA",viral vector,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0591524,C0914671,INHIBITS,fluarix,CPG-ODN,imft,phsu,1,INHIBITS_IMFTinhbPHSU
+C0887892,C1520007,INHIBITS,"Vaccines, Subunit",viral vector,imft,phsu,1,INHIBITS_IMFTinhbPHSU

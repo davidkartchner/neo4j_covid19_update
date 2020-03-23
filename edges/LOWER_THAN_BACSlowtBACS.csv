@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0003320,LOWER_THAN,Antigens,Antigens,bacs,bacs,2,LOWER_THAN_BACSlowtBACS
+C0028013,C0009968,LOWER_THAN,nickel,Copper,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0032136,C0032136,LOWER_THAN,Plasmids,Plasmids,bacs,bacs,3,LOWER_THAN_BACSlowtBACS
+C0035693,C0035693,LOWER_THAN,"RNA, Double-Stranded","RNA, Double-Stranded",bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0035693,C1337053,LOWER_THAN,"RNA, Double-Stranded",pre-miRNA,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0035709,C1101610,LOWER_THAN,Small Nuclear RNA,MicroRNAs,bacs,bacs,1,LOWER_THAN_BACSlowtBACS
+C0082774,C0082774,LOWER_THAN,"RNA, Guide","RNA, Guide",bacs,bacs,1,LOWER_THAN_BACSlowtBACS

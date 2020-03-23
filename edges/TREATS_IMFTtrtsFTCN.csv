@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0439663,TREATS,Immunologic Adjuvants,Infected,imft,ftcn,1,TREATS_IMFTtrtsFTCN
+C0021403,C0439662,TREATS,Influenza virus vaccine,Immune,imft,ftcn,1,TREATS_IMFTtrtsFTCN
+C0042210,C0439662,TREATS,Vaccines,Immune,imft,ftcn,2,TREATS_IMFTtrtsFTCN
+C0042210,C0439663,TREATS,Vaccines,Infected,imft,ftcn,3,TREATS_IMFTtrtsFTCN
+C0597641,C0439663,TREATS,plasmid vaccine,Infected,imft,ftcn,1,TREATS_IMFTtrtsFTCN

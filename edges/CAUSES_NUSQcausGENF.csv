@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C0020202,CAUSES,Base Sequence,Crossbreeding,nusq,genf,1,CAUSES_NUSQcausGENF
+C0079160,C1956002,CAUSES,Consensus Sequence,INDEL Mutation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C0034865,CAUSES,Reading Frames (Nucleotide Sequence),"Recombination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C0282572,CAUSES,Reading Frames (Nucleotide Sequence),"Frameshifting, Ribosomal",nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C0017262,CAUSES,DNA Sequence,Gene Expression,nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C0020202,CAUSES,DNA Sequence,Crossbreeding,nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C0034865,CAUSES,DNA Sequence,"Recombination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0282572,CAUSES,DNA Sequence,"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0599773,CAUSES,DNA Sequence,Homologous Recombination,nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C1152412,CAUSES,DNA Sequence,RNA-directed RNA polymerase activity,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C2610186,CAUSES,DNA Sequence,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C0752046,C0002345,CAUSES,Single Nucleotide Polymorphism,Alternative Splicing,nusq,genf,1,CAUSES_NUSQcausGENF
+C0752046,C0026882,CAUSES,Single Nucleotide Polymorphism,Mutation,nusq,genf,2,CAUSES_NUSQcausGENF
+C0752046,C0032529,CAUSES,Single Nucleotide Polymorphism,Genetic Polymorphism,nusq,genf,1,CAUSES_NUSQcausGENF
+C0752046,C0525038,CAUSES,Single Nucleotide Polymorphism,Amino Acid Substitution,nusq,genf,4,CAUSES_NUSQcausGENF
+C0752046,C0599155,CAUSES,Single Nucleotide Polymorphism,Missense Mutation,nusq,genf,2,CAUSES_NUSQcausGENF
+C1512886,C1158744,CAUSES,Internal Ribosome Entry Sites,RNA modification,nusq,genf,1,CAUSES_NUSQcausGENF
+C1517336,C0040649,CAUSES,G-Quadruplexes,"Transcription, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C1517336,C1158817,CAUSES,G-Quadruplexes,viral transcription,nusq,genf,1,CAUSES_NUSQcausGENF
+C1956150,C0282572,CAUSES,Opal Stop Codon,"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C3178810,C0017262,CAUSES,Transcriptome,Gene Expression,nusq,genf,1,CAUSES_NUSQcausGENF

@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006560,C0020625,PREDISPOSES,C-reactive protein,Hyponatremia,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0021755,C0239981,PREDISPOSES,Interleukin-1,Hypoalbuminemia,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0021760,C3890735,PREDISPOSES,Interleukin-6,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0021764,C0011071,PREDISPOSES,Interleukins,Sudden death,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0040018,C0019080,PREDISPOSES,Thrombin,Hemorrhage,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0040048,C0019080,PREDISPOSES,Thromboplastin,Hemorrhage,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0072402,C0338656,PREDISPOSES,Protein-Serine-Threonine Kinases,Impaired cognition,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0079459,C0338656,PREDISPOSES,Granulocyte Colony-Stimulating Factor,Impaired cognition,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C0796392,C0019080,PREDISPOSES,bevacizumab,Hemorrhage,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C1425475,C4050171,PREDISPOSES,IFNL3 gene,Sustained Virologic Response,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C1448177,C3890735,PREDISPOSES,"TNF protein, human",Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C1522712,C0338656,PREDISPOSES,Recombinant Interferon-alpha Inducible Protein 10,Impaired cognition,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C1825598,C0750558,PREDISPOSES,IMPACT gene,Unlikely,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C2744535,C0015967,PREDISPOSES,"CD69 protein, human",Fever,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG
+C2744535,C0019080,PREDISPOSES,"CD69 protein, human",Hemorrhage,aapp,fndg,2,PREDISPOSES_AAPPpredFNDG
+C2744535,C0872084,PREDISPOSES,"CD69 protein, human",Sarcopenia,aapp,fndg,1,PREDISPOSES_AAPPpredFNDG

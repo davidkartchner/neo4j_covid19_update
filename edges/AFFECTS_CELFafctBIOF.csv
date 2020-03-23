@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0042765,AFFECTS,Autophagy,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0004391,C0220781,AFFECTS,Autophagy,Anabolism,celf,biof,18,AFFECTS_CELFafctBIOF
+C0004391,C1160638,AFFECTS,Autophagy,Viral life cycle,celf,biof,6,AFFECTS_CELFafctBIOF
+C0004391,C3157043,AFFECTS,Autophagy,energy homeostasis,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007577,C0042765,AFFECTS,Cell Adhesion,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007577,C3714634,AFFECTS,Cell Adhesion,Biological Processes,celf,biof,2,AFFECTS_CELFafctBIOF
+C0007587,C0042765,AFFECTS,Cell Death,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007587,C1160638,AFFECTS,Cell Death,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007587,C3894443,AFFECTS,Cell Death,reactive oxygen species biosynthetic process,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007605,C3820740,AFFECTS,Cell Membrane Permeability,viroporin,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007613,C1160638,AFFECTS,Cell physiology,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C0007613,C3714634,AFFECTS,Cell physiology,Biological Processes,celf,biof,3,AFFECTS_CELFafctBIOF
+C0010813,C0042765,AFFECTS,Cytokinesis,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0010813,C0220781,AFFECTS,Cytokinesis,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C0010813,C1160638,AFFECTS,Cytokinesis,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C0014139,C1721019,AFFECTS,Endocytosis,Virus Attachment,celf,biof,1,AFFECTS_CELFafctBIOF
+C0014139,C3714634,AFFECTS,Endocytosis,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C0020987,C0042765,AFFECTS,Immunocompetence,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0037083,C3714634,AFFECTS,Signal Transduction,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C0162638,C0042765,AFFECTS,Apoptosis,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0162638,C0220781,AFFECTS,Apoptosis,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C0162638,C1160638,AFFECTS,Apoptosis,Viral life cycle,celf,biof,2,AFFECTS_CELFafctBIOF
+C0162638,C3714634,AFFECTS,Apoptosis,Biological Processes,celf,biof,6,AFFECTS_CELFafctBIOF
+C0162638,C3894443,AFFECTS,Apoptosis,reactive oxygen species biosynthetic process,celf,biof,1,AFFECTS_CELFafctBIOF
+C0206431,C3714634,AFFECTS,Antigen Presentation,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C0596290,C3714634,AFFECTS,Cell Proliferation,Biological Processes,celf,biof,4,AFFECTS_CELFafctBIOF
+C0596898,C0220781,AFFECTS,membrane biogenesis,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C0597361,C0220781,AFFECTS,Receptor Mediated Endocytosis,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C0599814,C1160638,AFFECTS,Intracellular Transport,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C0599895,C3714634,AFFECTS,protein transport,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C0599952,C0042765,AFFECTS,modulation by virus of host morphology or physiology,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C0599952,C1721019,AFFECTS,modulation by virus of host morphology or physiology,Virus Attachment,celf,biof,1,AFFECTS_CELFafctBIOF
+C0678836,C3714634,AFFECTS,cell recognition,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C1154599,C0042765,AFFECTS,quorum sensing,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C1154599,C0162404,AFFECTS,quorum sensing,Bioluminescence,celf,biof,1,AFFECTS_CELFafctBIOF
+C1155229,C1327622,AFFECTS,Humoral immune response,Regulation of biological process,celf,biof,1,AFFECTS_CELFafctBIOF
+C1155982,C3714634,AFFECTS,actin filament polymerization,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C1156002,C0220781,AFFECTS,establishment of cell polarity,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1159342,C0220781,AFFECTS,Secretory Pathway,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1159762,C0220781,AFFECTS,opsonization,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1159772,C3714634,AFFECTS,intracellular protein transport,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C1160466,C0220781,AFFECTS,conjugation,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1160649,C1160638,AFFECTS,virion attachment to host cell,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C1160649,C1721020,AFFECTS,virion attachment to host cell,Virus Membrane Fusion,celf,biof,1,AFFECTS_CELFafctBIOF
+C1160698,C0220781,AFFECTS,viral budding,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1160701,C3853734,AFFECTS,viral genome replication,viral process,celf,biof,2,AFFECTS_CELFafctBIOF
+C1325881,C0042765,AFFECTS,biofilm formation,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C1326207,C0220781,AFFECTS,"Programmed Cell Death, Type II",Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1326292,C1160638,AFFECTS,pore complex assembly,Viral life cycle,celf,biof,1,AFFECTS_CELFafctBIOF
+C1511632,C1327622,AFFECTS,Cytoskeletal Modeling,Regulation of biological process,celf,biof,1,AFFECTS_CELFafctBIOF
+C1515126,C0220781,AFFECTS,T-Cell Development,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1516022,C0220781,AFFECTS,Antimicrobial Effect,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1516334,C0220781,AFFECTS,Cell Cycle Progression,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1524026,C0220781,AFFECTS,"Metabolic Process, Cellular",Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1622501,C3714634,AFFECTS,"Migration, Cell",Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C1656379,C0220781,AFFECTS,actin bundling,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C1660642,C3714634,AFFECTS,cellular localization,Biological Processes,celf,biof,1,AFFECTS_CELFafctBIOF
+C1752904,C1721019,AFFECTS,plasma membrane fusion,Virus Attachment,celf,biof,1,AFFECTS_CELFafctBIOF
+C2610474,C3853734,AFFECTS,type I interferon signaling pathway,viral process,celf,biof,1,AFFECTS_CELFafctBIOF
+C3269125,C0220781,AFFECTS,ruffle assembly,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C3271951,C0220781,AFFECTS,macropinocytosis,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF
+C3825288,C0042765,AFFECTS,Cellular signal transduction,Virulence,celf,biof,1,AFFECTS_CELFafctBIOF
+C4235382,C0232478,AFFECTS,cellular detoxification,Ingestion,celf,biof,1,AFFECTS_CELFafctBIOF
+C4326906,C0220781,AFFECTS,membrane curvature,Anabolism,celf,biof,2,AFFECTS_CELFafctBIOF
+C4329131,C0220781,AFFECTS,cilium assembly,Anabolism,celf,biof,1,AFFECTS_CELFafctBIOF

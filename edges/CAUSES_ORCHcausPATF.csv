@@ -1,0 +1,130 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000294,C0002792,CAUSES,Mesna,anaphylaxis,orch,patf,1,CAUSES_ORCHcausPATF
+C0000970,C0020517,CAUSES,Acetaminophen,Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0000970,C0151763,CAUSES,Acetaminophen,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C0000983,C0015376,CAUSES,Acetic Acid,Extravasation,orch,patf,1,CAUSES_ORCHcausPATF
+C0000983,C0041582,CAUSES,Acetic Acid,Ulcer,orch,patf,1,CAUSES_ORCHcausPATF
+C0001159,C0003811,CAUSES,Aconitine,Cardiac Arrhythmia,orch,patf,1,CAUSES_ORCHcausPATF
+C0001962,C1155266,CAUSES,Ethanol,inflammatory response,orch,patf,1,CAUSES_ORCHcausPATF
+C0002598,C0152254,CAUSES,Amiodarone,Fatty degeneration,orch,patf,1,CAUSES_ORCHcausPATF
+C0002598,C0348024,CAUSES,Amiodarone,Thyroid dysfunction,orch,patf,1,CAUSES_ORCHcausPATF
+C0003968,C0151763,CAUSES,Ascorbic Acid,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C0004057,C0020523,CAUSES,Aspirin,Immediate hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0006469,C1519697,CAUSES,Butadiene,Tumorigenicity,orch,patf,1,CAUSES_ORCHcausPATF
+C0008269,C0012359,CAUSES,Chloroquine,Pathological Dilatation,orch,patf,1,CAUSES_ORCHcausPATF
+C0008286,C0006114,CAUSES,Chlorpromazine,Cerebral Edema,orch,patf,1,CAUSES_ORCHcausPATF
+C0008286,C1527348,CAUSES,Chlorpromazine,Brain Hypoxia,orch,patf,1,CAUSES_ORCHcausPATF
+C0010460,C0011304,CAUSES,Cuprizone,Demyelination,orch,patf,41,CAUSES_ORCHcausPATF
+C0010460,C3887640,CAUSES,Cuprizone,Astrocytosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0010583,C0002792,CAUSES,Cyclophosphamide,anaphylaxis,orch,patf,1,CAUSES_ORCHcausPATF
+C0010583,C0024348,CAUSES,Cyclophosphamide,Lysis,orch,patf,1,CAUSES_ORCHcausPATF
+C0011816,C0029445,CAUSES,Dextromethorphan,Bone necrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0012459,C0162351,CAUSES,Dinitrobenzenes,Contact hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0012460,C0020517,CAUSES,Dinitrochlorobenzene,Hypersensitivity,orch,patf,2,CAUSES_ORCHcausPATF
+C0014963,C0026766,CAUSES,Ethacrynic Acid,Multiple Organ Failure,orch,patf,1,CAUSES_ORCHcausPATF
+C0014963,C0036974,CAUSES,Ethacrynic Acid,Shock,orch,patf,1,CAUSES_ORCHcausPATF
+C0015688,C0021655,CAUSES,Nonesterified Fatty Acids,Insulin Resistance,orch,patf,2,CAUSES_ORCHcausPATF
+C0015688,C0152254,CAUSES,Nonesterified Fatty Acids,Fatty degeneration,orch,patf,3,CAUSES_ORCHcausPATF
+C0015688,C0333574,CAUSES,Nonesterified Fatty Acids,Fatty deposition,orch,patf,9,CAUSES_ORCHcausPATF
+C0016229,C0085612,CAUSES,Flecainide,Ventricular arrhythmia,orch,patf,1,CAUSES_ORCHcausPATF
+C0016380,C0020517,CAUSES,Flurothyl,Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0017977,C0333574,CAUSES,Glycosides,Fatty deposition,orch,patf,1,CAUSES_ORCHcausPATF
+C0019873,C0011304,CAUSES,Ethidium Bromide,Demyelination,orch,patf,2,CAUSES_ORCHcausPATF
+C0020402,C0020517,CAUSES,hydroxyurea,Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0022239,C1510411,CAUSES,Isopropyl Thiogalactoside,metaplastic cell transformation,orch,patf,1,CAUSES_ORCHcausPATF
+C0022245,C0016059,CAUSES,Isoproterenol,Fibrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0022245,C0151654,CAUSES,Isoproterenol,Myocardial fibrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0022245,C1383860,CAUSES,Isoproterenol,Cardiac Hypertrophy,orch,patf,4,CAUSES_ORCHcausPATF
+C0022471,C0003130,CAUSES,Kainic Acid,Anoxia,orch,patf,1,CAUSES_ORCHcausPATF
+C0023776,C0151763,CAUSES,Lipid Peroxides,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C0023779,C0021368,CAUSES,Lipids,Inflammation,orch,patf,2,CAUSES_ORCHcausPATF
+C0023779,C0553697,CAUSES,Lipids,Granulomatous inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0011304,CAUSES,Lipopolysaccharides,Demyelination,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0015376,CAUSES,Lipopolysaccharides,Extravasation,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0021368,CAUSES,Lipopolysaccharides,Inflammation,orch,patf,46,CAUSES_ORCHcausPATF
+C0023810,C0021376,CAUSES,Lipopolysaccharides,Chronic inflammation,orch,patf,6,CAUSES_ORCHcausPATF
+C0023810,C0029445,CAUSES,Lipopolysaccharides,Bone necrosis,orch,patf,2,CAUSES_ORCHcausPATF
+C0023810,C0036974,CAUSES,Lipopolysaccharides,Shock,orch,patf,3,CAUSES_ORCHcausPATF
+C0023810,C0036983,CAUSES,Lipopolysaccharides,Septic Shock,orch,patf,3,CAUSES_ORCHcausPATF
+C0023810,C0085605,CAUSES,Lipopolysaccharides,Liver Failure,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0151701,CAUSES,Lipopolysaccharides,Pulmonary hemorrhage,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0151763,CAUSES,Lipopolysaccharides,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0281169,CAUSES,Lipopolysaccharides,pulmonary complications,orch,patf,2,CAUSES_ORCHcausPATF
+C0023810,C0302158,CAUSES,Lipopolysaccharides,Leucocytic infiltrate,orch,patf,1,CAUSES_ORCHcausPATF
+C0023810,C0332448,CAUSES,Lipopolysaccharides,Infiltration,orch,patf,2,CAUSES_ORCHcausPATF
+C0023810,C1155266,CAUSES,Lipopolysaccharides,inflammatory response,orch,patf,23,CAUSES_ORCHcausPATF
+C0023810,C1398094,CAUSES,Lipopolysaccharides,induced; birth,orch,patf,2,CAUSES_ORCHcausPATF
+C0023810,C1817978,CAUSES,Lipopolysaccharides,acute inflammatory response,orch,patf,2,CAUSES_ORCHcausPATF
+C0023810,C3714514,CAUSES,Lipopolysaccharides,Infection,orch,patf,1,CAUSES_ORCHcausPATF
+C0024360,C0011304,CAUSES,Lysophosphatidylcholines,Demyelination,orch,patf,4,CAUSES_ORCHcausPATF
+C0024730,C3825727,CAUSES,Mannitol,Respiratory allergy,orch,patf,1,CAUSES_ORCHcausPATF
+C0025872,C3658208,CAUSES,Metronidazole,Dysbiosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0026056,C0003578,CAUSES,Midazolam,Apnea,orch,patf,1,CAUSES_ORCHcausPATF
+C0026259,C0231170,CAUSES,Mitoxantrone,Disability,orch,patf,1,CAUSES_ORCHcausPATF
+C0028908,C0013604,CAUSES,Oils,Edema,orch,patf,1,CAUSES_ORCHcausPATF
+C0028908,C0553697,CAUSES,Oils,Granulomatous inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0028910,C0015376,CAUSES,"Oils, Volatile",Extravasation,orch,patf,1,CAUSES_ORCHcausPATF
+C0028910,C0020517,CAUSES,"Oils, Volatile",Hypersensitivity,orch,patf,2,CAUSES_ORCHcausPATF
+C0030005,C0020522,CAUSES,Oxazolone,Delayed Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0031412,C0020517,CAUSES,Phenobarbital,Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0031412,C2830448,CAUSES,Phenobarbital,Drug induced fever,orch,patf,2,CAUSES_ORCHcausPATF
+C0032594,C0021368,CAUSES,Polysaccharides,Inflammation,orch,patf,2,CAUSES_ORCHcausPATF
+C0032594,C1155266,CAUSES,Polysaccharides,inflammatory response,orch,patf,2,CAUSES_ORCHcausPATF
+C0032857,C0348024,CAUSES,Povidone-Iodine,Thyroid dysfunction,orch,patf,1,CAUSES_ORCHcausPATF
+C0036189,C0151763,CAUSES,Saponins,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C0038317,C0029445,CAUSES,Steroids,Bone necrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0041066,C0021368,CAUSES,Trinitrobenzenesulfonic Acid,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0041066,C3658208,CAUSES,Trinitrobenzenesulfonic Acid,Dysbiosis,orch,patf,1,CAUSES_ORCHcausPATF
+C0042679,C0595938,CAUSES,Vincristine,effect increased,orch,patf,1,CAUSES_ORCHcausPATF
+C0043367,C0013604,CAUSES,Xylene,Edema,orch,patf,1,CAUSES_ORCHcausPATF
+C0052794,C1527304,CAUSES,aziridine,Allergic Reaction,orch,patf,1,CAUSES_ORCHcausPATF
+C0055897,C0003811,CAUSES,clobutinol,Cardiac Arrhythmia,orch,patf,1,CAUSES_ORCHcausPATF
+C0056237,C0595938,CAUSES,conessine,effect increased,orch,patf,1,CAUSES_ORCHcausPATF
+C0066776,C0021368,CAUSES,monophosphoryl lipid A,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0068788,C0401151,CAUSES,nitazoxanide,Chronic diarrhea,orch,patf,1,CAUSES_ORCHcausPATF
+C0072231,C1527304,CAUSES,propyleneimine,Allergic Reaction,orch,patf,1,CAUSES_ORCHcausPATF
+C0072422,C0013604,CAUSES,proteoliposomes,Edema,orch,patf,1,CAUSES_ORCHcausPATF
+C0073591,C0016059,CAUSES,rosoxacin,Fibrosis,orch,patf,2,CAUSES_ORCHcausPATF
+C0073591,C0021368,CAUSES,rosoxacin,Inflammation,orch,patf,4,CAUSES_ORCHcausPATF
+C0073591,C0028778,CAUSES,rosoxacin,Obstruction,orch,patf,1,CAUSES_ORCHcausPATF
+C0073591,C0030660,CAUSES,rosoxacin,Pathologic Processes,orch,patf,2,CAUSES_ORCHcausPATF
+C0074992,C0021368,CAUSES,sphingosine 1-phosphate,Inflammation,orch,patf,2,CAUSES_ORCHcausPATF
+C0074992,C3714514,CAUSES,sphingosine 1-phosphate,Infection,orch,patf,2,CAUSES_ORCHcausPATF
+C0079225,C0021368,CAUSES,Dextran Sulfate Sodium,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0126174,C0020564,CAUSES,Losartan,Hypertrophy,orch,patf,1,CAUSES_ORCHcausPATF
+C0142812,C0024348,CAUSES,Sodium Butyrate,Lysis,orch,patf,2,CAUSES_ORCHcausPATF
+C0142825,C0036679,CAUSES,sodium citrate,Diastasis,orch,patf,1,CAUSES_ORCHcausPATF
+C0142831,C1155266,CAUSES,sodium dehydroacetate,inflammatory response,orch,patf,1,CAUSES_ORCHcausPATF
+C0144576,C0002792,CAUSES,Paclitaxel,anaphylaxis,orch,patf,1,CAUSES_ORCHcausPATF
+C0146951,C0004372,CAUSES,Triton X-100,Autolysis,orch,patf,1,CAUSES_ORCHcausPATF
+C0165032,C0021368,CAUSES,imiquimod,Inflammation,orch,patf,2,CAUSES_ORCHcausPATF
+C0253767,C0021368,CAUSES,TiterMax,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0289313,C0021368,CAUSES,rosiglitazone,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0301363,C0332448,CAUSES,5-Trimethoxyamphetamine,Infiltration,orch,patf,1,CAUSES_ORCHcausPATF
+C0376637,C0021368,CAUSES,Indinavir,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0526058,C0002792,CAUSES,pranlukast,anaphylaxis,orch,patf,1,CAUSES_ORCHcausPATF
+C0596577,C0021368,CAUSES,Flavonoids,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C0600370,C0035228,CAUSES,Methacholine,Respiratory Hypersensitivity,orch,patf,1,CAUSES_ORCHcausPATF
+C0608663,C0333467,CAUSES,P-2,Cytopathic effect,orch,patf,1,CAUSES_ORCHcausPATF
+C0672708,C0024348,CAUSES,Vorinostat,Lysis,orch,patf,1,CAUSES_ORCHcausPATF
+C0721062,C0015927,CAUSES,InFed,Fetal Death,orch,patf,2,CAUSES_ORCHcausPATF
+C0733688,C0002792,CAUSES,VP-16,anaphylaxis,orch,patf,1,CAUSES_ORCHcausPATF
+C0771683,C0021368,CAUSES,undecan-2-one,Inflammation,orch,patf,6,CAUSES_ORCHcausPATF
+C0935989,C0281169,CAUSES,imatinib,pulmonary complications,orch,patf,1,CAUSES_ORCHcausPATF
+C0994472,C0151763,CAUSES,dl-alpha tocopheryl acetate,Liver damage,orch,patf,1,CAUSES_ORCHcausPATF
+C1122962,C0021368,CAUSES,gefitinib,Inflammation,orch,patf,1,CAUSES_ORCHcausPATF
+C1609342,C0231176,CAUSES,PAMAM dendrimer,Acute failure,orch,patf,1,CAUSES_ORCHcausPATF
+C1676720,C1155266,CAUSES,yu ping feng san,inflammatory response,orch,patf,1,CAUSES_ORCHcausPATF
+C1742818,C0011304,CAUSES,NSC-87877,Demyelination,orch,patf,1,CAUSES_ORCHcausPATF
+C1742818,C0028778,CAUSES,NSC-87877,Obstruction,orch,patf,1,CAUSES_ORCHcausPATF
+C1875730,C0151746,CAUSES,RINGER'S,Abnormal renal function,orch,patf,1,CAUSES_ORCHcausPATF
+C2714699,C4061114,CAUSES,Ingavirin,Acute illness,orch,patf,1,CAUSES_ORCHcausPATF
+C2728259,C0016059,CAUSES,Program,Fibrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C2728259,C0036679,CAUSES,Program,Diastasis,orch,patf,2,CAUSES_ORCHcausPATF
+C2728259,C0036974,CAUSES,Program,Shock,orch,patf,1,CAUSES_ORCHcausPATF
+C2926735,C3714514,CAUSES,Duration,Infection,orch,patf,1,CAUSES_ORCHcausPATF
+C2926735,C4061114,CAUSES,Duration,Acute illness,orch,patf,1,CAUSES_ORCHcausPATF
+C2948167,C3714514,CAUSES,Renown,Infection,orch,patf,1,CAUSES_ORCHcausPATF
+C2962221,C0149721,CAUSES,TAC,Left Ventricular Hypertrophy,orch,patf,1,CAUSES_ORCHcausPATF
+C4050026,C0016059,CAUSES,Matrix,Fibrosis,orch,patf,1,CAUSES_ORCHcausPATF
+C4050026,C3714514,CAUSES,Matrix,Infection,orch,patf,1,CAUSES_ORCHcausPATF

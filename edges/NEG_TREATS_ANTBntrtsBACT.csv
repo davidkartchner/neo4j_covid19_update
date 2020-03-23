@@ -1,0 +1,63 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0006132,NEG_TREATS,Amoxicillin,Moraxella (Branhamella) catarrhalis,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0002680,C0004611,NEG_TREATS,Ampicillin,Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0002680,C0014834,NEG_TREATS,Ampicillin,Escherichia coli,antb,bact,3,NEG_TREATS_ANTBntrtsBACT
+C0002680,C0036953,NEG_TREATS,Ampicillin,Shigella,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0003232,C0004611,NEG_TREATS,Antibiotics,Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0003240,C0004611,NEG_TREATS,Macrolide Antibiotics,Bacteria,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0003240,C0018483,NEG_TREATS,Macrolide Antibiotics,Haemophilus influenzae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0003240,C0038411,NEG_TREATS,Macrolide Antibiotics,Streptococcus pyogenes,antb,bact,3,NEG_TREATS_ANTBntrtsBACT
+C0003240,C0579233,NEG_TREATS,Macrolide Antibiotics,Streptococcus agalactiae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0006968,C0004611,NEG_TREATS,Carbapenems,Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0006968,C0014834,NEG_TREATS,Carbapenems,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0006968,C0033809,NEG_TREATS,Carbapenems,Pseudomonas aeruginosa,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0007554,C1444096,NEG_TREATS,Cefotaxime,ESBL,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0007561,C0014834,NEG_TREATS,Ceftriaxone,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0007735,C0014834,NEG_TREATS,Cephalothin,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0008168,C0036957,NEG_TREATS,Chloramphenicol,Shigella flexneri,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0008947,C0038411,NEG_TREATS,Clindamycin,Streptococcus pyogenes,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0014806,C0004611,NEG_TREATS,Erythromycin,Bacteria,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0014806,C0038410,NEG_TREATS,Erythromycin,Streptococcus pneumoniae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0014806,C0038411,NEG_TREATS,Erythromycin,Streptococcus pyogenes,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0022914,C0026934,NEG_TREATS,Lactams,Mycoplasma,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0022914,C0038410,NEG_TREATS,Lactams,Streptococcus pneumoniae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0022914,C0085464,NEG_TREATS,Lactams,Bordetella bronchiseptica,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0022914,C0085467,NEG_TREATS,Lactams,Acinetobacter calcoaceticus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0022914,C1086360,NEG_TREATS,Lactams,Chlamydophila felis,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0025643,C0038172,NEG_TREATS,Methicillin,Staphylococcus aureus,antb,bact,3,NEG_TREATS_ANTBntrtsBACT
+C0025643,C1265292,NEG_TREATS,Methicillin,Methicillin-Resistant Staphylococcus aureus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0026458,C0004611,NEG_TREATS,Monobactams,Bacteria,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0026458,C0014346,NEG_TREATS,Monobactams,Enterobacteriaceae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0026458,C0026941,NEG_TREATS,Monobactams,Mycoplasma pneumoniae,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0026458,C0038172,NEG_TREATS,Monobactams,Staphylococcus aureus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0028458,C0025966,NEG_TREATS,Novobiocin,Micrococcus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0028902,C0038410,NEG_TREATS,Ofloxacin,Streptococcus pneumoniae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0029983,C0038172,NEG_TREATS,Oxacillin,Staphylococcus aureus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0030827,C0038410,NEG_TREATS,Penicillin G,Streptococcus pneumoniae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0030842,C0004611,NEG_TREATS,Penicillins,Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0030842,C0014834,NEG_TREATS,Penicillins,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0030842,C0036111,NEG_TREATS,Penicillins,Salmonella,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0030842,C0038172,NEG_TREATS,Penicillins,Staphylococcus aureus,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0030842,C0038410,NEG_TREATS,Penicillins,Streptococcus pneumoniae,antb,bact,6,NEG_TREATS_ANTBntrtsBACT
+C0031955,C0014346,NEG_TREATS,Piperacillin,Enterobacteriaceae,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0031955,C0033809,NEG_TREATS,Piperacillin,Pseudomonas aeruginosa,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0031955,C0085467,NEG_TREATS,Piperacillin,Acinetobacter calcoaceticus,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0031955,C0085484,NEG_TREATS,Piperacillin,Enterobacter cloacae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0038425,C0036957,NEG_TREATS,Streptomycin,Shigella flexneri,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0039644,C0014834,NEG_TREATS,Tetracycline,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0039644,C0036957,NEG_TREATS,Tetracycline,Shigella flexneri,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0039644,C0038402,NEG_TREATS,Tetracycline,Streptococcus,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0054066,C0004611,NEG_TREATS,Amoxicillin / Clavulanate,Bacteria,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0054066,C0022727,NEG_TREATS,Amoxicillin / Clavulanate,Klebsiella,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0054066,C0026934,NEG_TREATS,Amoxicillin / Clavulanate,Mycoplasma,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0059374,C0004611,NEG_TREATS,enrofloxacin,Bacteria,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C0066005,C0033809,NEG_TREATS,meropenem,Pseudomonas aeruginosa,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0250480,C0004611,NEG_TREATS,piperacillin-tazobactam combination,Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0304320,C0001699,NEG_TREATS,Third generation cephalosporin,Klebsiella pneumoniae,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C0304320,C0014834,NEG_TREATS,Third generation cephalosporin,Escherichia coli,antb,bact,3,NEG_TREATS_ANTBntrtsBACT
+C0304320,C0085484,NEG_TREATS,Third generation cephalosporin,Enterobacter cloacae,antb,bact,2,NEG_TREATS_ANTBntrtsBACT
+C3536856,C0001138,NEG_TREATS,Cephalosporins,Acinetobacter,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C3536856,C0036111,NEG_TREATS,Cephalosporins,Salmonella,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C3536856,C0314752,NEG_TREATS,Cephalosporins,Gram-negative bacillus,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C3854019,C0014834,NEG_TREATS,Gentamicin,Escherichia coli,antb,bact,1,NEG_TREATS_ANTBntrtsBACT
+C3854019,C0018150,NEG_TREATS,Gentamicin,Gram-Negative Bacteria,antb,bact,1,NEG_TREATS_ANTBntrtsBACT

@@ -1,0 +1,119 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C1155046,AFFECTS,"Administration, Oral",T-Cell Proliferation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0001563,C1817908,AFFECTS,"Administration, Oral",Cellular Immune Response,topp,celf,1,AFFECTS_TOPPafctCELF
+C0009429,C0162638,AFFECTS,Combined Modality Therapy,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0009429,C2610947,AFFECTS,Combined Modality Therapy,mucus secretion,topp,celf,1,AFFECTS_TOPPafctCELF
+C0013216,C0007587,AFFECTS,Pharmacotherapy,Cell Death,topp,celf,1,AFFECTS_TOPPafctCELF
+C0013216,C0007613,AFFECTS,Pharmacotherapy,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0013216,C0007620,AFFECTS,Pharmacotherapy,Cell Survival,topp,celf,2,AFFECTS_TOPPafctCELF
+C0013216,C0037083,AFFECTS,Pharmacotherapy,Signal Transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0013216,C0086982,AFFECTS,Pharmacotherapy,Signal Transduction Pathways,topp,celf,2,AFFECTS_TOPPafctCELF
+C0013216,C0162638,AFFECTS,Pharmacotherapy,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0013806,C1523936,AFFECTS,Electroconvulsive Therapy,cellular biosynthetic process,topp,celf,1,AFFECTS_TOPPafctCELF
+C0017296,C1155342,AFFECTS,gene therapy,cellular response to unfolded protein,topp,celf,1,AFFECTS_TOPPafctCELF
+C0017296,C1156246,AFFECTS,gene therapy,filamentous growth,topp,celf,1,AFFECTS_TOPPafctCELF
+C0017296,C1160716,AFFECTS,gene therapy,viral transmission,topp,celf,1,AFFECTS_TOPPafctCELF
+C0017296,C3546309,AFFECTS,gene therapy,activation-induced cell death,topp,celf,1,AFFECTS_TOPPafctCELF
+C0020944,C1159762,AFFECTS,Immobilization,opsonization,topp,celf,1,AFFECTS_TOPPafctCELF
+C0020971,C0003261,AFFECTS,Immunization,Antibody Formation,topp,celf,5,AFFECTS_TOPPafctCELF
+C0020971,C1817908,AFFECTS,Immunization,Cellular Immune Response,topp,celf,1,AFFECTS_TOPPafctCELF
+C0020975,C0003261,AFFECTS,Secondary Immunization,Antibody Formation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0021107,C0010813,AFFECTS,Implantation procedure,Cytokinesis,topp,celf,2,AFFECTS_TOPPafctCELF
+C0021107,C0596897,AFFECTS,Implantation procedure,membrane activity,topp,celf,1,AFFECTS_TOPPafctCELF
+C0021107,C0887839,AFFECTS,Implantation procedure,Nuclear Import,topp,celf,1,AFFECTS_TOPPafctCELF
+C0021485,C1160716,AFFECTS,Injection of therapeutic agent,viral transmission,topp,celf,1,AFFECTS_TOPPafctCELF
+C0021489,C1327616,AFFECTS,intradermal injection,Cell secretion,topp,celf,1,AFFECTS_TOPPafctCELF
+C0023690,C0007577,AFFECTS,Ligation,Cell Adhesion,topp,celf,1,AFFECTS_TOPPafctCELF
+C0023690,C1155065,AFFECTS,Ligation,T-Cell Activation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0023690,C3825288,AFFECTS,Ligation,Cellular signal transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0025991,C0015283,AFFECTS,Microinjections,Exocytosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0040732,C0004391,AFFECTS,Transplantation,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0040808,C0003272,AFFECTS,Treatment Protocols,Antibody-Dependent Cellular Cytotoxicity,topp,celf,1,AFFECTS_TOPPafctCELF
+C0040808,C1257986,AFFECTS,Treatment Protocols,Cross-Presentation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C0003261,AFFECTS,Vaccination,Antibody Formation,topp,celf,2,AFFECTS_TOPPafctCELF
+C0042196,C0007587,AFFECTS,Vaccination,Cell Death,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C0007613,AFFECTS,Vaccination,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C0031308,AFFECTS,Vaccination,Phagocytosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C0041904,AFFECTS,Vaccination,Up-Regulation (Physiology),topp,celf,2,AFFECTS_TOPPafctCELF
+C0042196,C0206431,AFFECTS,Vaccination,Antigen Presentation,topp,celf,2,AFFECTS_TOPPafctCELF
+C0042196,C0596873,AFFECTS,Vaccination,lymphocyte proliferation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C1155041,AFFECTS,Vaccination,regulatory T cell differentiation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C1160716,AFFECTS,Vaccination,viral transmission,topp,celf,2,AFFECTS_TOPPafctCELF
+C0042196,C1318468,AFFECTS,Vaccination,cell mediated immune response,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C1516375,AFFECTS,Vaccination,Cellular Tropism,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042196,C1817908,AFFECTS,Vaccination,Cellular Immune Response,topp,celf,3,AFFECTS_TOPPafctCELF
+C0042200,C0003261,AFFECTS,Influenza vaccination,Antibody Formation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042200,C1155064,AFFECTS,Influenza vaccination,NK Cell Activation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0042200,C1817908,AFFECTS,Influenza vaccination,Cellular Immune Response,topp,celf,1,AFFECTS_TOPPafctCELF
+C0052712,C0003261,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Antibody Formation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0056633,C0004391,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0057163,C3157011,AFFECTS,DAV regimen,phagosome acidification,topp,celf,1,AFFECTS_TOPPafctCELF
+C0065764,C0037083,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Signal Transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0065764,C1160716,AFFECTS,bleomycin/cisplatin/methotrexate protocol,viral transmission,topp,celf,1,AFFECTS_TOPPafctCELF
+C0079613,C0013081,AFFECTS,Adoptive Immunotherapy,Down-Regulation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0079613,C1155874,AFFECTS,Adoptive Immunotherapy,Cell Cycle Checkpoints,topp,celf,1,AFFECTS_TOPPafctCELF
+C0079613,C1157569,AFFECTS,Adoptive Immunotherapy,viral translation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0079613,C2611812,AFFECTS,Adoptive Immunotherapy,signaling cascade,topp,celf,1,AFFECTS_TOPPafctCELF
+C0079613,C4245966,AFFECTS,Adoptive Immunotherapy,Cell restriction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0149783,C1155042,AFFECTS,Steroid therapy,T-helper cell differentiation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0152060,C0004391,AFFECTS,Transection (procedure),Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0152060,C2611812,AFFECTS,Transection (procedure),signaling cascade,topp,celf,1,AFFECTS_TOPPafctCELF
+C0152060,C2754100,AFFECTS,Transection (procedure),neuron death,topp,celf,1,AFFECTS_TOPPafctCELF
+C0184967,C0010813,AFFECTS,Insertion of pack (procedure),Cytokinesis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185026,C2755524,AFFECTS,Plication,ER exit,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185026,C3825288,AFFECTS,Plication,Cellular signal transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185027,C0004391,AFFECTS,Imbrication (procedure),Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185027,C0007620,AFFECTS,Imbrication (procedure),Cell Survival,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185115,C0004391,AFFECTS,Extraction,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185115,C0010813,AFFECTS,Extraction,Cytokinesis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185115,C1155229,AFFECTS,Extraction,Humoral immune response,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185115,C3825288,AFFECTS,Extraction,Cellular signal transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0185117,C0037083,AFFECTS,Expression procedure,Signal Transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0199176,C0004391,AFFECTS,Prophylactic treatment,Autophagy,topp,celf,2,AFFECTS_TOPPafctCELF
+C0199176,C0010813,AFFECTS,Prophylactic treatment,Cytokinesis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0199176,C0162638,AFFECTS,Prophylactic treatment,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0199779,C0007613,AFFECTS,Administration of antibiotic,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0204727,C0007620,AFFECTS,Isolation procedure,Cell Survival,topp,celf,1,AFFECTS_TOPPafctCELF
+C0204727,C1160716,AFFECTS,Isolation procedure,viral transmission,topp,celf,2,AFFECTS_TOPPafctCELF
+C0281318,C0004391,AFFECTS,antiangiogenesis therapy,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0281318,C0013081,AFFECTS,antiangiogenesis therapy,Down-Regulation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0376518,C0312860,AFFECTS,Adoptive Transfer,"Neutrophil migration, function",topp,celf,1,AFFECTS_TOPPafctCELF
+C0393005,C0086982,AFFECTS,chlorodihydroxypyridine/potassium oxonate/tegafur,Signal Transduction Pathways,topp,celf,1,AFFECTS_TOPPafctCELF
+C0439775,C0037083,AFFECTS,Elevation procedure,Signal Transduction,topp,celf,1,AFFECTS_TOPPafctCELF
+C0441509,C0206430,AFFECTS,Coagulation procedure,Antigen Processing,topp,celf,1,AFFECTS_TOPPafctCELF
+C0520251,C0004391,AFFECTS,Multiple interventional procedures,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0520484,C3156665,AFFECTS,Xenograft procedure,interleukin-6 secretion,topp,celf,1,AFFECTS_TOPPafctCELF
+C0547070,C1155065,AFFECTS,Ablation,T-Cell Activation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0547070,C1155342,AFFECTS,Ablation,cellular response to unfolded protein,topp,celf,2,AFFECTS_TOPPafctCELF
+C0547070,C1326230,AFFECTS,Ablation,T cell homeostasis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0581602,C0007613,AFFECTS,Structural modification,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0581602,C0010813,AFFECTS,Structural modification,Cytokinesis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0597750,C0007613,AFFECTS,antigen challenge,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0597750,C0596873,AFFECTS,antigen challenge,lymphocyte proliferation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0597815,C0162638,AFFECTS,crystal healing,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0600080,C0162585,AFFECTS,Stretching exercises,Ion Transport,topp,celf,1,AFFECTS_TOPPafctCELF
+C0695434,C0007613,AFFECTS,oscillations,Cell physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C0745343,C0004391,AFFECTS,insulin treatment,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C0808232,C1160466,AFFECTS,Therapeutic Intervention,conjugation,topp,celf,1,AFFECTS_TOPPafctCELF
+C0920425,C0162638,AFFECTS,cancer therapy,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C0947647,C0887840,AFFECTS,Manipulation procedure,Nuclear Export,topp,celf,1,AFFECTS_TOPPafctCELF
+C0947647,C1155873,AFFECTS,Manipulation procedure,Cell Cycle Arrest,topp,celf,1,AFFECTS_TOPPafctCELF
+C0947647,C1516375,AFFECTS,Manipulation procedure,Cellular Tropism,topp,celf,1,AFFECTS_TOPPafctCELF
+C1261381,C0007577,AFFECTS,Destructive procedure (surgical),Cell Adhesion,topp,celf,1,AFFECTS_TOPPafctCELF
+C1261381,C0007595,AFFECTS,Destructive procedure (surgical),cell growth,topp,celf,1,AFFECTS_TOPPafctCELF
+C1261381,C0162638,AFFECTS,Destructive procedure (surgical),Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C1273412,C0004391,AFFECTS,Chinese herbal medicine,Autophagy,topp,celf,2,AFFECTS_TOPPafctCELF
+C1293130,C0004391,AFFECTS,Stabilization,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C1293130,C0007587,AFFECTS,Stabilization,Cell Death,topp,celf,3,AFFECTS_TOPPafctCELF
+C1293130,C0162638,AFFECTS,Stabilization,Apoptosis,topp,celf,1,AFFECTS_TOPPafctCELF
+C1293130,C0596290,AFFECTS,Stabilization,Cell Proliferation,topp,celf,2,AFFECTS_TOPPafctCELF
+C1293132,C0007595,AFFECTS,Anchoring procedure,cell growth,topp,celf,1,AFFECTS_TOPPafctCELF
+C1511790,C0004391,AFFECTS,Detection,Autophagy,topp,celf,1,AFFECTS_TOPPafctCELF
+C1511790,C0206431,AFFECTS,Detection,Antigen Presentation,topp,celf,1,AFFECTS_TOPPafctCELF
+C1511790,C0599952,AFFECTS,Detection,modulation by virus of host morphology or physiology,topp,celf,1,AFFECTS_TOPPafctCELF
+C1511790,C1156309,AFFECTS,Detection,syncytium formation by plasma membrane fusion,topp,celf,1,AFFECTS_TOPPafctCELF
+C1511790,C1160716,AFFECTS,Detection,viral transmission,topp,celf,1,AFFECTS_TOPPafctCELF
+C1515884,C0004391,AFFECTS,Acupuncture and Oriental Medicine,Autophagy,topp,celf,3,AFFECTS_TOPPafctCELF
+C1571809,C1160701,AFFECTS,Visceral manipulation,viral genome replication,topp,celf,2,AFFECTS_TOPPafctCELF
+C1708063,C0007587,AFFECTS,First line treatment,Cell Death,topp,celf,1,AFFECTS_TOPPafctCELF
+C3871222,C0007620,AFFECTS,Radiation treatment,Cell Survival,topp,celf,1,AFFECTS_TOPPafctCELF

@@ -1,0 +1,565 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004461,C1157223,LOCATION_OF,Axon,ATP biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007592,C1149818,LOCATION_OF,Cell Extracts,acetylesterase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007592,C1150130,LOCATION_OF,Cell Extracts,caspase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007592,C1150133,LOCATION_OF,Cell Extracts,caspase-6 activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C0025246,LOCATION_OF,Plasma membrane,Membrane Fusion,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0007603,C0031715,LOCATION_OF,Plasma membrane,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C0033666,LOCATION_OF,Plasma membrane,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C0243102,LOCATION_OF,Plasma membrane,enzyme activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C0301641,LOCATION_OF,Plasma membrane,Macromolecular alteration,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0007603,C0597304,LOCATION_OF,Plasma membrane,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C0597879,LOCATION_OF,Plasma membrane,immunoreactivity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0007603,C0872079,LOCATION_OF,Plasma membrane,protein protein interaction,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0007603,C1148642,LOCATION_OF,Plasma membrane,Phospholipid Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1149024,LOCATION_OF,Plasma membrane,sodium/potassium-exchanging ATPase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1153415,LOCATION_OF,Plasma membrane,ion channel activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0007603,C1157377,LOCATION_OF,Plasma membrane,phospholipid biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1328948,LOCATION_OF,Plasma membrane,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1510699,LOCATION_OF,Plasma membrane,ATP Hydrolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1512301,LOCATION_OF,Plasma membrane,HIV Budding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0007603,C1513112,LOCATION_OF,Plasma membrane,Membrane Protein Traffic,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1514762,LOCATION_OF,Plasma membrane,Receptor Signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C1519751,LOCATION_OF,Plasma membrane,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007603,C2247725,LOCATION_OF,Plasma membrane,toll-like receptor 4 signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007610,C0031715,LOCATION_OF,Cell Nucleus,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007623,C1510811,LOCATION_OF,Cell Wall,Adjuvanticity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007623,C1721101,LOCATION_OF,Cell Wall,Biosynthetic Pathways,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007625,C0597295,LOCATION_OF,Cell-Free System,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007637,C1149552,LOCATION_OF,Inclusion Bodies,chaperone activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0007709,C4331020,LOCATION_OF,Centromere,Poly ADP Ribosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0008651,C0031715,LOCATION_OF,"Chromosomes, Human, Pair 1",Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0008656,C0887940,LOCATION_OF,"Chromosomes, Human, Pair 14",Gene Order,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0008660,C0314656,LOCATION_OF,"Chromosomes, Human, Pair 18",Synteny,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0008670,C0600436,LOCATION_OF,"Chromosomes, Human, Pair 7",Base Pairing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0010357,LOCATION_OF,Cytoplasm,Cross Reactions,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0017952,LOCATION_OF,Cytoplasm,Glycolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0025246,LOCATION_OF,Cytoplasm,Membrane Fusion,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0010834,C0031715,LOCATION_OF,Cytoplasm,Phosphorylation,celc,moft,7,LOCATION_OF_CELClocfMOFT
+C0010834,C0036522,LOCATION_OF,Cytoplasm,Second Messenger Systems,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0301641,LOCATION_OF,Cytoplasm,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0597295,LOCATION_OF,Cytoplasm,Protein Biosynthesis,celc,moft,7,LOCATION_OF_CELClocfMOFT
+C0010834,C0597358,LOCATION_OF,Cytoplasm,receptor binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0010834,C0597879,LOCATION_OF,Cytoplasm,immunoreactivity,celc,moft,6,LOCATION_OF_CELClocfMOFT
+C0010834,C0600436,LOCATION_OF,Cytoplasm,Base Pairing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0872376,LOCATION_OF,Cytoplasm,molecular assembly/self assembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C0949765,LOCATION_OF,Cytoplasm,Polyadenylation,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0010834,C1148560,LOCATION_OF,Cytoplasm,molecular_function,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1149629,LOCATION_OF,Cytoplasm,histone deacetylase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0010834,C1150347,LOCATION_OF,Cytoplasm,protein disulfide isomerase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1150423,LOCATION_OF,Cytoplasm,kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1150587,LOCATION_OF,Cytoplasm,JUN kinase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0010834,C1151619,LOCATION_OF,Cytoplasm,superoxide dismutase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0010834,C1157996,LOCATION_OF,Cytoplasm,Deubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1158204,LOCATION_OF,Cytoplasm,NADH regeneration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1159825,LOCATION_OF,Cytoplasm,Caspase Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1328948,LOCATION_OF,Cytoplasm,RNA biosynthesis,celc,moft,12,LOCATION_OF_CELClocfMOFT
+C0010834,C1510847,LOCATION_OF,Cytoplasm,Alkalinization,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1518094,LOCATION_OF,Cytoplasm,Lytic Phase,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0010834,C1518440,LOCATION_OF,Cytoplasm,Nuclear Translocation,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0010834,C1519751,LOCATION_OF,Cytoplasm,Ubiquitination,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0010834,C1704259,LOCATION_OF,Cytoplasm,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C1817666,LOCATION_OF,Cytoplasm,phosphatidylinositol 3-kinase signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010834,C3271890,LOCATION_OF,Cytoplasm,RLR signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010853,C0025245,LOCATION_OF,Cytoskeleton,Membrane Fluidity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010853,C0031715,LOCATION_OF,Cytoskeleton,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0010853,C1704259,LOCATION_OF,Cytoskeleton,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0011305,C0597879,LOCATION_OF,Dendrites,immunoreactivity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0011305,C1150571,LOCATION_OF,Dendrites,IkappaB kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C0009528,LOCATION_OF,Endoplasmic Reticulum,Complement Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C0031715,LOCATION_OF,Endoplasmic Reticulum,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C0033666,LOCATION_OF,Endoplasmic Reticulum,Post-Translational Protein Processing,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0014239,C0162847,LOCATION_OF,Endoplasmic Reticulum,protein folding,celc,moft,12,LOCATION_OF_CELClocfMOFT
+C0014239,C0597295,LOCATION_OF,Endoplasmic Reticulum,Protein Biosynthesis,celc,moft,7,LOCATION_OF_CELClocfMOFT
+C0014239,C0597304,LOCATION_OF,Endoplasmic Reticulum,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1148596,LOCATION_OF,Endoplasmic Reticulum,mannose binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1150571,LOCATION_OF,Endoplasmic Reticulum,IkappaB kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1157446,LOCATION_OF,Endoplasmic Reticulum,N-glycan processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1159372,LOCATION_OF,Endoplasmic Reticulum,Protein Targeting,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0014239,C1523807,LOCATION_OF,Endoplasmic Reticulum,proteasome-mediated ubiquitin-dependent protein catabolic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1537044,LOCATION_OF,Endoplasmic Reticulum,protein activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1621396,LOCATION_OF,Endoplasmic Reticulum,JNK Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1660228,LOCATION_OF,Endoplasmic Reticulum,protein retention,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1704259,LOCATION_OF,Endoplasmic Reticulum,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C1749451,LOCATION_OF,Endoplasmic Reticulum,calcium pump activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C2246292,LOCATION_OF,Endoplasmic Reticulum,sterol binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C3146300,LOCATION_OF,Endoplasmic Reticulum,Glycoprotein biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C3824143,LOCATION_OF,Endoplasmic Reticulum,proteasome complex disassembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0014239,C4505258,LOCATION_OF,Endoplasmic Reticulum,Proteostasis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C0598435,LOCATION_OF,Golgi Apparatus,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C1148642,LOCATION_OF,Golgi Apparatus,Phospholipid Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C1156899,LOCATION_OF,Golgi Apparatus,glycosaminoglycan biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C1513112,LOCATION_OF,Golgi Apparatus,Membrane Protein Traffic,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C1660228,LOCATION_OF,Golgi Apparatus,protein retention,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0018042,C3158557,LOCATION_OF,Golgi Apparatus,terminal glycosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0018042,C3179234,LOCATION_OF,Golgi Apparatus,ERK Signal Tranduction Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0023768,C0301641,LOCATION_OF,Lipid Bilayers,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0023768,C1153410,LOCATION_OF,Lipid Bilayers,channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0023768,C1153415,LOCATION_OF,Lipid Bilayers,ion channel activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0023768,C1153430,LOCATION_OF,Lipid Bilayers,cation channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0023768,C1537044,LOCATION_OF,Lipid Bilayers,protein activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C0025246,LOCATION_OF,Lysosomes,Membrane Fusion,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0024369,C0243102,LOCATION_OF,Lysosomes,enzyme activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C0301641,LOCATION_OF,Lysosomes,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C0597297,LOCATION_OF,Lysosomes,"Protein Degradation, Metabolic",celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0024369,C1150145,LOCATION_OF,Lysosomes,cathepsin B activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C1151028,LOCATION_OF,Lysosomes,oxidoreductase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C1157950,LOCATION_OF,Lysosomes,phospholipid catabolism,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C1328948,LOCATION_OF,Lysosomes,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0024369,C1704259,LOCATION_OF,Lysosomes,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0025979,C1155589,LOCATION_OF,Microfilaments,cAMP-mediated signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026029,C0023775,LOCATION_OF,Microsomes,Lipid Peroxidation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026046,C0033666,LOCATION_OF,Microtubules,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0008858,LOCATION_OF,Mitochondria,Citric Acid Cycle,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0026237,C0010357,LOCATION_OF,Mitochondria,Cross Reactions,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0026237,C0013846,LOCATION_OF,Mitochondria,Electron Transport,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0026237,C0023775,LOCATION_OF,Mitochondria,Lipid Peroxidation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0030013,LOCATION_OF,Mitochondria,Oxidative Phosphorylation,celc,moft,17,LOCATION_OF_CELClocfMOFT
+C0026237,C0033666,LOCATION_OF,Mitochondria,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0162362,LOCATION_OF,Mitochondria,Respiratory Chain,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0162847,LOCATION_OF,Mitochondria,protein folding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0596563,LOCATION_OF,Mitochondria,fatty acid metabolism,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0596843,LOCATION_OF,Mitochondria,Adipogenesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0596957,LOCATION_OF,Mitochondria,Molecular Dynamics,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C0597295,LOCATION_OF,Mitochondria,Protein Biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0026237,C0600436,LOCATION_OF,Mitochondria,Base Pairing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1150604,LOCATION_OF,Mitochondria,MAP kinase kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1151028,LOCATION_OF,Mitochondria,oxidoreductase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0026237,C1151057,LOCATION_OF,Mitochondria,cytochrome c oxidase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0026237,C1151619,LOCATION_OF,Mitochondria,superoxide dismutase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1151757,LOCATION_OF,Mitochondria,fumarate reductase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1157626,LOCATION_OF,Mitochondria,dTTP biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1158183,LOCATION_OF,Mitochondria,ATP metabolic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1158366,LOCATION_OF,Mitochondria,fatty acid oxidation,celc,moft,7,LOCATION_OF_CELClocfMOFT
+C0026237,C1158862,LOCATION_OF,Mitochondria,pyruvate oxidation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1158882,LOCATION_OF,Mitochondria,superoxide anion generation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1159825,LOCATION_OF,Mitochondria,Caspase Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1328948,LOCATION_OF,Mitochondria,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1515839,LOCATION_OF,Mitochondria,AIF Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1516341,LOCATION_OF,Mitochondria,Cell Death Signaling Process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1519751,LOCATION_OF,Mitochondria,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C1704259,LOCATION_OF,Mitochondria,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C2244392,LOCATION_OF,Mitochondria,electron transport chain,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0026237,C2258114,LOCATION_OF,Mitochondria,citrate synthase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026237,C3269144,LOCATION_OF,Mitochondria,intrinsic apoptosis,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0026237,C4505258,LOCATION_OF,Mitochondria,Proteostasis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026258,C4331020,LOCATION_OF,Mitotic Spindle Apparatus,Poly ADP Ribosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0026973,C1150037,LOCATION_OF,Myelin Sheath,exo-alpha-sialidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0028587,C0597295,LOCATION_OF,Nuclear Pore,Protein Biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0028587,C4327560,LOCATION_OF,Nuclear Pore,mitotic checkpoint complex assembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C0162847,LOCATION_OF,Organelles,protein folding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C0301641,LOCATION_OF,Organelles,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C1150479,LOCATION_OF,Organelles,1-phosphatidylinositol 4-kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C1157980,LOCATION_OF,Organelles,erad,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0029219,C1510847,LOCATION_OF,Organelles,Alkalinization,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C1516015,LOCATION_OF,Organelles,Antigen Targeting,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0029219,C1721101,LOCATION_OF,Organelles,Biosynthetic Pathways,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0031310,C1151146,LOCATION_OF,Phagosomes,NADPH oxidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0031921,C0003319,LOCATION_OF,Bacterial Fimbria,Antigenic Variation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0031921,C2247147,LOCATION_OF,Bacterial Fimbria,sialic acid binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0032592,C0597295,LOCATION_OF,Polyribosomes,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0032592,C3546431,LOCATION_OF,Polyribosomes,ribosome recycling,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0034850,C0025245,LOCATION_OF,Endosomes,Membrane Fluidity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C0025246,LOCATION_OF,Endosomes,Membrane Fusion,celc,moft,12,LOCATION_OF_CELClocfMOFT
+C0034850,C0301641,LOCATION_OF,Endosomes,Macromolecular alteration,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0034850,C0597304,LOCATION_OF,Endosomes,Proteolysis,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0034850,C0597358,LOCATION_OF,Endosomes,receptor binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1150095,LOCATION_OF,Endosomes,peptidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1150149,LOCATION_OF,Endosomes,cathepsin L activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1153445,LOCATION_OF,Endosomes,hydrogen ion channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1157980,LOCATION_OF,Endosomes,erad,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1159372,LOCATION_OF,Endosomes,Protein Targeting,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1510847,LOCATION_OF,Endosomes,Alkalinization,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0034850,C1513112,LOCATION_OF,Endosomes,Membrane Protein Traffic,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C1514570,LOCATION_OF,Endosomes,Proteolytic Processing,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0034850,C1817666,LOCATION_OF,Endosomes,phosphatidylinositol 3-kinase signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0034850,C2247721,LOCATION_OF,Endosomes,toll-like receptor 3 signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C0005458,LOCATION_OF,Ribosomes,"Binding, Competitive",celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C0301641,LOCATION_OF,Ribosomes,Macromolecular alteration,celc,moft,13,LOCATION_OF_CELClocfMOFT
+C0035553,C0597295,LOCATION_OF,Ribosomes,Protein Biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0035553,C0600436,LOCATION_OF,Ribosomes,Base Pairing,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0035553,C1167622,LOCATION_OF,Ribosomes,Binding (Molecular Function),celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C1450029,LOCATION_OF,Ribosomes,Aminoacylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C1537044,LOCATION_OF,Ribosomes,protein activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C2248829,LOCATION_OF,Ribosomes,cyclomaltodextrin glucanotransferase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0035553,C3178791,LOCATION_OF,Ribosomes,RNA Cleavage,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042219,C0025246,LOCATION_OF,Vacuole,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042219,C1150095,LOCATION_OF,Vacuole,peptidase activity,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0042219,C1513112,LOCATION_OF,Vacuole,Membrane Protein Traffic,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0042760,C0001801,LOCATION_OF,Virion,agglutination,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0042760,C0010357,LOCATION_OF,Virion,Cross Reactions,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C0018903,LOCATION_OF,Virion,Hemagglutination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C0025246,LOCATION_OF,Virion,Membrane Fusion,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0042760,C0031715,LOCATION_OF,Virion,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C0301641,LOCATION_OF,Virion,Macromolecular alteration,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0042760,C0597304,LOCATION_OF,Virion,Proteolysis,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0042760,C0597358,LOCATION_OF,Virion,receptor binding,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0042760,C1149098,LOCATION_OF,Virion,peptide binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1149306,LOCATION_OF,Virion,immunoglobulin binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0042760,C1149668,LOCATION_OF,Virion,myosin ATPase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1150037,LOCATION_OF,Virion,exo-alpha-sialidase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0042760,C1157407,LOCATION_OF,Virion,macromolecule biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1328948,LOCATION_OF,Virion,RNA biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0042760,C1512485,LOCATION_OF,Virion,Homodimerization,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1514762,LOCATION_OF,Virion,Receptor Signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1519751,LOCATION_OF,Virion,Ubiquitination,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0042760,C1523308,LOCATION_OF,Virion,complement binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C1622946,LOCATION_OF,Virion,proteasome activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C2247199,LOCATION_OF,Virion,L-lysine 6-oxidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0042760,C2247721,LOCATION_OF,Virion,toll-like receptor 3 signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0085200,C4050156,LOCATION_OF,Lewy Bodies,Tyrosine Nitration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0009528,LOCATION_OF,Protoplasm,Complement Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0010357,LOCATION_OF,Protoplasm,Cross Reactions,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0175996,C0031715,LOCATION_OF,Protoplasm,Phosphorylation,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0175996,C0033666,LOCATION_OF,Protoplasm,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0597297,LOCATION_OF,Protoplasm,"Protein Degradation, Metabolic",celc,moft,6,LOCATION_OF_CELClocfMOFT
+C0175996,C0597304,LOCATION_OF,Protoplasm,Proteolysis,celc,moft,14,LOCATION_OF_CELClocfMOFT
+C0175996,C0598435,LOCATION_OF,Protoplasm,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0598783,LOCATION_OF,Protoplasm,Lipid Metabolism,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0599474,LOCATION_OF,Protoplasm,cholesterol biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C0872079,LOCATION_OF,Protoplasm,protein protein interaction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1149024,LOCATION_OF,Protoplasm,sodium/potassium-exchanging ATPase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1149632,LOCATION_OF,Protoplasm,hydrolase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1149811,LOCATION_OF,Protoplasm,esterase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1150095,LOCATION_OF,Protoplasm,peptidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1150130,LOCATION_OF,Protoplasm,caspase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1150133,LOCATION_OF,Protoplasm,caspase-6 activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1150149,LOCATION_OF,Protoplasm,cathepsin L activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0175996,C1150347,LOCATION_OF,Protoplasm,protein disulfide isomerase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1151115,LOCATION_OF,Protoplasm,luciferin monooxygenase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1153415,LOCATION_OF,Protoplasm,ion channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1157223,LOCATION_OF,Protoplasm,ATP biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1157574,LOCATION_OF,Protoplasm,nucleoside biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1157665,LOCATION_OF,Protoplasm,nucleoside triphosphate biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1158079,LOCATION_OF,Protoplasm,IDP catabolic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1158900,LOCATION_OF,Protoplasm,polyphosphate metabolic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C1328948,LOCATION_OF,Protoplasm,RNA biosynthesis,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0175996,C1622945,LOCATION_OF,Protoplasm,invertase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0175996,C1706062,LOCATION_OF,Protoplasm,Metabolic Networks,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0175996,C3160734,LOCATION_OF,Protoplasm,Dephosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C3534339,LOCATION_OF,Protoplasm,alternate pathway,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0175996,C4331020,LOCATION_OF,Protoplasm,Poly ADP Ribosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0175996,C4505263,LOCATION_OF,Protoplasm,Mono(ADP-Ribosyl)ation,celc,moft,8,LOCATION_OF_CELClocfMOFT
+C0178523,C1152949,LOCATION_OF,brush border membrane,transporter activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0178523,C3179234,LOCATION_OF,brush border membrane,ERK Signal Tranduction Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0206524,C1151655,LOCATION_OF,Plastids,betaine-aldehyde dehydrogenase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0225328,C1157192,LOCATION_OF,Fibril - cell component,chitin biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230595,C3824143,LOCATION_OF,Intranuclear body,proteasome complex disassembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230613,C0033666,LOCATION_OF,Zonula Adherens,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230625,C0033666,LOCATION_OF,cell process structure,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230681,C0597295,LOCATION_OF,Zymogen Granules,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230764,C1153410,LOCATION_OF,Golgi membrane,channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230764,C1660228,LOCATION_OF,Golgi membrane,protein retention,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230765,C1660228,LOCATION_OF,Golgi cisternae,protein retention,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230770,C0301641,LOCATION_OF,"Endoplasmic reticulum, membrane",Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230770,C1159372,LOCATION_OF,"Endoplasmic reticulum, membrane",Protein Targeting,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230770,C1519751,LOCATION_OF,"Endoplasmic reticulum, membrane",Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230770,C3178791,LOCATION_OF,"Endoplasmic reticulum, membrane",RNA Cleavage,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230779,C0301641,LOCATION_OF,Rough endoplasmic reticulum,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230789,C4505258,LOCATION_OF,Smooth Endoplasmic Reticulum,Proteostasis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230812,C1148926,LOCATION_OF,Membrane of lysosome,adenosinetriphosphatase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0230812,C1328948,LOCATION_OF,Membrane of lysosome,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230822,C0597297,LOCATION_OF,Autolysosome,"Protein Degradation, Metabolic",celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230822,C1157980,LOCATION_OF,Autolysosome,erad,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230825,C1721101,LOCATION_OF,Multivesicular body,Biosynthetic Pathways,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0230839,C1328948,LOCATION_OF,"Mitochondrial Membrane, Outer",RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230839,C1519751,LOCATION_OF,"Mitochondrial Membrane, Outer",Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230840,C0013846,LOCATION_OF,Inner mitochondrial membrane,Electron Transport,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230840,C0023775,LOCATION_OF,Inner mitochondrial membrane,Lipid Peroxidation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230840,C2244392,LOCATION_OF,Inner mitochondrial membrane,electron transport chain,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0230940,C0600436,LOCATION_OF,"Ribosome, prokaryotic",Base Pairing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0242608,C1323307,LOCATION_OF,Centrosome,gamma-tubulin binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0242608,C4331020,LOCATION_OF,Centrosome,Poly ADP Ribosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0242609,C4327560,LOCATION_OF,Kinetochores,mitotic checkpoint complex assembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0243092,C3271553,LOCATION_OF,Cellular Structures,fucosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0333785,C1150037,LOCATION_OF,Virus-like particles,exo-alpha-sialidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0521119,C0013846,LOCATION_OF,Extracellular,Electron Transport,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0521119,C0014274,LOCATION_OF,Extracellular,Energy Transfer,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0521119,C0597304,LOCATION_OF,Extracellular,Proteolysis,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0521119,C0597879,LOCATION_OF,Extracellular,immunoreactivity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0521119,C0872079,LOCATION_OF,Extracellular,protein protein interaction,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0521119,C1150095,LOCATION_OF,Extracellular,peptidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0521119,C1328948,LOCATION_OF,Extracellular,RNA biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0521119,C3160734,LOCATION_OF,Extracellular,Dephosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0525009,C0162847,LOCATION_OF,periplasm,protein folding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0525009,C0597304,LOCATION_OF,periplasm,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0525009,C1150347,LOCATION_OF,periplasm,protein disulfide isomerase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0525009,C1159301,LOCATION_OF,periplasm,protein oxidation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0525009,C2248829,LOCATION_OF,periplasm,cyclomaltodextrin glucanotransferase activity,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0596119,C0597295,LOCATION_OF,apical membrane,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596119,C0597879,LOCATION_OF,apical membrane,immunoreactivity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596119,C1621574,LOCATION_OF,apical membrane,exchanger,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0003314,LOCATION_OF,Membrane,Antigen-Antibody Reactions,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0013846,LOCATION_OF,Membrane,Electron Transport,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0025246,LOCATION_OF,Membrane,Membrane Fusion,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0033618,LOCATION_OF,Membrane,Protein Binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0162847,LOCATION_OF,Membrane,protein folding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0243102,LOCATION_OF,Membrane,enzyme activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0301641,LOCATION_OF,Membrane,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0596522,LOCATION_OF,Membrane,enzyme biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C0597304,LOCATION_OF,Membrane,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0598435,LOCATION_OF,Membrane,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0599844,LOCATION_OF,Membrane,molecular recognition,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C0872079,LOCATION_OF,Membrane,protein protein interaction,celc,moft,9,LOCATION_OF_CELClocfMOFT
+C0596901,C1148636,LOCATION_OF,Membrane,Lipid Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1149098,LOCATION_OF,Membrane,peptide binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1150635,LOCATION_OF,Membrane,stem cell factor receptor activity,celc,moft,5,LOCATION_OF_CELClocfMOFT
+C0596901,C1151146,LOCATION_OF,Membrane,NADPH oxidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1152142,LOCATION_OF,Membrane,mannosyltransferase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1155494,LOCATION_OF,Membrane,intracellular signal transduction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1158406,LOCATION_OF,Membrane,lipid modification,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1159372,LOCATION_OF,Membrane,Protein Targeting,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C1167622,LOCATION_OF,Membrane,Binding (Molecular Function),celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1328948,LOCATION_OF,Membrane,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1513109,LOCATION_OF,Membrane,Membrane Fusion Activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1516144,LOCATION_OF,Membrane,Calcium Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1519906,LOCATION_OF,Membrane,Vacuolar Protein Sorting,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0596901,C1621573,LOCATION_OF,Membrane,active transporter,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C1660228,LOCATION_OF,Membrane,protein retention,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0596901,C1704259,LOCATION_OF,Membrane,Biochemical Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596901,C2248829,LOCATION_OF,Membrane,cyclomaltodextrin glucanotransferase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0596901,C2266865,LOCATION_OF,Membrane,Calcium Chelating Activity [MoA],celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596952,C0597304,LOCATION_OF,Mitochondrial Membranes,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0596952,C1150423,LOCATION_OF,Mitochondrial Membranes,kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0682529,C0025246,LOCATION_OF,biological membrane,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0682532,C0872079,LOCATION_OF,subcellular membrane,protein protein interaction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0682537,C0599845,LOCATION_OF,Nucleoplasm,molecular domain,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0682537,C1744664,LOCATION_OF,Nucleoplasm,Rab GTPase binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C0009528,LOCATION_OF,Cell surface,Complement Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C0025245,LOCATION_OF,Cell surface,Membrane Fluidity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C0025246,LOCATION_OF,Cell surface,Membrane Fusion,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C0699040,C0033618,LOCATION_OF,Cell surface,Protein Binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C0301641,LOCATION_OF,Cell surface,Macromolecular alteration,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C0314669,LOCATION_OF,Cell surface,Molecular instability,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C0597295,LOCATION_OF,Cell surface,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C0597297,LOCATION_OF,Cell surface,"Protein Degradation, Metabolic",celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C0597358,LOCATION_OF,Cell surface,receptor binding,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0699040,C1136182,LOCATION_OF,Cell surface,Antigenic Diversity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1148583,LOCATION_OF,Cell surface,polysaccharide binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1149306,LOCATION_OF,Cell surface,immunoglobulin binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C1150037,LOCATION_OF,Cell surface,exo-alpha-sialidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1150095,LOCATION_OF,Cell surface,peptidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C1156678,LOCATION_OF,Cell surface,tyrosine catabolic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1325936,LOCATION_OF,Cell surface,receptor clustering,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1511539,LOCATION_OF,Cell surface,Covalent Interaction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1519751,LOCATION_OF,Cell surface,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1523309,LOCATION_OF,Cell surface,complement component C1q binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1622116,LOCATION_OF,Cell surface,zymogen activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1622667,LOCATION_OF,Cell surface,plasminogen activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1622945,LOCATION_OF,Cell surface,invertase activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C0699040,C1752726,LOCATION_OF,Cell surface,proteasomal processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0699040,C1816449,LOCATION_OF,Cell surface,Hsp90 protein binding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0699040,C4235932,LOCATION_OF,Cell surface,advanced glycation end-product binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0752063,C1148564,LOCATION_OF,peroxisome,antioxidant activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0886515,C0597879,LOCATION_OF,Secretory Vesicles,immunoreactivity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C0597304,LOCATION_OF,trans-Golgi Network,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C1153415,LOCATION_OF,trans-Golgi Network,ion channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C1513112,LOCATION_OF,trans-Golgi Network,Membrane Protein Traffic,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C1514570,LOCATION_OF,trans-Golgi Network,Proteolytic Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C1660228,LOCATION_OF,trans-Golgi Network,protein retention,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887838,C1721101,LOCATION_OF,trans-Golgi Network,Biosynthetic Pathways,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887870,C0031715,LOCATION_OF,Focal Adhesions,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887883,C0025246,LOCATION_OF,Early endosome,Membrane Fusion,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C0887883,C0301641,LOCATION_OF,Early endosome,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887883,C0597304,LOCATION_OF,Early endosome,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C0887884,C1328948,LOCATION_OF,Cytoplasmic Vesicles,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166607,C1167622,LOCATION_OF,cellular_component,Binding (Molecular Function),celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166795,C4331020,LOCATION_OF,Spindle,Poly ADP Ribosylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166825,C0031715,LOCATION_OF,IkappaB kinase complex,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166837,C0025246,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166837,C0031715,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166837,C0033666,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166837,C0162847,LOCATION_OF,Cavity of endoplasmic reticulum cistern,protein folding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1166837,C0597295,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Protein Biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1166837,C1157980,LOCATION_OF,Cavity of endoplasmic reticulum cistern,erad,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1166837,C1328948,LOCATION_OF,Cavity of endoplasmic reticulum cistern,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166837,C1519906,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Vacuolar Protein Sorting,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1166837,C3178997,LOCATION_OF,Cavity of endoplasmic reticulum cistern,Endoplasmic Reticulum-Associated Degradation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166848,C0301641,LOCATION_OF,late endosome,Macromolecular alteration,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1166848,C0597358,LOCATION_OF,late endosome,receptor binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166848,C1150095,LOCATION_OF,late endosome,peptidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166848,C1328948,LOCATION_OF,late endosome,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166848,C1514570,LOCATION_OF,late endosome,Proteolytic Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166848,C1519906,LOCATION_OF,late endosome,Vacuolar Protein Sorting,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1166860,C1510847,LOCATION_OF,Golgi lumen,Alkalinization,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167041,C1519751,LOCATION_OF,vacuolar membrane,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167072,C0243102,LOCATION_OF,Outer nuclear membrane,enzyme activity,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1167110,C1157990,LOCATION_OF,PML body,Sumoylation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167117,C1513486,LOCATION_OF,replication fork,Monoubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167121,C0031715,LOCATION_OF,DNA replication factor A complex location,Phosphorylation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167121,C1328948,LOCATION_OF,DNA replication factor A complex location,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167121,C2247199,LOCATION_OF,DNA replication factor A complex location,L-lysine 6-oxidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167159,C3268327,LOCATION_OF,replication compartment,cytoplasmic translation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167179,C0162847,LOCATION_OF,viral replication complex,protein folding,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167179,C0872079,LOCATION_OF,viral replication complex,protein protein interaction,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167315,C0025246,LOCATION_OF,endomembrane system,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167317,C1328948,LOCATION_OF,vesicle membrane,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167320,C0598435,LOCATION_OF,extrinsic component of membrane,Palmitoylation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167322,C0013846,LOCATION_OF,integral to membrane,Electron Transport,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167322,C0282517,LOCATION_OF,integral to membrane,Proton-Motive Force,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167322,C0598435,LOCATION_OF,integral to membrane,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167322,C1149209,LOCATION_OF,integral to membrane,interleukin-6 receptor activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167322,C1515144,LOCATION_OF,integral to membrane,T-Cell Receptor Activation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167322,C1621573,LOCATION_OF,integral to membrane,active transporter,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167331,C1149306,LOCATION_OF,outer membrane,immunoglobulin binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167331,C1153267,LOCATION_OF,outer membrane,iron ion transmembrane transporter activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167331,C2248829,LOCATION_OF,outer membrane,cyclomaltodextrin glucanotransferase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167396,C1157990,LOCATION_OF,host cell nucleus,Sumoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167398,C0025246,LOCATION_OF,Viral envelope,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167398,C0033666,LOCATION_OF,Viral envelope,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167398,C0301641,LOCATION_OF,Viral envelope,Macromolecular alteration,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1167398,C0598435,LOCATION_OF,Viral envelope,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167398,C1150095,LOCATION_OF,Viral envelope,peptidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167398,C1153415,LOCATION_OF,Viral envelope,ion channel activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1167398,C1325289,LOCATION_OF,Viral envelope,cell surface antigen activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167406,C0243102,LOCATION_OF,viral integration complex,enzyme activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167519,C0033666,LOCATION_OF,viral capsid,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1167519,C0301641,LOCATION_OF,viral capsid,Macromolecular alteration,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1167519,C0597304,LOCATION_OF,viral capsid,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1179122,C1150124,LOCATION_OF,Transverse tubule of muscle cell,cysteine protease activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1183489,C0031715,LOCATION_OF,Region of cytoplasm,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1268456,C0301641,LOCATION_OF,Viral Components,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1268456,C0597295,LOCATION_OF,Viral Components,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1268456,C3824143,LOCATION_OF,Viral Components,proteasome complex disassembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1268457,C0598435,LOCATION_OF,Viral core,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1276873,C1328948,LOCATION_OF,Dividing cell structure,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1318418,C0597879,LOCATION_OF,Brush Border,immunoreactivity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325596,C1257755,LOCATION_OF,P-body,RNA Decay,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325596,C4235418,LOCATION_OF,P-body,eukaryotic translation initiation factor 2 complex assembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325653,C0008858,LOCATION_OF,Mitochondrial electron transport chain,Citric Acid Cycle,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325696,C0243102,LOCATION_OF,apolipoprotein B mRNA editing enzyme complex,enzyme activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325696,C1514216,LOCATION_OF,apolipoprotein B mRNA editing enzyme complex,Polyubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325696,C1519751,LOCATION_OF,apolipoprotein B mRNA editing enzyme complex,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325696,C3824143,LOCATION_OF,apolipoprotein B mRNA editing enzyme complex,proteasome complex disassembly,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325733,C4318842,LOCATION_OF,RNA polymerase complex,RNA polymerase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325742,C0301641,LOCATION_OF,Pore,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325742,C0597295,LOCATION_OF,Pore,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325742,C1153415,LOCATION_OF,Pore,ion channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325742,C1328948,LOCATION_OF,Pore,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325756,C1148592,LOCATION_OF,apoplast,lectin activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325796,C0597358,LOCATION_OF,AP-1 adaptor complex location,receptor binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325834,C0242943,LOCATION_OF,viral glycoprotein,Molecular Mimicry,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1325834,C0301641,LOCATION_OF,viral glycoprotein,Macromolecular alteration,celc,moft,11,LOCATION_OF_CELClocfMOFT
+C1325834,C1157190,LOCATION_OF,viral glycoprotein,polysaccharide biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C0025246,LOCATION_OF,Cytoplasmic matrix,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C0031715,LOCATION_OF,Cytoplasmic matrix,Phosphorylation,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1383501,C0243102,LOCATION_OF,Cytoplasmic matrix,enzyme activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C0597295,LOCATION_OF,Cytoplasmic matrix,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C0597297,LOCATION_OF,Cytoplasmic matrix,"Protein Degradation, Metabolic",celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1148589,LOCATION_OF,Cytoplasmic matrix,galactoside binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1150132,LOCATION_OF,Cytoplasmic matrix,caspase-3 activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1150685,LOCATION_OF,Cytoplasmic matrix,ubiquitin-protein ligase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1383501,C1150944,LOCATION_OF,Cytoplasmic matrix,aconitate hydratase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1157626,LOCATION_OF,Cytoplasmic matrix,dTTP biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1328948,LOCATION_OF,Cytoplasmic matrix,RNA biosynthesis,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1383501,C1449568,LOCATION_OF,Cytoplasmic matrix,Co-Translational Protein Modification,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1514570,LOCATION_OF,Cytoplasmic matrix,Proteolytic Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1514762,LOCATION_OF,Cytoplasmic matrix,Receptor Signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1516341,LOCATION_OF,Cytoplasmic matrix,Cell Death Signaling Process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1518440,LOCATION_OF,Cytoplasmic matrix,Nuclear Translocation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1519751,LOCATION_OF,Cytoplasmic matrix,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1707503,LOCATION_OF,Cytoplasmic matrix,Control Interaction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C1817389,LOCATION_OF,Cytoplasmic matrix,pattern recognition receptor signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1383501,C2266865,LOCATION_OF,Cytoplasmic matrix,Calcium Chelating Activity [MoA],celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1510421,C1158366,LOCATION_OF,Mitochondrial matrix,fatty acid oxidation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1511625,C0031715,LOCATION_OF,Cytoplasmic Domain,Phosphorylation,celc,moft,8,LOCATION_OF_CELClocfMOFT
+C1511625,C0598435,LOCATION_OF,Cytoplasmic Domain,Palmitoylation,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1511625,C0949765,LOCATION_OF,Cytoplasmic Domain,Polyadenylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1511625,C1150872,LOCATION_OF,Cytoplasmic Domain,2-methylisocitrate lyase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1511625,C1517880,LOCATION_OF,Cytoplasmic Domain,Ligand Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1511625,C1519726,LOCATION_OF,Cytoplasmic Domain,Tyrosine Phosphorylation,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1511625,C1519751,LOCATION_OF,Cytoplasmic Domain,Ubiquitination,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1511625,C3160734,LOCATION_OF,Cytoplasmic Domain,Dephosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1513046,C0003264,LOCATION_OF,Medial Golgi,Antibody Specificity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1521759,C1150685,LOCATION_OF,Ring Finger Domain,ubiquitin-protein ligase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1523867,C1150095,LOCATION_OF,intracellular organelle,peptidase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1523873,C0314656,LOCATION_OF,receptor complex,Synteny,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1523873,C1519751,LOCATION_OF,receptor complex,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622204,C0003319,LOCATION_OF,envelope,Antigenic Variation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622204,C0033618,LOCATION_OF,envelope,Protein Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622204,C0301641,LOCATION_OF,envelope,Macromolecular alteration,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1622204,C0872079,LOCATION_OF,envelope,protein protein interaction,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1622204,C1153415,LOCATION_OF,envelope,ion channel activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622204,C1514570,LOCATION_OF,envelope,Proteolytic Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622372,C0025246,LOCATION_OF,ruffle membrane,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1622967,C0597295,LOCATION_OF,cell periphery,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1659610,C1328948,LOCATION_OF,vesicle lumen,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C0031715,LOCATION_OF,soluble,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C0597295,LOCATION_OF,soluble,Protein Biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C1149207,LOCATION_OF,soluble,interleukin-4 receptor activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C1159372,LOCATION_OF,soluble,Protein Targeting,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C1514568,LOCATION_OF,soluble,Protein Truncation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749467,C1519751,LOCATION_OF,soluble,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749812,C1150156,LOCATION_OF,COP9 signalosome,NEDD8-specific protease activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1749812,C2265516,LOCATION_OF,COP9 signalosome,cullin deneddylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C0017952,LOCATION_OF,Host Cell,Glycolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C0025246,LOCATION_OF,Host Cell,Membrane Fusion,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C0031715,LOCATION_OF,Host Cell,Phosphorylation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C0033666,LOCATION_OF,Host Cell,Post-Translational Protein Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C0597295,LOCATION_OF,Host Cell,Protein Biosynthesis,celc,moft,31,LOCATION_OF_CELClocfMOFT
+C1819995,C0597304,LOCATION_OF,Host Cell,Proteolysis,celc,moft,4,LOCATION_OF_CELClocfMOFT
+C1819995,C0597358,LOCATION_OF,Host Cell,receptor binding,celc,moft,7,LOCATION_OF_CELClocfMOFT
+C1819995,C0598435,LOCATION_OF,Host Cell,Palmitoylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C0598783,LOCATION_OF,Host Cell,Lipid Metabolism,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1819995,C0872079,LOCATION_OF,Host Cell,protein protein interaction,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1819995,C1150095,LOCATION_OF,Host Cell,peptidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C1151464,LOCATION_OF,Host Cell,prostaglandin-endoperoxide synthase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C1153415,LOCATION_OF,Host Cell,ion channel activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C1155379,LOCATION_OF,Host Cell,epidermal growth factor receptor signaling pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1157990,LOCATION_OF,Host Cell,Sumoylation,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C1328948,LOCATION_OF,Host Cell,RNA biosynthesis,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C1819995,C1514762,LOCATION_OF,Host Cell,Receptor Signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1518762,LOCATION_OF,Host Cell,Oxidative Stress Pathway,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1519751,LOCATION_OF,Host Cell,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1520023,LOCATION_OF,Host Cell,Virus-Cell Membrane Interaction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1623484,LOCATION_OF,Host Cell,protein kinase B signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1707312,LOCATION_OF,Host Cell,Caspase-Dependent Apoptosis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1720950,LOCATION_OF,Host Cell,Gene Regulatory Networks,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C1721101,LOCATION_OF,Host Cell,Biosynthetic Pathways,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C1819995,C1817182,LOCATION_OF,Host Cell,ubiquitinyl hydrolase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C2611831,LOCATION_OF,Host Cell,MAPK signaling,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C3146300,LOCATION_OF,Host Cell,Glycoprotein biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1819995,C3269144,LOCATION_OF,Host Cell,intrinsic apoptosis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1820039,C1513112,LOCATION_OF,Golgi apparatus part,Membrane Protein Traffic,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C1956015,C1323391,LOCATION_OF,Ribosome Subunits,ribosome binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2246374,C3272108,LOCATION_OF,macromolecular complex,capsanthin-capsorubin synthase,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2246376,C0301641,LOCATION_OF,protein-DNA complex,Macromolecular alteration,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2247081,C1328948,LOCATION_OF,host cell membrane,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2262705,C0033618,LOCATION_OF,virion membrane,Protein Binding,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2262706,C0025246,LOCATION_OF,recycling endosome,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2350307,C1721101,LOCATION_OF,Cell-Derived Microparticles,Biosynthetic Pathways,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2350332,C1157399,LOCATION_OF,Exosomes,ceramide biosynthetic process,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2350332,C1721101,LOCATION_OF,Exosomes,Biosynthetic Pathways,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C2611786,C1328948,LOCATION_OF,endoplasmic reticulum-Golgi intermediate compartment,RNA biosynthesis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2752467,C0025246,LOCATION_OF,host cell endosome,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2752522,C1149209,LOCATION_OF,host cell surface,interleukin-6 receptor activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2752522,C1155494,LOCATION_OF,host cell surface,intracellular signal transduction,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2752548,C0597879,LOCATION_OF,dendritic tuft,immunoreactivity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C2753479,C1518440,LOCATION_OF,ISGF3 complex,Nuclear Translocation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2754344,C0031715,LOCATION_OF,SMAD2 protein complex,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2754346,C0031715,LOCATION_OF,SMAD2-SMAD3 protein complex,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C2754943,C1150635,LOCATION_OF,IgG antibody,stem cell factor receptor activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C2754997,C0010357,LOCATION_OF,"IgM immunoglobulin complex, circulating",Cross Reactions,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C3152111,C3160734,LOCATION_OF,TOR complex 1,Dephosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3269134,C0376669,LOCATION_OF,Apoptotic Bodies,DNA Fragmentation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3271504,C0597304,LOCATION_OF,endolysosome,Proteolysis,celc,moft,3,LOCATION_OF_CELClocfMOFT
+C3271504,C1150095,LOCATION_OF,endolysosome,peptidase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C3271954,C0031715,LOCATION_OF,macropinosome,Phosphorylation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3271954,C1150423,LOCATION_OF,macropinosome,kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3546436,C3546468,LOCATION_OF,AMPK complex,AMPK activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3546463,C1514216,LOCATION_OF,peroxisomal,Polyubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3549076,C0003319,LOCATION_OF,viral inner capsid,Antigenic Variation,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3549077,C0597304,LOCATION_OF,viral outer capsid,Proteolysis,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3549077,C1514570,LOCATION_OF,viral outer capsid,Proteolytic Processing,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C3820746,C1514526,LOCATION_OF,viral factory,Proteasome Function Inhibition,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3820747,C1622946,LOCATION_OF,cytoplasmic viral factory,proteasome activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3824331,C1148926,LOCATION_OF,MalFGK2 complex,adenosinetriphosphatase activity,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C3824424,C1150571,LOCATION_OF,STING complex,IkappaB kinase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3824424,C1519751,LOCATION_OF,STING complex,Ubiquitination,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3850088,C3269033,LOCATION_OF,Neutrophil Extracellular Traps,interleukin-17A production,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3887595,C0025246,LOCATION_OF,Autophagosome,Membrane Fusion,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C3887595,C1721101,LOCATION_OF,Autophagosome,Biosynthetic Pathways,celc,moft,2,LOCATION_OF_CELClocfMOFT
+C4234958,C1150132,LOCATION_OF,apoptotic bleb,caspase-3 activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C4235135,C1513109,LOCATION_OF,glycoprotein complex,Membrane Fusion Activity,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C4235135,C1514570,LOCATION_OF,glycoprotein complex,Proteolytic Processing,celc,moft,1,LOCATION_OF_CELClocfMOFT
+C4235147,C1148926,LOCATION_OF,UFD1-NPL4 complex,adenosinetriphosphatase activity,celc,moft,1,LOCATION_OF_CELClocfMOFT

@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0015967,TREATS,Antibiotics,Fever,antb,fndg,7,TREATS_ANTBtrtsFNDG
+C0003232,C0239981,TREATS,Antibiotics,Hypoalbuminemia,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0003232,C0728834,TREATS,Antibiotics,Place in family order: youngest sibling,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0003232,C4289767,TREATS,Antibiotics,Colonization,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0003240,C0015967,TREATS,Macrolide Antibiotics,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0003240,C0085393,TREATS,Macrolide Antibiotics,Immunocompromised Host,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0007561,C0015967,TREATS,Ceftriaxone,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0013090,C0015967,TREATS,Doxycycline,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0013090,C3840916,TREATS,Doxycycline,4-5 days,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0026187,C0015967,TREATS,Minocycline,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0026458,C0728834,TREATS,Monobactams,Place in family order: youngest sibling,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0028902,C0015967,TREATS,Ofloxacin,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0030576,C0015967,TREATS,Paromomycin,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0030840,C0015967,TREATS,Penicillin V,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0039644,C0085393,TREATS,Tetracycline,Immunocompromised Host,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0054066,C0262926,TREATS,Amoxicillin / Clavulanate,Medical History,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0054066,C3540840,TREATS,Amoxicillin / Clavulanate,Sign or Symptom,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0054066,C4086268,TREATS,Amoxicillin / Clavulanate,Exacerbation,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0055003,C0015967,TREATS,cefepime,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0055856,C0581126,TREATS,Clarithromycin,Severe asthma,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0059374,C3714738,TREATS,enrofloxacin,Compliance,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0072980,C3808831,TREATS,Sirolimus,Normal T cells,antb,fndg,1,TREATS_ANTBtrtsFNDG
+C0279516,C0015967,TREATS,Anti-Bacterial Agents,Fever,antb,fndg,2,TREATS_ANTBtrtsFNDG
+C1260298,C0015967,TREATS,tigecycline,Fever,antb,fndg,1,TREATS_ANTBtrtsFNDG

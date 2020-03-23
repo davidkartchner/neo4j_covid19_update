@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010200,C0035204,ISA,Coughing,Respiration Disorders,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0010520,C0018799,ISA,Cyanosis,Heart Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0011991,C0017178,ISA,Diarrhea,Gastrointestinal Diseases,sosy,dsyn,7,ISA_SOSYisaDSYN
+C0011991,C0021831,ISA,Diarrhea,Intestinal Diseases,sosy,dsyn,3,ISA_SOSYisaDSYN
+C0027497,C0017178,ISA,Nausea,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0033774,C0037274,ISA,Pruritus,Dermatologic disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0036572,C0027765,ISA,Seizures,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0042963,C0017178,ISA,Vomiting,Gastrointestinal Diseases,sosy,dsyn,2,ISA_SOSYisaDSYN
+C0151315,C0013384,ISA,Neck stiffness,Dyskinetic syndrome,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0221232,C0042109,ISA,Welts,Urticaria,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0401149,C0017178,ISA,Chronic constipation,Gastrointestinal Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0476273,C0024115,ISA,Respiratory distress,Lung diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0476273,C0035204,ISA,Respiratory distress,Respiration Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C0575081,C0027765,ISA,Gait abnormality,nervous system disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1260880,C0035204,ISA,Rhinorrhea,Respiration Disorders,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1260880,C0041912,ISA,Rhinorrhea,Upper Respiratory Infections,sosy,dsyn,8,ISA_SOSYisaDSYN
+C1384493,C0009450,ISA,Catarrh,Communicable Diseases,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0017160,ISA,Catarrh,Gastroenteritis,sosy,dsyn,1,ISA_SOSYisaDSYN
+C1384493,C0035455,ISA,Catarrh,Rhinitis,sosy,dsyn,3,ISA_SOSYisaDSYN
+C2242814,C1290884,ISA,acute sore throat,Inflammatory disorder,sosy,dsyn,1,ISA_SOSYisaDSYN
+C2936179,C0028754,ISA,"Obesity, Visceral",Obesity,sosy,dsyn,1,ISA_SOSYisaDSYN

@@ -1,0 +1,86 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008952,C0276500,PREVENTS,Clinic Visits,Human immunodeficiency virus I infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0009449,C0008679,PREVENTS,Communicable Disease Control,Chronic disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0009585,C1096155,PREVENTS,Comprehensive Dental Care,Macrophage Activation Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0018747,C3694279,PREVENTS,Health Services,Middle East Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019948,C0205721,PREVENTS,Hospital Administration,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0009450,PREVENTS,Hospitalization,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0032285,PREVENTS,Hospitalization,Pneumonia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0036690,PREVENTS,Hospitalization,Septicemia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0149725,PREVENTS,Hospitalization,Lower respiratory tract infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0205721,PREVENTS,Hospitalization,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0019993,C0442886,PREVENTS,Hospitalization,Secondary Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0023977,C0002395,PREVENTS,long-term care,Alzheimer's Disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030672,C1175175,PREVENTS,Patient Acceptance of Health Care,Severe Acute Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030685,C0034063,PREVENTS,Patient Discharge,Pulmonary Edema,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030685,C0034069,PREVENTS,Patient Discharge,Pulmonary Fibrosis,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030685,C0042769,PREVENTS,Patient Discharge,Virus Diseases,hlca,dsyn,3,PREVENTS_HLCAprevDSYN
+C0030685,C0206750,PREVENTS,Patient Discharge,Coronavirus Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030685,C0349410,PREVENTS,Patient Discharge,Single organ dysfunction,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0030685,C1145628,PREVENTS,Patient Discharge,Autonomic nervous system disorders,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0033137,C0008679,PREVENTS,Primary Health Care,Chronic disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0033137,C0009450,PREVENTS,Primary Health Care,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0034117,C0034063,PREVENTS,Puncture procedure,Pulmonary Edema,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0043113,C0042769,PREVENTS,Wellness Programs,Virus Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0085557,C0009450,PREVENTS,Infectious disease prevention / control,Communicable Diseases,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C0085557,C0010356,PREVENTS,Infectious disease prevention / control,Cross Infection,hlca,dsyn,3,PREVENTS_HLCAprevDSYN
+C0085557,C0021400,PREVENTS,Infectious disease prevention / control,Influenza,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0085557,C3694279,PREVENTS,Infectious disease prevention / control,Middle East Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0150600,C0021400,PREVENTS,Advice,Influenza,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0150600,C0035243,PREVENTS,Advice,Respiratory Tract Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0204695,C0029342,PREVENTS,Feeding patient,Orthomyxoviridae Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0206082,C0008049,PREVENTS,Immunization Programs,Chickenpox,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0206082,C0019159,PREVENTS,Immunization Programs,Hepatitis A,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0206082,C0277560,PREVENTS,Immunization Programs,Infantile disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0220908,C0009450,PREVENTS,Screening procedure,Communicable Diseases,hlca,dsyn,5,PREVENTS_HLCAprevDSYN
+C0220908,C0010356,PREVENTS,Screening procedure,Cross Infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0220908,C0032285,PREVENTS,Screening procedure,Pneumonia,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C0220908,C0205721,PREVENTS,Screening procedure,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0220908,C0206750,PREVENTS,Screening procedure,Coronavirus Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0302186,C0021400,PREVENTS,telephone call,Influenza,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C0422202,C3694279,PREVENTS,Notifications,Middle East Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0679898,C0008679,PREVENTS,public health program,Chronic disease,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C0679898,C0036916,PREVENTS,public health program,Sexually Transmitted Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C0009450,PREVENTS,Challenge,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C0016627,PREVENTS,Challenge,Influenza in Birds,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C0021400,PREVENTS,Challenge,Influenza,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C0036323,PREVENTS,Challenge,Schistosomiasis,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C0042749,PREVENTS,Challenge,Viremia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C1336827,PREVENTS,Challenge,Tropical Disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0805586,C2062441,PREVENTS,Challenge,Influenza A,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0850397,C0036117,PREVENTS,health information,Salmonella infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C0920556,C0010356,PREVENTS,hospital organization,Cross Infection,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C1261322,C0001175,PREVENTS,Evaluation procedure,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1261322,C0016627,PREVENTS,Evaluation procedure,Influenza in Birds,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1261322,C0035243,PREVENTS,Evaluation procedure,Respiratory Tract Infections,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C1261322,C0042769,PREVENTS,Evaluation procedure,Virus Diseases,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C1261322,C0205721,PREVENTS,Evaluation procedure,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1261322,C1290807,PREVENTS,Evaluation procedure,Diarrheal disorder,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1279755,C0008354,PREVENTS,Protection procedure,Cholera,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1293116,C0004626,PREVENTS,Introduction procedure,"Pneumonia, Bacterial",hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C1293116,C0010356,PREVENTS,Introduction procedure,Cross Infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1293116,C0021832,PREVENTS,Introduction procedure,"Intestinal Diseases, Parasitic",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1293116,C1701940,PREVENTS,Introduction procedure,"Pneumonia, Ventilator-Associated",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1318493,C0035222,PREVENTS,Inflation procedure,"Respiratory Distress Syndrome, Adult",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1449559,C0036690,PREVENTS,Donor Selection,Septicemia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1516615,C0022116,PREVENTS,Clinical Management,Ischemia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1516615,C0029118,PREVENTS,Clinical Management,Opportunistic Infections,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1516615,C0206750,PREVENTS,Clinical Management,Coronavirus Infections,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C1621885,C0032285,PREVENTS,Smoking cessation education,Pneumonia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1621885,C0694549,PREVENTS,Smoking cessation education,Community acquired pneumonia,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C1999123,C0205721,PREVENTS,Continued Surveillance,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C2718026,C4505065,PREVENTS,Capacity Building,Noncommunicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C3165381,C0009450,PREVENTS,Promotion of hygiene,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C3650830,C0009450,PREVENTS,Promotion of exclusive breastfeeding,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C3658272,C0010356,PREVENTS,Hazard Analysis and Critical Control Points,Cross Infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C3714363,C0021400,PREVENTS,Health belief model,Influenza,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4036459,C0010356,PREVENTS,Contacts,Cross Infection,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4036459,C0016627,PREVENTS,Contacts,Influenza in Birds,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4036459,C0037354,PREVENTS,Contacts,Smallpox,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4036459,C0442886,PREVENTS,Contacts,Secondary Infections,hlca,dsyn,2,PREVENTS_HLCAprevDSYN
+C4036459,C3694279,PREVENTS,Contacts,Middle East Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4505099,C0205721,PREVENTS,Antimicrobial Stewardship,"Infections, Hospital",hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4505148,C0009450,PREVENTS,Vaccination Coverage,Communicable Diseases,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4505148,C1321098,PREVENTS,Vaccination Coverage,Human rabies,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4505148,C3694279,PREVENTS,Vaccination Coverage,Middle East Respiratory Syndrome,hlca,dsyn,1,PREVENTS_HLCAprevDSYN
+C4505250,C0277562,PREVENTS,Anti-Smoking Campaign,Adult disease,hlca,dsyn,1,PREVENTS_HLCAprevDSYN

@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002092,C0002520,HIGHER_THAN,Allergens,Amino Acids,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0003316,C0003241,HIGHER_THAN,Epitopes,Antibodies,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0003316,C0003250,HIGHER_THAN,Epitopes,Monoclonal Antibodies,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0003316,C4049595,HIGHER_THAN,Epitopes,HLA Complex,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0003342,C0582263,HIGHER_THAN,"Antigens, Viral",Structural protein,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0003342,C4284285,HIGHER_THAN,"Antigens, Viral",SNAP25 wt Allele,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0042210,C0376659,HIGHER_THAN,Vaccines,Cancer Vaccines,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0042211,C0388911,HIGHER_THAN,"Vaccines, Attenuated",Vascular Endothelial Growth Factor C,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0042211,C0599220,HIGHER_THAN,"Vaccines, Attenuated",Protein Subunits,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0236509,C0599220,HIGHER_THAN,Respiratory syncytial virus antigen,Protein Subunits,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0282580,C4049595,HIGHER_THAN,"Epitopes, T-Lymphocyte",HLA Complex,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0282581,C0002520,HIGHER_THAN,"Epitopes, B-Lymphocyte",Amino Acids,imft,aapp,2,HIGHER_THAN_IMFThghtAAPP
+C0301869,C0140283,HIGHER_THAN,Immunostimulating conjugate (antigen),Retinoid X Receptors,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C0669873,C1953384,HIGHER_THAN,H5 hemagglutinin,Reverse primer,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C1440710,C0537439,HIGHER_THAN,HIV 1 gp41,enfuvirtide,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C2825347,C0008356,HIGHER_THAN,"Immunoglobulin A, Human",Cholera Toxin,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP
+C2825347,C1706005,HIGHER_THAN,"Immunoglobulin A, Human",CD40LG wt Allele,imft,aapp,1,HIGHER_THAN_IMFThghtAAPP

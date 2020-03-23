@@ -1,0 +1,15 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003280,C0018834,CAUSES,Anticoagulants,Heartburn,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0003280,C0027497,CAUSES,Anticoagulants,Nausea,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0003280,C0085593,CAUSES,Anticoagulants,Chills,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0003280,C0235050,CAUSES,Anticoagulants,Tingling of skin,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0003360,C0013144,CAUSES,Antihistamines,Drowsiness,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0026698,C0010200,CAUSES,mucolytic agents,Coughing,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0078516,C0011991,CAUSES,World Health Organization oral rehydration solution,Diarrhea,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0225326,C0010200,CAUSES,Fiber,Coughing,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0718215,C0037088,CAUSES,ACIDOPHILUS,Signs and Symptoms,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C0784478,C1168343,CAUSES,Throat Lozenge,numbness throat,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C3539125,C0003862,CAUSES,other medicated shampoos in ATC,Arthralgia,phsu,sosy,1,CAUSES_PHSUcausSOSY
+C3539125,C0011991,CAUSES,other medicated shampoos in ATC,Diarrhea,phsu,sosy,2,CAUSES_PHSUcausSOSY
+C3539125,C0037090,CAUSES,other medicated shampoos in ATC,"Signs and Symptoms, Respiratory",phsu,sosy,1,CAUSES_PHSUcausSOSY
+C4521445,C0041834,CAUSES,Plasma Product,Erythema,phsu,sosy,1,CAUSES_PHSUcausSOSY

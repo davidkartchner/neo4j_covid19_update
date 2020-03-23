@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0004623,NEG_AFFECTS,Antibiotics,Bacterial Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0004626,NEG_AFFECTS,Antibiotics,"Pneumonia, Bacterial",antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0018378,NEG_AFFECTS,Antibiotics,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0019061,NEG_AFFECTS,Antibiotics,Hemolytic-Uremic Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0032285,NEG_AFFECTS,Antibiotics,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003232,C0235840,NEG_AFFECTS,Antibiotics,Neonatal diarrhea,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0018378,NEG_AFFECTS,Macrolide Antibiotics,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0003240,C0035243,NEG_AFFECTS,Macrolide Antibiotics,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0014806,C0031350,NEG_AFFECTS,Erythromycin,Pharyngitis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0020933,C0949083,NEG_AFFECTS,Imipenem,Hospital acquired pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0020933,C1701940,NEG_AFFECTS,Imipenem,"Pneumonia, Ventilator-Associated",antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0022914,C0035243,NEG_AFFECTS,Lactams,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0026458,C0032285,NEG_AFFECTS,Monobactams,Pneumonia,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0030842,C0035243,NEG_AFFECTS,Penicillins,Respiratory Tract Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0035608,C1827301,NEG_AFFECTS,Rifampin,Extensively Drug-Resistant Tuberculosis,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0039644,C0018378,NEG_AFFECTS,Tetracycline,Guillain-Barre Syndrome,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN
+C0282215,C0026936,NEG_AFFECTS,beta-Lactams,Mycoplasma Infections,antb,dsyn,1,NEG_AFFECTS_ANTBnafctDSYN

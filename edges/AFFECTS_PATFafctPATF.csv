@@ -1,0 +1,90 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003130,C0011304,AFFECTS,Anoxia,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0003130,C0151526,AFFECTS,Anoxia,Premature Birth,patf,patf,1,AFFECTS_PATFafctPATF
+C0004044,C0600228,AFFECTS,Asphyxia,Cardiopulmonary Arrest,patf,patf,1,AFFECTS_PATFafctPATF
+C0004366,C0013990,AFFECTS,Autoimmune Response,Pathological accumulation of air in tissues,patf,patf,1,AFFECTS_PATFafctPATF
+C0011304,C0021368,AFFECTS,Demyelination,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0011304,C0333456,AFFECTS,Demyelination,Primary demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0013990,C2717792,AFFECTS,Pathological accumulation of air in tissues,Airway Remodeling,patf,patf,1,AFFECTS_PATFafctPATF
+C0015376,C0001349,AFFECTS,Extravasation,Acute-Phase Reaction,patf,patf,1,AFFECTS_PATFafctPATF
+C0015376,C0020683,AFFECTS,Extravasation,Hypovolemic Shock,patf,patf,2,AFFECTS_PATFafctPATF
+C0015376,C0332448,AFFECTS,Extravasation,Infiltration,patf,patf,1,AFFECTS_PATFafctPATF
+C0016059,C2699153,AFFECTS,Fibrosis,Cell Invasion,patf,patf,1,AFFECTS_PATFafctPATF
+C0016059,C2717792,AFFECTS,Fibrosis,Airway Remodeling,patf,patf,2,AFFECTS_PATFafctPATF
+C0018790,C0151526,AFFECTS,Cardiac Arrest,Premature Birth,patf,patf,1,AFFECTS_PATFafctPATF
+C0020507,C0332448,AFFECTS,Hyperplasia,Infiltration,patf,patf,1,AFFECTS_PATFafctPATF
+C0020517,C3714514,AFFECTS,Hypersensitivity,Infection,patf,patf,1,AFFECTS_PATFafctPATF
+C0020522,C0020517,AFFECTS,Delayed Hypersensitivity,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C0020564,C0021368,AFFECTS,Hypertrophy,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0020963,C0011304,AFFECTS,Immune Tolerance,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0003860,AFFECTS,Inflammation,Arteritis,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0011304,AFFECTS,Inflammation,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0020517,AFFECTS,Inflammation,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0020963,AFFECTS,Inflammation,Immune Tolerance,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0027540,AFFECTS,Inflammation,Necrosis,patf,patf,2,AFFECTS_PATFafctPATF
+C0021368,C0040053,AFFECTS,Inflammation,Thrombosis,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0151526,AFFECTS,Inflammation,Premature Birth,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0242656,AFFECTS,Inflammation,Disease Progression,patf,patf,2,AFFECTS_PATFafctPATF
+C0021368,C0333165,AFFECTS,Inflammation,Acute obstruction,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0700148,AFFECTS,Inflammation,Congestion,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C0848898,AFFECTS,Inflammation,Neonatal morbidity,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C1155266,AFFECTS,Inflammation,inflammatory response,patf,patf,3,AFFECTS_PATFafctPATF
+C0021368,C1520005,AFFECTS,Inflammation,Viral Pathogenesis,patf,patf,1,AFFECTS_PATFafctPATF
+C0021368,C4022805,AFFECTS,Inflammation,Abnormal inflammatory response,patf,patf,1,AFFECTS_PATFafctPATF
+C0021376,C0021368,AFFECTS,Chronic inflammation,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0021655,C0021368,AFFECTS,Insulin Resistance,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0027540,C0015376,AFFECTS,Necrosis,Extravasation,patf,patf,1,AFFECTS_PATFafctPATF
+C0027540,C0021368,AFFECTS,Necrosis,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0027540,C0333405,AFFECTS,Necrosis,Pyogranuloma,patf,patf,1,AFFECTS_PATFafctPATF
+C0028778,C0025874,AFFECTS,Obstruction,Metrorrhagia,patf,patf,1,AFFECTS_PATFafctPATF
+C0029445,C0036974,AFFECTS,Bone necrosis,Shock,patf,patf,1,AFFECTS_PATFafctPATF
+C0030660,C0011304,AFFECTS,Pathologic Processes,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0030660,C0020564,AFFECTS,Pathologic Processes,Hypertrophy,patf,patf,1,AFFECTS_PATFafctPATF
+C0030660,C0021368,AFFECTS,Pathologic Processes,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0032787,C0026766,AFFECTS,Postoperative Complications,Multiple Organ Failure,patf,patf,1,AFFECTS_PATFafctPATF
+C0036679,C0020517,AFFECTS,Diastasis,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C0036983,C0003130,AFFECTS,Septic Shock,Anoxia,patf,patf,1,AFFECTS_PATFafctPATF
+C0151811,C0027540,AFFECTS,Subcutaneous nodule,Necrosis,patf,patf,1,AFFECTS_PATFafctPATF
+C0162633,C0020517,AFFECTS,Viral Shedding,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C0162633,C0242781,AFFECTS,Viral Shedding,disease transmission,patf,patf,1,AFFECTS_PATFafctPATF
+C0162633,C4288028,AFFECTS,Viral Shedding,Vector Transmission,patf,patf,1,AFFECTS_PATFafctPATF
+C0206277,C3714514,AFFECTS,Fatal Outcome,Infection,patf,patf,1,AFFECTS_PATFafctPATF
+C0220994,C0006114,AFFECTS,Hyperammonemia,Cerebral Edema,patf,patf,1,AFFECTS_PATFafctPATF
+C0242184,C0267778,AFFECTS,Hypoxia,Adhesion of intestine,patf,patf,1,AFFECTS_PATFafctPATF
+C0332448,C0011304,AFFECTS,Infiltration,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0332448,C0021368,AFFECTS,Infiltration,Inflammation,patf,patf,3,AFFECTS_PATFafctPATF
+C0332448,C0027540,AFFECTS,Infiltration,Necrosis,patf,patf,1,AFFECTS_PATFafctPATF
+C0332448,C0600518,AFFECTS,Infiltration,Choroidal Neovascularization,patf,patf,1,AFFECTS_PATFafctPATF
+C0332448,C1527304,AFFECTS,Infiltration,Allergic Reaction,patf,patf,2,AFFECTS_PATFafctPATF
+C0333467,C3714514,AFFECTS,Cytopathic effect,Infection,patf,patf,1,AFFECTS_PATFafctPATF
+C0333641,C0027686,AFFECTS,Atrophic,Pathologic Neovascularization,patf,patf,1,AFFECTS_PATFafctPATF
+C0392707,C0021368,AFFECTS,Atopy,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C0392707,C3714514,AFFECTS,Atopy,Infection,patf,patf,1,AFFECTS_PATFafctPATF
+C0443146,C0011304,AFFECTS,Autoimmune reaction,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C0596761,C0020517,AFFECTS,Immunosenescence,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C0700148,C0028778,AFFECTS,Congestion,Obstruction,patf,patf,1,AFFECTS_PATFafctPATF
+C1155266,C0021368,AFFECTS,inflammatory response,Inflammation,patf,patf,3,AFFECTS_PATFafctPATF
+C1155266,C0021375,AFFECTS,inflammatory response,allergic inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C1155266,C0026766,AFFECTS,inflammatory response,Multiple Organ Failure,patf,patf,2,AFFECTS_PATFafctPATF
+C1155266,C0036983,AFFECTS,inflammatory response,Septic Shock,patf,patf,1,AFFECTS_PATFafctPATF
+C1155266,C0242656,AFFECTS,inflammatory response,Disease Progression,patf,patf,2,AFFECTS_PATFafctPATF
+C1155266,C0596761,AFFECTS,inflammatory response,Immunosenescence,patf,patf,1,AFFECTS_PATFafctPATF
+C1155266,C3714514,AFFECTS,inflammatory response,Infection,patf,patf,1,AFFECTS_PATFafctPATF
+C1265824,C0021368,AFFECTS,Persistent inflammation,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C1398094,C0021368,AFFECTS,induced; birth,Inflammation,patf,patf,1,AFFECTS_PATFafctPATF
+C1510411,C0699748,AFFECTS,metaplastic cell transformation,Pathogenesis,patf,patf,1,AFFECTS_PATFafctPATF
+C1520005,C0020507,AFFECTS,Viral Pathogenesis,Hyperplasia,patf,patf,1,AFFECTS_PATFafctPATF
+C1520005,C0020564,AFFECTS,Viral Pathogenesis,Hypertrophy,patf,patf,1,AFFECTS_PATFafctPATF
+C1520005,C0242656,AFFECTS,Viral Pathogenesis,Disease Progression,patf,patf,1,AFFECTS_PATFafctPATF
+C1527304,C1155266,AFFECTS,Allergic Reaction,inflammatory response,patf,patf,1,AFFECTS_PATFafctPATF
+C2004491,C0011304,AFFECTS,Cicatrix,Demyelination,patf,patf,1,AFFECTS_PATFafctPATF
+C2004491,C0015376,AFFECTS,Cicatrix,Extravasation,patf,patf,1,AFFECTS_PATFafctPATF
+C2717792,C0016059,AFFECTS,Airway Remodeling,Fibrosis,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C0004366,AFFECTS,Infection,Autoimmune Response,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C0020517,AFFECTS,Infection,Hypersensitivity,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C0021368,AFFECTS,Infection,Inflammation,patf,patf,3,AFFECTS_PATFafctPATF
+C3714514,C0036974,AFFECTS,Infection,Shock,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C0242656,AFFECTS,Infection,Disease Progression,patf,patf,2,AFFECTS_PATFafctPATF
+C3714514,C0242781,AFFECTS,Infection,disease transmission,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C0332448,AFFECTS,Infection,Infiltration,patf,patf,1,AFFECTS_PATFafctPATF
+C3714514,C1155266,AFFECTS,Infection,inflammatory response,patf,patf,1,AFFECTS_PATFafctPATF

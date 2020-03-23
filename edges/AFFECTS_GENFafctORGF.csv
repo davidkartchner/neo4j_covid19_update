@@ -1,0 +1,87 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0014653,AFFECTS,Alternative Splicing,Equilibrium,genf,orgf,1,AFFECTS_GENFafctORGF
+C0002345,C0042774,AFFECTS,Alternative Splicing,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0012899,C1155328,AFFECTS,DNA Repair,Antiviral Response,genf,orgf,1,AFFECTS_GENFafctORGF
+C0012899,C1752856,AFFECTS,DNA Repair,Host-Pathogen Interactions,genf,orgf,1,AFFECTS_GENFafctORGF
+C0017255,C0042774,AFFECTS,Gene Activation,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0017260,C0042774,AFFECTS,Gene Deletion,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0017262,C0011065,AFFECTS,Gene Expression,Cessation of life,genf,orgf,1,AFFECTS_GENFafctORGF
+C0017262,C0042774,AFFECTS,Gene Expression,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0017262,C0301872,AFFECTS,Gene Expression,Immune response,genf,orgf,5,AFFECTS_GENFafctORGF
+C0017263,C0006159,AFFECTS,Gene Expression Regulation,Breeding,genf,orgf,2,AFFECTS_GENFafctORGF
+C0026882,C0000934,AFFECTS,Mutation,Acclimatization,genf,orgf,4,AFFECTS_GENFafctORGF
+C0026882,C0005615,AFFECTS,Mutation,Birth,genf,orgf,1,AFFECTS_GENFafctORGF
+C0026882,C0014653,AFFECTS,Mutation,Equilibrium,genf,orgf,3,AFFECTS_GENFafctORGF
+C0026882,C0018270,AFFECTS,Mutation,Growth,genf,orgf,5,AFFECTS_GENFafctORGF
+C0026882,C0026649,AFFECTS,Mutation,Movement,genf,orgf,1,AFFECTS_GENFafctORGF
+C0026882,C0042774,AFFECTS,Mutation,Virus Replication,genf,orgf,13,AFFECTS_GENFafctORGF
+C0026882,C0301872,AFFECTS,Mutation,Immune response,genf,orgf,4,AFFECTS_GENFafctORGF
+C0026882,C0678723,AFFECTS,Mutation,Biologic Development,genf,orgf,2,AFFECTS_GENFafctORGF
+C0026882,C0699900,AFFECTS,Mutation,Catabolism,genf,orgf,1,AFFECTS_GENFafctORGF
+C0026882,C1654934,AFFECTS,Mutation,Immune Evasion,genf,orgf,1,AFFECTS_GENFafctORGF
+C0032529,C0042774,AFFECTS,Genetic Polymorphism,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0032529,C0301872,AFFECTS,Genetic Polymorphism,Immune response,genf,orgf,4,AFFECTS_GENFafctORGF
+C0032529,C1327413,AFFECTS,Genetic Polymorphism,cytokine production,genf,orgf,1,AFFECTS_GENFafctORGF
+C0034865,C0000934,AFFECTS,"Recombination, Genetic",Acclimatization,genf,orgf,2,AFFECTS_GENFafctORGF
+C0034865,C0042774,AFFECTS,"Recombination, Genetic",Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C0018270,AFFECTS,"Transcription, Genetic",Growth,genf,orgf,3,AFFECTS_GENFafctORGF
+C0040649,C0025516,AFFECTS,"Transcription, Genetic","Metabolic Detoxication, Drug",genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C0042774,AFFECTS,"Transcription, Genetic",Virus Replication,genf,orgf,4,AFFECTS_GENFafctORGF
+C0040649,C1154988,AFFECTS,"Transcription, Genetic",defense response,genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C1155328,AFFECTS,"Transcription, Genetic",Antiviral Response,genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C1160185,AFFECTS,"Transcription, Genetic",transduction,genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C1654934,AFFECTS,"Transcription, Genetic",Immune Evasion,genf,orgf,1,AFFECTS_GENFafctORGF
+C0040649,C3159140,AFFECTS,"Transcription, Genetic",interferon production,genf,orgf,1,AFFECTS_GENFafctORGF
+C0079870,C0042774,AFFECTS,"Mutagenesis, Site-Directed",Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0086934,C0042774,AFFECTS,"RNA, Messenger, Splicing",Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0162493,C0011065,AFFECTS,Transcriptional Activation,Cessation of life,genf,orgf,1,AFFECTS_GENFafctORGF
+C0162493,C0043240,AFFECTS,Transcriptional Activation,Wound Healing,genf,orgf,1,AFFECTS_GENFafctORGF
+C0162493,C0301872,AFFECTS,Transcriptional Activation,Immune response,genf,orgf,2,AFFECTS_GENFafctORGF
+C0162735,C0018270,AFFECTS,Point Mutation,Growth,genf,orgf,1,AFFECTS_GENFafctORGF
+C0162735,C0042774,AFFECTS,Point Mutation,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0282572,C0001811,AFFECTS,"Frameshifting, Ribosomal",Aging,genf,orgf,1,AFFECTS_GENFafctORGF
+C0282572,C0026649,AFFECTS,"Frameshifting, Ribosomal",Movement,genf,orgf,1,AFFECTS_GENFafctORGF
+C0282572,C0042774,AFFECTS,"Frameshifting, Ribosomal",Virus Replication,genf,orgf,2,AFFECTS_GENFafctORGF
+C0282629,C0042774,AFFECTS,Virus Assembly,Virus Replication,genf,orgf,4,AFFECTS_GENFafctORGF
+C0314611,C3820826,AFFECTS,Gene type,iron acquisition,genf,orgf,1,AFFECTS_GENFafctORGF
+C0314620,C0000934,AFFECTS,Non structural gene,Acclimatization,genf,orgf,1,AFFECTS_GENFafctORGF
+C0314627,C0042774,AFFECTS,Gene function,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0524550,C0043240,AFFECTS,Nucleotide Excision Repair,Wound Healing,genf,orgf,1,AFFECTS_GENFafctORGF
+C0596610,C0301872,AFFECTS,gene interaction,Immune response,genf,orgf,1,AFFECTS_GENFafctORGF
+C0597415,C0042774,AFFECTS,RNA methylation,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0598175,C0014653,AFFECTS,Chromosome Segregation,Equilibrium,genf,orgf,1,AFFECTS_GENFafctORGF
+C0598312,C0042774,AFFECTS,DNA Replication,Virus Replication,genf,orgf,2,AFFECTS_GENFafctORGF
+C0598496,C0042774,AFFECTS,Gene Silencing,Virus Replication,genf,orgf,2,AFFECTS_GENFafctORGF
+C0599177,C0042774,AFFECTS,protein activation,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C0599773,C0000934,AFFECTS,Homologous Recombination,Acclimatization,genf,orgf,1,AFFECTS_GENFafctORGF
+C0599773,C0043240,AFFECTS,Homologous Recombination,Wound Healing,genf,orgf,1,AFFECTS_GENFafctORGF
+C0678945,C1136180,AFFECTS,polygene,Disease Resistance,genf,orgf,1,AFFECTS_GENFafctORGF
+C0678951,C0301872,AFFECTS,gene polymorphism,Immune response,genf,orgf,1,AFFECTS_GENFafctORGF
+C1136031,C0005615,AFFECTS,RNA Interference,Birth,genf,orgf,1,AFFECTS_GENFafctORGF
+C1136031,C0018270,AFFECTS,RNA Interference,Growth,genf,orgf,1,AFFECTS_GENFafctORGF
+C1136031,C0042774,AFFECTS,RNA Interference,Virus Replication,genf,orgf,12,AFFECTS_GENFafctORGF
+C1136031,C0301872,AFFECTS,RNA Interference,Immune response,genf,orgf,1,AFFECTS_GENFafctORGF
+C1136031,C1155328,AFFECTS,RNA Interference,Antiviral Response,genf,orgf,1,AFFECTS_GENFafctORGF
+C1136031,C1160185,AFFECTS,RNA Interference,transduction,genf,orgf,2,AFFECTS_GENFafctORGF
+C1148824,C0699900,AFFECTS,exonuclease activity,Catabolism,genf,orgf,1,AFFECTS_GENFafctORGF
+C1148846,C0042774,AFFECTS,RNA Binding,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1148851,C0042774,AFFECTS,double-stranded RNA binding,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1148870,C0042774,AFFECTS,RNA helicase activity,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1149627,C0042774,AFFECTS,helicase activity,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1152412,C0018270,AFFECTS,RNA-directed RNA polymerase activity,Growth,genf,orgf,1,AFFECTS_GENFafctORGF
+C1152412,C0042774,AFFECTS,RNA-directed RNA polymerase activity,Virus Replication,genf,orgf,3,AFFECTS_GENFafctORGF
+C1158816,C0699900,AFFECTS,mRNA transcription,Catabolism,genf,orgf,1,AFFECTS_GENFafctORGF
+C1158817,C0042774,AFFECTS,viral transcription,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1257825,C0043240,AFFECTS,Genomic Stability,Wound Healing,genf,orgf,2,AFFECTS_GENFafctORGF
+C1511695,C0042774,AFFECTS,DNA Sequence Rearrangement,Virus Replication,genf,orgf,2,AFFECTS_GENFafctORGF
+C1511695,C0043240,AFFECTS,DNA Sequence Rearrangement,Wound Healing,genf,orgf,1,AFFECTS_GENFafctORGF
+C1514665,C0042774,AFFECTS,RNA Interference Pathway,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1516924,C0005823,AFFECTS,Epigenetic Process,Blood Pressure,genf,orgf,1,AFFECTS_GENFafctORGF
+C1516924,C0301872,AFFECTS,Epigenetic Process,Immune response,genf,orgf,1,AFFECTS_GENFafctORGF
+C1518406,C0043240,AFFECTS,Non-Homologous DNA End-Joining,Wound Healing,genf,orgf,2,AFFECTS_GENFafctORGF
+C1519323,C0042774,AFFECTS,Silent Mutation,Virus Replication,genf,orgf,1,AFFECTS_GENFafctORGF
+C1519614,C0678723,AFFECTS,Genetic Translation Process,Biologic Development,genf,orgf,2,AFFECTS_GENFafctORGF
+C1519614,C1819430,AFFECTS,Genetic Translation Process,type I interferon production,genf,orgf,1,AFFECTS_GENFafctORGF
+C2260797,C0042774,AFFECTS,RNase activity,Virus Replication,genf,orgf,4,AFFECTS_GENFafctORGF
+C2610186,C0025519,AFFECTS,"nuclear mRNA cis splicing, via spliceosome",Metabolism,genf,orgf,2,AFFECTS_GENFafctORGF
+C3494434,C0678723,AFFECTS,Epigenetic Repression,Biologic Development,genf,orgf,1,AFFECTS_GENFafctORGF

@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004914,C0014672,ISA,Bedding,Equipment,mnob,mnob,3,ISA_MNOBisaMNOB
+C0009622,C0347997,ISA,Computers,Physical object,mnob,mnob,2,ISA_MNOBisaMNOB
+C0010164,C0020050,ISA,Cosmetics,Household Products,mnob,mnob,1,ISA_MNOBisaMNOB
+C0014679,C0014672,ISA,Hospital Equipment,Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0018020,C0014672,ISA,Goggles,Equipment,mnob,mnob,3,ISA_MNOBisaMNOB
+C0018020,C1443871,ISA,Goggles,Personal protective equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0033611,C1443871,ISA,Protective Clothing,Personal protective equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0036988,C0009072,ISA,Shoes,Clothing,mnob,mnob,1,ISA_MNOBisaMNOB
+C0039224,C0014672,ISA,Table - furniture,Equipment,mnob,mnob,2,ISA_MNOBisaMNOB
+C0040565,C0347997,ISA,Toys,Physical object,mnob,mnob,1,ISA_MNOBisaMNOB
+C0162419,C0009622,ISA,Personal Computers,Computers,mnob,mnob,1,ISA_MNOBisaMNOB
+C0179376,C0014672,ISA,"Bottle, device",Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0179400,C0014672,ISA,Box,Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0179400,C0347997,ISA,Box,Physical object,mnob,mnob,2,ISA_MNOBisaMNOB
+C0179586,C0009072,ISA,Caps,Clothing,mnob,mnob,2,ISA_MNOBisaMNOB
+C0331794,C0009072,ISA,Boots,Clothing,mnob,mnob,3,ISA_MNOBisaMNOB
+C0331794,C0014672,ISA,Boots,Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0331794,C0347997,ISA,Boots,Physical object,mnob,mnob,1,ISA_MNOBisaMNOB
+C0336725,C0336663,ISA,Cross-bow,Weapons,mnob,mnob,1,ISA_MNOBisaMNOB
+C0336816,C0336815,ISA,School bus,Motor bus,mnob,mnob,1,ISA_MNOBisaMNOB
+C0336894,C0009072,ISA,Footwear,Clothing,mnob,mnob,1,ISA_MNOBisaMNOB
+C0441051,C0014672,ISA,Gloves,Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C0557636,C0432588,ISA,Military accommodation,Residential institution,mnob,mnob,2,ISA_MNOBisaMNOB
+C0557702,C0347997,ISA,Window (physical object),Physical object,mnob,mnob,2,ISA_MNOBisaMNOB
+C0562324,C0442677,ISA,Church (environment),Public building,mnob,mnob,1,ISA_MNOBisaMNOB
+C0598124,C0014672,ISA,charge coupled device camera,Equipment,mnob,mnob,1,ISA_MNOBisaMNOB
+C1257851,C1450053,ISA,Nanotubes,Nanostructured Materials,mnob,mnob,1,ISA_MNOBisaMNOB
+C1258084,C1450054,ISA,Quantum Dots,Artificial nanoparticles,mnob,mnob,1,ISA_MNOBisaMNOB
+C1443871,C0014672,ISA,Personal protective equipment,Equipment,mnob,mnob,3,ISA_MNOBisaMNOB
+C1450054,C0347997,ISA,Artificial nanoparticles,Physical object,mnob,mnob,1,ISA_MNOBisaMNOB
+C1704639,C0347997,ISA,Matrix Component of Device,Physical object,mnob,mnob,1,ISA_MNOBisaMNOB
+C1721060,C1450053,ISA,Metal Nanoparticles,Nanostructured Materials,mnob,mnob,2,ISA_MNOBisaMNOB
+C1721062,C1450054,ISA,Nanocapsules,Artificial nanoparticles,mnob,mnob,1,ISA_MNOBisaMNOB
+C1721063,C1450053,ISA,Nanowires,Nanostructured Materials,mnob,mnob,3,ISA_MNOBisaMNOB
+C1881922,C1257851,ISA,Multi-Walled Nanotube,Nanotubes,mnob,mnob,1,ISA_MNOBisaMNOB
+C1881983,C1450054,ISA,Nanoshells,Artificial nanoparticles,mnob,mnob,1,ISA_MNOBisaMNOB
+C1883034,C1257851,ISA,Single-Walled Nanotube,Nanotubes,mnob,mnob,1,ISA_MNOBisaMNOB
+C1883034,C1450053,ISA,Single-Walled Nanotube,Nanostructured Materials,mnob,mnob,1,ISA_MNOBisaMNOB
+C1883167,C1547538,ISA,Station,Facility,mnob,mnob,2,ISA_MNOBisaMNOB
+C2936467,C1450053,ISA,Nanodiamonds,Nanostructured Materials,mnob,mnob,1,ISA_MNOBisaMNOB
+C2984220,C0677453,ISA,Bidis,Cigarette,mnob,mnob,1,ISA_MNOBisaMNOB

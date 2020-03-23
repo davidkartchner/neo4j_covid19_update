@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012683,C0597308,NEG_TREATS,Disinfection,protozoal cyst,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0021485,C0005903,NEG_TREATS,Injection of therapeutic agent,Body Temperature,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0042196,C0392209,NEG_TREATS,Vaccination,Nutritional status,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0042196,C1136169,NEG_TREATS,Vaccination,Pathogenicity,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0065764,C1136169,NEG_TREATS,bleomycin/cisplatin/methotrexate protocol,Pathogenicity,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0280603,C0085732,NEG_TREATS,fluorouracil/methotrexate protocol,Ability,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0376518,C0034537,NEG_TREATS,Adoptive Transfer,Radiation Tolerance,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0439775,C0005903,NEG_TREATS,Elevation procedure,Body Temperature,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C0439775,C0085732,NEG_TREATS,Elevation procedure,Ability,topp,orga,1,NEG_TREATS_TOPPntrtsORGA
+C1511790,C0085732,NEG_TREATS,Detection,Ability,topp,orga,1,NEG_TREATS_TOPPntrtsORGA

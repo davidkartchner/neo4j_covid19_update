@@ -1,0 +1,370 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004185,C0179774,USES,Atomizers,Nasopharyngeal catheter,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0005975,USES,Bone plates,Bone Screws,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0180392,USES,Bone plates,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0180860,USES,Bone plates,Filters,medd,medd,15,USES_MEDDusesMEDD
+C0005971,C0180919,USES,Bone plates,"FLUOROMETER, FOR CLINICAL USE",medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0182258,USES,Bone plates,Microplate Reader,medd,medd,7,USES_MEDDusesMEDD
+C0005971,C0183115,USES,Bone plates,Scanning Systems,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0183400,USES,Bone plates,spectrophotometer,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0491340,USES,Bone plates,"PIPETTE, PASTEUR",medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0491921,USES,Bone plates,IMPACTOR,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C0677048,USES,Bone plates,Manual Cytometers,medd,medd,1,USES_MEDDusesMEDD
+C0005971,C1140606,USES,Bone plates,"SORTER, CELL",medd,medd,1,USES_MEDDusesMEDD
+C0005971,C1322960,USES,Bone plates,Petri dish,medd,medd,1,USES_MEDDusesMEDD
+C0009653,C0024861,USES,"Condoms, Male",Masks,medd,medd,1,USES_MEDDusesMEDD
+C0015421,C0180153,USES,Eyeglasses,Covers (device),medd,medd,17,USES_MEDDusesMEDD
+C0015421,C0181839,USES,Eyeglasses,Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0015421,C0879140,USES,Eyeglasses,Towelettes,medd,medd,1,USES_MEDDusesMEDD
+C0015421,C3878867,USES,Eyeglasses,Microscope objective,medd,medd,1,USES_MEDDusesMEDD
+C0016533,C0182299,USES,Forceps,Pipette tip,medd,medd,1,USES_MEDDusesMEDD
+C0016533,C0182555,USES,Forceps,Punch,medd,medd,1,USES_MEDDusesMEDD
+C0016533,C0183156,USES,Forceps,Iris scissors,medd,medd,2,USES_MEDDusesMEDD
+C0016533,C0725865,USES,Forceps,disposable,medd,medd,6,USES_MEDDusesMEDD
+C0021436,C0184252,USES,Infusion Pump,Medical Valves,medd,medd,1,USES_MEDDusesMEDD
+C0021455,C0593058,USES,Inhalation Devices,Diskhaler,medd,medd,1,USES_MEDDusesMEDD
+C0021461,C0180112,USES,Inhaler,Controllers,medd,medd,1,USES_MEDDusesMEDD
+C0021461,C0221874,USES,Inhaler,spacer device,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0038928,USES,Masks,Surgical Instruments,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0042497,USES,Masks,Mechanical Ventilator,medd,medd,23,USES_MEDDusesMEDD
+C0024861,C0179177,USES,Masks,Autoclave,medd,medd,2,USES_MEDDusesMEDD
+C0024861,C0180112,USES,Masks,Controllers,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0180459,USES,Masks,Disks (device),medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0180860,USES,Masks,Filters,medd,medd,3,USES_MEDDusesMEDD
+C0024861,C0181687,USES,Masks,loops,medd,medd,2,USES_MEDDusesMEDD
+C0024861,C0181758,USES,Masks,Surgical face mask,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0183086,USES,Masks,sanitizers,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0183251,USES,Masks,Shield,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0492229,USES,Masks,PNEUMOTACHOMETER,medd,medd,1,USES_MEDDusesMEDD
+C0024861,C0590323,USES,Masks,Gauzes,medd,medd,21,USES_MEDDusesMEDD
+C0024861,C0725865,USES,Masks,disposable,medd,medd,6,USES_MEDDusesMEDD
+C0024861,C1706912,USES,Masks,BARRIER,medd,medd,1,USES_MEDDusesMEDD
+C0027524,C0024861,USES,Nebulizers,Masks,medd,medd,1,USES_MEDDusesMEDD
+C0027524,C0497878,USES,Nebulizers,Mouth piece,medd,medd,1,USES_MEDDusesMEDD
+C0027524,C0725865,USES,Nebulizers,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0027551,C1883522,USES,Needle device,Vacutainer,medd,medd,1,USES_MEDDusesMEDD
+C0030068,C0444755,USES,"Oxygenators, Membrane",Centrifugal pump,medd,medd,1,USES_MEDDusesMEDD
+C0032042,C0180475,USES,Placebos,Soap dispenser,medd,medd,1,USES_MEDDusesMEDD
+C0038969,C0175718,USES,Surgical sutures,Medical pins,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C0027551,USES,Syringes,Needle device,medd,medd,3,USES_MEDDusesMEDD
+C0039142,C0178959,USES,Syringes,ADAPTER,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C0180860,USES,Syringes,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0039142,C0181332,USES,Syringes,Syringe pump,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C0183628,USES,Syringes,Stopcocks,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C0441186,USES,Syringes,Fine needle,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C0785697,USES,Syringes,Razor blade,medd,medd,1,USES_MEDDusesMEDD
+C0039142,C3495388,USES,Syringes,Vacuum Pumps,medd,medd,1,USES_MEDDusesMEDD
+C0040661,C0182400,USES,Transducers,Probes,medd,medd,1,USES_MEDDusesMEDD
+C0040661,C0872321,USES,Transducers,miniature biomedical equipment,medd,medd,1,USES_MEDDusesMEDD
+C0040662,C0184252,USES,"Transducers, Pressure",Medical Valves,medd,medd,1,USES_MEDDusesMEDD
+C0042497,C0024861,USES,Mechanical Ventilator,Masks,medd,medd,16,USES_MEDDusesMEDD
+C0042497,C0178987,USES,Mechanical Ventilator,Artificial Airways,medd,medd,1,USES_MEDDusesMEDD
+C0042497,C0180453,USES,Mechanical Ventilator,Laryngoscopes,medd,medd,1,USES_MEDDusesMEDD
+C0042497,C0180860,USES,Mechanical Ventilator,Filters,medd,medd,24,USES_MEDDusesMEDD
+C0042497,C0725865,USES,Mechanical Ventilator,disposable,medd,medd,8,USES_MEDDusesMEDD
+C0042497,C2720748,USES,Mechanical Ventilator,Hoods,medd,medd,1,USES_MEDDusesMEDD
+C0085590,C0179740,USES,catheter device,Peripherally inserted central catheter (physical object),medd,medd,1,USES_MEDDusesMEDD
+C0175648,C0182400,USES,Mats,Probes,medd,medd,1,USES_MEDDusesMEDD
+C0175649,C0011394,USES,Prosthesis,Dentures,medd,medd,1,USES_MEDDusesMEDD
+C0175722,C0180153,USES,Clip,Covers (device),medd,medd,2,USES_MEDDusesMEDD
+C0175723,C0039142,USES,Bands,Syringes,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C0179038,USES,Bands,"Analyzer, device",medd,medd,2,USES_MEDDusesMEDD
+C0175723,C0180112,USES,Bands,Controllers,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C0182400,USES,Bands,Probes,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C0183115,USES,Bands,Scanning Systems,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C0184035,USES,Bands,Transilluminator,medd,medd,2,USES_MEDDusesMEDD
+C0175723,C0454147,USES,Bands,Cutout,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C0491921,USES,Bands,IMPACTOR,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C1553671,USES,Bands,Mandibular right second molar abutment,medd,medd,1,USES_MEDDusesMEDD
+C0175723,C2363670,USES,Bands,developers,medd,medd,1,USES_MEDDusesMEDD
+C0175727,C0009653,USES,Stimulator,"Condoms, Male",medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0179245,USES,biomedical tube device,water baths,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0179533,USES,biomedical tube device,"Camera, device",medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0179834,USES,biomedical tube device,Centrifuges (device),medd,medd,32,USES_MEDDusesMEDD
+C0175730,C0180860,USES,biomedical tube device,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0175730,C0181200,USES,biomedical tube device,homogenizers,medd,medd,4,USES_MEDDusesMEDD
+C0175730,C0182362,USES,biomedical tube device,Skin Prep Kits,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0183115,USES,biomedical tube device,Scanning Systems,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0183216,USES,biomedical tube device,serum separators,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0183336,USES,biomedical tube device,Sleeve,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0183380,USES,biomedical tube device,spatulas,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0392223,USES,biomedical tube device,"Lights, manufactured",medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0392308,USES,biomedical tube device,vacuum cleaners,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0725865,USES,biomedical tube device,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0726194,USES,biomedical tube device,Stool Collection,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0776677,USES,biomedical tube device,Disposable Needle,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C0878835,USES,biomedical tube device,blood gas analyzer,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C1520064,USES,biomedical tube device,Vortex Mixer,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C1553430,USES,biomedical tube device,Serum Separator Tube,medd,medd,2,USES_MEDDusesMEDD
+C0175730,C1608928,USES,biomedical tube device,Refractometer,medd,medd,1,USES_MEDDusesMEDD
+C0175730,C1883522,USES,biomedical tube device,Vacutainer,medd,medd,27,USES_MEDDusesMEDD
+C0178959,C0027524,USES,ADAPTER,Nebulizers,medd,medd,2,USES_MEDDusesMEDD
+C0178959,C0180919,USES,ADAPTER,"FLUOROMETER, FOR CLINICAL USE",medd,medd,1,USES_MEDDusesMEDD
+C0178959,C0182362,USES,ADAPTER,Skin Prep Kits,medd,medd,1,USES_MEDDusesMEDD
+C0178959,C0491931,USES,ADAPTER,Orthopedic Fork,medd,medd,1,USES_MEDDusesMEDD
+C0178987,C3879089,USES,Artificial Airways,Whole-body plethysmograph,medd,medd,1,USES_MEDDusesMEDD
+C0179038,C0181994,USES,"Analyzer, device",Nephelometer,medd,medd,1,USES_MEDDusesMEDD
+C0179038,C1552190,USES,"Analyzer, device",Mandibular left second premolar implant,medd,medd,1,USES_MEDDusesMEDD
+C0179129,C0180153,USES,Apron,Covers (device),medd,medd,1,USES_MEDDusesMEDD
+C0179129,C0725865,USES,Apron,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0179245,C0392223,USES,water baths,"Lights, manufactured",medd,medd,1,USES_MEDDusesMEDD
+C0179245,C1139930,USES,water baths,Device Plate,medd,medd,1,USES_MEDDusesMEDD
+C0179302,C0182400,USES,"Binder, device",Probes,medd,medd,1,USES_MEDDusesMEDD
+C0179323,C0179974,USES,Blades (device),Clippers,medd,medd,1,USES_MEDDusesMEDD
+C0179323,C0183663,USES,Blades (device),"Stylet, device",medd,medd,2,USES_MEDDusesMEDD
+C0179326,C0725865,USES,"BLADE, SCALPEL",disposable,medd,medd,1,USES_MEDDusesMEDD
+C0179407,C0872171,USES,brackets,flasks,medd,medd,1,USES_MEDDusesMEDD
+C0179533,C0180392,USES,"Camera, device",Detectors,medd,medd,2,USES_MEDDusesMEDD
+C0179533,C0180860,USES,"Camera, device",Filters,medd,medd,1,USES_MEDDusesMEDD
+C0179533,C0183919,USES,"Camera, device",infrared thermometers,medd,medd,1,USES_MEDDusesMEDD
+C0179533,C3876349,USES,"Camera, device",Wall mount,medd,medd,1,USES_MEDDusesMEDD
+C0179630,C0392223,USES,Cartridge device,"Lights, manufactured",medd,medd,1,USES_MEDDusesMEDD
+C0179630,C0725865,USES,Cartridge device,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0179740,C0522637,USES,Peripherally inserted central catheter (physical object),"Measuring ruler, device",medd,medd,1,USES_MEDDusesMEDD
+C0179788,C0725865,USES,Suction catheter,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0179804,C0184222,USES,"CATHETER, FOLEY",Urinary collection bag,medd,medd,1,USES_MEDDusesMEDD
+C0179958,C0180860,USES,Cleaning Device,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0179958,C0336630,USES,Cleaning Device,Endotracheal tube,medd,medd,1,USES_MEDDusesMEDD
+C0180011,C0183644,USES,Collector device,Wheeled Stretchers,medd,medd,1,USES_MEDDusesMEDD
+C0180063,C0497878,USES,compressor,Mouth piece,medd,medd,1,USES_MEDDusesMEDD
+C0180112,C0180266,USES,Controllers,CUVETTES,medd,medd,1,USES_MEDDusesMEDD
+C0180112,C0522637,USES,Controllers,"Measuring ruler, device",medd,medd,1,USES_MEDDusesMEDD
+C0180153,C0182400,USES,Covers (device),Probes,medd,medd,1,USES_MEDDusesMEDD
+C0180153,C0183336,USES,Covers (device),Sleeve,medd,medd,1,USES_MEDDusesMEDD
+C0180153,C2720748,USES,Covers (device),Hoods,medd,medd,1,USES_MEDDusesMEDD
+C0180212,C2720530,USES,Endotracheal tube cuff,Manometer,medd,medd,2,USES_MEDDusesMEDD
+C0180266,C0725865,USES,CUVETTES,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0180279,C0182258,USES,automated flow cytometers,Microplate Reader,medd,medd,1,USES_MEDDusesMEDD
+C0180279,C1140606,USES,automated flow cytometers,"SORTER, CELL",medd,medd,1,USES_MEDDusesMEDD
+C0180453,C0178959,USES,Laryngoscopes,ADAPTER,medd,medd,1,USES_MEDDusesMEDD
+C0180453,C0178987,USES,Laryngoscopes,Artificial Airways,medd,medd,1,USES_MEDDusesMEDD
+C0180454,C0180463,USES,Culture plate,Dispenser,medd,medd,1,USES_MEDDusesMEDD
+C0180454,C0180860,USES,Culture plate,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0180454,C0182258,USES,Culture plate,Microplate Reader,medd,medd,1,USES_MEDDusesMEDD
+C0180454,C1139930,USES,Culture plate,Device Plate,medd,medd,1,USES_MEDDusesMEDD
+C0180459,C0024861,USES,Disks (device),Masks,medd,medd,1,USES_MEDDusesMEDD
+C0180459,C0180859,USES,Disks (device),filter papers,medd,medd,6,USES_MEDDusesMEDD
+C0180459,C0180860,USES,Disks (device),Filters,medd,medd,2,USES_MEDDusesMEDD
+C0180463,C0183086,USES,Dispenser,sanitizers,medd,medd,6,USES_MEDDusesMEDD
+C0180488,C0179129,USES,"Dosimeter, device",Apron,medd,medd,1,USES_MEDDusesMEDD
+C0180488,C0180392,USES,"Dosimeter, device",Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0180488,C0182634,USES,"Dosimeter, device",radiometers,medd,medd,1,USES_MEDDusesMEDD
+C0180497,C0179804,USES,Drainage bag,"CATHETER, FOLEY",medd,medd,1,USES_MEDDusesMEDD
+C0180714,C1314650,USES,emergency kits,"SUPPLY, NOT OTHERWISE SPECIFIED",medd,medd,1,USES_MEDDusesMEDD
+C0180859,C0181845,USES,filter papers,Electron microscope,medd,medd,1,USES_MEDDusesMEDD
+C0180859,C0183115,USES,filter papers,Scanning Systems,medd,medd,1,USES_MEDDusesMEDD
+C0180859,C0262880,USES,filter papers,Transmission Electron Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0180921,C0179533,USES,fluoroscope,"Camera, device",medd,medd,1,USES_MEDDusesMEDD
+C0180936,C0491243,USES,Biopsy forceps,Flexible endoscope,medd,medd,1,USES_MEDDusesMEDD
+C0180936,C0725865,USES,Biopsy forceps,disposable,medd,medd,3,USES_MEDDusesMEDD
+C0180979,C0007963,USES,Frame (physical object),Charts (device),medd,medd,1,USES_MEDDusesMEDD
+C0180979,C0179533,USES,Frame (physical object),"Camera, device",medd,medd,1,USES_MEDDusesMEDD
+C0180979,C0180860,USES,Frame (physical object),Filters,medd,medd,1,USES_MEDDusesMEDD
+C0180979,C0450042,USES,Frame (physical object),Pinhole,medd,medd,1,USES_MEDDusesMEDD
+C0181064,C0183336,USES,Gown,Sleeve,medd,medd,4,USES_MEDDusesMEDD
+C0181064,C0725865,USES,Gown,disposable,medd,medd,10,USES_MEDDusesMEDD
+C0181066,C0725865,USES,Surgical Gowns,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0181153,C0182400,USES,"BLOCK, HEATING",Probes,medd,medd,1,USES_MEDDusesMEDD
+C0181168,C0181839,USES,HEMOCYTOMETER,Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0181168,C0725865,USES,HEMOCYTOMETER,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0181200,C0179323,USES,homogenizers,Blades (device),medd,medd,1,USES_MEDDusesMEDD
+C0181200,C0180860,USES,homogenizers,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0181200,C0182400,USES,homogenizers,Probes,medd,medd,1,USES_MEDDusesMEDD
+C0181200,C0728475,USES,homogenizers,ultra,medd,medd,1,USES_MEDDusesMEDD
+C0181332,C0180860,USES,Syringe pump,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0181332,C0180883,USES,Syringe pump,Fittings/Adapters (device),medd,medd,1,USES_MEDDusesMEDD
+C0181332,C0728475,USES,Syringe pump,ultra,medd,medd,1,USES_MEDDusesMEDD
+C0181332,C3495449,USES,Syringe pump,Mobility aid,medd,medd,1,USES_MEDDusesMEDD
+C0181342,C0039142,USES,Injector,Syringes,medd,medd,1,USES_MEDDusesMEDD
+C0181633,C0180392,USES,Light source,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0181687,C0392223,USES,loops,"Lights, manufactured",medd,medd,4,USES_MEDDusesMEDD
+C0181722,C0175718,USES,manifold,Medical pins,medd,medd,2,USES_MEDDusesMEDD
+C0181758,C0024861,USES,Surgical face mask,Masks,medd,medd,1,USES_MEDDusesMEDD
+C0181758,C0725865,USES,Surgical face mask,disposable,medd,medd,5,USES_MEDDusesMEDD
+C0181797,C0181807,USES,Medical Gas Cylinders,Metal mesh,medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0021178,USES,Microscopes,Incubators (device),medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0179533,USES,Microscopes,"Camera, device",medd,medd,17,USES_MEDDusesMEDD
+C0181839,C0179547,USES,Microscopes,video cameras,medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0180112,USES,Microscopes,Controllers,medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0180860,USES,Microscopes,Filters,medd,medd,4,USES_MEDDusesMEDD
+C0181839,C0181633,USES,Microscopes,Light source,medd,medd,2,USES_MEDDusesMEDD
+C0181839,C0392254,USES,Microscopes,"Lasers, Semiconductor",medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0581406,USES,Microscopes,Optical filter,medd,medd,1,USES_MEDDusesMEDD
+C0181839,C0728475,USES,Microscopes,ultra,medd,medd,1,USES_MEDDusesMEDD
+C0181845,C0179533,USES,Electron microscope,"Camera, device",medd,medd,2,USES_MEDDusesMEDD
+C0181845,C0181061,USES,Electron microscope,goniometers,medd,medd,1,USES_MEDDusesMEDD
+C0181845,C0491970,USES,Electron microscope,Light microscope,medd,medd,1,USES_MEDDusesMEDD
+C0181849,C0039142,USES,Operating microscope,Syringes,medd,medd,1,USES_MEDDusesMEDD
+C0182158,C0180860,USES,Pads,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0182158,C0872305,USES,Pads,wireless biomedical equipment,medd,medd,1,USES_MEDDusesMEDD
+C0182256,C0179834,USES,Light meter,Centrifuges (device),medd,medd,1,USES_MEDDusesMEDD
+C0182258,C0005971,USES,Microplate Reader,Bone plates,medd,medd,1,USES_MEDDusesMEDD
+C0182258,C0180860,USES,Microplate Reader,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0182258,C0181839,USES,Microplate Reader,Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0182258,C0728475,USES,Microplate Reader,ultra,medd,medd,1,USES_MEDDusesMEDD
+C0182299,C0180860,USES,Pipette tip,Filters,medd,medd,2,USES_MEDDusesMEDD
+C0182299,C0725865,USES,Pipette tip,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0182301,C0182299,USES,Pipette (physical object),Pipette tip,medd,medd,1,USES_MEDDusesMEDD
+C0182362,C0178959,USES,Skin Prep Kits,ADAPTER,medd,medd,1,USES_MEDDusesMEDD
+C0182362,C0183400,USES,Skin Prep Kits,spectrophotometer,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0005978,USES,Probes,Bone Wires,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0175723,USES,Probes,Bands,medd,medd,2,USES_MEDDusesMEDD
+C0182400,C0178959,USES,Probes,ADAPTER,medd,medd,2,USES_MEDDusesMEDD
+C0182400,C0179302,USES,Probes,"Binder, device",medd,medd,5,USES_MEDDusesMEDD
+C0182400,C0179630,USES,Probes,Cartridge device,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0180153,USES,Probes,Covers (device),medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0180392,USES,Probes,Detectors,medd,medd,4,USES_MEDDusesMEDD
+C0182400,C0180860,USES,Probes,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0181839,USES,Probes,Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0182913,USES,Probes,Physiologic monitoring recorder,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0457177,USES,Probes,Telescopes,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C0725865,USES,Probes,disposable,medd,medd,3,USES_MEDDusesMEDD
+C0182400,C0728990,USES,Probes,Clinical Use Template,medd,medd,1,USES_MEDDusesMEDD
+C0182400,C1304654,USES,Probes,Thermistors,medd,medd,1,USES_MEDDusesMEDD
+C0182576,C0175730,USES,Rack,biomedical tube device,medd,medd,1,USES_MEDDusesMEDD
+C0182953,C0180279,USES,Regulators (device),automated flow cytometers,medd,medd,1,USES_MEDDusesMEDD
+C0183115,C0005971,USES,Scanning Systems,Bone plates,medd,medd,2,USES_MEDDusesMEDD
+C0183115,C0179038,USES,Scanning Systems,"Analyzer, device",medd,medd,1,USES_MEDDusesMEDD
+C0183115,C1705244,USES,Scanning Systems,Collimator Device Component,medd,medd,1,USES_MEDDusesMEDD
+C0183255,C0725865,USES,Face shield,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0183336,C0180153,USES,Sleeve,Covers (device),medd,medd,1,USES_MEDDusesMEDD
+C0183336,C0181064,USES,Sleeve,Gown,medd,medd,1,USES_MEDDusesMEDD
+C0183336,C0878992,USES,Sleeve,Cooling Units,medd,medd,1,USES_MEDDusesMEDD
+C0183380,C0725865,USES,spatulas,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0183396,C0179038,USES,Mass Spectrometers (device),"Analyzer, device",medd,medd,1,USES_MEDDusesMEDD
+C0183396,C0180392,USES,Mass Spectrometers (device),Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0183400,C0005971,USES,spectrophotometer,Bone plates,medd,medd,2,USES_MEDDusesMEDD
+C0183400,C0180266,USES,spectrophotometer,CUVETTES,medd,medd,3,USES_MEDDusesMEDD
+C0183400,C0182258,USES,spectrophotometer,Microplate Reader,medd,medd,1,USES_MEDDusesMEDD
+C0183631,C0181064,USES,Strap device,Gown,medd,medd,1,USES_MEDDusesMEDD
+C0183644,C0178987,USES,Wheeled Stretchers,Artificial Airways,medd,medd,3,USES_MEDDusesMEDD
+C0183652,C0179407,USES,String (device),brackets,medd,medd,5,USES_MEDDusesMEDD
+C0183663,C0005978,USES,"Stylet, device",Bone Wires,medd,medd,1,USES_MEDDusesMEDD
+C0183800,C0179481,USES,Autopsy table,Cabinet,medd,medd,1,USES_MEDDusesMEDD
+C0183884,C0016533,USES,Test tube,Forceps,medd,medd,1,USES_MEDDusesMEDD
+C0184047,C0179533,USES,Trap medical device,"Camera, device",medd,medd,4,USES_MEDDusesMEDD
+C0184050,C0179788,USES,Mucus trap,Suction catheter,medd,medd,1,USES_MEDDusesMEDD
+C0184104,C0179038,USES,blood collection tubes,"Analyzer, device",medd,medd,1,USES_MEDDusesMEDD
+C0184104,C1883522,USES,blood collection tubes,Vacutainer,medd,medd,1,USES_MEDDusesMEDD
+C0184165,C0039142,USES,Tubing,Syringes,medd,medd,2,USES_MEDDusesMEDD
+C0184165,C0725865,USES,Tubing,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0184180,C0725865,USES,polyvinylchloride Tubing,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0184301,C0180392,USES,Vial device,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0184301,C0180860,USES,Vial device,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0184301,C0181200,USES,Vial device,homogenizers,medd,medd,2,USES_MEDDusesMEDD
+C0184301,C0879240,USES,Vial device,Nasal Swabs,medd,medd,1,USES_MEDDusesMEDD
+C0221093,C0725865,USES,Hypodermic Needles,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0221874,C0993596,USES,spacer device,Metered Dose Inhaler,medd,medd,2,USES_MEDDusesMEDD
+C0262878,C0180392,USES,"Microscopes, Electron, Scanning",Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0262880,C0179533,USES,Transmission Electron Microscopes,"Camera, device",medd,medd,4,USES_MEDDusesMEDD
+C0336572,C1520064,USES,Applicator stick,Vortex Mixer,medd,medd,1,USES_MEDDusesMEDD
+C0336581,C0181952,USES,Intramedullary rod,Needle holder,medd,medd,1,USES_MEDDusesMEDD
+C0336630,C0441107,USES,Endotracheal tube,Cuffs device,medd,medd,5,USES_MEDDusesMEDD
+C0392220,C0179323,USES,scalpel,Blades (device),medd,medd,1,USES_MEDDusesMEDD
+C0392254,C0181633,USES,"Lasers, Semiconductor",Light source,medd,medd,1,USES_MEDDusesMEDD
+C0392254,C1705244,USES,"Lasers, Semiconductor",Collimator Device Component,medd,medd,1,USES_MEDDusesMEDD
+C0441052,C0725865,USES,Latex rubber gloves,disposable,medd,medd,6,USES_MEDDusesMEDD
+C0441210,C0180860,USES,Nylon mesh,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0445377,C0184165,USES,Venous line,Tubing,medd,medd,1,USES_MEDDusesMEDD
+C0450042,C0181839,USES,Pinhole,Microscopes,medd,medd,1,USES_MEDDusesMEDD
+C0450240,C0178959,USES,Cassette (physical object),ADAPTER,medd,medd,1,USES_MEDDusesMEDD
+C0450240,C0180860,USES,Cassette (physical object),Filters,medd,medd,8,USES_MEDDusesMEDD
+C0491340,C0725865,USES,"PIPETTE, PASTEUR",disposable,medd,medd,1,USES_MEDDusesMEDD
+C0491921,C0005971,USES,IMPACTOR,Bone plates,medd,medd,2,USES_MEDDusesMEDD
+C0491921,C3495388,USES,IMPACTOR,Vacuum Pumps,medd,medd,1,USES_MEDDusesMEDD
+C0491931,C0725865,USES,Orthopedic Fork,disposable,medd,medd,2,USES_MEDDusesMEDD
+C0491970,C0179533,USES,Light microscope,"Camera, device",medd,medd,2,USES_MEDDusesMEDD
+C0491970,C0180112,USES,Light microscope,Controllers,medd,medd,2,USES_MEDDusesMEDD
+C0491970,C0181633,USES,Light microscope,Light source,medd,medd,1,USES_MEDDusesMEDD
+C0493160,C0725865,USES,"GRINDER, TISSUE",disposable,medd,medd,3,USES_MEDDusesMEDD
+C0493765,C0493766,USES,GIARDIA SPP.,CRYPTOSPORIDIUM SPP.,medd,medd,2,USES_MEDDusesMEDD
+C0497878,C0180860,USES,Mouth piece,Filters,medd,medd,6,USES_MEDDusesMEDD
+C0497878,C0725865,USES,Mouth piece,disposable,medd,medd,1,USES_MEDDusesMEDD
+C0573971,C0179574,USES,Pediatric breathing circuit,Nasal Cannula,medd,medd,1,USES_MEDDusesMEDD
+C0581447,C0472226,USES,Arterial catheter,Blood glucose meters (medical device),medd,medd,1,USES_MEDDusesMEDD
+C0581447,C0745442,USES,Arterial catheter,Intravenous Catheters,medd,medd,1,USES_MEDDusesMEDD
+C0590323,C0179177,USES,Gauzes,Autoclave,medd,medd,1,USES_MEDDusesMEDD
+C0725865,C0179630,USES,disposable,Cartridge device,medd,medd,1,USES_MEDDusesMEDD
+C0725865,C0180860,USES,disposable,Filters,medd,medd,1,USES_MEDDusesMEDD
+C0725865,C0182324,USES,disposable,Plug (physical object),medd,medd,1,USES_MEDDusesMEDD
+C0728990,C0005971,USES,Clinical Use Template,Bone plates,medd,medd,1,USES_MEDDusesMEDD
+C0728990,C0182400,USES,Clinical Use Template,Probes,medd,medd,1,USES_MEDDusesMEDD
+C0728990,C0392223,USES,Clinical Use Template,"Lights, manufactured",medd,medd,1,USES_MEDDusesMEDD
+C0770764,C0027551,USES,disposable syringe,Needle device,medd,medd,1,USES_MEDDusesMEDD
+C0770788,C0182158,USES,Transparent dressing,Pads,medd,medd,1,USES_MEDDusesMEDD
+C0794888,C3880144,USES,Injection device,Micro-needle,medd,medd,1,USES_MEDDusesMEDD
+C0872382,C0021102,USES,glucose sensor device,Implants,medd,medd,2,USES_MEDDusesMEDD
+C0878969,C0441107,USES,tunneled catheters,Cuffs device,medd,medd,1,USES_MEDDusesMEDD
+C0878992,C0181264,USES,Cooling Units,Ice Bags,medd,medd,7,USES_MEDDusesMEDD
+C0879099,C0178987,USES,positive pressure ventilators,Artificial Airways,medd,medd,1,USES_MEDDusesMEDD
+C0879240,C0179108,USES,Nasal Swabs,Applicator - device,medd,medd,2,USES_MEDDusesMEDD
+C0936234,C0180392,USES,Computed Tomography Scanning Systems,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C0972395,C0182953,USES,Automatic Implantable Cardioverter-Defibrillators,Regulators (device),medd,medd,1,USES_MEDDusesMEDD
+C0993596,C0021461,USES,Metered Dose Inhaler,Inhaler,medd,medd,1,USES_MEDDusesMEDD
+C0993596,C0221874,USES,Metered Dose Inhaler,spacer device,medd,medd,1,USES_MEDDusesMEDD
+C0994894,C3880144,USES,Patch Dosage Form,Micro-needle,medd,medd,7,USES_MEDDusesMEDD
+C1139930,C0179038,USES,Device Plate,"Analyzer, device",medd,medd,3,USES_MEDDusesMEDD
+C1139930,C0179533,USES,Device Plate,"Camera, device",medd,medd,1,USES_MEDDusesMEDD
+C1139930,C0180860,USES,Device Plate,Filters,medd,medd,6,USES_MEDDusesMEDD
+C1139930,C0181722,USES,Device Plate,manifold,medd,medd,2,USES_MEDDusesMEDD
+C1139930,C0181839,USES,Device Plate,Microscopes,medd,medd,5,USES_MEDDusesMEDD
+C1139930,C0182258,USES,Device Plate,Microplate Reader,medd,medd,16,USES_MEDDusesMEDD
+C1139930,C0183115,USES,Device Plate,Scanning Systems,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C0183400,USES,Device Plate,spectrophotometer,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C0184370,USES,Device Plate,Washing machines,medd,medd,3,USES_MEDDusesMEDD
+C1139930,C0491921,USES,Device Plate,IMPACTOR,medd,medd,2,USES_MEDDusesMEDD
+C1139930,C0491970,USES,Device Plate,Light microscope,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C0728475,USES,Device Plate,ultra,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C0872171,USES,Device Plate,flasks,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C2363628,USES,Device Plate,Vernier Caliper,medd,medd,1,USES_MEDDusesMEDD
+C1139930,C3879777,USES,Device Plate,Phase-contrast light microscope,medd,medd,1,USES_MEDDusesMEDD
+C1145640,C0021102,USES,"Central venous catheter, device",Implants,medd,medd,2,USES_MEDDusesMEDD
+C1260969,C0179323,USES,Ring device,Blades (device),medd,medd,1,USES_MEDDusesMEDD
+C1260969,C0181839,USES,Ring device,Microscopes,medd,medd,2,USES_MEDDusesMEDD
+C1260969,C0183675,USES,Ring device,Suction Tips,medd,medd,1,USES_MEDDusesMEDD
+C1260970,C0441107,USES,Tracheal tube,Cuffs device,medd,medd,1,USES_MEDDusesMEDD
+C1299426,C0456642,USES,Catheter sheath,Introducer,medd,medd,1,USES_MEDDusesMEDD
+C1321564,C0179533,USES,strip medical device,"Camera, device",medd,medd,1,USES_MEDDusesMEDD
+C1321564,C2700619,USES,strip medical device,Test Strip (device),medd,medd,1,USES_MEDDusesMEDD
+C1322960,C0016533,USES,Petri dish,Forceps,medd,medd,1,USES_MEDDusesMEDD
+C1322960,C0181200,USES,Petri dish,homogenizers,medd,medd,1,USES_MEDDusesMEDD
+C1552195,C0180142,USES,Mandibular right central incisor implant,Gamma counter,medd,medd,1,USES_MEDDusesMEDD
+C1553633,C0392223,USES,Maxillary right third molar abutment,"Lights, manufactured",medd,medd,1,USES_MEDDusesMEDD
+C1553637,C0180392,USES,Maxillary right first premolar abutment,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C1553643,C0180392,USES,Maxillary left canine abutment,Detectors,medd,medd,2,USES_MEDDusesMEDD
+C1553646,C1553652,USES,Maxillary left first molar abutment,Mandibular left second molar abutment,medd,medd,1,USES_MEDDusesMEDD
+C1553649,C0180392,USES,Mandibular left third molar abutment,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C1611676,C0181153,USES,Thermal Cycler,"BLOCK, HEATING",medd,medd,1,USES_MEDDusesMEDD
+C1618912,C0027551,USES,"TRANSFER DEVICE, ANY TYPE, EACH",Needle device,medd,medd,1,USES_MEDDusesMEDD
+C1626420,C0180279,USES,Confocal microscope,automated flow cytometers,medd,medd,1,USES_MEDDusesMEDD
+C1626420,C0180392,USES,Confocal microscope,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C1626420,C0180459,USES,Confocal microscope,Disks (device),medd,medd,12,USES_MEDDusesMEDD
+C1626420,C0180860,USES,Confocal microscope,Filters,medd,medd,1,USES_MEDDusesMEDD
+C1626420,C0392254,USES,Confocal microscope,"Lasers, Semiconductor",medd,medd,1,USES_MEDDusesMEDD
+C1704776,C0016533,USES,Bag Device Component,Forceps,medd,medd,1,USES_MEDDusesMEDD
+C1705244,C0180392,USES,Collimator Device Component,Detectors,medd,medd,1,USES_MEDDusesMEDD
+C1706912,C0178987,USES,BARRIER,Artificial Airways,medd,medd,2,USES_MEDDusesMEDD
+C1706912,C0522650,USES,BARRIER,External prosthesis for sonographic procedure,medd,medd,1,USES_MEDDusesMEDD
+C1706912,C0725865,USES,BARRIER,disposable,medd,medd,1,USES_MEDDusesMEDD
+C1875499,C0179245,USES,MICROCHAMBER,water baths,medd,medd,1,USES_MEDDusesMEDD
+C1875815,C0181209,USES,SYRINGES/NEEDLES,Hook,medd,medd,1,USES_MEDDusesMEDD
+C2316030,C0728376,USES,Specimen well,thermometer digital,medd,medd,1,USES_MEDDusesMEDD
+C2700619,C0725865,USES,Test Strip (device),disposable,medd,medd,1,USES_MEDDusesMEDD
+C2720748,C0180153,USES,Hoods,Covers (device),medd,medd,1,USES_MEDDusesMEDD
+C2720748,C0183255,USES,Hoods,Face shield,medd,medd,1,USES_MEDDusesMEDD
+C2720748,C0677048,USES,Hoods,Manual Cytometers,medd,medd,1,USES_MEDDusesMEDD
+C2945625,C0039142,USES,Feeding tube,Syringes,medd,medd,1,USES_MEDDusesMEDD
+C3272294,C0794888,USES,Needle Free Injection,Injection device,medd,medd,1,USES_MEDDusesMEDD
+C3495388,C0180112,USES,Vacuum Pumps,Controllers,medd,medd,1,USES_MEDDusesMEDD
+C3495388,C0183380,USES,Vacuum Pumps,spatulas,medd,medd,1,USES_MEDDusesMEDD
+C3495449,C0181264,USES,Mobility aid,Ice Bags,medd,medd,3,USES_MEDDusesMEDD
+C3495449,C0184165,USES,Mobility aid,Tubing,medd,medd,1,USES_MEDDusesMEDD
+C3495449,C0184301,USES,Mobility aid,Vial device,medd,medd,1,USES_MEDDusesMEDD
+C3495449,C0441247,USES,Mobility aid,Conduit implant,medd,medd,1,USES_MEDDusesMEDD
+C3495449,C1322960,USES,Mobility aid,Petri dish,medd,medd,1,USES_MEDDusesMEDD
+C3495449,C1968515,USES,Mobility aid,Pack (physical object),medd,medd,1,USES_MEDDusesMEDD
+C3873893,C1553430,USES,Blood tube,Serum Separator Tube,medd,medd,1,USES_MEDDusesMEDD
+C3874230,C0725865,USES,Sample concentrator,disposable,medd,medd,1,USES_MEDDusesMEDD
+C3875892,C0182400,USES,Anemometer,Probes,medd,medd,1,USES_MEDDusesMEDD
+C3876322,C1706912,USES,Viral filter,BARRIER,medd,medd,1,USES_MEDDusesMEDD
+C3876323,C0042497,USES,Nosepiece,Mechanical Ventilator,medd,medd,1,USES_MEDDusesMEDD

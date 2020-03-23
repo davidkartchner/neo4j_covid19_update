@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008838,C0012860,CAUSES,Cisplatin,DNA Damage,inch,comd,1,CAUSES_INCHcausCOMD
+C0008838,C1257899,CAUSES,Cisplatin,Genotoxic Stress,inch,comd,1,CAUSES_INCHcausCOMD
+C0020281,C0012860,CAUSES,Hydrogen Peroxide,DNA Damage,inch,comd,1,CAUSES_INCHcausCOMD
+C0020281,C0242606,CAUSES,Hydrogen Peroxide,Oxidative Stress,inch,comd,3,CAUSES_INCHcausCOMD
+C0025552,C1516373,CAUSES,Metals,Cellular Stress,inch,comd,1,CAUSES_INCHcausCOMD
+C0031180,C0596402,CAUSES,Peroxides,cytotoxicity,inch,comd,1,CAUSES_INCHcausCOMD
+C0052416,C0242606,CAUSES,arsenic trioxide,Oxidative Stress,inch,comd,1,CAUSES_INCHcausCOMD
+C0052418,C0242606,CAUSES,arsenite,Oxidative Stress,inch,comd,2,CAUSES_INCHcausCOMD
+C0052418,C0596402,CAUSES,arsenite,cytotoxicity,inch,comd,1,CAUSES_INCHcausCOMD
+C0074719,C1516373,CAUSES,sodium arsenite,Cellular Stress,inch,comd,1,CAUSES_INCHcausCOMD
+C0141060,C0012860,CAUSES,rutile,DNA Damage,inch,comd,1,CAUSES_INCHcausCOMD

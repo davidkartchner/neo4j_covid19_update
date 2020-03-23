@@ -1,0 +1,88 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004178,C0008946,AFFECTS,"Atmosphere, planetary",Climate,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0008946,C0020034,AFFECTS,Climate,Host-Parasite Interactions,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0008946,C0043085,AFFECTS,Climate,Weather,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0008946,C2718051,AFFECTS,Climate,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0012222,C0026597,AFFECTS,Diffusion,Motion,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0012222,C0042784,AFFECTS,Diffusion,Viscosity,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0012222,C3850077,AFFECTS,Diffusion,Drug Liberation,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0013140,C0008946,AFFECTS,Droughts,Climate,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0013140,C0027485,AFFECTS,Droughts,Natural Disasters,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0013140,C3826426,AFFECTS,Droughts,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0013463,C0162358,AFFECTS,Earthquakes,Ecosystem,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0013790,C0031164,AFFECTS,Electricity,Permeability,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0016248,C0008946,AFFECTS,Floods,Climate,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0016248,C0027485,AFFECTS,Floods,Natural Disasters,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0016248,C0337050,AFFECTS,Floods,Rivers,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0016248,C2718051,AFFECTS,Floods,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0016315,C0301630,AFFECTS,Fluorescence,Reduction (chemical),npop,npop,1,AFFECTS_NPOPafctNPOP
+C0017982,C0037783,AFFECTS,glycosylation,Species Specificity,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0017982,C2717975,AFFECTS,glycosylation,Virus Release,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0020167,C0008946,AFFECTS,Humidity,Climate,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0020167,C0032931,AFFECTS,Humidity,Precipitation,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0020167,C0596539,AFFECTS,Humidity,evaporation,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0020167,C3826426,AFFECTS,Humidity,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0020276,C0678591,AFFECTS,Hydrogen Bonding,free energy,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0020291,C0016315,AFFECTS,Hydrolysis,Fluorescence,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0020291,C0678595,AFFECTS,Hydrolysis,peptide bond,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0026597,C0007382,AFFECTS,Motion,Catalysis,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0026597,C2936412,AFFECTS,Motion,Host Specificity,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0031164,C0243178,AFFECTS,Permeability,chemical properties,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0032931,C0009264,AFFECTS,Precipitation,Cold Temperature,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0032931,C0016248,AFFECTS,Precipitation,Floods,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0032931,C2718051,AFFECTS,Precipitation,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0038884,C3826310,AFFECTS,Surface Properties,Fouling,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0041625,C0851346,AFFECTS,Ultraviolet Rays,Radiation,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0041625,C2718051,AFFECTS,Ultraviolet Rays,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0042333,C3826426,AFFECTS,Variation (Genetics),Dynamics,npop,npop,4,AFFECTS_NPOPafctNPOP
+C0043085,C0016248,AFFECTS,Weather,Floods,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0043085,C3826426,AFFECTS,Weather,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0086685,C3826426,AFFECTS,Natural Selection,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0162358,C0008946,AFFECTS,Ecosystem,Climate,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0162358,C2718051,AFFECTS,Ecosystem,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0162358,C3826426,AFFECTS,Ecosystem,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0162535,C0031164,AFFECTS,electrical resistance,Permeability,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0242377,C0023693,AFFECTS,"Light, Visible",Light,npop,npop,3,AFFECTS_NPOPafctNPOP
+C0243052,C0020291,AFFECTS,Virus Physiological Phenomena,Hydrolysis,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0301630,C0596583,AFFECTS,Reduction (chemical),Food Chain,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0337005,C0337004,AFFECTS,Cold weather,Hot weather,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0337007,C0020167,AFFECTS,High humidity,Humidity,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0376525,C0007382,AFFECTS,Dimerization,Catalysis,npop,npop,4,AFFECTS_NPOPafctNPOP
+C0376534,C0678591,AFFECTS,Electrostatics,free energy,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0376534,C0678592,AFFECTS,Electrostatics,free energy change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0450025,C2348693,AFFECTS,Environmental stimuli,Flux,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0459800,C3826426,AFFECTS,Vibration - physical agent,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0522534,C0031164,AFFECTS,Saturated,Permeability,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0542479,C0034538,AFFECTS,"Energy, Physics",Ionizing radiation,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0542479,C0376534,AFFECTS,"Energy, Physics",Electrostatics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0596391,C0376525,AFFECTS,covalent bond,Dimerization,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0596539,C0243176,AFFECTS,evaporation,chemical composition,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0596578,C1537026,AFFECTS,fluid flow,laminar flow,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0598197,C0025594,AFFECTS,contagion,Meteorological Factors,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0678548,C0012222,AFFECTS,microviscosity,Diffusion,npop,npop,2,AFFECTS_NPOPafctNPOP
+C0678615,C0563548,AFFECTS,amidation,Electric charge,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0868933,C0013140,AFFECTS,Climatic factors,Droughts,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0868933,C0337050,AFFECTS,Climatic factors,Rivers,npop,npop,1,AFFECTS_NPOPafctNPOP
+C0868933,C3826426,AFFECTS,Climatic factors,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C1537026,C0596578,AFFECTS,laminar flow,fluid flow,npop,npop,1,AFFECTS_NPOPafctNPOP
+C1948023,C0162358,AFFECTS,Stimulation (motivation),Ecosystem,npop,npop,1,AFFECTS_NPOPafctNPOP
+C1998926,C0013463,AFFECTS,Tsunamis,Earthquakes,npop,npop,1,AFFECTS_NPOPafctNPOP
+C1998926,C0162358,AFFECTS,Tsunamis,Ecosystem,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2348693,C2718051,AFFECTS,Flux,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2718051,C0008946,AFFECTS,Climate Change,Climate,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2718051,C0020034,AFFECTS,Climate Change,Host-Parasite Interactions,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2718051,C0032931,AFFECTS,Climate Change,Precipitation,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2718051,C0162358,AFFECTS,Climate Change,Ecosystem,npop,npop,5,AFFECTS_NPOPafctNPOP
+C2718051,C3826426,AFFECTS,Climate Change,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2936194,C0012222,AFFECTS,Hydrodynamics,Diffusion,npop,npop,1,AFFECTS_NPOPafctNPOP
+C2936412,C3826426,AFFECTS,Host Specificity,Dynamics,npop,npop,2,AFFECTS_NPOPafctNPOP
+C3494255,C2718051,AFFECTS,Water Resources,Climate Change,npop,npop,1,AFFECTS_NPOPafctNPOP
+C3826426,C0007382,AFFECTS,Dynamics,Catalysis,npop,npop,3,AFFECTS_NPOPafctNPOP
+C3826426,C0016248,AFFECTS,Dynamics,Floods,npop,npop,1,AFFECTS_NPOPafctNPOP
+C3826426,C0020291,AFFECTS,Dynamics,Hydrolysis,npop,npop,1,AFFECTS_NPOPafctNPOP
+C3826426,C0026597,AFFECTS,Dynamics,Motion,npop,npop,1,AFFECTS_NPOPafctNPOP
+C3826426,C0042333,AFFECTS,Dynamics,Variation (Genetics),npop,npop,1,AFFECTS_NPOPafctNPOP
+C3826426,C0162358,AFFECTS,Dynamics,Ecosystem,npop,npop,2,AFFECTS_NPOPafctNPOP
+C3853023,C3826426,AFFECTS,Biome,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP
+C4042908,C0012222,AFFECTS,Seroconversion,Diffusion,npop,npop,1,AFFECTS_NPOPafctNPOP
+C4277617,C3826426,AFFECTS,Life History Traits,Dynamics,npop,npop,1,AFFECTS_NPOPafctNPOP

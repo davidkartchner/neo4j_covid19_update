@@ -1,0 +1,62 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005889,C0035078,CAUSES,Body Fluids,Kidney Failure,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0005889,C0035220,CAUSES,Body Fluids,"Respiratory Distress Syndrome, Newborn",bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C0005889,C0271429,CAUSES,Body Fluids,Acute otitis media,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0006279,C0009450,CAUSES,Bronchoalveolar Lavage Fluid,Communicable Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0006279,C0032285,CAUSES,Bronchoalveolar Lavage Fluid,Pneumonia,bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C0007806,C0025289,CAUSES,Cerebrospinal Fluid,Meningitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0007806,C0025309,CAUSES,Cerebrospinal Fluid,Meningoencephalitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0007806,C0236073,CAUSES,Cerebrospinal Fluid,Cerebellar infarction,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0009413,C0030312,CAUSES,Colostrum,Pancytopenia,bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C0012621,C0008354,CAUSES,Body Fluid Discharge,Cholera,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0012621,C0028840,CAUSES,Body Fluid Discharge,Ocular Hypertension,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0012621,C0042769,CAUSES,Body Fluid Discharge,Virus Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0012621,C3160718,CAUSES,Body Fluid Discharge,"PARKINSON DISEASE, LATE-ONSET",bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0015733,C0017160,CAUSES,Feces,Gastroenteritis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0015733,C1264606,CAUSES,Feces,Persistent infection,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0024202,C0243026,CAUSES,Lymph,Sepsis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0026131,C0009319,CAUSES,Milk (body substance),Colitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0026727,C0004623,CAUSES,Mucous body substance,Bacterial Infections,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0026727,C0600260,CAUSES,Mucous body substance,"Lung Diseases, Obstructive",bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0001339,CAUSES,Plasma,Acute pancreatitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0009319,CAUSES,Plasma,Colitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0012739,CAUSES,Plasma,Disseminated Intravascular Coagulation,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0020456,CAUSES,Plasma,Hyperglycemia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0024894,CAUSES,Plasma,Mastitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0264865,CAUSES,Plasma,Valvular endocarditis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0032105,C0948343,CAUSES,Plasma,Transfusion-Related Acute Lung Injury,bdsu,dsyn,3,CAUSES_BDSUcausDSYN
+C0034161,C0271429,CAUSES,Pus,Acute otitis media,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0036087,C0004771,CAUSES,saliva,Bartonella Infections,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0036087,C0275522,CAUSES,saliva,Asymptomatic Infections,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0038056,C0032285,CAUSES,Sputum,Pneumonia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0038352,C0035222,CAUSES,Gastric Content,"Respiratory Distress Syndrome, Adult",bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0042036,C0004623,CAUSES,Urine,Bacterial Infections,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0042036,C0023364,CAUSES,Urine,Leptospirosis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0042036,C0032285,CAUSES,Urine,Pneumonia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0178913,C0009450,CAUSES,Blood specimen,Communicable Diseases,bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C0222058,C0004096,CAUSES,Dander,Asthma,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229664,C0025289,CAUSES,peripheral blood,Meningitis,bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C0229671,C0022661,CAUSES,Serum,"Kidney Failure, Chronic",bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0035455,CAUSES,Serum,Rhinitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0038454,CAUSES,Serum,Cerebrovascular accident,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0042749,CAUSES,Serum,Viremia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0042769,CAUSES,Serum,Virus Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0162534,CAUSES,Serum,Prion Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C0238013,CAUSES,Serum,Invasive aspergillosis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0229671,C1175175,CAUSES,Serum,Severe Acute Respiratory Syndrome,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0267869,C0267917,CAUSES,Bile duct calculus,Acute cholangitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0267869,C0747195,CAUSES,Bile duct calculus,pancreatitis biliary,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0439056,C0021400,CAUSES,Throat swab sample,Influenza,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0444279,C0035204,CAUSES,Respiratory sample,Respiration Disorders,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C0444280,C0032285,CAUSES,Lower respiratory sample,Pneumonia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1272568,C0007642,CAUSES,Oral secretion,Cellulitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1532372,C0006277,CAUSES,Respiratory secretion,Bronchitis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1532372,C0032285,CAUSES,Respiratory secretion,Pneumonia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1550101,C0042749,CAUSES,Supernatant,Viremia,bdsu,dsyn,2,CAUSES_BDSUcausDSYN
+C1550101,C0042769,CAUSES,Supernatant,Virus Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1550661,C0009450,CAUSES,Specimen Type - Stool = Fecal,Communicable Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1550661,C0017160,CAUSES,Specimen Type - Stool = Fecal,Gastroenteritis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1550661,C0042708,CAUSES,Specimen Type - Stool = Fecal,Viral enteritis,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C1550661,C0042769,CAUSES,Specimen Type - Stool = Fecal,Virus Diseases,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C2926602,C0032285,CAUSES,"Discharge, body substance",Pneumonia,bdsu,dsyn,1,CAUSES_BDSUcausDSYN
+C2936350,C0742343,CAUSES,"Plaque, Atherosclerotic",Acute Chest Syndrome,bdsu,dsyn,1,CAUSES_BDSUcausDSYN

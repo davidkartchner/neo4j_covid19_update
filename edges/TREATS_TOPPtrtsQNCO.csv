@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000820,C0150312,TREATS,Therapeutic abortion (procedure),Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0001560,C0150312,TREATS,"Administration, Intranasal",Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0002928,C0150312,TREATS,Spinal Anesthesia,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0012683,C0150312,TREATS,Disinfection,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0013216,C0150312,TREATS,Pharmacotherapy,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0013806,C0150312,TREATS,Electroconvulsive Therapy,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0017296,C0150312,TREATS,gene therapy,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0020971,C0150312,TREATS,Immunization,Present,topp,qnco,12,TREATS_TOPPtrtsQNCO
+C0020975,C0150312,TREATS,Secondary Immunization,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0021932,C0150312,TREATS,"Intubation, Intratracheal",Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0022100,C0150312,TREATS,Irrigation,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0023690,C0150312,TREATS,Ligation,Present,topp,qnco,7,TREATS_TOPPtrtsQNCO
+C0027695,C0150312,TREATS,Nephrectomy,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0034386,C0150312,TREATS,Quarantine,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0035139,C0150312,TREATS,Surgical Replantation,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0038288,C0150312,TREATS,Sexual sterilization,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0040808,C0150312,TREATS,Treatment Protocols,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0040808,C0600457,TREATS,Treatment Protocols,Gravidity,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0040861,C0600457,TREATS,Triage,Gravidity,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0042196,C0150312,TREATS,Vaccination,Present,topp,qnco,18,TREATS_TOPPtrtsQNCO
+C0050572,C0150312,TREATS,ACP protocol,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0052712,C0150312,TREATS,doxorubicin/mitomycin/vinblastine protocol,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0057163,C0150312,TREATS,DAV regimen,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0065764,C0150312,TREATS,bleomycin/cisplatin/methotrexate protocol,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0065772,C0150312,TREATS,MCC protocol,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0068899,C0150312,TREATS,NOAC protocol,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0152060,C0150312,TREATS,Transection (procedure),Present,topp,qnco,5,TREATS_TOPPtrtsQNCO
+C0176751,C0150312,TREATS,Percutaneous endoscopic gastrostomy,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0184958,C0150312,TREATS,Toilet procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0185014,C0150312,TREATS,Banding procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0185026,C0150312,TREATS,Plication,Present,topp,qnco,7,TREATS_TOPPtrtsQNCO
+C0185027,C0150312,TREATS,Imbrication (procedure),Present,topp,qnco,5,TREATS_TOPPtrtsQNCO
+C0185115,C0150312,TREATS,Extraction,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0194825,C1511883,TREATS,Radical retropubic prostatectomy,Diagnostic Sensitivity,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0199242,C0035648,TREATS,Anticoagulant prophylaxis,risk factors,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0203597,C0150312,TREATS,hyperthermia treatment,Present,topp,qnco,3,TREATS_TOPPtrtsQNCO
+C0204514,C0150312,TREATS,Structural analysis,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0204727,C0150312,TREATS,Isolation procedure,Present,topp,qnco,9,TREATS_TOPPtrtsQNCO
+C0204774,C0150312,TREATS,Soaking Procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0280603,C0150312,TREATS,fluorouracil/methotrexate protocol,Present,topp,qnco,6,TREATS_TOPPtrtsQNCO
+C0282638,C0150312,TREATS,Antibiotic Prophylaxis,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0376495,C0150312,TREATS,Retreatments,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0393005,C0150312,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO
+C0439775,C0150312,TREATS,Elevation procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0459914,C0150312,TREATS,Conservative Treatment,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0524865,C0150312,TREATS,Reconstructive Surgical Procedures,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0679637,C0035648,TREATS,major surgery,risk factors,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0683525,C0035648,TREATS,treatment options,risk factors,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0741847,C0150312,TREATS,Bypass,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0857127,C0150312,TREATS,Induction procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C0920467,C0150312,TREATS,disorder control (procedure),Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1135929,C0150312,TREATS,Mass Vaccination,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1261381,C0150312,TREATS,Destructive procedure (surgical),Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1293130,C0150312,TREATS,Stabilization,Present,topp,qnco,4,TREATS_TOPPtrtsQNCO
+C1293132,C0150312,TREATS,Anchoring procedure,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1511790,C0035648,TREATS,Detection,risk factors,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1511790,C0150312,TREATS,Detection,Present,topp,qnco,12,TREATS_TOPPtrtsQNCO
+C1522449,C0150312,TREATS,Therapeutic radiology procedure,Present,topp,qnco,3,TREATS_TOPPtrtsQNCO
+C1659427,C0150312,TREATS,Nebulization,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1707814,C0150312,TREATS,Dose Reduced,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C1831742,C0150312,TREATS,nonmyeloablative allogeneic hematopoietic stem cell transplantation,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C2987620,C0150312,TREATS,Inoculation,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C3164735,C0150312,TREATS,Noninvasive positive pressure ventilation,Present,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C3177188,C0035648,TREATS,Early Therapy,risk factors,topp,qnco,1,TREATS_TOPPtrtsQNCO
+C3540512,C0150312,TREATS,Circumferential Supracrestal Fiberotomy,Present,topp,qnco,2,TREATS_TOPPtrtsQNCO

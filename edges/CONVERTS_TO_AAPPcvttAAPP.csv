@@ -1,0 +1,149 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001924,C0033603,CONVERTS_TO,Albumins,Protamines,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0002191,C0030935,CONVERTS_TO,alpha 1-Antitrypsin,Peptide Fragments,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003006,C0003009,CONVERTS_TO,Angiotensin I,angiotensin II,aapp,aapp,3,CONVERTS_TO_AAPPcvttAAPP
+C0003241,C0003313,CONVERTS_TO,Antibodies,Immune complex,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003241,C0004358,CONVERTS_TO,Antibodies,Autoantibodies,aapp,aapp,3,CONVERTS_TO_AAPPcvttAAPP
+C0003241,C1420192,CONVERTS_TO,Antibodies,SLC3A2 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003241,C1566673,CONVERTS_TO,Antibodies,Antibody Fragments,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003250,C0034861,CONVERTS_TO,Monoclonal Antibodies,Recombinant Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003250,C0034862,CONVERTS_TO,Monoclonal Antibodies,"Vaccines, Recombinant",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0003313,C4049611,CONVERTS_TO,Immune complex,CD48 wt Allele,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0008356,C3540513,CONVERTS_TO,Cholera Toxin,PCYT1A wt Allele,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0008864,C0002520,CONVERTS_TO,Citrulline,Amino Acids,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0008864,C0003765,CONVERTS_TO,Citrulline,Arginine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0010590,C1419947,CONVERTS_TO,Cycloserine,SEMA4A gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0010682,C0010654,CONVERTS_TO,Cystine,Cysteine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0013765,C0011702,CONVERTS_TO,Elastin,Desmosine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0014241,C0073246,CONVERTS_TO,Endoribonucleases,ribonuclease S,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0015502,C0015505,CONVERTS_TO,factor VII,Factor VIIa,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0015980,C0079904,CONVERTS_TO,Interferon-beta,NF-kappa B,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0015980,C1510506,CONVERTS_TO,Interferon-beta,Interferon Regulatory Factor 3,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017278,C0597551,CONVERTS_TO,"Gene Products, env",synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017789,C0017797,CONVERTS_TO,Glutamates,Glutamine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017797,C0017789,CONVERTS_TO,Glutamine,Glutamates,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017968,C0121463,CONVERTS_TO,Glycoproteins,"nucleocapsid protein, Hepatitis C virus",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017968,C1258415,CONVERTS_TO,Glycoproteins,enhanced green fluorescent protein,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0017968,C1522002,CONVERTS_TO,Glycoproteins,RNA Recognition Motif,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0019721,C1883559,CONVERTS_TO,HLA Antigens,Wild Type,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0020857,C0021032,CONVERTS_TO,IgG2A,Immunoglobulin Fc Fragments,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0021031,C2985546,CONVERTS_TO,Fab Immunoglobulins,"Antibodies, Monoclonal, Humanized",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0021747,C0034862,CONVERTS_TO,Interferons,"Vaccines, Recombinant",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0021760,C0085177,CONVERTS_TO,Interleukin-6,RNA-Binding Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0025252,C4048280,CONVERTS_TO,Membrane Proteins,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0029923,C0010590,CONVERTS_TO,Ovalbumin,Cycloserine,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C0030817,C1685077,CONVERTS_TO,Penicillamine,pseudoproline,aapp,aapp,3,CONVERTS_TO_AAPPcvttAAPP
+C0030946,C0036734,CONVERTS_TO,Endopeptidases,Serine Endopeptidases,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C0034330,C0061472,CONVERTS_TO,Pyrrolidonecarboxylic Acid,Glutamic Acid,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0039341,C1705504,CONVERTS_TO,tat Protein,HTATIP wt Allele,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0040648,C0085295,CONVERTS_TO,TRANSCRIPTION FACTOR,Interleukin-10,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0040679,C0017817,CONVERTS_TO,Transferrin,Glutathione,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0040679,C2604059,CONVERTS_TO,Transferrin,Angiopep-2,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0042711,C0010590,CONVERTS_TO,Viral Envelope Proteins,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0043317,C0242417,CONVERTS_TO,Xanthine Oxidase,Oxidases,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0051979,C2702333,CONVERTS_TO,anti-IgG,"Immunoglobulin G, Human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0055782,C0597551,CONVERTS_TO,circumsporozoite protein,synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0062726,C0003241,CONVERTS_TO,hippuryl-glycyl-glycine,Antibodies,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0062726,C0358321,CONVERTS_TO,hippuryl-glycyl-glycine,Immune Globulin (Human),aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0065374,C1310963,CONVERTS_TO,Lisinopril,RXPA380,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0065827,C0003241,CONVERTS_TO,Measles Virus Nucleoprotein,Antibodies,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0067984,C1420192,CONVERTS_TO,N-formylmethionylphenylalanine,SLC3A2 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0067984,C1979927,CONVERTS_TO,N-formylmethionylphenylalanine,Microglobulin,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0072092,C0061355,CONVERTS_TO,Proglucagon,Glucagon-Like Peptide 1,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0072348,C0376436,CONVERTS_TO,Protein C Inhibitor,Peptide Library,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0072348,C0597551,CONVERTS_TO,Protein C Inhibitor,synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0082731,C0597551,CONVERTS_TO,Glycine dehydrogenase (decarboxylating),synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0084692,C0010590,CONVERTS_TO,Pulmonary Surfactant-Associated Protein D,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0085295,C0208940,CONVERTS_TO,Interleukin-10,human REG1A protein,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0086376,C0598148,CONVERTS_TO,GTP-Binding Proteins,hybrid protein,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0090425,C0162768,CONVERTS_TO,Mycobacterium tuberculosis antigens,Fusion protein,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0108187,C1701032,CONVERTS_TO,Calnexin,"ITGAM protein, human",aapp,aapp,4,CONVERTS_TO_AAPPcvttAAPP
+C0108187,C3540595,CONVERTS_TO,Calnexin,CD8A wt Allele,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C0108187,C4048280,CONVERTS_TO,Calnexin,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,4,CONVERTS_TO_AAPPcvttAAPP
+C0113097,C0002520,CONVERTS_TO,dermaseptin peptide,Amino Acids,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0162768,C0301521,CONVERTS_TO,Fusion protein,therapeutic vaccine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0167464,C0031684,CONVERTS_TO,beta-Arrestins,Phosphopeptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0290378,C0034790,CONVERTS_TO,"ADAM11 protein, human",T-Cell Receptor,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0304052,C0009630,CONVERTS_TO,Plant Lectins,Concanavalin A,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0358321,C0003250,CONVERTS_TO,Immune Globulin (Human),Monoclonal Antibodies,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0378910,C1336644,CONVERTS_TO,Lymphocyte antigen CD66A,TNFRSF10B gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0524914,C0282554,CONVERTS_TO,chemokine receptor,chemokine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0582263,C0074512,CONVERTS_TO,Structural protein,Signal Recognition Particle,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0582263,C1305923,CONVERTS_TO,Structural protein,Polypeptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0597357,C0030957,CONVERTS_TO,receptor,Cyclic Peptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0597427,C0599220,CONVERTS_TO,secretory protein,Protein Subunits,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C0597427,C1425927,CONVERTS_TO,secretory protein,EDEM1 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0597427,C1864769,CONVERTS_TO,secretory protein,OS9 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0599220,C0597551,CONVERTS_TO,Protein Subunits,synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0599220,C1305923,CONVERTS_TO,Protein Subunits,Polypeptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0601900,C1538595,CONVERTS_TO,Cartilage Oligomeric Matrix Protein,PBK gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0700271,C0003250,CONVERTS_TO,"M Protein, multiple myeloma",Monoclonal Antibodies,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0751719,C0010590,CONVERTS_TO,Phage Display Peptide Library,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0751719,C0021756,CONVERTS_TO,Phage Display Peptide Library,Interleukin-2,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0751719,C0021758,CONVERTS_TO,Phage Display Peptide Library,Interleukin-4,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0751973,C0015528,CONVERTS_TO,Proteome,factor XIII,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0795657,C0036734,CONVERTS_TO,"alpha 1-proteinase inhibitor, human",Serine Endopeptidases,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C0907412,C0010590,CONVERTS_TO,"dectin-2, mouse",Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1141639,C4079739,CONVERTS_TO,Human Chorionic Gonadotropin,EA-230,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1142652,C3711684,CONVERTS_TO,"NR4A2 protein, human","S protein, severe acute respiratory syndrome coronavirus",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1180347,C0175168,CONVERTS_TO,Protein complex,"Protein, Organized by Structure",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1258415,C0010590,CONVERTS_TO,enhanced green fluorescent protein,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1258415,C0120285,CONVERTS_TO,enhanced green fluorescent protein,Green Fluorescent Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1305923,C3812373,CONVERTS_TO,Polypeptides,CHAF1A wt Allele,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1332700,C1332823,CONVERTS_TO,CCR5 gene,CXCR4 gene,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C1333682,C0034861,CONVERTS_TO,NOP53 gene,Recombinant Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1333682,C1527755,CONVERTS_TO,NOP53 gene,"T protein, human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1334081,C0042172,CONVERTS_TO,IFNAR1 gene,E-Cadherin,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1334805,C0003242,CONVERTS_TO,Mouse Protein,"Antibodies, Anti-Idiotypic",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1336789,C0040627,CONVERTS_TO,Transcription Repressor/Corepressor,Trans-Activators,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C1412417,C1412221,CONVERTS_TO,ANXA1 gene,ADCY2 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1414406,C1415205,CONVERTS_TO,ENPEP gene,GPNMB gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1414928,C0085177,CONVERTS_TO,GADD45B gene,RNA-Binding Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1415801,C0120285,CONVERTS_TO,HTN3 gene,Green Fluorescent Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1416475,C0015980,CONVERTS_TO,IRF7 gene,Interferon-beta,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1417005,C3642279,CONVERTS_TO,MAP1LC3A gene,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C1418866,C0034861,CONVERTS_TO,PRB1 gene,Recombinant Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1421395,C0010590,CONVERTS_TO,USP18 gene,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1422036,C0041249,CONVERTS_TO,ERVW-1 gene,Tryptophan,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1422064,C1568891,CONVERTS_TO,ACE2 gene,"HGS protein, human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1422123,C1136102,CONVERTS_TO,PLVAP gene,Capsid Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1423496,C0037207,CONVERTS_TO,TGOLN2 gene,v-sis Genes,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1423506,C0056889,CONVERTS_TO,SPINK5 gene,Cystic Fibrosis Transmembrane Conductance Regulator,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1423524,C1305923,CONVERTS_TO,NCKIPSD gene,Polypeptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1423842,C1515370,CONVERTS_TO,NELFCD gene,Recombinant Fas Ligand,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1425622,C0042172,CONVERTS_TO,IFNLR1 gene,E-Cadherin,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1425927,C1417005,CONVERTS_TO,EDEM1 gene,MAP1LC3A gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1427378,C0085295,CONVERTS_TO,MDC1 gene,Interleukin-10,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1440867,C1872347,CONVERTS_TO,"lactoferrin, bovine",lactoferricin,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1445860,C1305923,CONVERTS_TO,Protein antibody,Polypeptides,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1510506,C0015980,CONVERTS_TO,Interferon Regulatory Factor 3,Interferon-beta,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1510506,C0079904,CONVERTS_TO,Interferon Regulatory Factor 3,NF-kappa B,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1539104,C0010590,CONVERTS_TO,CLEC10A gene,Cycloserine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1539221,C0751973,CONVERTS_TO,DCLK3 gene,Proteome,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1539553,C0599220,CONVERTS_TO,GATAD2B gene,Protein Subunits,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1612111,C0597551,CONVERTS_TO,human MUC1 protein,synthetic peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1677784,C0025252,CONVERTS_TO,"APOA1 protein, human",Membrane Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1701790,C4048280,CONVERTS_TO,"IL17A protein, human","T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1742963,C0079189,CONVERTS_TO,flaB flagellin,cytokine,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1825598,C0003241,CONVERTS_TO,IMPACT gene,Antibodies,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C1825621,C1334139,CONVERTS_TO,ISG15 gene,IRF3 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1883559,C0034857,CONVERTS_TO,Wild Type,Recombinant Fusion Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C1883559,C0120285,CONVERTS_TO,Wild Type,Green Fluorescent Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C2744579,C4084937,CONVERTS_TO,"ATP8A2 protein, human",Antimicrobial Peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C2825348,C0003241,CONVERTS_TO,"immunoglobulin M, human",Antibodies,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C2825348,C0003250,CONVERTS_TO,"immunoglobulin M, human",Monoclonal Antibodies,aapp,aapp,3,CONVERTS_TO_AAPPcvttAAPP
+C2827404,C0042736,CONVERTS_TO,"Tumor Suppressor ARF, human",Viral Proteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3147110,C0178827,CONVERTS_TO,DSCAM-AS1 gene,replicase,aapp,aapp,2,CONVERTS_TO_AAPPcvttAAPP
+C3147110,C1335818,CONVERTS_TO,DSCAM-AS1 gene,SH2D3C gene,aapp,aapp,3,CONVERTS_TO_AAPPcvttAAPP
+C3147110,C1415274,CONVERTS_TO,DSCAM-AS1 gene,GPT gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3470196,C0034862,CONVERTS_TO,EVA1C gene,"Vaccines, Recombinant",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3537219,C0002723,CONVERTS_TO,SERPINA1 wt Allele,Serum amyloid A protein,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3538756,C0008546,CONVERTS_TO,NLRP1 wt Allele,Chromatin,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3540595,C0085295,CONVERTS_TO,CD8A wt Allele,Interleukin-10,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3812373,C1332818,CONVERTS_TO,CHAF1A wt Allele,CXCL14 gene,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3884535,C0017968,CONVERTS_TO,"AREG protein, human",Glycoproteins,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3884535,C0021753,CONVERTS_TO,"AREG protein, human",Interleukin-1 beta,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3884535,C0021760,CONVERTS_TO,"AREG protein, human",Interleukin-6,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3884535,C1448177,CONVERTS_TO,"AREG protein, human","TNF protein, human",aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C3891304,C4084937,CONVERTS_TO,"Cathelicidin LL-37, human",Antimicrobial Peptide,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP
+C4084937,C0002520,CONVERTS_TO,Antimicrobial Peptide,Amino Acids,aapp,aapp,1,CONVERTS_TO_AAPPcvttAAPP

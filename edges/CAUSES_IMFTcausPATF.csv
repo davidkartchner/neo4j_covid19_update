@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0004366,CAUSES,Immunologic Adjuvants,Autoimmune Response,imft,patf,1,CAUSES_IMFTcausPATF
+C0001551,C0020522,CAUSES,Immunologic Adjuvants,Delayed Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0001551,C0021368,CAUSES,Immunologic Adjuvants,Inflammation,imft,patf,2,CAUSES_IMFTcausPATF
+C0001551,C0021375,CAUSES,Immunologic Adjuvants,allergic inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C0020517,CAUSES,Allergens,Hypersensitivity,imft,patf,5,CAUSES_IMFTcausPATF
+C0002092,C0020523,CAUSES,Allergens,Immediate hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C0021368,CAUSES,Allergens,Inflammation,imft,patf,10,CAUSES_IMFTcausPATF
+C0002092,C0021375,CAUSES,Allergens,allergic inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C0024348,CAUSES,Allergens,Lysis,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C0392707,CAUSES,Allergens,Atopy,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C1527304,CAUSES,Allergens,Allergic Reaction,imft,patf,1,CAUSES_IMFTcausPATF
+C0002092,C2717792,CAUSES,Allergens,Airway Remodeling,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0011304,CAUSES,Epitopes,Demyelination,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0020517,CAUSES,Epitopes,Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0020522,CAUSES,Epitopes,Delayed Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0020963,CAUSES,Epitopes,Immune Tolerance,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0021368,CAUSES,Epitopes,Inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0021376,CAUSES,Epitopes,Chronic inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0003316,C0443146,CAUSES,Epitopes,Autoimmune reaction,imft,patf,1,CAUSES_IMFTcausPATF
+C0003339,C0024348,CAUSES,Surface Antigens,Lysis,imft,patf,1,CAUSES_IMFTcausPATF
+C0003342,C0011304,CAUSES,"Antigens, Viral",Demyelination,imft,patf,3,CAUSES_IMFTcausPATF
+C0003342,C0020522,CAUSES,"Antigens, Viral",Delayed Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0003342,C1155266,CAUSES,"Antigens, Viral",inflammatory response,imft,patf,2,CAUSES_IMFTcausPATF
+C0004359,C0004366,CAUSES,Autoantigens,Autoimmune Response,imft,patf,1,CAUSES_IMFTcausPATF
+C0005804,C3714514,CAUSES,Blood Group Antigens,Infection,imft,patf,1,CAUSES_IMFTcausPATF
+C0016712,C0021368,CAUSES,Freund's Adjuvant,Inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0016712,C0041582,CAUSES,Freund's Adjuvant,Ulcer,imft,patf,1,CAUSES_IMFTcausPATF
+C0021054,C0021368,CAUSES,Immunologic Factors,Inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C0023158,C1516670,CAUSES,Lymphocyte antigen,Clonal Expansion,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C0013604,CAUSES,Vaccines,Edema,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C0020517,CAUSES,Vaccines,Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C0021368,CAUSES,Vaccines,Inflammation,imft,patf,2,CAUSES_IMFTcausPATF
+C0042210,C0024348,CAUSES,Vaccines,Lysis,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C0332448,CAUSES,Vaccines,Infiltration,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C1155266,CAUSES,Vaccines,inflammatory response,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C1527304,CAUSES,Vaccines,Allergic Reaction,imft,patf,1,CAUSES_IMFTcausPATF
+C0042210,C3714514,CAUSES,Vaccines,Infection,imft,patf,3,CAUSES_IMFTcausPATF
+C0042212,C0020517,CAUSES,"Vaccines, Inactivated",Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0042742,C0006119,CAUSES,Viral Vaccines,Brain Pathology,imft,patf,1,CAUSES_IMFTcausPATF
+C0301869,C0015376,CAUSES,Immunostimulating conjugate (antigen),Extravasation,imft,patf,1,CAUSES_IMFTcausPATF
+C0376613,C0020522,CAUSES,"Vaccines, DNA",Delayed Hypersensitivity,imft,patf,1,CAUSES_IMFTcausPATF
+C0376613,C1155266,CAUSES,"Vaccines, DNA",inflammatory response,imft,patf,1,CAUSES_IMFTcausPATF
+C0887892,C0151763,CAUSES,"Vaccines, Subunit",Liver damage,imft,patf,1,CAUSES_IMFTcausPATF
+C0887892,C0332448,CAUSES,"Vaccines, Subunit",Infiltration,imft,patf,1,CAUSES_IMFTcausPATF
+C0887894,C1527304,CAUSES,Respiratory Syncytial Virus Vaccines,Allergic Reaction,imft,patf,1,CAUSES_IMFTcausPATF
+C0887902,C0020963,CAUSES,"Vaccines, Edible",Immune Tolerance,imft,patf,1,CAUSES_IMFTcausPATF
+C1320239,C0020517,CAUSES,Food allergen,Hypersensitivity,imft,patf,2,CAUSES_IMFTcausPATF
+C2825347,C0024348,CAUSES,"Immunoglobulin A, Human",Lysis,imft,patf,1,CAUSES_IMFTcausPATF
+C3272757,C0021368,CAUSES,Live Attenuated Influenza Vaccine,Inflammation,imft,patf,1,CAUSES_IMFTcausPATF
+C3272757,C0333355,CAUSES,Live Attenuated Influenza Vaccine,Inflammatory disease of mucous membrane,imft,patf,1,CAUSES_IMFTcausPATF

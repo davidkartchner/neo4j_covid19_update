@@ -1,0 +1,119 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000096,C0066447,ISA,1-Methyl-3-isobutylxanthine,methylxanthine,orch,bacs,1,ISA_ORCHisaBACS
+C0000503,C0673093,ISA,gamma hydroxybutyrate,4-hydroxybutyric acid,orch,bacs,1,ISA_ORCHisaBACS
+C0000975,C0015691,ISA,Acetate,"Fatty Acids, Volatile",orch,bacs,3,ISA_ORCHisaBACS
+C0002144,C0003320,ISA,Allopurinol,Antigens,orch,bacs,1,ISA_ORCHisaBACS
+C0003695,C0015684,ISA,Arachidonic Acid,Fatty Acids,orch,bacs,3,ISA_ORCHisaBACS
+C0003695,C0032615,ISA,Arachidonic Acid,Polyunsaturated Fatty Acids,orch,bacs,2,ISA_ORCHisaBACS
+C0003695,C0133860,ISA,Arachidonic Acid,"Fatty Acids, Omega-6",orch,bacs,1,ISA_ORCHisaBACS
+C0004259,C0004954,ISA,Atropine,Belladonna Alkaloids,orch,bacs,1,ISA_ORCHisaBACS
+C0005802,C0017725,ISA,Blood Glucose,Glucose,orch,bacs,2,ISA_ORCHisaBACS
+C0006521,C0015691,ISA,Butyrates,"Fatty Acids, Volatile",orch,bacs,5,ISA_ORCHisaBACS
+C0006523,C0015691,ISA,Butyric Acids,"Fatty Acids, Volatile",orch,bacs,1,ISA_ORCHisaBACS
+C0007188,C0031676,ISA,Cardiolipins,Phospholipids,orch,bacs,1,ISA_ORCHisaBACS
+C0011501,C0017725,ISA,Deoxyglucose,Glucose,orch,bacs,2,ISA_ORCHisaBACS
+C0019215,C0006353,ISA,HEPES,Buffers,orch,bacs,237,ISA_ORCHisaBACS
+C0022239,C0016945,ISA,Isopropyl Thiogalactoside,Galactose,orch,bacs,12,ISA_ORCHisaBACS
+C0022924,C0015691,ISA,Lactates,"Fatty Acids, Volatile",orch,bacs,1,ISA_ORCHisaBACS
+C0023776,C0016693,ISA,Lipid Peroxides,Free Radicals,orch,bacs,1,ISA_ORCHisaBACS
+C0023810,C0003320,ISA,Lipopolysaccharides,Antigens,orch,bacs,1,ISA_ORCHisaBACS
+C0023810,C0040549,ISA,Lipopolysaccharides,Toxin,orch,bacs,2,ISA_ORCHisaBACS
+C0023828,C0031676,ISA,Liposomes,Phospholipids,orch,bacs,4,ISA_ORCHisaBACS
+C0028910,C1566558,ISA,"Oils, Volatile",Natural Products,orch,bacs,1,ISA_ORCHisaBACS
+C0031493,C0033607,ISA,Phenylmethylsulfonyl Fluoride,Protease Inhibitors,orch,bacs,12,ISA_ORCHisaBACS
+C0031623,C0015684,ISA,Phosphatidylserines,Fatty Acids,orch,bacs,1,ISA_ORCHisaBACS
+C0031623,C0031676,ISA,Phosphatidylserines,Phospholipids,orch,bacs,4,ISA_ORCHisaBACS
+C0032133,C0017861,ISA,Plasmalogens,Glycerin,orch,bacs,1,ISA_ORCHisaBACS
+C0033474,C0015691,ISA,Propionates,"Fatty Acids, Volatile",orch,bacs,5,ISA_ORCHisaBACS
+C0037135,C0032081,ISA,Silymarin,Plant Extracts,orch,bacs,1,ISA_ORCHisaBACS
+C0037513,C0019134,ISA,heparin sodium,heparin,orch,bacs,1,ISA_ORCHisaBACS
+C0038229,C0015684,ISA,Stearic acid,Fatty Acids,orch,bacs,2,ISA_ORCHisaBACS
+C0039958,C0041942,ISA,Thiourea,Urea,orch,bacs,40,ISA_ORCHisaBACS
+C0040845,C0039561,ISA,Tretinoin,Terpenes,orch,bacs,2,ISA_ORCHisaBACS
+C0041175,C0006353,ISA,Tromethamine,Buffers,orch,bacs,206,ISA_ORCHisaBACS
+C0042839,C0007271,ISA,Vitamin A,Carotenoids,orch,bacs,1,ISA_ORCHisaBACS
+C0042845,C0282575,ISA,Vitamin B 12,Micronutrients,orch,bacs,1,ISA_ORCHisaBACS
+C0042874,C0007271,ISA,Vitamin E,Carotenoids,orch,bacs,3,ISA_ORCHisaBACS
+C0043843,C0031618,ISA,"1,2-dipalmitoyl-3-phosphatidylethanolamine",Phosphatidylethanolamines,orch,bacs,2,ISA_ORCHisaBACS
+C0043901,C0006353,ISA,"1,3-bis(tris(hydroxymethyl)methylamino)propane",Buffers,orch,bacs,1,ISA_ORCHisaBACS
+C0046699,C4277571,ISA,25-hydroxycholesterol,Oxysterols,orch,bacs,2,ISA_ORCHisaBACS
+C0047895,C0033607,ISA,4-(2-aminoethyl)benzenesulfonylfluoride,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0047895,C0036733,ISA,4-(2-aminoethyl)benzenesulfonylfluoride,Serine Proteinase Inhibitors,orch,bacs,8,ISA_ORCHisaBACS
+C0048723,C0033607,ISA,4-toluenesulfonyl fluoride,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0049081,C0016945,ISA,5-bromo-4-chloro-3-indolyl beta-galactoside,Galactose,orch,bacs,10,ISA_ORCHisaBACS
+C0051706,C0006353,ISA,ammonium bicarbonate,Buffers,orch,bacs,16,ISA_ORCHisaBACS
+C0053140,C0033607,ISA,benzamidine,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0053809,C0006353,ISA,Bistris,Buffers,orch,bacs,1,ISA_ORCHisaBACS
+C0056077,C0041536,ISA,coenzyme Q10,Ubiquinone,orch,bacs,1,ISA_ORCHisaBACS
+C0058290,C0031618,ISA,"1,2-dimyristoylphosphatidylethanolamine",Phosphatidylethanolamines,orch,bacs,1,ISA_ORCHisaBACS
+C0058291,C0031676,ISA,dimyristoylphosphatidylglycerol,Phospholipids,orch,bacs,2,ISA_ORCHisaBACS
+C0059003,C0028928,ISA,elaidic acid,Oleic Acid,orch,bacs,2,ISA_ORCHisaBACS
+C0059438,C1566558,ISA,epigallocatechin gallate,Natural Products,orch,bacs,2,ISA_ORCHisaBACS
+C0064135,C0034335,ISA,jacobine,Pyrrolizidine Alkaloids,orch,bacs,1,ISA_ORCHisaBACS
+C0065051,C0017950,ISA,lipophosphonoglycan,Glycolipids,orch,bacs,1,ISA_ORCHisaBACS
+C0065353,C0031866,ISA,lyoniside,Phytosterols,orch,bacs,1,ISA_ORCHisaBACS
+C0068131,C0019588,ISA,N-methylhistamine,Histamine,orch,bacs,1,ISA_ORCHisaBACS
+C0070797,C0031621,ISA,phosphatidylinositol 3-phosphate,Phosphatidylinositols,orch,bacs,3,ISA_ORCHisaBACS
+C0070799,C0031621,ISA,phosphatidylinositol 4-phosphate,Phosphatidylinositols,orch,bacs,2,ISA_ORCHisaBACS
+C0070999,C0013982,ISA,physcione,Emodin,orch,bacs,1,ISA_ORCHisaBACS
+C0072094,C0017767,ISA,progoitrin,Glucosinolates,orch,bacs,2,ISA_ORCHisaBACS
+C0074084,C0026955,ISA,satratoxin G,Mycotoxins,orch,bacs,1,ISA_ORCHisaBACS
+C0074321,C0034335,ISA,senecionine,Pyrrolizidine Alkaloids,orch,bacs,1,ISA_ORCHisaBACS
+C0074325,C0034335,ISA,seneciphylline,Pyrrolizidine Alkaloids,orch,bacs,1,ISA_ORCHisaBACS
+C0076172,C0006353,ISA,N-tris(hydroxymethyl)methyl-2-aminomethane sulfonate,Buffers,orch,bacs,6,ISA_ORCHisaBACS
+C0076211,C0032712,ISA,tetra(4-N-methylpyridyl)porphine,Porphyrins,orch,bacs,4,ISA_ORCHisaBACS
+C0090306,C0033554,ISA,latanoprost,Prostaglandins,orch,bacs,1,ISA_ORCHisaBACS
+C0108225,C0033607,ISA,camostate-mesilate,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0108225,C0036733,ISA,camostate-mesilate,Serine Proteinase Inhibitors,orch,bacs,3,ISA_ORCHisaBACS
+C0129975,C0036733,ISA,camostat,Serine Proteinase Inhibitors,orch,bacs,7,ISA_ORCHisaBACS
+C0134177,C0016945,ISA,"2-nitrophenylgalactoside, (beta-D)-isomer",Galactose,orch,bacs,1,ISA_ORCHisaBACS
+C0142825,C0006353,ISA,sodium citrate,Buffers,orch,bacs,34,ISA_ORCHisaBACS
+C0146923,C0006353,ISA,Tris-borate-EDTA buffer,Buffers,orch,bacs,1,ISA_ORCHisaBACS
+C0162969,C0008141,ISA,Chitosan,Chitin,orch,bacs,2,ISA_ORCHisaBACS
+C0167250,C0006353,ISA,Krebs-Henseleit solution,Buffers,orch,bacs,1,ISA_ORCHisaBACS
+C0207682,C0033607,ISA,nafamostat mesilate,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0207683,C0036733,ISA,nafamostat,Serine Proteinase Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0248617,C0038727,ISA,I(3)SO3-galactosylceramide,Sulfoglycosphingolipids,orch,bacs,1,ISA_ORCHisaBACS
+C0258024,C0006353,ISA,Laemmli buffer,Buffers,orch,bacs,1,ISA_ORCHisaBACS
+C0282730,C0033607,ISA,Pefabloc,Protease Inhibitors,orch,bacs,2,ISA_ORCHisaBACS
+C0286738,C0033607,ISA,Saquinavir,Protease Inhibitors,orch,bacs,2,ISA_ORCHisaBACS
+C0292818,C0033607,ISA,Ritonavir,Protease Inhibitors,orch,bacs,13,ISA_ORCHisaBACS
+C0353453,C0017973,ISA,Danaparoid sodium,Glycosaminoglycans,orch,bacs,1,ISA_ORCHisaBACS
+C0376637,C0033607,ISA,Indinavir,Protease Inhibitors,orch,bacs,5,ISA_ORCHisaBACS
+C0378785,C0003320,ISA,"3,5-diisopropylsalicylic acid",Antigens,orch,bacs,2,ISA_ORCHisaBACS
+C0387261,C0017725,ISA,"2-(N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)-2-deoxyglucose",Glucose,orch,bacs,2,ISA_ORCHisaBACS
+C0440459,C0040549,ISA,Honey bee venom,Toxin,orch,bacs,2,ISA_ORCHisaBACS
+C0525005,C0033607,ISA,Nelfinavir,Protease Inhibitors,orch,bacs,3,ISA_ORCHisaBACS
+C0674432,C0033607,ISA,lopinavir,Protease Inhibitors,orch,bacs,4,ISA_ORCHisaBACS
+C0682997,C0039561,ISA,Monoterpenes,Terpenes,orch,bacs,3,ISA_ORCHisaBACS
+C0700889,C0087000,ISA,Healon,Sodium Hyaluronate,orch,bacs,1,ISA_ORCHisaBACS
+C0722563,C0016693,ISA,Peroxyl,Free Radicals,orch,bacs,1,ISA_ORCHisaBACS
+C0724696,C0055819,ISA,sodium citrate dihydrate,Citric Acid,orch,bacs,1,ISA_ORCHisaBACS
+C0733358,C0006353,ISA,Trizma,Buffers,orch,bacs,2,ISA_ORCHisaBACS
+C0740123,C0025684,ISA,8-MOP,Methoxsalen,orch,bacs,3,ISA_ORCHisaBACS
+C0755529,C0031621,ISA,phosphatidylinositol 5-phosphate,Phosphatidylinositols,orch,bacs,1,ISA_ORCHisaBACS
+C0917748,C0033607,ISA,Gabexate Methanesulfonate,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C0917748,C0036733,ISA,Gabexate Methanesulfonate,Serine Proteinase Inhibitors,orch,bacs,2,ISA_ORCHisaBACS
+C0939237,C0033607,ISA,lopinavir / Ritonavir,Protease Inhibitors,orch,bacs,4,ISA_ORCHisaBACS
+C0939357,C0033607,ISA,Kaletra,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C1175112,C0031676,ISA,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,Phospholipids,orch,bacs,1,ISA_ORCHisaBACS
+C1175791,C0008240,ISA,5'-O-caffeoylquinic acid,Chlorogenic acid,orch,bacs,1,ISA_ORCHisaBACS
+C1176309,C0033607,ISA,bortezomib,Protease Inhibitors,orch,bacs,3,ISA_ORCHisaBACS
+C1259011,C0018338,ISA,CPT-cGMP,Cyclic GMP,orch,bacs,2,ISA_ORCHisaBACS
+C1435138,C0037907,ISA,"erythro-(2R,3S)-sphingosine",Sphingosine,orch,bacs,1,ISA_ORCHisaBACS
+C1453100,C0019392,ISA,glucosyl hesperidin,Hesperidin,orch,bacs,1,ISA_ORCHisaBACS
+C1528871,C0017950,ISA,alpha-galactosylceramide,Glycolipids,orch,bacs,1,ISA_ORCHisaBACS
+C1529741,C0008377,ISA,ISCOMATRIX,Cholesterol,orch,bacs,1,ISA_ORCHisaBACS
+C2605855,C0033607,ISA,simeprevir,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C2699214,C0033607,ISA,Ciluprevir,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C2728259,C0003320,ISA,Program,Antigens,orch,bacs,1,ISA_ORCHisaBACS
+C3180487,C1172779,ISA,N-arachidonoylethanolamine,Endocannabinoids,orch,bacs,1,ISA_ORCHisaBACS
+C3273711,C0033607,ISA,ixazomib,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C3491974,C0033607,ISA,asunaprevir,Protease Inhibitors,orch,bacs,1,ISA_ORCHisaBACS
+C3503116,C0015684,ISA,palmitate,Fatty Acids,orch,bacs,3,ISA_ORCHisaBACS
+C3503116,C0522095,ISA,palmitate,Long chain fatty acid,orch,bacs,1,ISA_ORCHisaBACS
+C3529139,C0032712,ISA,"5,10,15,20-tetra-(4-(2-(1-methyl-1- piperidinyl)ethoxy)phenyl)porphyrin",Porphyrins,orch,bacs,1,ISA_ORCHisaBACS
+C3813211,C0033554,ISA,Prostaglandin E2,Prostaglandins,orch,bacs,1,ISA_ORCHisaBACS
+C3864824,C0033607,ISA,paritaprevir,Protease Inhibitors,orch,bacs,3,ISA_ORCHisaBACS
+C3885324,C0038071,ISA,Addavax,Squalene,orch,bacs,1,ISA_ORCHisaBACS
+C3896714,C1099354,ISA,patisiran,"RNA, Small Interfering",orch,bacs,1,ISA_ORCHisaBACS

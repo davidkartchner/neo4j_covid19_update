@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017262,C0021368,AFFECTS,Gene Expression,Inflammation,genf,patf,3,AFFECTS_GENFafctPATF
+C0017262,C0232910,AFFECTS,Gene Expression,Teratogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C0020202,C0020517,AFFECTS,Crossbreeding,Hypersensitivity,genf,patf,1,AFFECTS_GENFafctPATF
+C0026882,C0020517,AFFECTS,Mutation,Hypersensitivity,genf,patf,2,AFFECTS_GENFafctPATF
+C0026882,C0242656,AFFECTS,Mutation,Disease Progression,genf,patf,1,AFFECTS_GENFafctPATF
+C0032529,C0020517,AFFECTS,Genetic Polymorphism,Hypersensitivity,genf,patf,1,AFFECTS_GENFafctPATF
+C0032529,C0021368,AFFECTS,Genetic Polymorphism,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C0032529,C1520005,AFFECTS,Genetic Polymorphism,Viral Pathogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C0034865,C1520005,AFFECTS,"Recombination, Genetic",Viral Pathogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C0040649,C0001349,AFFECTS,"Transcription, Genetic",Acute-Phase Reaction,genf,patf,1,AFFECTS_GENFafctPATF
+C0040649,C0020507,AFFECTS,"Transcription, Genetic",Hyperplasia,genf,patf,1,AFFECTS_GENFafctPATF
+C0040649,C0021368,AFFECTS,"Transcription, Genetic",Inflammation,genf,patf,3,AFFECTS_GENFafctPATF
+C0040649,C1155266,AFFECTS,"Transcription, Genetic",inflammatory response,genf,patf,1,AFFECTS_GENFafctPATF
+C0162493,C0020517,AFFECTS,Transcriptional Activation,Hypersensitivity,genf,patf,1,AFFECTS_GENFafctPATF
+C0162493,C0021368,AFFECTS,Transcriptional Activation,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C0162493,C1155266,AFFECTS,Transcriptional Activation,inflammatory response,genf,patf,1,AFFECTS_GENFafctPATF
+C0162493,C1520005,AFFECTS,Transcriptional Activation,Viral Pathogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C0314627,C1817978,AFFECTS,Gene function,acute inflammatory response,genf,patf,1,AFFECTS_GENFafctPATF
+C0598496,C0021368,AFFECTS,Gene Silencing,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C0598496,C1155266,AFFECTS,Gene Silencing,inflammatory response,genf,patf,1,AFFECTS_GENFafctPATF
+C0887912,C1520005,AFFECTS,"Gene Transfer, Horizontal",Viral Pathogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C1148846,C1520005,AFFECTS,RNA Binding,Viral Pathogenesis,genf,patf,1,AFFECTS_GENFafctPATF
+C1148850,C0021368,AFFECTS,AU-rich element binding,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C1152412,C0020517,AFFECTS,RNA-directed RNA polymerase activity,Hypersensitivity,genf,patf,1,AFFECTS_GENFafctPATF
+C1155299,C1155266,AFFECTS,Telomere Maintenance,inflammatory response,genf,patf,1,AFFECTS_GENFafctPATF
+C1512167,C1510411,AFFECTS,Ectopic Gene Expression,metaplastic cell transformation,genf,patf,1,AFFECTS_GENFafctPATF
+C1515670,C0021368,AFFECTS,mRNA Expression,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C1515670,C0035228,AFFECTS,mRNA Expression,Respiratory Hypersensitivity,genf,patf,1,AFFECTS_GENFafctPATF
+C1519613,C0021368,AFFECTS,Translation Initiation,Inflammation,genf,patf,1,AFFECTS_GENFafctPATF
+C2610186,C1520005,AFFECTS,"nuclear mRNA cis splicing, via spliceosome",Viral Pathogenesis,genf,patf,2,AFFECTS_GENFafctPATF

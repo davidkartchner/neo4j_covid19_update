@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0003451,INTERACTS_WITH,Antibiotics,Antiviral Agents,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0003232,C0282556,INTERACTS_WITH,Antibiotics,Anti-Asthmatic Agents,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0007554,C0663241,INTERACTS_WITH,Cefotaxime,linezolid,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0010572,C0033671,INTERACTS_WITH,Cycloheximide,Protein Synthesis Inhibitors,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0022914,C0041044,INTERACTS_WITH,Lactams,Trimethoprim-Sulfamethoxazole Combination,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0026187,C0004475,INTERACTS_WITH,Minocycline,Azacitidine,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0026187,C0064113,INTERACTS_WITH,Minocycline,Itraconazole,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0026187,C1144403,INTERACTS_WITH,Minocycline,oritavancin,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0035608,C0935929,INTERACTS_WITH,Rifampin,Antidiabetics,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0039644,C0041044,INTERACTS_WITH,Tetracycline,Trimethoprim-Sulfamethoxazole Combination,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0052796,C0004475,INTERACTS_WITH,Azithromycin,Azacitidine,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0052796,C0064113,INTERACTS_WITH,Azithromycin,Itraconazole,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0052796,C1144403,INTERACTS_WITH,Azithromycin,oritavancin,antb,phsu,2,INTERACTS_WITH_ANTBitawPHSU
+C0055856,C0003209,INTERACTS_WITH,Clarithromycin,Anti-Inflammatory Agents,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0125179,C1443643,INTERACTS_WITH,lactacystin,Proteasome inhibitor,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0279516,C0013162,INTERACTS_WITH,Anti-Bacterial Agents,Drug Combinations,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU
+C0614427,C0003451,INTERACTS_WITH,NS 5,Antiviral Agents,antb,phsu,1,INTERACTS_WITH_ANTBitawPHSU

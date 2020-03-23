@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001349,C0042774,NEG_AFFECTS,Acute-Phase Reaction,Virus Replication,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0020517,C0018270,NEG_AFFECTS,Hypersensitivity,Growth,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0020517,C0042774,NEG_AFFECTS,Hypersensitivity,Virus Replication,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0021368,C0019868,NEG_AFFECTS,Inflammation,Homeostasis,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0021368,C0301872,NEG_AFFECTS,Inflammation,Immune response,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0151526,C0032961,NEG_AFFECTS,Premature Birth,Pregnancy,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C0242656,C0032961,NEG_AFFECTS,Disease Progression,Pregnancy,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF
+C3714514,C0012238,NEG_AFFECTS,Infection,Digestion,patf,orgf,1,NEG_AFFECTS_PATFnafctORGF

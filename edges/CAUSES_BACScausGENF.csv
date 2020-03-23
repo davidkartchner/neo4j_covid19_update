@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009221,C0040649,CAUSES,Codon (nucleotide sequence),"Transcription, Genetic",bacs,genf,1,CAUSES_BACScausGENF
+C0009221,C0282572,CAUSES,Codon (nucleotide sequence),"Frameshifting, Ribosomal",bacs,genf,1,CAUSES_BACScausGENF
+C0009221,C0525038,CAUSES,Codon (nucleotide sequence),Amino Acid Substitution,bacs,genf,1,CAUSES_BACScausGENF
+C0028606,C0162735,CAUSES,Nucleic Acids,Point Mutation,bacs,genf,1,CAUSES_BACScausGENF
+C0242612,C0026882,CAUSES,"Codon, Nonsense",Mutation,bacs,genf,2,CAUSES_BACScausGENF
+C0242612,C1158013,CAUSES,"Codon, Nonsense",Nonsense Mediated mRNA Decay,bacs,genf,1,CAUSES_BACScausGENF
+C0242612,C3155686,CAUSES,"Codon, Nonsense",mRNA destabilization,bacs,genf,1,CAUSES_BACScausGENF
+C0536566,C0162735,CAUSES,suilysin,Point Mutation,bacs,genf,1,CAUSES_BACScausGENF
+C0600600,C0026882,CAUSES,3' Untranslated Regions,Mutation,bacs,genf,1,CAUSES_BACScausGENF
+C0600600,C0525038,CAUSES,3' Untranslated Regions,Amino Acid Substitution,bacs,genf,1,CAUSES_BACScausGENF
+C0600600,C1519619,CAUSES,3' Untranslated Regions,Translational Repression,bacs,genf,1,CAUSES_BACScausGENF
+C0887918,C2610186,CAUSES,Splice Acceptor Site,"nuclear mRNA cis splicing, via spliceosome",bacs,genf,1,CAUSES_BACScausGENF

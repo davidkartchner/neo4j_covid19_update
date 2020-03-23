@@ -1,0 +1,169 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001311,C0019993,CAUSES,Acute bronchiolitis,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0004096,C0019993,CAUSES,Asthma,Hospitalization,dsyn,hlca,11,CAUSES_DSYNcausHLCA
+C0004096,C0184666,CAUSES,Asthma,Hospital admission,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0004096,C0545084,CAUSES,Asthma,Outpatient visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0004096,C0545092,CAUSES,Asthma,hospital visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0004096,C3494318,CAUSES,Asthma,Public Health Surveillance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0004623,C4046039,CAUSES,Bacterial Infections,Overtreatment,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0006271,C0019993,CAUSES,Bronchiolitis,Hospitalization,dsyn,hlca,16,CAUSES_DSYNcausHLCA
+C0006271,C0184666,CAUSES,Bronchiolitis,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0006277,C0019993,CAUSES,Bronchitis,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0007222,C0184666,CAUSES,Cardiovascular Diseases,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0008350,C0019993,CAUSES,Cholelithiasis,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0008679,C0019993,CAUSES,Chronic disease,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0009450,C0009449,CAUSES,Communicable Diseases,Communicable Disease Control,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0009450,C0009818,CAUSES,Communicable Diseases,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0009450,C0017313,CAUSES,Communicable Diseases,patient care,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0009450,C0019993,CAUSES,Communicable Diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0009450,C0030685,CAUSES,Communicable Diseases,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0009450,C0184666,CAUSES,Communicable Diseases,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0009450,C1261322,CAUSES,Communicable Diseases,Evaluation procedure,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0010380,C0019993,CAUSES,Croup,Hospitalization,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0010674,C0030685,CAUSES,Cystic Fibrosis,Patient Discharge,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0011119,C0030685,CAUSES,Decompression Sickness,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0011175,C0019948,CAUSES,Dehydration,Hospital Administration,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0011615,C0001758,CAUSES,"Dermatitis, Atopic",Aftercare,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0013371,C0030685,CAUSES,Shigella Infections,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0014175,C0444793,CAUSES,Endometriosis,Position change,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0016514,C0025355,CAUSES,Foot-and-Mouth Disease,Mental Health Services,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0016627,C0030685,CAUSES,Influenza in Birds,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0016627,C1516615,CAUSES,Influenza in Birds,Clinical Management,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0017160,C0019948,CAUSES,Gastroenteritis,Hospital Administration,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0017160,C0019993,CAUSES,Gastroenteritis,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0018799,C0019993,CAUSES,Heart Diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0019100,C0019993,CAUSES,Severe Dengue,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0019247,C0262500,CAUSES,Hereditary Diseases,Health maintenance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0009818,CAUSES,Influenza,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0019993,CAUSES,Influenza,Hospitalization,dsyn,hlca,30,CAUSES_DSYNcausHLCA
+C0021400,C0030685,CAUSES,Influenza,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0033080,CAUSES,Influenza,Prescription procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0184666,CAUSES,Influenza,Hospital admission,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0021400,C0422202,CAUSES,Influenza,Notifications,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0545084,CAUSES,Influenza,Outpatient visits,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0021400,C0586082,CAUSES,Influenza,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C0846663,CAUSES,Influenza,resource education,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C1261322,CAUSES,Influenza,Evaluation procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C1318493,CAUSES,Influenza,Inflation procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C1514821,CAUSES,Influenza,Registration,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021400,C2936303,CAUSES,Influenza,Inappropriate Prescribing,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0021843,C0019993,CAUSES,Intestinal Obstruction,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0022521,C0030685,CAUSES,Kartagener Syndrome,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0023240,C1318493,CAUSES,Legionellosis,Inflation procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0023241,C0019993,CAUSES,Legionnaires' Disease,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0023281,C0030685,CAUSES,Leishmaniasis,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0024115,C0019993,CAUSES,Lung diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0024117,C0019993,CAUSES,Chronic Obstructive Airway Disease,Hospitalization,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0024117,C0586082,CAUSES,Chronic Obstructive Airway Disease,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0024141,C0030685,CAUSES,"Lupus Erythematosus, Systemic",Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0024537,C0019993,CAUSES,"Malaria, Vivax",Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0029342,C0019993,CAUSES,Orthomyxoviridae Infections,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0029882,C0019993,CAUSES,Otitis Media,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0030567,C0019993,CAUSES,Parkinson Disease,Hospitalization,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0032269,C0019993,CAUSES,Pneumococcal Infections,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0032285,C0019948,CAUSES,Pneumonia,Hospital Administration,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0032285,C0019993,CAUSES,Pneumonia,Hospitalization,dsyn,hlca,26,CAUSES_DSYNcausHLCA
+C0032285,C0030685,CAUSES,Pneumonia,Patient Discharge,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0032285,C0184666,CAUSES,Pneumonia,Hospital admission,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0032285,C1261322,CAUSES,Pneumonia,Evaluation procedure,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0035204,C0009818,CAUSES,Respiration Disorders,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035204,C0019993,CAUSES,Respiration Disorders,Hospitalization,dsyn,hlca,5,CAUSES_DSYNcausHLCA
+C0035204,C0184666,CAUSES,Respiration Disorders,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035222,C0019993,CAUSES,"Respiratory Distress Syndrome, Adult",Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035222,C0030672,CAUSES,"Respiratory Distress Syndrome, Adult",Patient Acceptance of Health Care,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035222,C0030685,CAUSES,"Respiratory Distress Syndrome, Adult",Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035222,C0184666,CAUSES,"Respiratory Distress Syndrome, Adult",Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035235,C0019993,CAUSES,Respiratory Syncytial Virus Infections,Hospitalization,dsyn,hlca,10,CAUSES_DSYNcausHLCA
+C0035235,C0030685,CAUSES,Respiratory Syncytial Virus Infections,Patient Discharge,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0035235,C0184666,CAUSES,Respiratory Syncytial Virus Infections,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035243,C0008952,CAUSES,Respiratory Tract Infections,Clinic Visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035243,C0019993,CAUSES,Respiratory Tract Infections,Hospitalization,dsyn,hlca,16,CAUSES_DSYNcausHLCA
+C0035243,C0030685,CAUSES,Respiratory Tract Infections,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035243,C0184666,CAUSES,Respiratory Tract Infections,Hospital admission,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0035243,C0553618,CAUSES,Respiratory Tract Infections,emergency visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035243,C0733511,CAUSES,Respiratory Tract Infections,Medical Surveillance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035243,C1261322,CAUSES,Respiratory Tract Infections,Evaluation procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0035369,C0030685,CAUSES,Retroviridae Infections,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0036690,C0019993,CAUSES,Septicemia,Hospitalization,dsyn,hlca,5,CAUSES_DSYNcausHLCA
+C0036690,C0034117,CAUSES,Septicemia,Puncture procedure,dsyn,hlca,4,CAUSES_DSYNcausHLCA
+C0036690,C0184666,CAUSES,Septicemia,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0037933,C0262500,CAUSES,Spinal Diseases,Health maintenance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0041296,C0805586,CAUSES,Tuberculosis,Challenge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0041296,C4036459,CAUSES,Tuberculosis,Contacts,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0041912,C0018747,CAUSES,Upper Respiratory Infections,Health Services,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0041912,C0184666,CAUSES,Upper Respiratory Infections,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0042109,C0553618,CAUSES,Urticaria,emergency visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0042749,C0030685,CAUSES,Viremia,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0042769,C0019993,CAUSES,Virus Diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0042769,C0030685,CAUSES,Virus Diseases,Patient Discharge,dsyn,hlca,5,CAUSES_DSYNcausHLCA
+C0042769,C0033080,CAUSES,Virus Diseases,Prescription procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0149725,C0019993,CAUSES,Lower respiratory tract infection,Hospitalization,dsyn,hlca,13,CAUSES_DSYNcausHLCA
+C0149725,C0184666,CAUSES,Lower respiratory tract infection,Hospital admission,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0151317,C0030685,CAUSES,Chronic infectious disease,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0206171,C0019993,CAUSES,Community-Acquired Infections,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0206171,C0184666,CAUSES,Community-Acquired Infections,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0206750,C0030685,CAUSES,Coronavirus Infections,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0238990,C0019993,CAUSES,Acute lower respiratory tract infection,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0238990,C0184666,CAUSES,Acute lower respiratory tract infection,Hospital admission,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0243026,C0030685,CAUSES,Sepsis,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0264219,C0019993,CAUSES,Acute respiratory disease,Hospitalization,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0264222,C0586082,CAUSES,Acute upper respiratory infection,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0264490,C0019993,CAUSES,Acute respiratory failure,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0267446,C0019993,CAUSES,Acute gastroenteritis,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0275524,C0019993,CAUSES,Coinfection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0275524,C0206082,CAUSES,Coinfection,Immunization Programs,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0275524,C1261322,CAUSES,Coinfection,Evaluation procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0275524,C2359834,CAUSES,Coinfection,Additional assessment,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0276289,C0030685,CAUSES,Zika Virus Infection,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0276340,C0019993,CAUSES,Respiratory syncytial virus bronchiolitis,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0276447,C0030685,CAUSES,Rhinovirus infection,Patient Discharge,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C0276500,C0030685,CAUSES,Human immunodeficiency virus I infection,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0276619,C0019993,CAUSES,Viral gastroenteritis due to Norwalk-like agent,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0282687,C3494318,CAUSES,"Hemorrhagic Fever, Ebola",Public Health Surveillance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0302507,C0019993,CAUSES,Parainfluenza Virus Infections,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0002423,CAUSES,Acute respiratory infections,ambulatory care services,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0009818,CAUSES,Acute respiratory infections,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0019993,CAUSES,Acute respiratory infections,Hospitalization,dsyn,hlca,15,CAUSES_DSYNcausHLCA
+C0339901,C0184666,CAUSES,Acute respiratory infections,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0545084,CAUSES,Acute respiratory infections,Outpatient visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0586082,CAUSES,Acute respiratory infections,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339901,C0679878,CAUSES,Acute respiratory infections,acute care,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0339941,C0019993,CAUSES,Acute viral bronchiolitis,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0340194,C1292960,CAUSES,Respiratory failure without hypercapnia,Procedure on lung,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0376538,C0030685,CAUSES,Porcine Reproductive and Respiratory Syndrome,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0694549,C0019993,CAUSES,Community acquired pneumonia,Hospitalization,dsyn,hlca,10,CAUSES_DSYNcausHLCA
+C0694549,C0184666,CAUSES,Community acquired pneumonia,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0729531,C0019993,CAUSES,Viral respiratory infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0729532,C0019993,CAUSES,Viral lower respiratory infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0740304,C0019993,CAUSES,copd exacerbation,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0740441,C0019993,CAUSES,Acute diarrhea,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0743841,C0009818,CAUSES,Disorder characterized by fever,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0743841,C0019993,CAUSES,Disorder characterized by fever,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0743841,C0086969,CAUSES,Disorder characterized by fever,Self-Management,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0746102,C0019993,CAUSES,Chronic lung disease,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0851901,C0019993,CAUSES,Rhinovirus infections,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0856238,C0019993,CAUSES,influenza (epidemic),Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0856238,C0545084,CAUSES,influenza (epidemic),Outpatient visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0858744,C0030685,CAUSES,infection induced,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0872315,C0030685,CAUSES,"Communicable Diseases, Emerging",Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0877203,C0019993,CAUSES,Viral Respiratory Tract Infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0877203,C1522577,CAUSES,Viral Respiratory Tract Infection,follow-up,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C0940933,C0184666,CAUSES,infection as a complication,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1096155,C0019993,CAUSES,Macrophage Activation Syndrome,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1175175,C0019993,CAUSES,Severe Acute Respiratory Syndrome,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1175175,C0030672,CAUSES,Severe Acute Respiratory Syndrome,Patient Acceptance of Health Care,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1175175,C0030685,CAUSES,Severe Acute Respiratory Syndrome,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1290325,C0019993,CAUSES,Disorder of lower respiratory system,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1290884,C0030685,CAUSES,Inflammatory disorder,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1442786,C0019993,CAUSES,Acute respiratory tract infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1442786,C0184666,CAUSES,Acute respiratory tract infection,Hospital admission,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C1442786,C0545084,CAUSES,Acute respiratory tract infection,Outpatient visits,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C1442786,C0586082,CAUSES,Acute respiratory tract infection,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1443953,C0030685,CAUSES,Acute viral disease,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C1719672,C0034117,CAUSES,Severe Sepsis,Puncture procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C2062441,C0019993,CAUSES,Influenza A,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C2062441,C0030685,CAUSES,Influenza A,Patient Discharge,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C2076600,C0019993,CAUSES,Influenza due to Influenza A virus subtype H1N1,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C3694279,C0805586,CAUSES,Middle East Respiratory Syndrome,Challenge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
+C3873497,C0019993,CAUSES,Severe acute respiratory infection,Hospitalization,dsyn,hlca,3,CAUSES_DSYNcausHLCA
+C4020848,C0030685,CAUSES,Aneurysmal disease,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA

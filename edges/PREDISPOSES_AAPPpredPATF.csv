@@ -1,0 +1,260 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C0021368,PREDISPOSES,Acute-Phase Proteins,Inflammation,aapp,patf,4,PREDISPOSES_AAPPpredPATF
+C0001457,C0021368,PREDISPOSES,ADENOSINE DEAMINASE,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0001899,C0151763,PREDISPOSES,Alanine Transaminase,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0003009,C0020507,PREDISPOSES,angiotensin II,Hyperplasia,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0003009,C0020564,PREDISPOSES,angiotensin II,Hypertrophy,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0003009,C0334133,PREDISPOSES,angiotensin II,Chronic fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0003241,C0036982,PREDISPOSES,Antibodies,"Shock, Hemorrhagic",aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0003241,C0242656,PREDISPOSES,Antibodies,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0005789,C0333197,PREDISPOSES,Blood Coagulation Factor,Fibrin blood clot,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0006560,C0021368,PREDISPOSES,C-reactive protein,Inflammation,aapp,patf,8,PREDISPOSES_AAPPpredPATF
+C0006560,C0242656,PREDISPOSES,C-reactive protein,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0007578,C0015376,PREDISPOSES,Cell Adhesion Molecules,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0009498,C0021368,PREDISPOSES,Complement System Proteins,Inflammation,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C0010590,C0020963,PREDISPOSES,Cycloserine,Immune Tolerance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0010590,C0021368,PREDISPOSES,Cycloserine,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0010590,C0027686,PREDISPOSES,Cycloserine,Pathologic Neovascularization,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0010592,C0085660,PREDISPOSES,Cyclosporine,Aseptic necrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0014063,C0011304,PREDISPOSES,Myelin Basic Proteins,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0017278,C1520005,PREDISPOSES,"Gene Products, env",Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0017622,C0002792,PREDISPOSES,Gliadin,anaphylaxis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0017817,C0021368,PREDISPOSES,Glutathione,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0017968,C0020517,PREDISPOSES,Glycoproteins,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0017968,C1155266,PREDISPOSES,Glycoproteins,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0019587,C0036982,PREDISPOSES,Amine Oxidase (Copper-Containing),"Shock, Hemorrhagic",aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0020835,C0021368,PREDISPOSES,Immunoglobulin A,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0020838,C0020517,PREDISPOSES,Secretory Immunoglobulin A,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021740,C0035228,PREDISPOSES,Recombinant Interferon-gamma,Respiratory Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021747,C0021368,PREDISPOSES,Interferons,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021755,C0015376,PREDISPOSES,Interleukin-1,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021755,C0021368,PREDISPOSES,Interleukin-1,Inflammation,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C0021755,C1155266,PREDISPOSES,Interleukin-1,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021757,C0242656,PREDISPOSES,Interleukin-3,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021758,C0021375,PREDISPOSES,Interleukin-4,allergic inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021758,C0234985,PREDISPOSES,Interleukin-4,Mental deterioration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021760,C0001349,PREDISPOSES,Interleukin-6,Acute-Phase Reaction,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021760,C0015376,PREDISPOSES,Interleukin-6,Extravasation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0021760,C0021368,PREDISPOSES,Interleukin-6,Inflammation,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C0021760,C0206277,PREDISPOSES,Interleukin-6,Fatal Outcome,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021760,C0242656,PREDISPOSES,Interleukin-6,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0021760,C1155266,PREDISPOSES,Interleukin-6,inflammatory response,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0022917,C0021368,PREDISPOSES,Lactate Dehydrogenase,Inflammation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0026794,C0024348,PREDISPOSES,Muramidase,Lysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0027642,C1510411,PREDISPOSES,Neoplasm Proteins,metaplastic cell transformation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0027803,C0020517,PREDISPOSES,Neuraminidase,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0029005,C1510411,PREDISPOSES,Oncogene Proteins,metaplastic cell transformation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0029419,C0020517,PREDISPOSES,Osteocalcin,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0030940,C0021368,PREDISPOSES,Peptide Hydrolases,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0030946,C3714514,PREDISPOSES,Endopeptidases,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0032140,C0016059,PREDISPOSES,Plasminogen,Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0032140,C0021368,PREDISPOSES,Plasminogen,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0034805,C0021368,PREDISPOSES,Fc Receptor,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0034816,C0282474,PREDISPOSES,"Receptors, HIV",Maternal-Fetal Infection Transmission,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0040690,C2004491,PREDISPOSES,Transforming Growth Factor beta,Cicatrix,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0040691,C0016059,PREDISPOSES,Transforming Growth Factors,Fibrosis,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0040691,C0021368,PREDISPOSES,Transforming Growth Factors,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0040691,C2717792,PREDISPOSES,Transforming Growth Factors,Airway Remodeling,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0041368,C0015376,PREDISPOSES,Tumor Necrosis Factors,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0041368,C0333641,PREDISPOSES,Tumor Necrosis Factors,Atrophic,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0041368,C1155266,PREDISPOSES,Tumor Necrosis Factors,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0042872,C1155266,PREDISPOSES,Vitamin D-Binding Protein,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0052181,C0151763,PREDISPOSES,apolipoprotein A-IV,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0053518,C0151763,PREDISPOSES,betaine-homocysteine methyltransferase,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0054015,C0340515,PREDISPOSES,Nesiritide,Myocardial dysfunction,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0054878,C0036983,PREDISPOSES,cationic antimicrobial protein CAP 37,Septic Shock,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0064833,C0013990,PREDISPOSES,Leukocyte Elastane,Pathological accumulation of air in tissues,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0064833,C0021368,PREDISPOSES,Leukocyte Elastane,Inflammation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0065661,C0282474,PREDISPOSES,Mannose Binding Lectin,Maternal-Fetal Infection Transmission,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0065827,C0021368,PREDISPOSES,Measles Virus Nucleoprotein,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0070338,C1520005,PREDISPOSES,peptide B,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0072978,C0242656,PREDISPOSES,RANTES,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0077918,C0242656,PREDISPOSES,Tamm-Horsfall protein,Disease Progression,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0078058,C0013604,PREDISPOSES,Vascular Endothelial Growth Factor A,Edema,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C0013990,PREDISPOSES,cytokine,Pathological accumulation of air in tissues,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C0015376,PREDISPOSES,cytokine,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C0021368,PREDISPOSES,cytokine,Inflammation,aapp,patf,5,PREDISPOSES_AAPPpredPATF
+C0079189,C0242656,PREDISPOSES,cytokine,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C0332448,PREDISPOSES,cytokine,Infiltration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C0333390,PREDISPOSES,cytokine,Chronic eosinophilic inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C1155266,PREDISPOSES,cytokine,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C1520005,PREDISPOSES,cytokine,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079189,C3714514,PREDISPOSES,cytokine,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079459,C1155266,PREDISPOSES,Granulocyte Colony-Stimulating Factor,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079460,C0021368,PREDISPOSES,Granulocyte-Macrophage Colony-Stimulating Factor,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079460,C0021375,PREDISPOSES,Granulocyte-Macrophage Colony-Stimulating Factor,allergic inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079633,C0011304,PREDISPOSES,Interleukin-8,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079633,C0021368,PREDISPOSES,Interleukin-8,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079633,C0242656,PREDISPOSES,Interleukin-8,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0079633,C0332448,PREDISPOSES,Interleukin-8,Infiltration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0084692,C0013990,PREDISPOSES,Pulmonary Surfactant-Associated Protein D,Pathological accumulation of air in tissues,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0084692,C0242656,PREDISPOSES,Pulmonary Surfactant-Associated Protein D,Disease Progression,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0084692,C1265824,PREDISPOSES,Pulmonary Surfactant-Associated Protein D,Persistent inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0085201,C0016059,PREDISPOSES,Apolipoprotein A-I,Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0085295,C0011304,PREDISPOSES,Interleukin-10,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0085295,C0020963,PREDISPOSES,Interleukin-10,Immune Tolerance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0085297,C0020517,PREDISPOSES,"Immunoglobulins, Intravenous",Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0085297,C0161816,PREDISPOSES,"Immunoglobulins, Intravenous",Cardiac complication,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0123707,C0151526,PREDISPOSES,Insulin-Like Growth Factor Binding Protein 3,Premature Birth,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0123759,C0015376,PREDISPOSES,Interleukin-12,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0145947,C0016059,PREDISPOSES,Tissue-Inhibitor of Metalloproteinase-1,Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0164371,C2699153,PREDISPOSES,Matrix Metalloproteinase 3,Cell Invasion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0164786,C0242656,PREDISPOSES,Proto-Oncogene Proteins c-akt,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0174234,C0016059,PREDISPOSES,PTX3 protein,Fibrosis,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C0174234,C0021368,PREDISPOSES,PTX3 protein,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0215955,C0021368,PREDISPOSES,"LCN2 protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0215955,C0151763,PREDISPOSES,"LCN2 protein, human",Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0219039,C0242656,PREDISPOSES,prion protein (106-126),Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0219433,C0021368,PREDISPOSES,"POSTN protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0257572,C1516670,PREDISPOSES,"TNFSF4 protein, human",Clonal Expansion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0258441,C0151526,PREDISPOSES,TNF receptor-associated factor 2,Premature Birth,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0258855,C0003130,PREDISPOSES,"CA9 protein, human",Anoxia,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0282554,C0011164,PREDISPOSES,chemokine,Abnormal degeneration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0282554,C0011304,PREDISPOSES,chemokine,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0282554,C0013990,PREDISPOSES,chemokine,Pathological accumulation of air in tissues,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0282554,C0021368,PREDISPOSES,chemokine,Inflammation,aapp,patf,5,PREDISPOSES_AAPPpredPATF
+C0282554,C0206277,PREDISPOSES,chemokine,Fatal Outcome,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0282554,C0332448,PREDISPOSES,chemokine,Infiltration,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0282554,C0333390,PREDISPOSES,chemokine,Chronic eosinophilic inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0285558,C0020507,PREDISPOSES,RAC-Alpha Serine/Threonine Kinase,Hyperplasia,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0290378,C1155266,PREDISPOSES,"ADAM11 protein, human",inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0299583,C0021368,PREDISPOSES,leptin,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0299583,C0920563,PREDISPOSES,leptin,Insulin Sensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0378910,C1519697,PREDISPOSES,Lymphocyte antigen CD66A,Tumorigenicity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0388060,C1520005,PREDISPOSES,peptide A,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0388911,C0027686,PREDISPOSES,Vascular Endothelial Growth Factor C,Pathologic Neovascularization,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0389071,C0021655,PREDISPOSES,Adiponectin,Insulin Resistance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0389071,C0920563,PREDISPOSES,Adiponectin,Insulin Sensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0528649,C0021368,PREDISPOSES,"CHI3L1 protein, human",Inflammation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C0535298,C1155266,PREDISPOSES,Fractalkine,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0599947,C0021368,PREDISPOSES,release factor,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0664390,C0027686,PREDISPOSES,Vascular Endothelial Growth Factor D,Pathologic Neovascularization,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0753748,C0024348,PREDISPOSES,L-ficolin,Lysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0805154,C1285169,PREDISPOSES,Asialoganglioside GM1 Ab,Antibody-mediated cytolysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0812445,C0011304,PREDISPOSES,CXCL1 gene,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0879468,C2699153,PREDISPOSES,CSF1R gene,Cell Invasion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0950624,C0021368,PREDISPOSES,Leukocyte L1 Antigen Complex,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0960880,C0242656,PREDISPOSES,angiotensin converting enzyme 2,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C0963057,C0282474,PREDISPOSES,Toll-like receptor 9,Maternal-Fetal Infection Transmission,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1099914,C0242656,PREDISPOSES,"IL12B protein, human",Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1142652,C0021368,PREDISPOSES,"NR4A2 protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1143949,C0013604,PREDISPOSES,"TNFSF10 protein, human",Edema,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1143949,C0242656,PREDISPOSES,"TNFSF10 protein, human",Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1143976,C0021368,PREDISPOSES,"TREM2 protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1143976,C1155266,PREDISPOSES,"TREM2 protein, human",inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1180334,C0036679,PREDISPOSES,Cytoplasmic Dyneins,Diastasis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1256770,C0013604,PREDISPOSES,Vascular Endothelial Growth Factors,Edema,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1256770,C0027686,PREDISPOSES,Vascular Endothelial Growth Factors,Pathologic Neovascularization,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1258835,C1520005,PREDISPOSES,"N protein, Severe acute respiratory syndrome virus",Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1309370,C2699153,PREDISPOSES,"CADM1 protein, human",Cell Invasion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1332386,C0021368,PREDISPOSES,BCAR3 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1332656,C0021368,PREDISPOSES,C3 gene,Inflammation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1332817,C0027686,PREDISPOSES,CXCL12 gene,Pathologic Neovascularization,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1334103,C0392707,PREDISPOSES,IL13 gene,Atopy,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1334126,C0332448,PREDISPOSES,CXCR2 gene,Infiltration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1334140,C0021655,PREDISPOSES,IRS1 gene,Insulin Resistance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1334346,C1510411,PREDISPOSES,LMP1 EBV latent membrane protein,metaplastic cell transformation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1335872,C1155266,PREDISPOSES,STAT1 gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1336692,C0011304,PREDISPOSES,TYROBP gene,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1336763,C0020517,PREDISPOSES,Toll-Like Receptor Family Gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1336763,C1155266,PREDISPOSES,Toll-Like Receptor Family Gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1367710,C0021368,PREDISPOSES,C5 gene,Inflammation,aapp,patf,4,PREDISPOSES_AAPPpredPATF
+C1412113,C3714514,PREDISPOSES,SLC33A1 gene,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1412319,C0015376,PREDISPOSES,AKAP7 gene,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1412417,C0332448,PREDISPOSES,ANXA1 gene,Infiltration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1412785,C0021368,PREDISPOSES,BECN1 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1412995,C0021368,PREDISPOSES,C3AR1 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1413188,C0206277,PREDISPOSES,CCR2 gene,Fatal Outcome,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1413387,C0021368,PREDISPOSES,CHI3L1 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1413512,C0016059,PREDISPOSES,CLTC gene,Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1413512,C0151763,PREDISPOSES,CLTC gene,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1414141,C0021368,PREDISPOSES,DPP4 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1414181,C0021368,PREDISPOSES,DUSP10 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1414359,C2699153,PREDISPOSES,EIF5 gene,Cell Invasion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1414405,C1510411,PREDISPOSES,ENO3 gene,metaplastic cell transformation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1414609,C0242656,PREDISPOSES,FGL2 gene,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1414609,C0333565,PREDISPOSES,FGL2 gene,Fibrin deposition,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1415761,C1704489,PREDISPOSES,HSPA5 gene,Extended Rotated Sidebent,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C1415898,C1155266,PREDISPOSES,IFITM3 gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1416171,C0024348,PREDISPOSES,RBPJ gene,Lysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1416788,C0020517,PREDISPOSES,LAMP1 gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1416806,C0021368,PREDISPOSES,LCN2 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1416806,C0151763,PREDISPOSES,LCN2 gene,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1417497,C0021368,PREDISPOSES,MUC5AC gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1417510,C0020517,PREDISPOSES,MX1 gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1417679,C0026766,PREDISPOSES,NES gene,Multiple Organ Failure,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1417912,C0020517,PREDISPOSES,OAS1 gene,Hypersensitivity,aapp,patf,3,PREDISPOSES_AAPPpredPATF
+C1417916,C0020517,PREDISPOSES,OASL gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418215,C1155266,PREDISPOSES,P2RX7 gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418597,C0016059,PREDISPOSES,PITX3 gene,Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418597,C0021368,PREDISPOSES,PITX3 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418597,C3714514,PREDISPOSES,PITX3 gene,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418793,C0021368,PREDISPOSES,PPIA gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418793,C0030660,PREDISPOSES,PPIA gene,Pathologic Processes,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418793,C1383860,PREDISPOSES,PPIA gene,Cardiac Hypertrophy,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1418793,C2699153,PREDISPOSES,PPIA gene,Cell Invasion,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419054,C0036679,PREDISPOSES,PTBP1 gene,Diastasis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419702,C3714514,PREDISPOSES,RPS13 gene,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419799,C0021368,PREDISPOSES,SAA1 gene,Inflammation,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1419799,C0151763,PREDISPOSES,SAA1 gene,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419800,C0021368,PREDISPOSES,SAA2 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419800,C0151763,PREDISPOSES,SAA2 gene,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1419891,C1520005,PREDISPOSES,SDC1 gene,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1420091,C0013604,PREDISPOSES,SLC12A2 gene,Edema,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1421554,C1155266,PREDISPOSES,YME1L1 gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1422064,C0749225,PREDISPOSES,ACE2 gene,Systolic dysfunction,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C1423842,C1527304,PREDISPOSES,NELFCD gene,Allergic Reaction,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1424853,C0020507,PREDISPOSES,SPDEF gene,Hyperplasia,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1424976,C0015376,PREDISPOSES,ESAM gene,Extravasation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1425514,C0021368,PREDISPOSES,HAVCR2 gene,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1426212,C0020517,PREDISPOSES,SOCS3 gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1426212,C1520005,PREDISPOSES,SOCS3 gene,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1427150,C0020564,PREDISPOSES,TPCN2 gene,Hypertrophy,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1427812,C0024348,PREDISPOSES,PDLIM7 gene,Lysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1448177,C0011304,PREDISPOSES,"TNF protein, human",Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1448177,C0242656,PREDISPOSES,"TNF protein, human",Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1448238,C0242656,PREDISPOSES,"FCGR2A protein, human",Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1449159,C0016059,PREDISPOSES,"CCL2 protein, human",Fibrosis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1449159,C0332448,PREDISPOSES,"CCL2 protein, human",Infiltration,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1449159,C1155266,PREDISPOSES,"CCL2 protein, human",inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1451210,C0333565,PREDISPOSES,"FGL2 protein, human",Fibrin deposition,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1522002,C0021368,PREDISPOSES,RNA Recognition Motif,Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1522712,C1155266,PREDISPOSES,Recombinant Interferon-alpha Inducible Protein 10,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1538071,C0021368,PREDISPOSES,VSIG4 gene,Inflammation,aapp,patf,4,PREDISPOSES_AAPPpredPATF
+C1538071,C0021655,PREDISPOSES,VSIG4 gene,Insulin Resistance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1539479,C0020963,PREDISPOSES,FATE1 gene,Immune Tolerance,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1539487,C0020517,PREDISPOSES,FBXL20 gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1564904,C0000887,PREDISPOSES,Catenins,Acantholysis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1624602,C0011304,PREDISPOSES,Anti-Antibodies,Demyelination,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1624602,C0020517,PREDISPOSES,Anti-Antibodies,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1700887,C0242656,PREDISPOSES,"IL2RA protein, human",Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1701032,C0020517,PREDISPOSES,"ITGAM protein, human",Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1701790,C0021368,PREDISPOSES,"IL17A protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1701790,C0027686,PREDISPOSES,"IL17A protein, human",Pathologic Neovascularization,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1701790,C1704489,PREDISPOSES,"IL17A protein, human",Extended Rotated Sidebent,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1702088,C0021375,PREDISPOSES,"IL5 protein, human",allergic inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1824728,C0020517,PREDISPOSES,CFB gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1824730,C1155266,PREDISPOSES,CHAC1 gene,inflammatory response,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1825598,C0020517,PREDISPOSES,IMPACT gene,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1825598,C0242656,PREDISPOSES,IMPACT gene,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1825598,C1520005,PREDISPOSES,IMPACT gene,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1825598,C3714514,PREDISPOSES,IMPACT gene,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1825843,C0340515,PREDISPOSES,ACTC1 gene,Myocardial dysfunction,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C1956109,C0020517,PREDISPOSES,Human Microbiome,Hypersensitivity,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C2744535,C0032787,PREDISPOSES,"CD69 protein, human",Postoperative Complications,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C2744535,C0231178,PREDISPOSES,"CD69 protein, human",Chronic failure,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C2744535,C0242781,PREDISPOSES,"CD69 protein, human",disease transmission,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C2936529,C0242656,PREDISPOSES,Inflammasomes,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3273546,C1520005,PREDISPOSES,Myosin-9,Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3541895,C0242656,PREDISPOSES,FCGR1A wt Allele,Disease Progression,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3541895,C0302158,PREDISPOSES,FCGR1A wt Allele,Leucocytic infiltrate,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3658243,C1518304,PREDISPOSES,"Spike Glycoprotein, Coronavirus",Neurotropism,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3849701,C1155266,PREDISPOSES,"interleukin 18 protein, human",inflammatory response,aapp,patf,2,PREDISPOSES_AAPPpredPATF
+C3887624,C0002994,PREDISPOSES,Human Neprilysin,Angioedema,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C3891560,C0021368,PREDISPOSES,Alarmins,Inflammation,aapp,patf,4,PREDISPOSES_AAPPpredPATF
+C4039583,C0151763,PREDISPOSES,Chimeric antigen receptor,Liver damage,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C4048285,C0021368,PREDISPOSES,"C-Reactive Protein, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C4281807,C1520005,PREDISPOSES,"Vitronectin, human",Viral Pathogenesis,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C4283742,C0021368,PREDISPOSES,"Ceramide Glucosyltransferase, human",Inflammation,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C4284302,C3714514,PREDISPOSES,EHD1 wt Allele,Infection,aapp,patf,1,PREDISPOSES_AAPPpredPATF
+C4316927,C0002994,PREDISPOSES,"Endothelin-1, human",Angioedema,aapp,patf,1,PREDISPOSES_AAPPpredPATF

@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005615,C0020964,PRECEDES,Birth,Immunity,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C0005615,C0242732,PRECEDES,Birth,Tropism,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C0243144,PRECEDES,Birth,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C2267003,PRECEDES,Birth,Increased Immunologic Activity [PE],orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C2370956,PRECEDES,Birth,Proprioceptive function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0006147,C0221102,PRECEDES,Breast Feeding,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0011065,C0020964,PRECEDES,Cessation of life,Immunity,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0243144,PRECEDES,Digestion,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0868946,PRECEDES,Digestion,digest,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0042774,C0243144,PRECEDES,Virus Replication,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0232338,C0042401,PRECEDES,Blood flow,Vasodilation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0301887,C0020964,PRECEDES,Low dose immunologic tolerance,Immunity,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0560560,C0020964,PRECEDES,Moving,Immunity,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0678209,C0243144,PRECEDES,Adaptive Immunity,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1749719,C0221102,PRECEDES,Adaptive Immune Response,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF

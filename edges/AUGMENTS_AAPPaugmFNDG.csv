@@ -1,0 +1,318 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C3890735,AUGMENTS,Acute-Phase Proteins,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0002402,C4055506,AUGMENTS,Amanitins,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0002520,C4055506,AUGMENTS,Amino Acids,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0002723,C0679217,AUGMENTS,Serum amyloid A protein,active state,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0002723,C3890735,AUGMENTS,Serum amyloid A protein,Complete Response with Incomplete Platelet Recovery,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0003241,C0015663,AUGMENTS,Antibodies,Fasting,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0003241,C0033213,AUGMENTS,Antibodies,Problem,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0003241,C1836348,AUGMENTS,Antibodies,Severe disorder,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0003242,C2826596,AUGMENTS,"Antibodies, Anti-Idiotypic",Vascular Regression,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0003250,C1545588,AUGMENTS,Monoclonal Antibodies,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0003313,C0239984,AUGMENTS,Immune complex,Increased IgA level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0003313,C1844666,AUGMENTS,Immune complex,Immune dysregulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0009325,C4289767,AUGMENTS,Collagen,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0010590,C1545588,AUGMENTS,Cycloserine,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0010590,C4321237,AUGMENTS,Cycloserine,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0010934,C4055506,AUGMENTS,Dactinomycin,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0013729,C0038435,AUGMENTS,Eukaryotic Initiation Factor-2,Stress,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0016006,C1562590,AUGMENTS,Fibrinogen,Platelet volume,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0016006,C3840892,AUGMENTS,Fibrinogen,Day 4,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0016055,C4289767,AUGMENTS,Fibronectins,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0017360,C4055506,AUGMENTS,pol genes,Accumulation,aapp,fndg,3,AUGMENTS_AAPPaugmFNDG
+C0018595,C3890735,AUGMENTS,Haptoglobins,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0018850,C0038435,AUGMENTS,Heat shock proteins,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0020857,C3533236,AUGMENTS,IgG2A,Mean score,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0020858,C4321237,AUGMENTS,IgG2B,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0020960,C4321237,AUGMENTS,Immune Sera,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021027,C0683521,AUGMENTS,Immunoglobulins,patient condition,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021641,C1262477,AUGMENTS,Insulin,Weight decreased,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021665,C3842675,AUGMENTS,Insulin-Like Growth Factor I,Day 3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021701,C4289767,AUGMENTS,Integrins,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021747,C0038435,AUGMENTS,Interferons,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021747,C0232370,AUGMENTS,Interferons,Florid red complexion (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021753,C0009940,AUGMENTS,Interleukin-1 beta,Convalescence,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021755,C4054230,AUGMENTS,Interleukin-1,Pathologic Response,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021755,C4289767,AUGMENTS,Interleukin-1,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021758,C0221198,AUGMENTS,Interleukin-4,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021758,C3687252,AUGMENTS,Interleukin-4,Eosinophilic inflammation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021758,C3810115,AUGMENTS,Interleukin-4,Normal B cells,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021758,C4321237,AUGMENTS,Interleukin-4,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021760,C0456240,AUGMENTS,Interleukin-6,Core body temperature,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021760,C1444656,AUGMENTS,Interleukin-6,Indicated,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021760,C2825972,AUGMENTS,Interleukin-6,Cant,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0021769,C0038435,AUGMENTS,Intermediate Filament Proteins,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0022942,C1545588,AUGMENTS,Lactoferrin,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0023206,C4289767,AUGMENTS,Lectin,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0024075,C4321237,AUGMENTS,Luciferases,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0026794,C1545588,AUGMENTS,Muramidase,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0030940,C4055506,AUGMENTS,Peptide Hydrolases,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0031727,C2347610,AUGMENTS,Phosphotransferases,Chemosensitivity,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0033689,C0406838,AUGMENTS,Chondroitin Sulfate Proteoglycans,Mature scar,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0034790,C3816499,AUGMENTS,T-Cell Receptor,Pathogenic,aapp,fndg,4,AUGMENTS_AAPPaugmFNDG
+C0034800,C3844126,AUGMENTS,"Receptors, Cell Surface",Can Do Very Little,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0034805,C1545588,AUGMENTS,Fc Receptor,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0034818,C0020580,AUGMENTS,Insulin Receptor,Hypesthesia,aapp,fndg,3,AUGMENTS_AAPPaugmFNDG
+C0034848,C0427184,AUGMENTS,"Receptors, Virus",No incoordination,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0034861,C4321237,AUGMENTS,Recombinant Proteins,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0040648,C0038435,AUGMENTS,TRANSCRIPTION FACTOR,Stress,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0041368,C4289767,AUGMENTS,Tumor Necrosis Factors,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0041538,C4055506,AUGMENTS,Ubiquitin,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0041945,C0010840,AUGMENTS,Urease,Vacuolation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0042071,C0038435,AUGMENTS,Urokinase,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0054543,C4055506,AUGMENTS,calreticulin,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0057256,C1545588,AUGMENTS,Defensins,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0057256,C3280470,AUGMENTS,Defensins,Benign condition,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0057256,C3840892,AUGMENTS,Defensins,Day 4,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0058980,C0038435,AUGMENTS,eIF-2 Kinase,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0058988,C1545588,AUGMENTS,Eukaryotic Initiation Factor-4E,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0063695,C2825972,AUGMENTS,Intercellular adhesion molecule 1,Cant,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0069304,C2963400,AUGMENTS,"POU5F1 protein, human",Cell phase,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0069508,C4055506,AUGMENTS,"oncogene protein E7, Human papillomavirus type 16",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0069535,C4055506,AUGMENTS,oncostatin M,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0069676,C0221198,AUGMENTS,osteopontin,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0071795,C4055506,AUGMENTS,2-5A-dependent ribonuclease,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0072108,C0038435,AUGMENTS,Proliferating Cell Nuclear Antigen,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0072402,C1269955,AUGMENTS,Protein-Serine-Threonine Kinases,Tumor Cell Invasion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0072600,C0337664,AUGMENTS,Pulmonary Surfactant-Associated Proteins,Smoker,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079183,C0038435,AUGMENTS,Cyclins,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079189,C0038435,AUGMENTS,cytokine,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079189,C1545588,AUGMENTS,cytokine,Protection,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0079189,C3842676,AUGMENTS,cytokine,Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079189,C4055506,AUGMENTS,cytokine,Accumulation,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0079189,C4321237,AUGMENTS,cytokine,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079419,C0231337,AUGMENTS,TP53 gene,Senility,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079419,C4055506,AUGMENTS,TP53 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079460,C0679250,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Disease Outcome,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079460,C1545588,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079633,C0038435,AUGMENTS,Interleukin-8,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079633,C1334962,AUGMENTS,Interleukin-8,Polymorphonuclear Cell Infiltrate,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079633,C1545588,AUGMENTS,Interleukin-8,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079633,C2825972,AUGMENTS,Interleukin-8,Cant,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079784,C0221198,AUGMENTS,Macrophage Colony-Stimulating Factor,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0079904,C3272903,AUGMENTS,NF-kappa B,Overall Response,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0081714,C1545588,AUGMENTS,"Antigens, CD147",Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0084378,C4055506,AUGMENTS,RNA Helicase,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0084692,C0578022,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Finding of body mass index,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0084692,C0581126,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Severe asthma,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0084692,C3842676,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085114,C3272903,AUGMENTS,NF2 gene,Overall Response,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085177,C0558141,AUGMENTS,RNA-Binding Proteins,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085295,C0221198,AUGMENTS,Interleukin-10,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085295,C3840892,AUGMENTS,Interleukin-10,Day 4,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085295,C3842675,AUGMENTS,Interleukin-10,Day 3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0085295,C4055506,AUGMENTS,Interleukin-10,Accumulation,aapp,fndg,3,AUGMENTS_AAPPaugmFNDG
+C0085297,C1545588,AUGMENTS,"Immunoglobulins, Intravenous",Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0108187,C4055506,AUGMENTS,Calnexin,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0108801,C0239984,AUGMENTS,"TFRC protein, human",Increased IgA level,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0123759,C1545588,AUGMENTS,Interleukin-12,Protection,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0140649,C0231337,AUGMENTS,RNA glycosylase,Senility,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0165073,C4055506,AUGMENTS,Synucleins,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0169101,C4321237,AUGMENTS,Mitogen-Activated Protein Kinase Kinases,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0206364,C1630409,AUGMENTS,Receptor Protein-Tyrosine Kinases,6/3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0214743,C3687252,AUGMENTS,Interleukin-13,Eosinophilic inflammation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0215825,C0428776,AUGMENTS,adrenomedullin,Cardiac index,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0215955,C0221198,AUGMENTS,"LCN2 protein, human",Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0215955,C3890735,AUGMENTS,"LCN2 protein, human",Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0243041,C4055506,AUGMENTS,Molecular Chaperones,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0243041,C4321237,AUGMENTS,Molecular Chaperones,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0243043,C1269955,AUGMENTS,Heat-Shock Proteins 70,Tumor Cell Invasion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0244989,C4055506,AUGMENTS,Glycogen Synthase Kinase 3,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0248441,C0860803,AUGMENTS,"Ribosomal Protein S6 Kinases, 90-kDa",glucose high,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0250604,C3687252,AUGMENTS,Eotaxin,Eosinophilic inflammation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0253023,C0428279,AUGMENTS,Tumor Necrosis Factor Ligand Superfamily Member 6,Finding of creatinine level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0255808,C1882083,AUGMENTS,tumor necrosis factor receptor 1A,New York Heart Association Class,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0255813,C1882083,AUGMENTS,"Receptors, Tumor Necrosis Factor, Type II",New York Heart Association Class,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C0282554,C0424295,AUGMENTS,chemokine,Hyperactive behavior,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0282682,C1545588,AUGMENTS,"Antibodies, Blocking",Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0286330,C3842676,AUGMENTS,26S proteasome,Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0291573,C0038435,AUGMENTS,caspase-3,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0291573,C3843309,AUGMENTS,caspase-3,1 time,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0291573,C3845876,AUGMENTS,caspase-3,Consequent,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0299212,C4321237,AUGMENTS,Presenilin-1,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0301714,C4055506,AUGMENTS,"Amino Acids, Basic",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0358334,C1545588,AUGMENTS,Specific immunoglobulins,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0376515,C3843504,AUGMENTS,BCL2 gene,1 - 3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0376659,C0033213,AUGMENTS,Cancer Vaccines,Problem,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0378910,C1545588,AUGMENTS,Lymphocyte antigen CD66A,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0378910,C4289767,AUGMENTS,Lymphocyte antigen CD66A,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0443640,C0019080,AUGMENTS,Specific antibody,Hemorrhage,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0475463,C4055506,AUGMENTS,"Antibodies, Neutralizing",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0524914,C1545588,AUGMENTS,chemokine receptor,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0528480,C0728725,AUGMENTS,Presenilin-2,Low pH,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0529196,C1821461,AUGMENTS,ADAM17 Protein,Close Relationship,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0529330,C1272641,AUGMENTS,"Receptor, Angiotensin, Type 1",Systemic arterial pressure,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0534519,C4055506,AUGMENTS,Caspase-1,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0582263,C0038435,AUGMENTS,Structural protein,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0597094,C3482667,AUGMENTS,nuclease,Additional concerns,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0597357,C0558141,AUGMENTS,receptor,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0597357,C0728725,AUGMENTS,receptor,Low pH,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0597357,C4055506,AUGMENTS,receptor,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0597357,C4289767,AUGMENTS,receptor,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0599220,C0558141,AUGMENTS,Protein Subunits,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0599561,C0038435,AUGMENTS,e protein,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0623362,C0221198,AUGMENTS,Matrix Metalloproteinases,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0667830,C3845876,AUGMENTS,caspase-8,Consequent,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0673013,C0582766,AUGMENTS,"GPER protein, human",Dependent attachment,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0812287,C3842674,AUGMENTS,MYCN gene,Day 5,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0812445,C4055506,AUGMENTS,CXCL1 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0910167,C3842672,AUGMENTS,caspase-9,Day 7,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0910167,C3845876,AUGMENTS,caspase-9,Consequent,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0912761,C0221198,AUGMENTS,syncytin,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0913092,C0206076,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Reproductive History,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0913092,C0558141,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C0971363,C4321237,AUGMENTS,Toll-Like Receptor 1,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1143949,C0221198,AUGMENTS,"TNFSF10 protein, human",Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1143976,C3808595,AUGMENTS,"TREM2 protein, human",Myeloid proliferation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1144709,C3853978,AUGMENTS,Natriuretic Peptides,Functional performance,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1174094,C4086268,AUGMENTS,"IL28B protein, human",Exacerbation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1309025,C0558141,AUGMENTS,"SH2D3A protein, human",Transsexual (finding),aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1309483,C4055506,AUGMENTS,"DICER1 protein, human",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1310463,C0015663,AUGMENTS,"IFIH1 protein, human",Fasting,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1310463,C4321237,AUGMENTS,"IFIH1 protein, human",High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1310468,C1545588,AUGMENTS,"DDX58 protein, human",Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1328053,C0221198,AUGMENTS,NOS3 gene,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332669,C0231337,AUGMENTS,CAV1 gene,Senility,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332669,C4021734,AUGMENTS,CAV1 gene,Abnormality of mitochondrial metabolism,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332678,C1709157,AUGMENTS,CCL14 gene,Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332689,C1709157,AUGMENTS,CCL3L1 gene,Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332699,C1545588,AUGMENTS,CCR1 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332700,C0376705,AUGMENTS,CCR5 gene,Viral Load result,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332700,C1545588,AUGMENTS,CCR5 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1332821,C3842673,AUGMENTS,CXCL9 gene,Day 6,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1333257,C3840622,AUGMENTS,DUSP1 gene,5 - 9,aapp,fndg,4,AUGMENTS_AAPPaugmFNDG
+C1333257,C4264481,AUGMENTS,DUSP1 gene,4 times,aapp,fndg,4,AUGMENTS_AAPPaugmFNDG
+C1333574,C0239574,AUGMENTS,FPR1 gene,Low grade fever,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1333682,C4055506,AUGMENTS,NOP53 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1333723,C4055506,AUGMENTS,GTF2H1 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1334081,C1545588,AUGMENTS,IFNAR1 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1334126,C0015663,AUGMENTS,CXCR2 gene,Fasting,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1334126,C1545588,AUGMENTS,CXCR2 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1334139,C0427184,AUGMENTS,IRF3 gene,No incoordination,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1335239,C0544452,AUGMENTS,PPBP gene,Disease remission,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1335267,C4086268,AUGMENTS,PRTN3 gene,Exacerbation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1336763,C4289767,AUGMENTS,Toll-Like Receptor Family Gene,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1366516,C1545588,AUGMENTS,IRF1 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1367457,C0582766,AUGMENTS,TYRO3 gene,Dependent attachment,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1367477,C2676468,AUGMENTS,CD14 gene,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1412289,C1846086,AUGMENTS,APLNR gene,Decreased contractility,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1412533,C0436345,AUGMENTS,ARIH1 gene,Symptom severe,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1412616,C4055506,AUGMENTS,ATF3 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1412617,C0038435,AUGMENTS,ATF4 gene,Stress,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1412731,C0038435,AUGMENTS,BAG3 gene,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1413188,C1545588,AUGMENTS,CCR2 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1413188,C4055506,AUGMENTS,CCR2 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1413191,C1709157,AUGMENTS,CCR7 gene,Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1413966,C4321237,AUGMENTS,DHX9 gene,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1413973,C1517940,AUGMENTS,DEFA1 gene,Long Term Survivorship,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1414444,C0038435,AUGMENTS,ERN1 gene,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415053,C0010840,AUGMENTS,GGT1 gene,Vacuolation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415761,C0038435,AUGMENTS,HSPA5 gene,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415887,C2985294,AUGMENTS,IFI27 gene,Fourth Stage of Labor,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415888,C0015663,AUGMENTS,IFI30 gene,Fasting,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415888,C0238646,AUGMENTS,IFI30 gene,ANIMAL EXPOSURE,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415888,C4321237,AUGMENTS,IFI30 gene,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415892,C1709157,AUGMENTS,IFIT1 gene,Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1415898,C4055506,AUGMENTS,IFITM3 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1416475,C0221198,AUGMENTS,IRF7 gene,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1416829,C4055506,AUGMENTS,LGALS1 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1417507,C0679250,AUGMENTS,MVD gene,Disease Outcome,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418297,C0558141,AUGMENTS,PCBP1 gene,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418298,C0558141,AUGMENTS,PCBP2 gene,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418401,C3550269,AUGMENTS,PDCD1 gene,Reactive gliosis,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418482,C3890735,AUGMENTS,CFP gene,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418549,C2985294,AUGMENTS,PI3 gene,Fourth Stage of Labor,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418597,C1545588,AUGMENTS,PITX3 gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418597,C3890735,AUGMENTS,PITX3 gene,Complete Response with Incomplete Platelet Recovery,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1418735,C0038435,AUGMENTS,POLK gene,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1419325,C0517627,AUGMENTS,OPN1LW gene,Infection status,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1419799,C3842676,AUGMENTS,SAA1 gene,Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1420173,C1630409,AUGMENTS,SLC2A3 gene,6/3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1420192,C1865782,AUGMENTS,SLC3A2 gene,CEREBELLAR DEGENERATION-RELATED AUTOANTIGEN 3,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1420193,C4321237,AUGMENTS,SLC4A1 gene,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1420200,C0556133,AUGMENTS,SLC5A1 gene,Glucose intake,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1420266,C0558141,AUGMENTS,SIGLEC1 gene,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1421479,C2825972,AUGMENTS,WASF1 gene,Cant,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1421479,C4264481,AUGMENTS,WASF1 gene,4 times,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1421479,C4289767,AUGMENTS,WASF1 gene,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1421554,C1545438,AUGMENTS,YME1L1 gene,Person present,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1421876,C3842674,AUGMENTS,AICDA gene,Day 5,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1422064,C0241863,AUGMENTS,ACE2 gene,diabetic,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1422064,C0337664,AUGMENTS,ACE2 gene,Smoker,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1422064,C1320408,AUGMENTS,ACE2 gene,Urinary elimination status,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1423524,C0033213,AUGMENTS,NCKIPSD gene,Problem,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1423633,C4321237,AUGMENTS,TLR9 gene,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1423767,C0221198,AUGMENTS,HPS4 gene,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1423842,C0333361,AUGMENTS,NELFCD gene,Acute inflammation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1424252,C0221198,AUGMENTS,IL17F gene,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1425775,C0277653,AUGMENTS,KLRK1 gene,Fratricide,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1425942,C4055506,AUGMENTS,SCARA3 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1448177,C0009940,AUGMENTS,"TNF protein, human",Convalescence,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1448177,C3842676,AUGMENTS,"TNF protein, human",Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1449159,C1444656,AUGMENTS,"CCL2 protein, human",Indicated,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1449159,C3842674,AUGMENTS,"CCL2 protein, human",Day 5,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1452735,C4055506,AUGMENTS,"3a protein, severe acute respiratory syndrome coronavirus",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1512488,C0038435,AUGMENTS,Homologous Protein,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1512511,C0476442,AUGMENTS,Human Papilloma Virus Vaccine,High antibody titer,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1530270,C1545588,AUGMENTS,"IRF1 protein, human",Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1530281,C3840892,AUGMENTS,"IRF7 protein, human",Day 4,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1538577,C1299586,AUGMENTS,PARP1 gene,Has difficulty doing (qualifier value),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1538915,C3277906,AUGMENTS,APLN gene,Cardiac dysfunction,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1539098,C0728725,AUGMENTS,CLEC4G gene,Low pH,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1540061,C0043094,AUGMENTS,TRIM55 gene,Weight Gain,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1564139,C0038435,AUGMENTS,Mutant Proteins,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1566664,C4055506,AUGMENTS,TCF Transcription Factors,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1669512,C0558141,AUGMENTS,"RAB8A protein, human",Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1675724,C1854454,AUGMENTS,"FASLG protein, human",Axonal regeneration,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1701790,C0221198,AUGMENTS,"IL17A protein, human",Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1701790,C1545588,AUGMENTS,"IL17A protein, human",Protection,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1702088,C4055506,AUGMENTS,"IL5 protein, human",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1705010,C0558141,AUGMENTS,TNC wt Allele,Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1705590,C3845876,AUGMENTS,PIK3CB wt Allele,Consequent,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1705947,C0221198,AUGMENTS,Interleukin-17A,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1706005,C3842672,AUGMENTS,CD40LG wt Allele,Day 7,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1710701,C0544726,AUGMENTS,YES1 wt Allele,Hole Finding,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1738934,C4050171,AUGMENTS,boceprevir,Sustained Virologic Response,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1825497,C4055506,AUGMENTS,ATG5 gene,Accumulation,aapp,fndg,3,AUGMENTS_AAPPaugmFNDG
+C1825598,C0033213,AUGMENTS,IMPACT gene,Problem,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1825598,C1545588,AUGMENTS,IMPACT gene,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1825598,C1709157,AUGMENTS,IMPACT gene,Negative Surgical Margin,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1825598,C3714738,AUGMENTS,IMPACT gene,Compliance,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1825598,C3840880,AUGMENTS,IMPACT gene,Traffic,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C1825598,C4289767,AUGMENTS,IMPACT gene,Colonization,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1865068,C4055506,AUGMENTS,MIR122 gene,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1876229,C4050171,AUGMENTS,telaprevir,Sustained Virologic Response,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C1953384,C1268722,AUGMENTS,Reverse primer,Mammographic difference in size (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2350701,C1709157,AUGMENTS,Macrophage Inflammatory Protein-1,Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2714104,C0015967,AUGMENTS,"IDH2, human",Fever,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2714104,C0728725,AUGMENTS,"IDH2, human",Low pH,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2717745,C1516998,AUGMENTS,Metagenome,Exogenous Factors,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744535,C0231901,AUGMENTS,"CD69 protein, human",Intraabdominal pressure,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744535,C1318963,AUGMENTS,"CD69 protein, human",Readiness,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744535,C1709157,AUGMENTS,"CD69 protein, human",Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744535,C3714738,AUGMENTS,"CD69 protein, human",Compliance,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744535,C4534306,AUGMENTS,"CD69 protein, human",Supplemental oxygen,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744539,C0239984,AUGMENTS,"THBD protein, human",Increased IgA level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2744579,C0443213,AUGMENTS,"ATP8A2 protein, human",Extrusion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2936529,C0518033,AUGMENTS,Inflammasomes,tissue healing,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C2945724,C0221198,AUGMENTS,f-protein,Lesion,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3147783,C4225175,AUGMENTS,MB21D1 gene,ENDOPLASMIC RETICULUM ADAPTOR PROTEIN,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3537272,C4321237,AUGMENTS,Serpin B9,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3538714,C0728725,AUGMENTS,TTN wt Allele,Low pH,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3541895,C4055506,AUGMENTS,FCGR1A wt Allele,Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3710914,C0558141,AUGMENTS,"EIF2AK2 protein, human",Transsexual (finding),aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3710914,C4055506,AUGMENTS,"EIF2AK2 protein, human",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3715044,C4321237,AUGMENTS,AKR1A1 wt Allele,High Level,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3813609,C3714738,AUGMENTS,TBX4 wt Allele,Compliance,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3853636,C3245470,AUGMENTS,"Dihydrofolate Reductase, human",GeneticObservationValue <HOMO>,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3884535,C0750558,AUGMENTS,"AREG protein, human",Unlikely,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C3890018,C0038435,AUGMENTS,HSP90B2P wt Allele,Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4048302,C1709157,AUGMENTS,"T-Lymphocyte Activation Antigen CD80, human",Negative Surgical Margin,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4082587,C4055506,AUGMENTS,"HLA Class II Histocompatibility Antigen Gamma Chain, human",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4084937,C1545588,AUGMENTS,Antimicrobial Peptide,Protection,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4281805,C4035633,AUGMENTS,"T-Cell-Specific Surface Glycoprotein CD28, human",3-5 times,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4281806,C4035633,AUGMENTS,Neural Cell Adhesion Molecule 1,3-5 times,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4281807,C4321237,AUGMENTS,"Vitronectin, human",High Level,aapp,fndg,2,AUGMENTS_AAPPaugmFNDG
+C4282114,C0038435,AUGMENTS,"Bcl-2-Like Protein 11, human",Stress,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4290004,C3842676,AUGMENTS,"Activated Caspase-3, human",Day 2,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG
+C4317106,C4055506,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Accumulation,aapp,fndg,1,AUGMENTS_AAPPaugmFNDG

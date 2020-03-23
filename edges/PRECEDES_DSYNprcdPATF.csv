@@ -1,0 +1,83 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003864,C0021368,PRECEDES,Arthritis,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0004610,C3714514,PRECEDES,Bacteremia,Infection,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0004623,C1155266,PRECEDES,Bacterial Infections,inflammatory response,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0007785,C1155266,PRECEDES,Cerebral Infarction,inflammatory response,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0007787,C0021308,PRECEDES,Transient Ischemic Attack,Infarction,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0010054,C0003130,PRECEDES,Coronary Arteriosclerosis,Anoxia,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0020097,C1510411,PRECEDES,HTLV-I Infections,metaplastic cell transformation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0020615,C0017639,PRECEDES,Hypoglycemia,Gliosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0021400,C1155266,PRECEDES,Influenza,inflammatory response,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0021400,C2911645,PRECEDES,Influenza,Weight Loss Adverse Event,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0022116,C0017639,PRECEDES,Ischemia,Gliosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0022116,C0027055,PRECEDES,Ischemia,Myocardial Reperfusion Injury,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0022116,C0559477,PRECEDES,Ischemia,Perinatal asphyxia,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C0021368,PRECEDES,Myocardial Infarction,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C0027543,PRECEDES,Myocardial Infarction,Avascular necrosis of bone,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C0036980,PRECEDES,Myocardial Infarction,"Shock, Cardiogenic",dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C0042514,PRECEDES,Myocardial Infarction,"Tachycardia, Ventricular",dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C1155266,PRECEDES,Myocardial Infarction,inflammatory response,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027051,C3897493,PRECEDES,Myocardial Infarction,Stent Thrombosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0027765,C0021368,PRECEDES,nervous system disorder,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0028754,C0016059,PRECEDES,Obesity,Fibrosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0032285,C0016059,PRECEDES,Pneumonia,Fibrosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0035222,C0003132,PRECEDES,"Respiratory Distress Syndrome, Adult",Anoxic Encephalopathy,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0035222,C0016059,PRECEDES,"Respiratory Distress Syndrome, Adult",Fibrosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0035235,C0035228,PRECEDES,Respiratory Syncytial Virus Infections,Respiratory Hypersensitivity,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0035235,C1692321,PRECEDES,Respiratory Syncytial Virus Infections,Cellular infiltrate,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0035869,C0021376,PRECEDES,Rotavirus Infections,Chronic inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0038454,C0020517,PRECEDES,Cerebrovascular accident,Hypersensitivity,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0038454,C0027543,PRECEDES,Cerebrovascular accident,Avascular necrosis of bone,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0038454,C0332448,PRECEDES,Cerebrovascular accident,Infiltration,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0038454,C3714514,PRECEDES,Cerebrovascular accident,Infection,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0038826,C0333467,PRECEDES,Superinfection,Cytopathic effect,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0041912,C0151699,PRECEDES,Upper Respiratory Infections,Intracranial Hemorrhages,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0042769,C0011304,PRECEDES,Virus Diseases,Demyelination,dsyn,patf,3,PRECEDES_DSYNprcdPATF
+C0042769,C0021368,PRECEDES,Virus Diseases,Inflammation,dsyn,patf,3,PRECEDES_DSYNprcdPATF
+C0042769,C0232100,PRECEDES,Virus Diseases,Exsanguination,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0042769,C0242656,PRECEDES,Virus Diseases,Disease Progression,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0042769,C0333467,PRECEDES,Virus Diseases,Cytopathic effect,dsyn,patf,4,PRECEDES_DSYNprcdPATF
+C0042769,C1155266,PRECEDES,Virus Diseases,inflammatory response,dsyn,patf,4,PRECEDES_DSYNprcdPATF
+C0042769,C1520005,PRECEDES,Virus Diseases,Viral Pathogenesis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0042769,C3686534,PRECEDES,Virus Diseases,Perivascular cuffing,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0042769,C3714514,PRECEDES,Virus Diseases,Infection,dsyn,patf,5,PRECEDES_DSYNprcdPATF
+C0043124,C1522058,PRECEDES,West Nile Fever,Coagulative necrosis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0178540,C0021368,PRECEDES,Cerebral Hypoxia-Ischemia,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0205671,C0021368,PRECEDES,"Infections, Arenavirus",Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0206750,C0332448,PRECEDES,Coronavirus Infections,Infiltration,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0242301,C0036679,PRECEDES,furuncle,Diastasis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0242301,C0036974,PRECEDES,furuncle,Shock,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0264490,C0026766,PRECEDES,Acute respiratory failure,Multiple Organ Failure,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0264490,C0036983,PRECEDES,Acute respiratory failure,Septic Shock,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0275518,C0333467,PRECEDES,Acute infectious disease,Cytopathic effect,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0275518,C1520005,PRECEDES,Acute infectious disease,Viral Pathogenesis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0275518,C4061114,PRECEDES,Acute infectious disease,Acute illness,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0275522,C0021368,PRECEDES,Asymptomatic Infections,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0275524,C0001349,PRECEDES,Coinfection,Acute-Phase Reaction,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0276289,C0234985,PRECEDES,Zika Virus Infection,Mental deterioration,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0276289,C1518304,PRECEDES,Zika Virus Infection,Neurotropism,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0276447,C0333390,PRECEDES,Rhinovirus infection,Chronic eosinophilic inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0276447,C1692321,PRECEDES,Rhinovirus infection,Cellular infiltrate,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0276500,C0242656,PRECEDES,Human immunodeficiency virus I infection,Disease Progression,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0282687,C0242781,PRECEDES,"Hemorrhagic Fever, Ebola",disease transmission,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0339916,C0020517,PRECEDES,Viral upper respiratory tract infection,Hypersensitivity,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0339916,C1264605,PRECEDES,Viral upper respiratory tract infection,Post-viral disorder,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0376538,C0333641,PRECEDES,Porcine Reproductive and Respiratory Syndrome,Atrophic,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0442886,C0036982,PRECEDES,Secondary Infections,"Shock, Hemorrhagic",dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0520680,C0002170,PRECEDES,"Sleep Apnea, Central",Alopecia,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0729531,C0162633,PRECEDES,Viral respiratory infection,Viral Shedding,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0751956,C0021368,PRECEDES,Acute Cerebrovascular Accidents,Inflammation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0856825,C0867389,PRECEDES,Acute GVH disease,Chronic graft-versus-host disease,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C0876973,C0021368,PRECEDES,Infectious disease of lung,Inflammation,dsyn,patf,2,PRECEDES_DSYNprcdPATF
+C0877203,C0231178,PRECEDES,Viral Respiratory Tract Infection,Chronic failure,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1175175,C0015934,PRECEDES,Severe Acute Respiratory Syndrome,Fetal Growth Retardation,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1175175,C0024348,PRECEDES,Severe Acute Respiratory Syndrome,Lysis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1175175,C0332448,PRECEDES,Severe Acute Respiratory Syndrome,Infiltration,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1175175,C3714514,PRECEDES,Severe Acute Respiratory Syndrome,Infection,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1264606,C0333641,PRECEDES,Persistent infection,Atrophic,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1443953,C0151701,PRECEDES,Acute viral disease,Pulmonary hemorrhage,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1719672,C3698200,PRECEDES,Severe Sepsis,Postoperative sepsis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1856053,C0035410,PRECEDES,Hydranencephaly with Renal Aplasia-Dysplasia,Rhabdomyolysis,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C1864389,C0036679,PRECEDES,PREMATURE CHROMATID SEPARATION TRAIT,Diastasis,dsyn,patf,2,PRECEDES_DSYNprcdPATF
+C2118460,C2911645,PRECEDES,Acute colitis,Weight Loss Adverse Event,dsyn,patf,1,PRECEDES_DSYNprcdPATF
+C3694279,C0015934,PRECEDES,Middle East Respiratory Syndrome,Fetal Growth Retardation,dsyn,patf,1,PRECEDES_DSYNprcdPATF

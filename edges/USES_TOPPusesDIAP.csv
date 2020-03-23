@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0430561,USES,Inhalation Drug Administration,Skin prick test,topp,diap,1,USES_TOPPusesDIAP
+C0079278,C0014245,USES,"Endoscopy, Gastrointestinal",Endoscopy (procedure),topp,diap,1,USES_TOPPusesDIAP
+C0562319,C0024485,USES,Examination of heart,Magnetic Resonance Imaging,topp,diap,2,USES_TOPPusesDIAP
+C0562319,C0041618,USES,Examination of heart,Ultrasonography,topp,diap,3,USES_TOPPusesDIAP
+C0700325,C0596473,USES,Patient observation,Early Diagnosis,topp,diap,1,USES_TOPPusesDIAP
+C0700325,C1964257,USES,Patient observation,Observation - diagnostic procedure,topp,diap,2,USES_TOPPusesDIAP

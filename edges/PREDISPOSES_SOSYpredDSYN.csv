@@ -1,0 +1,41 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008033,C0031350,PREDISPOSES,Pleuritic pain,Pharyngitis,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0010200,C0021400,PREDISPOSES,Coughing,Influenza,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0010200,C0035235,PREDISPOSES,Coughing,Respiratory Syncytial Virus Infections,sosy,dsyn,7,PREDISPOSES_SOSYpredDSYN
+C0010200,C0149725,PREDISPOSES,Coughing,Lower respiratory tract infection,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0004610,PREDISPOSES,Diarrhea,Bacteremia,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0021400,PREDISPOSES,Diarrhea,Influenza,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0032285,PREDISPOSES,Diarrhea,Pneumonia,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0036690,PREDISPOSES,Diarrhea,Septicemia,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0038644,PREDISPOSES,Diarrhea,Sudden infant death syndrome,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0011991,C0043349,PREDISPOSES,Diarrhea,Xerophthalmia,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0015672,C0016627,PREDISPOSES,Fatigue,Influenza in Birds,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0016204,C0034362,PREDISPOSES,Flatulence,Q Fever,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0018808,C0026269,PREDISPOSES,Heart murmur,Mitral Valve Stenosis,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0018808,C0264885,PREDISPOSES,Heart murmur,Myxoid transformation of mitral valve,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0020639,C1719672,PREDISPOSES,Hypoproteinemia,Severe Sepsis,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0026837,C0032310,PREDISPOSES,Muscle Rigidity,"Pneumonia, Viral",sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0027497,C0021400,PREDISPOSES,Nausea,Influenza,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0034642,C0035235,PREDISPOSES,Rales,Respiratory Syncytial Virus Infections,sosy,dsyn,3,PREDISPOSES_SOSYpredDSYN
+C0036572,C0009450,PREDISPOSES,Seizures,Communicable Diseases,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0036572,C3669463,PREDISPOSES,Seizures,Feline immunodeficiency virus infection,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0037088,C0043167,PREDISPOSES,Signs and Symptoms,Pertussis,sosy,dsyn,2,PREDISPOSES_SOSYpredDSYN
+C0037088,C0151650,PREDISPOSES,Signs and Symptoms,Renal fibrosis,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0043144,C0004096,PREDISPOSES,Wheezing,Asthma,sosy,dsyn,9,PREDISPOSES_SOSYpredDSYN
+C0043144,C0035235,PREDISPOSES,Wheezing,Respiratory Syncytial Virus Infections,sosy,dsyn,3,PREDISPOSES_SOSYpredDSYN
+C0043144,C0149725,PREDISPOSES,Wheezing,Lower respiratory tract infection,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0043144,C0155877,PREDISPOSES,Wheezing,Allergic asthma,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0231218,C0009450,PREDISPOSES,Malaise,Communicable Diseases,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0231218,C1175175,PREDISPOSES,Malaise,Severe Acute Respiratory Syndrome,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0231528,C0021400,PREDISPOSES,Myalgia,Influenza,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0231835,C0035235,PREDISPOSES,Tachypnea,Respiratory Syncytial Virus Infections,sosy,dsyn,3,PREDISPOSES_SOSYpredDSYN
+C0231875,C0264408,PREDISPOSES,Expiratory wheezing,Childhood asthma,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0235031,C0030567,PREDISPOSES,Neurologic Symptoms,Parkinson Disease,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0242706,C0024115,PREDISPOSES,Hyperoxia,Lung diseases,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0277787,C1175175,PREDISPOSES,Social stigmata,Severe Acute Respiratory Syndrome,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0392171,C0442886,PREDISPOSES,Influenza-like symptoms,Secondary Infections,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0497406,C0008679,PREDISPOSES,Overweight,Chronic disease,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C0497406,C0011847,PREDISPOSES,Overweight,Diabetes,sosy,dsyn,2,PREDISPOSES_SOSYpredDSYN
+C0848771,C0035235,PREDISPOSES,neurological disability,Respiratory Syncytial Virus Infections,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C1096446,C0018572,PREDISPOSES,slight fever,"Hand, Foot and Mouth Disease",sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN
+C1397014,C0263541,PREDISPOSES,Imbalance,Equine laminitis,sosy,dsyn,1,PREDISPOSES_SOSYpredDSYN

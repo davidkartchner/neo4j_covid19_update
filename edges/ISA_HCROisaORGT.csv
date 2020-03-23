@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007670,C0018104,ISA,Centers for Disease Control and Prevention (U.S.),Government,hcro,orgt,4,ISA_HCROisaORGT
+C0007670,C0029246,ISA,Centers for Disease Control and Prevention (U.S.),Organization administrative structures,hcro,orgt,11,ISA_HCROisaORGT
+C0016457,C0029246,ISA,"Food and Agricultural Organization, United Nations",Organization administrative structures,hcro,orgt,3,ISA_HCROisaORGT
+C0016457,C0041701,ISA,"Food and Agricultural Organization, United Nations",United Nations,hcro,orgt,19,ISA_HCROisaORGT
+C0027468,C0018104,ISA,United States National Institutes of Health,Government,hcro,orgt,1,ISA_HCROisaORGT
+C0027470,C0023621,ISA,National Library of Medicine (U.S.),Libraries,hcro,orgt,1,ISA_HCROisaORGT
+C0030260,C0021784,ISA,Pan American Health Organization,International Agencies,hcro,orgt,2,ISA_HCROisaORGT
+C0030260,C0029246,ISA,Pan American Health Organization,Organization administrative structures,hcro,orgt,2,ISA_HCROisaORGT
+C0041714,C0029246,ISA,United States Food and Drug Administration,Organization administrative structures,hcro,orgt,1,ISA_HCROisaORGT
+C0043237,C0021784,ISA,World Health Organization,International Agencies,hcro,orgt,1,ISA_HCROisaORGT
+C0043237,C0029246,ISA,World Health Organization,Organization administrative structures,hcro,orgt,22,ISA_HCROisaORGT
+C0043237,C0041701,ISA,World Health Organization,United Nations,hcro,orgt,4,ISA_HCROisaORGT
+C0815266,C0683757,ISA,drug companies,Company (organization),hcro,orgt,1,ISA_HCROisaORGT
+C1273802,C0237463,ISA,Regional office,Agencies,hcro,orgt,1,ISA_HCROisaORGT
+C1273803,C0237463,ISA,Health Authority,Agencies,hcro,orgt,4,ISA_HCROisaORGT
+C4085938,C0683757,ISA,Affymetrix,Company (organization),hcro,orgt,1,ISA_HCROisaORGT

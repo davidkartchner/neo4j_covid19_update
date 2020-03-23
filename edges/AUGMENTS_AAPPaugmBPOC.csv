@@ -1,0 +1,386 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0018787,AUGMENTS,Actins,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001271,C0020885,AUGMENTS,Actins,ileum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001347,C0005953,AUGMENTS,Acute-Phase Proteins,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001347,C0023884,AUGMENTS,Acute-Phase Proteins,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0001347,C0024109,AUGMENTS,Acute-Phase Proteins,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001655,C0001613,AUGMENTS,Corticotropin,Adrenal Cortex,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001655,C0001625,AUGMENTS,Corticotropin,Adrenal Glands,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0001898,C0262304,AUGMENTS,Alanine,pars postrema of the ventral lateral nucleus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0002199,C0024109,AUGMENTS,Interferon-alpha,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0002570,C0024109,AUGMENTS,Aminopeptidase,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0002723,C0021853,AUGMENTS,Serum amyloid A protein,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0002723,C0024109,AUGMENTS,Serum amyloid A protein,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0003241,C0018563,AUGMENTS,Antibodies,Hand,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0003241,C0262304,AUGMENTS,Antibodies,pars postrema of the ventral lateral nucleus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0003250,C0262304,AUGMENTS,Monoclonal Antibodies,pars postrema of the ventral lateral nucleus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0003692,C0599333,AUGMENTS,Arachidonate 15-Lipoxygenase,Epithelium of bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0005740,C0024109,AUGMENTS,Bleomycin,Lung,aapp,bpoc,3,AUGMENTS_AAPPaugmBPOC
+C0006560,C0025285,AUGMENTS,C-reactive protein,Meninges,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0007428,C0006104,AUGMENTS,Cathepsins,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0007428,C0024109,AUGMENTS,Cathepsins,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0008328,C0553695,AUGMENTS,Cholecystokinin,Exocrine pancreas,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0009498,C0024109,AUGMENTS,Complement System Proteins,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0009498,C0819757,AUGMENTS,Complement System Proteins,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0009630,C0023884,AUGMENTS,Concanavalin A,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0009630,C0037993,AUGMENTS,Concanavalin A,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010132,C0032008,AUGMENTS,Corticotropin-Releasing Hormone,"Pituitary Gland, Anterior",aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010192,C0001625,AUGMENTS,Cosyntropin,Adrenal Glands,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010590,C0020885,AUGMENTS,Cycloserine,ileum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010590,C0021853,AUGMENTS,Cycloserine,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010760,C0023884,AUGMENTS,CYTOCHROME C OXIDASE,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0010760,C0459385,AUGMENTS,CYTOCHROME C OXIDASE,Brain tissue,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0012020,C0013303,AUGMENTS,Diazooxonorleucine,Duodenum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0012020,C0020885,AUGMENTS,Diazooxonorleucine,ileum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0012020,C0022378,AUGMENTS,Diazooxonorleucine,Jejunum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0015683,C0023884,AUGMENTS,Fatty-acid synthase,Liver,aapp,bpoc,3,AUGMENTS_AAPPaugmBPOC
+C0015980,C0006104,AUGMENTS,Interferon-beta,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0015980,C0024109,AUGMENTS,Interferon-beta,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0015980,C0162783,AUGMENTS,Interferon-beta,Prefrontal Cortex,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0017360,C0934502,AUGMENTS,pol genes,anatomical layer,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0018296,C0037993,AUGMENTS,Guanosine Triphosphate Phosphohydrolases,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0018850,C0021853,AUGMENTS,Heat shock proteins,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0019629,C0039259,AUGMENTS,Histocompatibility Antigens Class I,Tail,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0019630,C0024109,AUGMENTS,Histocompatibility Antigens Class II,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0019630,C0037993,AUGMENTS,Histocompatibility Antigens Class II,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0019796,C0024109,AUGMENTS,HMGB1 Protein,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0020374,C0023884,AUGMENTS,Hydroxymethylglutaryl-CoA reductase,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0020835,C0025285,AUGMENTS,Immunoglobulin A,Meninges,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021641,C0030274,AUGMENTS,Insulin,Pancreas,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021701,C0018787,AUGMENTS,Integrins,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021701,C0024109,AUGMENTS,Integrins,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021740,C0024109,AUGMENTS,Recombinant Interferon-gamma,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021740,C0037993,AUGMENTS,Recombinant Interferon-gamma,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021743,C0024109,AUGMENTS,Interferon Type I,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021747,C0024109,AUGMENTS,Interferons,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021753,C0005854,AUGMENTS,Interleukin-1 beta,Blood - brain barrier anatomy,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021753,C0024109,AUGMENTS,Interleukin-1 beta,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0021753,C0227349,AUGMENTS,Interleukin-1 beta,Colonic mucous membrane,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021755,C0024109,AUGMENTS,Interleukin-1,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021755,C0031272,AUGMENTS,Interleukin-1,Structure of aggregated lymphoid follicle of small intestine,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021755,C0037925,AUGMENTS,Interleukin-1,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021755,C0037993,AUGMENTS,Interleukin-1,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021756,C0005682,AUGMENTS,Interleukin-2,Urinary Bladder,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021756,C0037993,AUGMENTS,Interleukin-2,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021758,C0024109,AUGMENTS,Interleukin-4,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021758,C0037993,AUGMENTS,Interleukin-4,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021758,C0459385,AUGMENTS,Interleukin-4,Brain tissue,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021760,C0007531,AUGMENTS,Interleukin-6,Cecum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021760,C0010090,AUGMENTS,Interleukin-6,Corpus Callosum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021760,C0024109,AUGMENTS,Interleukin-6,Lung,aapp,bpoc,7,AUGMENTS_AAPPaugmBPOC
+C0021760,C0037993,AUGMENTS,Interleukin-6,Spleen,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0021760,C0040578,AUGMENTS,Interleukin-6,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021760,C0040995,AUGMENTS,Interleukin-6,Structure of trigeminal ganglion,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0021760,C1552103,AUGMENTS,Interleukin-6,Mandibular left third molar mesial hemisection,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0021760,C2985236,AUGMENTS,Interleukin-6,Structure of thick cushion of skin on foot,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0022192,C0022646,AUGMENTS,Isoleucine,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0022709,C0006104,AUGMENTS,Peptidyl-Dipeptidase A,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0022709,C0018787,AUGMENTS,Peptidyl-Dipeptidase A,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0022917,C0023884,AUGMENTS,Lactate Dehydrogenase,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0022917,C0024109,AUGMENTS,Lactate Dehydrogenase,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0023206,C0459385,AUGMENTS,Lectin,Brain tissue,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0023823,C0037925,AUGMENTS,Low-Density Lipoproteins,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0024075,C0023884,AUGMENTS,Luciferases,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0024075,C0030274,AUGMENTS,Luciferases,Pancreas,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0024075,C0178784,AUGMENTS,Luciferases,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0025252,C0819757,AUGMENTS,Membrane Proteins,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0026794,C0020885,AUGMENTS,Muramidase,ileum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0030016,C0015392,AUGMENTS,Oxidoreductase,Eye,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0030016,C0028429,AUGMENTS,Oxidoreductase,Nose,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0033382,C0022646,AUGMENTS,Proline,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0034790,C0024109,AUGMENTS,T-Cell Receptor,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0034790,C0040113,AUGMENTS,T-Cell Receptor,Thymus Gland,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0034833,C0042149,AUGMENTS,"Receptors, Progesterone",Uterus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0034861,C1552115,AUGMENTS,Recombinant Proteins,Supernumerary maxillary right third molar,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0036825,C0015813,AUGMENTS,Serum Proteins,Head of femur,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0040005,C0022646,AUGMENTS,Threonine,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0040648,C0024109,AUGMENTS,TRANSCRIPTION FACTOR,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0040690,C0018787,AUGMENTS,Transforming Growth Factor beta,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0040691,C0005682,AUGMENTS,Transforming Growth Factors,Urinary Bladder,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0040691,C0599297,AUGMENTS,Transforming Growth Factors,Glomerular Basement Membrane,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0041236,C0024109,AUGMENTS,TRYPSIN,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0041368,C0178784,AUGMENTS,Tumor Necrosis Factors,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0042285,C0022646,AUGMENTS,Valine,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0042395,C0031272,AUGMENTS,vasoactive intestinal peptide,Structure of aggregated lymphoid follicle of small intestine,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0042413,C0032008,AUGMENTS,Vasopressins,"Pituitary Gland, Anterior",aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0042666,C0023317,AUGMENTS,Vimentin,"Lens, Crystalline",aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0042736,C1181034,AUGMENTS,Viral Proteins,Posterior ramus of posterior segmental artery,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0051755,C0024109,AUGMENTS,Amphiregulin,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0053932,C0005847,AUGMENTS,Bone Morphogenetic Proteins,Blood Vessel,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0053932,C0024109,AUGMENTS,Bone Morphogenetic Proteins,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0054871,C0024109,AUGMENTS,Cathepsin L,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0054871,C0040578,AUGMENTS,Cathepsin L,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0054871,C1515933,AUGMENTS,Cathepsin L,Alveolus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0060323,C0024109,AUGMENTS,Fibrin fragment D,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0061355,C0037925,AUGMENTS,Glucagon-Like Peptide 1,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0061877,C0040578,AUGMENTS,granzyme A,Trachea,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0061878,C0005953,AUGMENTS,granzyme B,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0061878,C0037993,AUGMENTS,granzyme B,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0063356,C0934502,AUGMENTS,invariant chain,anatomical layer,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0063695,C0022663,AUGMENTS,Intercellular adhesion molecule 1,Kidney Glomerulus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0065749,C0836189,AUGMENTS,matrigel,Capillary plexus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0065827,C0006104,AUGMENTS,Measles Virus Nucleoprotein,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0065827,C0021853,AUGMENTS,Measles Virus Nucleoprotein,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0072978,C0006104,AUGMENTS,RANTES,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0072978,C0023884,AUGMENTS,RANTES,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0072978,C0819757,AUGMENTS,RANTES,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0005953,AUGMENTS,cytokine,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0006104,AUGMENTS,cytokine,Brain,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0079189,C0018787,AUGMENTS,cytokine,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0023884,AUGMENTS,cytokine,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0024109,AUGMENTS,cytokine,Lung,aapp,bpoc,5,AUGMENTS_AAPPaugmBPOC
+C0079189,C0037993,AUGMENTS,cytokine,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0458827,AUGMENTS,cytokine,Airway structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079189,C0489877,AUGMENTS,cytokine,Vasculature of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079441,C0018787,AUGMENTS,Transforming Growth Factor Beta 2,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079459,C0005953,AUGMENTS,Granulocyte Colony-Stimulating Factor,Bone Marrow,aapp,bpoc,3,AUGMENTS_AAPPaugmBPOC
+C0079459,C2985236,AUGMENTS,Granulocyte Colony-Stimulating Factor,Structure of thick cushion of skin on foot,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0079460,C0005953,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079633,C0006104,AUGMENTS,Interleukin-8,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079633,C0007531,AUGMENTS,Interleukin-8,Cecum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079633,C0023884,AUGMENTS,Interleukin-8,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079633,C0037993,AUGMENTS,Interleukin-8,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0079904,C0021853,AUGMENTS,NF-kappa B,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0084692,C0024109,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0084692,C0458827,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Airway structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085151,C0228670,AUGMENTS,Amyloid beta-Protein Precursor,Structure of cranial nerve ganglion,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085295,C0037925,AUGMENTS,Interleukin-10,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085295,C0037993,AUGMENTS,Interleukin-10,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085295,C0040995,AUGMENTS,Interleukin-10,Structure of trigeminal ganglion,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085295,C3178921,AUGMENTS,Interleukin-10,Head Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0085301,C0028633,AUGMENTS,Proto-Oncogene Proteins c-fos,Nucleus Accumbens,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0086376,C0262304,AUGMENTS,GTP-Binding Proteins,pars postrema of the ventral lateral nucleus,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0108187,C0006104,AUGMENTS,Calnexin,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0108187,C0037925,AUGMENTS,Calnexin,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0118522,C0021852,AUGMENTS,GA-Binding Protein Transcription Factor,"Intestines, Small",aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0123658,C0023884,AUGMENTS,insulin receptor substrate 1 protein,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0123759,C0024109,AUGMENTS,Interleukin-12,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0123759,C0024204,AUGMENTS,Interleukin-12,lymph nodes,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0123759,C0037993,AUGMENTS,Interleukin-12,Spleen,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0123759,C0819757,AUGMENTS,Interleukin-12,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0128897,C0024109,AUGMENTS,Monocyte Chemoattractant Protein-1,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0164786,C0819757,AUGMENTS,Proto-Oncogene Proteins c-akt,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0166418,C0018787,AUGMENTS,Peroxisome Proliferator-Activated Receptors,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0166418,C1184743,AUGMENTS,Peroxisome Proliferator-Activated Receptors,bony process,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0169658,C0024109,AUGMENTS,Janus kinase 1,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0174234,C0024109,AUGMENTS,PTX3 protein,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0208355,C0024109,AUGMENTS,multicatalytic endopeptidase complex,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0214743,C0024109,AUGMENTS,Interleukin-13,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0215955,C0024109,AUGMENTS,"LCN2 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0215955,C0819757,AUGMENTS,"LCN2 protein, human",Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0219433,C0018787,AUGMENTS,"POSTN protein, human",Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0243043,C0039485,AUGMENTS,Heat-Shock Proteins 70,Temporal Lobe,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0245109,C0024109,AUGMENTS,anakinra,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0248441,C0003483,AUGMENTS,"Ribosomal Protein S6 Kinases, 90-kDa",Aorta,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0253050,C0242692,AUGMENTS,Stat3 protein,Skeletal muscle structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0258441,C0507114,AUGMENTS,TNF receptor-associated factor 2,Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0282554,C0006121,AUGMENTS,chemokine,Brain Stem,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0282554,C0024109,AUGMENTS,chemokine,Lung,aapp,bpoc,4,AUGMENTS_AAPPaugmBPOC
+C0291573,C0022646,AUGMENTS,caspase-3,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0295022,C0507114,AUGMENTS,TNF receptor-associated factor 3,Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0305052,C0037993,AUGMENTS,Gamma globulin serum,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0376515,C0037993,AUGMENTS,BCL2 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0376515,C0423866,AUGMENTS,BCL2 gene,Lanugo,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0376515,C0736268,AUGMENTS,BCL2 gene,Liver parenchyma,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0384768,C0024109,AUGMENTS,"IRF3 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0390904,C1552115,AUGMENTS,p300/CBP-Associated Factor,Supernumerary maxillary right third molar,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0443640,C0178784,AUGMENTS,Specific antibody,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0529196,C0022646,AUGMENTS,ADAM17 Protein,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0534519,C0819757,AUGMENTS,Caspase-1,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0537474,C0023884,AUGMENTS,Sterol Regulatory Element Binding Protein 1c,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0597357,C0037925,AUGMENTS,receptor,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0597357,C0205039,AUGMENTS,receptor,Bronchial,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C0599220,C0023884,AUGMENTS,Protein Subunits,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0623362,C0024109,AUGMENTS,Matrix Metalloproteinases,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0669365,C0037993,AUGMENTS,"NOS3 protein, human",Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0669372,C0037993,AUGMENTS,"NOS2A protein, human",Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0669372,C0040995,AUGMENTS,"NOS2A protein, human",Structure of trigeminal ganglion,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0670336,C0037993,AUGMENTS,CXCR3 Receptors,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0699918,C0935397,AUGMENTS,Elastases,Neuroepithelium,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0700271,C0262304,AUGMENTS,"M Protein, multiple myeloma",pars postrema of the ventral lateral nucleus,aapp,bpoc,3,AUGMENTS_AAPPaugmBPOC
+C0752312,C0024109,AUGMENTS,Mitogen-Activated Protein Kinases,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0812445,C0006104,AUGMENTS,CXCL1 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0915024,C0475358,AUGMENTS,lactate dehydrogenase A,Tumor tissue sample,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0919528,C0024204,AUGMENTS,KMT2A gene,lymph nodes,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0960880,C0018787,AUGMENTS,angiotensin converting enzyme 2,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C0965644,C0037925,AUGMENTS,HIF1alpha protein,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1099914,C0037993,AUGMENTS,"IL12B protein, human",Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1120843,C0024109,AUGMENTS,mitogen-activated protein kinase p38,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1143949,C0024109,AUGMENTS,"TNFSF10 protein, human",Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1143949,C0819757,AUGMENTS,"TNFSF10 protein, human",Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1143976,C0037925,AUGMENTS,"TREM2 protein, human",Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1256770,C0005847,AUGMENTS,Vascular Endothelial Growth Factors,Blood Vessel,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1257952,C0023884,AUGMENTS,Cullin Proteins,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1310463,C0021853,AUGMENTS,"IFIH1 protein, human",Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1310463,C0024109,AUGMENTS,"IFIH1 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1310468,C0006104,AUGMENTS,"DDX58 protein, human",Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1310468,C0021853,AUGMENTS,"DDX58 protein, human",Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1310468,C0024109,AUGMENTS,"DDX58 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332736,C0006104,AUGMENTS,CDKL2 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332762,C0024109,AUGMENTS,CISH gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332817,C0024109,AUGMENTS,CXCL12 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332818,C0475358,AUGMENTS,CXCL14 gene,Tumor tissue sample,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332819,C0006104,AUGMENTS,CXCL5 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332821,C0006104,AUGMENTS,CXCL9 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332822,C0006104,AUGMENTS,CXCR3 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332822,C0037925,AUGMENTS,CXCR3 gene,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1332823,C0006121,AUGMENTS,CXCR4 gene,Brain Stem,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1333707,C0024109,AUGMENTS,GRB2 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1333877,C0024109,AUGMENTS,Granzymes,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1333891,C0162783,AUGMENTS,HDAC1 gene,Prefrontal Cortex,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1333908,C0024109,AUGMENTS,HMGB1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1334081,C0507114,AUGMENTS,IFNAR1 gene,Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1334125,C0005953,AUGMENTS,CXCR1 gene,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1334139,C0018120,AUGMENTS,IRF3 gene,Ovarian Follicle,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1334482,C0178784,AUGMENTS,MAPK9 gene,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1334877,C0024109,AUGMENTS,NFKBIA gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1335647,C0024109,AUGMENTS,RRAS2 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1335808,C0024204,AUGMENTS,SELL gene,lymph nodes,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1335824,C0005854,AUGMENTS,SHH gene,Blood - brain barrier anatomy,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1335872,C0024109,AUGMENTS,STAT1 gene,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1335872,C0037925,AUGMENTS,STAT1 gene,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336641,C0021852,AUGMENTS,TMPRSS2 gene,"Intestines, Small",aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1336655,C0023884,AUGMENTS,TOLLIP gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336763,C0024109,AUGMENTS,Toll-Like Receptor Family Gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336763,C0037993,AUGMENTS,Toll-Like Receptor Family Gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336763,C0040578,AUGMENTS,Toll-Like Receptor Family Gene,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336763,C3178921,AUGMENTS,Toll-Like Receptor Family Gene,Head Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1336763,C3658298,AUGMENTS,Toll-Like Receptor Family Gene,External Lateral Ligament,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1366462,C1552115,AUGMENTS,KAT2B gene,Supernumerary maxillary right third molar,aapp,bpoc,6,AUGMENTS_AAPPaugmBPOC
+C1366513,C0423866,AUGMENTS,CASP4 gene,Lanugo,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1366516,C0037925,AUGMENTS,IRF1 gene,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1366524,C0024109,AUGMENTS,CCL20 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1366587,C0037993,AUGMENTS,MCL1 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1366587,C0736268,AUGMENTS,MCL1 gene,Liver parenchyma,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1367307,C0011980,AUGMENTS,STAT3 gene,Respiratory Diaphragm,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1367307,C0024109,AUGMENTS,STAT3 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1367710,C0023884,AUGMENTS,C5 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1384654,C0507114,AUGMENTS,"TNFRSF13C protein, human",Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1384672,C0175518,AUGMENTS,HPT gene,Nucleus solitarius,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1412417,C0024109,AUGMENTS,ANXA1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1412515,C0024109,AUGMENTS,ARG1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1412544,C0031153,AUGMENTS,ARNTL gene,Peritoneum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1413041,C0013303,AUGMENTS,CA12 gene,Duodenum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1413387,C0006104,AUGMENTS,CHI3L1 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414134,C0037993,AUGMENTS,DPEP1 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414141,C0228575,AUGMENTS,DPP4 gene,Structure of posterior gray horn of spinal cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414444,C0006104,AUGMENTS,ERN1 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414444,C0018787,AUGMENTS,ERN1 gene,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414444,C0023884,AUGMENTS,ERN1 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414444,C0178784,AUGMENTS,ERN1 gene,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1414945,C0023884,AUGMENTS,GAL gene,Liver,aapp,bpoc,6,AUGMENTS_AAPPaugmBPOC
+C1415692,C0024109,AUGMENTS,HP gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1415761,C1552115,AUGMENTS,HSPA5 gene,Supernumerary maxillary right third molar,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1415892,C0006104,AUGMENTS,IFIT1 gene,Brain,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1415894,C0006104,AUGMENTS,IFIT2 gene,Brain,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1415894,C0178784,AUGMENTS,IFIT2 gene,Organ,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1415898,C0006104,AUGMENTS,IFITM3 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1415898,C0024109,AUGMENTS,IFITM3 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1415898,C0227331,AUGMENTS,IFITM3 gene,Cecal tonsil,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1416373,C0225600,AUGMENTS,CADM1 gene,Mucous membrane of bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1416390,C0037993,AUGMENTS,IL17D gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1416475,C0037925,AUGMENTS,IRF7 gene,Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1417190,C0458827,AUGMENTS,MLN gene,Airway structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1417228,C0005953,AUGMENTS,MOG gene,Bone Marrow,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1417249,C0006104,AUGMENTS,MRC1 gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1417530,C0040578,AUGMENTS,MYD88 gene,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1417660,C0262304,AUGMENTS,NEDD4L gene,pars postrema of the ventral lateral nucleus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1418597,C0023884,AUGMENTS,PITX3 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1418597,C0024109,AUGMENTS,PITX3 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1418735,C0423866,AUGMENTS,POLK gene,Lanugo,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1420393,C0023884,AUGMENTS,SQSTM1 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1420816,C0507114,AUGMENTS,TNFSF13B gene,Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1421429,C0024109,AUGMENTS,VTRNA1-1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1421940,C0018120,AUGMENTS,IFIT5 gene,Ovarian Follicle,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1421940,C0024109,AUGMENTS,IFIT5 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1421940,C0037993,AUGMENTS,IFIT5 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1422064,C0018787,AUGMENTS,ACE2 gene,Heart,aapp,bpoc,3,AUGMENTS_AAPPaugmBPOC
+C1422064,C0022646,AUGMENTS,ACE2 gene,Kidney,aapp,bpoc,4,AUGMENTS_AAPPaugmBPOC
+C1422064,C0023884,AUGMENTS,ACE2 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1422064,C1305694,AUGMENTS,ACE2 gene,Medulla,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1422064,C1882727,AUGMENTS,ACE2 gene,Rat Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1423062,C0020663,AUGMENTS,SIRT1 gene,Hypothalamic structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1423062,C0023884,AUGMENTS,SIRT1 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1423062,C0029130,AUGMENTS,SIRT1 gene,Optic Nerve,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1423633,C0023884,AUGMENTS,TLR9 gene,Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1424158,C0040578,AUGMENTS,TRIM33 gene,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1425066,C0023884,AUGMENTS,TREM1 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1425927,C1552115,AUGMENTS,EDEM1 gene,Supernumerary maxillary right third molar,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1426208,C0024109,AUGMENTS,SOCS1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1426212,C0020663,AUGMENTS,SOCS3 gene,Hypothalamic structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1426212,C0024109,AUGMENTS,SOCS3 gene,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1426212,C0037993,AUGMENTS,SOCS3 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1428222,C0006104,AUGMENTS,ZC3HAV1 gene,Brain,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1428222,C0024109,AUGMENTS,ZC3HAV1 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1428222,C0037925,AUGMENTS,ZC3HAV1 gene,Spinal Cord,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1428222,C0037993,AUGMENTS,ZC3HAV1 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1442824,C0037925,AUGMENTS,"POU2F1 protein, human",Spinal Cord,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1448177,C0024109,AUGMENTS,"TNF protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1449159,C0006104,AUGMENTS,"CCL2 protein, human",Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1449159,C0023884,AUGMENTS,"CCL2 protein, human",Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1449159,C0024109,AUGMENTS,"CCL2 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1451210,C0023884,AUGMENTS,"FGL2 protein, human",Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1522712,C0005854,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Blood - brain barrier anatomy,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1522712,C0023884,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1537719,C0018787,AUGMENTS,MIR21 gene,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1537719,C0024109,AUGMENTS,MIR21 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1539100,C0035284,AUGMENTS,CLEC5A gene,Reticular Formation,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1539703,C0006104,AUGMENTS,RSAD2 gene,Brain,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1539703,C0022646,AUGMENTS,RSAD2 gene,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1539703,C0037925,AUGMENTS,RSAD2 gene,Spinal Cord,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1539908,C0024109,AUGMENTS,TAAR1 gene,Lung,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1540030,C0021852,AUGMENTS,TMPRSS13 gene,"Intestines, Small",aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1540289,C0024109,AUGMENTS,CD200 gene,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1564907,C0024109,AUGMENTS,"Receptors, Pattern Recognition",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1624602,C0024109,AUGMENTS,Anti-Antibodies,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1624602,C0039259,AUGMENTS,Anti-Antibodies,Tail,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1667752,C0023884,AUGMENTS,"IL33 protein, human",Liver,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C1701032,C0006104,AUGMENTS,"ITGAM protein, human",Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1701032,C0021853,AUGMENTS,"ITGAM protein, human",Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1701790,C0024109,AUGMENTS,"IL17A protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1702088,C0006104,AUGMENTS,"IL5 protein, human",Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1705572,C0040578,AUGMENTS,HRAS wt Allele,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1709708,C0037993,AUGMENTS,Proprotein,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1709708,C0229792,AUGMENTS,Proprotein,Lymph node of mesentery,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1741214,C0006104,AUGMENTS,"FKBP5 protein, human",Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1823458,C0819757,AUGMENTS,TNFAIP8L2 gene,Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1824730,C0006255,AUGMENTS,CHAC1 gene,Bronchi,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1824730,C0037993,AUGMENTS,CHAC1 gene,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1824735,C0006104,AUGMENTS,CHIA gene,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1825598,C0458827,AUGMENTS,IMPACT gene,Airway structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1825621,C0023884,AUGMENTS,ISG15 gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1825621,C0586689,AUGMENTS,ISG15 gene,Liver biopsy sample,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1826435,C0007531,AUGMENTS,NLRP1 gene,Cecum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C1953384,C0037949,AUGMENTS,Reverse primer,Vertebral column,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C2350178,C0475358,AUGMENTS,Type 1 Cystatins,Tumor tissue sample,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C2350701,C0006104,AUGMENTS,Macrophage Inflammatory Protein-1,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C2698936,C0021853,AUGMENTS,RNA-Binding Protein Musashi Homolog 1,Intestines,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C2826016,C0024109,AUGMENTS,MIR214 wt Allele,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3273837,C0229304,AUGMENTS,S100B wt Allele,Helix of ear,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3536909,C0024109,AUGMENTS,"Transcription Factor AP-1, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3540595,C0022646,AUGMENTS,CD8A wt Allele,Kidney,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3540595,C0024109,AUGMENTS,CD8A wt Allele,Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3540595,C0037993,AUGMENTS,CD8A wt Allele,Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3540595,C0040578,AUGMENTS,CD8A wt Allele,Trachea,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3642279,C0023884,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3642279,C0030274,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Pancreas,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3710914,C0007765,AUGMENTS,"EIF2AK2 protein, human",Cerebellum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3710914,C0024109,AUGMENTS,"EIF2AK2 protein, human",Lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3710914,C0037993,AUGMENTS,"EIF2AK2 protein, human",Spleen,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3710914,C0819757,AUGMENTS,"EIF2AK2 protein, human",Structure of parenchyma of lung,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3816283,C0423866,AUGMENTS,LINC01197 gene,Lanugo,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3849574,C0507114,AUGMENTS,"EPHB2 protein, human",Posterior segmental bronchus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3849701,C0007531,AUGMENTS,"interleukin 18 protein, human",Cecum,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3887572,C0006104,AUGMENTS,Chemokine CXCL1,Brain,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3887582,C3275276,AUGMENTS,"Peroxisome Proliferator-Activated Receptor Gamma, human",Bronchial lymph node,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3890345,C0023884,AUGMENTS,BISPR gene,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C3891304,C0035284,AUGMENTS,"Cathelicidin LL-37, human",Reticular Formation,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4048280,C0037993,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Spleen,aapp,bpoc,2,AUGMENTS_AAPPaugmBPOC
+C4048302,C0022663,AUGMENTS,"T-Lymphocyte Activation Antigen CD80, human",Kidney Glomerulus,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4049595,C0018787,AUGMENTS,HLA Complex,Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4086522,C0018120,AUGMENTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,Ovarian Follicle,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4282114,C0023884,AUGMENTS,"Bcl-2-Like Protein 11, human",Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4283742,C1512279,AUGMENTS,"Ceramide Glucosyltransferase, human",Growing Follicle,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4316927,C0018787,AUGMENTS,"Endothelin-1, human",Heart,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4318623,C0023884,AUGMENTS,NEDD8 Protein,Liver,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC
+C4521302,C0022674,AUGMENTS,"Angiotensin-1, human",Renal tubule structure,aapp,bpoc,1,AUGMENTS_AAPPaugmBPOC

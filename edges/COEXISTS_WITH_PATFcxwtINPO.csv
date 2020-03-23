@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006110,C0018674,COEXISTS_WITH,Brain Death,Craniocerebral Trauma,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0011304,C0010957,COEXISTS_WITH,Demyelination,Tissue damage,patf,inpo,2,COEXISTS_WITH_PATFcxwtINPO
+C0020507,C0016542,COEXISTS_WITH,Hyperplasia,Foreign Bodies,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0020523,C0685898,COEXISTS_WITH,Immediate hypersensitivity,Food anaphylaxis,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0016542,COEXISTS_WITH,Inflammation,Foreign Bodies,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0035126,COEXISTS_WITH,Inflammation,Reperfusion Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0160390,COEXISTS_WITH,Inflammation,Injury of liver,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0178324,COEXISTS_WITH,Inflammation,Vascular System Injuries,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0242488,COEXISTS_WITH,Inflammation,Acute Lung Injury,patf,inpo,6,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0270611,COEXISTS_WITH,Inflammation,Brain Injuries,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021368,C0273115,COEXISTS_WITH,Inflammation,Lung Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0021376,C1709216,COEXISTS_WITH,Chronic inflammation,Neural Tissue Damage,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0026766,C0026771,COEXISTS_WITH,Multiple Organ Failure,Multiple Trauma,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0029445,C0016665,COEXISTS_WITH,Bone necrosis,"Fractures, Ununited",patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0035410,C0160420,COEXISTS_WITH,Rhabdomyolysis,Injury of kidney,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0036982,C0035126,COEXISTS_WITH,"Shock, Hemorrhagic",Reperfusion Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0036982,C0043251,COEXISTS_WITH,"Shock, Hemorrhagic",Wounds and Injuries,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0036983,C2905612,COEXISTS_WITH,Septic Shock,Storm NOS,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0151763,C0035126,COEXISTS_WITH,Liver damage,Reperfusion Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0206277,C0043251,COEXISTS_WITH,Fatal Outcome,Wounds and Injuries,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0235063,C0273115,COEXISTS_WITH,Respiratory Depression,Lung Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0242698,C0151821,COEXISTS_WITH,"Ventricular Dysfunction, Left",ACCIDENTAL OVERDOSE,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0242781,C2921946,COEXISTS_WITH,disease transmission,multiple Strains,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0302085,C0332677,COEXISTS_WITH,Decreased erythrocyte production,Major injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0302158,C0273115,COEXISTS_WITH,Leucocytic infiltrate,Lung Injury,patf,inpo,2,COEXISTS_WITH_PATFcxwtINPO
+C0332448,C0010957,COEXISTS_WITH,Infiltration,Tissue damage,patf,inpo,2,COEXISTS_WITH_PATFcxwtINPO
+C0332448,C0242488,COEXISTS_WITH,Infiltration,Acute Lung Injury,patf,inpo,2,COEXISTS_WITH_PATFcxwtINPO
+C0332448,C0273115,COEXISTS_WITH,Infiltration,Lung Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C0340654,C0026771,COEXISTS_WITH,Arterial hemorrhage,Multiple Trauma,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1155266,C0016542,COEXISTS_WITH,inflammatory response,Foreign Bodies,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1155266,C0160390,COEXISTS_WITH,inflammatory response,Injury of liver,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1155266,C0160420,COEXISTS_WITH,inflammatory response,Injury of kidney,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1155266,C0242488,COEXISTS_WITH,inflammatory response,Acute Lung Injury,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1155266,C3203359,COEXISTS_WITH,inflammatory response,Rupture,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C1520005,C2905612,COEXISTS_WITH,Viral Pathogenesis,Storm NOS,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C2911645,C0560617,COEXISTS_WITH,Weight Loss Adverse Event,knocked out,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C3160769,C0043251,COEXISTS_WITH,Major bleeding problems,Wounds and Injuries,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C3714514,C0332803,COEXISTS_WITH,Infection,Surgical wound,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C3714514,C0561596,COEXISTS_WITH,Infection,Dog bite - wound,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C3714514,C0679360,COEXISTS_WITH,Infection,Foodborne Disease,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO
+C3714514,C2905612,COEXISTS_WITH,Infection,Storm NOS,patf,inpo,1,COEXISTS_WITH_PATFcxwtINPO

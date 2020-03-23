@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005558,C1704258,NEG_DIAGNOSES,Biopsy,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C1853237,NEG_DIAGNOSES,Biopsy,Isolated cases,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013516,C0221198,NEG_DIAGNOSES,Echocardiography,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013516,C1709157,NEG_DIAGNOSES,Echocardiography,Negative Surgical Margin,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013839,C1704258,NEG_DIAGNOSES,Electromyography,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C0221198,NEG_DIAGNOSES,Magnetic Resonance Imaging,Lesion,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C1513269,NEG_DIAGNOSES,Magnetic Resonance Imaging,Microcyst,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C1704258,NEG_DIAGNOSES,Magnetic Resonance Imaging,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0027853,C1704258,NEG_DIAGNOSES,Neurologic Examination,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0030247,C0497156,NEG_DIAGNOSES,Palpation,Lymphadenopathy,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040017,C0019080,NEG_DIAGNOSES,Thrombelastography,Hemorrhage,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C1334398,NEG_DIAGNOSES,X-Ray Computed Tomography,Limited Stage Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C2673622,NEG_DIAGNOSES,Ultrasonography,Mucosal lesions,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0185283,C1704258,NEG_DIAGNOSES,Muscle biopsy,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0430456,C0030252,NEG_DIAGNOSES,12 lead ECG,Palpitations,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0596473,C2597943,NEG_DIAGNOSES,Early Diagnosis,Index case,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1510483,C0476486,NEG_DIAGNOSES,Fine needle aspiration biopsy,Generalized enlarged lymph nodes,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C0750484,NEG_DIAGNOSES,Observation - diagnostic procedure,Confirmation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG

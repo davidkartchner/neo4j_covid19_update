@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0014020,C0006826,TREATS,Emulsions,Malignant Neoplasms,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0032521,C0006826,TREATS,Polymers,Malignant Neoplasms,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0032521,C0278488,TREATS,Polymers,Carcinoma breast stage IV,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0243072,C0026764,TREATS,derivatives,Multiple Myeloma,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0007134,TREATS,Particle,Renal Cell Carcinoma,chvs,neop,2,TREATS_CHVStrtsNEOP
+C0597177,C0017638,TREATS,Particle,Glioma,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0023418,TREATS,Particle,leukemia,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0025202,TREATS,Particle,melanoma,chvs,neop,2,TREATS_CHVStrtsNEOP
+C0597177,C0027651,TREATS,Particle,Neoplasms,chvs,neop,4,TREATS_CHVStrtsNEOP
+C0597177,C0032131,TREATS,Particle,Plasmacytoma,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0235974,TREATS,Particle,Pancreatic carcinoma,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0242379,TREATS,Particle,Malignant neoplasm of lung,chvs,neop,1,TREATS_CHVStrtsNEOP
+C0597177,C0600139,TREATS,Particle,Prostate carcinoma,chvs,neop,1,TREATS_CHVStrtsNEOP
+C1704241,C0006826,TREATS,complex (molecular entity),Malignant Neoplasms,chvs,neop,1,TREATS_CHVStrtsNEOP
+C1704241,C0027651,TREATS,complex (molecular entity),Neoplasms,chvs,neop,1,TREATS_CHVStrtsNEOP
+C1704241,C0598934,TREATS,complex (molecular entity),tumor growth,chvs,neop,1,TREATS_CHVStrtsNEOP

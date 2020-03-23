@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005615,C0006147,PRECEDES,Birth,Breast Feeding,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0032961,PRECEDES,Birth,Pregnancy,orgf,orgf,8,PRECEDES_ORGFprcdORGF
+C0005615,C0301872,PRECEDES,Birth,Immune response,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0598016,PRECEDES,Birth,hatching,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0699900,PRECEDES,Birth,Catabolism,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C1160185,PRECEDES,Birth,transduction,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C1516559,PRECEDES,Birth,Circulatory Process,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0006147,C0032961,PRECEDES,Breast Feeding,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011065,C1516559,PRECEDES,Cessation of life,Circulatory Process,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011135,C0013470,PRECEDES,Defecation,Eating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0012238,C0032961,PRECEDES,Digestion,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0026649,C0009253,PRECEDES,Movement,Coitus,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0026649,C0025519,PRECEDES,Movement,Metabolism,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0032961,C0005615,PRECEDES,Pregnancy,Birth,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0034011,C0678723,PRECEDES,Puberty,Biologic Development,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0231795,C0231800,PRECEDES,Normal respiratory function,"Expiration, function",orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0301872,C0032961,PRECEDES,Immune response,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1154978,C0000934,PRECEDES,cold acclimation,Acclimatization,orgf,orgf,1,PRECEDES_ORGFprcdORGF

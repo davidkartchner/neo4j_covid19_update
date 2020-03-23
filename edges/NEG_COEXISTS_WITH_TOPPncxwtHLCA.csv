@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002903,C0019993,NEG_COEXISTS_WITH,Anesthesia procedures,Hospitalization,topp,hlca,1,NEG_COEXISTS_WITH_TOPPncxwtHLCA
+C0042196,C0206082,NEG_COEXISTS_WITH,Vaccination,Immunization Programs,topp,hlca,1,NEG_COEXISTS_WITH_TOPPncxwtHLCA
+C0042200,C0206082,NEG_COEXISTS_WITH,Influenza vaccination,Immunization Programs,topp,hlca,2,NEG_COEXISTS_WITH_TOPPncxwtHLCA
+C0185027,C1522577,NEG_COEXISTS_WITH,Imbrication (procedure),follow-up,topp,hlca,1,NEG_COEXISTS_WITH_TOPPncxwtHLCA
+C0442775,C1261322,NEG_COEXISTS_WITH,Blind technique,Evaluation procedure,topp,hlca,1,NEG_COEXISTS_WITH_TOPPncxwtHLCA
+C1511790,C0031809,NEG_COEXISTS_WITH,Detection,Physical Examination,topp,hlca,1,NEG_COEXISTS_WITH_TOPPncxwtHLCA

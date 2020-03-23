@@ -1,0 +1,173 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001527,C0013470,LOCATION_OF,Adipose tissue,Eating,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0001527,C0023796,LOCATION_OF,Adipose tissue,Lipolysis,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0001527,C0025519,LOCATION_OF,Adipose tissue,Metabolism,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0001527,C0301872,LOCATION_OF,Adipose tissue,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0004799,C0699900,LOCATION_OF,Basement membrane,Catabolism,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0005962,C0699900,LOCATION_OF,Bone Matrix,Catabolism,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0006298,C0019516,LOCATION_OF,Brown Fat,Hibernation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0007301,C0043240,LOCATION_OF,Cartilage,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C0018270,LOCATION_OF,Endothelium,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C0026559,LOCATION_OF,Endothelium,Morphogenesis,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C0026649,LOCATION_OF,Endothelium,Movement,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C0043240,LOCATION_OF,Endothelium,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C0596935,LOCATION_OF,Endothelium,Microbial Interactions,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014257,C1160185,LOCATION_OF,Endothelium,transduction,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014261,C0014653,LOCATION_OF,"Endothelium, Vascular",Equilibrium,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014520,C0005615,LOCATION_OF,Epidermis,Birth,tisu,orgf,9,LOCATION_OF_TISUlocfORGF
+C0014520,C0018270,LOCATION_OF,Epidermis,Growth,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0014520,C1135598,LOCATION_OF,Epidermis,postnatal development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014596,C1752856,LOCATION_OF,Epithelial Attachment,Host-Pathogen Interactions,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014609,C0005615,LOCATION_OF,Epithelium,Birth,tisu,orgf,6,LOCATION_OF_TISUlocfORGF
+C0014609,C0011065,LOCATION_OF,Epithelium,Cessation of life,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014609,C0018270,LOCATION_OF,Epithelium,Growth,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0014609,C0020966,LOCATION_OF,Epithelium,Cellular Immunity,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014609,C0026649,LOCATION_OF,Epithelium,Movement,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0014609,C0043240,LOCATION_OF,Epithelium,Wound Healing,tisu,orgf,15,LOCATION_OF_TISUlocfORGF
+C0014609,C0301872,LOCATION_OF,Epithelium,Immune response,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0014609,C0699900,LOCATION_OF,Epithelium,Catabolism,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0014609,C1155328,LOCATION_OF,Epithelium,Antiviral Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0014609,C1819461,LOCATION_OF,Epithelium,interleukin-8 production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0015350,C0012238,LOCATION_OF,Extracellular Matrix,Digestion,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0015350,C0678723,LOCATION_OF,Extracellular Matrix,Biologic Development,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0015350,C0699900,LOCATION_OF,Extracellular Matrix,Catabolism,tisu,orgf,21,LOCATION_OF_TISUlocfORGF
+C0015350,C1510470,LOCATION_OF,Extracellular Matrix,Motility,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0017136,C0012238,LOCATION_OF,Gastric mucosa,Digestion,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0021839,C0014653,LOCATION_OF,Intestinal Mucosa,Equilibrium,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0021839,C0043240,LOCATION_OF,Intestinal Mucosa,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0021839,C0301872,LOCATION_OF,Intestinal Mucosa,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0021839,C0678723,LOCATION_OF,Intestinal Mucosa,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0021839,C1819437,LOCATION_OF,Intestinal Mucosa,interleukin-10 production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0024296,C0301872,LOCATION_OF,Lymphoid Tissue,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0024296,C0678723,LOCATION_OF,Lymphoid Tissue,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0024296,C1516559,LOCATION_OF,Lymphoid Tissue,Circulatory Process,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0005615,LOCATION_OF,Tissue membrane,Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0018270,LOCATION_OF,Tissue membrane,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0023796,LOCATION_OF,Tissue membrane,Lipolysis,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0026559,LOCATION_OF,Tissue membrane,Morphogenesis,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0026649,LOCATION_OF,Tissue membrane,Movement,tisu,orgf,4,LOCATION_OF_TISUlocfORGF
+C0025255,C0678723,LOCATION_OF,Tissue membrane,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0025255,C0699900,LOCATION_OF,Tissue membrane,Catabolism,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C0005615,LOCATION_OF,Mucous Membrane,Birth,tisu,orgf,43,LOCATION_OF_TISUlocfORGF
+C0026724,C0008810,LOCATION_OF,Mucous Membrane,Circadian Rhythms,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C0011135,LOCATION_OF,Mucous Membrane,Defecation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C0020966,LOCATION_OF,Mucous Membrane,Cellular Immunity,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0026724,C0020967,LOCATION_OF,Mucous Membrane,Humoral Immunity,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0026724,C0043240,LOCATION_OF,Mucous Membrane,Wound Healing,tisu,orgf,15,LOCATION_OF_TISUlocfORGF
+C0026724,C0301872,LOCATION_OF,Mucous Membrane,Immune response,tisu,orgf,15,LOCATION_OF_TISUlocfORGF
+C0026724,C0678723,LOCATION_OF,Mucous Membrane,Biologic Development,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0026724,C1154978,LOCATION_OF,Mucous Membrane,cold acclimation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C1749719,LOCATION_OF,Mucous Membrane,Adaptive Immune Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C1819437,LOCATION_OF,Mucous Membrane,interleukin-10 production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026724,C2936272,LOCATION_OF,Mucous Membrane,Circadian Clocks,tisu,orgf,4,LOCATION_OF_TISUlocfORGF
+C0026724,C4505207,LOCATION_OF,Mucous Membrane,Immune Reconstitution,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026845,C0000934,LOCATION_OF,Muscle,Acclimatization,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0026845,C0005615,LOCATION_OF,Muscle,Birth,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0026845,C0018270,LOCATION_OF,Muscle,Growth,tisu,orgf,15,LOCATION_OF_TISUlocfORGF
+C0026845,C0043240,LOCATION_OF,Muscle,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026845,C0597462,LOCATION_OF,Muscle,skeletal regeneration,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0026845,C1160185,LOCATION_OF,Muscle,transduction,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0026845,C2584321,LOCATION_OF,Muscle,Reaching,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026969,C0043240,LOCATION_OF,Myelin,Wound Healing,tisu,orgf,6,LOCATION_OF_TISUlocfORGF
+C0026969,C0301872,LOCATION_OF,Myelin,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0026969,C0699900,LOCATION_OF,Myelin,Catabolism,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0027061,C0005615,LOCATION_OF,Myocardium,Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027061,C0018270,LOCATION_OF,Myocardium,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027061,C0043240,LOCATION_OF,Myocardium,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027061,C1819464,LOCATION_OF,Myocardium,tumor necrosis factor production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027428,C0005615,LOCATION_OF,Structure of mucous membrane of nose,Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027428,C0008810,LOCATION_OF,Structure of mucous membrane of nose,Circadian Rhythms,tisu,orgf,8,LOCATION_OF_TISUlocfORGF
+C0027428,C0013529,LOCATION_OF,Structure of mucous membrane of nose,Echolocation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027428,C0043240,LOCATION_OF,Structure of mucous membrane of nose,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027428,C0301872,LOCATION_OF,Structure of mucous membrane of nose,Immune response,tisu,orgf,4,LOCATION_OF_TISUlocfORGF
+C0027428,C1155328,LOCATION_OF,Structure of mucous membrane of nose,Antiviral Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0027428,C2936272,LOCATION_OF,Structure of mucous membrane of nose,Circadian Clocks,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0027757,C0043240,LOCATION_OF,Nerve Tissue,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0029250,C0018270,LOCATION_OF,Organoids,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0000934,LOCATION_OF,Body tissue,Acclimatization,tisu,orgf,4,LOCATION_OF_TISUlocfORGF
+C0040300,C0005486,LOCATION_OF,Body tissue,Bioenergetics,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0005615,LOCATION_OF,Body tissue,Birth,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0040300,C0011065,LOCATION_OF,Body tissue,Cessation of life,tisu,orgf,4,LOCATION_OF_TISUlocfORGF
+C0040300,C0012238,LOCATION_OF,Body tissue,Digestion,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0014653,LOCATION_OF,Body tissue,Equilibrium,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0016284,LOCATION_OF,Body tissue,Fluid Balance,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0018270,LOCATION_OF,Body tissue,Growth,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0040300,C0021059,LOCATION_OF,Body tissue,Immunologic Surveillance,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0040300,C0022864,LOCATION_OF,Body tissue,Labor (Childbirth),tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0025519,LOCATION_OF,Body tissue,Metabolism,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0040300,C0026649,LOCATION_OF,Body tissue,Movement,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0032961,LOCATION_OF,Body tissue,Pregnancy,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0043240,LOCATION_OF,Body tissue,Wound Healing,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0040300,C0301872,LOCATION_OF,Body tissue,Immune response,tisu,orgf,8,LOCATION_OF_TISUlocfORGF
+C0040300,C0678723,LOCATION_OF,Body tissue,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0678889,LOCATION_OF,Body tissue,Immunoregulation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C0699900,LOCATION_OF,Body tissue,Catabolism,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C1160185,LOCATION_OF,Body tissue,transduction,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0040300,C1327413,LOCATION_OF,Body tissue,cytokine production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C1516559,LOCATION_OF,Body tissue,Circulatory Process,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0040300,C1749719,LOCATION_OF,Body tissue,Adaptive Immune Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C1752856,LOCATION_OF,Body tissue,Host-Pathogen Interactions,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C1819447,LOCATION_OF,Body tissue,interleukin-2 production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C1819459,LOCATION_OF,Body tissue,interleukin-6 production,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0040300,C2755388,LOCATION_OF,Body tissue,amino acid homeostasis,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C3269238,LOCATION_OF,Body tissue,antibody-mediated agglutination,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0040300,C3824609,LOCATION_OF,Body tissue,cellular response to virus,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0225317,C0014653,LOCATION_OF,soft tissue,Equilibrium,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0225331,C0043240,LOCATION_OF,Fibrous tissue,Wound Healing,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0225358,C0026649,LOCATION_OF,Muscularis propria,Movement,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0227261,C1510470,LOCATION_OF,Small intestine mucous membrane,Motility,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0242291,C0011065,LOCATION_OF,Fetal Tissue,Cessation of life,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0282491,C0018270,LOCATION_OF,Structure of germinal center of lymph node,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0282491,C0020967,LOCATION_OF,Structure of germinal center of lymph node,Humoral Immunity,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0282491,C0678723,LOCATION_OF,Structure of germinal center of lymph node,Biologic Development,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0282491,C1155328,LOCATION_OF,Structure of germinal center of lymph node,Antiviral Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0332835,C1327413,LOCATION_OF,Transplanted tissue,cytokine production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0391978,C0018270,LOCATION_OF,Bone Tissue,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0440744,C0301872,LOCATION_OF,Human tissue,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0440744,C1819436,LOCATION_OF,Human tissue,interleukin-1 production,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0596638,C1749719,LOCATION_OF,Gut associated lymphoid tissue,Adaptive Immune Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0596638,C1817919,LOCATION_OF,Gut associated lymphoid tissue,germinal center formation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0599331,C1155328,LOCATION_OF,Nasal Epithelium,Antiviral Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0682576,C0018270,LOCATION_OF,ciliated epithelium,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0682578,C0678723,LOCATION_OF,glandular epithelium,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0682708,C0001811,LOCATION_OF,White matter,Aging,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C0682708,C0043240,LOCATION_OF,White matter,Wound Healing,tisu,orgf,12,LOCATION_OF_TISUlocfORGF
+C0682708,C0678723,LOCATION_OF,White matter,Biologic Development,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0684084,C3156137,LOCATION_OF,Skin tissue,thymic stromal lymphopoietin production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C0751974,C0301872,LOCATION_OF,Respiratory Mucosa,Immune response,tisu,orgf,3,LOCATION_OF_TISUlocfORGF
+C0751974,C1819426,LOCATION_OF,Respiratory Mucosa,chemokine production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1179002,C0678889,LOCATION_OF,Epithelium of trachea,Immunoregulation,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1179187,C0301872,LOCATION_OF,Lamina Propria,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1179418,C0011065,LOCATION_OF,Bronchial-associated lymphoid tissue,Cessation of life,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1179418,C0022864,LOCATION_OF,Bronchial-associated lymphoid tissue,Labor (Childbirth),tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1179418,C0301872,LOCATION_OF,Bronchial-associated lymphoid tissue,Immune response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1272575,C0011065,LOCATION_OF,Heart tissue,Cessation of life,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1304649,C0018270,LOCATION_OF,Tissue fiber,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1305763,C0005615,LOCATION_OF,Skeletal and/or smooth muscle structure,Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1512783,C0018270,LOCATION_OF,Inner Limiting Membrane,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1514123,C0018270,LOCATION_OF,Mouse Nerve,Growth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1515429,C0333953,LOCATION_OF,Thymic Lymphoid Tissue,Involution,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1516828,C0699900,LOCATION_OF,Mouse Embryonic Fibroblast,Catabolism,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1518039,C0008810,LOCATION_OF,Mouse Lung,Circadian Rhythms,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1518039,C0018270,LOCATION_OF,Mouse Lung,Growth,tisu,orgf,5,LOCATION_OF_TISUlocfORGF
+C1518039,C0301872,LOCATION_OF,Mouse Lung,Immune response,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C1518039,C1327413,LOCATION_OF,Mouse Lung,cytokine production,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1518039,C1749719,LOCATION_OF,Mouse Lung,Adaptive Immune Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1519524,C0001811,LOCATION_OF,Paraffin Embedded Tissue,Aging,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C1519524,C0015914,LOCATION_OF,Paraffin Embedded Tissue,Fertilization,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1521713,C0001811,LOCATION_OF,CNS - Brain (MMHCC),Aging,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522579,C0005615,LOCATION_OF,CNS - Brain - Cerebrum/Cortex (MMHCC),Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522642,C0000934,LOCATION_OF,Clone,Acclimatization,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C1522642,C0005615,LOCATION_OF,Clone,Birth,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522642,C0018270,LOCATION_OF,Clone,Growth,tisu,orgf,7,LOCATION_OF_TISUlocfORGF
+C1522642,C0035150,LOCATION_OF,Clone,Reproduction,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522642,C0678723,LOCATION_OF,Clone,Biologic Development,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522642,C1160185,LOCATION_OF,Clone,transduction,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1522642,C1516559,LOCATION_OF,Clone,Circulatory Process,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1704223,C0023796,LOCATION_OF,White Adipose Tissue,Lipolysis,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1706995,C1510835,LOCATION_OF,Brain White Matter,Aging-Related Process,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1711368,C0011065,LOCATION_OF,Marginal Zone,Cessation of life,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1955394,C0005615,LOCATION_OF,Tissue specific,Birth,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C1955394,C1155328,LOCATION_OF,Tissue specific,Antiviral Response,tisu,orgf,1,LOCATION_OF_TISUlocfORGF
+C1979853,C0006159,LOCATION_OF,Basement,Breeding,tisu,orgf,2,LOCATION_OF_TISUlocfORGF
+C2316368,C0042789,LOCATION_OF,Tissue section,Vision,tisu,orgf,1,LOCATION_OF_TISUlocfORGF

@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C1519680,AFFECTS,Immunologic Adjuvants,Tumor Immunity,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0001697,C0004096,AFFECTS,Aeroallergen,Asthma,imft,dsyn,3,AFFECTS_IMFTafctDSYN
+C0002092,C0004096,AFFECTS,Allergens,Asthma,imft,dsyn,5,AFFECTS_IMFTafctDSYN
+C0002092,C0018621,AFFECTS,Allergens,Hay fever,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003316,C0032027,AFFECTS,Epitopes,Pityriasis Rubra Pilaris,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003316,C0042749,AFFECTS,Epitopes,Viremia,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003316,C0042769,AFFECTS,Epitopes,Virus Diseases,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003316,C0276289,AFFECTS,Epitopes,Zika Virus Infection,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003339,C0745283,AFFECTS,Surface Antigens,INFECTIOUS PROCESS,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003342,C0276289,AFFECTS,"Antigens, Viral",Zika Virus Infection,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0003342,C1175175,AFFECTS,"Antigens, Viral",Severe Acute Respiratory Syndrome,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0018593,C0009319,AFFECTS,Haptens,Colitis,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0021403,C0021400,AFFECTS,Influenza virus vaccine,Influenza,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0021403,C0029882,AFFECTS,Influenza virus vaccine,Otitis Media,imft,dsyn,2,AFFECTS_IMFTafctDSYN
+C0021403,C0032285,AFFECTS,Influenza virus vaccine,Pneumonia,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0025010,C0004096,AFFECTS,Measles Vaccine,Asthma,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0025010,C0042749,AFFECTS,Measles Vaccine,Viremia,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0002106,AFFECTS,Vaccines,Allergic pneumonia,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0009450,AFFECTS,Vaccines,Communicable Diseases,imft,dsyn,2,AFFECTS_IMFTafctDSYN
+C0042210,C0011847,AFFECTS,Vaccines,Diabetes,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0013369,AFFECTS,Vaccines,Dysentery,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0018572,AFFECTS,Vaccines,"Hand, Foot and Mouth Disease",imft,dsyn,2,AFFECTS_IMFTafctDSYN
+C0042210,C0019099,AFFECTS,Vaccines,"Hemorrhagic Fever, Crimean",imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0021400,AFFECTS,Vaccines,Influenza,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0035204,AFFECTS,Vaccines,Respiration Disorders,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0275524,AFFECTS,Vaccines,Coinfection,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C0872315,AFFECTS,Vaccines,"Communicable Diseases, Emerging",imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042210,C2076600,AFFECTS,Vaccines,Influenza due to Influenza A virus subtype H1N1,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0042212,C0019101,AFFECTS,"Vaccines, Inactivated",Hemorrhagic Fever with Renal Syndrome,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0166049,C0520680,AFFECTS,Hepatitis C Antibodies,"Sleep Apnea, Central",imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0206515,C0004610,AFFECTS,"Vaccines, Conjugate",Bacteremia,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0376613,C0872315,AFFECTS,"Vaccines, DNA","Communicable Diseases, Emerging",imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0521390,C0004364,AFFECTS,neuronal,Autoimmune Diseases,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0521390,C0011303,AFFECTS,neuronal,Demyelinating Diseases,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0521390,C0026769,AFFECTS,neuronal,Multiple Sclerosis,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C0887894,C0856238,AFFECTS,Respiratory Syncytial Virus Vaccines,influenza (epidemic),imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C1514218,C0012979,AFFECTS,Polyvalent Vaccine,Dog Diseases,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C1721787,C0343641,AFFECTS,Gardasil,Human papilloma virus infection,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C1721789,C0343641,AFFECTS,Cervarix,Human papilloma virus infection,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C1883036,C0038354,AFFECTS,Single-Chain Antibodies,Stomach Diseases,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C1883036,C0042769,AFFECTS,Single-Chain Antibodies,Virus Diseases,imft,dsyn,3,AFFECTS_IMFTafctDSYN
+C2825347,C0340865,AFFECTS,"Immunoglobulin A, Human",Anaphylactoid reaction,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C3161957,C0021400,AFFECTS,INFLUENZA strains,Influenza,imft,dsyn,1,AFFECTS_IMFTafctDSYN
+C3493632,C0025294,AFFECTS,MenAfriVac,Meningococcal meningitis,imft,dsyn,1,AFFECTS_IMFTafctDSYN

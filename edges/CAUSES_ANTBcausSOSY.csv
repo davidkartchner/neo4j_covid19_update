@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0010200,CAUSES,Antibiotics,Coughing,antb,sosy,1,CAUSES_ANTBcausSOSY
+C0003232,C0011991,CAUSES,Antibiotics,Diarrhea,antb,sosy,2,CAUSES_ANTBcausSOSY
+C0023726,C0011991,CAUSES,Lincomycin,Diarrhea,antb,sosy,1,CAUSES_ANTBcausSOSY
+C0054066,C0426576,CAUSES,Amoxicillin / Clavulanate,Gastrointestinal symptom,antb,sosy,1,CAUSES_ANTBcausSOSY
+C0054066,C0920703,CAUSES,Amoxicillin / Clavulanate,gastrointestinal sign,antb,sosy,1,CAUSES_ANTBcausSOSY

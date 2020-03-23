@@ -1,0 +1,58 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000833,C0021368,ISA,Abscess,Inflammation,patf,patf,1,ISA_PATFisaPATF
+C0001349,C1155266,ISA,Acute-Phase Reaction,inflammatory response,patf,patf,1,ISA_PATFisaPATF
+C0001349,C1817978,ISA,Acute-Phase Reaction,acute inflammatory response,patf,patf,1,ISA_PATFisaPATF
+C0001364,C0151763,ISA,Massive Hepatic Necrosis,Liver damage,patf,patf,1,ISA_PATFisaPATF
+C0002792,C0020517,ISA,anaphylaxis,Hypersensitivity,patf,patf,7,ISA_PATFisaPATF
+C0002792,C0036974,ISA,anaphylaxis,Shock,patf,patf,1,ISA_PATFisaPATF
+C0003860,C0021368,ISA,Arteritis,Inflammation,patf,patf,1,ISA_PATFisaPATF
+C0004238,C0003811,ISA,Atrial Fibrillation,Cardiac Arrhythmia,patf,patf,7,ISA_PATFisaPATF
+C0006114,C0013604,ISA,Cerebral Edema,Edema,patf,patf,1,ISA_PATFisaPATF
+C0011304,C0011164,ISA,Demyelination,Abnormal degeneration,patf,patf,1,ISA_PATFisaPATF
+C0015934,C0178292,ISA,Fetal Growth Retardation,"Complications of pregnancy, childbirth and the puerperium",patf,patf,1,ISA_PATFisaPATF
+C0018790,C0003811,ISA,Cardiac Arrest,Cardiac Arrhythmia,patf,patf,1,ISA_PATFisaPATF
+C0020452,C0700148,ISA,Hyperemia,Congestion,patf,patf,1,ISA_PATFisaPATF
+C0020517,C0021368,ISA,Hypersensitivity,Inflammation,patf,patf,3,ISA_PATFisaPATF
+C0020517,C0030660,ISA,Hypersensitivity,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0020564,C0030660,ISA,Hypertrophy,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0021368,C0030660,ISA,Inflammation,Pathologic Processes,patf,patf,6,ISA_PATFisaPATF
+C0021376,C0030660,ISA,Chronic inflammation,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0021655,C0030660,ISA,Insulin Resistance,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0025222,C0017181,ISA,Melena,Gastrointestinal Hemorrhage,patf,patf,1,ISA_PATFisaPATF
+C0026766,C0036974,ISA,Multiple Organ Failure,Shock,patf,patf,1,ISA_PATFisaPATF
+C0029445,C0030660,ISA,Bone necrosis,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0032227,C0013687,ISA,Pleural effusion disorder,effusion,patf,patf,1,ISA_PATFisaPATF
+C0035228,C0021368,ISA,Respiratory Hypersensitivity,Inflammation,patf,patf,3,ISA_PATFisaPATF
+C0036980,C0036974,ISA,"Shock, Cardiogenic",Shock,patf,patf,1,ISA_PATFisaPATF
+C0036982,C0036974,ISA,"Shock, Hemorrhagic",Shock,patf,patf,1,ISA_PATFisaPATF
+C0036983,C0036974,ISA,Septic Shock,Shock,patf,patf,4,ISA_PATFisaPATF
+C0038941,C3714514,ISA,Surgical Wound Infection,Infection,patf,patf,1,ISA_PATFisaPATF
+C0039231,C0003811,ISA,Tachycardia,Cardiac Arrhythmia,patf,patf,1,ISA_PATFisaPATF
+C0085298,C0030660,ISA,Sudden Cardiac Death,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0085298,C0376297,ISA,Sudden Cardiac Death,Cardiac Death,patf,patf,1,ISA_PATFisaPATF
+C0085660,C0029445,ISA,Aseptic necrosis,Bone necrosis,patf,patf,1,ISA_PATFisaPATF
+C0151526,C0178292,ISA,Premature Birth,"Complications of pregnancy, childbirth and the puerperium",patf,patf,1,ISA_PATFisaPATF
+C0151636,C0085612,ISA,Premature ventricular contractions,Ventricular arrhythmia,patf,patf,1,ISA_PATFisaPATF
+C0151746,C0231170,ISA,Abnormal renal function,Disability,patf,patf,1,ISA_PATFisaPATF
+C0221270,C0020507,ISA,Acanthosis,Hyperplasia,patf,patf,1,ISA_PATFisaPATF
+C0282474,C3714514,ISA,Maternal-Fetal Infection Transmission,Infection,patf,patf,1,ISA_PATFisaPATF
+C0333257,C0015376,ISA,Air leakage,Extravasation,patf,patf,1,ISA_PATFisaPATF
+C0333456,C0011304,ISA,Primary demyelination,Demyelination,patf,patf,1,ISA_PATFisaPATF
+C0333467,C0011164,ISA,Cytopathic effect,Abnormal degeneration,patf,patf,1,ISA_PATFisaPATF
+C0333641,C0011164,ISA,Atrophic,Abnormal degeneration,patf,patf,1,ISA_PATFisaPATF
+C0392707,C0020517,ISA,Atopy,Hypersensitivity,patf,patf,4,ISA_PATFisaPATF
+C0392707,C3714514,ISA,Atopy,Infection,patf,patf,1,ISA_PATFisaPATF
+C0410480,C0030660,ISA,Avascular Necrosis of Femur Head,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C0429001,C0151636,ISA,Paired ventricular premature complexes,Premature ventricular contractions,patf,patf,1,ISA_PATFisaPATF
+C0595939,C0015927,ISA,Stillbirth,Fetal Death,patf,patf,1,ISA_PATFisaPATF
+C0854460,C3714514,ISA,Indirect Transmission,Infection,patf,patf,1,ISA_PATFisaPATF
+C0919924,C0030660,ISA,pulmonary toxicity,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C1155266,C0021368,ISA,inflammatory response,Inflammation,patf,patf,3,ISA_PATFisaPATF
+C1265932,C0020507,ISA,Focal hyperplasia,Hyperplasia,patf,patf,1,ISA_PATFisaPATF
+C1383860,C0030660,ISA,Cardiac Hypertrophy,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF
+C1527304,C0021368,ISA,Allergic Reaction,Inflammation,patf,patf,1,ISA_PATFisaPATF
+C1527304,C1155266,ISA,Allergic Reaction,inflammatory response,patf,patf,1,ISA_PATFisaPATF
+C2936490,C0018790,ISA,Out-of-Hospital Cardiac Arrest,Cardiac Arrest,patf,patf,1,ISA_PATFisaPATF
+C2937358,C0151699,ISA,Cerebral Hemorrhage,Intracranial Hemorrhages,patf,patf,1,ISA_PATFisaPATF
+C3203360,C3714514,ISA,Suppuration,Infection,patf,patf,1,ISA_PATFisaPATF
+C3714514,C0030660,ISA,Infection,Pathologic Processes,patf,patf,1,ISA_PATFisaPATF

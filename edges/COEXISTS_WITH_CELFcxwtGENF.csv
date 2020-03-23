@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0026882,COEXISTS_WITH,Autophagy,Mutation,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C0004391,C0162493,COEXISTS_WITH,Autophagy,Transcriptional Activation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0007595,C0017262,COEXISTS_WITH,cell growth,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0007613,C0040649,COEXISTS_WITH,Cell physiology,"Transcription, Genetic",celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C0026882,COEXISTS_WITH,Cytokinesis,Mutation,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C0598175,COEXISTS_WITH,Cytokinesis,Chromosome Segregation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C1158728,COEXISTS_WITH,Cytokinesis,RNA Processing,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C1514849,COEXISTS_WITH,Cytokinesis,Replication-Associated Process,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C1523645,COEXISTS_WITH,Cytokinesis,production of miRNAs involved in gene silencing by miRNA,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0010813,C2613185,COEXISTS_WITH,Cytokinesis,miRNA biogenesis,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0037083,C0162493,COEXISTS_WITH,Signal Transduction,Transcriptional Activation,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C0037083,C0598312,COEXISTS_WITH,Signal Transduction,DNA Replication,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0037083,C1519619,COEXISTS_WITH,Signal Transduction,Translational Repression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0085416,C0162493,COEXISTS_WITH,Respiratory Burst,Transcriptional Activation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0162638,C1158817,COEXISTS_WITH,Apoptosis,viral transcription,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0206431,C0017262,COEXISTS_WITH,Antigen Presentation,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0302167,C1158728,COEXISTS_WITH,capping,RNA Processing,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0302167,C1514849,COEXISTS_WITH,capping,Replication-Associated Process,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0596286,C0162493,COEXISTS_WITH,Cell Growth Regulation,Transcriptional Activation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0596290,C0012899,COEXISTS_WITH,Cell Proliferation,DNA Repair,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0596290,C0017262,COEXISTS_WITH,Cell Proliferation,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0596290,C0162493,COEXISTS_WITH,Cell Proliferation,Transcriptional Activation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0596873,C0040649,COEXISTS_WITH,lymphocyte proliferation,"Transcription, Genetic",celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C0598720,C0162493,COEXISTS_WITH,RNA Transport,Transcriptional Activation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155003,C0040649,COEXISTS_WITH,B-Cell Activation,"Transcription, Genetic",celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155080,C0017262,COEXISTS_WITH,T-helper 1 type immune response,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155229,C0017262,COEXISTS_WITH,Humoral immune response,Gene Expression,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C1155263,C0017262,COEXISTS_WITH,T-helper 2 type immune response,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155342,C1514849,COEXISTS_WITH,cellular response to unfolded protein,Replication-Associated Process,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155872,C0314611,COEXISTS_WITH,Cell Cycle Control,Gene type,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155874,C0012899,COEXISTS_WITH,Cell Cycle Checkpoints,DNA Repair,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1155874,C0598312,COEXISTS_WITH,Cell Cycle Checkpoints,DNA Replication,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1156309,C1171362,COEXISTS_WITH,syncytium formation by plasma membrane fusion,protein expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1157569,C1519613,COEXISTS_WITH,viral translation,Translation Initiation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1157569,C1519619,COEXISTS_WITH,viral translation,Translational Repression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1159946,C0017262,COEXISTS_WITH,macrophage differentiation,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1160700,C0017262,COEXISTS_WITH,viral gene expression,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1160700,C1158817,COEXISTS_WITH,viral gene expression,viral transcription,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1257986,C0015219,COEXISTS_WITH,Cross-Presentation,Biological Evolution,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1326169,C0017262,COEXISTS_WITH,microglial cell activation,Gene Expression,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1327414,C0040649,COEXISTS_WITH,cytokine secretion,"Transcription, Genetic",celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1516334,C1158530,COEXISTS_WITH,Cell Cycle Progression,Base Excision Repair,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C1516369,C1158816,COEXISTS_WITH,Cellular Infiltration,mRNA transcription,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C2244223,C0012899,COEXISTS_WITH,cellular homeostasis,DNA Repair,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C2244223,C0598312,COEXISTS_WITH,cellular homeostasis,DNA Replication,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C2244223,C1155299,COEXISTS_WITH,cellular homeostasis,Telomere Maintenance,celf,genf,2,COEXISTS_WITH_CELFcxwtGENF
+C2612422,C1511695,COEXISTS_WITH,bleb assembly,DNA Sequence Rearrangement,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C2612631,C0012899,COEXISTS_WITH,ribophagy,DNA Repair,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C2755756,C0017263,COEXISTS_WITH,cellular transcription,Gene Expression Regulation,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF
+C3158802,C1511695,COEXISTS_WITH,stress granule disassembly,DNA Sequence Rearrangement,celf,genf,1,COEXISTS_WITH_CELFcxwtGENF

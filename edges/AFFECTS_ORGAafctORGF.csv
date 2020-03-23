@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020969,C0014653,AFFECTS,"Immunity, Innate",Equilibrium,orga,orgf,1,AFFECTS_ORGAafctORGF
+C0020969,C0301872,AFFECTS,"Immunity, Innate",Immune response,orga,orgf,2,AFFECTS_ORGAafctORGF
+C1537068,C0025519,AFFECTS,Virus Internalization,Metabolism,orga,orgf,1,AFFECTS_ORGAafctORGF
+C1537068,C0042774,AFFECTS,Virus Internalization,Virus Replication,orga,orgf,3,AFFECTS_ORGAafctORGF
+C1537068,C0301872,AFFECTS,Virus Internalization,Immune response,orga,orgf,1,AFFECTS_ORGAafctORGF
+C1537068,C1155328,AFFECTS,Virus Internalization,Antiviral Response,orga,orgf,1,AFFECTS_ORGAafctORGF

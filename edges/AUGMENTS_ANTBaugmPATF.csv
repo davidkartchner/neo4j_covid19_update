@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0020517,AUGMENTS,Antibiotics,Hypersensitivity,antb,patf,1,AUGMENTS_ANTBaugmPATF
+C0003232,C3714514,AUGMENTS,Antibiotics,Infection,antb,patf,1,AUGMENTS_ANTBaugmPATF
+C0016610,C3714514,AUGMENTS,Fosfomycin,Infection,antb,patf,1,AUGMENTS_ANTBaugmPATF
+C0073987,C0020517,AUGMENTS,salinomycin,Hypersensitivity,antb,patf,2,AUGMENTS_ANTBaugmPATF

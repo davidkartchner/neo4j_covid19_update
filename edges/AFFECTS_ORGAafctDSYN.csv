@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020969,C0014378,AFFECTS,"Immunity, Innate",Enterovirus Infections,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0020969,C0019099,AFFECTS,"Immunity, Innate","Hemorrhagic Fever, Crimean",orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0020969,C1442786,AFFECTS,"Immunity, Innate",Acute respiratory tract infection,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0806140,C0004096,AFFECTS,Flow,Asthma,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0806140,C0376538,AFFECTS,Flow,Porcine Reproductive and Respiratory Syndrome,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0806140,C1175175,AFFECTS,Flow,Severe Acute Respiratory Syndrome,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0806140,C1535939,AFFECTS,Flow,Pneumocystis jiroveci pneumonia,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C0806140,C2936328,AFFECTS,Flow,Neglected Diseases,orga,dsyn,1,AFFECTS_ORGAafctDSYN
+C1537068,C0042749,AFFECTS,Virus Internalization,Viremia,orga,dsyn,3,AFFECTS_ORGAafctDSYN
+C1537068,C0042769,AFFECTS,Virus Internalization,Virus Diseases,orga,dsyn,4,AFFECTS_ORGAafctDSYN
+C1537068,C0276500,AFFECTS,Virus Internalization,Human immunodeficiency virus I infection,orga,dsyn,2,AFFECTS_ORGAafctDSYN
+C1537068,C1175175,AFFECTS,Virus Internalization,Severe Acute Respiratory Syndrome,orga,dsyn,1,AFFECTS_ORGAafctDSYN

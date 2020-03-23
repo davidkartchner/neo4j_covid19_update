@@ -1,0 +1,97 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0042774,COEXISTS_WITH,Alternative Splicing,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0012899,C0001811,COEXISTS_WITH,DNA Repair,Aging,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0012899,C0043240,COEXISTS_WITH,DNA Repair,Wound Healing,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0012899,C0085759,COEXISTS_WITH,DNA Repair,Biological Aging,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017255,C0301872,COEXISTS_WITH,Gene Activation,Immune response,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0017256,C0042774,COEXISTS_WITH,Gene Amplification,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0015895,COEXISTS_WITH,Gene Expression,Fertility,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0020966,COEXISTS_WITH,Gene Expression,Cellular Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0025519,COEXISTS_WITH,Gene Expression,Metabolism,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0026559,COEXISTS_WITH,Gene Expression,Morphogenesis,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0301872,COEXISTS_WITH,Gene Expression,Immune response,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0017262,C0560560,COEXISTS_WITH,Gene Expression,Moving,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0017263,C1136180,COEXISTS_WITH,Gene Expression Regulation,Disease Resistance,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0020202,C0006159,COEXISTS_WITH,Crossbreeding,Breeding,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0000934,COEXISTS_WITH,Mutation,Acclimatization,genf,orgf,7,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0005615,COEXISTS_WITH,Mutation,Birth,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0006159,COEXISTS_WITH,Mutation,Breeding,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0008810,COEXISTS_WITH,Mutation,Circadian Rhythms,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0025519,COEXISTS_WITH,Mutation,Metabolism,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0035150,COEXISTS_WITH,Mutation,Reproduction,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0042774,COEXISTS_WITH,Mutation,Virus Replication,genf,orgf,16,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0301872,COEXISTS_WITH,Mutation,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C0678723,COEXISTS_WITH,Mutation,Biologic Development,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C1154978,COEXISTS_WITH,Mutation,cold acclimation,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C1155328,COEXISTS_WITH,Mutation,Antiviral Response,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C1160185,COEXISTS_WITH,Mutation,transduction,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C1327413,COEXISTS_WITH,Mutation,cytokine production,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0026882,C1516559,COEXISTS_WITH,Mutation,Circulatory Process,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0032529,C0042774,COEXISTS_WITH,Genetic Polymorphism,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0032529,C0301872,COEXISTS_WITH,Genetic Polymorphism,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0034865,C0000934,COEXISTS_WITH,"Recombination, Genetic",Acclimatization,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0034865,C0020967,COEXISTS_WITH,"Recombination, Genetic",Humoral Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0034865,C0042774,COEXISTS_WITH,"Recombination, Genetic",Virus Replication,genf,orgf,3,COEXISTS_WITH_GENFcxwtORGF
+C0034865,C0301872,COEXISTS_WITH,"Recombination, Genetic",Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0034865,C1516559,COEXISTS_WITH,"Recombination, Genetic",Circulatory Process,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0036576,C0006159,COEXISTS_WITH,Genetic Selection,Breeding,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C0006147,COEXISTS_WITH,"Transcription, Genetic",Breast Feeding,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C0014653,COEXISTS_WITH,"Transcription, Genetic",Equilibrium,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C0018270,COEXISTS_WITH,"Transcription, Genetic",Growth,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C0042774,COEXISTS_WITH,"Transcription, Genetic",Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C1154988,COEXISTS_WITH,"Transcription, Genetic",defense response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C1155328,COEXISTS_WITH,"Transcription, Genetic",Antiviral Response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C1654934,COEXISTS_WITH,"Transcription, Genetic",Immune Evasion,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0040649,C1749719,COEXISTS_WITH,"Transcription, Genetic",Adaptive Immune Response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0162493,C0001811,COEXISTS_WITH,Transcriptional Activation,Aging,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0162493,C0042774,COEXISTS_WITH,Transcriptional Activation,Virus Replication,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0162493,C0301872,COEXISTS_WITH,Transcriptional Activation,Immune response,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0162493,C1516559,COEXISTS_WITH,Transcriptional Activation,Circulatory Process,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0162493,C3156975,COEXISTS_WITH,Transcriptional Activation,seedling development,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0206071,C0032961,COEXISTS_WITH,Immunoglobulin Class Switching,Pregnancy,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0206530,C0025519,COEXISTS_WITH,Germ-Line Mutation,Metabolism,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0282572,C0042774,COEXISTS_WITH,"Frameshifting, Ribosomal",Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0282572,C0678723,COEXISTS_WITH,"Frameshifting, Ribosomal",Biologic Development,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0314627,C0301872,COEXISTS_WITH,Gene function,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0525038,C0000934,COEXISTS_WITH,Amino Acid Substitution,Acclimatization,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0525038,C0042774,COEXISTS_WITH,Amino Acid Substitution,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0596611,C0000934,COEXISTS_WITH,Gene Mutation,Acclimatization,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0598314,C0014653,COEXISTS_WITH,replicator,Equilibrium,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0598496,C0005615,COEXISTS_WITH,Gene Silencing,Birth,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0598496,C1155328,COEXISTS_WITH,Gene Silencing,Antiviral Response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599155,C0000934,COEXISTS_WITH,Missense Mutation,Acclimatization,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599155,C0018270,COEXISTS_WITH,Missense Mutation,Growth,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599155,C0020967,COEXISTS_WITH,Missense Mutation,Humoral Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599155,C0678723,COEXISTS_WITH,Missense Mutation,Biologic Development,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599155,C1154978,COEXISTS_WITH,Missense Mutation,cold acclimation,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599773,C0018270,COEXISTS_WITH,Homologous Recombination,Growth,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0599773,C0042774,COEXISTS_WITH,Homologous Recombination,Virus Replication,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0678936,C0042774,COEXISTS_WITH,gene recombination,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0678939,C0042774,COEXISTS_WITH,spontaneous mutation,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0683231,C0678209,COEXISTS_WITH,mendelian inheritance,Adaptive Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0917892,C0018270,COEXISTS_WITH,Genetic Drift,Growth,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C0917892,C0021144,COEXISTS_WITH,Genetic Drift,Inbreeding,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C0917892,C0301872,COEXISTS_WITH,Genetic Drift,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1148756,C0001811,COEXISTS_WITH,telomerase activity,Aging,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1148846,C0042774,COEXISTS_WITH,RNA Binding,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1148846,C1155328,COEXISTS_WITH,RNA Binding,Antiviral Response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1152412,C0014653,COEXISTS_WITH,RNA-directed RNA polymerase activity,Equilibrium,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1152412,C0042774,COEXISTS_WITH,RNA-directed RNA polymerase activity,Virus Replication,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C1158817,C0020966,COEXISTS_WITH,viral transcription,Cellular Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1171362,C0013470,COEXISTS_WITH,protein expression,Eating,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1171362,C0018270,COEXISTS_WITH,protein expression,Growth,genf,orgf,3,COEXISTS_WITH_GENFcxwtORGF
+C1171362,C0043240,COEXISTS_WITH,protein expression,Wound Healing,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1511695,C0042774,COEXISTS_WITH,DNA Sequence Rearrangement,Virus Replication,genf,orgf,2,COEXISTS_WITH_GENFcxwtORGF
+C1511695,C0678723,COEXISTS_WITH,DNA Sequence Rearrangement,Biologic Development,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1512167,C0042774,COEXISTS_WITH,Ectopic Gene Expression,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1515670,C0020966,COEXISTS_WITH,mRNA Expression,Cellular Immunity,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1519323,C0042774,COEXISTS_WITH,Silent Mutation,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1519613,C0301872,COEXISTS_WITH,Translation Initiation,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1519619,C0699900,COEXISTS_WITH,Translational Repression,Catabolism,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1565556,C0042774,COEXISTS_WITH,Gene Flow,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C1622445,C0001811,COEXISTS_WITH,rRNA synthesis,Aging,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C2247938,C2584321,COEXISTS_WITH,RNA chaperone,Reaching,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C2257400,C0042774,COEXISTS_WITH,PB2 proteins,Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C2610186,C0042774,COEXISTS_WITH,"nuclear mRNA cis splicing, via spliceosome",Virus Replication,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C2610186,C0678723,COEXISTS_WITH,"nuclear mRNA cis splicing, via spliceosome",Biologic Development,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF
+C3537096,C0301872,COEXISTS_WITH,Translational Regulation,Immune response,genf,orgf,1,COEXISTS_WITH_GENFcxwtORGF

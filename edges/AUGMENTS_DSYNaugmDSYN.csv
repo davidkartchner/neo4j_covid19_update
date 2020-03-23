@@ -1,0 +1,157 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001175,C0027765,AUGMENTS,Acquired Immunodeficiency Syndrome,nervous system disorder,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0001175,C0029118,AUGMENTS,Acquired Immunodeficiency Syndrome,Opportunistic Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0001752,C0019087,AUGMENTS,African swine fever,Hemorrhagic Disorders,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0002878,C0042769,AUGMENTS,"Anemia, Hemolytic",Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0003723,C0178238,AUGMENTS,Arbovirus Infections,Intestinal infectious disease (disorder),dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0003850,C0028754,AUGMENTS,Arteriosclerosis,Obesity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0003850,C1096155,AUGMENTS,Arteriosclerosis,Macrophage Activation Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004031,C0006267,AUGMENTS,"Aspergillosis, Allergic Bronchopulmonary",Bronchiectasis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004096,C0004364,AUGMENTS,Asthma,Autoimmune Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004096,C0042769,AUGMENTS,Asthma,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004096,C3662483,AUGMENTS,Asthma,Allergic sensitization,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004364,C0028754,AUGMENTS,Autoimmune Diseases,Obesity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004364,C0878544,AUGMENTS,Autoimmune Diseases,Cardiomyopathies,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004610,C0018482,AUGMENTS,Bacteremia,Haemophilus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004623,C0042769,AUGMENTS,Bacterial Infections,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0004626,C0748168,AUGMENTS,"Pneumonia, Bacterial",Pulmonary Pathology,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0006267,C0030293,AUGMENTS,Bronchiectasis,Pancreatic Insufficiency,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0006267,C0035243,AUGMENTS,Bronchiectasis,Respiratory Tract Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0007222,C0028754,AUGMENTS,Cardiovascular Diseases,Obesity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0007682,C0442886,AUGMENTS,CNS disorder,Secondary Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0008679,C0007222,AUGMENTS,Chronic disease,Cardiovascular Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0009450,C0021400,AUGMENTS,Communicable Diseases,Influenza,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0009450,C4505065,AUGMENTS,Communicable Diseases,Noncommunicable Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0010823,C0021051,AUGMENTS,Cytomegalovirus Infections,Immunologic Deficiency Syndromes,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0011847,C0043541,AUGMENTS,Diabetes,Zygomycosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0011860,C0028754,AUGMENTS,"Diabetes Mellitus, Non-Insulin-Dependent",Obesity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0012922,C0035690,AUGMENTS,DNA Virus Infections,RNA Virus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0015674,C0004364,AUGMENTS,Chronic Fatigue Syndrome,Autoimmune Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0018081,C0036916,AUGMENTS,Gonorrhea,Sexually Transmitted Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0018801,C1096155,AUGMENTS,Heart failure,Macrophage Activation Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0019100,C0042769,AUGMENTS,Severe Dengue,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0019100,C0442886,AUGMENTS,Severe Dengue,Secondary Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0019243,C0275524,AUGMENTS,"Angioedemas, Hereditary",Coinfection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0019348,C0276500,AUGMENTS,Herpes Simplex Infections,Human immunodeficiency virus I infection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0019693,C1619738,AUGMENTS,HIV Infections,Immune Reconstitution Inflammatory Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0020255,C0018378,AUGMENTS,Hydrocephalus,Guillain-Barre Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0020538,C1096155,AUGMENTS,Hypertensive disease,Macrophage Activation Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0021400,C0275524,AUGMENTS,Influenza,Coinfection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0021400,C0442886,AUGMENTS,Influenza,Secondary Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0021400,C1175175,AUGMENTS,Influenza,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0021400,C2062441,AUGMENTS,Influenza,Influenza A,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0021832,C3160718,AUGMENTS,"Intestinal Diseases, Parasitic","PARKINSON DISEASE, LATE-ONSET",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0022521,C0033036,AUGMENTS,Kartagener Syndrome,Atrial Premature Complexes,dsyn,dsyn,2,AUGMENTS_DSYNaugmDSYN
+C0023281,C1561643,AUGMENTS,Leishmaniasis,Chronic Kidney Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0024115,C3711368,AUGMENTS,Lung diseases,Surfactant Dysfunction,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0024291,C0029118,AUGMENTS,"Lymphohistiocytosis, Hemophagocytic",Opportunistic Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0024530,C0042769,AUGMENTS,Malaria,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0024530,C0178238,AUGMENTS,Malaria,Intestinal infectious disease (disorder),dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0024530,C0743841,AUGMENTS,Malaria,Disorder characterized by fever,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0026769,C0751967,AUGMENTS,Multiple Sclerosis,"Multiple Sclerosis, Relapsing-Remitting",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0027051,C0340279,AUGMENTS,Myocardial Infarction,Ventricular hypertrophy,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0027697,C0442886,AUGMENTS,Nephritis,Secondary Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0028754,C0008679,AUGMENTS,Obesity,Chronic disease,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0029118,C0001175,AUGMENTS,Opportunistic Infections,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0030499,C4505350,AUGMENTS,Parasitic Diseases,"Communicable Diseases, Imported",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0032051,C0018378,AUGMENTS,Placental Insufficiency,Guillain-Barre Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0032064,C0524688,AUGMENTS,Plague,Pneumonic Plague,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0032285,C0003864,AUGMENTS,Pneumonia,Arthritis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0032285,C0035222,AUGMENTS,Pneumonia,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0033036,C0042769,AUGMENTS,Atrial Premature Complexes,Virus Diseases,dsyn,dsyn,2,AUGMENTS_DSYNaugmDSYN
+C0033036,C0276500,AUGMENTS,Atrial Premature Complexes,Human immunodeficiency virus I infection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0034152,C0003864,AUGMENTS,Henoch-Schoenlein Purpura,Arthritis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0034152,C0022658,AUGMENTS,Henoch-Schoenlein Purpura,Kidney Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0034152,C0034150,AUGMENTS,Henoch-Schoenlein Purpura,Purpura,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035222,C0034063,AUGMENTS,"Respiratory Distress Syndrome, Adult",Pulmonary Edema,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035222,C0242852,AUGMENTS,"Respiratory Distress Syndrome, Adult",Proliferative vitreoretinopathy,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035235,C0004096,AUGMENTS,Respiratory Syncytial Virus Infections,Asthma,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035235,C0006271,AUGMENTS,Respiratory Syncytial Virus Infections,Bronchiolitis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035235,C0032285,AUGMENTS,Respiratory Syncytial Virus Infections,Pneumonia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035235,C0275524,AUGMENTS,Respiratory Syncytial Virus Infections,Coinfection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035235,C0376538,AUGMENTS,Respiratory Syncytial Virus Infections,Porcine Reproductive and Respiratory Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035243,C0009450,AUGMENTS,Respiratory Tract Infections,Communicable Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035243,C3863587,AUGMENTS,Respiratory Tract Infections,enterovirus d68 infection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0035369,C0002871,AUGMENTS,Retroviridae Infections,Anemia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0036690,C0265224,AUGMENTS,Septicemia,Freeman-Sheldon syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0036916,C0039128,AUGMENTS,Sexually Transmitted Diseases,Syphilis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0037199,C0035243,AUGMENTS,Sinusitis,Respiratory Tract Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0039128,C0018081,AUGMENTS,Syphilis,Gonorrhea,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0040558,C0238472,AUGMENTS,Toxoplasmosis,"TOXOPLASMOSIS, CHRONIC",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0040954,C0002871,AUGMENTS,Infection by Trichuris trichiura,Anemia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0041912,C0011854,AUGMENTS,Upper Respiratory Infections,"Diabetes Mellitus, Insulin-Dependent",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042384,C0027765,AUGMENTS,Vasculitis,nervous system disorder,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0004364,AUGMENTS,Virus Diseases,Autoimmune Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0009450,AUGMENTS,Virus Diseases,Communicable Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0021053,AUGMENTS,Virus Diseases,Immune System Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0029118,AUGMENTS,Virus Diseases,Opportunistic Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0151317,AUGMENTS,Virus Diseases,Chronic infectious disease,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0275524,AUGMENTS,Virus Diseases,Coinfection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0276500,AUGMENTS,Virus Diseases,Human immunodeficiency virus I infection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0339901,AUGMENTS,Virus Diseases,Acute respiratory infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0740304,AUGMENTS,Virus Diseases,copd exacerbation,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C0796195,AUGMENTS,Virus Diseases,Waisman syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042769,C1868677,AUGMENTS,Virus Diseases,PHOTOPAROXYSMAL RESPONSE 1,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0042842,C0041296,AUGMENTS,Vitamin A Deficiency,Tuberculosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0043395,C0042769,AUGMENTS,Yellow Fever,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0043528,C0006309,AUGMENTS,Zoonoses,Brucellosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0085293,C0009450,AUGMENTS,Hepatitis E,Communicable Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0149725,C3662483,AUGMENTS,Lower respiratory tract infection,Allergic sensitization,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0151317,C1519680,AUGMENTS,Chronic infectious disease,Tumor Immunity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0206525,C0041296,AUGMENTS,"Tuberculosis, Drug-Resistant",Tuberculosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0206525,C0497169,AUGMENTS,"Tuberculosis, Drug-Resistant",hiv-infection/aids,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0206613,C0001175,AUGMENTS,Paramyxoviridae Infections,Acquired Immunodeficiency Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0206750,C0042769,AUGMENTS,Coronavirus Infections,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0206750,C0205721,AUGMENTS,Coronavirus Infections,"Infections, Hospital",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0242966,C0036690,AUGMENTS,Systemic Inflammatory Response Syndrome,Septicemia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0242966,C0265224,AUGMENTS,Systemic Inflammatory Response Syndrome,Freeman-Sheldon syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0267792,C0019189,AUGMENTS,hepatobiliary disease,"Hepatitis, Chronic",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0271468,C0029883,AUGMENTS,Eustachian tube disorder,Otitis Media with Effusion,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0272285,C0042769,AUGMENTS,Heparin-induced thrombocytopenia,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275518,C0151317,AUGMENTS,Acute infectious disease,Chronic infectious disease,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C0017160,AUGMENTS,Coinfection,Gastroenteritis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C0024115,AUGMENTS,Coinfection,Lung diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C0035204,AUGMENTS,Coinfection,Respiration Disorders,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C0035243,AUGMENTS,Coinfection,Respiratory Tract Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C0376550,AUGMENTS,Coinfection,Astroviridae Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0275524,C1175175,AUGMENTS,Coinfection,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0276289,C0018378,AUGMENTS,Zika Virus Infection,Guillain-Barre Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0276447,C0851901,AUGMENTS,Rhinovirus infection,Rhinovirus infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0276500,C0042769,AUGMENTS,Human immunodeficiency virus I infection,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0276832,C0024530,AUGMENTS,Congenital malaria,Malaria,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0282687,C0027765,AUGMENTS,"Hemorrhagic Fever, Ebola",nervous system disorder,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0341439,C0023896,AUGMENTS,Chronic liver disease,Alcoholic Liver Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0343752,C0042749,AUGMENTS,Acute HIV infection,Viremia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0376300,C0042769,AUGMENTS,Dengue Shock Syndrome,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0398686,C0035243,AUGMENTS,Primary immune deficiency disorder,Respiratory Tract Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0442886,C0004364,AUGMENTS,Secondary Infections,Autoimmune Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0442886,C0034063,AUGMENTS,Secondary Infections,Pulmonary Edema,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0442886,C0206608,AUGMENTS,Secondary Infections,Flavivirus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0442886,C0521839,AUGMENTS,Secondary Infections,Influenza-like illness,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0442886,C0751871,AUGMENTS,Secondary Infections,Autoimmune Diseases of the Nervous System,dsyn,dsyn,2,AUGMENTS_DSYNaugmDSYN
+C0442886,C1290886,AUGMENTS,Secondary Infections,Chronic inflammatory disorder,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0559470,C0344183,AUGMENTS,Allergy to peanuts,Exercise anaphylaxis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0679225,C0002726,AUGMENTS,multiple pathologies,Amyloidosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0742035,C0029408,AUGMENTS,Cerebellar lesions,Degenerative polyarthritis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0748412,C0004623,AUGMENTS,rhinitis viral,Bacterial Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0796085,C2676739,AUGMENTS,Nance-Horan syndrome,Chromosome 2q32-Q33 Deletion Syndrome,dsyn,dsyn,8,AUGMENTS_DSYNaugmDSYN
+C0872054,C0206526,AUGMENTS,latent infection,"Tuberculosis, Multidrug-Resistant",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C0876973,C0746883,AUGMENTS,Infectious disease of lung,Febrile Neutropenia,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1175175,C0748168,AUGMENTS,Severe Acute Respiratory Syndrome,Pulmonary Pathology,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1290807,C0041296,AUGMENTS,Diarrheal disorder,Tuberculosis,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1301752,C0149725,AUGMENTS,Respiratory morbidity,Lower respiratory tract infection,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1535917,C0042769,AUGMENTS,Nipah Virus Infection,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1535917,C1258039,AUGMENTS,Nipah Virus Infection,Henipavirus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1561643,C0042373,AUGMENTS,Chronic Kidney Diseases,Vascular Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1619738,C0023524,AUGMENTS,Immune Reconstitution Inflammatory Syndrome,"Leukoencephalopathy, Progressive Multifocal",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1698484,C0004364,AUGMENTS,Mucosal Infection,Autoimmune Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1698484,C0015674,AUGMENTS,Mucosal Infection,Chronic Fatigue Syndrome,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C1854469,C0035235,AUGMENTS,Noonan Syndrome 2,Respiratory Syncytial Virus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C2930474,C0009450,AUGMENTS,"Communicable Diseases, Reemerging",Communicable Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C3669463,C0042769,AUGMENTS,Feline immunodeficiency virus infection,Virus Diseases,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C3694279,C0206750,AUGMENTS,Middle East Respiratory Syndrome,Coronavirus Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C3694279,C0442886,AUGMENTS,Middle East Respiratory Syndrome,Secondary Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C3714534,C3888198,AUGMENTS,dowling-degos disease,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C3888198,C3714534,AUGMENTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",dowling-degos disease,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C4085595,C0035112,AUGMENTS,AL-RAQAD SYNDROME,Reoviridae Infections,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN
+C4529962,C0028754,AUGMENTS,Fatty Liver Disease,Obesity,dsyn,dsyn,1,AUGMENTS_DSYNaugmDSYN

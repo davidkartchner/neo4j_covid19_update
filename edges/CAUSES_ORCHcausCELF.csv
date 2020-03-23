@@ -1,0 +1,292 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000983,C0162638,CAUSES,Acetic Acid,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0001977,C1156246,CAUSES,Butanols,filamentous growth,orch,celf,3,CAUSES_ORCHcausCELF
+C0002062,C0007587,CAUSES,Alkaloids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0002062,C0162638,CAUSES,Alkaloids,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0002062,C1326207,CAUSES,Alkaloids,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0003174,C1326207,CAUSES,Anthraquinones,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0003968,C0085416,CAUSES,Ascorbic Acid,Respiratory Burst,orch,celf,1,CAUSES_ORCHcausCELF
+C0005117,C0004391,CAUSES,Berberine,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C0005117,C0162638,CAUSES,Berberine,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0005117,C1326207,CAUSES,Berberine,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0006521,C0162638,CAUSES,Butyrates,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0006812,C0007587,CAUSES,Camptothecin,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0006812,C0162638,CAUSES,Camptothecin,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0006945,C0008018,CAUSES,Carbachol,Chemotaxis,orch,celf,1,CAUSES_ORCHcausCELF
+C0006945,C0031308,CAUSES,Carbachol,Phagocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0006949,C0004391,CAUSES,Carbamazepine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0007004,C0162638,CAUSES,Carbohydrates,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0007068,C0302122,CAUSES,Carboxymethylcellulose,Leukocytic migration,orch,celf,1,CAUSES_ORCHcausCELF
+C0007068,C1326500,CAUSES,Carboxymethylcellulose,Leukocyte Trafficking,orch,celf,1,CAUSES_ORCHcausCELF
+C0007158,C0037083,CAUSES,Cardiac Glycosides,Signal Transduction,orch,celf,2,CAUSES_ORCHcausCELF
+C0008269,C0004391,CAUSES,Chloroquine,Autophagy,orch,celf,3,CAUSES_ORCHcausCELF
+C0008269,C0162638,CAUSES,Chloroquine,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0010460,C0162638,CAUSES,Cuprizone,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0010460,C0596991,CAUSES,Cuprizone,myelination,orch,celf,1,CAUSES_ORCHcausCELF
+C0010467,C0004391,CAUSES,Curcumin,Autophagy,orch,celf,3,CAUSES_ORCHcausCELF
+C0010467,C0162638,CAUSES,Curcumin,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0010467,C1155873,CAUSES,Curcumin,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0011816,C0162638,CAUSES,Dextromethorphan,Apoptosis,orch,celf,15,CAUSES_ORCHcausCELF
+C0012789,C0010813,CAUSES,Dithiothreitol,Cytokinesis,orch,celf,1,CAUSES_ORCHcausCELF
+C0012789,C1155342,CAUSES,Dithiothreitol,cellular response to unfolded protein,orch,celf,1,CAUSES_ORCHcausCELF
+C0013974,C0007587,CAUSES,Emetine,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0015133,C0007587,CAUSES,Etoposide,Cell Death,orch,celf,2,CAUSES_ORCHcausCELF
+C0015133,C0162638,CAUSES,Etoposide,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0015133,C1155873,CAUSES,Etoposide,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0015688,C0004391,CAUSES,Nonesterified Fatty Acids,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0015688,C0007587,CAUSES,Nonesterified Fatty Acids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0016365,C0004391,CAUSES,Fluoxetine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0016979,C0007587,CAUSES,Gallic acid,Cell Death,orch,celf,3,CAUSES_ORCHcausCELF
+C0016979,C0162638,CAUSES,Gallic acid,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0017696,C0007613,CAUSES,Glucans,Cell physiology,orch,celf,1,CAUSES_ORCHcausCELF
+C0017986,C0162638,CAUSES,Glycyrrhetinic acid,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0017986,C3156667,CAUSES,Glycyrrhetinic acid,interleukin-8 secretion,orch,celf,2,CAUSES_ORCHcausCELF
+C0017986,C3158983,CAUSES,Glycyrrhetinic acid,mitochondrial permeability transition,orch,celf,1,CAUSES_ORCHcausCELF
+C0020336,C0004391,CAUSES,Hydroxychloroquine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0020336,C0162638,CAUSES,Hydroxychloroquine,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0020789,C0007620,CAUSES,Idarubicin,Cell Survival,orch,celf,1,CAUSES_ORCHcausCELF
+C0022020,C0004391,CAUSES,Ionomycin,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0022020,C1155065,CAUSES,Ionomycin,T-Cell Activation,orch,celf,1,CAUSES_ORCHcausCELF
+C0022115,C0007587,CAUSES,Isatin,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0022245,C1326347,CAUSES,Isoproterenol,fibroblast proliferation,orch,celf,1,CAUSES_ORCHcausCELF
+C0023779,C0004391,CAUSES,Lipids,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C0023779,C0007587,CAUSES,Lipids,Cell Death,orch,celf,6,CAUSES_ORCHcausCELF
+C0023779,C0014139,CAUSES,Lipids,Endocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023779,C0162638,CAUSES,Lipids,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0023779,C2610414,CAUSES,Lipids,transdifferentiation,orch,celf,2,CAUSES_ORCHcausCELF
+C0023779,C4326906,CAUSES,Lipids,membrane curvature,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C0004391,CAUSES,Lipopolysaccharides,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C0007587,CAUSES,Lipopolysaccharides,Cell Death,orch,celf,8,CAUSES_ORCHcausCELF
+C0023810,C0010813,CAUSES,Lipopolysaccharides,Cytokinesis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C0024426,CAUSES,Lipopolysaccharides,Macrophage Activation,orch,celf,6,CAUSES_ORCHcausCELF
+C0023810,C0031308,CAUSES,Lipopolysaccharides,Phagocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C0037083,CAUSES,Lipopolysaccharides,Signal Transduction,orch,celf,2,CAUSES_ORCHcausCELF
+C0023810,C0162638,CAUSES,Lipopolysaccharides,Apoptosis,orch,celf,19,CAUSES_ORCHcausCELF
+C0023810,C0596873,CAUSES,Lipopolysaccharides,lymphocyte proliferation,orch,celf,2,CAUSES_ORCHcausCELF
+C0023810,C1136143,CAUSES,Lipopolysaccharides,Leukocyte Rolling,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1154580,CAUSES,Lipopolysaccharides,chemokinesis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1155008,CAUSES,Lipopolysaccharides,b-cell proliferation,orch,celf,3,CAUSES_ORCHcausCELF
+C0023810,C1155065,CAUSES,Lipopolysaccharides,T-Cell Activation,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1155873,CAUSES,Lipopolysaccharides,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1326120,CAUSES,Lipopolysaccharides,cell activation,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1326121,CAUSES,Lipopolysaccharides,astrocyte activation,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1326500,CAUSES,Lipopolysaccharides,Leukocyte Trafficking,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C1327414,CAUSES,Lipopolysaccharides,cytokine secretion,orch,celf,2,CAUSES_ORCHcausCELF
+C0023810,C2610960,CAUSES,Lipopolysaccharides,Pyroptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023810,C3156669,CAUSES,Lipopolysaccharides,interleukin-10 secretion,orch,celf,3,CAUSES_ORCHcausCELF
+C0023828,C0004391,CAUSES,Liposomes,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0023828,C0014139,CAUSES,Liposomes,Endocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0023828,C1257986,CAUSES,Liposomes,Cross-Presentation,orch,celf,1,CAUSES_ORCHcausCELF
+C0023992,C0004391,CAUSES,Loperamide,Autophagy,orch,celf,4,CAUSES_ORCHcausCELF
+C0023992,C0007587,CAUSES,Loperamide,Cell Death,orch,celf,9,CAUSES_ORCHcausCELF
+C0023992,C1326207,CAUSES,Loperamide,"Programmed Cell Death, Type II",orch,celf,3,CAUSES_ORCHcausCELF
+C0024027,C0162638,CAUSES,Lovastatin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0024360,C0008018,CAUSES,Lysophosphatidylcholines,Chemotaxis,orch,celf,1,CAUSES_ORCHcausCELF
+C0025249,C0007587,CAUSES,Membrane Lipids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0025402,C1159946,CAUSES,2-Mercaptoethanol,macrophage differentiation,orch,celf,1,CAUSES_ORCHcausCELF
+C0025598,C0162638,CAUSES,Metformin,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0028247,C0004391,CAUSES,Nocodazole,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0028247,C0544888,CAUSES,Nocodazole,Mitotic arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0028247,C1155873,CAUSES,Nocodazole,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0028959,C0031308,CAUSES,Oligosaccharides,Phagocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0029904,C2611812,CAUSES,Ouabain,signaling cascade,orch,celf,3,CAUSES_ORCHcausCELF
+C0029904,C3156642,CAUSES,Ouabain,clathrin-dependent endocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0030125,C0004391,CAUSES,aminosalicylic acid,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0031623,C0162638,CAUSES,Phosphatidylserines,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0031935,C0004391,CAUSES,Pimozide,Autophagy,orch,celf,4,CAUSES_ORCHcausCELF
+C0031935,C0007587,CAUSES,Pimozide,Cell Death,orch,celf,9,CAUSES_ORCHcausCELF
+C0031935,C1326207,CAUSES,Pimozide,"Programmed Cell Death, Type II",orch,celf,3,CAUSES_ORCHcausCELF
+C0032433,C0007587,CAUSES,Polyamines,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0032594,C0003272,CAUSES,Polysaccharides,Antibody-Dependent Cellular Cytotoxicity,orch,celf,1,CAUSES_ORCHcausCELF
+C0032594,C0007587,CAUSES,Polysaccharides,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0032594,C0162638,CAUSES,Polysaccharides,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0034266,C0004391,CAUSES,Pyridoxal Phosphate,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0034266,C0007595,CAUSES,Pyridoxal Phosphate,cell growth,orch,celf,1,CAUSES_ORCHcausCELF
+C0034266,C0037083,CAUSES,Pyridoxal Phosphate,Signal Transduction,orch,celf,1,CAUSES_ORCHcausCELF
+C0034392,C0007595,CAUSES,Quercetin,cell growth,orch,celf,1,CAUSES_ORCHcausCELF
+C0034392,C0007620,CAUSES,Quercetin,Cell Survival,orch,celf,1,CAUSES_ORCHcausCELF
+C0034392,C0162638,CAUSES,Quercetin,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0034392,C1327414,CAUSES,Quercetin,cytokine secretion,orch,celf,1,CAUSES_ORCHcausCELF
+C0036189,C0162638,CAUSES,Saponins,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0036311,C1816453,CAUSES,Schiff Bases,membrane depolarization,orch,celf,1,CAUSES_ORCHcausCELF
+C0037025,C0007582,CAUSES,Sialic Acids,Cell Communication,orch,celf,1,CAUSES_ORCHcausCELF
+C0037025,C0007587,CAUSES,Sialic Acids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0037487,C1326500,CAUSES,Carboxymethylcellulose Sodium,Leukocyte Trafficking,orch,celf,1,CAUSES_ORCHcausCELF
+C0037556,C0162638,CAUSES,Sodium Tetradecyl Sulfate,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0037900,C0004391,CAUSES,Sphingolipids,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0037900,C0162638,CAUSES,Sphingolipids,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0038317,C0007587,CAUSES,Steroids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0038317,C0162638,CAUSES,Steroids,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0039286,C0004391,CAUSES,Tamoxifen,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0039286,C0162638,CAUSES,Tamoxifen,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0039286,C1523908,CAUSES,Tamoxifen,apoptotic cell clearance,orch,celf,1,CAUSES_ORCHcausCELF
+C0040207,C0007587,CAUSES,Ticlopidine,Cell Death,orch,celf,2,CAUSES_ORCHcausCELF
+C0040845,C0037083,CAUSES,Tretinoin,Signal Transduction,orch,celf,1,CAUSES_ORCHcausCELF
+C0040845,C1622499,CAUSES,Tretinoin,Myeloid Cell Differentiation,orch,celf,1,CAUSES_ORCHcausCELF
+C0042672,C0162638,CAUSES,Vinca Alkaloids,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0045137,C1326207,CAUSES,isoliquiritigenin,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0048701,C1326154,CAUSES,4-S-(propionic acid)sulfidocyclophosphamide,natural killer cell proliferation,orch,celf,1,CAUSES_ORCHcausCELF
+C0052573,C0004391,CAUSES,astragalin,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0052919,C0004391,CAUSES,bafilomycin A1,Autophagy,orch,celf,3,CAUSES_ORCHcausCELF
+C0052927,C0162638,CAUSES,baicalein,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0052929,C0004391,CAUSES,baicalin,Autophagy,orch,celf,4,CAUSES_ORCHcausCELF
+C0054205,C1326207,CAUSES,bufalin,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0056143,C1155873,CAUSES,columbamine,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0056580,C0004391,CAUSES,cucurbitacin B,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0056608,C1327414,CAUSES,curdlan,cytokine secretion,orch,celf,1,CAUSES_ORCHcausCELF
+C0058330,C0004391,CAUSES,dioscin,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0058330,C0162638,CAUSES,dioscin,Apoptosis,orch,celf,4,CAUSES_ORCHcausCELF
+C0059438,C0037083,CAUSES,epigallocatechin gallate,Signal Transduction,orch,celf,1,CAUSES_ORCHcausCELF
+C0059438,C0162638,CAUSES,epigallocatechin gallate,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0061267,C0007587,CAUSES,gingerol,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0061275,C0162638,CAUSES,ginsenoside Rh2,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0061751,C0007589,CAUSES,Glycyrrhizic Acid,Cell Differentiation process,orch,celf,1,CAUSES_ORCHcausCELF
+C0061751,C0162638,CAUSES,Glycyrrhizic Acid,Apoptosis,orch,celf,3,CAUSES_ORCHcausCELF
+C0065036,C0162638,CAUSES,lipid-linked oligosaccharides,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0065655,C3156667,CAUSES,mangostin,interleukin-8 secretion,orch,celf,1,CAUSES_ORCHcausCELF
+C0065751,C1326207,CAUSES,matrine,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0066772,C0162638,CAUSES,lysophosphatidic acid,Apoptosis,orch,celf,4,CAUSES_ORCHcausCELF
+C0067067,C0007587,CAUSES,myricetin,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0067067,C0162638,CAUSES,myricetin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0067068,C0007587,CAUSES,myricitrin,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0067068,C0596290,CAUSES,myricitrin,Cell Proliferation,orch,celf,1,CAUSES_ORCHcausCELF
+C0068788,C0162638,CAUSES,nitazoxanide,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0070066,C0007588,CAUSES,paraform,Cell Degranulation,orch,celf,1,CAUSES_ORCHcausCELF
+C0070621,C0004391,CAUSES,phenylacetic dipalmitate,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0070797,C0004391,CAUSES,phosphatidylinositol 3-phosphate,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0070799,C1326236,CAUSES,phosphatidylinositol 4-phosphate,filopodium assembly,orch,celf,1,CAUSES_ORCHcausCELF
+C0071286,C0004391,CAUSES,plumbagin,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0071599,C1257986,CAUSES,polylactic acid-polyglycolic acid copolymer,Cross-Presentation,orch,celf,1,CAUSES_ORCHcausCELF
+C0071649,C0007586,CAUSES,polyphenols,Cell Cycle,orch,celf,1,CAUSES_ORCHcausCELF
+C0071649,C0162638,CAUSES,polyphenols,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0071986,C0085416,CAUSES,pristane,Respiratory Burst,orch,celf,1,CAUSES_ORCHcausCELF
+C0073096,C0004391,CAUSES,resveratrol,Autophagy,orch,celf,4,CAUSES_ORCHcausCELF
+C0073096,C0007587,CAUSES,resveratrol,Cell Death,orch,celf,3,CAUSES_ORCHcausCELF
+C0073591,C0004391,CAUSES,rosoxacin,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0073591,C0007586,CAUSES,rosoxacin,Cell Cycle,orch,celf,1,CAUSES_ORCHcausCELF
+C0073591,C0007587,CAUSES,rosoxacin,Cell Death,orch,celf,9,CAUSES_ORCHcausCELF
+C0073591,C0024426,CAUSES,rosoxacin,Macrophage Activation,orch,celf,2,CAUSES_ORCHcausCELF
+C0073591,C0037083,CAUSES,rosoxacin,Signal Transduction,orch,celf,1,CAUSES_ORCHcausCELF
+C0073591,C0162638,CAUSES,rosoxacin,Apoptosis,orch,celf,14,CAUSES_ORCHcausCELF
+C0073591,C3158761,CAUSES,rosoxacin,extracellular calcium influx,orch,celf,1,CAUSES_ORCHcausCELF
+C0073959,C0004391,CAUSES,saikosaponin,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C0073959,C0007587,CAUSES,saikosaponin,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0073959,C0162638,CAUSES,saikosaponin,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0074455,C0162638,CAUSES,shikonin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0074992,C0008018,CAUSES,sphingosine 1-phosphate,Chemotaxis,orch,celf,2,CAUSES_ORCHcausCELF
+C0075193,C0010813,CAUSES,Staurosporine,Cytokinesis,orch,celf,2,CAUSES_ORCHcausCELF
+C0075193,C0162638,CAUSES,Staurosporine,Apoptosis,orch,celf,7,CAUSES_ORCHcausCELF
+C0076080,C0162638,CAUSES,temozolomide,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C0076316,C0004391,CAUSES,tetrandrine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0076836,C0004391,CAUSES,Toremifene,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0077524,C0162638,CAUSES,Turmeric extract,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0078375,C0004391,CAUSES,alpha-Tocopherol Succinate,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C0078503,C0162638,CAUSES,withaferin A,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0080356,C0004391,CAUSES,Valproate,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0082514,C0004391,CAUSES,evodiamine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0082514,C0162638,CAUSES,evodiamine,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0082514,C1326207,CAUSES,evodiamine,"Programmed Cell Death, Type II",orch,celf,2,CAUSES_ORCHcausCELF
+C0082608,C1659465,CAUSES,fluvastatin,retention within cell,orch,celf,1,CAUSES_ORCHcausCELF
+C0084866,C0004391,CAUSES,tripterine,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0085196,C2754100,CAUSES,Oxidopamine,neuron death,orch,celf,1,CAUSES_ORCHcausCELF
+C0104120,C0014139,CAUSES,argininic acid,Endocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0114346,C1155872,CAUSES,Dimesna,Cell Cycle Control,orch,celf,1,CAUSES_ORCHcausCELF
+C0114346,C1155873,CAUSES,Dimesna,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0125821,C1326207,CAUSES,licochalcone A,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0144576,C0162638,CAUSES,Paclitaxel,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0162357,C0162638,CAUSES,Clodronate,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0163305,C0007587,CAUSES,pyrrolidine dithiocarbamate,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0163305,C0162638,CAUSES,pyrrolidine dithiocarbamate,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0215136,C0007587,CAUSES,taxane,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0246415,C0162638,CAUSES,docetaxel,Apoptosis,orch,celf,5,CAUSES_ORCHcausCELF
+C0251673,C0162638,CAUSES,rottlerin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0251673,C1326207,CAUSES,rottlerin,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0251991,C0162638,CAUSES,LY 294002,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0280509,C1817908,CAUSES,brequinar,Cellular Immune Response,orch,celf,1,CAUSES_ORCHcausCELF
+C0359916,C0007587,CAUSES,Phenolics,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0377261,C0162638,CAUSES,saikosaponin A,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0378785,C0162638,CAUSES,"3,5-diisopropylsalicylic acid",Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0531640,C0004391,CAUSES,cucurbitacin E,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0533115,C0162638,CAUSES,1-(3-C-ethynylribopentofuranosyl)cytosine,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0533596,C0162638,CAUSES,pinoresinol,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0596577,C0007587,CAUSES,Flavonoids,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0603200,C1518147,CAUSES,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione",Negative Regulation of Mitosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0630889,C0004391,CAUSES,gambogic acid,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C0630889,C0162638,CAUSES,gambogic acid,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0637815,C0162638,CAUSES,eckol,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0640001,C0007587,CAUSES,bicyclo(2.2.1)hept-5-en-2-yl phenyl sulfoxide,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0664589,C0014139,CAUSES,glabridin,Endocytosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0664589,C0162638,CAUSES,glabridin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0664965,C0004391,CAUSES,pterostilbene,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0678133,C0162638,CAUSES,Taxol,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0723179,C0004391,CAUSES,SSD,Autophagy,orch,celf,3,CAUSES_ORCHcausCELF
+C0723179,C0162638,CAUSES,SSD,Apoptosis,orch,celf,5,CAUSES_ORCHcausCELF
+C0723179,C1155873,CAUSES,SSD,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0723179,C1326207,CAUSES,SSD,"Programmed Cell Death, Type II",orch,celf,2,CAUSES_ORCHcausCELF
+C0723179,C1516334,CAUSES,SSD,Cell Cycle Progression,orch,celf,1,CAUSES_ORCHcausCELF
+C0723179,C3178834,CAUSES,SSD,G1 Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C0755562,C0162638,CAUSES,U 0126,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0756158,C0178666,CAUSES,corosolic acid,glucose transport,orch,celf,1,CAUSES_ORCHcausCELF
+C0761221,C0007587,CAUSES,polyethylbutylcyanoacrylate,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C0761221,C4236737,CAUSES,polyethylbutylcyanoacrylate,ferroptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0766510,C0004391,CAUSES,dihydroxy-vitamin D3,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C0772037,C0007620,CAUSES,ROSE HIPS,Cell Survival,orch,celf,1,CAUSES_ORCHcausCELF
+C0887557,C1159974,CAUSES,Sodium Ascorbate,osteoblast differentiation,orch,celf,1,CAUSES_ORCHcausCELF
+C0897640,C1326207,CAUSES,tanshinone II A,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C0939869,C0162638,CAUSES,rosemary extract,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C0953943,C1655807,CAUSES,saikosaponin C,endothelial cell proliferation,orch,celf,1,CAUSES_ORCHcausCELF
+C0968242,C0162638,CAUSES,telomestatin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C1142985,C0004391,CAUSES,ezetimibe,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C1144149,C0162638,CAUSES,lenalidomide,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C1176007,C0162638,CAUSES,"3,3',4,5'-tetrahydroxystilbene",Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C1176309,C0007587,CAUSES,bortezomib,Cell Death,orch,celf,6,CAUSES_ORCHcausCELF
+C1176309,C0162638,CAUSES,bortezomib,Apoptosis,orch,celf,5,CAUSES_ORCHcausCELF
+C1259921,C0007595,CAUSES,hydroxytamoxifen,cell growth,orch,celf,1,CAUSES_ORCHcausCELF
+C1328819,C0008018,CAUSES,Small Molecule,Chemotaxis,orch,celf,1,CAUSES_ORCHcausCELF
+C1328819,C1155873,CAUSES,Small Molecule,Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C1328819,C1156309,CAUSES,Small Molecule,syncytium formation by plasma membrane fusion,orch,celf,1,CAUSES_ORCHcausCELF
+C1455147,C0007586,CAUSES,dasatinib,Cell Cycle,orch,celf,1,CAUSES_ORCHcausCELF
+C1455147,C0162638,CAUSES,dasatinib,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C1455147,C1622499,CAUSES,dasatinib,Myeloid Cell Differentiation,orch,celf,1,CAUSES_ORCHcausCELF
+C1516119,C2611772,CAUSES,sorafenib,autophagosome assembly,orch,celf,1,CAUSES_ORCHcausCELF
+C1566074,C0007587,CAUSES,salubrinal,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C1566074,C0162638,CAUSES,salubrinal,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C1570187,C0007587,CAUSES,ABT-737,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C1570495,C0004391,CAUSES,"2',4'-dihydroxy-6'-methoxy-3',5'-dimethylchalcone",Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C1707080,C0004391,CAUSES,temsirolimus,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C1831992,C0007587,CAUSES,ABT 263,Cell Death,orch,celf,2,CAUSES_ORCHcausCELF
+C1831992,C0162638,CAUSES,ABT 263,Apoptosis,orch,celf,2,CAUSES_ORCHcausCELF
+C2001529,C0004391,CAUSES,Piperlongumine,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C2350742,C3156667,CAUSES,18beta-glycyrrhetinic acid,interleukin-8 secretion,orch,celf,2,CAUSES_ORCHcausCELF
+C2353138,C0162638,CAUSES,marinopyrrole A,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C2353825,C0007586,CAUSES,lariciresinol-4'-O-glucopyranoside,Cell Cycle,orch,celf,1,CAUSES_ORCHcausCELF
+C2353825,C0037083,CAUSES,lariciresinol-4'-O-glucopyranoside,Signal Transduction,orch,celf,1,CAUSES_ORCHcausCELF
+C2604741,C0004391,CAUSES,[ LAB] STF 62247,Autophagy,orch,celf,4,CAUSES_ORCHcausCELF
+C2604741,C0007587,CAUSES,[ LAB] STF 62247,Cell Death,orch,celf,14,CAUSES_ORCHcausCELF
+C2604741,C1326207,CAUSES,[ LAB] STF 62247,"Programmed Cell Death, Type II",orch,celf,3,CAUSES_ORCHcausCELF
+C2715256,C0004391,CAUSES,jujuboside B,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C2715256,C0162638,CAUSES,jujuboside B,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C2715256,C1326207,CAUSES,jujuboside B,"Programmed Cell Death, Type II",orch,celf,1,CAUSES_ORCHcausCELF
+C2741935,C0004391,CAUSES,timosaponin AIII,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C2741935,C0162638,CAUSES,timosaponin AIII,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C2926735,C0007586,CAUSES,Duration,Cell Cycle,orch,celf,1,CAUSES_ORCHcausCELF
+C2926735,C1155263,CAUSES,Duration,T-helper 2 type immune response,orch,celf,1,CAUSES_ORCHcausCELF
+C2930490,C0162638,CAUSES,vadimezan,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C2937289,C0162638,CAUSES,Adapt (substance),Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C2937289,C1159455,CAUSES,Adapt (substance),syncytium formation,orch,celf,1,CAUSES_ORCHcausCELF
+C3180849,C1155874,CAUSES,CX 5461,Cell Cycle Checkpoints,orch,celf,1,CAUSES_ORCHcausCELF
+C3467824,C3178824,CAUSES,Ganetespib,G2 Cell Cycle Arrest,orch,celf,1,CAUSES_ORCHcausCELF
+C3501287,C0004391,CAUSES,dactolisib,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C3503116,C0004391,CAUSES,palmitate,Autophagy,orch,celf,2,CAUSES_ORCHcausCELF
+C3503116,C0007587,CAUSES,palmitate,Cell Death,orch,celf,1,CAUSES_ORCHcausCELF
+C3711080,C0162638,CAUSES,icariside II,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C3850886,C0004391,CAUSES,Akebia saponin PA,Autophagy,orch,celf,1,CAUSES_ORCHcausCELF
+C3850886,C0162638,CAUSES,Akebia saponin PA,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C3883776,C0007587,CAUSES,juglanin,Cell Death,orch,celf,2,CAUSES_ORCHcausCELF
+C3883776,C0007620,CAUSES,juglanin,Cell Survival,orch,celf,1,CAUSES_ORCHcausCELF
+C3883776,C0162638,CAUSES,juglanin,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C3884676,C0162638,CAUSES,tenovin-1,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF
+C4049146,C0007620,CAUSES,Cobimetinib,Cell Survival,orch,celf,1,CAUSES_ORCHcausCELF
+C4050026,C0007595,CAUSES,Matrix,cell growth,orch,celf,1,CAUSES_ORCHcausCELF
+C4050026,C1820119,CAUSES,Matrix,Mitochondrial Degradation,orch,celf,1,CAUSES_ORCHcausCELF
+C4319834,C0162638,CAUSES,B-cell lymphoma 2 inhibitor,Apoptosis,orch,celf,1,CAUSES_ORCHcausCELF

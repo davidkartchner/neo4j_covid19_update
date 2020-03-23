@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002345,C0001752,AFFECTS,Alternative Splicing,African swine fever,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0012899,C0042769,AFFECTS,DNA Repair,Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017260,C0028754,AFFECTS,Gene Deletion,Obesity,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017262,C0042769,AFFECTS,Gene Expression,Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017262,C0263541,AFFECTS,Gene Expression,Equine laminitis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017262,C0277555,AFFECTS,Gene Expression,"Secondary disease, NOS",genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017262,C0751651,AFFECTS,Gene Expression,Mitochondrial Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0017262,C1175175,AFFECTS,Gene Expression,Severe Acute Respiratory Syndrome,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C0002726,AFFECTS,Mutation,Amyloidosis,genf,dsyn,2,AFFECTS_GENFafctDSYN
+C0026882,C0007194,AFFECTS,Mutation,Hypertrophic Cardiomyopathy,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C0009450,AFFECTS,Mutation,Communicable Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C0042769,AFFECTS,Mutation,Virus Diseases,genf,dsyn,3,AFFECTS_GENFafctDSYN
+C0026882,C0085306,AFFECTS,Mutation,Feline infectious peritonitis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C0206750,AFFECTS,Mutation,Coronavirus Infections,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C0679225,AFFECTS,Mutation,multiple pathologies,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C1264606,AFFECTS,Mutation,Persistent infection,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0026882,C2677092,AFFECTS,Mutation,MYD88 Deficiency,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0032529,C0003864,AFFECTS,Genetic Polymorphism,Arthritis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0032529,C0021400,AFFECTS,Genetic Polymorphism,Influenza,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0032529,C0032285,AFFECTS,Genetic Polymorphism,Pneumonia,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0032529,C0041296,AFFECTS,Genetic Polymorphism,Tuberculosis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0032529,C2677092,AFFECTS,Genetic Polymorphism,MYD88 Deficiency,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0034865,C0006277,AFFECTS,"Recombination, Genetic",Bronchitis,genf,dsyn,2,AFFECTS_GENFafctDSYN
+C0034865,C0206750,AFFECTS,"Recombination, Genetic",Coronavirus Infections,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0034865,C0263541,AFFECTS,"Recombination, Genetic",Equine laminitis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0035380,C0276500,AFFECTS,Reverse Transcription,Human immunodeficiency virus I infection,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0040649,C0042769,AFFECTS,"Transcription, Genetic",Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0079868,C4288963,AFFECTS,"Mutagenesis, Insertional",Hepatitis C Virus Infection,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0079870,C0042769,AFFECTS,"Mutagenesis, Site-Directed",Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0162493,C0033036,AFFECTS,Transcriptional Activation,Atrial Premature Complexes,genf,dsyn,2,AFFECTS_GENFafctDSYN
+C0162493,C0276289,AFFECTS,Transcriptional Activation,Zika Virus Infection,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0282629,C0042769,AFFECTS,Virus Assembly,Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0596609,C0036916,AFFECTS,Gene-Environment Interaction,Sexually Transmitted Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0598496,C0042769,AFFECTS,Gene Silencing,Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0599155,C0025637,AFFECTS,Missense Mutation,Methemoglobinemia,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C0678945,C0034069,AFFECTS,polygene,Pulmonary Fibrosis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0010823,AFFECTS,RNA Interference,Cytomegalovirus Infections,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0016514,AFFECTS,RNA Interference,Foot-and-Mouth Disease,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0032064,AFFECTS,RNA Interference,Plague,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0035204,AFFECTS,RNA Interference,Respiration Disorders,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0041296,AFFECTS,RNA Interference,Tuberculosis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1136031,C0042769,AFFECTS,RNA Interference,Virus Diseases,genf,dsyn,2,AFFECTS_GENFafctDSYN
+C1136031,C0276242,AFFECTS,RNA Interference,Equine viral rhinopneumonitis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1149372,C0001126,AFFECTS,cAMP response element binding protein binding activity,Renal tubular acidosis,genf,dsyn,5,AFFECTS_GENFafctDSYN
+C1512167,C4479344,AFFECTS,Ectopic Gene Expression,"SCLEROSING CHOLANGITIS, NEONATAL",genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1513838,C0035222,AFFECTS,NFKB Signaling Pathway,"Respiratory Distress Syndrome, Adult",genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1514665,C0020097,AFFECTS,RNA Interference Pathway,HTLV-I Infections,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1515670,C0014518,AFFECTS,mRNA Expression,Toxic Epidermal Necrolysis,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1516924,C0004698,AFFECTS,Epigenetic Process,Balkan Nephropathy,genf,dsyn,2,AFFECTS_GENFafctDSYN
+C1516924,C1290884,AFFECTS,Epigenetic Process,Inflammatory disorder,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C1565556,C0009450,AFFECTS,Gene Flow,Communicable Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN
+C3825184,C0042769,AFFECTS,Evolution (Biology),Virus Diseases,genf,dsyn,1,AFFECTS_GENFafctDSYN

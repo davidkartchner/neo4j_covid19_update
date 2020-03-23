@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005863,C0006353,USES,Western Blotting,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0001443,USES,Cell Count,Adenosine,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0006353,USES,Cell Count,Buffers,lbpr,bacs,87,USES_LBPRusesBACS
+C0007584,C0008574,USES,Cell Count,Chromium,lbpr,bacs,2,USES_LBPRusesBACS
+C0007584,C0010558,USES,Cell Count,Cyclodextrins,lbpr,bacs,2,USES_LBPRusesBACS
+C0007584,C0011479,USES,Cell Count,Deoxycholic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0013982,USES,Cell Count,Emodin,lbpr,bacs,2,USES_LBPRusesBACS
+C0007584,C0017725,USES,Cell Count,Glucose,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0018284,USES,Cell Count,Growth Factor,lbpr,bacs,4,USES_LBPRusesBACS
+C0007584,C0019134,USES,Cell Count,heparin,lbpr,bacs,4,USES_LBPRusesBACS
+C0007584,C0028928,USES,Cell Count,Oleic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0033607,USES,Cell Count,Protease Inhibitors,lbpr,bacs,4,USES_LBPRusesBACS
+C0007584,C0034085,USES,Cell Count,Pulmonary Surfactants,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0038636,USES,Cell Count,Sucrose,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0041942,USES,Cell Count,Urea,lbpr,bacs,3,USES_LBPRusesBACS
+C0007584,C0056917,USES,Cell Count,cytochalasin H,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0078517,USES,Cell Count,wortmannin,lbpr,bacs,3,USES_LBPRusesBACS
+C0007584,C0079925,USES,Cell Count,Antisense Oligonucleotides,lbpr,bacs,2,USES_LBPRusesBACS
+C0007584,C0086140,USES,Cell Count,Dextran,lbpr,bacs,1,USES_LBPRusesBACS
+C0007584,C0206008,USES,Cell Count,2-Mercaptoethanesulfonic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0007703,C0006353,USES,Centrifugation,Buffers,lbpr,bacs,3,USES_LBPRusesBACS
+C0007704,C0038636,USES,"Centrifugation, Density Gradient",Sucrose,lbpr,bacs,38,USES_LBPRusesBACS
+C0008550,C0006353,USES,Chromatography,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0008550,C0019134,USES,Chromatography,heparin,lbpr,bacs,2,USES_LBPRusesBACS
+C0008551,C0006353,USES,"Chromatography, Affinity",Buffers,lbpr,bacs,4,USES_LBPRusesBACS
+C0008551,C0009148,USES,"Chromatography, Affinity",Cobalt,lbpr,bacs,1,USES_LBPRusesBACS
+C0008551,C0019134,USES,"Chromatography, Affinity",heparin,lbpr,bacs,3,USES_LBPRusesBACS
+C0008551,C0028013,USES,"Chromatography, Affinity",nickel,lbpr,bacs,17,USES_LBPRusesBACS
+C0008553,C0006353,USES,"Chromatography, DEAE-Cellulose",Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0008555,C0002607,USES,Gas Chromatography,Ammonia,lbpr,bacs,1,USES_LBPRusesBACS
+C0008562,C0006353,USES,High pressure liquid chromatography procedure,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0013855,C0006353,USES,Electrophoresis,Buffers,lbpr,bacs,7,USES_LBPRusesBACS
+C0013862,C0037473,USES,Polyacrylamide Gel Electrophoresis,Sodium,lbpr,bacs,1,USES_LBPRusesBACS
+C0013862,C0041942,USES,Polyacrylamide Gel Electrophoresis,Urea,lbpr,bacs,3,USES_LBPRusesBACS
+C0014772,C0006353,USES,Red Blood Cell Count measurement,Buffers,lbpr,bacs,14,USES_LBPRusesBACS
+C0014772,C0017725,USES,Red Blood Cell Count measurement,Glucose,lbpr,bacs,1,USES_LBPRusesBACS
+C0014772,C0037494,USES,Red Blood Cell Count measurement,Sodium Chloride,lbpr,bacs,1,USES_LBPRusesBACS
+C0016263,C0006353,USES,Flow Cytometry,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0020985,C0000545,USES,Immunoblotting,Eicosapentaenoic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0020985,C0006353,USES,Immunoblotting,Buffers,lbpr,bacs,4,USES_LBPRusesBACS
+C0021069,C0006353,USES,Immunoprecipitation,Buffers,lbpr,bacs,2,USES_LBPRusesBACS
+C0021069,C0206008,USES,Immunoprecipitation,2-Mercaptoethanesulfonic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0022885,C0006353,USES,Laboratory Procedures,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0022885,C0024467,USES,Laboratory Procedures,Magnesium,lbpr,bacs,1,USES_LBPRusesBACS
+C0022885,C0028128,USES,Laboratory Procedures,Nitric Oxide,lbpr,bacs,2,USES_LBPRusesBACS
+C0022885,C0037494,USES,Laboratory Procedures,Sodium Chloride,lbpr,bacs,1,USES_LBPRusesBACS
+C0022885,C0206008,USES,Laboratory Procedures,2-Mercaptoethanesulfonic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0022885,C0597277,USES,Laboratory Procedures,Potassium Ion,lbpr,bacs,1,USES_LBPRusesBACS
+C0026019,C0028128,USES,Electron Microscopy,Nitric Oxide,lbpr,bacs,1,USES_LBPRusesBACS
+C0027944,C0000545,USES,Neutralization Tests,Eicosapentaenoic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0032102,C0038636,USES,plaque assay,Sucrose,lbpr,bacs,1,USES_LBPRusesBACS
+C0032102,C0120447,USES,plaque assay,Guanidine Hydrochloride,lbpr,bacs,1,USES_LBPRusesBACS
+C0032520,C0006353,USES,Polymerase Chain Reaction,Buffers,lbpr,bacs,2,USES_LBPRusesBACS
+C0037813,C0034085,USES,Mass Spectrometry,Pulmonary Surfactants,lbpr,bacs,1,USES_LBPRusesBACS
+C0041609,C0038636,USES,Ultracentrifugation,Sucrose,lbpr,bacs,1,USES_LBPRusesBACS
+C0079240,C0037494,USES,Dilution technique,Sodium Chloride,lbpr,bacs,1,USES_LBPRusesBACS
+C0079240,C0041942,USES,Dilution technique,Urea,lbpr,bacs,1,USES_LBPRusesBACS
+C0201617,C0016072,USES,Primed lymphocyte test,Ficusin,lbpr,bacs,1,USES_LBPRusesBACS
+C0201777,C0002607,USES,Tolerance test,Ammonia,lbpr,bacs,1,USES_LBPRusesBACS
+C0201778,C0002607,USES,"Tolerance test, oral",Ammonia,lbpr,bacs,1,USES_LBPRusesBACS
+C0201782,C0007412,USES,Suppression test,Catecholamines,lbpr,bacs,1,USES_LBPRusesBACS
+C0202025,C0017725,USES,Fructosamine measurement,Glucose,lbpr,bacs,1,USES_LBPRusesBACS
+C0202098,C0017725,USES,Insulin measurement,Glucose,lbpr,bacs,5,USES_LBPRusesBACS
+C0206755,C0037494,USES,"Crystallography, X-Ray",Sodium Chloride,lbpr,bacs,1,USES_LBPRusesBACS
+C0262673,C0017725,USES,Bedside laboratory testing,Glucose,lbpr,bacs,1,USES_LBPRusesBACS
+C0428152,C0017725,USES,Urine level measurement,Glucose,lbpr,bacs,1,USES_LBPRusesBACS
+C0457437,C0206008,USES,Microscopy technique,2-Mercaptoethanesulfonic Acid,lbpr,bacs,1,USES_LBPRusesBACS
+C0474643,C0041942,USES,Antibody titer measurement,Urea,lbpr,bacs,1,USES_LBPRusesBACS
+C0523216,C0037125,USES,Warthin-Starry stain method,Silver,lbpr,bacs,1,USES_LBPRusesBACS
+C0524238,C0006675,USES,Phenobarbital measurement,Calcium,lbpr,bacs,1,USES_LBPRusesBACS
+C0597428,C0038636,USES,Sedimentation procedure,Sucrose,lbpr,bacs,1,USES_LBPRusesBACS
+C0597428,C0086140,USES,Sedimentation procedure,Dextran,lbpr,bacs,2,USES_LBPRusesBACS
+C0599953,C0016072,USES,Virus Inactivation,Ficusin,lbpr,bacs,1,USES_LBPRusesBACS
+C0600209,C0006353,USES,SDS-PAGE,Buffers,lbpr,bacs,3,USES_LBPRusesBACS
+C0600209,C0037473,USES,SDS-PAGE,Sodium,lbpr,bacs,2,USES_LBPRusesBACS
+C0600209,C0041942,USES,SDS-PAGE,Urea,lbpr,bacs,1,USES_LBPRusesBACS
+C0678624,C0078794,USES,flotation,Zinc Sulfate,lbpr,bacs,1,USES_LBPRusesBACS
+C0684296,C0028013,USES,Column Chromatography,nickel,lbpr,bacs,1,USES_LBPRusesBACS
+C0858034,C0079925,USES,plasma cholesterol,Antisense Oligonucleotides,lbpr,bacs,1,USES_LBPRusesBACS
+C0883003,C0006353,USES,Differential panel,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C0947630,C0033607,USES,Scientific Study,Protease Inhibitors,lbpr,bacs,1,USES_LBPRusesBACS
+C0947630,C0034471,USES,Scientific Study,R Factors,lbpr,bacs,1,USES_LBPRusesBACS
+C0949466,C0006353,USES,Western Blot,Buffers,lbpr,bacs,4,USES_LBPRusesBACS
+C1318786,C0086140,USES,Fluorescent stain method,Dextran,lbpr,bacs,1,USES_LBPRusesBACS
+C1318793,C0003320,USES,Immunofluorescent stain method,Antigens,lbpr,bacs,1,USES_LBPRusesBACS
+C1439852,C0006353,USES,incubated,Buffers,lbpr,bacs,1,USES_LBPRusesBACS
+C1441554,C0037473,USES,Direct assay,Sodium,lbpr,bacs,2,USES_LBPRusesBACS
+C1441565,C0006353,USES,Elution,Buffers,lbpr,bacs,13,USES_LBPRusesBACS
+C1441565,C0037494,USES,Elution,Sodium Chloride,lbpr,bacs,3,USES_LBPRusesBACS
+C1441759,C0037125,USES,Thin film,Silver,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0002607,USES,Assay,Ammonia,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0006353,USES,Assay,Buffers,lbpr,bacs,9,USES_LBPRusesBACS
+C1510438,C0006675,USES,Assay,Calcium,lbpr,bacs,2,USES_LBPRusesBACS
+C1510438,C0012854,USES,Assay,DNA,lbpr,bacs,2,USES_LBPRusesBACS
+C1510438,C0018284,USES,Assay,Growth Factor,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0024076,USES,Assay,luciferin,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0027270,USES,Assay,Nicotinamide adenine dinucleotide (NAD),lbpr,bacs,3,USES_LBPRusesBACS
+C1510438,C0027289,USES,Assay,NADH,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0028128,USES,Assay,Nitric Oxide,lbpr,bacs,4,USES_LBPRusesBACS
+C1510438,C0033607,USES,Assay,Protease Inhibitors,lbpr,bacs,2,USES_LBPRusesBACS
+C1510438,C0041942,USES,Assay,Urea,lbpr,bacs,2,USES_LBPRusesBACS
+C1510438,C0042479,USES,Assay,Venoms,lbpr,bacs,1,USES_LBPRusesBACS
+C1510438,C0078517,USES,Assay,wortmannin,lbpr,bacs,2,USES_LBPRusesBACS
+C1511124,C0042479,USES,"Bioassay, In Vivo",Venoms,lbpr,bacs,1,USES_LBPRusesBACS
+C1656251,C0038636,USES,subcellular fractionation,Sucrose,lbpr,bacs,1,USES_LBPRusesBACS
+C2347885,C0024742,USES,Radioisotopic Labeling (lab procedure),Mannose,lbpr,bacs,1,USES_LBPRusesBACS
+C2717789,C0006353,USES,"Chromatography, Reversed-Phase Liquid",Buffers,lbpr,bacs,2,USES_LBPRusesBACS
+C3494467,C0006353,USES,Native Polyacrylamide Gel Electrophoresis,Buffers,lbpr,bacs,3,USES_LBPRusesBACS
+C3812195,C0035696,USES,Chemokine (C-X-C Motif) Ligand 10 Measurement,"RNA, Messenger",lbpr,bacs,1,USES_LBPRusesBACS
+C4317078,C0000545,USES,Mycobacterium Tuberculosis Measurement,Eicosapentaenoic Acid,lbpr,bacs,1,USES_LBPRusesBACS

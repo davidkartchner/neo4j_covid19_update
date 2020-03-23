@@ -1,0 +1,72 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004112,C0073591,PRODUCES,Astrocytes,rosoxacin,cell,orch,3,PRODUCES_CELLprodORCH
+C0004112,C0672708,PRODUCES,Astrocytes,Vorinostat,cell,orch,2,PRODUCES_CELLprodORCH
+C0004561,C0040845,PRODUCES,B-Lymphocytes,Tretinoin,cell,orch,1,PRODUCES_CELLprodORCH
+C0004561,C0052080,PRODUCES,B-Lymphocytes,antineoplaston A10,cell,orch,1,PRODUCES_CELLprodORCH
+C0005773,C0073591,PRODUCES,Blood Cells,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0007600,C4050026,PRODUCES,Cultured Cell Line,Matrix,cell,orch,1,PRODUCES_CELLprodORCH
+C0007601,C0032594,PRODUCES,"Cell Line, Transformed",Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C0009013,C0053353,PRODUCES,Clone Cells,"N,N-bis(2-hydroxyethyl)aminoethanesulfonic acid",cell,orch,1,PRODUCES_CELLprodORCH
+C0009013,C0077229,PRODUCES,Clone Cells,trioctyl phosphine oxide,cell,orch,1,PRODUCES_CELLprodORCH
+C0011306,C0444420,PRODUCES,Dendritic Cells,Calcium Ionophores,cell,orch,1,PRODUCES_CELLprodORCH
+C0014467,C0038317,PRODUCES,eosinophil,Steroids,cell,orch,1,PRODUCES_CELLprodORCH
+C0014467,C0073591,PRODUCES,eosinophil,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0014597,C0032594,PRODUCES,Epithelial Cells,Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C0014597,C0073591,PRODUCES,Epithelial Cells,rosoxacin,cell,orch,2,PRODUCES_CELLprodORCH
+C0014597,C0752345,PRODUCES,Epithelial Cells,High-Density Polyethylene,cell,orch,1,PRODUCES_CELLprodORCH
+C0014792,C0073591,PRODUCES,Erythrocytes,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0014792,C0378785,PRODUCES,Erythrocytes,"3,5-diisopropylsalicylic acid",cell,orch,1,PRODUCES_CELLprodORCH
+C0018183,C0073591,PRODUCES,granulocyte,rosoxacin,cell,orch,2,PRODUCES_CELLprodORCH
+C0018873,C0022924,PRODUCES,HeLa Cells,Lactates,cell,orch,1,PRODUCES_CELLprodORCH
+C0018873,C0058272,PRODUCES,HeLa Cells,dimethylbusulfan,cell,orch,1,PRODUCES_CELLprodORCH
+C0018873,C0073591,PRODUCES,HeLa Cells,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0018894,C0040845,PRODUCES,Helper-Inducer T-Lymphocyte,Tretinoin,cell,orch,1,PRODUCES_CELLprodORCH
+C0022688,C0165032,PRODUCES,Natural Killer Cells,imiquimod,cell,orch,1,PRODUCES_CELLprodORCH
+C0022801,C0073591,PRODUCES,Hepatic macrophage,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0023516,C0013725,PRODUCES,Leukocytes,Eicosanoids,cell,orch,1,PRODUCES_CELLprodORCH
+C0023516,C0039286,PRODUCES,Leukocytes,Tamoxifen,cell,orch,1,PRODUCES_CELLprodORCH
+C0023516,C0073591,PRODUCES,Leukocytes,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0023516,C0752345,PRODUCES,Leukocytes,High-Density Polyethylene,cell,orch,1,PRODUCES_CELLprodORCH
+C0024432,C0018389,PRODUCES,macrophage,Gum Arabic,cell,orch,1,PRODUCES_CELLprodORCH
+C0024432,C0023779,PRODUCES,macrophage,Lipids,cell,orch,1,PRODUCES_CELLprodORCH
+C0024432,C0032433,PRODUCES,macrophage,Polyamines,cell,orch,1,PRODUCES_CELLprodORCH
+C0024432,C0039286,PRODUCES,macrophage,Tamoxifen,cell,orch,1,PRODUCES_CELLprodORCH
+C0024432,C0073591,PRODUCES,macrophage,rosoxacin,cell,orch,3,PRODUCES_CELLprodORCH
+C0024880,C0023779,PRODUCES,mast cell,Lipids,cell,orch,1,PRODUCES_CELLprodORCH
+C0024880,C3813211,PRODUCES,mast cell,Prostaglandin E2,cell,orch,1,PRODUCES_CELLprodORCH
+C0025166,C0066776,PRODUCES,Megakaryocytes,monophosphoryl lipid A,cell,orch,1,PRODUCES_CELLprodORCH
+C0026473,C0066350,PRODUCES,Monocytes,methylene dimethanesulfonate,cell,orch,1,PRODUCES_CELLprodORCH
+C0026473,C0073591,PRODUCES,Monocytes,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0027950,C0073591,PRODUCES,neutrophil,rosoxacin,cell,orch,8,PRODUCES_CELLprodORCH
+C0029431,C0073591,PRODUCES,Osteoclasts,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0039194,C0018389,PRODUCES,T-Lymphocyte,Gum Arabic,cell,orch,1,PRODUCES_CELLprodORCH
+C0039194,C0032594,PRODUCES,T-Lymphocyte,Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C0039194,C0073591,PRODUCES,T-Lymphocyte,rosoxacin,cell,orch,2,PRODUCES_CELLprodORCH
+C0039194,C1718383,PRODUCES,T-Lymphocyte,teriflunomide,cell,orch,1,PRODUCES_CELLprodORCH
+C0085983,C0242209,PRODUCES,"Cell Line, Tumor",Sugars,cell,orch,1,PRODUCES_CELLprodORCH
+C0206116,C0073591,PRODUCES,Microglia,rosoxacin,cell,orch,2,PRODUCES_CELLprodORCH
+C0206131,C0073591,PRODUCES,Adipocytes,rosoxacin,cell,orch,9,PRODUCES_CELLprodORCH
+C0225369,C4050026,PRODUCES,Chondrocyte,Matrix,cell,orch,1,PRODUCES_CELLprodORCH
+C0225700,C0023779,PRODUCES,Type-II Pneumocytes,Lipids,cell,orch,1,PRODUCES_CELLprodORCH
+C0334227,C0525678,PRODUCES,"Tumor cells, malignant",rasagiline,cell,orch,1,PRODUCES_CELLprodORCH
+C0376448,C0039315,PRODUCES,Jurkat Cells,Tars,cell,orch,1,PRODUCES_CELLprodORCH
+C0440752,C0003695,PRODUCES,Inflammatory cell,Arachidonic Acid,cell,orch,1,PRODUCES_CELLprodORCH
+C0440752,C0073591,PRODUCES,Inflammatory cell,rosoxacin,cell,orch,3,PRODUCES_CELLprodORCH
+C0596155,C0032594,PRODUCES,Basal Cell,Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C0598091,C0718133,PRODUCES,stable cell line,a & d,cell,orch,1,PRODUCES_CELLprodORCH
+C0598800,C0073591,PRODUCES,Pericytes,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C0682523,C0032594,PRODUCES,human cell line,Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C0682639,C0025153,PRODUCES,Memory T-Lymphocyte,Mefloquine,cell,orch,1,PRODUCES_CELLprodORCH
+C1257857,C2962221,PRODUCES,COS-1 Cells,TAC,cell,orch,1,PRODUCES_CELLprodORCH
+C1512899,C0073591,PRODUCES,Interphase Cell,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C1512977,C0032594,PRODUCES,Mammalian Cell,Polysaccharides,cell,orch,1,PRODUCES_CELLprodORCH
+C1519221,C0073603,PRODUCES,Secretory cell,royal jelly,cell,orch,1,PRODUCES_CELLprodORCH
+C1956385,C0055295,PRODUCES,Plasmacytoid Dendritic Cells,chenodeoxycholate sulfate conjugate,cell,orch,1,PRODUCES_CELLprodORCH
+C2717940,C0022924,PRODUCES,Hep G2 Cells,Lactates,cell,orch,1,PRODUCES_CELLprodORCH
+C2936239,C0034266,PRODUCES,HEK293 Cells,Pyridoxal Phosphate,cell,orch,1,PRODUCES_CELLprodORCH
+C2936239,C0378785,PRODUCES,HEK293 Cells,"3,5-diisopropylsalicylic acid",cell,orch,1,PRODUCES_CELLprodORCH
+C3826992,C0061751,PRODUCES,Immature Myeloid Cell,Glycyrrhizic Acid,cell,orch,1,PRODUCES_CELLprodORCH
+C4038423,C3813211,PRODUCES,cervical cells,Prostaglandin E2,cell,orch,1,PRODUCES_CELLprodORCH
+C4277577,C0073591,PRODUCES,A549 Cells,rosoxacin,cell,orch,1,PRODUCES_CELLprodORCH
+C4330475,C0073591,PRODUCES,Immune Cell,rosoxacin,cell,orch,2,PRODUCES_CELLprodORCH
+C4330475,C1328819,PRODUCES,Immune Cell,Small Molecule,cell,orch,3,PRODUCES_CELLprodORCH

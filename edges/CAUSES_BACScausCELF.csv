@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001455,C0007613,CAUSES,Cyclic AMP,Cell physiology,bacs,celf,1,CAUSES_BACScausCELF
+C0004409,C0010813,CAUSES,Auxins,Cytokinesis,bacs,celf,1,CAUSES_BACScausCELF
+C0004630,C0031308,CAUSES,Bacterial Toxins,Phagocytosis,bacs,celf,1,CAUSES_BACScausCELF
+C0005404,C0162638,CAUSES,Bile Salts,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0005404,C4235256,CAUSES,Bile Salts,hepatic stellate cell proliferation,bacs,celf,1,CAUSES_BACScausCELF
+C0006353,C1159455,CAUSES,Buffers,syncytium formation,bacs,celf,2,CAUSES_BACScausCELF
+C0006675,C0004391,CAUSES,Calcium,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0006675,C0007587,CAUSES,Calcium,Cell Death,bacs,celf,1,CAUSES_BACScausCELF
+C0006675,C0026244,CAUSES,Calcium,Mitochondrial Swelling,bacs,celf,1,CAUSES_BACScausCELF
+C0006675,C0162638,CAUSES,Calcium,Apoptosis,bacs,celf,2,CAUSES_BACScausCELF
+C0006675,C1159909,CAUSES,Calcium,keratinocyte differentiation,bacs,celf,1,CAUSES_BACScausCELF
+C0006675,C3158980,CAUSES,Calcium,positive regulation of mitochondrial membrane permeability,bacs,celf,1,CAUSES_BACScausCELF
+C0007745,C0162638,CAUSES,Ceramides,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0008141,C1155263,CAUSES,Chitin,T-helper 2 type immune response,bacs,celf,1,CAUSES_BACScausCELF
+C0008240,C0282636,CAUSES,Chlorogenic acid,Cell Respiration,bacs,celf,1,CAUSES_BACScausCELF
+C0008377,C0162638,CAUSES,Cholesterol,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0008377,C1156309,CAUSES,Cholesterol,syncytium formation by plasma membrane fusion,bacs,celf,1,CAUSES_BACScausCELF
+C0009968,C0162638,CAUSES,Copper,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0010815,C0010813,CAUSES,Cytokinins,Cytokinesis,bacs,celf,1,CAUSES_BACScausCELF
+C0012854,C0003261,CAUSES,DNA,Antibody Formation,bacs,celf,6,CAUSES_BACScausCELF
+C0012854,C1326169,CAUSES,DNA,microglial cell activation,bacs,celf,1,CAUSES_BACScausCELF
+C0013982,C0162638,CAUSES,Emodin,Apoptosis,bacs,celf,21,CAUSES_BACScausCELF
+C0013982,C1155873,CAUSES,Emodin,Cell Cycle Arrest,bacs,celf,2,CAUSES_BACScausCELF
+C0013982,C1720920,CAUSES,Emodin,"Membrane Potential, Mitochondrial",bacs,celf,1,CAUSES_BACScausCELF
+C0015684,C0004391,CAUSES,Fatty Acids,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0015687,C2610414,CAUSES,"Fatty Acids, Monounsaturated",transdifferentiation,bacs,celf,1,CAUSES_BACScausCELF
+C0015687,C2752630,CAUSES,"Fatty Acids, Monounsaturated",terminal differentiation,bacs,celf,1,CAUSES_BACScausCELF
+C0016895,C4326906,CAUSES,Ganglioside GM1,membrane curvature,bacs,celf,1,CAUSES_BACScausCELF
+C0017881,C1159974,CAUSES,Glycerophosphates,osteoblast differentiation,bacs,celf,1,CAUSES_BACScausCELF
+C0018284,C0004391,CAUSES,Growth Factor,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0018284,C0162638,CAUSES,Growth Factor,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0018284,C1155046,CAUSES,Growth Factor,T-Cell Proliferation,bacs,celf,1,CAUSES_BACScausCELF
+C0018284,C1523298,CAUSES,Growth Factor,epithelial to mesenchymal transition,bacs,celf,1,CAUSES_BACScausCELF
+C0028128,C0004391,CAUSES,Nitric Oxide,Autophagy,bacs,celf,2,CAUSES_BACScausCELF
+C0028128,C0007587,CAUSES,Nitric Oxide,Cell Death,bacs,celf,2,CAUSES_BACScausCELF
+C0028606,C3268855,CAUSES,Nucleic Acids,cell suicide,bacs,celf,1,CAUSES_BACScausCELF
+C0028928,C0004391,CAUSES,Oleic Acid,Autophagy,bacs,celf,4,CAUSES_BACScausCELF
+C0031618,C4326906,CAUSES,Phosphatidylethanolamines,membrane curvature,bacs,celf,1,CAUSES_BACScausCELF
+C0031676,C0007587,CAUSES,Phospholipids,Cell Death,bacs,celf,1,CAUSES_BACScausCELF
+C0031676,C0014768,CAUSES,Phospholipids,Erythrocyte Aging,bacs,celf,1,CAUSES_BACScausCELF
+C0031860,C0085416,CAUSES,Phytol,Respiratory Burst,bacs,celf,1,CAUSES_BACScausCELF
+C0033532,C1326501,CAUSES,Prostaglandin D2,eosinophil chemotaxis,bacs,celf,1,CAUSES_BACScausCELF
+C0033607,C0010813,CAUSES,Protease Inhibitors,Cytokinesis,bacs,celf,1,CAUSES_BACScausCELF
+C0033607,C0162638,CAUSES,Protease Inhibitors,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0033607,C1155342,CAUSES,Protease Inhibitors,cellular response to unfolded protein,bacs,celf,1,CAUSES_BACScausCELF
+C0034632,C0004391,CAUSES,Raffinose,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0037871,C0004391,CAUSES,spermidine,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0037874,C0004391,CAUSES,spermine,Autophagy,bacs,celf,3,CAUSES_BACScausCELF
+C0038636,C0004391,CAUSES,Sucrose,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0040549,C0003261,CAUSES,Toxin,Antibody Formation,bacs,celf,1,CAUSES_BACScausCELF
+C0040815,C0004391,CAUSES,Trehalose,Autophagy,bacs,celf,3,CAUSES_BACScausCELF
+C0042670,C0004391,CAUSES,Vinblastine,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0042670,C0162638,CAUSES,Vinblastine,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0043552,C0085416,CAUSES,Zymosan,Respiratory Burst,bacs,celf,1,CAUSES_BACScausCELF
+C0043552,C0596991,CAUSES,Zymosan,myelination,bacs,celf,1,CAUSES_BACScausCELF
+C0043791,C0596233,CAUSES,"1,2-diacylglycerol",release of sequestered calcium ion into cytoplasm,bacs,celf,1,CAUSES_BACScausCELF
+C0049776,C0162638,CAUSES,"7,8-dihydroneopterin",Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0056912,C0003261,CAUSES,cytidylyl-3'-5'-guanosine,Antibody Formation,bacs,celf,3,CAUSES_BACScausCELF
+C0060656,C0162638,CAUSES,formononetin,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0060656,C1155873,CAUSES,formononetin,Cell Cycle Arrest,bacs,celf,1,CAUSES_BACScausCELF
+C0061202,C0037083,CAUSES,Genistein,Signal Transduction,bacs,celf,1,CAUSES_BACScausCELF
+C0062496,C0162638,CAUSES,hemozoin,Apoptosis,bacs,celf,3,CAUSES_BACScausCELF
+C0065335,C0162638,CAUSES,lycorine,Apoptosis,bacs,celf,8,CAUSES_BACScausCELF
+C0065335,C1155873,CAUSES,lycorine,Cell Cycle Arrest,bacs,celf,5,CAUSES_BACScausCELF
+C0065335,C3178834,CAUSES,lycorine,G1 Cell Cycle Arrest,bacs,celf,1,CAUSES_BACScausCELF
+C0068527,C0162638,CAUSES,Neopterin,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0069639,C1155873,CAUSES,oridonin,Cell Cycle Arrest,bacs,celf,1,CAUSES_BACScausCELF
+C0076305,C0004391,CAUSES,tetramethylpyrazine,Autophagy,bacs,celf,3,CAUSES_BACScausCELF
+C0086140,C3271950,CAUSES,Dextran,micropinocytosis,bacs,celf,1,CAUSES_BACScausCELF
+C0162574,C1326169,CAUSES,"Glycation End Products, Advanced",microglial cell activation,bacs,celf,1,CAUSES_BACScausCELF
+C0302583,C0162638,CAUSES,Iron,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0302583,C4236737,CAUSES,Iron,ferroptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0368909,C0037083,CAUSES,Non-esterified cholesterol,Signal Transduction,bacs,celf,1,CAUSES_BACScausCELF
+C0368909,C0162638,CAUSES,Non-esterified cholesterol,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C0537224,C0004391,CAUSES,viron,Autophagy,bacs,celf,1,CAUSES_BACScausCELF
+C0908756,C0162638,CAUSES,polyphyllin D,Apoptosis,bacs,celf,1,CAUSES_BACScausCELF
+C1519315,C0007587,CAUSES,Signaling Molecule,Cell Death,bacs,celf,1,CAUSES_BACScausCELF
+C2923668,C0003261,CAUSES,Human papilloma virus 16 DNA,Antibody Formation,bacs,celf,1,CAUSES_BACScausCELF

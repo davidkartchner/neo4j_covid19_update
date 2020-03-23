@@ -1,0 +1,92 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012924,C0034865,AFFECTS,"DNA, Bacterial","Recombination, Genetic",nnon,genf,2,AFFECTS_NNONafctGENF
+C0023978,C0162493,AFFECTS,Long Terminal Repeat,Transcriptional Activation,nnon,genf,1,AFFECTS_NNONafctGENF
+C0023978,C1158817,AFFECTS,Long Terminal Repeat,viral transcription,nnon,genf,7,AFFECTS_NNONafctGENF
+C0028621,C4329090,AFFECTS,Nucleosides,tRNA folding,nnon,genf,1,AFFECTS_NNONafctGENF
+C0028630,C0017262,AFFECTS,Nucleotides,Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C0028630,C0040649,AFFECTS,Nucleotides,"Transcription, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C0028630,C0282629,AFFECTS,Nucleotides,Virus Assembly,nnon,genf,2,AFFECTS_NNONafctGENF
+C0028630,C0599155,AFFECTS,Nucleotides,Missense Mutation,nnon,genf,1,AFFECTS_NNONafctGENF
+C0028630,C1152412,AFFECTS,Nucleotides,RNA-directed RNA polymerase activity,nnon,genf,2,AFFECTS_NNONafctGENF
+C0028630,C1514248,AFFECTS,Nucleotides,Post-Transcriptional Regulation,nnon,genf,2,AFFECTS_NNONafctGENF
+C0028630,C2610186,AFFECTS,Nucleotides,"nuclear mRNA cis splicing, via spliceosome",nnon,genf,1,AFFECTS_NNONafctGENF
+C0028953,C0017262,AFFECTS,Oligonucleotides,Gene Expression,nnon,genf,2,AFFECTS_NNONafctGENF
+C0028953,C0040649,AFFECTS,Oligonucleotides,"Transcription, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C0028953,C0598496,AFFECTS,Oligonucleotides,Gene Silencing,nnon,genf,1,AFFECTS_NNONafctGENF
+C0028953,C1622990,AFFECTS,Oligonucleotides,pre-mRNA splicing,nnon,genf,1,AFFECTS_NNONafctGENF
+C0033755,C0920532,AFFECTS,Proviruses,gene induction,nnon,genf,1,AFFECTS_NNONafctGENF
+C0035736,C0040649,AFFECTS,"RNA, Viral","Transcription, Genetic",nnon,genf,2,AFFECTS_NNONafctGENF
+C0035736,C0282572,AFFECTS,"RNA, Viral","Frameshifting, Ribosomal",nnon,genf,1,AFFECTS_NNONafctGENF
+C0035736,C0282629,AFFECTS,"RNA, Viral",Virus Assembly,nnon,genf,2,AFFECTS_NNONafctGENF
+C0035736,C1158817,AFFECTS,"RNA, Viral",viral transcription,nnon,genf,1,AFFECTS_NNONafctGENF
+C0035736,C1512167,AFFECTS,"RNA, Viral",Ectopic Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C0035736,C1519614,AFFECTS,"RNA, Viral",Genetic Translation Process,nnon,genf,3,AFFECTS_NNONafctGENF
+C0044469,C1158728,AFFECTS,1-methylguanosine,RNA Processing,nnon,genf,1,AFFECTS_NNONafctGENF
+C0044469,C1519613,AFFECTS,1-methylguanosine,Translation Initiation,nnon,genf,1,AFFECTS_NNONafctGENF
+C0057441,C0020202,AFFECTS,deoxyinosine,Crossbreeding,nnon,genf,3,AFFECTS_NNONafctGENF
+C0071360,C1523790,AFFECTS,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",snoRNA processing,nnon,genf,1,AFFECTS_NNONafctGENF
+C0079517,C1158817,AFFECTS,HIV Long Terminal Repeat,viral transcription,nnon,genf,1,AFFECTS_NNONafctGENF
+C0079532,C0162493,AFFECTS,HIV-1 LTR,Transcriptional Activation,nnon,genf,3,AFFECTS_NNONafctGENF
+C0079532,C1158817,AFFECTS,HIV-1 LTR,viral transcription,nnon,genf,1,AFFECTS_NNONafctGENF
+C0137710,C1158726,AFFECTS,polyadenosine,mRNA cleavage,nnon,genf,1,AFFECTS_NNONafctGENF
+C0206415,C0917892,AFFECTS,Oligonucleotide Primers,Genetic Drift,nnon,genf,1,AFFECTS_NNONafctGENF
+C0369499,C0026882,AFFECTS,Human immunodeficiency virus 1 RNA,Mutation,nnon,genf,1,AFFECTS_NNONafctGENF
+C0369499,C2610186,AFFECTS,Human immunodeficiency virus 1 RNA,"nuclear mRNA cis splicing, via spliceosome",nnon,genf,1,AFFECTS_NNONafctGENF
+C0391719,C0017262,AFFECTS,pgRNA,Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C0597101,C1152412,AFFECTS,nucleobase,RNA-directed RNA polymerase activity,nnon,genf,1,AFFECTS_NNONafctGENF
+C0599013,C0017262,AFFECTS,aptamer,Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C0599013,C1519614,AFFECTS,aptamer,Genetic Translation Process,nnon,genf,1,AFFECTS_NNONafctGENF
+C0600401,C0017262,AFFECTS,Retrotransposons,Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C0600500,C1623415,AFFECTS,Peptide Nucleic Acids,RNA chemical synthesis,nnon,genf,1,AFFECTS_NNONafctGENF
+C0887909,C0017262,AFFECTS,"RNA, Untranslated",Gene Expression,nnon,genf,10,AFFECTS_NNONafctGENF
+C0887909,C0017263,AFFECTS,"RNA, Untranslated",Gene Expression Regulation,nnon,genf,3,AFFECTS_NNONafctGENF
+C0887909,C0035687,AFFECTS,"RNA, Untranslated",RNA Splicing,nnon,genf,1,AFFECTS_NNONafctGENF
+C0887909,C0040649,AFFECTS,"RNA, Untranslated","Transcription, Genetic",nnon,genf,2,AFFECTS_NNONafctGENF
+C0887909,C1136031,AFFECTS,"RNA, Untranslated",RNA Interference,nnon,genf,1,AFFECTS_NNONafctGENF
+C0887909,C1514248,AFFECTS,"RNA, Untranslated",Post-Transcriptional Regulation,nnon,genf,4,AFFECTS_NNONafctGENF
+C0887909,C1519619,AFFECTS,"RNA, Untranslated",Translational Repression,nnon,genf,1,AFFECTS_NNONafctGENF
+C1510800,C1512167,AFFECTS,Adenoviral Vector,Ectopic Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C0002345,AFFECTS,Transcript,Alternative Splicing,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C0017262,AFFECTS,Transcript,Gene Expression,nnon,genf,3,AFFECTS_NNONafctGENF
+C1519595,C0040649,AFFECTS,Transcript,"Transcription, Genetic",nnon,genf,3,AFFECTS_NNONafctGENF
+C1519595,C1158478,AFFECTS,Transcript,DNA Integration,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C1158728,AFFECTS,Transcript,RNA Processing,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C1456459,AFFECTS,Transcript,Chromatin Modeling,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C1519591,AFFECTS,Transcript,Transcription Elongation,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C1519614,AFFECTS,Transcript,Genetic Translation Process,nnon,genf,2,AFFECTS_NNONafctGENF
+C1519595,C1519619,AFFECTS,Transcript,Translational Repression,nnon,genf,1,AFFECTS_NNONafctGENF
+C1519595,C2610186,AFFECTS,Transcript,"nuclear mRNA cis splicing, via spliceosome",nnon,genf,1,AFFECTS_NNONafctGENF
+C1636176,C0040649,AFFECTS,Ebola virus RNA,"Transcription, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C1881903,C0002345,AFFECTS,Morpholinos,Alternative Splicing,nnon,genf,1,AFFECTS_NNONafctGENF
+C1881903,C0017262,AFFECTS,Morpholinos,Gene Expression,nnon,genf,1,AFFECTS_NNONafctGENF
+C1881903,C2610186,AFFECTS,Morpholinos,"nuclear mRNA cis splicing, via spliceosome",nnon,genf,2,AFFECTS_NNONafctGENF
+C2717927,C0017259,AFFECTS,"Segmental Duplications, Genomic",Gene Conversion,nnon,genf,2,AFFECTS_NNONafctGENF
+C2717927,C0034865,AFFECTS,"Segmental Duplications, Genomic","Recombination, Genetic",nnon,genf,2,AFFECTS_NNONafctGENF
+C2930586,C0598496,AFFECTS,Short Hairpin RNA,Gene Silencing,nnon,genf,1,AFFECTS_NNONafctGENF
+C2930586,C1136031,AFFECTS,Short Hairpin RNA,RNA Interference,nnon,genf,3,AFFECTS_NNONafctGENF
+C2930586,C1148756,AFFECTS,Short Hairpin RNA,telomerase activity,nnon,genf,1,AFFECTS_NNONafctGENF
+C2936494,C0017262,AFFECTS,"RNA, Small Untranslated",Gene Expression,nnon,genf,7,AFFECTS_NNONafctGENF
+C2936494,C0040649,AFFECTS,"RNA, Small Untranslated","Transcription, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C2936494,C1136031,AFFECTS,"RNA, Small Untranslated",RNA Interference,nnon,genf,1,AFFECTS_NNONafctGENF
+C2936494,C1514248,AFFECTS,"RNA, Small Untranslated",Post-Transcriptional Regulation,nnon,genf,2,AFFECTS_NNONafctGENF
+C2982391,C0012899,AFFECTS,Long Intergenic Non-Protein Coding RNA,DNA Repair,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C0017262,AFFECTS,Long Intergenic Non-Protein Coding RNA,Gene Expression,nnon,genf,15,AFFECTS_NNONafctGENF
+C2982391,C0038855,AFFECTS,Long Intergenic Non-Protein Coding RNA,"Suppression, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C0040649,AFFECTS,Long Intergenic Non-Protein Coding RNA,"Transcription, Genetic",nnon,genf,5,AFFECTS_NNONafctGENF
+C2982391,C0162493,AFFECTS,Long Intergenic Non-Protein Coding RNA,Transcriptional Activation,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C0242614,AFFECTS,Long Intergenic Non-Protein Coding RNA,Genomic Imprinting,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1156210,AFFECTS,Long Intergenic Non-Protein Coding RNA,chromatin remodeling,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1158816,AFFECTS,Long Intergenic Non-Protein Coding RNA,mRNA transcription,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1158817,AFFECTS,Long Intergenic Non-Protein Coding RNA,viral transcription,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1514248,AFFECTS,Long Intergenic Non-Protein Coding RNA,Post-Transcriptional Regulation,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1516924,AFFECTS,Long Intergenic Non-Protein Coding RNA,Epigenetic Process,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1519592,AFFECTS,Long Intergenic Non-Protein Coding RNA,Transcription Process,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1523645,AFFECTS,Long Intergenic Non-Protein Coding RNA,production of miRNAs involved in gene silencing by miRNA,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C1749524,AFFECTS,Long Intergenic Non-Protein Coding RNA,mRNA processing,nnon,genf,1,AFFECTS_NNONafctGENF
+C2982391,C3494207,AFFECTS,Long Intergenic Non-Protein Coding RNA,"Transcription Initiation, Genetic",nnon,genf,1,AFFECTS_NNONafctGENF
+C3272452,C0017262,AFFECTS,Single-Stranded RNA,Gene Expression,nnon,genf,2,AFFECTS_NNONafctGENF
+C3272452,C1148846,AFFECTS,Single-Stranded RNA,RNA Binding,nnon,genf,1,AFFECTS_NNONafctGENF
+C3272453,C1148673,AFFECTS,Genomic DNA,dna binding,nnon,genf,1,AFFECTS_NNONafctGENF
+C3537372,C0282572,AFFECTS,Bacterial 16S RNA,"Frameshifting, Ribosomal",nnon,genf,1,AFFECTS_NNONafctGENF
+C3537372,C1148901,AFFECTS,Bacterial 16S RNA,tRNA binding,nnon,genf,1,AFFECTS_NNONafctGENF
+C3537372,C1519613,AFFECTS,Bacterial 16S RNA,Translation Initiation,nnon,genf,2,AFFECTS_NNONafctGENF

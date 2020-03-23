@@ -1,0 +1,44 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012860,C0007586,AFFECTS,DNA Damage,Cell Cycle,comd,celf,2,AFFECTS_COMDafctCELF
+C0012860,C0010813,AFFECTS,DNA Damage,Cytokinesis,comd,celf,1,AFFECTS_COMDafctCELF
+C0012860,C0162638,AFFECTS,DNA Damage,Apoptosis,comd,celf,3,AFFECTS_COMDafctCELF
+C0012860,C1516334,AFFECTS,DNA Damage,Cell Cycle Progression,comd,celf,1,AFFECTS_COMDafctCELF
+C0027746,C0004391,AFFECTS,Nerve Degeneration,Autophagy,comd,celf,1,AFFECTS_COMDafctCELF
+C0079380,C0007613,AFFECTS,Frameshift Mutation function,Cell physiology,comd,celf,1,AFFECTS_COMDafctCELF
+C0079380,C2613267,AFFECTS,Frameshift Mutation function,sporulation,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C0004391,AFFECTS,Oxidative Stress,Autophagy,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C0007581,AFFECTS,Oxidative Stress,Cellular Senescence,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C0007586,AFFECTS,Oxidative Stress,Cell Cycle,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C0007587,AFFECTS,Oxidative Stress,Cell Death,comd,celf,2,AFFECTS_COMDafctCELF
+C0242606,C0162638,AFFECTS,Oxidative Stress,Apoptosis,comd,celf,8,AFFECTS_COMDafctCELF
+C0242606,C1154637,AFFECTS,Oxidative Stress,photoreceptor cell maintenance,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C1516375,AFFECTS,Oxidative Stress,Cellular Tropism,comd,celf,1,AFFECTS_COMDafctCELF
+C0242606,C1820119,AFFECTS,Oxidative Stress,Mitochondrial Degradation,comd,celf,3,AFFECTS_COMDafctCELF
+C0242606,C2754100,AFFECTS,Oxidative Stress,neuron death,comd,celf,1,AFFECTS_COMDafctCELF
+C0282632,C0004391,AFFECTS,Antibody-Dependent Enhancement,Autophagy,comd,celf,1,AFFECTS_COMDafctCELF
+C0544884,C1159339,AFFECTS,Temperature-sensitive mutation,Protein Secretion,comd,celf,1,AFFECTS_COMDafctCELF
+C0544910,C0007620,AFFECTS,Nuclear accumulation,Cell Survival,comd,celf,1,AFFECTS_COMDafctCELF
+C0596295,C4235041,AFFECTS,cellular pathology,blebbing,comd,celf,1,AFFECTS_COMDafctCELF
+C0596402,C0003272,AFFECTS,cytotoxicity,Antibody-Dependent Cellular Cytotoxicity,comd,celf,1,AFFECTS_COMDafctCELF
+C0596402,C0007620,AFFECTS,cytotoxicity,Cell Survival,comd,celf,3,AFFECTS_COMDafctCELF
+C0596402,C0024262,AFFECTS,cytotoxicity,Lymphocyte Activation,comd,celf,1,AFFECTS_COMDafctCELF
+C0596402,C1516334,AFFECTS,cytotoxicity,Cell Cycle Progression,comd,celf,1,AFFECTS_COMDafctCELF
+C1257899,C1155646,AFFECTS,Genotoxic Stress,mitotic sister chromatid segregation,comd,celf,1,AFFECTS_COMDafctCELF
+C1512032,C1156067,AFFECTS,Dominant-Negative Mutation,Mitochondrial Fusion,comd,celf,1,AFFECTS_COMDafctCELF
+C1515263,C0162638,AFFECTS,Telomere Shortening,Apoptosis,comd,celf,1,AFFECTS_COMDafctCELF
+C1516373,C0004391,AFFECTS,Cellular Stress,Autophagy,comd,celf,2,AFFECTS_COMDafctCELF
+C1516373,C0007587,AFFECTS,Cellular Stress,Cell Death,comd,celf,2,AFFECTS_COMDafctCELF
+C1516373,C3271453,AFFECTS,Cellular Stress,aggrephagy,comd,celf,1,AFFECTS_COMDafctCELF
+C1516373,C3271951,AFFECTS,Cellular Stress,macropinocytosis,comd,celf,1,AFFECTS_COMDafctCELF
+C1705285,C0162638,AFFECTS,Mutation Abnormality,Apoptosis,comd,celf,1,AFFECTS_COMDafctCELF
+C1706803,C0010813,AFFECTS,Amyloidogenesis,Cytokinesis,comd,celf,1,AFFECTS_COMDafctCELF
+C2936267,C0004391,AFFECTS,Haploinsufficiency,Autophagy,comd,celf,1,AFFECTS_COMDafctCELF
+C3178870,C0004391,AFFECTS,Endoplasmic Reticulum Stress,Autophagy,comd,celf,13,AFFECTS_COMDafctCELF
+C3178870,C0007587,AFFECTS,Endoplasmic Reticulum Stress,Cell Death,comd,celf,3,AFFECTS_COMDafctCELF
+C3178870,C0007620,AFFECTS,Endoplasmic Reticulum Stress,Cell Survival,comd,celf,1,AFFECTS_COMDafctCELF
+C3178870,C0010813,AFFECTS,Endoplasmic Reticulum Stress,Cytokinesis,comd,celf,1,AFFECTS_COMDafctCELF
+C3178870,C0162638,AFFECTS,Endoplasmic Reticulum Stress,Apoptosis,comd,celf,7,AFFECTS_COMDafctCELF
+C3178870,C1155342,AFFECTS,Endoplasmic Reticulum Stress,cellular response to unfolded protein,comd,celf,1,AFFECTS_COMDafctCELF
+C4476796,C0162638,AFFECTS,Increased reactive oxygen species production,Apoptosis,comd,celf,1,AFFECTS_COMDafctCELF
+C4476796,C0596290,AFFECTS,Increased reactive oxygen species production,Cell Proliferation,comd,celf,1,AFFECTS_COMDafctCELF
+C4476796,C1720920,AFFECTS,Increased reactive oxygen species production,"Membrane Potential, Mitochondrial",comd,celf,1,AFFECTS_COMDafctCELF

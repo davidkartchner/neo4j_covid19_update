@@ -1,0 +1,582 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C0035235,TREATS,ambulatory care services,Respiratory Syncytial Virus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0008078,C0004045,TREATS,Child health care,Asphyxia Neonatorum,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0008078,C0011860,TREATS,Child health care,"Diabetes Mellitus, Non-Insulin-Dependent",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0008078,C0020538,TREATS,Child health care,Hypertensive disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0008078,C0032285,TREATS,Child health care,Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0004096,TREATS,Consultation,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0008354,TREATS,Consultation,Cholera,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0008679,TREATS,Consultation,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0010340,TREATS,Consultation,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0017178,TREATS,Consultation,Gastrointestinal Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0018799,TREATS,Consultation,Heart Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0021400,TREATS,Consultation,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0035204,TREATS,Consultation,Respiration Disorders,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0009818,C0043528,TREATS,Consultation,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0339901,TREATS,Consultation,Acute respiratory infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0009818,C0740304,TREATS,Consultation,copd exacerbation,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0010337,C0021400,TREATS,Care of intensive care unit patient,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0010337,C0264490,TREATS,Care of intensive care unit patient,Acute respiratory failure,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0010337,C0282687,TREATS,Care of intensive care unit patient,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0010337,C0751956,TREATS,Care of intensive care unit patient,Acute Cerebrovascular Accidents,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0010337,C3495919,TREATS,Care of intensive care unit patient,Enthesitis-Related Arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0010337,C3873497,TREATS,Care of intensive care unit patient,Severe acute respiratory infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0011211,C0009450,TREATS,Delivery of Health Care,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0011211,C0282687,TREATS,Delivery of Health Care,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0011211,C0872315,TREATS,Delivery of Health Care,"Communicable Diseases, Emerging",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0011929,C1175175,TREATS,Diagnostic Services,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013164,C0022972,TREATS,Drug Compounding,Lambert-Eaton Myasthenic Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013164,C0023281,TREATS,Drug Compounding,Leishmaniasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013164,C1854469,TREATS,Drug Compounding,Noonan Syndrome 2,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0001314,TREATS,Drug Packaging,Acute Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0035637,TREATS,Drug Packaging,Rinderpest,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0086743,TREATS,Drug Packaging,Osteoarthrosis Deformans,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0206526,TREATS,Drug Packaging,"Tuberculosis, Multidrug-Resistant",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0268095,TREATS,Drug Packaging,Keshan disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0277550,TREATS,Drug Packaging,Endemic Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013194,C0497169,TREATS,Drug Packaging,hiv-infection/aids,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013961,C0009450,TREATS,Emergency medical service,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0013961,C0282687,TREATS,Emergency medical service,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0015034,C0007789,TREATS,Ethnomedicine,Cerebral Palsy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0015034,C0014544,TREATS,Ethnomedicine,Epilepsy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0015034,C0027765,TREATS,Ethnomedicine,nervous system disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0015034,C0038454,TREATS,Ethnomedicine,Cerebrovascular accident,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0017313,C0036690,TREATS,patient care,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018727,C0270724,TREATS,Health Planning,Infantile Neuroaxonal Dystrophy,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0018738,C0008679,TREATS,Health Promotion,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018738,C0024530,TREATS,Health Promotion,Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018738,C4505065,TREATS,Health Promotion,Noncommunicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C0002895,TREATS,Health Services,"Anemia, Sickle Cell",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C0004096,TREATS,Health Services,Asthma,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0018747,C0009450,TREATS,Health Services,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0018747,C0011615,TREATS,Health Services,"Dermatitis, Atopic",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0018747,C0011847,TREATS,Health Services,Diabetes,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C0041296,TREATS,Health Services,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C0043528,TREATS,Health Services,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C0154830,TREATS,Health Services,Proliferative diabetic retinopathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C2936328,TREATS,Health Services,Neglected Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0018747,C3495919,TREATS,Health Services,Enthesitis-Related Arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019855,C0008679,TREATS,Home Care Services,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019948,C0006271,TREATS,Hospital Administration,Bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019948,C0009450,TREATS,Hospital Administration,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019948,C0205721,TREATS,Hospital Administration,"Infections, Hospital",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019948,C1175175,TREATS,Hospital Administration,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019982,C0004096,TREATS,Hospital Referral,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0001339,TREATS,Hospitalization,Acute pancreatitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0002965,TREATS,Hospitalization,"Angina, Unstable",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0004096,TREATS,Hospitalization,Asthma,hlca,dsyn,11,TREATS_HLCAtrtsDSYN
+C0019993,C0004626,TREATS,Hospitalization,"Pneumonia, Bacterial",hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C0019993,C0006271,TREATS,Hospitalization,Bronchiolitis,hlca,dsyn,14,TREATS_HLCAtrtsDSYN
+C0019993,C0008350,TREATS,Hospitalization,Cholelithiasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0008679,TREATS,Hospitalization,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0009450,TREATS,Hospitalization,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0011311,TREATS,Hospitalization,Dengue Fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0014009,TREATS,Hospitalization,Empyema,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0016627,TREATS,Hospitalization,Influenza in Birds,hlca,dsyn,6,TREATS_HLCAtrtsDSYN
+C0019993,C0017160,TREATS,Hospitalization,Gastroenteritis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0018801,TREATS,Hospitalization,Heart failure,hlca,dsyn,7,TREATS_HLCAtrtsDSYN
+C0019993,C0018802,TREATS,Hospitalization,Congestive heart failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0019100,TREATS,Hospitalization,Severe Dengue,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0021400,TREATS,Hospitalization,Influenza,hlca,dsyn,25,TREATS_HLCAtrtsDSYN
+C0019993,C0022661,TREATS,Hospitalization,"Kidney Failure, Chronic",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0023241,TREATS,Hospitalization,Legionnaires' Disease,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0024117,TREATS,Hospitalization,Chronic Obstructive Airway Disease,hlca,dsyn,8,TREATS_HLCAtrtsDSYN
+C0019993,C0025289,TREATS,Hospitalization,Meningitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0026780,TREATS,Hospitalization,Mumps,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0027051,TREATS,Hospitalization,Myocardial Infarction,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0032285,TREATS,Hospitalization,Pneumonia,hlca,dsyn,30,TREATS_HLCAtrtsDSYN
+C0019993,C0032310,TREATS,Hospitalization,"Pneumonia, Viral",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0035204,TREATS,Hospitalization,Respiration Disorders,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0019993,C0035220,TREATS,Hospitalization,"Respiratory Distress Syndrome, Newborn",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0035222,TREATS,Hospitalization,"Respiratory Distress Syndrome, Adult",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0019993,C0035235,TREATS,Hospitalization,Respiratory Syncytial Virus Infections,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0035243,TREATS,Hospitalization,Respiratory Tract Infections,hlca,dsyn,13,TREATS_HLCAtrtsDSYN
+C0019993,C0036690,TREATS,Hospitalization,Septicemia,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0043167,TREATS,Hospitalization,Pertussis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0149514,TREATS,Hospitalization,Acute bronchitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0149725,TREATS,Hospitalization,Lower respiratory tract infection,hlca,dsyn,10,TREATS_HLCAtrtsDSYN
+C0019993,C0238990,TREATS,Hospitalization,Acute lower respiratory tract infection,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0264219,TREATS,Hospitalization,Acute respiratory disease,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0019993,C0275524,TREATS,Hospitalization,Coinfection,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0282687,TREATS,Hospitalization,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0339901,TREATS,Hospitalization,Acute respiratory infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0339941,TREATS,Hospitalization,Acute viral bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0340044,TREATS,Hospitalization,Acute exacerbation of chronic obstructive airways disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0347950,TREATS,Hospitalization,Asthma attack,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0376300,TREATS,Hospitalization,Dengue Shock Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0694549,TREATS,Hospitalization,Community acquired pneumonia,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0729532,TREATS,Hospitalization,Viral lower respiratory infection,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C0747676,TREATS,Hospitalization,pneumonia childhood,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C0948008,TREATS,Hospitalization,Ischemic stroke,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C1142578,TREATS,Hospitalization,Bilateral pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C1145670,TREATS,Hospitalization,Respiratory Failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C1175175,TREATS,Hospitalization,Severe Acute Respiratory Syndrome,hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C0019993,C1290325,TREATS,Hospitalization,Disorder of lower respiratory system,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C1561643,TREATS,Hospitalization,Chronic Kidney Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C1856053,TREATS,Hospitalization,Hydranencephaly with Renal Aplasia-Dysplasia,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0019993,C2076600,TREATS,Hospitalization,Influenza due to Influenza A virus subtype H1N1,hlca,dsyn,5,TREATS_HLCAtrtsDSYN
+C0019993,C3277428,TREATS,Hospitalization,Severe viral infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C3694279,TREATS,Hospitalization,Middle East Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0019993,C3873497,TREATS,Hospitalization,Severe acute respiratory infection,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0020043,C0024530,TREATS,Home visit (procedure),Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0020043,C0032285,TREATS,Home visit (procedure),Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0021629,C0043528,TREATS,Institutionalization,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0021682,C0154830,TREATS,Health Insurance,Proliferative diabetic retinopathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0021711,C0242786,TREATS,Neonatal Intensive Care,High-Risk Pregnancy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C0006267,TREATS,long-term care,Bronchiectasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C0010674,TREATS,long-term care,Cystic Fibrosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C0011303,TREATS,long-term care,Demyelinating Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C0275518,TREATS,long-term care,Acute infectious disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C0524910,TREATS,long-term care,"Hepatitis C, Chronic",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0023977,C3277428,TREATS,long-term care,Severe viral infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0025355,C0009450,TREATS,Mental Health Services,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0025355,C0872315,TREATS,Mental Health Services,"Communicable Diseases, Emerging",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0025355,C3687801,TREATS,Mental Health Services,Middle Eastern Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0025355,C3694279,TREATS,Mental Health Services,Middle East Respiratory Syndrome,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0030231,C0730607,TREATS,Palliative Care,Severe chronic obstructive pulmonary disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030672,C0264491,TREATS,Patient Acceptance of Health Care,Acute-on-chronic respiratory failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0009450,TREATS,Patient Discharge,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0010246,TREATS,Patient Discharge,Coxsackievirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0011854,TREATS,Patient Discharge,"Diabetes Mellitus, Insulin-Dependent",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0018799,TREATS,Patient Discharge,Heart Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0019693,TREATS,Patient Discharge,HIV Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0035243,TREATS,Patient Discharge,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0037354,TREATS,Patient Discharge,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C0042769,TREATS,Patient Discharge,Virus Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0030685,C0856169,TREATS,Patient Discharge,endothelial dysfunction,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030685,C1175175,TREATS,Patient Discharge,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030695,C0009450,TREATS,Patient Monitoring,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030695,C0015695,TREATS,Patient Monitoring,Fatty Liver,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030695,C0042740,TREATS,Patient Monitoring,Viral syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0030695,C0456103,TREATS,Patient Monitoring,Sepsis of the newborn,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0031809,C0004626,TREATS,Physical Examination,"Pneumonia, Bacterial",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0031809,C0006271,TREATS,Physical Examination,Bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0031809,C0022658,TREATS,Physical Examination,Kidney Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0031809,C0042769,TREATS,Physical Examination,Virus Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0031809,C1141926,TREATS,Physical Examination,abdominal sepsis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033052,C0154830,TREATS,Prenatal care,Proliferative diabetic retinopathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033080,C0009421,TREATS,Prescription procedure,Comatose,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033080,C0017178,TREATS,Prescription procedure,Gastrointestinal Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033080,C0021390,TREATS,Prescription procedure,Inflammatory Bowel Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033080,C0021831,TREATS,Prescription procedure,Intestinal Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033080,C0023895,TREATS,Prescription procedure,Liver diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033137,C0024530,TREATS,Primary Health Care,Malaria,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0033137,C0035243,TREATS,Primary Health Care,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033137,C0275556,TREATS,Primary Health Care,Acute bacterial sinusitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033325,C0010340,TREATS,Forecast of outcome,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0033333,C0003175,TREATS,Program Development,Anthrax disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0034024,C0872315,TREATS,Public Health Practice,"Communicable Diseases, Emerging",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0034115,C1623038,TREATS,Paracentesis,Cirrhosis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0079990,C0019158,TREATS,"Notification, Partner",Hepatitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0079990,C0029118,TREATS,"Notification, Partner",Opportunistic Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0079990,C0036916,TREATS,"Notification, Partner",Sexually Transmitted Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0079990,C0041296,TREATS,"Notification, Partner",Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0079990,C0275524,TREATS,"Notification, Partner",Coinfection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0001314,TREATS,Infectious disease prevention / control,Acute Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0010674,TREATS,Infectious disease prevention / control,Cystic Fibrosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0042769,TREATS,Infectious disease prevention / control,Virus Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0043528,TREATS,Infectious disease prevention / control,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0205721,TREATS,Infectious disease prevention / control,"Infections, Hospital",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0270724,TREATS,Infectious disease prevention / control,Infantile Neuroaxonal Dystrophy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C0342731,TREATS,Infectious disease prevention / control,Deficiency of mevalonate kinase,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0085557,C0872315,TREATS,Infectious disease prevention / control,"Communicable Diseases, Emerging",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0085557,C1175175,TREATS,Infectious disease prevention / control,Severe Acute Respiratory Syndrome,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0085557,C2062441,TREATS,Infectious disease prevention / control,Influenza A,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085557,C3687801,TREATS,Infectious disease prevention / control,Middle Eastern Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0004096,TREATS,intensive care,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0010340,TREATS,intensive care,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0014038,TREATS,intensive care,Encephalitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0018801,TREATS,intensive care,Heart failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0021400,TREATS,intensive care,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0085559,C0030305,TREATS,intensive care,Pancreatitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0032285,TREATS,intensive care,Pneumonia,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0085559,C0035222,TREATS,intensive care,"Respiratory Distress Syndrome, Adult",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0085559,C0154254,TREATS,intensive care,Polyclonal hypergammaglobulinemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0267988,TREATS,intensive care,Hyperproteinemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0282687,TREATS,intensive care,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C0949083,TREATS,intensive care,Hospital acquired pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C1145670,TREATS,intensive care,Respiratory Failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C1175175,TREATS,intensive care,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C1565489,TREATS,intensive care,Renal Insufficiency,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C1719672,TREATS,intensive care,Severe Sepsis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0085559,C3694279,TREATS,intensive care,Middle East Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0086930,C0001175,TREATS,Risk Assessment,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0086930,C0009450,TREATS,Risk Assessment,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0150270,C0015656,TREATS,Medication Management,Fasciolopsiasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0150270,C0027765,TREATS,Medication Management,nervous system disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0150270,C0277565,TREATS,Medication Management,Local disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0150600,C0011334,TREATS,Advice,Dental caries,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0150600,C0016627,TREATS,Advice,Influenza in Birds,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0150600,C0021400,TREATS,Advice,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0150706,C3694279,TREATS,Perioperative Care,Middle East Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0162648,C0008679,TREATS,Telemedicine,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0162648,C0037317,TREATS,Telemedicine,Sleep disturbances,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0162648,C0206750,TREATS,Telemedicine,Coronavirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0175637,C0036690,TREATS,Health evaluation,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184634,C0032285,TREATS,Ventilator care,Pneumonia,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0002895,TREATS,Hospital admission,"Anemia, Sickle Cell",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0004096,TREATS,Hospital admission,Asthma,hlca,dsyn,14,TREATS_HLCAtrtsDSYN
+C0184666,C0006271,TREATS,Hospital admission,Bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0007222,TREATS,Hospital admission,Cardiovascular Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0008350,TREATS,Hospital admission,Cholelithiasis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0011849,TREATS,Hospital admission,Diabetes Mellitus,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0018799,TREATS,Hospital admission,Heart Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0021400,TREATS,Hospital admission,Influenza,hlca,dsyn,5,TREATS_HLCAtrtsDSYN
+C0184666,C0022658,TREATS,Hospital admission,Kidney Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0024117,TREATS,Hospital admission,Chronic Obstructive Airway Disease,hlca,dsyn,5,TREATS_HLCAtrtsDSYN
+C0184666,C0032285,TREATS,Hospital admission,Pneumonia,hlca,dsyn,8,TREATS_HLCAtrtsDSYN
+C0184666,C0035204,TREATS,Hospital admission,Respiration Disorders,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0035222,TREATS,Hospital admission,"Respiratory Distress Syndrome, Adult",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0035235,TREATS,Hospital admission,Respiratory Syncytial Virus Infections,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0035243,TREATS,Hospital admission,Respiratory Tract Infections,hlca,dsyn,8,TREATS_HLCAtrtsDSYN
+C0184666,C0036690,TREATS,Hospital admission,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0038218,TREATS,Hospital admission,Status Asthmaticus,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0038454,TREATS,Hospital admission,Cerebrovascular accident,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0149725,TREATS,Hospital admission,Lower respiratory tract infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0155919,TREATS,Hospital admission,Acute pulmonary edema,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0264490,TREATS,Hospital admission,Acute respiratory failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0339901,TREATS,Hospital admission,Acute respiratory infections,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0184666,C0442886,TREATS,Hospital admission,Secondary Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0694549,TREATS,Hospital admission,Community acquired pneumonia,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0184666,C0740304,TREATS,Hospital admission,copd exacerbation,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0740848,TREATS,Hospital admission,Chronic Obstructive Pulmonary Disease EXACERBATION,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C0796085,TREATS,Hospital admission,Nance-Horan syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C1175175,TREATS,Hospital admission,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0184666,C1290807,TREATS,Hospital admission,Diarrheal disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0204695,C3534575,TREATS,Feeding patient,Animal Health,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0205787,C0001175,TREATS,Health Campaigns,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0205787,C0019101,TREATS,Health Campaigns,Hemorrhagic Fever with Renal Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0205787,C0032064,TREATS,Health Campaigns,Plague,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206056,C0010340,TREATS,Microdialysis,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0006277,TREATS,Immunization Programs,Bronchitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0012546,TREATS,Immunization Programs,Diphtheria,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0206082,C0021400,TREATS,Immunization Programs,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0025007,TREATS,Immunization Programs,Measles,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0206082,C0032371,TREATS,Immunization Programs,Poliomyelitis,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0206082,C0033839,TREATS,Immunization Programs,Pseudorabies,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0037354,TREATS,Immunization Programs,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0039614,TREATS,Immunization Programs,Tetanus,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0041296,TREATS,Immunization Programs,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0043167,TREATS,Immunization Programs,Pertussis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0155502,TREATS,Immunization Programs,Benign Paroxysmal Positional Vertigo,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0206082,C0263940,TREATS,Immunization Programs,Curb,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0002871,TREATS,Screening procedure,Anemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0004364,TREATS,Screening procedure,Autoimmune Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0004610,TREATS,Screening procedure,Bacteremia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0008679,TREATS,Screening procedure,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0009450,TREATS,Screening procedure,Communicable Diseases,hlca,dsyn,6,TREATS_HLCAtrtsDSYN
+C0220908,C0009663,TREATS,Screening procedure,Condylomata Acuminata,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0010823,TREATS,Screening procedure,Cytomegalovirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0011334,TREATS,Screening procedure,Dental caries,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0011847,TREATS,Screening procedure,Diabetes,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0013080,TREATS,Screening procedure,Down Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0013884,TREATS,Screening procedure,Filarial Elephantiases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0014457,TREATS,Screening procedure,Eosinophilia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0018799,TREATS,Screening procedure,Heart Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0018889,TREATS,Screening procedure,Helminthiasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0018939,TREATS,Screening procedure,Hematological Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0019158,TREATS,Screening procedure,Hepatitis,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0220908,C0019163,TREATS,Screening procedure,Hepatitis B,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0019247,TREATS,Screening procedure,Hereditary Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0019340,TREATS,Screening procedure,herpes,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0019693,TREATS,Screening procedure,HIV Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0021051,TREATS,Screening procedure,Immunologic Deficiency Syndromes,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0021400,TREATS,Screening procedure,Influenza,hlca,dsyn,10,TREATS_HLCAtrtsDSYN
+C0220908,C0023281,TREATS,Screening procedure,Leishmaniasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0024530,TREATS,Screening procedure,Malaria,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0220908,C0032285,TREATS,Screening procedure,Pneumonia,hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C0220908,C0035222,TREATS,Screening procedure,"Respiratory Distress Syndrome, Adult",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0036690,TREATS,Screening procedure,Septicemia,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0220908,C0038160,TREATS,Screening procedure,Staphylococcal Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0039128,TREATS,Screening procedure,Syphilis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0220908,C0041234,TREATS,Screening procedure,Chagas Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0041296,TREATS,Screening procedure,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0041912,TREATS,Screening procedure,Upper Respiratory Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0042164,TREATS,Screening procedure,Uveitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0042749,TREATS,Screening procedure,Viremia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0042769,TREATS,Screening procedure,Virus Diseases,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0220908,C0162309,TREATS,Screening procedure,Adrenoleukodystrophy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0205721,TREATS,Screening procedure,"Infections, Hospital",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0206750,TREATS,Screening procedure,Coronavirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0275524,TREATS,Screening procedure,Coinfection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0276289,TREATS,Screening procedure,Zika Virus Infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0282687,TREATS,Screening procedure,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0343401,TREATS,Screening procedure,MRSA - Methicillin resistant Staphylococcus aureus infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0398686,TREATS,Screening procedure,Primary immune deficiency disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0729531,TREATS,Screening procedure,Viral respiratory infection,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0220908,C0746883,TREATS,Screening procedure,Febrile Neutropenia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C0872054,TREATS,Screening procedure,latent infection,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0220908,C1175175,TREATS,Screening procedure,Severe Acute Respiratory Syndrome,hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C0220908,C1264039,TREATS,Screening procedure,"von Willebrand Disease, Type 1",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C1373218,TREATS,Screening procedure,Decreased Immunologic Activity [PE],hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0220908,C1561643,TREATS,Screening procedure,Chronic Kidney Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C2062441,TREATS,Screening procedure,Influenza A,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0220908,C2076600,TREATS,Screening procedure,Influenza due to Influenza A virus subtype H1N1,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C2930619,TREATS,Screening procedure,Sex Differentiation Disorders,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C2939465,TREATS,Screening procedure,Deficiency of glucose-6-phosphate dehydrogenase,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C3495559,TREATS,Screening procedure,Juvenile arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0220908,C3694279,TREATS,Screening procedure,Middle East Respiratory Syndrome,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0259945,C3899656,TREATS,hospital care,Pediatric Infectious Disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0259991,C0021400,TREATS,"Medicine, Empirical",Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0262685,C1856053,TREATS,Delegation,Hydranencephaly with Renal Aplasia-Dysplasia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0278329,C0004096,TREATS,prescribed,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0278329,C0035243,TREATS,prescribed,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0278329,C0042029,TREATS,prescribed,Urinary tract infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0278329,C0694549,TREATS,prescribed,Community acquired pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0278329,C0740441,TREATS,prescribed,Acute diarrhea,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0302186,C0021400,TREATS,telephone call,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0422202,C0003175,TREATS,Notifications,Anthrax disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C0006309,TREATS,Notifications,Brucellosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C0008055,TREATS,Notifications,Chikungunya Fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C0009450,TREATS,Notifications,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0422202,C0023364,TREATS,Notifications,Leptospirosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C0032285,TREATS,Notifications,Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C0796085,TREATS,Notifications,Nance-Horan syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422202,C1320214,TREATS,Notifications,Invasive Streptococcus pneumoniae disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0422322,C0008679,TREATS,Follow-up consultation,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0441587,C0013570,TREATS,Clinical act of insertion,"Ecthyma, Contagious",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0441587,C0014518,TREATS,Clinical act of insertion,Toxic Epidermal Necrolysis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0441640,C0856825,TREATS,Tapering - action,Acute GVH disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0444793,C3887654,TREATS,Position change,"POLYARTERITIS NODOSA, CHILDHOOD-ONSET",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0541653,C0004626,TREATS,Chart evaluation by healthcare professional,"Pneumonia, Bacterial",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545084,C0004096,TREATS,Outpatient visits,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545084,C0021400,TREATS,Outpatient visits,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545084,C0024117,TREATS,Outpatient visits,Chronic Obstructive Airway Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545084,C0271429,TREATS,Outpatient visits,Acute otitis media,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545084,C0746102,TREATS,Outpatient visits,Chronic lung disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0545092,C0009450,TREATS,hospital visit,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0553618,C0032285,TREATS,emergency visit,Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0558024,C2931826,TREATS,Functional behavioral assessment,Potassium aggravated myotonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0581122,C0004096,TREATS,Asthma severity,Asthma,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0582103,C0021843,TREATS,Medical Examination,Intestinal Obstruction,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0586082,C0004096,TREATS,Emergency department patient visit,Asthma,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0586082,C0347950,TREATS,Emergency department patient visit,Asthma attack,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0589121,C1175175,TREATS,Follow-up visit,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0589121,C1373218,TREATS,Follow-up visit,Decreased Immunologic Activity [PE],hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0598836,C1290071,TREATS,checkup examination,Disorder of oral mucous membrane,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0677092,C0036690,TREATS,Define goals,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679830,C0035222,TREATS,patient assessment,"Respiratory Distress Syndrome, Adult",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679830,C0043167,TREATS,patient assessment,Pertussis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679830,C0206750,TREATS,patient assessment,Coronavirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679830,C1175175,TREATS,patient assessment,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679830,C3694279,TREATS,patient assessment,Middle East Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679878,C0004096,TREATS,acute care,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679878,C1290807,TREATS,acute care,Diarrheal disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679897,C0004096,TREATS,health care program,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679898,C0035243,TREATS,public health program,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0679909,C0021400,TREATS,health care planning,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0683509,C0043528,TREATS,disease detection,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0699943,C0032371,TREATS,Public health service,Poliomyelitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0733511,C0009450,TREATS,Medical Surveillance,Communicable Diseases,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0733511,C0021400,TREATS,Medical Surveillance,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0752189,C0001314,TREATS,"Technology, Health Care",Acute Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0004623,TREATS,Challenge,Bacterial Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0009450,TREATS,Challenge,Communicable Diseases,hlca,dsyn,7,TREATS_HLCAtrtsDSYN
+C0805586,C0014122,TREATS,Challenge,Subacute Bacterial Endocarditis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0024117,TREATS,Challenge,Chronic Obstructive Airway Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0024530,TREATS,Challenge,Malaria,hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C0805586,C0025007,TREATS,Challenge,Measles,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0027765,TREATS,Challenge,nervous system disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0029342,TREATS,Challenge,Orthomyxoviridae Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0032371,TREATS,Challenge,Poliomyelitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0035243,TREATS,Challenge,Respiratory Tract Infections,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0805586,C0036690,TREATS,Challenge,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0037354,TREATS,Challenge,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0041296,TREATS,Challenge,Tuberculosis,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0805586,C0042769,TREATS,Challenge,Virus Diseases,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0805586,C0043528,TREATS,Challenge,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0270724,TREATS,Challenge,Infantile Neuroaxonal Dystrophy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0376538,TREATS,Challenge,Porcine Reproductive and Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0497169,TREATS,Challenge,hiv-infection/aids,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0699949,TREATS,Challenge,airway disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C0872315,TREATS,Challenge,"Communicable Diseases, Emerging",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C0805586,C1096155,TREATS,Challenge,Macrophage Activation Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C1175175,TREATS,Challenge,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C1257753,TREATS,Challenge,Child Malnutrition,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C1373218,TREATS,Challenge,Decreased Immunologic Activity [PE],hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C3495919,TREATS,Challenge,Enthesitis-Related Arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0805586,C3534575,TREATS,Challenge,Animal Health,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0806914,C0037274,TREATS,Medication administered,Dermatologic disorders,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C0022660,TREATS,screening tests,"Kidney Failure, Acute",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C0024117,TREATS,screening tests,Chronic Obstructive Airway Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C0035869,TREATS,screening tests,Rotavirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C0038463,TREATS,screening tests,Strongyloidiasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C0405580,TREATS,screening tests,Adrenal cortical hypofunction,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0871311,C1701940,TREATS,screening tests,"Pneumonia, Ventilator-Associated",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0871311,C3670036,TREATS,screening tests,Pituitary pars intermedia dysfunction,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C0871549,C0035235,TREATS,Withholding Treatment,Respiratory Syncytial Virus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0920625,C0008679,TREATS,nursing technique,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1138559,C0039006,TREATS,Voluntary Programs,Swine Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1138559,C0277550,TREATS,Voluntary Programs,Endemic Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1144866,C0043528,TREATS,Multi-disciplinary team,Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1144866,C1175175,TREATS,Multi-disciplinary team,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1255664,C0026919,TREATS,standardized assessments,"Mycobacterium Infections, Nontuberculous",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0001175,TREATS,Evaluation procedure,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0004096,TREATS,Evaluation procedure,Asthma,hlca,dsyn,11,TREATS_HLCAtrtsDSYN
+C1261322,C0004698,TREATS,Evaluation procedure,Balkan Nephropathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0006271,TREATS,Evaluation procedure,Bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0007193,TREATS,Evaluation procedure,"Cardiomyopathy, Dilated",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0007222,TREATS,Evaluation procedure,Cardiovascular Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0007787,TREATS,Evaluation procedure,Transient Ischemic Attack,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0009450,TREATS,Evaluation procedure,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0010054,TREATS,Evaluation procedure,Coronary Arteriosclerosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0010340,TREATS,Evaluation procedure,Critical Illness,hlca,dsyn,5,TREATS_HLCAtrtsDSYN
+C1261322,C0016052,TREATS,Evaluation procedure,Fibromuscular Dysplasia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0019196,TREATS,Evaluation procedure,Hepatitis C,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0019693,TREATS,Evaluation procedure,HIV Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0020192,TREATS,Evaluation procedure,Hyaline Membrane Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0021400,TREATS,Evaluation procedure,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1261322,C0024530,TREATS,Evaluation procedure,Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0025007,TREATS,Evaluation procedure,Measles,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0026769,TREATS,Evaluation procedure,Multiple Sclerosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0027765,TREATS,Evaluation procedure,nervous system disorder,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1261322,C0031350,TREATS,Evaluation procedure,Pharyngitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0032371,TREATS,Evaluation procedure,Poliomyelitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0035222,TREATS,Evaluation procedure,"Respiratory Distress Syndrome, Adult",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1261322,C0035243,TREATS,Evaluation procedure,Respiratory Tract Infections,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1261322,C0036690,TREATS,Evaluation procedure,Septicemia,hlca,dsyn,6,TREATS_HLCAtrtsDSYN
+C1261322,C0037354,TREATS,Evaluation procedure,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0043124,TREATS,Evaluation procedure,West Nile Fever,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1261322,C0151317,TREATS,Evaluation procedure,Chronic infectious disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0206750,TREATS,Evaluation procedure,Coronavirus Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0270724,TREATS,Evaluation procedure,Infantile Neuroaxonal Dystrophy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0275518,TREATS,Evaluation procedure,Acute infectious disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0282687,TREATS,Evaluation procedure,"Hemorrhagic Fever, Ebola",hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1261322,C0376538,TREATS,Evaluation procedure,Porcine Reproductive and Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0694549,TREATS,Evaluation procedure,Community acquired pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C0876973,TREATS,Evaluation procedure,Infectious disease of lung,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C1175175,TREATS,Evaluation procedure,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C1402315,TREATS,Evaluation procedure,Vascular lesions,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C1443953,TREATS,Evaluation procedure,Acute viral disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1261322,C3495919,TREATS,Evaluation procedure,Enthesitis-Related Arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1288295,C0021400,TREATS,Preparation - action,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1292960,C0035222,TREATS,Procedure on lung,"Respiratory Distress Syndrome, Adult",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1293116,C0001339,TREATS,Introduction procedure,Acute pancreatitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0009443,TREATS,Introduction procedure,Common Cold,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0010340,TREATS,Introduction procedure,Critical Illness,hlca,dsyn,10,TREATS_HLCAtrtsDSYN
+C1293116,C0021400,TREATS,Introduction procedure,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0024530,TREATS,Introduction procedure,Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0031350,TREATS,Introduction procedure,Pharyngitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0032269,TREATS,Introduction procedure,Pneumococcal Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0032285,TREATS,Introduction procedure,Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0032310,TREATS,Introduction procedure,"Pneumonia, Viral",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0035222,TREATS,Introduction procedure,"Respiratory Distress Syndrome, Adult",hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1293116,C0036323,TREATS,Introduction procedure,Schistosomiasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0036690,TREATS,Introduction procedure,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0037354,TREATS,Introduction procedure,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0038525,TREATS,Introduction procedure,Subarachnoid Hemorrhage,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0041296,TREATS,Introduction procedure,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0042109,TREATS,Introduction procedure,Urticaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0042769,TREATS,Introduction procedure,Virus Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0205721,TREATS,Introduction procedure,"Infections, Hospital",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0264490,TREATS,Introduction procedure,Acute respiratory failure,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1293116,C0349412,TREATS,Introduction procedure,Refractory shock,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0398350,TREATS,Introduction procedure,Acute cardiac pulmonary edema,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0678236,TREATS,Introduction procedure,Rare Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0729531,TREATS,Introduction procedure,Viral respiratory infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C0751956,TREATS,Introduction procedure,Acute Cerebrovascular Accidents,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C1141926,TREATS,Introduction procedure,abdominal sepsis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C1290885,TREATS,Introduction procedure,Acute inflammatory disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C1701940,TREATS,Introduction procedure,"Pneumonia, Ventilator-Associated",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1293116,C1719672,TREATS,Introduction procedure,Severe Sepsis,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1293116,C3151446,TREATS,Introduction procedure,NESTOR-GUILLERMO PROGERIA SYNDROME,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1301725,C0032371,TREATS,Documented,Poliomyelitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1318955,C3266628,TREATS,Asthma management,Persistent asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C0009450,TREATS,Point-of-Care Testing,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C0035243,TREATS,Point-of-Care Testing,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C0036689,TREATS,Point-of-Care Testing,Streptococcal sore throat,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C0085568,TREATS,Point-of-Care Testing,Buruli Ulcer,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C0743841,TREATS,Point-of-Care Testing,Disorder characterized by fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1319069,C2062441,TREATS,Point-of-Care Testing,Influenza A,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C1320310,C0009450,TREATS,Social assessment,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1331096,C0021390,TREATS,vaccine delivery,Inflammatory Bowel Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1406915,C0024117,TREATS,breathing therapy,Chronic Obstructive Airway Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1444521,C0032371,TREATS,Environment surveillance,Poliomyelitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1512347,C0872315,TREATS,Health Communication,"Communicable Diseases, Emerging",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1514821,C0001175,TREATS,Registration,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1515089,C0031046,TREATS,Surgical Management,Pericarditis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1516615,C0009450,TREATS,Clinical Management,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1516615,C0032290,TREATS,Clinical Management,Aspiration Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1516615,C0343363,TREATS,Clinical Management,Viral gastroenteritis due to Rotavirus,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1516615,C1175175,TREATS,Clinical Management,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1516615,C3873497,TREATS,Clinical Management,Severe acute respiratory infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1518360,C0003850,TREATS,Non-Invasive Cancer Detection,Arteriosclerosis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1522577,C0006267,TREATS,follow-up,Bronchiectasis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0006271,TREATS,follow-up,Bronchiolitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0010340,TREATS,follow-up,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0018801,TREATS,follow-up,Heart failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0041296,TREATS,follow-up,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0206171,TREATS,follow-up,Community-Acquired Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0264408,TREATS,follow-up,Childhood asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0272285,TREATS,follow-up,Heparin-induced thrombocytopenia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C0349782,TREATS,follow-up,Ischemic cardiomyopathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1522577,C1175175,TREATS,follow-up,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1553687,C0008679,TREATS,public healthcare,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1553687,C0024530,TREATS,public healthcare,Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1555324,C0004096,TREATS,inpatient encounter,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1704289,C0008679,TREATS,Clinical Services,Chronic disease,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1704289,C0021400,TREATS,Clinical Services,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1704289,C0041296,TREATS,Clinical Services,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1706385,C0036690,TREATS,Device Evaluation Method,Septicemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1827871,C0007789,TREATS,Cardiac assessment,Cerebral Palsy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1999110,C0021400,TREATS,Collecting Sample,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1999123,C0021400,TREATS,Continued Surveillance,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C1999123,C0025007,TREATS,Continued Surveillance,Measles,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1999123,C0034362,TREATS,Continued Surveillance,Q Fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1999123,C1175175,TREATS,Continued Surveillance,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350442,C0009443,TREATS,Nasal Lavage,Common Cold,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350442,C0149516,TREATS,Nasal Lavage,Chronic sinusitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350504,C0003873,TREATS,"Medicine, Korean Traditional",Rheumatoid Arthritis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350504,C0014544,TREATS,"Medicine, Korean Traditional",Epilepsy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350504,C0037354,TREATS,"Medicine, Korean Traditional",Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2350596,C0009450,TREATS,Biosurveillance,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2359834,C0035222,TREATS,Additional assessment,"Respiratory Distress Syndrome, Adult",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2359834,C1264606,TREATS,Additional assessment,Persistent infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2718016,C0154671,TREATS,Compassionate Use,Degenerative brain disorder,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C2718016,C0282687,TREATS,Compassionate Use,"Hemorrhagic Fever, Ebola",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2826232,C1561643,TREATS,Dose Adjustment,Chronic Kidney Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2826232,C1565489,TREATS,Dose Adjustment,Renal Insufficiency,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2936303,C0276143,TREATS,Inappropriate Prescribing,Viral pharyngitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C2936303,C0877203,TREATS,Inappropriate Prescribing,Viral Respiratory Tract Infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3242284,C0009450,TREATS,Population Health,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C3258270,C1145670,TREATS,Transport method,Respiratory Failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3494318,C0008679,TREATS,Public Health Surveillance,Chronic disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3494318,C0009450,TREATS,Public Health Surveillance,Communicable Diseases,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C3494318,C0024530,TREATS,Public Health Surveillance,Malaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3494318,C3824759,TREATS,Public Health Surveillance,Flaviviral diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3494402,C0796085,TREATS,Secondary Care,Nance-Horan syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3494403,C1175175,TREATS,Tertiary Healthcare,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3509523,C0442867,TREATS,Haematopoietic stem cell transplant,malignant disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3509523,C3874414,TREATS,Haematopoietic stem cell transplant,Human metapneumovirus infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3826004,C0041296,TREATS,Medical screening,Tuberculosis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C3889687,C0035204,TREATS,Clinical Observation,Respiration Disorders,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3889687,C0520680,TREATS,Clinical Observation,"Sleep Apnea, Central",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C3889687,C1175175,TREATS,Clinical Observation,Severe Acute Respiratory Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4036459,C0001314,TREATS,Contacts,Acute Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4036459,C0019104,TREATS,Contacts,"Hemorrhagic Fevers, Viral",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4036459,C0037354,TREATS,Contacts,Smallpox,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C4036459,C0275522,TREATS,Contacts,Asymptomatic Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4036459,C1175175,TREATS,Contacts,Severe Acute Respiratory Syndrome,hlca,dsyn,4,TREATS_HLCAtrtsDSYN
+C4036459,C1373218,TREATS,Contacts,Decreased Immunologic Activity [PE],hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4036459,C3694279,TREATS,Contacts,Middle East Respiratory Syndrome,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
+C4042802,C0027765,TREATS,Telerehabilitation,nervous system disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4082936,C0010340,TREATS,Hemodynamic Monitoring,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4277528,C0035243,TREATS,Preventive Health Programs,Respiratory Tract Infections,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4279933,C0008354,TREATS,Vaccination Campaign,Cholera,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C4279933,C0025007,TREATS,Vaccination Campaign,Measles,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4279933,C0032371,TREATS,Vaccination Campaign,Poliomyelitis,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C4279933,C0037354,TREATS,Vaccination Campaign,Smallpox,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C4279933,C0039614,TREATS,Vaccination Campaign,Tetanus,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4279933,C0041296,TREATS,Vaccination Campaign,Tuberculosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4279933,C0041466,TREATS,Vaccination Campaign,Typhoid Fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4489276,C0004096,TREATS,Readmission,Asthma,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
+C4489276,C0021400,TREATS,Readmission,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0008049,TREATS,Vaccination Coverage,Chickenpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0011860,TREATS,Vaccination Coverage,"Diabetes Mellitus, Non-Insulin-Dependent",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0012546,TREATS,Vaccination Coverage,Diphtheria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0035921,TREATS,Vaccination Coverage,Congenital Rubella Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0037354,TREATS,Vaccination Coverage,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0043395,TREATS,Vaccination Coverage,Yellow Fever,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505148,C0272302,TREATS,Vaccination Coverage,Gray Platelet Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505149,C0037354,TREATS,Immunization Coverage,Smallpox,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4505149,C0154830,TREATS,Immunization Coverage,Proliferative diabetic retinopathy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN

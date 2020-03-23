@@ -1,0 +1,432 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001271,C0041912,AUGMENTS,Actins,Upper Respiratory Infections,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0001347,C0275524,AUGMENTS,Acute-Phase Proteins,Coinfection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0001347,C1290884,AUGMENTS,Acute-Phase Proteins,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0001473,C0041912,AUGMENTS,Adenosine Triphosphatases,Upper Respiratory Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0002723,C0042749,AUGMENTS,Serum amyloid A protein,Viremia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003009,C0011860,AUGMENTS,angiotensin II,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003018,C1096155,AUGMENTS,Angiotensins,Macrophage Activation Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0003723,AUGMENTS,Antibodies,Arbovirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0009450,AUGMENTS,Antibodies,Communicable Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0030779,AUGMENTS,Antibodies,Pelger-Huet Anomaly,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0042769,AUGMENTS,Antibodies,Virus Diseases,aapp,dsyn,6,AUGMENTS_AAPPaugmDSYN
+C0003241,C0242917,AUGMENTS,Antibodies,Filoviridae Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0276289,AUGMENTS,Antibodies,Zika Virus Infection,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0003241,C0276500,AUGMENTS,Antibodies,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C0343537,AUGMENTS,Antibodies,Specific viral infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C1175175,AUGMENTS,Antibodies,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C1853120,AUGMENTS,Antibodies,Noonan Syndrome 4,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C1864389,AUGMENTS,Antibodies,PREMATURE CHROMATID SEPARATION TRAIT,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003241,C2931826,AUGMENTS,Antibodies,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003242,C0042749,AUGMENTS,"Antibodies, Anti-Idiotypic",Viremia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003250,C0010823,AUGMENTS,Monoclonal Antibodies,Cytomegalovirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003250,C0024440,AUGMENTS,Monoclonal Antibodies,"Macular Edema, Cystoid",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003250,C0042769,AUGMENTS,Monoclonal Antibodies,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003250,C1864389,AUGMENTS,Monoclonal Antibodies,PREMATURE CHROMATID SEPARATION TRAIT,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0003595,C0745283,AUGMENTS,Apolipoprotein E,INFECTIOUS PROCESS,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0006560,C0009326,AUGMENTS,C-reactive protein,Collagen Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0006560,C0694549,AUGMENTS,C-reactive protein,Community acquired pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0007428,C0019693,AUGMENTS,Cathepsins,HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0007578,C0276500,AUGMENTS,Cell Adhesion Molecules,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0009498,C0042769,AUGMENTS,Complement System Proteins,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0009498,C0043124,AUGMENTS,Complement System Proteins,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0009498,C0276500,AUGMENTS,Complement System Proteins,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0009545,C0042769,AUGMENTS,Complement Membrane Attack Complex,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0010132,C0032002,AUGMENTS,Corticotropin-Releasing Hormone,Pituitary Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0010590,C0022521,AUGMENTS,Cycloserine,Kartagener Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0010590,C0276500,AUGMENTS,Cycloserine,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0010590,C0376538,AUGMENTS,Cycloserine,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0010590,C0796126,AUGMENTS,Cycloserine,AICARDI-GOUTIERES SYNDROME 1,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0013729,C0042769,AUGMENTS,Eukaryotic Initiation Factor-2,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0015683,C4288963,AUGMENTS,Fatty-acid synthase,Hepatitis C Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0017278,C0019693,AUGMENTS,"Gene Products, env",HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0017757,C0031106,AUGMENTS,Glucosephosphate Dehydrogenase,"Periodontitis, Juvenile",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0017968,C1290884,AUGMENTS,Glycoproteins,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0018595,C0014335,AUGMENTS,Haptoglobins,Enteritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0018847,C2931826,AUGMENTS,Heat Shock Protein 27,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0019587,C0001363,AUGMENTS,Amine Oxidase (Copper-Containing),Acute vascular insufficiency of intestine (disorder),aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0019630,C0376538,AUGMENTS,Histocompatibility Antigens Class II,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0019652,C0032285,AUGMENTS,Histones,Pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0020960,C1853120,AUGMENTS,Immune Sera,Noonan Syndrome 4,aapp,dsyn,3,AUGMENTS_AAPPaugmDSYN
+C0021701,C0019104,AUGMENTS,Integrins,"Hemorrhagic Fevers, Viral",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021740,C0008312,AUGMENTS,Recombinant Interferon-gamma,Primary biliary cirrhosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021747,C0023530,AUGMENTS,Interferons,Leukopenia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021747,C0042769,AUGMENTS,Interferons,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021747,C4048273,AUGMENTS,Interferons,Chorioretinal atrophy,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0021755,C0031106,AUGMENTS,Interleukin-1,"Periodontitis, Juvenile",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021755,C0302809,AUGMENTS,Interleukin-1,Fulminant hepatitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021755,C2931826,AUGMENTS,Interleukin-1,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021756,C1519680,AUGMENTS,Interleukin-2,Tumor Immunity,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021758,C2931826,AUGMENTS,Interleukin-4,Potassium aggravated myotonia,aapp,dsyn,4,AUGMENTS_AAPPaugmDSYN
+C0021760,C0024440,AUGMENTS,Interleukin-6,"Macular Edema, Cystoid",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021760,C0033036,AUGMENTS,Interleukin-6,Atrial Premature Complexes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021760,C0035222,AUGMENTS,Interleukin-6,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021760,C0042769,AUGMENTS,Interleukin-6,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0021760,C1535917,AUGMENTS,Interleukin-6,Nipah Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0022709,C0011860,AUGMENTS,Peptidyl-Dipeptidase A,"Diabetes Mellitus, Non-Insulin-Dependent",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0022920,C0042721,AUGMENTS,Lactic dehydrogenase isoenzyme,Viral hepatitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0023206,C0282687,AUGMENTS,Lectin,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0023206,C1096155,AUGMENTS,Lectin,Macrophage Activation Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0024075,C1854336,AUGMENTS,Luciferases,PARAGANGLIOMAS 3,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0027078,C0155626,AUGMENTS,Myoglobin,Acute myocardial infarction,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0027752,C0035235,AUGMENTS,Nerve Growth Factor,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0028612,C0042769,AUGMENTS,Nucleoproteins,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0030940,C0016627,AUGMENTS,Peptide Hydrolases,Influenza in Birds,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0030940,C0019693,AUGMENTS,Peptide Hydrolases,HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0030940,C0042769,AUGMENTS,Peptide Hydrolases,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0030940,C1175175,AUGMENTS,Peptide Hydrolases,Severe Acute Respiratory Syndrome,aapp,dsyn,3,AUGMENTS_AAPPaugmDSYN
+C0030940,C3694279,AUGMENTS,Peptide Hydrolases,Middle East Respiratory Syndrome,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0030946,C0001126,AUGMENTS,Endopeptidases,Renal tubular acidosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0031686,C0042769,AUGMENTS,Protein phosphatase,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0032183,C0019189,AUGMENTS,Platelet Factor 4,"Hepatitis, Chronic",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0032183,C0023890,AUGMENTS,Platelet Factor 4,Liver Cirrhosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0034793,C0042769,AUGMENTS,Complement Receptor,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0034800,C0748168,AUGMENTS,"Receptors, Cell Surface",Pulmonary Pathology,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0034805,C0042769,AUGMENTS,Fc Receptor,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0036734,C2062441,AUGMENTS,Serine Endopeptidases,Influenza A,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0040690,C0271429,AUGMENTS,Transforming Growth Factor beta,Acute otitis media,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0040690,C0376550,AUGMENTS,Transforming Growth Factor beta,Astroviridae Infections,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0041236,C0042769,AUGMENTS,TRYPSIN,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0041368,C0730328,AUGMENTS,Tumor Necrosis Factors,Central Serous Chorioretinopathy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0042413,C0032002,AUGMENTS,Vasopressins,Pituitary Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0042666,C0702166,AUGMENTS,Vimentin,Acne,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0042711,C1096155,AUGMENTS,Viral Envelope Proteins,Macrophage Activation Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0042736,C0019348,AUGMENTS,Viral Proteins,Herpes Simplex Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0042736,C0034069,AUGMENTS,Viral Proteins,Pulmonary Fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0052058,C0947751,AUGMENTS,antihemorrhagic factor,vascular inflammations,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0052201,C0085220,AUGMENTS,Apolipoprotein E4,Cerebral Amyloid Angiopathy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0054015,C0679225,AUGMENTS,Nesiritide,multiple pathologies,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0054505,C0858318,AUGMENTS,Calgranulin B,Plasmodium falciparum infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0054505,C0858321,AUGMENTS,Calgranulin B,Plasmodium vivax infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0054871,C2062441,AUGMENTS,Cathepsin L,Influenza A,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0054871,C3694279,AUGMENTS,Cathepsin L,Middle East Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0056978,C1535917,AUGMENTS,Chemokine CXCL10,Nipah Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0058988,C0022716,AUGMENTS,Eukaryotic Initiation Factor-4E,Menkes Kinky Hair Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0060623,C1096155,AUGMENTS,Follistatin,Macrophage Activation Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0061355,C0011847,AUGMENTS,Glucagon-Like Peptide 1,Diabetes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0061355,C1096155,AUGMENTS,Glucagon-Like Peptide 1,Macrophage Activation Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0062503,C0042769,AUGMENTS,Heparan Sulfate Proteoglycans,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0063425,C0001175,AUGMENTS,immunoglobulin M receptor,Acquired Immunodeficiency Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0063695,C0276500,AUGMENTS,Intercellular adhesion molecule 1,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0064833,C0024117,AUGMENTS,Leukocyte Elastane,Chronic Obstructive Airway Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0065827,C0152517,AUGMENTS,Measles Virus Nucleoprotein,Enteritis due to specified virus,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0070906,C0042769,AUGMENTS,ribosomal protein P0,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0071216,C0042769,AUGMENTS,Urokinase Plasminogen Activator Receptor,Virus Diseases,aapp,dsyn,3,AUGMENTS_AAPPaugmDSYN
+C0071795,C0029408,AUGMENTS,2-5A-dependent ribonuclease,Degenerative polyarthritis,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0071795,C0042769,AUGMENTS,2-5A-dependent ribonuclease,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0072027,C0004623,AUGMENTS,procalcitonin,Bacterial Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0072027,C0694549,AUGMENTS,procalcitonin,Community acquired pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0072978,C0032285,AUGMENTS,RANTES,Pneumonia,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0072978,C0035235,AUGMENTS,RANTES,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0078207,C0008370,AUGMENTS,very low density lipoprotein triglyceride,Cholestasis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0008679,AUGMENTS,cytokine,Chronic disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0033036,AUGMENTS,cytokine,Atrial Premature Complexes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0042769,AUGMENTS,cytokine,Virus Diseases,aapp,dsyn,3,AUGMENTS_AAPPaugmDSYN
+C0079189,C0162309,AUGMENTS,cytokine,Adrenoleukodystrophy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0206752,AUGMENTS,cytokine,Alphavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0263221,AUGMENTS,cytokine,Acute eczema,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0275524,AUGMENTS,cytokine,Coinfection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0578491,AUGMENTS,cytokine,Infection by site,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C0729531,AUGMENTS,cytokine,Viral respiratory infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C1175175,AUGMENTS,cytokine,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C1535917,AUGMENTS,cytokine,Nipah Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079189,C2930619,AUGMENTS,cytokine,Sex Differentiation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079460,C0014057,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Japanese Encephalitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079460,C1860224,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079633,C0035235,AUGMENTS,Interleukin-8,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079633,C0042769,AUGMENTS,Interleukin-8,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079633,C0206750,AUGMENTS,Interleukin-8,Coronavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079633,C0275518,AUGMENTS,Interleukin-8,Acute infectious disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079904,C0034069,AUGMENTS,NF-kappa B,Pulmonary Fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0079904,C0876973,AUGMENTS,NF-kappa B,Infectious disease of lung,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0080058,C0019189,AUGMENTS,Proto-Oncogene Proteins p21(ras),"Hepatitis, Chronic",aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0080222,C0151650,AUGMENTS,"TGFB1 protein, human",Renal fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0080222,C1969372,AUGMENTS,"TGFB1 protein, human",Tubulointerstitial fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0081714,C0577631,AUGMENTS,"Antigens, CD147",Carotid Atherosclerosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0081937,C0008679,AUGMENTS,Dipeptidyl-Peptidase IV,Chronic disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0083031,C0042769,AUGMENTS,Interleukin-11,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0084133,C2930619,AUGMENTS,Polyubiquitin,Sex Differentiation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0084692,C0003850,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Arteriosclerosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0084692,C0024117,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Chronic Obstructive Airway Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0084692,C0276500,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0085295,C0042769,AUGMENTS,Interleukin-10,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0085295,C0275518,AUGMENTS,Interleukin-10,Acute infectious disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0085295,C0582415,AUGMENTS,Interleukin-10,Acute asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0085295,C1744558,AUGMENTS,Interleukin-10,T-lymphocyte deficiency,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0085828,C1860224,AUGMENTS,Transcription Factor AP-1,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0103306,C0009319,AUGMENTS,angiotensin I (1-7),Colitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0103306,C0022660,AUGMENTS,angiotensin I (1-7),"Kidney Failure, Acute",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0103306,C1096155,AUGMENTS,angiotensin I (1-7),Macrophage Activation Syndrome,aapp,dsyn,5,AUGMENTS_AAPPaugmDSYN
+C0103404,C0034345,AUGMENTS,Annexin A2,Pyruvate Dehydrogenase Complex Deficiency Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0108801,C0042769,AUGMENTS,"TFRC protein, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0115305,C0024117,AUGMENTS,E-Selectin,Chronic Obstructive Airway Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0120285,C3888198,AUGMENTS,Green Fluorescent Proteins,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0120465,C0035436,AUGMENTS,Guanine Nucleotide Exchange Factors,Rheumatic Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0123538,C0042769,AUGMENTS,Heterogeneous-Nuclear Ribonucleoproteins,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0123759,C0033036,AUGMENTS,Interleukin-12,Atrial Premature Complexes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0125258,C0034345,AUGMENTS,Lamin Type A,Pyruvate Dehydrogenase Complex Deficiency Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0128897,C0010692,AUGMENTS,Monocyte Chemoattractant Protein-1,Cystitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0145947,C0041296,AUGMENTS,Tissue-Inhibitor of Metalloproteinase-1,Tuberculosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0165073,C0232197,AUGMENTS,Synucleins,Fibrillation,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0165519,C0035222,AUGMENTS,Matrix Metalloproteinase 9,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0165519,C0041296,AUGMENTS,Matrix Metalloproteinase 9,Tuberculosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0166033,C0023860,AUGMENTS,I kappa B beta protein,Listeriosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0169658,C0042769,AUGMENTS,Janus kinase 1,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0172537,C0035222,AUGMENTS,Matrix Metalloproteinase 2,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0178774,C0277565,AUGMENTS,Nucleocapsid,Local disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0206528,C0242770,AUGMENTS,Gelatinases,Bronchiolitis Obliterans Organizing Pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0208355,C0001314,AUGMENTS,multicatalytic endopeptidase complex,Acute Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0214345,C0021400,AUGMENTS,PTB-associated splicing factor,Influenza,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0214737,C2931826,AUGMENTS,"CCL8 protein, human",Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0214743,C0004096,AUGMENTS,Interleukin-13,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0214743,C0042769,AUGMENTS,Interleukin-13,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0214743,C2930619,AUGMENTS,Interleukin-13,Sex Differentiation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0214743,C2931826,AUGMENTS,Interleukin-13,Potassium aggravated myotonia,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0215955,C0022660,AUGMENTS,"LCN2 protein, human","Kidney Failure, Acute",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0242392,C0242917,AUGMENTS,Cell Surface Proteins,Filoviridae Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0243041,C0042769,AUGMENTS,Molecular Chaperones,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0247771,C0032285,AUGMENTS,interleukin-10 receptor,Pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0254610,C1519680,AUGMENTS,Interleukin-15,Tumor Immunity,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0254653,C0010823,AUGMENTS,interferon alpha-beta receptor,Cytomegalovirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0255813,C0018801,AUGMENTS,"Receptors, Tumor Necrosis Factor, Type II",Heart failure,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0282554,C0004096,AUGMENTS,chemokine,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0282554,C0008679,AUGMENTS,chemokine,Chronic disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0282554,C0033036,AUGMENTS,chemokine,Atrial Premature Complexes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0282554,C0034069,AUGMENTS,chemokine,Pulmonary Fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0282554,C0042769,AUGMENTS,chemokine,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0282554,C1175175,AUGMENTS,chemokine,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0287990,C1864389,AUGMENTS,paired basic amino acid cleaving enzyme,PREMATURE CHROMATID SEPARATION TRAIT,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0287990,C3694279,AUGMENTS,paired basic amino acid cleaving enzyme,Middle East Respiratory Syndrome,aapp,dsyn,3,AUGMENTS_AAPPaugmDSYN
+C0299583,C0730328,AUGMENTS,leptin,Central Serous Chorioretinopathy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0305052,C0007684,AUGMENTS,Gamma globulin serum,Central Nervous System Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0305052,C0042769,AUGMENTS,Gamma globulin serum,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0305052,C0376538,AUGMENTS,Gamma globulin serum,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0377707,C0019196,AUGMENTS,Nuclease Sensitive Element Binding Protein 1,Hepatitis C,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0384156,C0004096,AUGMENTS,epithelial sodium channel,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0384768,C0043124,AUGMENTS,"IRF3 protein, human",West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0475463,C0042769,AUGMENTS,"Antibodies, Neutralizing",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0475463,C1175175,AUGMENTS,"Antibodies, Neutralizing",Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0487019,C0876991,AUGMENTS,"Interleukin 2 receptor, soluble",Histiocytosis haematophagic,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0529334,C0007570,AUGMENTS,transglutaminase 2,Celiac Disease,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0534519,C1860224,AUGMENTS,Caspase-1,ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0538091,C0524851,AUGMENTS,caspase-6,Neurodegenerative Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0539788,C0002395,AUGMENTS,flotillins,Alzheimer's Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0539788,C0524851,AUGMENTS,flotillins,Neurodegenerative Disorders,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0597357,C0004096,AUGMENTS,receptor,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597357,C0035235,AUGMENTS,receptor,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597357,C0042749,AUGMENTS,receptor,Viremia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597357,C0042769,AUGMENTS,receptor,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597357,C0206750,AUGMENTS,receptor,Coronavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597357,C0242917,AUGMENTS,receptor,Filoviridae Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0597721,C0877430,AUGMENTS,Janus kinase,asthma chronic,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0599561,C0042769,AUGMENTS,e protein,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0623362,C0699949,AUGMENTS,Matrix Metalloproteinases,airway disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0669479,C1565489,AUGMENTS,pro-brain natriuretic peptide (1-76),Renal Insufficiency,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0670896,C0033036,AUGMENTS,Toll-like receptors,Atrial Premature Complexes,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0674917,C0019196,AUGMENTS,"NCR1 protein, human",Hepatitis C,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0699918,C1175175,AUGMENTS,Elastases,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0699919,C0272302,AUGMENTS,Cathepsins B,Gray Platelet Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0752312,C1290884,AUGMENTS,Mitogen-Activated Protein Kinases,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0759231,C0149678,AUGMENTS,Ephrin-A2,Epstein-Barr Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0769218,C0016627,AUGMENTS,matriptase,Influenza in Birds,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0769345,C1175175,AUGMENTS,caspase-5,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0769345,C3694279,AUGMENTS,caspase-5,Middle East Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0795677,C0005779,AUGMENTS,"von Willebrand factor, human",Blood Coagulation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0812445,C0027765,AUGMENTS,CXCL1 gene,nervous system disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0872251,C0276422,AUGMENTS,protein kinase R,Tacaribe virus disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0907411,C0242917,AUGMENTS,"Lectins, C-Type",Filoviridae Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0909825,C0043124,AUGMENTS,claudin 3,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0909826,C0043124,AUGMENTS,claudin 4,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0913092,C0042769,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0913092,C0175778,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Larsen syndrome,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C0913092,C0276500,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0913092,C1175175,AUGMENTS,DC-specific ICAM-3 grabbing nonintegrin,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0919487,C0035235,AUGMENTS,NTRK1 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0919528,C1290884,AUGMENTS,KMT2A gene,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0960880,C0007222,AUGMENTS,angiotensin converting enzyme 2,Cardiovascular Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C0960880,C0011847,AUGMENTS,angiotensin converting enzyme 2,Diabetes,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1143321,C0019693,AUGMENTS,CA-074Me,HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1143321,C0276500,AUGMENTS,CA-074Me,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1143949,C0016627,AUGMENTS,"TNFSF10 protein, human",Influenza in Birds,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1174094,C0042769,AUGMENTS,"IL28B protein, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1180347,C4288963,AUGMENTS,Protein complex,Hepatitis C Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1256770,C0004096,AUGMENTS,Vascular Endothelial Growth Factors,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1256770,C0022568,AUGMENTS,Vascular Endothelial Growth Factors,Keratitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1256770,C1535917,AUGMENTS,Vascular Endothelial Growth Factors,Nipah Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1259013,C0035235,AUGMENTS,"IL2RB protein, human",Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1307407,C0024143,AUGMENTS,"FRAP1 protein, human",Lupus Nephritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1310463,C0034494,AUGMENTS,"IFIH1 protein, human",Rabies (disorder),aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1310468,C0034494,AUGMENTS,"DDX58 protein, human",Rabies (disorder),aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1313407,C0042749,AUGMENTS,"HAVCR1 protein, human",Viremia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1321919,C0003873,AUGMENTS,"TLR4 protein, human",Rheumatoid Arthritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1321919,C0024141,AUGMENTS,"TLR4 protein, human","Lupus Erythematosus, Systemic",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1321919,C0026769,AUGMENTS,"TLR4 protein, human",Multiple Sclerosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1332656,C0175778,AUGMENTS,C3 gene,Larsen syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1332819,C0035222,AUGMENTS,CXCL5 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1333336,C0001126,AUGMENTS,EP300 gene,Renal tubular acidosis,aapp,dsyn,6,AUGMENTS_AAPPaugmDSYN
+C1333343,C0276500,AUGMENTS,EPS15 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334033,C0019693,AUGMENTS,"HDAC5 protein, human",HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334078,C0035235,AUGMENTS,IFITM1 gene,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334078,C0042769,AUGMENTS,IFITM1 gene,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1334078,C0343641,AUGMENTS,IFITM1 gene,Human papilloma virus infection,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1334081,C0042769,AUGMENTS,IFNAR1 gene,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1334081,C0043124,AUGMENTS,IFNAR1 gene,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334107,C1175175,AUGMENTS,IL17C gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334126,C0032285,AUGMENTS,CXCR2 gene,Pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334136,C0041327,AUGMENTS,IRAK3 gene,"Tuberculosis, Pulmonary",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334139,C0376538,AUGMENTS,IRF3 gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1334292,C0016627,AUGMENTS,JAK3 gene,Influenza in Birds,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335261,C4288963,AUGMENTS,PRKCA gene,Hepatitis C Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335283,C0338474,AUGMENTS,PTPN6 gene,Central nervous system demyelination,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335439,C0013570,AUGMENTS,Polymerase,"Ecthyma, Contagious",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335439,C0021400,AUGMENTS,Polymerase,Influenza,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335439,C0442886,AUGMENTS,Polymerase,Secondary Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335872,C1175175,AUGMENTS,STAT1 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1335873,C1854469,AUGMENTS,STAT2 gene,Noonan Syndrome 2,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1336641,C0042769,AUGMENTS,TMPRSS2 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1336641,C3694279,AUGMENTS,TMPRSS2 gene,Middle East Respiratory Syndrome,aapp,dsyn,5,AUGMENTS_AAPPaugmDSYN
+C1336763,C0024440,AUGMENTS,Toll-Like Receptor Family Gene,"Macular Edema, Cystoid",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1336763,C0042769,AUGMENTS,Toll-Like Receptor Family Gene,Virus Diseases,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1366516,C0042769,AUGMENTS,IRF1 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1412234,C0015695,AUGMENTS,PLIN2 gene,Fatty Liver,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1412289,C1397307,AUGMENTS,APLNR gene,Cardiac fibrosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1412622,C0030499,AUGMENTS,ATF6 gene,Parasitic Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1412622,C0035869,AUGMENTS,ATF6 gene,Rotavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1412831,C0042769,AUGMENTS,BST2 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413115,C4288963,AUGMENTS,CAPN5 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413561,C0035436,AUGMENTS,CNTN3 gene,Rheumatic Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413562,C0035436,AUGMENTS,CNTN4 gene,Rheumatic Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413754,C0001126,AUGMENTS,CSHL1 gene,Renal tubular acidosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413772,C0276500,AUGMENTS,CST3 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1413931,C0085220,AUGMENTS,ACE gene,Cerebral Amyloid Angiopathy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414141,C0027051,AUGMENTS,DPP4 gene,Myocardial Infarction,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414141,C0028754,AUGMENTS,DPP4 gene,Obesity,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414314,C0042769,AUGMENTS,EGR1 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414421,C0003873,AUGMENTS,EPAS1 gene,Rheumatoid Arthritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414421,C1290884,AUGMENTS,EPAS1 gene,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414444,C0035869,AUGMENTS,ERN1 gene,Rotavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414444,C0042769,AUGMENTS,ERN1 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1414945,C0019158,AUGMENTS,GAL gene,Hepatitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415002,C0035436,AUGMENTS,GBF1 gene,Rheumatic Fever,aapp,dsyn,4,AUGMENTS_AAPPaugmDSYN
+C1415489,C0020097,AUGMENTS,HBZ gene,HTLV-I Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415634,C0276500,AUGMENTS,HNRNPA1 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415846,C0014038,AUGMENTS,ICOS gene,Encephalitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415892,C0042769,AUGMENTS,IFIT1 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415898,C0021400,AUGMENTS,IFITM3 gene,Influenza,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1415898,C0343641,AUGMENTS,IFITM3 gene,Human papilloma virus infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1415898,C2076600,AUGMENTS,IFITM3 gene,Influenza due to Influenza A virus subtype H1N1,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1416425,C3853962,AUGMENTS,IMPA1 gene,Enterovirus 71 infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1416475,C2931826,AUGMENTS,IRF7 gene,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1417032,C0001486,AUGMENTS,MARCO gene,Adenovirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1417190,C0030779,AUGMENTS,MLN gene,Pelger-Huet Anomaly,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1417497,C0024117,AUGMENTS,MUC5AC gene,Chronic Obstructive Airway Disease,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1417912,C2931826,AUGMENTS,OAS1 gene,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418574,C0042769,AUGMENTS,PIK3C3 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418597,C0004364,AUGMENTS,PITX3 gene,Autoimmune Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418597,C0021313,AUGMENTS,PITX3 gene,Infection of kidney,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418597,C0236100,AUGMENTS,PITX3 gene,Female Reproductive System Disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418597,C1290884,AUGMENTS,PITX3 gene,Inflammatory disorder,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418600,C4288963,AUGMENTS,PKD2 gene,Hepatitis C Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418793,C0019693,AUGMENTS,PPIA gene,HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1418793,C0042769,AUGMENTS,PPIA gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1420016,C0729353,AUGMENTS,SGTA gene,Subfertility,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1421395,C0042769,AUGMENTS,USP18 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1421554,C0043124,AUGMENTS,YME1L1 gene,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1421638,C2930619,AUGMENTS,TRIM25 gene,Sex Differentiation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422006,C0002395,AUGMENTS,TNFRSF21 gene,Alzheimer's Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422006,C0002736,AUGMENTS,TNFRSF21 gene,Amyotrophic Lateral Sclerosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422006,C0524851,AUGMENTS,TNFRSF21 gene,Neurodegenerative Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422064,C0018036,AUGMENTS,ACE2 gene,"Hypertension, Goldblatt",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422064,C0022658,AUGMENTS,ACE2 gene,Kidney Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1422064,C1175175,AUGMENTS,ACE2 gene,Severe Acute Respiratory Syndrome,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1422629,C2931826,AUGMENTS,DHX36 gene,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1423633,C0149678,AUGMENTS,TLR9 gene,Epstein-Barr Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1423842,C0033860,AUGMENTS,NELFCD gene,Psoriasis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1424135,C3669463,AUGMENTS,YAP1 gene,Feline immunodeficiency virus infection,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1424213,C0019196,AUGMENTS,GAS5 gene,Hepatitis C,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1424252,C1175175,AUGMENTS,IL17F gene,Severe Acute Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1425141,C0004096,AUGMENTS,HAVCR1 gene,Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1425189,C0025007,AUGMENTS,CD207 gene,Measles,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1427365,C2930619,AUGMENTS,RNF125 gene,Sex Differentiation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1442820,C0014057,AUGMENTS,"FLT3LG protein, human",Japanese Encephalitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1447045,C0001126,AUGMENTS,"EGR1 protein, human",Renal tubular acidosis,aapp,dsyn,4,AUGMENTS_AAPPaugmDSYN
+C1448238,C0149678,AUGMENTS,"FCGR2A protein, human",Epstein-Barr Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1449159,C0042769,AUGMENTS,"CCL2 protein, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1453853,C0035235,AUGMENTS,"WNK1 protein, human",Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1456447,C0021400,AUGMENTS,"SLC6A2 protein, human",Influenza,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1522712,C1535917,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Nipah Virus Infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1530270,C1860224,AUGMENTS,"IRF1 protein, human",ABLEPHARON-MACROSTOMIA SYNDROME,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1537399,C0035690,AUGMENTS,IFIH1 gene,RNA Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1537663,C0276500,AUGMENTS,MARCH8 gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1537719,C0019196,AUGMENTS,MIR21 gene,Hepatitis C,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1537719,C0035690,AUGMENTS,MIR21 gene,RNA Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1537799,C2931826,AUGMENTS,MIR145 gene,Potassium aggravated myotonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539086,C0005779,AUGMENTS,CLEC1B gene,Blood Coagulation Disorders,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539086,C0014038,AUGMENTS,CLEC1B gene,Encephalitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539093,C0042769,AUGMENTS,CLEC4A gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539093,C0276500,AUGMENTS,CLEC4A gene,Human immunodeficiency virus I infection,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C1539093,C0745283,AUGMENTS,CLEC4A gene,INFECTIOUS PROCESS,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539099,C0268135,AUGMENTS,CLEC4M gene,"Xeroderma pigmentosum, group A",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539099,C0276500,AUGMENTS,CLEC4M gene,Human immunodeficiency virus I infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539105,C0042769,AUGMENTS,CLEC11A gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539598,C0035690,AUGMENTS,GPRC5A gene,RNA Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539703,C2047215,AUGMENTS,RSAD2 gene,Herpesvirus 5 infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539835,C0016627,AUGMENTS,SPEN gene,Influenza in Birds,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539835,C0021400,AUGMENTS,SPEN gene,Influenza,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539835,C0028754,AUGMENTS,SPEN gene,Obesity,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1539835,C0032285,AUGMENTS,SPEN gene,Pneumonia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1540026,C2062441,AUGMENTS,TMPRSS11D gene,Influenza A,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1540056,C1264606,AUGMENTS,TRIM21 gene,Persistent infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1540289,C0042769,AUGMENTS,CD200 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1540289,C1264606,AUGMENTS,CD200 gene,Persistent infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1564907,C0029408,AUGMENTS,"Receptors, Pattern Recognition",Degenerative polyarthritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1567292,C0266789,AUGMENTS,"Myosin Phosphatase Rho-Interacting Protein, human",Velamentous insertion of umbilical cord (disorder),aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1624602,C0032310,AUGMENTS,Anti-Antibodies,"Pneumonia, Viral",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1624602,C0042769,AUGMENTS,Anti-Antibodies,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1698754,C0042769,AUGMENTS,"IL6 protein, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1701790,C0004096,AUGMENTS,"IL17A protein, human",Asthma,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1706005,C0043124,AUGMENTS,CD40LG wt Allele,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1708427,C0042769,AUGMENTS,IL17 wt Allele,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1822796,C0001126,AUGMENTS,SND1 gene,Renal tubular acidosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1823437,C0035690,AUGMENTS,TMEM173 gene,RNA Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1823437,C1519680,AUGMENTS,TMEM173 gene,Tumor Immunity,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1824728,C0007785,AUGMENTS,CFB gene,Cerebral Infarction,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1825497,C0042769,AUGMENTS,ATG5 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1825598,C0021400,AUGMENTS,IMPACT gene,Influenza,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1825598,C0042769,AUGMENTS,IMPACT gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1825598,C0276180,AUGMENTS,IMPACT gene,Monkeypox,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1825598,C0339901,AUGMENTS,IMPACT gene,Acute respiratory infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1864770,C0042749,AUGMENTS,MAVS gene,Viremia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1864770,C0043124,AUGMENTS,MAVS gene,West Nile Fever,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1864770,C0376538,AUGMENTS,MAVS gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1883559,C0042769,AUGMENTS,Wild Type,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1883559,C0341950,AUGMENTS,Wild Type,Severe pre-eclampsia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C1953384,C0013570,AUGMENTS,Reverse primer,"Ecthyma, Contagious",aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2681309,C0042769,AUGMENTS,C19orf66 gene,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2681866,C0376538,AUGMENTS,NEAT1 gene,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2744535,C0001247,AUGMENTS,"CD69 protein, human",Actinobacillosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2744535,C0032231,AUGMENTS,"CD69 protein, human",Pleurisy,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2744579,C0036690,AUGMENTS,"ATP8A2 protein, human",Septicemia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2744579,C2047215,AUGMENTS,"ATP8A2 protein, human",Herpesvirus 5 infection,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2936529,C0302809,AUGMENTS,Inflammasomes,Fulminant hepatitis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2945724,C0035235,AUGMENTS,f-protein,Respiratory Syncytial Virus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2985420,C0376538,AUGMENTS,CD276 Antigen,Porcine Reproductive and Respiratory Syndrome,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C2986620,C0035869,AUGMENTS,BECN1 wt Allele,Rotavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3273429,C0042769,AUGMENTS,Porcine Trypsin,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3273474,C0520680,AUGMENTS,Cytospin-B,"Sleep Apnea, Central",aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C3273837,C0276500,AUGMENTS,S100B wt Allele,Human immunodeficiency virus I infection,aapp,dsyn,2,AUGMENTS_AAPPaugmDSYN
+C3538735,C0042769,AUGMENTS,AMH wt Allele,Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3542421,C0036690,AUGMENTS,"High Affinity Immunoglobulin Gamma Fc Receptor I, human",Septicemia,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3642279,C0035869,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Rotavirus Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3849701,C0042769,AUGMENTS,"interleukin 18 protein, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3849701,C1384600,AUGMENTS,"interleukin 18 protein, human",Systemic onset juvenile chronic arthritis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3887665,C0001314,AUGMENTS,"Thrombopoietin, human",Acute Disease,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3887682,C0001126,AUGMENTS,"Platelet Glycoprotein 4, human",Renal tubular acidosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3887684,C0042769,AUGMENTS,"Kit Ligand, human",Virus Diseases,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3889258,C0001126,AUGMENTS,HHV8 ORF59 Gene,Renal tubular acidosis,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C3891304,C0343537,AUGMENTS,"Cathelicidin LL-37, human",Specific viral infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C4048280,C0019693,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",HIV Infections,aapp,dsyn,5,AUGMENTS_AAPPaugmDSYN
+C4048280,C0276500,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Human immunodeficiency virus I infection,aapp,dsyn,6,AUGMENTS_AAPPaugmDSYN
+C4048280,C0748168,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Pulmonary Pathology,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C4281740,C0019693,AUGMENTS,Recombinant human mannan-binding protein,HIV Infections,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN
+C4316927,C0018802,AUGMENTS,"Endothelin-1, human",Congestive heart failure,aapp,dsyn,1,AUGMENTS_AAPPaugmDSYN

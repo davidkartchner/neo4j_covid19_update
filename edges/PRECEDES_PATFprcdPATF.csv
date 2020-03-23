@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011304,C0017639,PRECEDES,Demyelination,Gliosis,patf,patf,2,PRECEDES_PATFprcdPATF
+C0011304,C0021368,PRECEDES,Demyelination,Inflammation,patf,patf,2,PRECEDES_PATFprcdPATF
+C0011304,C2004491,PRECEDES,Demyelination,Cicatrix,patf,patf,1,PRECEDES_PATFprcdPATF
+C0018790,C0001122,PRECEDES,Cardiac Arrest,Acidosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0018790,C0003132,PRECEDES,Cardiac Arrest,Anoxic Encephalopathy,patf,patf,1,PRECEDES_PATFprcdPATF
+C0018790,C0036974,PRECEDES,Cardiac Arrest,Shock,patf,patf,1,PRECEDES_PATFprcdPATF
+C0018790,C0333165,PRECEDES,Cardiac Arrest,Acute obstruction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0018790,C1140716,PRECEDES,Cardiac Arrest,Hypoxic Brain Damage,patf,patf,2,PRECEDES_PATFprcdPATF
+C0029445,C0036974,PRECEDES,Bone necrosis,Shock,patf,patf,2,PRECEDES_PATFprcdPATF
+C0036974,C0029445,PRECEDES,Shock,Bone necrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0085298,C0003132,PRECEDES,Sudden Cardiac Death,Anoxic Encephalopathy,patf,patf,1,PRECEDES_PATFprcdPATF
+C0242656,C0016059,PRECEDES,Disease Progression,Fibrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333279,C1262023,PRECEDES,Massive hemorrhage,dilutional coagulopathy,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333285,C0015376,PRECEDES,Intramural hemorrhage,Extravasation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333288,C0021308,PRECEDES,Dissecting hemorrhage,Infarction,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333386,C0036679,PRECEDES,Chronic lymphocytic inflammation,Diastasis,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333467,C0021368,PRECEDES,Cytopathic effect,Inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C0333509,C0020517,PRECEDES,Liquefactive necrosis,Hypersensitivity,patf,patf,1,PRECEDES_PATFprcdPATF
+C0349725,C0000833,PRECEDES,Graft infection,Abscess,patf,patf,1,PRECEDES_PATFprcdPATF
+C0751530,C0221791,PRECEDES,"Subarachnoid Hemorrhage, Aneurysmal",medical complication,patf,patf,1,PRECEDES_PATFprcdPATF
+C0920569,C0151763,PRECEDES,hepatic ischemia,Liver damage,patf,patf,2,PRECEDES_PATFprcdPATF
+C1720776,C0017639,PRECEDES,"Kindling, Neurologic",Gliosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C3658208,C0016059,PRECEDES,Dysbiosis,Fibrosis,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0021368,PRECEDES,Infection,Inflammation,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0024348,PRECEDES,Infection,Lysis,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C0332448,PRECEDES,Infection,Infiltration,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C1155266,PRECEDES,Infection,inflammatory response,patf,patf,1,PRECEDES_PATFprcdPATF
+C3714514,C2911645,PRECEDES,Infection,Weight Loss Adverse Event,patf,patf,1,PRECEDES_PATFprcdPATF

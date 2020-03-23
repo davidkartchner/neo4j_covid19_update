@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0439663,TREATS,Hospitalization,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C0030685,C0439663,TREATS,Patient Discharge,Infected,hlca,ftcn,3,TREATS_HLCAtrtsFTCN
+C0150270,C0439663,TREATS,Medication Management,Infected,hlca,ftcn,2,TREATS_HLCAtrtsFTCN
+C0205787,C0439663,TREATS,Health Campaigns,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C0220908,C0205161,TREATS,Screening procedure,Abnormal,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C0441587,C0439663,TREATS,Clinical act of insertion,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C0683509,C0439663,TREATS,disease detection,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C0805586,C0439663,TREATS,Challenge,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C1261322,C0439663,TREATS,Evaluation procedure,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C1331096,C0439662,TREATS,vaccine delivery,Immune,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C3889687,C0439663,TREATS,Clinical Observation,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN
+C4036459,C0439663,TREATS,Contacts,Infected,hlca,ftcn,1,TREATS_HLCAtrtsFTCN

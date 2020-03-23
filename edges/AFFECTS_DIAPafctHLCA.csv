@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011911,C0017313,AFFECTS,Laboratory Diagnosis,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0011911,C0184666,AFFECTS,Laboratory Diagnosis,Hospital admission,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0013819,C0085559,AFFECTS,Electroencephalography,intensive care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0013819,C1516615,AFFECTS,Electroencephalography,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0024485,C0220908,AFFECTS,Magnetic Resonance Imaging,Screening procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0024485,C1261322,AFFECTS,Magnetic Resonance Imaging,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0024485,C1522577,AFFECTS,Magnetic Resonance Imaging,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0039985,C4046039,AFFECTS,Plain chest X-ray,Overtreatment,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041618,C1516193,AFFECTS,Ultrasonography,Cancer Detection,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0043299,C0009818,AFFECTS,Diagnostic radiologic examination,Consultation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C0019993,AFFECTS,Diagnostic tests,Hospitalization,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C0220908,AFFECTS,Diagnostic tests,Screening procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0243032,C1516615,AFFECTS,Magnetic Resonance Angiography,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0430022,C4277744,AFFECTS,diagnostic procedure,Patient Comfort,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0497093,C1516615,AFFECTS,Sensitivity test,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0018747,AFFECTS,Early Diagnosis,Health Services,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0085557,AFFECTS,Early Diagnosis,Infectious disease prevention / control,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0805586,AFFECTS,Early Diagnosis,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C1522577,AFFECTS,Early Diagnosis,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0597356,C0017313,AFFECTS,rapid diagnosis,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0683454,C0220908,AFFECTS,internal-external locus of control scale,Screening procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0017313,AFFECTS,work up,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0220908,AFFECTS,work up,Screening procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0750430,C1516615,AFFECTS,work up,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0871060,C0805586,AFFECTS,performance tests,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0920550,C0220908,AFFECTS,HIV diagnosis,Screening procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1327806,C0805586,AFFECTS,Surface Enhanced Laser Desorption Ionization Mass Spectrometry,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1510483,C1516615,AFFECTS,Fine needle aspiration biopsy,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1962945,C0040757,AFFECTS,Radiographic imaging procedure,Transportation of Patients,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C0204695,AFFECTS,Observation - diagnostic procedure,Feeding patient,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4042877,C0033080,AFFECTS,Clinical Decision-Making,Prescription procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA

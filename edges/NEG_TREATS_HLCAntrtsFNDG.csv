@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0085393,NEG_TREATS,Hospitalization,Immunocompromised Host,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0085557,C0085393,NEG_TREATS,Infectious disease prevention / control,Immunocompromised Host,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0150270,C0332575,NEG_TREATS,Medication Management,Redness,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0150270,C3540840,NEG_TREATS,Medication Management,Sign or Symptom,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0184666,C4086268,NEG_TREATS,Hospital admission,Exacerbation,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0220908,C3272283,NEG_TREATS,Screening procedure,American College of Cardiology/American Heart Association Lesion Complexity Score C,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C0278329,C1299586,NEG_TREATS,prescribed,Has difficulty doing (qualifier value),hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C1293116,C0728725,NEG_TREATS,Introduction procedure,Low pH,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C1293116,C4321237,NEG_TREATS,Introduction procedure,High Level,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C2359834,C0033213,NEG_TREATS,Additional assessment,Problem,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG
+C4277528,C3540840,NEG_TREATS,Preventive Health Programs,Sign or Symptom,hlca,fndg,1,NEG_TREATS_HLCAntrtsFNDG

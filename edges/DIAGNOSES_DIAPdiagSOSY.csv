@@ -1,0 +1,45 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004339,C0018808,DIAGNOSES,Auscultation,Heart murmur,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0004339,C0034642,DIAGNOSES,Auscultation,Rales,diap,sosy,4,DIAGNOSES_DIAPdiagSOSY
+C0004339,C0035508,DIAGNOSES,Auscultation,Rhonchi,diap,sosy,2,DIAGNOSES_DIAPdiagSOSY
+C0004339,C0858640,DIAGNOSES,Auscultation,moist rales,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0004398,C0003123,DIAGNOSES,Autopsy,Anorexia,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0004398,C0006625,DIAGNOSES,Autopsy,Cachexia,diap,sosy,2,DIAGNOSES_DIAPdiagSOSY
+C0004398,C0019209,DIAGNOSES,Autopsy,Hepatomegaly,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0004398,C0038002,DIAGNOSES,Autopsy,Splenomegaly,diap,sosy,2,DIAGNOSES_DIAPdiagSOSY
+C0006290,C0019079,DIAGNOSES,Bronchoscopy,Hemoptysis,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0011906,C0011991,DIAGNOSES,Differential Diagnosis,Diarrhea,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0011906,C0426359,DIAGNOSES,Differential Diagnosis,Urinary symptoms,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0013516,C0086439,DIAGNOSES,Echocardiography,Hypokinesia,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0013819,C0036572,DIAGNOSES,Electroencephalography,Seizures,diap,sosy,3,DIAGNOSES_DIAPdiagSOSY
+C0013819,C0234132,DIAGNOSES,Electroencephalography,Pyramidal sign,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0027431,C0037383,DIAGNOSES,Nasal Provocation Tests,Sneezing,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0027853,C0004134,DIAGNOSES,Neurologic Examination,Ataxia,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0027853,C0750403,DIAGNOSES,Neurologic Examination,Proximal weakness,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0027853,C0856863,DIAGNOSES,Neurologic Examination,Broad-based gait,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0030247,C0019209,DIAGNOSES,Palpation,Hepatomegaly,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0030247,C0231218,DIAGNOSES,Palpation,Malaise,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0034573,C0005687,DIAGNOSES,"Radiography, Abdominal",Bladder distention,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0034606,C0036572,DIAGNOSES,Radionuclide Imaging,Seizures,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0034606,C0231819,DIAGNOSES,Radionuclide Imaging,Air trapping,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0034606,C0234132,DIAGNOSES,Radionuclide Imaging,Pyramidal sign,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0039985,C0231239,DIAGNOSES,Plain chest X-ray,Fluctuation,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0040395,C0235031,DIAGNOSES,tomography,Neurologic Symptoms,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0041618,C0038002,DIAGNOSES,Ultrasonography,Splenomegaly,diap,sosy,2,DIAGNOSES_DIAPdiagSOSY
+C0041618,C1282322,DIAGNOSES,Ultrasonography,Acute pelvic pain,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0202823,C0277876,DIAGNOSES,Chest CT,Pulmonary sign AND/OR symptom,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0203668,C0151825,DIAGNOSES,Radioisotope scan of bone,Bone pain,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0203668,C0234233,DIAGNOSES,Radioisotope scan of bone,Sore to touch,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0203668,C0391860,DIAGNOSES,Radioisotope scan of bone,Diffuse inflammation,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0206065,C0426359,DIAGNOSES,Karnofsky Performance Status,Urinary symptoms,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0596473,C3494361,DIAGNOSES,Early Diagnosis,Prodromal Stage,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C0683454,C0036572,DIAGNOSES,internal-external locus of control scale,Seizures,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C1964257,C0006625,DIAGNOSES,Observation - diagnostic procedure,Cachexia,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C1964257,C0242706,DIAGNOSES,Observation - diagnostic procedure,Hyperoxia,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C1964257,C0271188,DIAGNOSES,Observation - diagnostic procedure,Visual halos (disorder),diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C1964257,C0749874,DIAGNOSES,Observation - diagnostic procedure,upper respiratory symptom,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C3472245,C0151825,DIAGNOSES,Single Photon Emission Computed Tomography Computed Tomography,Bone pain,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C3472245,C0234233,DIAGNOSES,Single Photon Emission Computed Tomography Computed Tomography,Sore to touch,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C3842377,C0034642,DIAGNOSES,Chest radiograph,Rales,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C3842377,C0231218,DIAGNOSES,Chest radiograph,Malaise,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY
+C4521453,C0015970,DIAGNOSES,FDG-Positron Emission Tomography and Computed Tomography Scan,Fever of Unknown Origin,diap,sosy,1,DIAGNOSES_DIAPdiagSOSY

@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001811,C0035245,AFFECTS,Aging,Respiratory physiology,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0005615,C0282558,AFFECTS,Birth,"Immunity, Mucosal",orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0006147,C0029965,AFFECTS,Breast Feeding,Ovulation,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0014653,C0231940,AFFECTS,Equilibrium,Alveolar ventilation function,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0014653,C0596138,AFFECTS,Equilibrium,autocrine,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0018270,C0032173,AFFECTS,Growth,Platelet Activation,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0018270,C0282557,AFFECTS,Growth,"Immune Response, Mucosal",orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0018270,C0516983,AFFECTS,Growth,gastrointestinal function,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0019868,C1160340,AFFECTS,Homeostasis,brain development,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0019868,C1817756,AFFECTS,Homeostasis,Immune System Processes,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0020966,C0231921,AFFECTS,Cellular Immunity,Pulmonary function,orgf,ortf,2,AFFECTS_ORGFafctORTF
+C0025519,C1817756,AFFECTS,Metabolism,Immune System Processes,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0032961,C1817756,AFFECTS,Pregnancy,Immune System Processes,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0042774,C0035245,AFFECTS,Virus Replication,Respiratory physiology,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0042774,C0683201,AFFECTS,Virus Replication,specific immunity,orgf,ortf,2,AFFECTS_ORGFafctORTF
+C0042774,C1817756,AFFECTS,Virus Replication,Immune System Processes,orgf,ortf,3,AFFECTS_ORGFafctORTF
+C0042774,C2713393,AFFECTS,Virus Replication,Tissue Specificity,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0043240,C0026820,AFFECTS,Wound Healing,Muscle Contraction,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0043240,C1655938,AFFECTS,Wound Healing,embryonic organ development,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0043240,C2753282,AFFECTS,Wound Healing,muscle structure development,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0231800,C0231940,AFFECTS,"Expiration, function",Alveolar ventilation function,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0232338,C0162337,AFFECTS,Blood flow,Vascular Permeability,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0301872,C0302600,AFFECTS,Immune response,Angiogenic Process,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0301872,C0683201,AFFECTS,Immune response,specific immunity,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0301872,C1155937,AFFECTS,Immune response,smooth muscle contraction,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0678209,C0018951,AFFECTS,Adaptive Immunity,Hematopoiesis,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0678209,C0021055,AFFECTS,Adaptive Immunity,Immunologic Memory,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0678723,C0678894,AFFECTS,Biologic Development,antigen recognition,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0678723,C1623047,AFFECTS,Biologic Development,tissue regeneration,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C0814002,C0302600,AFFECTS,Neurogenesis,Angiogenic Process,orgf,ortf,2,AFFECTS_ORGFafctORTF
+C1327471,C1155937,AFFECTS,neurological system process,smooth muscle contraction,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C1510470,C1511806,AFFECTS,Motility,Developmental process,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C1523351,C0683201,AFFECTS,tissue homeostasis,specific immunity,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C1654934,C0036658,AFFECTS,Immune Evasion,Esthesia,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C1819194,C0334220,AFFECTS,myelin formation,Remyelination,orgf,ortf,1,AFFECTS_ORGFafctORTF
+C1820238,C1160339,AFFECTS,dendrite morphogenesis,central nervous system development,orgf,ortf,1,AFFECTS_ORGFafctORTF

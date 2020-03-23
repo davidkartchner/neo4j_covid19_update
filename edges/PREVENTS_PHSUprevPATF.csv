@@ -1,0 +1,35 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C0162633,PREVENTS,Acyclovir,Viral Shedding,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003015,C1155266,PREVENTS,Angiotensin-Converting Enzyme Inhibitors,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0000833,PREVENTS,Anti-Inflammatory Agents,Abscess,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0013604,PREVENTS,Anti-Inflammatory Agents,Edema,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C0302158,PREVENTS,Anti-Inflammatory Agents,Leucocytic infiltrate,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C3670572,PREVENTS,Anti-Inflammatory Agents,Perivascular hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003209,C3714514,PREVENTS,Anti-Inflammatory Agents,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003280,C0029445,PREVENTS,Anticoagulants,Bone necrosis,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0003402,C0020522,PREVENTS,Antioxidants,Delayed Hypersensitivity,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0021368,PREVENTS,Antioxidants,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003402,C0151763,PREVENTS,Antioxidants,Liver damage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C0162633,PREVENTS,Antiviral Agents,Viral Shedding,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C0242656,PREVENTS,Antiviral Agents,Disease Progression,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0003451,C3714514,PREVENTS,Antiviral Agents,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0011777,C0002792,PREVENTS,Dexamethasone,anaphylaxis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0011777,C0021368,PREVENTS,Dexamethasone,Inflammation,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0011777,C0029445,PREVENTS,Dexamethasone,Bone necrosis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0021081,C0815080,PREVENTS,Immunosuppressive Agents,organ rejection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0031638,C0021368,PREVENTS,Phosphodiesterase Inhibitors,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0032414,C0151763,PREVENTS,Poly I-C,Liver damage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0032414,C0206277,PREVENTS,Poly I-C,Fatal Outcome,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0050063,C1155266,PREVENTS,8-chloro-cyclic adenosine monophosphate,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0070166,C0040038,PREVENTS,clopidogrel,Thromboembolism,phsu,patf,2,PREVENTS_PHSUprevPATF
+C0071208,C0032788,PREVENTS,Plasma-lyte 148,Postoperative Hemorrhage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0071359,C0151763,PREVENTS,poly ICLC,Liver damage,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0086440,C0029445,PREVENTS,Hypolipidemic Agents,Bone necrosis,phsu,patf,3,PREVENTS_PHSUprevPATF
+C0209738,C0020517,PREVENTS,Lamivudine,Hypersensitivity,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0282555,C0021368,PREVENTS,Anti-Allergic Agents,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C0979582,C3714514,PREVENTS,Pneumococcal 7-valent conjugate vaccine,Infection,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1443650,C1155266,PREVENTS,Neuraminidase inhibitor,inflammatory response,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C0011304,PREVENTS,Basis,Demyelination,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C0021368,PREVENTS,Basis,Inflammation,phsu,patf,1,PREVENTS_PHSUprevPATF
+C1874451,C1520005,PREVENTS,Basis,Viral Pathogenesis,phsu,patf,1,PREVENTS_PHSUprevPATF
+C3541969,C3714514,PREVENTS,"Neuraminidase inhibitors, direct acting antivirals",Infection,phsu,patf,2,PREVENTS_PHSUprevPATF

@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0032343,C0011071,CAUSES,Poisoning,Sudden death,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0032343,C0015967,CAUSES,Poisoning,Fever,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0043251,C0011071,CAUSES,Wounds and Injuries,Sudden death,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0043251,C0019080,CAUSES,Wounds and Injuries,Hemorrhage,inpo,fndg,2,CAUSES_INPOcausFNDG
+C0178324,C0019080,CAUSES,Vascular System Injuries,Hemorrhage,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0178324,C0151705,CAUSES,Vascular System Injuries,Retroperitoneal hemorrhage,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0262414,C0011071,CAUSES,Fracture of cervical spine,Sudden death,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0600688,C0019080,CAUSES,Toxic effect,Hemorrhage,inpo,fndg,1,CAUSES_INPOcausFNDG
+C0750971,C0008767,CAUSES,Cerebral Contusion,Cicatrization,inpo,fndg,1,CAUSES_INPOcausFNDG
+C1265651,C0019080,CAUSES,Microfractures,Hemorrhage,inpo,fndg,1,CAUSES_INPOcausFNDG
+C2905612,C0019080,CAUSES,Storm NOS,Hemorrhage,inpo,fndg,3,CAUSES_INPOcausFNDG
+C3203359,C0011071,CAUSES,Rupture,Sudden death,inpo,fndg,1,CAUSES_INPOcausFNDG
+C3203359,C0019080,CAUSES,Rupture,Hemorrhage,inpo,fndg,1,CAUSES_INPOcausFNDG

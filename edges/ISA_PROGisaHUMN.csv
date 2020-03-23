@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017319,C0031831,ISA,General Practitioners,Physicians,prog,humn,5,ISA_PROGisaHUMN
+C0033872,C0031831,ISA,Psychiatrist,Physicians,prog,humn,1,ISA_PROGisaHUMN
+C0033872,C0596910,ISA,Psychiatrist,mental health personnel,prog,humn,1,ISA_PROGisaHUMN
+C0033908,C0679924,ISA,Psychologist,professional occupation status,prog,humn,1,ISA_PROGisaHUMN
+C0237412,C0596910,ISA,Psychologist - Clinical,mental health personnel,prog,humn,1,ISA_PROGisaHUMN
+C0334866,C0031831,ISA,Medical pathologist,Physicians,prog,humn,1,ISA_PROGisaHUMN
+C0334894,C0031831,ISA,Public health physician,Physicians,prog,humn,1,ISA_PROGisaHUMN
+C0334894,C1306754,ISA,Public health physician,Medical practitioner,prog,humn,1,ISA_PROGisaHUMN
+C0586873,C0031831,ISA,Infectious disease specialist,Physicians,prog,humn,2,ISA_PROGisaHUMN
+C0586873,C0087009,ISA,Infectious disease specialist,Hospital specialist,prog,humn,1,ISA_PROGisaHUMN

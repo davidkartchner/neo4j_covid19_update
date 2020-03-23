@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009214,C0010200,AFFECTS,Codeine,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0011816,C0231912,AFFECTS,Dextromethorphan,Nocturnal cough,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0017696,C0740903,AFFECTS,Glucans,allergic symptom,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0022471,C0036572,AFFECTS,Kainic Acid,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0031923,C0036572,AFFECTS,Pilocarpine,Seizures,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0038317,C0011991,AFFECTS,Steroids,Diarrhea,orch,sosy,6,AFFECTS_ORCHafctSOSY
+C0038317,C0231875,AFFECTS,Steroids,Expiratory wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0038317,C0562483,AFFECTS,Steroids,Persistent cough,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0039294,C0011991,AFFECTS,Tannic Acid,Diarrhea,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0073096,C0036572,AFFECTS,resveratrol,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0073096,C0235169,AFFECTS,resveratrol,Excitability,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0074992,C0011991,AFFECTS,sphingosine 1-phosphate,Diarrhea,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0631516,C0003862,AFFECTS,"15-methyl-8-aza-16-oxagona-1,3,5(10),13-tetraen-17-one",Arthralgia,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0631516,C0018681,AFFECTS,"15-methyl-8-aza-16-oxagona-1,3,5(10),13-tetraen-17-one",Headache,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0968383,C0033774,AFFECTS,SP600125,Pruritus,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2717875,C0009806,AFFECTS,Prebiotics,Constipation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2728259,C0231218,AFFECTS,Program,Malaise,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2926735,C0011991,AFFECTS,Duration,Diarrhea,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C2926735,C0427008,AFFECTS,Duration,Stiffness,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C3180220,C0086439,AFFECTS,STF 083010,Hypokinesia,orch,sosy,2,AFFECTS_ORCHafctSOSY

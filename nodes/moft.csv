@@ -1,0 +1,947 @@
+cui,type,name
+C0001038,moft,Acetylation
+C0001801,moft,agglutination
+C0003255,moft,Antibody Affinity
+C0003256,moft,Antibody Avidity
+C0003259,moft,Antibody Diversity
+C0003264,moft,Antibody Specificity
+C0003314,moft,Antigen-Antibody Reactions
+C0003319,moft,Antigenic Variation
+C0005458,moft,"Binding, Competitive"
+C0008858,moft,Citric Acid Cycle
+C0009528,moft,Complement Activation
+C0009546,moft,"Complement Pathway, Alternative"
+C0009547,moft,"Complement Pathway, Classical"
+C0010357,moft,Cross Reactions
+C0013846,moft,Electron Transport
+C0014274,moft,Energy Transfer
+C0014429,moft,Enzyme Activation
+C0015852,moft,Fermentation
+C0017715,moft,Gluconeogenesis
+C0017952,moft,Glycolysis
+C0018903,moft,Hemagglutination
+C0019266,moft,Heredity
+C0021469,moft,Metabolic Inhibition
+C0023745,moft,genetic linkage
+C0023775,moft,Lipid Peroxidation
+C0025245,moft,Membrane Fluidity
+C0025246,moft,Membrane Fusion
+C0030013,moft,Oxidative Phosphorylation
+C0030892,moft,Pentose Phosphate Pathway
+C0031715,moft,Phosphorylation
+C0033618,moft,Protein Binding
+C0033627,moft,Protein Denaturation
+C0033666,moft,Post-Translational Protein Processing
+C0036522,moft,Second Messenger Systems
+C0079686,moft,Leucine Zippers
+C0162362,moft,Respiratory Chain
+C0162527,moft,Ankyrin Repeat
+C0162846,moft,"Protein Folding, Globular"
+C0162847,moft,protein folding
+C0178575,moft,cross immunity
+C0221105,moft,Emulsification
+C0234682,moft,Light absorption
+C0242941,moft,Antigenic Mimicry
+C0242943,moft,Molecular Mimicry
+C0243102,moft,enzyme activity
+C0260000,moft,Secondary Metabolism
+C0282517,moft,Proton-Motive Force
+C0301641,moft,Macromolecular alteration
+C0301642,moft,Denaturation
+C0301647,moft,Strand breaks
+C0301912,moft,"Autoagglutination, function"
+C0302820,moft,Carbohydrate Metabolism
+C0314656,moft,Synteny
+C0314668,moft,Molecular stability
+C0314669,moft,Molecular instability
+C0376669,moft,DNA Fragmentation
+C0520913,moft,Defective metabolism
+C0596076,moft,amino acid metabolism
+C0596177,moft,Biocompatibility
+C0596342,moft,cis trans isomerization
+C0596480,moft,eicosanoid metabolism
+C0596522,moft,enzyme biosynthesis
+C0596524,moft,enzyme mechanism
+C0596562,moft,Fatty acid biosynthetic process
+C0596563,moft,fatty acid metabolism
+C0596620,moft,glucose metabolism
+C0596624,moft,Glycogenolysis
+C0596625,moft,N-Glycan Biosynthesis Pathway
+C0596715,moft,hormone biosynthetic process
+C0596716,moft,hormone metabolism
+C0596803,moft,iron metabolism
+C0596843,moft,Adipogenesis
+C0596957,moft,Molecular Dynamics
+C0597062,moft,neurotransmitter biosynthesis
+C0597071,moft,nitrogen metabolism
+C0597095,moft,nucleic acid biosynthesis
+C0597098,moft,nucleic acid metabolism
+C0597108,moft,Nucleotide Metabolism
+C0597295,moft,Protein Biosynthesis
+C0597297,moft,"Protein Degradation, Metabolic"
+C0597299,moft,protein metabolism
+C0597304,moft,Proteolysis
+C0597358,moft,receptor binding
+C0597513,moft,Steroid biosynthesis
+C0597517,moft,steroid hormone biosynthesis
+C0597520,moft,Steroid Metabolic Process
+C0597672,moft,vitamin metabolism
+C0597878,moft,antigen antibody binding
+C0597879,moft,immunoreactivity
+C0598390,moft,enzyme pathway
+C0598434,moft,myristoylation
+C0598435,moft,Palmitoylation
+C0598754,moft,aerobic glycolysis
+C0598783,moft,Lipid Metabolism
+C0598958,moft,Neuroprotection
+C0599175,moft,heme biosynthetic process
+C0599474,moft,cholesterol biosynthesis
+C0599739,moft,synergism
+C0599816,moft,ketogenesis
+C0599844,moft,molecular recognition
+C0599845,moft,molecular domain
+C0599861,moft,noradrenergic
+C0600436,moft,Base Pairing
+C0600448,moft,Trans-Splicing
+C0678607,moft,Hydrophobic Interactions
+C0678659,moft,biochemical mechanism
+C0678705,moft,acetate catabolic process
+C0678714,moft,bile acid metabolism
+C0683140,moft,drug metabolism
+C0683185,moft,receptor ligand affinity
+C0752319,moft,MAP Kinase Cascade
+C0813988,moft,autophosphorylation
+C0872079,moft,protein protein interaction
+C0872139,moft,cross reactivity immunity
+C0872376,moft,molecular assembly/self assembly
+C0887940,moft,Gene Order
+C0920555,moft,hormone sensitivity
+C0920641,moft,pyrimidine metabolism
+C0920644,moft,receptor function
+C0949765,moft,Polyadenylation
+C0969701,moft,Conserved Synteny
+C1136159,moft,T-Cell Specificity
+C1136182,moft,Antigenic Diversity
+C1138407,moft,"Complement Pathway, Mannose-Binding Lectin"
+C1145751,moft,insulin activity
+C1148560,moft,molecular_function
+C1148561,moft,anticoagulant activity
+C1148564,moft,antioxidant activity
+C1148575,moft,antigen binding
+C1148582,moft,carbohydrate binding
+C1148583,moft,polysaccharide binding
+C1148589,moft,galactoside binding
+C1148592,moft,lectin activity
+C1148596,moft,mannose binding
+C1148608,moft,heparin binding
+C1148613,moft,iron binding
+C1148616,moft,heme binding
+C1148621,moft,zinc ion binding
+C1148636,moft,Lipid Binding
+C1148642,moft,Phospholipid Binding
+C1148658,moft,lipopolysaccharide binding
+C1148659,moft,magnesium ion binding
+C1148774,moft,androgen receptor activity
+C1148776,moft,estrogen receptor activity
+C1148834,moft,exoribonuclease activity
+C1148916,moft,nucleotide binding
+C1148918,moft,cAMP binding
+C1148923,moft,atp binding
+C1148926,moft,adenosinetriphosphatase activity
+C1149024,moft,sodium/potassium-exchanging ATPase activity
+C1149035,moft,GTP Binding
+C1149036,moft,GTPase activity
+C1149054,moft,Ran guanyl-nucleotide exchange factor activity
+C1149098,moft,peptide binding
+C1149163,moft,cadherin binding
+C1149164,moft,calmodulin binding
+C1149167,moft,collagen binding
+C1149168,moft,cyclin binding
+C1149169,moft,cytokine binding
+C1149170,moft,chemokine binding
+C1149176,moft,interferon binding
+C1149177,moft,interferon receptor activity
+C1149183,moft,interleukin receptor activity
+C1149184,moft,interleukin-1 receptor activity
+C1149187,moft,interleukin-10 receptor activity
+C1149189,moft,interleukin-12 receptor activity
+C1149195,moft,interleukin-18 receptor activity
+C1149201,moft,interleukin-23 receptor activity
+C1149205,moft,interleukin-27 receptor activity
+C1149207,moft,interleukin-4 receptor activity
+C1149209,moft,interleukin-6 receptor activity
+C1149220,moft,interleukin-13 binding activity
+C1149225,moft,interleukin-18 binding activity
+C1149228,moft,interleukin-19 binding activity
+C1149229,moft,interleukin-2 binding activity
+C1149236,moft,interleukin-26 binding activity
+C1149245,moft,actin binding
+C1149274,moft,microtubule binding
+C1149286,moft,enzyme binding
+C1149289,moft,kinase binding
+C1149302,moft,hemoglobin binding
+C1149303,moft,histone binding
+C1149306,moft,immunoglobulin binding
+C1149309,moft,IgE binding
+C1149313,moft,IgG binding
+C1149325,moft,high-density lipoprotein particle binding
+C1149326,moft,low-density lipoprotein particle binding
+C1149349,moft,SH3 domain binding
+C1149381,moft,chemoattractant activity
+C1149382,moft,chemokine activity
+C1149384,moft,cytokine activity
+C1149404,moft,interferon-alpha/beta
+C1149510,moft,Notch binding
+C1149531,moft,cholesterol binding
+C1149536,moft,virion binding
+C1149552,moft,chaperone activity
+C1149582,moft,lysozyme activity
+C1149593,moft,thrombin activity
+C1149595,moft,complement activity
+C1149629,moft,histone deacetylase activity
+C1149632,moft,hydrolase activity
+C1149650,moft,nucleoside triphosphatase activity
+C1149668,moft,myosin ATPase activity
+C1149720,moft,dihydropyrimidinase activity
+C1149731,moft,deaminase activity
+C1149763,moft,deacetylase activity
+C1149772,moft,"cobyrinic acid a,c-diamide synthase activity"
+C1149779,moft,pantetheinase activity
+C1149782,moft,PNGase F activity
+C1149785,moft,urease activity
+C1149793,moft,arginase activity
+C1149811,moft,esterase activity
+C1149818,moft,acetylesterase activity
+C1149820,moft,sialate 9(4)-O-acetylesterase activity
+C1149831,moft,cholinesterase activity
+C1149836,moft,lipase activity
+C1149838,moft,phospholipase activity
+C1149842,moft,phospholipase A2 activity
+C1149848,moft,phospholipase C activity
+C1149875,moft,sphingomyelin phosphodiesterase activity
+C1149880,moft,phosphoric monoester hydrolase activity
+C1149888,moft,alkaline phosphatase activity
+C1149915,moft,nucleotidase activity
+C1149955,moft,protein tyrosine phosphatase activity
+C1149970,moft,arylsulfatase activity
+C1150004,moft,leukotriene-A4 hydrolase activity
+C1150005,moft,epoxide hydrolase activity
+C1150037,moft,exo-alpha-sialidase activity
+C1150043,moft,beta-glucuronidase activity
+C1150046,moft,chitinase activity
+C1150051,moft,galactosidase activity
+C1150053,moft,beta-galactosidase activity
+C1150054,moft,glucosidase activity
+C1150076,moft,mannosidase activity
+C1150095,moft,peptidase activity
+C1150096,moft,aminopeptidase activity
+C1150114,moft,cathepsin D activity
+C1150120,moft,renin activity
+C1150124,moft,cysteine protease activity
+C1150129,moft,calpain activity
+C1150130,moft,caspase activity
+C1150131,moft,effector caspase activity
+C1150132,moft,caspase-3 activity
+C1150133,moft,caspase-6 activity
+C1150134,moft,caspase-7 activity
+C1150135,moft,caspase-9 activity
+C1150137,moft,caspase-1 activity
+C1150142,moft,caspase-8 activity
+C1150145,moft,cathepsin B activity
+C1150146,moft,cathepsin F activity
+C1150149,moft,cathepsin L activity
+C1150150,moft,cathepsin S activity
+C1150156,moft,NEDD8-specific protease activity
+C1150158,moft,thiol-dependent ubiquitin-specific protease activity
+C1150165,moft,dipeptidyl-peptidase activity
+C1150171,moft,endopeptidase activity
+C1150182,moft,MMP-2 activity
+C1150183,moft,MMP-9 activity
+C1150184,moft,insulinase activity
+C1150224,moft,metallopeptidase activity
+C1150239,moft,serine protease activity
+C1150256,moft,furin activity
+C1150272,moft,prolyl oligopeptidase activity
+C1150284,moft,trypsin activity
+C1150294,moft,serine hydrolase activity
+C1150296,moft,integrase activity
+C1150298,moft,isomerase activity
+C1150301,moft,PPIase activity
+C1150347,moft,protein disulfide isomerase activity
+C1150423,moft,kinase activity
+C1150450,moft,N-acetylglucosamine kinase activity
+C1150479,moft,1-phosphatidylinositol 4-kinase activity
+C1150493,moft,lipid kinase activity
+C1150527,moft,protein kinase activity
+C1150557,moft,cyclin-dependent protein kinase activity
+C1150571,moft,IkappaB kinase activity
+C1150572,moft,protein kinase C activity
+C1150579,moft,MAP kinase activity
+C1150582,moft,MAP kinase kinase kinase activity
+C1150587,moft,JUN kinase activity
+C1150596,moft,transforming growth factor beta receptor activity
+C1150604,moft,MAP kinase kinase activity
+C1150610,moft,FAK activity
+C1150611,moft,JAK activity
+C1150635,moft,stem cell factor receptor activity
+C1150639,moft,pyruvate dehydrogenase (acetyl-transferring) kinase activity
+C1150651,moft,ligase activity
+C1150685,moft,ubiquitin-protein ligase activity
+C1150722,moft,phosphoribosylamine-glycine ligase activity
+C1150758,moft,4-coumarate-CoA ligase activity
+C1150833,moft,ornithine decarboxylase activity
+C1150872,moft,2-methylisocitrate lyase activity
+C1150903,moft,hydroxymethylbilane synthase activity
+C1150943,moft,acetylene hydratase activity
+C1150944,moft,aconitate hydratase activity
+C1150946,moft,carbonate dehydratase activity
+C1150999,moft,cysteine desulfurase activity
+C1151015,moft,adenylate cyclase activity
+C1151017,moft,guanylate cyclase activity
+C1151028,moft,oxidoreductase activity
+C1151047,moft,disulfide oxidoreductase activity
+C1151057,moft,cytochrome c oxidase activity
+C1151067,moft,monooxygenase activity
+C1151115,moft,luciferin monooxygenase activity
+C1151118,moft,monophenol monooxygenase activity
+C1151120,moft,pentachlorophenol 4-monooxygenase activity
+C1151146,moft,NADPH oxidase activity
+C1151154,moft,lactate dehydrogenase activity
+C1151242,moft,L-iditol 2-dehydrogenase activity
+C1151293,moft,xanthine oxidase activity
+C1151365,moft,cytochrome b5 reductase activity
+C1151444,moft,procollagen-lysine 5-dioxygenase activity
+C1151464,moft,prostaglandin-endoperoxide synthase activity
+C1151515,moft,catalase activity
+C1151518,moft,peroxidase activity
+C1151528,moft,glutathione peroxidase activity
+C1151586,moft,lipoxygenase activity
+C1151604,moft,methionine sulfoxide (protein) reductase activity
+C1151619,moft,superoxide dismutase activity
+C1151655,moft,betaine-aldehyde dehydrogenase activity
+C1151724,moft,enoyl-[acyl-carrier-protein] reductase activity
+C1151757,moft,fumarate reductase activity
+C1151821,moft,glutamate dehydrogenase activity
+C1151857,moft,violaxanthin de-epoxidase activity
+C1151879,moft,NEDD8 activating enzyme activity
+C1151883,moft,ubiquitin conjugating enzyme activity
+C1151895,moft,transferase activity
+C1151915,moft,peptidyltransferase activity
+C1151922,moft,acetyltransferase activity
+C1151928,moft,histone acetyltransferase activity
+C1151945,moft,tubulin N-acetyltransferase activity
+C1152001,moft,phosphatidylcholine-sterol O-acyltransferase activity
+C1152016,moft,arginine N-succinyltransferase activity
+C1152052,moft,geranyltransferase activity
+C1152069,moft,glycosyltransferase activity
+C1152077,moft,acetylglucosaminyltransferase activity
+C1152079,moft,"alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity"
+C1152095,moft,fucosyltransferase activity
+C1152102,moft,galactosyltransferase activity
+C1152112,moft,N-acetyllactosamine synthase activity
+C1152142,moft,mannosyltransferase activity
+C1152171,moft,sialyltransferase activity
+C1152176,moft,"N-acetyllactosaminide alpha-2,3-sialyltransferase activity"
+C1152208,moft,aminotransferase activity
+C1152247,moft,methyltransferase activity
+C1152365,moft,nucleotidyltransferase activity
+C1152420,moft,UDP-glucose:hexose-1-phosphate uridylyltransferase activity
+C1152487,moft,aryl sulfotransferase activity
+C1152525,moft,GTPase activator activity
+C1152582,moft,peptidase inhibitor activity
+C1152585,moft,endopeptidase inhibitor activity
+C1152633,moft,receptor activity
+C1152637,moft,aryl hydrocarbon receptor activity
+C1152760,moft,G-protein coupled purinergic nucleotide receptor activity
+C1152784,moft,virus receptor activity
+C1152934,moft,surfactant activity
+C1152935,moft,toxin activity
+C1152938,moft,cytotoxin activity
+C1152949,moft,transporter activity
+C1153198,moft,antiporter activity
+C1153267,moft,iron ion transmembrane transporter activity
+C1153347,moft,symporter activity
+C1153410,moft,channel activity
+C1153415,moft,ion channel activity
+C1153419,moft,anion channel activity
+C1153430,moft,cation channel activity
+C1153440,moft,voltage-gated calcium channel activity
+C1153445,moft,hydrogen ion channel activity
+C1153450,moft,potassium channel activity
+C1153487,moft,protein channel activity
+C1153618,moft,lipid transporter activity
+C1154435,moft,epinephrine biosynthetic process
+C1154437,moft,dopamine metabolism
+C1154550,moft,auxin-activated signaling pathway
+C1154569,moft,jasmonic acid mediated signaling pathway
+C1154744,moft,xenobiotic metabolism
+C1155099,moft,cytokine biosynthesis
+C1155100,moft,chemokine biosynthetic process
+C1155112,moft,type I interferon biosynthetic process
+C1155129,moft,interleukin-13 biosynthetic process
+C1155227,moft,tumor necrosis factor biosynthetic process
+C1155363,moft,TGF-Beta Receptor Signaling Pathway
+C1155364,moft,BMP Receptor Signaling Pathway
+C1155379,moft,epidermal growth factor receptor signaling pathway
+C1155401,moft,sevenless signaling pathway
+C1155452,moft,Notch Signaling Pathway
+C1155468,moft,Hedgehog Signaling Pathway
+C1155494,moft,intracellular signal transduction
+C1155501,moft,nitric oxide mediated signal transduction
+C1155503,moft,JAK-STAT cascade
+C1155542,moft,JNK cascade
+C1155546,moft,JUN phosphorylation
+C1155580,moft,I-kappaB kinase/NF-kappaB signaling
+C1155584,moft,I-kappaB phosphorylation
+C1155589,moft,cAMP-mediated signaling
+C1155596,moft,Ras protein signal transduction
+C1155976,moft,actin nucleation
+C1156076,moft,protein targeting to mitochondrion
+C1156083,moft,mitochondrial translocation
+C1156099,moft,integrin biosynthetic process
+C1156162,moft,peptidoglycan biosynthetic process
+C1156199,moft,histone modification
+C1156200,moft,Histone Acetylation
+C1156201,moft,Histone Deacetylation
+C1156205,moft,histone methylation
+C1156206,moft,histone phosphorylation
+C1156207,moft,histone ubiquitination
+C1156395,moft,glucose catabolic process
+C1156439,moft,phosphatidylethanolamine biosynthetic process
+C1156511,moft,catecholamine biosynthetic process
+C1156523,moft,glycerol metabolic process
+C1156529,moft,sterol metabolic process
+C1156530,moft,cholesterol metabolism
+C1156542,moft,Sterol Biosynthesis Pathway
+C1156601,moft,Lysine Biosynthesis Pathway
+C1156621,moft,arginine biosynthetic process
+C1156661,moft,polyamine biosynthetic process
+C1156673,moft,tryptophan catabolic process
+C1156678,moft,tyrosine catabolic process
+C1156699,moft,leucine catabolic process
+C1156801,moft,methionine metabolism
+C1156810,moft,arginine metabolic process
+C1156814,moft,glutamine metabolism
+C1156899,moft,glycosaminoglycan biosynthetic process
+C1156931,moft,polyamine metabolic process
+C1156961,moft,cellular modified amino acid metabolic process
+C1156966,moft,phenylpropanoid biosynthetic process
+C1156973,moft,isoflavonoid biosynthetic process
+C1157047,moft,aromatic compound catabolic process
+C1157079,moft,folic acid metabolism
+C1157099,moft,guanine biosynthetic process
+C1157156,moft,alkaloid biosynthetic process
+C1157174,moft,glycoside biosynthetic process
+C1157190,moft,polysaccharide biosynthetic process
+C1157192,moft,chitin biosynthetic process
+C1157216,moft,proteoglycan biosynthetic process
+C1157223,moft,ATP biosynthesis
+C1157234,moft,glutathione biosynthetic process
+C1157310,moft,estrogen biosynthetic process
+C1157320,moft,icosanoid biosynthetic process
+C1157321,moft,leukotriene biosynthetic process
+C1157323,moft,prostanoid biosynthetic process
+C1157324,moft,prostaglandin biosynthetic process
+C1157325,moft,cyclooxygenase pathway
+C1157337,moft,triglyceride biosynthetic process
+C1157338,moft,isoprenoid biosynthetic process
+C1157346,moft,gibberellin biosynthetic process
+C1157366,moft,glycosphingolipid biosynthetic process
+C1157377,moft,phospholipid biosynthetic process
+C1157380,moft,Phosphatidylcholine Biosynthesis
+C1157396,moft,sphingomyelin biosynthetic process
+C1157397,moft,sphingolipid biosynthetic process
+C1157399,moft,ceramide biosynthetic process
+C1157407,moft,macromolecule biosynthetic process
+C1157433,moft,CD4 biosynthetic process
+C1157446,moft,N-glycan processing
+C1157483,moft,protein myristoylation
+C1157492,moft,protein palmitoylation
+C1157514,moft,MHC class II biosynthetic process
+C1157570,moft,nitric oxide biosynthetic process
+C1157574,moft,nucleoside biosynthetic process
+C1157577,moft,adenosine biosynthetic process
+C1157592,moft,Nucleotide Biosynthesis
+C1157596,moft,deoxyribonucleotide biosynthetic process
+C1157626,moft,dTTP biosynthetic process
+C1157648,moft,GMP biosynthetic process
+C1157665,moft,nucleoside triphosphate biosynthetic process
+C1157677,moft,purine nucleotide biosynthetic process
+C1157690,moft,methanogenesis
+C1157696,moft,acetate biosynthetic process
+C1157720,moft,melanin biosynthetic process
+C1157734,moft,L-ascorbic acid biosynthetic process
+C1157769,moft,peptidoglycan catabolic process
+C1157784,moft,lipopolysaccharide catabolic process
+C1157922,moft,triglyceride catabolic process
+C1157950,moft,phospholipid catabolism
+C1157963,moft,hemoglobin catabolic process
+C1157968,moft,collagen catabolic process
+C1157978,moft,membrane protein ectodomain proteolysis
+C1157980,moft,erad
+C1157990,moft,Sumoylation
+C1157991,moft,ubiquitin-dependent protein catabolic process
+C1157996,moft,Deubiquitination
+C1158044,moft,cAMP catabolic process
+C1158079,moft,IDP catabolic process
+C1158180,moft,acetyl-CoA metabolic process
+C1158183,moft,ATP metabolic process
+C1158204,moft,NADH regeneration
+C1158280,moft,anaerobic respiration
+C1158323,moft,Triglyceride Metabolism
+C1158360,moft,arachidonic acid metabolic process
+C1158366,moft,fatty acid oxidation
+C1158368,moft,fatty acid beta-oxidation
+C1158406,moft,lipid modification
+C1158437,moft,sphingomyelin metabolic process
+C1158438,moft,sphingolipid metabolic process
+C1158468,moft,nitric oxide metabolic process
+C1158580,moft,nucleoside metabolic process
+C1158592,moft,adenosine metabolic process
+C1158678,moft,purine nucleotide metabolic process
+C1158681,moft,purine salvage
+C1158838,moft,organic acid metabolic process
+C1158862,moft,pyruvate oxidation
+C1158882,moft,superoxide anion generation
+C1158886,moft,Protein phosphorylation
+C1158900,moft,polyphosphate metabolic process
+C1158917,moft,lipoprotein metabolism
+C1158919,moft,lipoprotein oxidation
+C1158923,moft,protein complex location assembly
+C1158944,moft,Protein Refolding
+C1159267,moft,protein ADP-ribosylation
+C1159269,moft,Protein methylation
+C1159277,moft,protein deacetylation
+C1159301,moft,protein oxidation
+C1159372,moft,Protein Targeting
+C1159433,moft,vitamin D metabolic process
+C1159825,moft,Caspase Activation
+C1160190,moft,spore germination
+C1167622,moft,Binding (Molecular Function)
+C1176301,moft,RNA capping
+C1257755,moft,RNA Decay
+C1257756,moft,RNA Degradation
+C1257758,moft,mRNA Decay
+C1257759,moft,mRNA Degradation
+C1305430,moft,complement pathway
+C1321381,moft,Fungicidal activity
+C1321382,moft,Viricidal activity
+C1323251,moft,cofactor binding
+C1323252,moft,coenzyme binding
+C1323260,moft,extracellular matrix binding
+C1323274,moft,Metal Ion Binding
+C1323293,moft,signal sequence binding
+C1323307,moft,gamma-tubulin binding
+C1323338,moft,protein N-terminus binding
+C1323353,moft,CD4 receptor binding
+C1323367,moft,epidermal growth factor receptor binding activity
+C1323373,moft,MHC class II protein binding
+C1323391,moft,ribosome binding
+C1323496,moft,tubulin deacetylase activity
+C1323511,moft,N-carbamoylputrescine amidase activity
+C1323631,moft,glucosylglycerol 3-phosphatase activity
+C1323717,moft,elastase activity
+C1324275,moft,hydroxylamine oxidase activity
+C1324397,moft,Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity
+C1324698,moft,putrescine N-hydroxycinnamoyltransferase activity
+C1324815,moft,dextransucrase activity
+C1324900,moft,luteolin 7-O-glucuronosyltransferase activity
+C1325014,moft,methanol-5-hydroxybenzimidazolylcobamide Co-methyltransferase activity
+C1325174,moft,tau-protein kinase activity
+C1325289,moft,cell surface antigen activity
+C1325303,moft,cyclophilin activity
+C1325405,moft,thioredoxin activity
+C1325408,moft,transmembrane ephrin
+C1325409,moft,tumor antigen activity
+C1325410,moft,tumor suppressor activity
+C1325924,moft,B Cell Receptor Signaling Pathway
+C1325934,moft,T Cell Receptor Signaling Pathway
+C1325936,moft,receptor clustering
+C1327133,moft,Peptide Biosynthesis
+C1327164,moft,cytidine deamination
+C1327340,moft,amyloid precursor protein metabolic process
+C1327385,moft,protein polyubiquitination
+C1327386,moft,protein stabilization
+C1327387,moft,receptor metabolic process
+C1328948,moft,RNA biosynthesis
+C1328949,moft,RNA replication
+C1372092,moft,Increased Antibody Production [PE]
+C1372531,moft,Increased Protein Synthesis [PE]
+C1372999,moft,Receptor Interactions [MoA]
+C1449568,moft,Co-Translational Protein Modification
+C1450029,moft,Aminoacylation
+C1510699,moft,ATP Hydrolysis
+C1510811,moft,Adjuvanticity
+C1510847,moft,Alkalinization
+C1511130,moft,Biochemical Processes
+C1511131,moft,Biochemical Reaction
+C1511437,moft,CFTR Pathway
+C1511460,moft,CXCR4 Signaling Pathway
+C1511539,moft,Covalent Interaction
+C1511616,moft,Cytokine Receptor Binding
+C1511617,moft,Cytokine Signaling
+C1511737,moft,Deacetylation
+C1511895,moft,Dicer Pathway
+C1512072,moft,Drug Efflux
+C1512129,moft,Endoplasmic Reticulum Degradation Pathway
+C1512230,moft,Glycolysis/Gluconeogenesis Pathway
+C1512241,moft,Golgi Targeting
+C1512301,moft,HIV Budding
+C1512424,moft,Heterodimerization
+C1512485,moft,Homodimerization
+C1512772,moft,Negative Regulation of Apoptosis
+C1513094,moft,Melanogenesis
+C1513109,moft,Membrane Fusion Activity
+C1513112,moft,Membrane Protein Traffic
+C1513158,moft,Metabolic Control
+C1513486,moft,Monoubiquitination
+C1513807,moft,N-Myristoylation
+C1514216,moft,Polyubiquitination
+C1514251,moft,Post-Translational Regulation
+C1514526,moft,Proteasome Function Inhibition
+C1514537,moft,Protein Biosynthesis Pathway
+C1514545,moft,Protein Export Pathway
+C1514567,moft,Protein Translation Pathway
+C1514568,moft,Protein Truncation
+C1514570,moft,Proteolytic Processing
+C1514762,moft,Receptor Signaling
+C1514955,moft,Stat3 Signaling Pathway
+C1515033,moft,Substrate Interaction
+C1515144,moft,T-Cell Receptor Activation
+C1515839,moft,AIF Pathway
+C1515844,moft,AKT Signaling Pathway
+C1516015,moft,Antigen Targeting
+C1516142,moft,Calcineurin Pathway
+C1516144,moft,Calcium Binding
+C1516152,moft,Calmodulin Pathway
+C1516272,moft,Carcinogen Metabolism
+C1516311,moft,Caspase Cascade Pathway
+C1516332,moft,Negative Regulation of Cell Cycle
+C1516341,moft,Cell Death Signaling Process
+C1516359,moft,Intracellular Signaling Process
+C1517339,moft,Negative Regulation of G1 to S Transition
+C1517341,moft,G1 to S Transition Process
+C1517342,moft,Negative Regulation of G1 Phase
+C1517345,moft,Negative Regulation of G2 to M Transition
+C1517346,moft,G2 to M Transition Process
+C1517377,moft,G Protein-Coupled Receptor Signaling
+C1517880,moft,Ligand Binding
+C1517899,moft,Lipid Synthesis Pathway
+C1518094,moft,Lytic Phase
+C1518104,moft,MAP Kinase Activation Pathway
+C1518124,moft,MHC Interaction
+C1518440,moft,Nuclear Translocation
+C1518760,moft,Oxidative Regulation
+C1518762,moft,Oxidative Stress Pathway
+C1518804,moft,PPAR Pathway
+C1519052,moft,Phosphoinositide Pathway
+C1519058,moft,Phospholipid Signaling Pathway
+C1519253,moft,Serine/Threonine Phosphorylation
+C1519628,moft,Molecular Transport
+C1519692,moft,Tumor Suppression
+C1519726,moft,Tyrosine Phosphorylation
+C1519750,moft,Ubiquitinated Protein Degradation
+C1519751,moft,Ubiquitination
+C1519906,moft,Vacuolar Protein Sorting
+C1520023,moft,Virus-Cell Membrane Interaction
+C1520024,moft,Virus-Induced Membrane Fusion
+C1521754,moft,Protein Acetylation
+C1522951,moft,epidermal growth factor binding
+C1523033,moft,Hsp27 protein binding
+C1523106,moft,unfolded protein binding
+C1523111,moft,chaperone binding
+C1523272,moft,protein polymerization
+C1523273,moft,protein oligomerization
+C1523308,moft,complement binding
+C1523309,moft,complement component C1q binding
+C1523485,moft,filamin binding
+C1523768,moft,precorrin-2 dehydrogenase activity
+C1523777,moft,ubiquitin binding
+C1523807,moft,proteasome-mediated ubiquitin-dependent protein catabolic process
+C1523814,moft,anion binding
+C1536991,moft,antigen specificity
+C1537044,moft,protein activity
+C1563721,moft,Protein Carbonylation
+C1621287,moft,antibody activity
+C1621296,moft,receptor ligand
+C1621321,moft,receptor shedding
+C1621395,moft,stress-activated protein kinase signaling cascade
+C1621396,moft,JNK Pathway
+C1621555,moft,lipopolysaccharide-mediated signaling pathway
+C1621573,moft,active transporter
+C1621574,moft,exchanger
+C1621636,moft,TOR signaling
+C1621749,moft,5-hydroxytryptamine uptake
+C1621750,moft,taxol biosynthesis
+C1621790,moft,heparan sulfate proteoglycan binding
+C1621831,moft,glycoprotein binding
+C1621837,moft,protease binding
+C1621915,moft,gamma-aminobutyric acid biosynthetic process
+C1622116,moft,zymogen activation
+C1622667,moft,plasminogen activation
+C1622714,moft,attractant
+C1622742,moft,interleukin-28 receptor binding
+C1622945,moft,invertase activity
+C1622946,moft,proteasome activity
+C1623036,moft,"Protein Degradation, Regulatory"
+C1623484,moft,protein kinase B signaling
+C1625154,moft,ADP binding
+C1655066,moft,protein acylation
+C1655265,moft,stress-activated MAPK cascade
+C1656373,moft,UTP-monosaccharide-1-phosphate uridylyltransferase activity
+C1658113,moft,NAD binding
+C1660228,moft,protein retention
+C1664974,moft,ethylene binding
+C1704259,moft,Biochemical Pathway
+C1706062,moft,Metabolic Networks
+C1706823,moft,Antigen Sensitization
+C1707312,moft,Caspase-Dependent Apoptosis
+C1707313,moft,Caspase-Independent Apoptosis
+C1707503,moft,Control Interaction
+C1720950,moft,Gene Regulatory Networks
+C1720951,moft,Gene Circuits
+C1721094,moft,DNA Cleavage
+C1721101,moft,Biosynthetic Pathways
+C1721104,moft,DNA Breaks
+C1744664,moft,Rab GTPase binding
+C1749317,moft,G-protein coupled receptor binding
+C1749388,moft,N ligand
+C1749428,moft,integrin ligand
+C1749451,moft,calcium pump activity
+C1749496,moft,energy pathways
+C1749901,moft,energy dissipation
+C1752457,moft,chemokine receptor binding
+C1752477,moft,mitochondrial electron transport
+C1752726,moft,proteasomal processing
+C1752727,moft,Proteasome Pathway
+C1752728,moft,ion binding
+C1753334,moft,phosphodiesterase activity
+C1753353,moft,P-Glycoprotein Activity
+C1816449,moft,Hsp90 protein binding
+C1817182,moft,ubiquitinyl hydrolase activity
+C1817216,moft,MEK activity
+C1817329,moft,"1,3-diazine binding"
+C1817389,moft,pattern recognition receptor signaling pathway
+C1817393,moft,Toll-Like Receptor Signaling Pathway
+C1817569,moft,acireductone dioxygenase [iron(II)-requiring] activity
+C1817666,moft,phosphatidylinositol 3-kinase signaling
+C1817832,moft,glycosylase
+C1818826,moft,protein tag
+C1819081,moft,SUMO binding
+C1819634,moft,receptor biosynthetic process
+C1819635,moft,receptor catabolic process
+C1819764,moft,MyD88-dependent toll-like receptor signaling pathway
+C1819957,moft,protein self-association
+C1959595,moft,Gene Modules
+C2242636,moft,Inhibitory Interactions
+C2244327,moft,membrane potential driven uniporter activity
+C2244328,moft,Facilitated Diffusion
+C2244360,moft,transmembrane transporter activity
+C2244392,moft,electron transport chain
+C2244527,moft,hyaluronidase activity
+C2244641,moft,ADP-ribosyltransferase activity
+C2246243,moft,transforming growth factor beta1 production
+C2246292,moft,sterol binding
+C2246342,moft,collagen metabolic process
+C2246343,moft,collagen biosynthetic process
+C2247147,moft,sialic acid binding
+C2247199,moft,L-lysine 6-oxidase activity
+C2247381,moft,glycochenodeoxycholate sulfotransferase activity
+C2247471,moft,oligosaccharide reducing-end xylanase activity
+C2247495,moft,P body biogenesis
+C2247518,moft,indole-3-glycerol-phosphate lyase activity
+C2247542,moft,vetispiradiene synthase activity
+C2247547,moft,isoprene synthase activity
+C2247548,moft,sulfolactate sulfo-lyase activity
+C2247561,moft,5-(carboxyamino)imidazole ribonucleotide mutase activity
+C2247717,moft,toll-like receptor 2 signaling pathway
+C2247721,moft,toll-like receptor 3 signaling pathway
+C2247725,moft,toll-like receptor 4 signaling pathway
+C2247729,moft,toll-like receptor 5 signaling pathway
+C2247733,moft,toll-like receptor 6 signaling pathway
+C2247737,moft,toll-like receptor 7 signaling pathway
+C2247741,moft,toll-like receptor 8 signaling pathway
+C2247745,moft,toll-like receptor 9 signaling pathway
+C2247936,moft,DNA supercoiling activity
+C2248032,moft,interleukin-33 receptor activity
+C2248778,moft,cyclic nucleotide-gated mechanosensitive ion channel activity
+C2248788,moft,4-hydroxy-2-ketopimelate aldolase activity
+C2248789,moft,indoleacetamide hydrolase activity
+C2248794,moft,alpha-aminoadipate acetyltransferase activity
+C2248809,moft,crotonyl-CoA reductase activity
+C2248829,moft,cyclomaltodextrin glucanotransferase activity
+C2252825,moft,bile acid CoA ligase activity
+C2256521,moft,thromboplastin activity
+C2256566,moft,protein-glutamine:amine gamma-glutamyltransferase activity
+C2257651,moft,L-alanine:2-oxoglutarate aminotransferase activity
+C2257843,moft,paraoxonase activity
+C2257889,moft,L-aspartate:2-oxoglutarate aminotransferase activity
+C2257946,moft,Ap(4)A hydrolase activity
+C2258114,moft,citrate synthase activity
+C2258211,moft,cytochrome oxidase activity
+C2258685,moft,angiotensin converting enzyme activity
+C2258734,moft,dipeptidyl peptidase IV activity
+C2258859,moft,26S protease activity
+C2259198,moft,inhibition of binding
+C2260086,moft,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+C2260230,moft,hexokinase type II activity
+C2260367,moft,phosphatidylinositol 4-kinase activity
+C2260640,moft,methylenetetrahydrofolate reductase activity
+C2261240,moft,phospholipase A activity
+C2261493,moft,protein kinase A activity
+C2261561,moft,cyclin-dependent kinase activity
+C2261562,moft,cyclin-dependent kinase-2 activity
+C2261577,moft,PKCdelta
+C2261588,moft,MAP-2 kinase activity
+C2261599,moft,MAP kinase kinase 4 activity
+C2261644,moft,protein phosphatase-1 activity
+C2261927,moft,"Cu,Zn-SOD"
+C2262808,moft,Canonical Wnt Signaling Pathway
+C2263112,moft,protein modification process
+C2263855,moft,plasmalogen biosynthetic process
+C2265171,moft,tyrosine recombinase
+C2265516,moft,cullin deneddylation
+C2266079,moft,pore activity
+C2266856,moft,Proteasome Inhibitors [MoA]
+C2266865,moft,Calcium Chelating Activity [MoA]
+C2266880,moft,Peroxisome Proliferator-activated Receptor Activity [MoA]
+C2267179,moft,Copper Chelating Activity [MoA]
+C2610261,moft,p38MAPK cascade
+C2610644,moft,carbon monoxide binding
+C2610690,moft,fibrinogen binding
+C2610774,moft,isopeptidase activity
+C2610861,moft,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+C2611094,moft,ERK1 and ERK2 cascade
+C2611095,moft,ERK cascade
+C2611127,moft,high mobility group box 1 binding
+C2611180,moft,nucleotide-binding oligomerization domain containing 1 signaling pathway
+C2611184,moft,nucleotide-binding oligomerization domain containing 2 signaling pathway
+C2611259,moft,oligosaccharide binding
+C2611302,moft,protein kinase C signaling
+C2611831,moft,MAPK signaling
+C2612036,moft,protein kinase A signaling
+C2612406,moft,endoplasmic reticulum unfolded protein response
+C2612482,moft,very-low-density lipoprotein particle assembly
+C2612546,moft,lipid oxidation
+C2612767,moft,cortisol metabolic process
+C2612768,moft,cortisol biosynthetic process
+C2613137,moft,histone lysine methylation
+C2613159,moft,Fc receptor binding
+C2613317,moft,histone H3 acetylation
+C2717886,moft,Cross Protection
+C2752240,moft,Toll-like receptor binding
+C2752275,moft,PPAR Signaling Pathway
+C2752379,moft,26S proteasome assembly
+C2752589,moft,retinoic acid biosynthetic process
+C2753324,moft,guanylyltransferase activity
+C2753504,moft,interleukin-35 receptor binding
+C2754017,moft,histone H4 deacetylation
+C2754756,moft,death-inducing signaling complex assembly
+C2754810,moft,monocyte chemotactic protein-1 production
+C2754814,moft,macrophage inflammatory protein-1 alpha production
+C2754815,moft,chemokine (C-C motif) ligand 5 production
+C2754818,moft,IP-10 production
+C2755016,moft,mycolic acid biosynthetic process
+C2755301,moft,protein deglutathionylation
+C2755734,moft,hydroxylase activity
+C2755737,moft,anaphase-promoting complex activity
+C2755742,moft,autocrine activity
+C2755743,moft,paracrine activity
+C2755917,moft,anaphase-promoting complex binding
+C2756034,moft,p53 signaling pathway
+C2916791,moft,Glucagon-like Peptide-1 (GLP-1) Agonists [MoA]
+C2917254,moft,Dipeptidyl Peptidase 4 Inhibitors [MoA]
+C2936292,moft,Hydrophilic Interactions
+C2984300,moft,Insulin/Insulin Receptor Signaling Pathway
+C2984315,moft,NOD-Like Receptor Signaling Pathway
+C2984468,moft,Sphingosine 1-Phosphate Signaling Pathway
+C3146300,moft,Glycoprotein biosynthetic process
+C3155173,moft,phase II metabolism
+C3156138,moft,endocannabinoid signaling pathway
+C3156626,moft,ADP-ribose binding
+C3156630,moft,poly-ADP-ribose binding
+C3156874,moft,P2X receptor
+C3158054,moft,hh signaling pathway
+C3158297,moft,nucleic acid binding transcription factor activity
+C3158557,moft,terminal glycosylation
+C3158634,moft,cargo loading into vesicle
+C3158849,moft,Toll-like receptor 4 binding
+C3158854,moft,TRIF-dependent toll-like receptor 4 signaling pathway
+C3158903,moft,chemokine (C-C motif) ligand 2 binding
+C3159075,moft,"nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway"
+C3160734,moft,Dephosphorylation
+C3178791,moft,RNA Cleavage
+C3178960,moft,Wnt beta-Catenin Signaling Pathway
+C3178997,moft,Endoplasmic Reticulum-Associated Degradation
+C3179231,moft,ERK1-2 Pathway
+C3179232,moft,p38 Kinase Pathway
+C3179233,moft,MEK-ERK Pathway
+C3179234,moft,ERK Signal Tranduction Pathway
+C3242710,moft,molecular bond
+C3268327,moft,cytoplasmic translation
+C3268357,moft,p38 MAPK signaling
+C3269033,moft,interleukin-17A production
+C3269106,moft,organic cyclic compound binding
+C3269136,moft,extrinsic apoptotic signaling pathway
+C3269138,moft,extrinsic apoptosis
+C3269143,moft,intrinsic apoptotic signaling pathway
+C3269144,moft,intrinsic apoptosis
+C3269204,moft,epigallocatechin 3-gallate binding
+C3269239,moft,immunoglobulin-mediated neutralization
+C3270335,moft,jasmonate signaling
+C3271238,moft,Cdc42 signaling
+C3271239,moft,Cdc42 signaling pathway
+C3271553,moft,fucosylation
+C3271681,moft,TRAF-mediated signal transduction
+C3271708,moft,cargo receptor activity
+C3271762,moft,DDR signaling pathway
+C3271802,moft,Fc-gamma receptor signaling pathway involved in phagocytosis
+C3271886,moft,RIG-I/MDA5 signaling pathway
+C3271890,moft,RLR signaling pathway
+C3271891,moft,RIG-I signaling pathway
+C3271892,moft,MDA-5 signaling pathway
+C3271928,moft,RIG-I binding
+C3272080,moft,NLRP3 inflammasome activation
+C3272085,moft,secondary metabolite biosynthetic process
+C3272108,moft,capsanthin-capsorubin synthase
+C3534339,moft,alternate pathway
+C3537022,moft,Tubulin Binding
+C3537101,moft,Enzyme Interaction
+C3537124,moft,Free Radical Scavenging
+C3537131,moft,Chelating Activity
+C3544412,moft,amyloid fibril formation
+C3546404,moft,Fas-FasL signaling pathway
+C3546431,moft,ribosome recycling
+C3546468,moft,AMPK activity
+C3546691,moft,activation of protein kinase C activity
+C3547456,moft,lipooligosaccharide biosynthetic process
+C3547574,moft,insulin catabolic process
+C3547575,moft,insulin metabolic process
+C3548523,moft,apoptosome assembly
+C3548785,moft,cyclic-GMP-AMP synthase activity
+C3549111,moft,PKR signal transduction
+C3549171,moft,transforming growth factor beta activation
+C3549205,moft,vascular endothelial growth factor receptor-2 signaling pathway
+C3820641,moft,pattern recognition receptor activity
+C3820663,moft,TORC1 signaling
+C3820738,moft,co-receptor binding
+C3820789,moft,fermentative hydrogen production
+C3824143,moft,proteasome complex disassembly
+C3824144,moft,26S proteasome disassembly
+C3824314,moft,histone H2A phosphorylation
+C3890037,moft,ISG15 ligase activity
+C3896236,moft,transferrin receptor binding
+C4050156,moft,Tyrosine Nitration
+C4235025,moft,mannose trimming
+C4235418,moft,eukaryotic translation initiation factor 2 complex assembly
+C4235792,moft,ATG1/ULK1 kinase complex assembly
+C4235932,moft,advanced glycation end-product binding
+C4236748,moft,STAT cascade
+C4318842,moft,RNA polymerase activity
+C4327560,moft,mitotic checkpoint complex assembly
+C4327992,moft,eukaryotic translation initiation factor 2B complex assembly
+C4329009,moft,receptor-receptor interaction
+C4331020,moft,Poly ADP Ribosylation
+C4505258,moft,Proteostasis
+C4505263,moft,Mono(ADP-Ribosyl)ation
+C4505351,moft,Citrullination

@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C1444104,TREATS,Amoxicillin,Penicillin resistant Streptococcus pneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0002645,C2717874,TREATS,Amoxicillin,Uropathogenic Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0002680,C0018483,TREATS,Ampicillin,Haemophilus influenzae,antb,bact,2,TREATS_ANTBtrtsBACT
+C0002680,C0026941,TREATS,Ampicillin,Mycoplasma pneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0002680,C1265292,TREATS,Ampicillin,Methicillin-Resistant Staphylococcus aureus,antb,bact,1,TREATS_ANTBtrtsBACT
+C0003240,C0006017,TREATS,Macrolide Antibiotics,Bordetella pertussis,antb,bact,2,TREATS_ANTBtrtsBACT
+C0003240,C0008151,TREATS,Macrolide Antibiotics,Chlamydia trachomatis,antb,bact,1,TREATS_ANTBtrtsBACT
+C0006968,C0018150,TREATS,Carbapenems,Gram-Negative Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0006968,C0085467,TREATS,Carbapenems,Acinetobacter calcoaceticus,antb,bact,1,TREATS_ANTBtrtsBACT
+C0006968,C4039163,TREATS,Carbapenems,Carbapenem-Resistant Enterobacteriaceae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0006976,C0085472,TREATS,Carbenicillin,Agrobacterium tumefaciens,antb,bact,1,TREATS_ANTBtrtsBACT
+C0007559,C0033808,TREATS,Ceftazidime,Pseudomonas,antb,bact,1,TREATS_ANTBtrtsBACT
+C0008168,C0004611,TREATS,Chloramphenicol,Bacteria,antb,bact,3,TREATS_ANTBtrtsBACT
+C0008293,C0580797,TREATS,Chlortetracycline,Enterotoxigenic Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0008947,C0038411,TREATS,Clindamycin,Streptococcus pyogenes,antb,bact,1,TREATS_ANTBtrtsBACT
+C0013089,C0525033,TREATS,Doxorubicin,Probiotics,antb,bact,1,TREATS_ANTBtrtsBACT
+C0013090,C0004611,TREATS,Doxycycline,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0020933,C0004663,TREATS,Imipenem,Bacteroides fragilis,antb,bact,1,TREATS_ANTBtrtsBACT
+C0020933,C0033809,TREATS,Imipenem,Pseudomonas aeruginosa,antb,bact,1,TREATS_ANTBtrtsBACT
+C0020933,C0038172,TREATS,Imipenem,Staphylococcus aureus,antb,bact,1,TREATS_ANTBtrtsBACT
+C0022914,C0018483,TREATS,Lactams,Haemophilus influenzae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0026458,C0018483,TREATS,Monobactams,Haemophilus influenzae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0027603,C0580797,TREATS,Neomycin,Enterotoxigenic Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0029983,C0038172,TREATS,Oxacillin,Staphylococcus aureus,antb,bact,1,TREATS_ANTBtrtsBACT
+C0030842,C0026941,TREATS,Penicillins,Mycoplasma pneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0030842,C0038410,TREATS,Penicillins,Streptococcus pneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0030842,C0038411,TREATS,Penicillins,Streptococcus pyogenes,antb,bact,1,TREATS_ANTBtrtsBACT
+C0035608,C0004611,TREATS,Rifampin,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0035608,C0014344,TREATS,Rifampin,Enterobacter,antb,bact,1,TREATS_ANTBtrtsBACT
+C0035608,C0038172,TREATS,Rifampin,Staphylococcus aureus,antb,bact,1,TREATS_ANTBtrtsBACT
+C0038425,C0004611,TREATS,Streptomycin,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0039644,C0014834,TREATS,Tetracycline,Escherichia coli,antb,bact,2,TREATS_ANTBtrtsBACT
+C0039644,C0085489,TREATS,Tetracycline,Actinobacillus pleuropneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0040341,C0033808,TREATS,Tobramycin,Pseudomonas,antb,bact,1,TREATS_ANTBtrtsBACT
+C0041441,C1229075,TREATS,Tylosin,Faecalibacterium,antb,bact,1,TREATS_ANTBtrtsBACT
+C0052796,C0033809,TREATS,Azithromycin,Pseudomonas aeruginosa,antb,bact,1,TREATS_ANTBtrtsBACT
+C0052796,C0038410,TREATS,Azithromycin,Streptococcus pneumoniae,antb,bact,1,TREATS_ANTBtrtsBACT
+C0054036,C0004611,TREATS,Brefeldin A,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0055003,C0014344,TREATS,cefepime,Enterobacter,antb,bact,1,TREATS_ANTBtrtsBACT
+C0055856,C0004611,TREATS,Clarithromycin,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0059374,C0014834,TREATS,enrofloxacin,Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0066005,C0014834,TREATS,meropenem,Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0072980,C0013722,TREATS,Sirolimus,Ehrlichia,antb,bact,1,TREATS_ANTBtrtsBACT
+C0072980,C0035583,TREATS,Sirolimus,Rickettsia,antb,bact,2,TREATS_ANTBtrtsBACT
+C0081959,C0751985,TREATS,ceftiofur,Proteobacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C0282215,C0014834,TREATS,beta-Lactams,Escherichia coli,antb,bact,1,TREATS_ANTBtrtsBACT
+C0796552,C0014834,TREATS,Geldanamycin Analogue,Escherichia coli,antb,bact,4,TREATS_ANTBtrtsBACT
+C3536856,C0085467,TREATS,Cephalosporins,Acinetobacter calcoaceticus,antb,bact,1,TREATS_ANTBtrtsBACT
+C3854019,C0004611,TREATS,Gentamicin,Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C3854019,C0018150,TREATS,Gentamicin,Gram-Negative Bacteria,antb,bact,1,TREATS_ANTBtrtsBACT
+C3854019,C0081786,TREATS,Gentamicin,Microbial Biofilms,antb,bact,1,TREATS_ANTBtrtsBACT
+C4087029,C0022938,TREATS,Nitroglycerin/Sodium Citrate/Ethanol Solution,Lactobacillus,antb,bact,1,TREATS_ANTBtrtsBACT

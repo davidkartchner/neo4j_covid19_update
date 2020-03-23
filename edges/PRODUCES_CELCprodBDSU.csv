@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007623,C1550101,PRODUCES,Cell Wall,Supernatant,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0011305,C1550101,PRODUCES,Dendrites,Supernatant,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0014239,C1550101,PRODUCES,Endoplasmic Reticulum,Supernatant,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0026237,C0427896,PRODUCES,Mitochondria,Crystal - human material,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0042760,C0026727,PRODUCES,Virion,Mucous body substance,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0042760,C0230988,PRODUCES,Virion,Allantoic fluid,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0042760,C1550101,PRODUCES,Virion,Supernatant,celc,bdsu,12,PRODUCES_CELCprodBDSU
+C0042760,C1610733,PRODUCES,Virion,Urine - SpecimenType,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0333785,C0229671,PRODUCES,Virus-like particles,Serum,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0596901,C0026727,PRODUCES,Membrane,Mucous body substance,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C0596901,C0036087,PRODUCES,Membrane,saliva,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C1515922,C1550101,PRODUCES,Alpha Granule,Supernatant,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C1749467,C1550101,PRODUCES,soluble,Supernatant,celc,bdsu,3,PRODUCES_CELCprodBDSU
+C2734073,C0026727,PRODUCES,Cellular material,Mucous body substance,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C2754943,C0005889,PRODUCES,IgG antibody,Body Fluids,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C2754943,C0229671,PRODUCES,IgG antibody,Serum,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C2754943,C1550101,PRODUCES,IgG antibody,Supernatant,celc,bdsu,2,PRODUCES_CELCprodBDSU
+C2754978,C0229671,PRODUCES,"IgA immunoglobulin complex, circulating",Serum,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C2754978,C0438734,PRODUCES,"IgA immunoglobulin complex, circulating",Fluid specimen,celc,bdsu,1,PRODUCES_CELCprodBDSU
+C4235135,C1550101,PRODUCES,glycoprotein complex,Supernatant,celc,bdsu,1,PRODUCES_CELCprodBDSU

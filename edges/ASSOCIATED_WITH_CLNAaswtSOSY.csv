@@ -1,0 +1,35 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012655,C0043144,ASSOCIATED_WITH,Disease susceptibility,Wheezing,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0032930,C0043144,ASSOCIATED_WITH,Precipitating Factors,Wheezing,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0032930,C1517205,ASSOCIATED_WITH,Precipitating Factors,Flare,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0035190,C0043144,ASSOCIATED_WITH,Residual volume,Wheezing,clna,sosy,3,ASSOCIATED_WITH_CLNAaswtSOSY
+C0035234,C0043144,ASSOCIATED_WITH,Respiratory Sounds,Wheezing,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0231832,C0037090,ASSOCIATED_WITH,Respiratory rate,"Signs and Symptoms, Respiratory",clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0231832,C0476273,ASSOCIATED_WITH,Respiratory rate,Respiratory distress,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0683325,C0011991,ASSOCIATED_WITH,clinical aspects,Diarrhea,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0683325,C0239182,ASSOCIATED_WITH,clinical aspects,Watery diarrhea,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0798503,C0011991,ASSOCIATED_WITH,Challenge:Type:Point in time:^Patient:Nominal,Diarrhea,clna,sosy,2,ASSOCIATED_WITH_CLNAaswtSOSY
+C0798503,C0036572,ASSOCIATED_WITH,Challenge:Type:Point in time:^Patient:Nominal,Seizures,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0798503,C0037088,ASSOCIATED_WITH,Challenge:Type:Point in time:^Patient:Nominal,Signs and Symptoms,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C0815141,C0086132,ASSOCIATED_WITH,internal risk factors,Depressive Symptoms,clna,sosy,4,ASSOCIATED_WITH_CLNAaswtSOSY
+C0815172,C0232292,ASSOCIATED_WITH,patient characteristics,Chest tightness,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C1316572,C0043144,ASSOCIATED_WITH,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},Wheezing,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C1514593,C0679309,ASSOCIATED_WITH,Psychological Impact,physical symptom,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2599617,C0021479,ASSOCIATED_WITH,a wave,INJECTED EYE,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2708732,C0037090,ASSOCIATED_WITH,Clinical information:Finding:Point in time:^Patient:Narrative,"Signs and Symptoms, Respiratory",clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2919552,C0011991,ASSOCIATED_WITH,Survival time,Diarrhea,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0011991,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Diarrhea,clna,sosy,4,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0015672,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Fatigue,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0015970,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Fever of Unknown Origin,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0036572,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Seizures,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0037383,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Sneezing,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0392171,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Influenza-like symptoms,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C0679309,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,physical symptom,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C2926606,C1260880,ASSOCIATED_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Rhinorrhea,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C3166387,C0086132,ASSOCIATED_WITH,Suicidality,Depressive Symptoms,clna,sosy,5,ASSOCIATED_WITH_CLNAaswtSOSY
+C3538984,C0086132,ASSOCIATED_WITH,Social Risk Factor,Depressive Symptoms,clna,sosy,2,ASSOCIATED_WITH_CLNAaswtSOSY
+C3699655,C2364135,ASSOCIATED_WITH,Disease category,Actual Discomfort,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C3827727,C0010200,ASSOCIATED_WITH,Undetectable,Coughing,clna,sosy,4,ASSOCIATED_WITH_CLNAaswtSOSY
+C3830527,C0011991,ASSOCIATED_WITH,Detectable,Diarrhea,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C4035091,C0599766,ASSOCIATED_WITH,End-systolic volume,Recovery of Function,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY
+C4283769,C0016204,ASSOCIATED_WITH,Outdoor activity:Type:Pt:^Patient:Nom,Flatulence,clna,sosy,1,ASSOCIATED_WITH_CLNAaswtSOSY

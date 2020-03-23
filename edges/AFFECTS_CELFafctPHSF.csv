@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0020964,AFFECTS,Antibody Formation,Immunity,celf,phsf,4,AFFECTS_CELFafctPHSF
+C0004391,C0020964,AFFECTS,Autophagy,Immunity,celf,phsf,3,AFFECTS_CELFafctPHSF
+C0004391,C0678662,AFFECTS,Autophagy,regulatory loop,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0004391,C2256369,AFFECTS,Autophagy,heart process,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0004391,C3714584,AFFECTS,Autophagy,"Transformation, function",celf,phsf,1,AFFECTS_CELFafctPHSF
+C0007582,C0020964,AFFECTS,Cell Communication,Immunity,celf,phsf,2,AFFECTS_CELFafctPHSF
+C0007582,C0597170,AFFECTS,Cell Communication,paracrine,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0007613,C0149784,AFFECTS,Cell physiology,biological adaptation to stress,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0008019,C0020964,AFFECTS,"Chemotaxis, Leukocyte",Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0010813,C0242732,AFFECTS,Cytokinesis,Tropism,celf,phsf,2,AFFECTS_CELFafctPHSF
+C0010813,C1514892,AFFECTS,Cytokinesis,Resistance Process,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0014139,C0243144,AFFECTS,Endocytosis,Uptake,celf,phsf,3,AFFECTS_CELFafctPHSF
+C0020987,C0020964,AFFECTS,Immunocompetence,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0031308,C0243144,AFFECTS,Phagocytosis,Uptake,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0031308,C0544570,AFFECTS,Phagocytosis,Bactericidal activity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0037083,C0020964,AFFECTS,Signal Transduction,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0037083,C0243144,AFFECTS,Signal Transduction,Uptake,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0085416,C0243144,AFFECTS,Respiratory Burst,Uptake,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0162638,C0020964,AFFECTS,Apoptosis,Immunity,celf,phsf,2,AFFECTS_CELFafctPHSF
+C0162638,C3714584,AFFECTS,Apoptosis,"Transformation, function",celf,phsf,1,AFFECTS_CELFafctPHSF
+C0206431,C0020964,AFFECTS,Antigen Presentation,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C0596290,C1511613,AFFECTS,Cell Proliferation,Cytokine Signaling Process,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1155003,C0020964,AFFECTS,B-Cell Activation,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1155064,C0020964,AFFECTS,NK Cell Activation,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1155229,C0020964,AFFECTS,Humoral immune response,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1155873,C0597170,AFFECTS,Cell Cycle Arrest,paracrine,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1156246,C0149784,AFFECTS,filamentous growth,biological adaptation to stress,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1160466,C0243144,AFFECTS,conjugation,Uptake,celf,phsf,2,AFFECTS_CELFafctPHSF
+C1318468,C0020964,AFFECTS,cell mediated immune response,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1325881,C0149784,AFFECTS,biofilm formation,biological adaptation to stress,celf,phsf,2,AFFECTS_CELFafctPHSF
+C1326230,C0020964,AFFECTS,T cell homeostasis,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1327415,C0178665,AFFECTS,interleukin-1 secretion,glucose tolerance,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1327616,C0243144,AFFECTS,Cell secretion,Uptake,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1516375,C0020964,AFFECTS,Cellular Tropism,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1622501,C0020964,AFFECTS,"Migration, Cell",Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1622501,C0597170,AFFECTS,"Migration, Cell",paracrine,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1817513,C0035203,AFFECTS,growth regulator,Respiration,celf,phsf,1,AFFECTS_CELFafctPHSF
+C1817908,C0020964,AFFECTS,Cellular Immune Response,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C2611812,C0020964,AFFECTS,signaling cascade,Immunity,celf,phsf,1,AFFECTS_CELFafctPHSF
+C2611812,C0243144,AFFECTS,signaling cascade,Uptake,celf,phsf,1,AFFECTS_CELFafctPHSF
+C2613267,C0035203,AFFECTS,sporulation,Respiration,celf,phsf,1,AFFECTS_CELFafctPHSF
+C3156642,C0243144,AFFECTS,clathrin-dependent endocytosis,Uptake,celf,phsf,4,AFFECTS_CELFafctPHSF
+C3156643,C0243144,AFFECTS,caveolin-mediated endocytosis,Uptake,celf,phsf,2,AFFECTS_CELFafctPHSF
+C3156756,C1135927,AFFECTS,lymphocyte migration,"Immunity, Herd",celf,phsf,1,AFFECTS_CELFafctPHSF
+C3271951,C0243144,AFFECTS,macropinocytosis,Uptake,celf,phsf,4,AFFECTS_CELFafctPHSF

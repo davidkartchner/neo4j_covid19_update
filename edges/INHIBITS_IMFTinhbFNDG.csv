@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C1545588,INHIBITS,Immunologic Adjuvants,Protection,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0001551,C4055506,INHIBITS,Immunologic Adjuvants,Accumulation,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0004886,C1262477,INHIBITS,BCG Vaccine,Weight decreased,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0004886,C1709157,INHIBITS,BCG Vaccine,Negative Surgical Margin,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0376705,INHIBITS,Vaccines,Viral Load result,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0442748,INHIBITS,Vaccines,6/4,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C0556025,INHIBITS,Vaccines,Injecting drug user,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C1262477,INHIBITS,Vaccines,Weight decreased,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C1545588,INHIBITS,Vaccines,Protection,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042210,C3540840,INHIBITS,Vaccines,Sign or Symptom,imft,fndg,3,INHIBITS_IMFTinhbFNDG
+C0042210,C4289767,INHIBITS,Vaccines,Colonization,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042211,C1545588,INHIBITS,"Vaccines, Attenuated",Protection,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042211,C3540840,INHIBITS,"Vaccines, Attenuated",Sign or Symptom,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0042211,C4289767,INHIBITS,"Vaccines, Attenuated",Colonization,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0206253,C0038435,INHIBITS,"Vaccines, Combined",Stress,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0376613,C0038435,INHIBITS,"Vaccines, DNA",Stress,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0599597,C0033213,INHIBITS,genetic vaccine,Problem,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C0887892,C0518609,INHIBITS,"Vaccines, Subunit",consideration,imft,fndg,1,INHIBITS_IMFTinhbFNDG
+C2825347,C4289767,INHIBITS,"Immunoglobulin A, Human",Colonization,imft,fndg,3,INHIBITS_IMFTinhbFNDG

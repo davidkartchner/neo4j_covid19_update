@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0012939,C3714514,CAUSES,"DNA, Viral",Infection,nnon,patf,1,CAUSES_NNONcausPATF
+C0206415,C0020517,CAUSES,Oligonucleotide Primers,Hypersensitivity,nnon,patf,3,CAUSES_NNONcausPATF
+C0206415,C3714514,CAUSES,Oligonucleotide Primers,Infection,nnon,patf,1,CAUSES_NNONcausPATF
+C0599013,C0020517,CAUSES,aptamer,Hypersensitivity,nnon,patf,1,CAUSES_NNONcausPATF
+C0599013,C0853041,CAUSES,aptamer,reaction to colouring,nnon,patf,1,CAUSES_NNONcausPATF
+C0887909,C1155266,CAUSES,"RNA, Untranslated",inflammatory response,nnon,patf,1,CAUSES_NNONcausPATF
+C1510800,C0021368,CAUSES,Adenoviral Vector,Inflammation,nnon,patf,1,CAUSES_NNONcausPATF
+C1510800,C1155266,CAUSES,Adenoviral Vector,inflammatory response,nnon,patf,1,CAUSES_NNONcausPATF
+C1514285,C0333288,CAUSES,Pox Virus Vector,Dissecting hemorrhage,nnon,patf,1,CAUSES_NNONcausPATF
+C2930586,C0024348,CAUSES,Short Hairpin RNA,Lysis,nnon,patf,1,CAUSES_NNONcausPATF

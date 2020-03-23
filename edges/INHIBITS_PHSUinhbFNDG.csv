@@ -1,0 +1,42 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C4055506,INHIBITS,Acyclovir,Accumulation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0002771,C3816499,INHIBITS,Analgesics,Pathogenic,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0002932,C0036973,INHIBITS,Anesthetics,Shivering,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0003209,C4086268,INHIBITS,Anti-Inflammatory Agents,Exacerbation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0003209,C4321237,INHIBITS,Anti-Inflammatory Agents,High Level,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0003451,C3816499,INHIBITS,Antiviral Agents,Pathogenic,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0006280,C4086268,INHIBITS,Bronchodilator Agents,Exacerbation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0014695,C0241303,INHIBITS,Ergocalciferol,sun light exposure,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0020592,C0235195,INHIBITS,Hypnotics and Sedatives,Sedated state,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0027866,C0235195,INHIBITS,Neuromuscular Blocking Agents,Sedated state,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0032950,C0429632,INHIBITS,prednisolone,Total body water,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0035525,C4034374,INHIBITS,Ribavirin,Liver Stiffness,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0050063,C1821244,INHIBITS,8-chloro-cyclic adenosine monophosphate,Normal development,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0077608,C4055506,INHIBITS,U 18666A,Accumulation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0242708,C3533236,INHIBITS,"Antirheumatic Drugs, Disease-Modifying",Mean score,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0302837,C0349790,INHIBITS,Vitamin supplementation,Exacerbation of asthma,phsu,fndg,2,INHIBITS_PHSUinhbFNDG
+C0302837,C3806482,INHIBITS,Vitamin supplementation,Recurrent respiratory infections,phsu,fndg,2,INHIBITS_PHSUinhbFNDG
+C0302837,C4086268,INHIBITS,Vitamin supplementation,Exacerbation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0376565,C0521654,INHIBITS,Anti-HIV Agents,Neurologic Deficits,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0539896,C4296962,INHIBITS,OSW 1,Normal function,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C0699680,C0442726,INHIBITS,Metric,Detected (finding),phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1121667,C0041667,INHIBITS,PEN 110,Underweight,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1136254,C0015663,INHIBITS,Microbicides,Fasting,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1136254,C0558141,INHIBITS,Microbicides,Transsexual (finding),phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1136254,C1545588,INHIBITS,Microbicides,Protection,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1136254,C4289767,INHIBITS,Microbicides,Colonization,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1514669,C4055506,INHIBITS,RNA Polymerase Inhibitor,Accumulation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1562036,C3273245,INHIBITS,Calcineurin inhibitor,Acute Rejection,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1827106,C0043094,INHIBITS,Dipeptidyl-Peptidase IV Inhibitors,Weight Gain,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1874451,C1998726,INHIBITS,Basis,Adequate Knowledge,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1874451,C3714738,INHIBITS,Basis,Compliance,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C1880030,C0429706,INHIBITS,Chemokine receptor antagonist,Forced expiratory volume in 1 second finding,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C2607564,C0001925,INHIBITS,LC15-0444,Albuminuria,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3180566,C4055506,INHIBITS,ganoderic acid C2,Accumulation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3252847,C0231254,INHIBITS,VX 809,Increased body mass index,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3252847,C4086268,INHIBITS,VX 809,Exacerbation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3537218,C0033213,INHIBITS,Neuraminidase Inhibitor [EPC],Problem,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3541969,C1836348,INHIBITS,"Neuraminidase inhibitors, direct acting antivirals",Severe disorder,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3713501,C0240417,INHIBITS,SRT2104,Form of muscle,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C3864921,C1262477,INHIBITS,Protease-activated Receptor-1 Antagonist [EPC],Weight decreased,phsu,fndg,1,INHIBITS_PHSUinhbFNDG
+C4330852,C4055506,INHIBITS,Oligomeric Procyanidin Complex,Accumulation,phsu,fndg,1,INHIBITS_PHSUinhbFNDG

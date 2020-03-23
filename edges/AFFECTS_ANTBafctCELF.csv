@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003240,C1523908,AFFECTS,Macrolide Antibiotics,apoptotic cell clearance,antb,celf,1,AFFECTS_ANTBafctCELF
+C0007537,C1622501,AFFECTS,Cefaclor,"Migration, Cell",antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C0007620,AFFECTS,Doxorubicin,Cell Survival,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C1720920,AFFECTS,Doxorubicin,"Membrane Potential, Mitochondrial",antb,celf,1,AFFECTS_ANTBafctCELF
+C0013090,C0599733,AFFECTS,Doxycycline,cell killing,antb,celf,1,AFFECTS_ANTBafctCELF
+C0016095,C3156643,AFFECTS,Filipin,caveolin-mediated endocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C0010813,AFFECTS,Monensin,Cytokinesis,antb,celf,2,AFFECTS_ANTBafctCELF
+C0026408,C1159342,AFFECTS,Monensin,Secretory Pathway,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C2612729,AFFECTS,Monensin,cellular protein localization,antb,celf,1,AFFECTS_ANTBafctCELF
+C0028741,C0014139,AFFECTS,Nystatin,Endocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0031308,AFFECTS,Azithromycin,Phagocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C1720916,AFFECTS,Azithromycin,Quorum Quenching,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0598953,AFFECTS,Brefeldin A,retrograde transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C1159342,AFFECTS,Brefeldin A,Secretory Pathway,antb,celf,2,AFFECTS_ANTBafctCELF
+C0054036,C1159344,AFFECTS,Brefeldin A,ER to Golgi vesicle-mediated transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0004391,AFFECTS,Sirolimus,Autophagy,antb,celf,5,AFFECTS_ANTBafctCELF
+C0072980,C0007595,AFFECTS,Sirolimus,cell growth,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0037083,AFFECTS,Sirolimus,Signal Transduction,antb,celf,1,AFFECTS_ANTBafctCELF
+C0125179,C4231795,AFFECTS,lactacystin,lysosomal proteolysis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0007586,AFFECTS,NS 5,Cell Cycle,antb,celf,3,AFFECTS_ANTBafctCELF
+C0614427,C0007590,AFFECTS,NS 5,Cell division,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0010813,AFFECTS,NS 5,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0887839,AFFECTS,NS 5,Nuclear Import,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0887840,AFFECTS,NS 5,Nuclear Export,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C1155342,AFFECTS,NS 5,cellular response to unfolded protein,antb,celf,1,AFFECTS_ANTBafctCELF
+C1451406,C1622024,AFFECTS,tulathromycin,pseudopodium assembly,antb,celf,1,AFFECTS_ANTBafctCELF

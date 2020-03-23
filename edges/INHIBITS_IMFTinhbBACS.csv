@@ -1,0 +1,14 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003320,INHIBITS,Immunologic Adjuvants,Antigens,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0003316,C0040549,INHIBITS,Epitopes,Toxin,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0003445,C0040549,INHIBITS,Antitoxins,Toxin,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0041361,C0003320,INHIBITS,Tumor Antigens,Antigens,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0042210,C0003320,INHIBITS,Vaccines,Antigens,imft,bacs,2,INHIBITS_IMFTinhbBACS
+C0042210,C0018909,INHIBITS,Vaccines,Hemagglutinin,imft,bacs,2,INHIBITS_IMFTinhbBACS
+C0042211,C1136170,INHIBITS,"Vaccines, Attenuated",Virulence Factors,imft,bacs,2,INHIBITS_IMFTinhbBACS
+C0086413,C0003320,INHIBITS,HIV Vaccine,Antigens,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0376613,C0003320,INHIBITS,"Vaccines, DNA",Antigens,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0376613,C0012854,INHIBITS,"Vaccines, DNA",DNA,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C0591524,C0018909,INHIBITS,fluarix,Hemagglutinin,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C1516086,C1136170,INHIBITS,Attenuated Live Virus Vaccine,Virulence Factors,imft,bacs,1,INHIBITS_IMFTinhbBACS
+C1519887,C0003320,INHIBITS,Vaccine Antigen,Antigens,imft,bacs,1,INHIBITS_IMFTinhbBACS

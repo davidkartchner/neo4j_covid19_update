@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002771,C0033213,AFFECTS,Analgesics,Problem,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0002771,C2825142,AFFECTS,Analgesics,Experimental Result,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0002773,C0015967,AFFECTS,"Analgesics, Anti-Inflammatory",Fever,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003191,C4296962,AFFECTS,Antirheumatic Agents,Normal function,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003209,C0427184,AFFECTS,Anti-Inflammatory Agents,No incoordination,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003402,C0281825,AFFECTS,Antioxidants,Dysequilibrium,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003402,C1457868,AFFECTS,Antioxidants,Worse,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003419,C3476546,AFFECTS,Antipyretics,Symptoms score,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003449,C3476546,AFFECTS,Antitussive Agents,Symptoms score,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003451,C1318963,AFFECTS,Antiviral Agents,Readiness,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003451,C1320226,AFFECTS,Antiviral Agents,Incubation period,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003451,C1545588,AFFECTS,Antiviral Agents,Protection,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0003451,C3845947,AFFECTS,Antiviral Agents,Very limited,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0011777,C0020649,AFFECTS,Dexamethasone,Hypotension,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0014695,C4086268,AFFECTS,Ergocalciferol,Exacerbation,phsu,fndg,2,AFFECTS_PHSUafctFNDG
+C0020811,C1366940,AFFECTS,Idoxuridine,Tattoo,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0035525,C1545588,AFFECTS,Ribavirin,Protection,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0035525,C3540840,AFFECTS,Ribavirin,Sign or Symptom,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0062185,C4086268,AFFECTS,heliox,Exacerbation,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0071359,C3816499,AFFECTS,poly ICLC,Pathogenic,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0521879,C2826244,AFFECTS,Agonist drug,Life Threatening,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0597217,C3840880,AFFECTS,phosphatase inhibitor,Traffic,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0699680,C1545588,AFFECTS,Metric,Protection,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0718566,C0449437,AFFECTS,Anti-Fungal,Patient status,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0724139,C1444783,AFFECTS,Urised,Instability,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0914671,C1545588,AFFECTS,CPG-ODN,Protection,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0914671,C3816499,AFFECTS,CPG-ODN,Pathogenic,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C0979582,C4289767,AFFECTS,Pneumococcal 7-valent conjugate vaccine,Colonization,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1520007,C3840940,AFFECTS,viral vector,Potential problem,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1570906,C0458247,AFFECTS,vildagliptin,Allodynia,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1614561,C1836348,AFFECTS,Polypodium Leucotomos,Severe disorder,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1827106,C0020429,AFFECTS,Dipeptidyl-Peptidase IV Inhibitors,Hyperalgesia,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1874321,C4068804,AFFECTS,ANTISEPTICS/DISINFECTANTS,Coherent,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1874451,C1517940,AFFECTS,Basis,Long Term Survivorship,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1874451,C2825972,AFFECTS,Basis,Cant,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C1874451,C3273930,AFFECTS,Basis,Tumor Mass,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C2954564,C4055506,AFFECTS,Suppressor,Accumulation,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C2986877,C1718420,AFFECTS,Phenobarbital Calcium,Tubule Formation,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C0033213,AFFECTS,other medicated shampoos in ATC,Problem,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C1704632,AFFECTS,other medicated shampoos in ATC,Disease Response,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C1854494,AFFECTS,other medicated shampoos in ATC,Slow progression,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C3844126,AFFECTS,other medicated shampoos in ATC,Can Do Very Little,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C4055506,AFFECTS,other medicated shampoos in ATC,Accumulation,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C4086268,AFFECTS,other medicated shampoos in ATC,Exacerbation,phsu,fndg,1,AFFECTS_PHSUafctFNDG
+C3539125,C4289767,AFFECTS,other medicated shampoos in ATC,Colonization,phsu,fndg,2,AFFECTS_PHSUafctFNDG
+C4330505,C2585744,AFFECTS,JAK1 Inhibitor,Virus present,phsu,fndg,1,AFFECTS_PHSUafctFNDG

@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0004238,PREVENTS,Adrenal Cortex Hormones,Atrial Fibrillation,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0013604,PREVENTS,Adrenal Cortex Hormones,Edema,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0016059,PREVENTS,Adrenal Cortex Hormones,Fibrosis,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0021368,PREVENTS,Adrenal Cortex Hormones,Inflammation,horm,patf,5,PREVENTS_HORMprevPATF
+C0001617,C0342314,PREVENTS,Adrenal Cortex Hormones,Dawn phenomenon,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C2717792,PREVENTS,Adrenal Cortex Hormones,Airway Remodeling,horm,patf,2,PREVENTS_HORMprevPATF
+C0010137,C0021368,PREVENTS,Cortisone,Inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0025815,C1155266,PREVENTS,Methylprednisolone,inflammatory response,horm,patf,1,PREVENTS_HORMprevPATF
+C0039601,C1155266,PREVENTS,Testosterone,inflammatory response,horm,patf,1,PREVENTS_HORMprevPATF
+C0723595,C0332448,PREVENTS,Tace,Infiltration,horm,patf,1,PREVENTS_HORMprevPATF

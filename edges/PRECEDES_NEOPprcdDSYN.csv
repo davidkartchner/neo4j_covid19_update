@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006826,C0018799,PRECEDES,Malignant Neoplasms,Heart Diseases,neop,dsyn,1,PRECEDES_NEOPprcdDSYN
+C0006826,C0035204,PRECEDES,Malignant Neoplasms,Respiration Disorders,neop,dsyn,1,PRECEDES_NEOPprcdDSYN
+C0027627,C0042749,PRECEDES,Neoplasm Metastasis,Viremia,neop,dsyn,1,PRECEDES_NEOPprcdDSYN
+C0027651,C0002395,PRECEDES,Neoplasms,Alzheimer's Disease,neop,dsyn,1,PRECEDES_NEOPprcdDSYN
+C0079772,C0149678,PRECEDES,T-Cell Lymphoma,Epstein-Barr Virus Infections,neop,dsyn,1,PRECEDES_NEOPprcdDSYN
+C0242379,C0020542,PRECEDES,Malignant neoplasm of lung,Pulmonary Hypertension,neop,dsyn,2,PRECEDES_NEOPprcdDSYN

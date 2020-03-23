@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004623,C0025570,PRECEDES,Bacterial Infections,Squamous metaplasia,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0022116,C0043020,PRECEDES,Ischemia,Wallerian Degeneration,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0022116,C0398740,PRECEDES,Ischemia,Impaired phagocytosis,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0035235,C0599732,PRECEDES,Respiratory Syncytial Virus Infections,cell injury,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0038454,C0027746,PRECEDES,Cerebrovascular accident,Nerve Degeneration,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0042769,C0027746,PRECEDES,Virus Diseases,Nerve Degeneration,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0042769,C0242606,PRECEDES,Virus Diseases,Oxidative Stress,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0042769,C0302113,PRECEDES,Virus Diseases,Fragility,dsyn,comd,1,PRECEDES_DSYNprcdCOMD
+C0442886,C0282632,PRECEDES,Secondary Infections,Antibody-Dependent Enhancement,dsyn,comd,3,PRECEDES_DSYNprcdCOMD

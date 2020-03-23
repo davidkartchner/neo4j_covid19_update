@@ -1,0 +1,23 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007963,C0019994,USES,Charts (device),Hospitals,medd,hcro,3,USES_MEDDusesHCRO
+C0009653,C0031322,USES,"Condoms, Male",Pharmacy facility,medd,hcro,1,USES_MEDDusesHCRO
+C0024861,C0019994,USES,Masks,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0042497,C0018704,USES,Mechanical Ventilator,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0042497,C0565990,USES,Mechanical Ventilator,Medical center,medd,hcro,2,USES_MEDDusesHCRO
+C0087153,C0021708,USES,Ventilator - respiratory equipment,intensive care unit,medd,hcro,2,USES_MEDDusesHCRO
+C0087153,C0029064,USES,Ventilator - respiratory equipment,Operating Room,medd,hcro,1,USES_MEDDusesHCRO
+C0179802,C0019994,USES,Urinary catheter,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0179958,C0019994,USES,Cleaning Device,Hospitals,medd,hcro,5,USES_MEDDusesHCRO
+C0180463,C0019994,USES,Dispenser,Hospitals,medd,hcro,1,USES_MEDDusesHCRO
+C0181064,C0018704,USES,Gown,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0181064,C0019994,USES,Gown,Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C0183644,C0019994,USES,Wheeled Stretchers,Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C0491243,C0018704,USES,Flexible endoscope,Health care facility,medd,hcro,1,USES_MEDDusesHCRO
+C0687607,C0019994,USES,"Thermometers, Electronic, Infrared, Ear",Hospitals,medd,hcro,8,USES_MEDDusesHCRO
+C0808388,C0565990,USES,Ventilator type,Medical center,medd,hcro,1,USES_MEDDusesHCRO
+C0936234,C0019994,USES,Computed Tomography Scanning Systems,Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C0972401,C0018704,USES,Boards (medical device),Health care facility,medd,hcro,3,USES_MEDDusesHCRO
+C0972401,C0019994,USES,Boards (medical device),Hospitals,medd,hcro,2,USES_MEDDusesHCRO
+C0972401,C0023625,USES,Boards (medical device),"Libraries, Medical",medd,hcro,1,USES_MEDDusesHCRO
+C1314650,C0021708,USES,"SUPPLY, NOT OTHERWISE SPECIFIED",intensive care unit,medd,hcro,1,USES_MEDDusesHCRO
+C1875815,C0031322,USES,SYRINGES/NEEDLES,Pharmacy facility,medd,hcro,1,USES_MEDDusesHCRO

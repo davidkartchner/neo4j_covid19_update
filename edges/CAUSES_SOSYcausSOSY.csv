@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010200,C0042963,CAUSES,Coughing,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0010200,C0231239,CAUSES,Coughing,Fluctuation,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0042963,CAUSES,Diarrhea,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C0231218,CAUSES,Diarrhea,Malaise,sosy,sosy,2,CAUSES_SOSYcausSOSY
+C0011991,C0392171,CAUSES,Diarrhea,Influenza-like symptoms,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0011991,C1397014,CAUSES,Diarrhea,Imbalance,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0015672,C0013404,CAUSES,Fatigue,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0032781,C0010201,CAUSES,Posterior rhinorrhea,Chronic cough,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0010200,CAUSES,Seizures,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0026837,CAUSES,Seizures,Muscle Rigidity,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0036572,C0494475,CAUSES,Seizures,Tonic - clonic seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0006625,CAUSES,Vomiting,Cachexia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0042963,C0011991,CAUSES,Vomiting,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0085632,C0011991,CAUSES,Apathy,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0085632,C0277794,CAUSES,Apathy,Extreme exhaustion,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0151825,C2936719,CAUSES,Bone pain,Mechanical Allodynia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0231218,C0011991,CAUSES,Malaise,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0232462,C0020639,CAUSES,Decrease in appetite,Hypoproteinemia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0235169,C0030552,CAUSES,Excitability,Paresis,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0235169,C0036572,CAUSES,Excitability,Seizures,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0235290,C0042963,CAUSES,bitter taste,Vomiting,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C0240805,C1384666,CAUSES,Prodrome,hearing impairment,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1112500,C0011991,CAUSES,skin tenting,Diarrhea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1260880,C0010200,CAUSES,Rhinorrhea,Coughing,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C1443924,C0011991,CAUSES,Severe diarrhea,Diarrhea,sosy,sosy,3,CAUSES_SOSYcausSOSY
+C3714552,C0013404,CAUSES,Weakness,Dyspnea,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0151908,CAUSES,Weakness,Dry skin,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C0231528,CAUSES,Weakness,Myalgia,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C3714552,C1397014,CAUSES,Weakness,Imbalance,sosy,sosy,1,CAUSES_SOSYcausSOSY
+C4287543,C0009806,CAUSES,Intestinal dysbiosis,Constipation,sosy,sosy,1,CAUSES_SOSYcausSOSY

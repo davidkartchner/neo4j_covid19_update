@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0041361,C0003315,ADMINISTERED_TO,Tumor Antigens,Antigen-Presenting Cells,imft,cell,1,ADMINISTERED_TO_IMFTadtoCELL
+C0041361,C0011306,ADMINISTERED_TO,Tumor Antigens,Dendritic Cells,imft,cell,2,ADMINISTERED_TO_IMFTadtoCELL
+C0051967,C1956385,ADMINISTERED_TO,anti-c antibody,Plasmacytoid Dendritic Cells,imft,cell,1,ADMINISTERED_TO_IMFTadtoCELL
+C0376613,C4330475,ADMINISTERED_TO,"Vaccines, DNA",Immune Cell,imft,cell,1,ADMINISTERED_TO_IMFTadtoCELL

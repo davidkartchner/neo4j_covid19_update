@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0042720,PRODUCES,Plasma membrane,Viral Genome,celc,gngm,2,PRODUCES_CELCprodGNGM
+C0028587,C0042720,PRODUCES,Nuclear Pore,Viral Genome,celc,gngm,1,PRODUCES_CELCprodGNGM
+C0042760,C0042720,PRODUCES,Virion,Viral Genome,celc,gngm,4,PRODUCES_CELCprodGNGM
+C0042760,C0440471,PRODUCES,Virion,Genetic Materials,celc,gngm,1,PRODUCES_CELCprodGNGM
+C0333785,C0206414,PRODUCES,Virus-like particles,"Genes, Reporter",celc,gngm,1,PRODUCES_CELCprodGNGM
+C0596901,C0017376,PRODUCES,Membrane,"Genes, Viral",celc,gngm,1,PRODUCES_CELCprodGNGM
+C0887883,C0042720,PRODUCES,Early endosome,Viral Genome,celc,gngm,1,PRODUCES_CELCprodGNGM
+C1167250,C0027260,PRODUCES,lipid raft,N-ras Genes,celc,gngm,1,PRODUCES_CELCprodGNGM
+C1167398,C0042720,PRODUCES,Viral envelope,Viral Genome,celc,gngm,3,PRODUCES_CELCprodGNGM
+C1179907,C0042720,PRODUCES,Wall of endosome,Viral Genome,celc,gngm,4,PRODUCES_CELCprodGNGM
+C1819995,C0042720,PRODUCES,Host Cell,Viral Genome,celc,gngm,2,PRODUCES_CELCprodGNGM

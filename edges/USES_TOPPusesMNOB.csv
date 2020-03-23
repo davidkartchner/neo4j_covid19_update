@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0026032,USES,"Administration, Intranasal",Microspheres,topp,mnob,1,USES_TOPPusesMNOB
+C0012683,C0348000,USES,Disinfection,Instrument - device,topp,mnob,1,USES_TOPPusesMNOB
+C0013931,C0026032,USES,"Embolization, Therapeutic",Microspheres,topp,mnob,2,USES_TOPPusesMNOB
+C0015252,C0181467,USES,removal technique,knife,topp,mnob,1,USES_TOPPusesMNOB
+C0020971,C0026032,USES,Immunization,Microspheres,topp,mnob,1,USES_TOPPusesMNOB
+C0021107,C0013812,USES,Implantation procedure,electrode,topp,mnob,1,USES_TOPPusesMNOB
+C0021485,C0026032,USES,Injection of therapeutic agent,Microspheres,topp,mnob,1,USES_TOPPusesMNOB
+C0035239,C0348000,USES,Respiratory Therapy,Instrument - device,topp,mnob,1,USES_TOPPusesMNOB
+C0152060,C0039818,USES,Transection (procedure),"Thermometer, device",topp,mnob,1,USES_TOPPusesMNOB
+C0152060,C0181467,USES,Transection (procedure),knife,topp,mnob,3,USES_TOPPusesMNOB
+C0152060,C0348000,USES,Transection (procedure),Instrument - device,topp,mnob,1,USES_TOPPusesMNOB
+C0185115,C0026032,USES,Extraction,Microspheres,topp,mnob,1,USES_TOPPusesMNOB
+C0185115,C0348000,USES,Extraction,Instrument - device,topp,mnob,1,USES_TOPPusesMNOB
+C0338248,C1289846,USES,carmustine/cytarabine/etoposide/melphalan regimen,Helium Neon Gas Lasers,topp,mnob,1,USES_TOPPusesMNOB
+C0524865,C0598124,USES,Reconstructive Surgical Procedures,charge coupled device camera,topp,mnob,1,USES_TOPPusesMNOB
+C0545447,C0039818,USES,monitoring temperature,"Thermometer, device",topp,mnob,1,USES_TOPPusesMNOB
+C0695434,C0013812,USES,oscillations,electrode,topp,mnob,1,USES_TOPPusesMNOB
+C0741847,C0002422,USES,Bypass,Ambulances,topp,mnob,1,USES_TOPPusesMNOB
+C1511790,C0013812,USES,Detection,electrode,topp,mnob,6,USES_TOPPusesMNOB
+C1511790,C0026032,USES,Detection,Microspheres,topp,mnob,7,USES_TOPPusesMNOB
+C1511790,C0348000,USES,Detection,Instrument - device,topp,mnob,5,USES_TOPPusesMNOB
+C1963724,C0348000,USES,Antiretroviral therapy,Instrument - device,topp,mnob,1,USES_TOPPusesMNOB
+C3540512,C0336635,USES,Circumferential Supracrestal Fiberotomy,Glass tube,topp,mnob,1,USES_TOPPusesMNOB

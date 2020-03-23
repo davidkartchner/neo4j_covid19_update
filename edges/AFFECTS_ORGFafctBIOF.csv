@@ -1,0 +1,35 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0042765,AFFECTS,Acclimatization,Virulence,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0001811,C3714634,AFFECTS,Aging,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0008810,C1160638,AFFECTS,Circadian Rhythms,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0011065,C0042765,AFFECTS,Cessation of life,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0014653,C3714634,AFFECTS,Equilibrium,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0018270,C0220781,AFFECTS,Growth,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0019868,C0220781,AFFECTS,Homeostasis,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0019868,C3714634,AFFECTS,Homeostasis,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0019868,C3853734,AFFECTS,Homeostasis,viral process,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0020966,C0220781,AFFECTS,Cellular Immunity,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0025516,C0013203,AFFECTS,"Metabolic Detoxication, Drug",Drug resistance,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0025519,C3714634,AFFECTS,Metabolism,Biological Processes,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0026559,C0220781,AFFECTS,Morphogenesis,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0026649,C0220781,AFFECTS,Movement,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0026649,C1160638,AFFECTS,Movement,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0032961,C1160638,AFFECTS,Pregnancy,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0042774,C0042765,AFFECTS,Virus Replication,Virulence,orgf,biof,9,AFFECTS_ORGFafctBIOF
+C0042774,C0086474,AFFECTS,Virus Replication,"Integration, Provirus",orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0042774,C0220781,AFFECTS,Virus Replication,Anabolism,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0042774,C1160638,AFFECTS,Virus Replication,Viral life cycle,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0042774,C1656970,AFFECTS,Virus Replication,entry into host,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0042774,C1721019,AFFECTS,Virus Replication,Virus Attachment,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0301872,C0042765,AFFECTS,Immune response,Virulence,orgf,biof,3,AFFECTS_ORGFafctBIOF
+C0301872,C0220781,AFFECTS,Immune response,Anabolism,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0301872,C1160638,AFFECTS,Immune response,Viral life cycle,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C0301872,C3714634,AFFECTS,Immune response,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0678723,C0220781,AFFECTS,Biologic Development,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0699900,C0220781,AFFECTS,Catabolism,Anabolism,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0699900,C1160638,AFFECTS,Catabolism,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C0699900,C3821011,AFFECTS,Catabolism,cap snatching,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1510470,C3714634,AFFECTS,Motility,Biological Processes,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C1563744,C0220781,AFFECTS,Lipogenesis,Anabolism,orgf,biof,2,AFFECTS_ORGFafctBIOF
+C1819430,C0042765,AFFECTS,type I interferon production,Virulence,orgf,biof,1,AFFECTS_ORGFafctBIOF
+C3658355,C1160638,AFFECTS,CRISPR-Cas Systems,Viral life cycle,orgf,biof,1,AFFECTS_ORGFafctBIOF

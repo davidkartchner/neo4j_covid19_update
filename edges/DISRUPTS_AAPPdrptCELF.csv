@@ -1,0 +1,930 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001047,C0162638,DISRUPTS,Acetylcysteine,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001271,C0004391,DISRUPTS,Actins,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001271,C0031308,DISRUPTS,Actins,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001471,C1819142,DISRUPTS,"Receptors, Purinergic P1",adenosine transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001473,C0004391,DISRUPTS,Adenosine Triphosphatases,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001898,C0598838,DISRUPTS,Alanine,membrane assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0001924,C1159339,DISRUPTS,Albumins,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0002520,C0004391,DISRUPTS,Amino Acids,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0002520,C0010813,DISRUPTS,Amino Acids,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0002520,C0037083,DISRUPTS,Amino Acids,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003241,C0003261,DISRUPTS,Antibodies,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003241,C0206431,DISRUPTS,Antibodies,Antigen Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003241,C1155065,DISRUPTS,Antibodies,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003241,C1156309,DISRUPTS,Antibodies,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003242,C0041904,DISRUPTS,"Antibodies, Anti-Idiotypic",Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C0010813,DISRUPTS,Monoclonal Antibodies,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0003250,C0162638,DISRUPTS,Monoclonal Antibodies,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C0596290,DISRUPTS,Monoclonal Antibodies,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C1155046,DISRUPTS,Monoclonal Antibodies,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C1156126,DISRUPTS,Monoclonal Antibodies,vacuole organization,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C1156309,DISRUPTS,Monoclonal Antibodies,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003250,C1257986,DISRUPTS,Monoclonal Antibodies,Cross-Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003595,C0004391,DISRUPTS,Apolipoprotein E,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0003652,C0032176,DISRUPTS,Apyrase,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0003995,C3548489,DISRUPTS,Asparagine,autophagosome maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0004204,C1327420,DISRUPTS,ATP Receptors,interleukin-1 beta secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006631,C0872097,DISRUPTS,Cadherins,Anoikis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006631,C1156309,DISRUPTS,Cadherins,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006685,C0162585,DISRUPTS,Calcium Channel,Ion Transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006772,C0004391,DISRUPTS,Calmodulin,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006784,C0004391,DISRUPTS,Calpain,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0006992,C0013081,DISRUPTS,Carbocysteine,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0007428,C0010813,DISRUPTS,Cathepsins,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0008145,C1156247,DISRUPTS,Chitinases,hyphal growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0008328,C0162638,DISRUPTS,Cholecystokinin,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0008546,C1157569,DISRUPTS,Chromatin,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0009325,C0032176,DISRUPTS,Collagen,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C0007620,DISRUPTS,Cycloserine,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C0037083,DISRUPTS,Cycloserine,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C0815089,DISRUPTS,Cycloserine,Cell development,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C1155065,DISRUPTS,Cycloserine,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C1512589,DISRUPTS,Cycloserine,IL17 Signaling Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C3156669,DISRUPTS,Cycloserine,interleukin-10 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010590,C3156671,DISRUPTS,Cycloserine,interleukin-12 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010592,C1155065,DISRUPTS,Cyclosporine,T-Cell Activation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0010646,C0037083,DISRUPTS,Cystatins,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010654,C1160466,DISRUPTS,Cysteine,conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010656,C2247788,DISRUPTS,caspase,flippase,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010749,C0010813,DISRUPTS,Cytochromes c,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010762,C0032176,DISRUPTS,Cytochrome P450,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010934,C0007620,DISRUPTS,Dactinomycin,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0010934,C1523936,DISRUPTS,Dactinomycin,cellular biosynthetic process,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0010934,C2755756,DISRUPTS,Dactinomycin,cellular transcription,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C0011519,C0007587,DISRUPTS,Deoxyribonuclease I,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0011519,C1325881,DISRUPTS,Deoxyribonuclease I,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0012512,C0014139,DISRUPTS,Dipeptides,Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0014230,C0162638,DISRUPTS,endonuclease,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0015296,C1155874,DISRUPTS,Exonuclease,Cell Cycle Checkpoints,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0015879,C0596873,DISRUPTS,Ferritin,lymphocyte proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0016011,C0032176,DISRUPTS,Platelet Glycoprotein GPIIb-IIIa Complex,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017278,C0599952,DISRUPTS,"Gene Products, env",modulation by virus of host morphology or physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017278,C1514121,DISRUPTS,"Gene Products, env",Nerve Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017280,C0014139,DISRUPTS,"Gene Products, nef",Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017343,C0037083,DISRUPTS,"Genes, env",Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017360,C1160692,DISRUPTS,pol genes,virus maturation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0017626,C0007581,DISRUPTS,Glial Fibrillary Acidic Protein,Cellular Senescence,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017757,C0007587,DISRUPTS,Glucosephosphate Dehydrogenase,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017757,C0007613,DISRUPTS,Glucosephosphate Dehydrogenase,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017817,C0004391,DISRUPTS,Glutathione,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017817,C0162638,DISRUPTS,Glutathione,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017837,C1159772,DISRUPTS,Glutathione S-Transferase,intracellular protein transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017890,C0596290,DISRUPTS,Glycine,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017890,C1159339,DISRUPTS,Glycine,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017890,C1326292,DISRUPTS,Glycine,pore complex assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C0003261,DISRUPTS,Glycoproteins,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C0004391,DISRUPTS,Glycoproteins,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C0007581,DISRUPTS,Glycoproteins,Cellular Senescence,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C0041904,DISRUPTS,Glycoproteins,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C0086982,DISRUPTS,Glycoproteins,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C1660008,DISRUPTS,Glycoproteins,Golgi localization,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017968,C1752904,DISRUPTS,Glycoproteins,plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0017976,C1325881,DISRUPTS,Glycoside Hydrolases,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0018440,C3157011,DISRUPTS,Proton Pump,phagosome acidification,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0019475,C0162638,DISRUPTS,Hexokinase 2,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0019643,C0086982,DISRUPTS,Histone Deacetylase,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0019643,C1155873,DISRUPTS,Histone Deacetylase,Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0019683,C0597601,DISRUPTS,HIV Antibodies,Transcytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0019796,C0031308,DISRUPTS,HMGB1 Protein,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0019796,C0162638,DISRUPTS,HMGB1 Protein,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0020840,C0597601,DISRUPTS,IgA1,Transcytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0020841,C0597601,DISRUPTS,IgA2,Transcytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0020960,C0003261,DISRUPTS,Immune Sera,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021027,C0031308,DISRUPTS,Immunoglobulins,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021032,C0019595,DISRUPTS,Immunoglobulin Fc Fragments,Histamine Release,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021665,C0162638,DISRUPTS,Insulin-Like Growth Factor I,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0021699,C1326292,DISRUPTS,Integral Membrane Proteins,pore complex assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021701,C0007577,DISRUPTS,Integrins,Cell Adhesion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0021701,C0010813,DISRUPTS,Integrins,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021740,C1516369,DISRUPTS,Recombinant Interferon-gamma,Cellular Infiltration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021747,C0596290,DISRUPTS,Interferons,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021747,C1157569,DISRUPTS,Interferons,viral translation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0021747,C1160700,DISRUPTS,Interferons,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021753,C0041904,DISRUPTS,Interleukin-1 beta,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021753,C1817908,DISRUPTS,Interleukin-1 beta,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021758,C0004391,DISRUPTS,Interleukin-4,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021758,C1155042,DISRUPTS,Interleukin-4,T-helper cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021758,C1318468,DISRUPTS,Interleukin-4,cell mediated immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021758,C1326121,DISRUPTS,Interleukin-4,astrocyte activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021760,C0004391,DISRUPTS,Interleukin-6,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021760,C0037083,DISRUPTS,Interleukin-6,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021760,C0041904,DISRUPTS,Interleukin-6,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021760,C1155046,DISRUPTS,Interleukin-6,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0021760,C1657987,DISRUPTS,Interleukin-6,neuron development,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0022009,C3821014,DISRUPTS,Ion Channel,viral egress,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0022917,C0010813,DISRUPTS,Lactate Dehydrogenase,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0022942,C0041904,DISRUPTS,Lactoferrin,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0022942,C3156757,DISRUPTS,Lactoferrin,eosinophil migration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0023206,C1156309,DISRUPTS,Lectin,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0023206,C1159455,DISRUPTS,Lectin,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0023206,C1325881,DISRUPTS,Lectin,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0023570,C0162638,DISRUPTS,Levodopa,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0023823,C2945742,DISRUPTS,Low-Density Lipoproteins,cholesterol absorption,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0024075,C1159342,DISRUPTS,Luciferases,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0025543,C1160466,DISRUPTS,Metalloproteases,conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0026138,C1159339,DISRUPTS,Milk Proteins,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0026682,C2610947,DISRUPTS,Mucins,mucus secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0027752,C1154692,DISRUPTS,Nerve Growth Factor,amiloride transport,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0028612,C0041904,DISRUPTS,Nucleoproteins,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0028833,C1159342,DISRUPTS,Octreotide,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0028833,C1256369,DISRUPTS,Octreotide,insulin secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0030940,C0010813,DISRUPTS,Peptide Hydrolases,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0030940,C1156309,DISRUPTS,Peptide Hydrolases,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0030940,C1159690,DISRUPTS,Peptide Hydrolases,sodium ion transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0030940,C1325881,DISRUPTS,Peptide Hydrolases,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0030946,C0037083,DISRUPTS,Endopeptidases,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0030946,C1160466,DISRUPTS,Endopeptidases,conjugation,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0030946,C2610474,DISRUPTS,Endopeptidases,type I interferon signaling pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0031678,C0031308,DISRUPTS,Phosphoric Monoester Hydrolases,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0031727,C0007577,DISRUPTS,Phosphotransferases,Cell Adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0031727,C0037083,DISRUPTS,Phosphotransferases,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0032120,C1159455,DISRUPTS,Plasma Proteins,syncytium formation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0032405,C0162638,DISRUPTS,Poly(ADP-ribose) Polymerases,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0033164,C1159342,DISRUPTS,Prions,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0033689,C0598949,DISRUPTS,Chondroitin Sulfate Proteoglycans,axonal sprouting,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0033689,C3158384,DISRUPTS,Chondroitin Sulfate Proteoglycans,neurite outgrowth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0034819,C0596233,DISRUPTS,Interleukin 2 Receptor,release of sequestered calcium ion into cytoplasm,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0035542,C0010813,DISRUPTS,Ribonucleases,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0035552,C1156141,DISRUPTS,Ribosomal Proteins,ribosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0035569,C1155342,DISRUPTS,Ricin,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0036100,C0032176,DISRUPTS,Salivary Proteins,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0036720,C0010813,DISRUPTS,Serine,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0037067,C1325881,DISRUPTS,Sigma Factor,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0037352,C0007587,DISRUPTS,Small T-Antigen,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0037657,C0007595,DISRUPTS,Somatomedins,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040005,C0010813,DISRUPTS,Threonine,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040648,C0162638,DISRUPTS,TRANSCRIPTION FACTOR,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040648,C3156667,DISRUPTS,TRANSCRIPTION FACTOR,interleukin-8 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040690,C1817908,DISRUPTS,Transforming Growth Factor beta,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040691,C0162638,DISRUPTS,Transforming Growth Factors,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040691,C1154692,DISRUPTS,Transforming Growth Factors,amiloride transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0040691,C1155046,DISRUPTS,Transforming Growth Factors,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041014,C0162638,DISRUPTS,liothyronine,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041236,C0010813,DISRUPTS,TRYPSIN,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0041368,C0004391,DISRUPTS,Tumor Necrosis Factors,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041368,C1159884,DISRUPTS,Tumor Necrosis Factors,fat cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041538,C0004391,DISRUPTS,Ubiquitin,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041538,C0007587,DISRUPTS,Ubiquitin,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041538,C0010813,DISRUPTS,Ubiquitin,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0041538,C0162638,DISRUPTS,Ubiquitin,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042147,C0008018,DISRUPTS,Uteroglobin,Chemotaxis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042172,C0872097,DISRUPTS,E-Cadherin,Anoikis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042287,C0025251,DISRUPTS,Valinomycin,Membrane Potentials,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042711,C1159455,DISRUPTS,Viral Envelope Proteins,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042731,C0887839,DISRUPTS,Viral Matrix Proteins,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C0004391,DISRUPTS,Viral Proteins,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0042736,C0007613,DISRUPTS,Viral Proteins,Cell physiology,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0042736,C0086982,DISRUPTS,Viral Proteins,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C0162638,DISRUPTS,Viral Proteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C0887840,DISRUPTS,Viral Proteins,Nuclear Export,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0042736,C1155046,DISRUPTS,Viral Proteins,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C1155342,DISRUPTS,Viral Proteins,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C1157569,DISRUPTS,Viral Proteins,viral translation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0042736,C1160692,DISRUPTS,Viral Proteins,virus maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C1160701,DISRUPTS,Viral Proteins,viral genome replication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042736,C2611812,DISRUPTS,Viral Proteins,signaling cascade,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0042872,C0032176,DISRUPTS,Vitamin D-Binding Protein,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0044602,C0013081,DISRUPTS,1-Phosphatidylinositol 3-Kinase,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0050461,C1159342,DISRUPTS,racecadotril,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0051979,C0597601,DISRUPTS,anti-IgG,Transcytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0052059,C1155229,DISRUPTS,antileukoprotease,Humoral immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0052350,C0007577,DISRUPTS,arginyl-glycyl-aspartic acid,Cell Adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0054450,C1155046,DISRUPTS,Calcineurin,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0054533,C0010813,DISRUPTS,calpain inhibitor,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0054868,C0007613,DISRUPTS,Cathepsin G,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0054871,C0010813,DISRUPTS,Cathepsin L,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0054947,C1155003,DISRUPTS,CD22 antigen,B-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0055817,C0162638,DISRUPTS,citrate carrier,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0055831,C0596873,DISRUPTS,CKS 17,lymphocyte proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0056080,C1523039,DISRUPTS,cofilin,actin filament severing,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0056182,C1317556,DISRUPTS,Complement 3b Receptor,Natural killer cell function,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0056988,C0162638,DISRUPTS,"immediate-early proteins, cytomegalovirus",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0058980,C1157569,DISRUPTS,eIF-2 Kinase,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0058988,C0162638,DISRUPTS,Eukaryotic Initiation Factor-4E,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0061355,C2610739,DISRUPTS,Glucagon-Like Peptide 1,glucagon secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0062201,C0007590,DISRUPTS,"hemagglutinin protein G, measles virus",Cell division,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0062503,C1817611,DISRUPTS,Heparan Sulfate Proteoglycans,Schwann cell proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0062529,C0037083,DISRUPTS,hepatitis B virus X protein,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0062529,C0162638,DISRUPTS,hepatitis B virus X protein,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0063423,C1155342,DISRUPTS,molecular chaperone GRP78,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0063695,C1154393,DISRUPTS,Intercellular adhesion molecule 1,leukocyte cell-cell adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0063700,C2610960,DISRUPTS,Interferon Regulatory Factor 1,Pyroptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0064033,C1160466,DISRUPTS,isopeptidase,conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0064858,C4231795,DISRUPTS,leupeptin,lysosomal proteolysis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065374,C2611812,DISRUPTS,Lisinopril,signaling cascade,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065400,C3548489,DISRUPTS,lysosomal proteins,autophagosome maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065661,C0007587,DISRUPTS,Mannose Binding Lectin,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065693,C1159455,DISRUPTS,Mannose-Binding Lectins,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065827,C0007613,DISRUPTS,Measles Virus Nucleoprotein,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065827,C0010813,DISRUPTS,Measles Virus Nucleoprotein,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065827,C0086982,DISRUPTS,Measles Virus Nucleoprotein,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065827,C0596290,DISRUPTS,Measles Virus Nucleoprotein,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0065827,C0872070,DISRUPTS,Measles Virus Nucleoprotein,nucleocytoplasmic transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0068613,C1155065,DISRUPTS,"Tenascin, human",T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0069304,C1622501,DISRUPTS,"POU5F1 protein, human","Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0069906,C0596290,DISRUPTS,P-Glycoproteins,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0070510,C0031308,DISRUPTS,phagocytosis receptor,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0071088,C0596290,DISRUPTS,Pinellia ternata lectin,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0071313,C2610394,DISRUPTS,"plY protein, Streptococcus pneumoniae",cilium organization,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0071795,C0014139,DISRUPTS,2-5A-dependent ribonuclease,Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0071795,C1622501,DISRUPTS,2-5A-dependent ribonuclease,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0072074,C1155982,DISRUPTS,Profilins,actin filament polymerization,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0072402,C0162638,DISRUPTS,Protein-Serine-Threonine Kinases,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0072402,C1160700,DISRUPTS,Protein-Serine-Threonine Kinases,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0072978,C0008018,DISRUPTS,RANTES,Chemotaxis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0073240,C0007613,DISRUPTS,Ribonuclease III,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0073240,C1325881,DISRUPTS,Ribonuclease III,biofilm formation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0074785,C3271951,DISRUPTS,Sodium-Hydrogen Antiporter,macropinocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0077401,C1159978,DISRUPTS,Troponin I,osteoclast differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0077678,C0206431,DISRUPTS,ubiquitin-protein ligase,Antigen Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0077906,C0010813,DISRUPTS,urinastatin,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0078056,C1154393,DISRUPTS,Vascular Cell Adhesion Molecule-1,leukocyte cell-cell adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079183,C0887839,DISRUPTS,Cyclins,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C0037083,DISRUPTS,cytokine,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C0086982,DISRUPTS,cytokine,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C0162638,DISRUPTS,cytokine,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C0206431,DISRUPTS,cytokine,Antigen Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C0596290,DISRUPTS,cytokine,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1155046,DISRUPTS,cytokine,T-Cell Proliferation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0079189,C1155065,DISRUPTS,cytokine,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1318468,DISRUPTS,cytokine,cell mediated immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1326120,DISRUPTS,cytokine,cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1326169,DISRUPTS,cytokine,microglial cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1327420,DISRUPTS,cytokine,interleukin-1 beta secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1516369,DISRUPTS,cytokine,Cellular Infiltration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C1656555,DISRUPTS,cytokine,viral entry into host cell,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079189,C4327687,DISRUPTS,cytokine,macrophage migration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079405,C1516334,DISRUPTS,"Gene Products, vpr",Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079419,C0004391,DISRUPTS,TP53 gene,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0079419,C0162638,DISRUPTS,TP53 gene,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0079419,C0887840,DISRUPTS,TP53 gene,Nuclear Export,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0079419,C1622858,DISRUPTS,TP53 gene,apoptosis signaling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079460,C0003261,DISRUPTS,Granulocyte-Macrophage Colony-Stimulating Factor,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079460,C1155229,DISRUPTS,Granulocyte-Macrophage Colony-Stimulating Factor,Humoral immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079522,C1523936,DISRUPTS,HIV Protease,cellular biosynthetic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079633,C0031308,DISRUPTS,Interleukin-8,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079633,C0162638,DISRUPTS,Interleukin-8,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079785,C4235361,DISRUPTS,Macrophage-1 Antigen,tumor necrosis factor secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0079904,C1326205,DISRUPTS,NF-kappa B,Positive Regulation of Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080058,C0007586,DISRUPTS,Proto-Oncogene Proteins p21(ras),Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080058,C0007587,DISRUPTS,Proto-Oncogene Proteins p21(ras),Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080058,C0162638,DISRUPTS,Proto-Oncogene Proteins p21(ras),Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080058,C0596290,DISRUPTS,Proto-Oncogene Proteins p21(ras),Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080058,C1516334,DISRUPTS,Proto-Oncogene Proteins p21(ras),Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0080093,C0004391,DISRUPTS,N-Methyl-D-Aspartate Receptors,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0082529,C1155949,DISRUPTS,Mitogen-Activated Protein Kinase 3,lamellipodium assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0082731,C0041904,DISRUPTS,Glycine dehydrogenase (decarboxylating),Up-Regulation (Physiology),aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0082731,C0872070,DISRUPTS,Glycine dehydrogenase (decarboxylating),nucleocytoplasmic transport,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0082874,C1157569,DISRUPTS,heterochromatin-specific nonhistone chromosomal protein HP-1,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0083031,C0162638,DISRUPTS,Interleukin-11,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0083453,C0596290,DISRUPTS,"MDK protein, human",Cell Proliferation,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0084325,C0037083,DISRUPTS,Zinc-Finger Protein RFP,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0084692,C0019595,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Histamine Release,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0084692,C0031308,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Phagocytosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0084692,C0596290,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0084692,C1523908,DISRUPTS,Pulmonary Surfactant-Associated Protein D,apoptotic cell clearance,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085151,C0598954,DISRUPTS,Amyloid beta-Protein Precursor,fast axonal transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C0004391,DISRUPTS,Interleukin-10,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0085295,C0031308,DISRUPTS,Interleukin-10,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C0041904,DISRUPTS,Interleukin-10,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C1155046,DISRUPTS,Interleukin-10,T-Cell Proliferation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0085295,C1155065,DISRUPTS,Interleukin-10,T-Cell Activation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0085295,C1155342,DISRUPTS,Interleukin-10,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C1515126,DISRUPTS,Interleukin-10,T-Cell Development,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C3546359,DISRUPTS,Interleukin-10,pro-apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085295,C4235361,DISRUPTS,Interleukin-10,tumor necrosis factor secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085297,C1155065,DISRUPTS,"Immunoglobulins, Intravenous",T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0085741,C0010813,DISRUPTS,"Pancreatic Trypsin Secretory Inhibitor, Kazal",Cytokinesis,aapp,celf,8,DISRUPTS_AAPPdrptCELF
+C0085828,C0041904,DISRUPTS,Transcription Factor AP-1,Up-Regulation (Physiology),aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0085828,C1325881,DISRUPTS,Transcription Factor AP-1,biofilm formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0086411,C0162638,DISRUPTS,Histone H2b,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0086661,C0162638,DISRUPTS,MYC gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0087044,C0887839,DISRUPTS,Synapsin I,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0090388,C0162638,DISRUPTS,14-3-3 Proteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0101584,C0162638,DISRUPTS,Adenovirus E1B Proteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0103306,C0007595,DISRUPTS,angiotensin I (1-7),cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0108187,C0007613,DISRUPTS,Calnexin,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0108187,C0206431,DISRUPTS,Calnexin,Antigen Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0108801,C0037083,DISRUPTS,"TFRC protein, human",Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0111208,C0007613,DISRUPTS,cytotoxic T-lymphocyte antigen 4,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0111429,C0007590,DISRUPTS,Cyclin E,Cell division,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0111429,C0079394,DISRUPTS,Cyclin E,"Resting Phase, Cell Cycle",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0120285,C0004391,DISRUPTS,Green Fluorescent Proteins,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0120285,C0007620,DISRUPTS,Green Fluorescent Proteins,Cell Survival,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0120285,C1159772,DISRUPTS,Green Fluorescent Proteins,intracellular protein transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0120285,C1160701,DISRUPTS,Green Fluorescent Proteins,viral genome replication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0120285,C3271950,DISRUPTS,Green Fluorescent Proteins,micropinocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0121463,C0596290,DISRUPTS,"nucleocapsid protein, Hepatitis C virus",Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0121463,C1155046,DISRUPTS,"nucleocapsid protein, Hepatitis C virus",T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0122160,C1159772,DISRUPTS,human neutrophil peptide 3,intracellular protein transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0123759,C1155046,DISRUPTS,Interleukin-12,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0123759,C3156663,DISRUPTS,Interleukin-12,interleukin-4 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0130296,C3156680,DISRUPTS,CA 074,interleukin-18 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0134835,C1136143,DISRUPTS,P-Selectin,Leukocyte Rolling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0139905,C1155046,DISRUPTS,"RAF Proto-Oncogene Serine/Threonine-Protein Kinase, human",T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0143146,C1523908,DISRUPTS,Pulmonary Surfactant-Associated Protein A,apoptotic cell clearance,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0148340,C0015283,DISRUPTS,Vesicle-Associated Membrane Protein 2,Exocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0164371,C1657987,DISRUPTS,Matrix Metalloproteinase 3,neuron development,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0164786,C0004391,DISRUPTS,Proto-Oncogene Proteins c-akt,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0164786,C0162638,DISRUPTS,Proto-Oncogene Proteins c-akt,Apoptosis,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C0164786,C3546359,DISRUPTS,Proto-Oncogene Proteins c-akt,pro-apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0166417,C0041904,DISRUPTS,PPAR gamma,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0166418,C1514121,DISRUPTS,Peroxisome Proliferator-Activated Receptors,Nerve Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0167636,C1160700,DISRUPTS,paired box 5 protein (B-cell lineage specific activator),viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0168318,C3546359,DISRUPTS,interleukin-1beta-converting enzyme inhibitor,pro-apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0169658,C0037083,DISRUPTS,Janus kinase 1,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0170270,C3156642,DISRUPTS,amphiphysin,clathrin-dependent endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0173532,C0007586,DISRUPTS,cyclin D3,Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0174680,C0007620,DISRUPTS,Cyclin D1,Cell Survival,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0174680,C3178834,DISRUPTS,Cyclin D1,G1 Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0178774,C0007590,DISRUPTS,Nucleocapsid,Cell division,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0178774,C1160701,DISRUPTS,Nucleocapsid,viral genome replication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0178827,C0007595,DISRUPTS,replicase,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0208355,C1155342,DISRUPTS,multicatalytic endopeptidase complex,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0209328,C3156642,DISRUPTS,Dynamin 2,clathrin-dependent endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0209328,C3156643,DISRUPTS,Dynamin 2,caveolin-mediated endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0213321,C1159978,DISRUPTS,pigment epithelium-derived factor,osteoclast differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0214570,C0007590,DISRUPTS,"CCND2 protein, human",Cell division,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0214570,C0079394,DISRUPTS,"CCND2 protein, human","Resting Phase, Cell Cycle",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0214743,C0004391,DISRUPTS,Interleukin-13,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0215825,C3546359,DISRUPTS,adrenomedullin,pro-apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0218504,C0302123,DISRUPTS,Chemokine CXCL12,Lymphocytic migration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0218564,C0596233,DISRUPTS,spinorphin,release of sequestered calcium ion into cytoplasm,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0242210,C0872070,DISRUPTS,Binding Proteins,nucleocytoplasmic transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0243041,C1159788,DISRUPTS,Molecular Chaperones,transport of virus,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0243044,C0041904,DISRUPTS,HSP90 Heat-Shock Proteins,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0243045,C1517347,DISRUPTS,Cyclin-Dependent Kinases,G2-M Cell Cycle Checkpoint,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0244172,C0162638,DISRUPTS,"M2 protein, Influenza A virus",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0244989,C0007620,DISRUPTS,Glycogen Synthase Kinase 3,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0244989,C0596290,DISRUPTS,Glycogen Synthase Kinase 3,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0244989,C1516334,DISRUPTS,Glycogen Synthase Kinase 3,Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0245109,C0596873,DISRUPTS,anakinra,lymphocyte proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0245109,C1155046,DISRUPTS,anakinra,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0245109,C2611812,DISRUPTS,anakinra,signaling cascade,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0246694,C0007587,DISRUPTS,MG 132,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0246694,C1155342,DISRUPTS,MG 132,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0248007,C1817697,DISRUPTS,B-Cell Lymphoma 6 Protein,plasma cell differentiation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0248813,C0086982,DISRUPTS,JNK Mitogen-Activated Protein Kinases,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0249187,C0007587,DISRUPTS,"NS3 protein, hepatitis C virus",Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0249187,C0162638,DISRUPTS,"NS3 protein, hepatitis C virus",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0250604,C0008018,DISRUPTS,Eotaxin,Chemotaxis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0250604,C0600431,DISRUPTS,Eotaxin,Calcium Signaling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0251829,C0162638,DISRUPTS,"INS1 protein, influenza virus",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0251829,C1160466,DISRUPTS,"INS1 protein, influenza virus",conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0251842,C1159342,DISRUPTS,Coatomer Protein,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0251914,C3157010,DISRUPTS,"PDIA3 protein, human",phagosome maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0252527,C1159455,DISRUPTS,Galectin 1,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0253023,C0162638,DISRUPTS,Tumor Necrosis Factor Ligand Superfamily Member 6,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282397,C0162638,DISRUPTS,env Glycoproteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282554,C0086982,DISRUPTS,chemokine,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282554,C0162638,DISRUPTS,chemokine,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282554,C1155065,DISRUPTS,chemokine,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282554,C1326120,DISRUPTS,chemokine,cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0282682,C1326169,DISRUPTS,"Antibodies, Blocking",microglial cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0287750,C0162638,DISRUPTS,Transcription Factor CHOP,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0287990,C0010813,DISRUPTS,paired basic amino acid cleaving enzyme,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0287990,C1156309,DISRUPTS,paired basic amino acid cleaving enzyme,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0288472,C1155873,DISRUPTS,oncoprotein p21,Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0290178,C0007586,DISRUPTS,"PLK1 protein, human",Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0290178,C0010813,DISRUPTS,"PLK1 protein, human",Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0290178,C3271581,DISRUPTS,"PLK1 protein, human",cleavage furrow ingression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291147,C0004391,DISRUPTS,tuberous sclerosis complex 2 protein,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0291147,C0007595,DISRUPTS,tuberous sclerosis complex 2 protein,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291573,C0007577,DISRUPTS,caspase-3,Cell Adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291573,C0010813,DISRUPTS,caspase-3,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291573,C0162638,DISRUPTS,caspase-3,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291573,C1622501,DISRUPTS,caspase-3,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0291573,C1622858,DISRUPTS,caspase-3,apoptosis signaling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0293866,C0596290,DISRUPTS,syntrophin,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0293866,C3158384,DISRUPTS,syntrophin,neurite outgrowth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0296517,C0162638,DISRUPTS,bak protein,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0297331,C1159978,DISRUPTS,tartrate-resistant acid phosphatase,osteoclast differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0300824,C0004391,DISRUPTS,SNAP receptor,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0300824,C1326474,DISRUPTS,SNAP receptor,vesicle fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0305052,C0086982,DISRUPTS,Gamma globulin serum,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0305052,C1524026,DISRUPTS,Gamma globulin serum,"Metabolic Process, Cellular",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0312606,C1155065,DISRUPTS,Antibody excess,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0358321,C0003261,DISRUPTS,Immune Globulin (Human),Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0376515,C0004391,DISRUPTS,BCL2 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0376515,C0010813,DISRUPTS,BCL2 gene,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0376515,C0086982,DISRUPTS,BCL2 gene,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0376515,C0162638,DISRUPTS,BCL2 gene,Apoptosis,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0376515,C1720920,DISRUPTS,BCL2 gene,"Membrane Potential, Mitochondrial",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0378910,C1155046,DISRUPTS,Lymphocyte antigen CD66A,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0378910,C1155065,DISRUPTS,Lymphocyte antigen CD66A,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0378910,C1622501,DISRUPTS,Lymphocyte antigen CD66A,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0378910,C1752930,DISRUPTS,Lymphocyte antigen CD66A,mitogenic activity,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0379099,C1156062,DISRUPTS,vacuolar H+-ATPase,lysosomal lumen acidification,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0379099,C3157011,DISRUPTS,vacuolar H+-ATPase,phagosome acidification,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0381943,C0004391,DISRUPTS,Skp2 Proteins,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C0383779,C0007587,DISRUPTS,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0383779,C0162638,DISRUPTS,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone,Apoptosis,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C0384648,C1155074,DISRUPTS,Interleukin-17,mast cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0386482,C0162638,DISRUPTS,purinoceptor P2Z,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0387030,C0024426,DISRUPTS,Interleukin-1 Receptor-Associated Kinases,Macrophage Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0387583,C1155046,DISRUPTS,cyclooxygenase 2,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0443640,C0007582,DISRUPTS,Specific antibody,Cell Communication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0443640,C1155046,DISRUPTS,Specific antibody,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0443640,C1155065,DISRUPTS,Specific antibody,T-Cell Activation,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C0443640,C1159455,DISRUPTS,Specific antibody,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0475463,C0007587,DISRUPTS,"Antibodies, Neutralizing",Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0525037,C0007595,DISRUPTS,CDKN2A gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0526873,C0277921,DISRUPTS,MECA-79 antigen,Diapedesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0529196,C0010813,DISRUPTS,ADAM17 Protein,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0529196,C1327414,DISRUPTS,ADAM17 Protein,cytokine secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0530129,C0004391,DISRUPTS,TNF receptor-associated factor 6,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0533668,C0037083,DISRUPTS,"ANGPT1 protein, human",Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0534519,C1327415,DISRUPTS,Caspase-1,interleukin-1 secretion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0537111,C0007587,DISRUPTS,"LGALS9 protein, human",Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0582263,C0007595,DISRUPTS,Structural protein,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0582263,C1817908,DISRUPTS,Structural protein,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0596902,C1159690,DISRUPTS,Membrane Transport Proteins,sodium ion transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0596902,C1325417,DISRUPTS,Membrane Transport Proteins,vesicle-mediated transport,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0596902,C1622501,DISRUPTS,Membrane Transport Proteins,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0597357,C0014139,DISRUPTS,receptor,Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0597427,C0598720,DISRUPTS,secretory protein,RNA Transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0599220,C0598953,DISRUPTS,Protein Subunits,retrograde transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0599220,C1154692,DISRUPTS,Protein Subunits,amiloride transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0599220,C1155982,DISRUPTS,Protein Subunits,actin filament polymerization,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0599561,C0162638,DISRUPTS,e protein,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0599561,C1159342,DISRUPTS,e protein,Secretory Pathway,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0599561,C2613145,DISRUPTS,e protein,response to endoplasmic reticulum stress,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0600388,C0086982,DISRUPTS,Extracellular Signal Regulated Kinases,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0623362,C0010813,DISRUPTS,Matrix Metalloproteinases,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0663914,C0004391,DISRUPTS,IkappaB kinase,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0664336,C0162638,DISRUPTS,survivin,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0665313,C0162638,DISRUPTS,"activating transcription factor 6, human",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0667830,C0007577,DISRUPTS,caspase-8,Cell Adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0667830,C0162638,DISRUPTS,caspase-8,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0669372,C0086982,DISRUPTS,"NOS2A protein, human",Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0671700,C0162638,DISRUPTS,benzoylcarbonyl-aspartyl-glutamyl-valyl-aspartyl-fluoromethyl ketone,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0699918,C0007613,DISRUPTS,Elastases,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0700271,C0010813,DISRUPTS,"M Protein, multiple myeloma",Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0729663,C0003261,DISRUPTS,Maternal antibody,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0732165,C1256369,DISRUPTS,Somatostatin analog,insulin secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0766211,C1155872,DISRUPTS,"glycoprotein 3b, coronavirus",Cell Cycle Control,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0769218,C0010813,DISRUPTS,matriptase,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0796392,C0007595,DISRUPTS,bevacizumab,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0812198,C0007587,DISRUPTS,BAX gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0812198,C0162638,DISRUPTS,BAX gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0812198,C1720920,DISRUPTS,BAX gene,"Membrane Potential, Mitochondrial",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0812263,C0162638,DISRUPTS,EPHA3 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0812445,C0007582,DISRUPTS,CXCL1 gene,Cell Communication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0815047,C0014139,DISRUPTS,regulatory proteins,Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0815047,C0037083,DISRUPTS,regulatory proteins,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0815047,C0949469,DISRUPTS,regulatory proteins,Receptor Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0815047,C1158770,DISRUPTS,regulatory proteins,Transcriptional Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0815047,C1516334,DISRUPTS,regulatory proteins,Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0872251,C1157569,DISRUPTS,protein kinase R,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0910167,C1622501,DISRUPTS,caspase-9,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0912332,C0162638,DISRUPTS,Glucagon-Like Peptide 2,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0913092,C1160716,DISRUPTS,DC-specific ICAM-3 grabbing nonintegrin,viral transmission,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0914136,C1325881,DISRUPTS,scorpine,biofilm formation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C0916181,C0596290,DISRUPTS,Sarcoplasmic Reticulum Calcium-Transporting ATPases,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0916194,C1326120,DISRUPTS,dectin 1,cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0919418,C1155873,DISRUPTS,Cyclin-Dependent Kinase Inhibitor Proteins,Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0919538,C0037083,DISRUPTS,TGFBR2 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0919538,C0162638,DISRUPTS,TGFBR2 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0920330,C1160577,DISRUPTS,Pancreatic enzyme,acid secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0949722,C0004391,DISRUPTS,Ubiquitin C,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0962190,C1155041,DISRUPTS,interleukin-21,regulatory T cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0965245,C0007613,DISRUPTS,"CD274 protein, human",Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0969119,C1160698,DISRUPTS,histone deacetylase 6,viral budding,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C0995188,C0007595,DISRUPTS,cetuximab,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1100660,C0010813,DISRUPTS,Proprotein Convertases,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1120843,C0041904,DISRUPTS,mitogen-activated protein kinase p38,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1121403,C1155046,DISRUPTS,Interleukin-12 Subunit p35,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1136102,C0887840,DISRUPTS,Capsid Proteins,Nuclear Export,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1136102,C1817908,DISRUPTS,Capsid Proteins,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1136177,C0007587,DISRUPTS,Sirtuins,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1136317,C1523935,DISRUPTS,Eukaryotic Initiation Factors,cellular catabolic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1136376,C0086982,DISRUPTS,"Receptors, C-Type Lectin",Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1137729,C0010813,DISRUPTS,decanoylRVKRchloromethylketone,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1137729,C1159455,DISRUPTS,decanoylRVKRchloromethylketone,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1137829,C1327420,DISRUPTS,benzyloxycarbonyltyrosyl-valyl-alanyl-aspartic acid fluoromethyl ketone,interleukin-1 beta secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1142652,C1156309,DISRUPTS,"NR4A2 protein, human",syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1143167,C4245966,DISRUPTS,"APOBEC3G protein, human",Cell restriction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1143949,C0007587,DISRUPTS,"TNFSF10 protein, human",Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1143976,C0008018,DISRUPTS,"TREM2 protein, human",Chemotaxis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1179106,C0887840,DISRUPTS,Motor protein,Nuclear Export,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1179435,C0596290,DISRUPTS,Protein Component,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1180347,C1159342,DISRUPTS,Protein complex,Secretory Pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1258835,C0010813,DISRUPTS,"N protein, Severe acute respiratory syndrome virus",Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1291910,C0007613,DISRUPTS,Human anti-mouse antibody,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1307407,C0004391,DISRUPTS,"FRAP1 protein, human",Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1307407,C0007595,DISRUPTS,"FRAP1 protein, human",cell growth,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C1307407,C1523936,DISRUPTS,"FRAP1 protein, human",cellular biosynthetic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1308290,C1155342,DISRUPTS,"CCL15 protein, human",cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1309025,C0007586,DISRUPTS,"SH2D3A protein, human",Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1309025,C0010813,DISRUPTS,"SH2D3A protein, human",Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1309025,C0037083,DISRUPTS,"SH2D3A protein, human",Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1309025,C0086982,DISRUPTS,"SH2D3A protein, human",Signal Transduction Pathways,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C1309025,C0596290,DISRUPTS,"SH2D3A protein, human",Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1309370,C0162638,DISRUPTS,"CADM1 protein, human",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1310468,C0037083,DISRUPTS,"DDX58 protein, human",Signal Transduction,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1311470,C1820119,DISRUPTS,"PARK2 protein, human",Mitochondrial Degradation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1313494,C0041904,DISRUPTS,"TLR3 protein, human",Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1321914,C0007587,DISRUPTS,PMAIP1 gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1325318,C0007586,DISRUPTS,DNA Replication Factor,Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332002,C3548830,DISRUPTS,ABCG2 gene,trophoblast cell migration,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332098,C0162638,DISRUPTS,APAF1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332172,C0026255,DISRUPTS,Adenovirus Protein,Mitosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332379,C0162638,DISRUPTS,BAK1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332386,C0037083,DISRUPTS,BCAR3 gene,Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1332386,C1819041,DISRUPTS,BCAR3 gene,protein kinase activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332394,C0007587,DISRUPTS,BCL2-Interacting Killer,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332397,C0004391,DISRUPTS,BCL2L1 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332397,C0007620,DISRUPTS,BCL2L1 gene,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332397,C0162638,DISRUPTS,BCL2L1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332397,C3548489,DISRUPTS,BCL2L1 gene,autophagosome maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332669,C0596290,DISRUPTS,CAV1 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332669,C1622501,DISRUPTS,CAV1 gene,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332749,C0887840,DISRUPTS,HERC5 gene,Nuclear Export,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C1332821,C1155065,DISRUPTS,CXCL9 gene,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332822,C1326169,DISRUPTS,CXCR3 gene,microglial cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1332823,C1155065,DISRUPTS,CXCR4 gene,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333225,C1159455,DISRUPTS,DLG1 gene,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333257,C1622501,DISRUPTS,DUSP1 gene,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333336,C0037083,DISRUPTS,EP300 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333343,C0014139,DISRUPTS,EPS15 gene,Endocytosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1333350,C1160700,DISRUPTS,EPS8 gene,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333573,C0596290,DISRUPTS,FOXO3 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333573,C1516334,DISRUPTS,FOXO3 gene,Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333655,C0007595,DISRUPTS,GADD45A gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333723,C0004391,DISRUPTS,GTF2H1 gene,Autophagy,aapp,celf,6,DISRUPTS_AAPPdrptCELF
+C1333723,C0037083,DISRUPTS,GTF2H1 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333723,C0599895,DISRUPTS,GTF2H1 gene,protein transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1333723,C0887839,DISRUPTS,GTF2H1 gene,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334078,C0014139,DISRUPTS,IFITM1 gene,Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334078,C1156309,DISRUPTS,IFITM1 gene,syncytium formation by plasma membrane fusion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1334078,C1159455,DISRUPTS,IFITM1 gene,syncytium formation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1334078,C1752904,DISRUPTS,IFITM1 gene,plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334126,C0007582,DISRUPTS,CXCR2 gene,Cell Communication,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334126,C3269210,DISRUPTS,CXCR2 gene,oligodendrocyte apoptotic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334134,C0041904,DISRUPTS,IRAK1 gene,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334136,C0031308,DISRUPTS,IRAK3 gene,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334139,C0037083,DISRUPTS,IRF3 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334139,C0041904,DISRUPTS,IRF3 gene,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334139,C0887839,DISRUPTS,IRF3 gene,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334477,C0007595,DISRUPTS,MAP3K7 gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334482,C0162638,DISRUPTS,MAPK9 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334885,C0037083,DISRUPTS,NMI gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334885,C1523298,DISRUPTS,NMI gene,epithelial to mesenchymal transition,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1334888,C0887839,DISRUPTS,"NMI protein, human",Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335057,C1156309,DISRUPTS,"PTPN22 protein, human",syncytium formation by plasma membrane fusion,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1335240,C3158802,DISRUPTS,PPP1CA gene,stress granule disassembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335283,C0031308,DISRUPTS,PTPN6 gene,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335283,C3157011,DISRUPTS,PTPN6 gene,phagosome acidification,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335439,C0887840,DISRUPTS,Polymerase,Nuclear Export,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335818,C0037083,DISRUPTS,SH2D3C gene,Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1335818,C0086982,DISRUPTS,SH2D3C gene,Signal Transduction Pathways,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1335872,C0596290,DISRUPTS,STAT1 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335872,C0887839,DISRUPTS,STAT1 gene,Nuclear Import,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1335872,C3178834,DISRUPTS,STAT1 gene,G1 Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1335873,C0037083,DISRUPTS,STAT2 gene,Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1335873,C2610474,DISRUPTS,STAT2 gene,type I interferon signaling pathway,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1336678,C1160698,DISRUPTS,TSG101 gene,viral budding,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1336789,C1160700,DISRUPTS,Transcription Repressor/Corepressor,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1363844,C2755756,DISRUPTS,Mediator of activation protein,cellular transcription,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1366449,C0010813,DISRUPTS,F2R gene,Cytokinesis,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1366462,C1155342,DISRUPTS,KAT2B gene,cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1366487,C0024426,DISRUPTS,FAP gene,Macrophage Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1366565,C0010813,DISRUPTS,SLPI gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367307,C0086982,DISRUPTS,STAT3 gene,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367307,C0162638,DISRUPTS,STAT3 gene,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1367307,C2611812,DISRUPTS,STAT3 gene,signaling cascade,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367342,C0007620,DISRUPTS,TERT gene,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367342,C0162638,DISRUPTS,TERT gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367475,C0003261,DISRUPTS,CD2 gene,Antibody Formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367475,C1155065,DISRUPTS,CD2 gene,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1367731,C1155046,DISRUPTS,MAPK8 gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412417,C1154393,DISRUPTS,ANXA1 gene,leukocyte cell-cell adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412458,C0037083,DISRUPTS,APBA3 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412463,C0162638,DISRUPTS,API5 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412504,C1159339,DISRUPTS,ARF1 gene,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412677,C0010813,DISRUPTS,ATP6V1E1 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412785,C0004391,DISRUPTS,BECN1 gene,Autophagy,aapp,celf,8,DISRUPTS_AAPPdrptCELF
+C1412785,C1155604,DISRUPTS,BECN1 gene,macroautophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412785,C1157569,DISRUPTS,BECN1 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412785,C2611772,DISRUPTS,BECN1 gene,autophagosome assembly,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C1412831,C0013081,DISRUPTS,BST2 gene,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412831,C0598952,DISRUPTS,BST2 gene,anterograde transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412831,C1160698,DISRUPTS,BST2 gene,viral budding,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412831,C1160716,DISRUPTS,BST2 gene,viral transmission,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412831,C3821014,DISRUPTS,BST2 gene,viral egress,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412882,C0004391,DISRUPTS,TIGAR gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1412995,C0007587,DISRUPTS,C3AR1 gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413041,C0007620,DISRUPTS,CA12 gene,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413219,C1160716,DISRUPTS,SCARB2 gene,viral transmission,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413222,C0007587,DISRUPTS,CD3D gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413460,C1622501,DISRUPTS,CLDN1 gene,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413512,C3156642,DISRUPTS,CLTC gene,clathrin-dependent endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1413907,C0230871,DISRUPTS,DAPK2 gene,Mitochondrial Fission,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1414234,C1155046,DISRUPTS,EBI3 gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414270,C0162638,DISRUPTS,EEF1A1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414314,C0596290,DISRUPTS,EGR1 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414334,C1157569,DISRUPTS,EIF2S1 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414334,C1160700,DISRUPTS,EIF2S1 gene,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414342,C0162638,DISRUPTS,EIF3F gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414342,C0596290,DISRUPTS,EIF3F gene,Cell Proliferation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1414359,C0007595,DISRUPTS,EIF5 gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414360,C0007595,DISRUPTS,EIF5A gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414444,C0010813,DISRUPTS,ERN1 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414444,C1257986,DISRUPTS,ERN1 gene,Cross-Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414557,C0007613,DISRUPTS,FCGRT gene,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414805,C0004391,DISRUPTS,MTOR gene,Autophagy,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C1414805,C0596898,DISRUPTS,MTOR gene,membrane biogenesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414805,C2611772,DISRUPTS,MTOR gene,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1414929,C1622858,DISRUPTS,GADD45G gene,apoptosis signaling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415151,C0162638,DISRUPTS,RACK1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415195,C0596290,DISRUPTS,GPC3 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415205,C0596290,DISRUPTS,GPNMB gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415489,C0037083,DISRUPTS,HBZ gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415489,C0086982,DISRUPTS,HBZ gene,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415489,C0162638,DISRUPTS,HBZ gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415585,C1155064,DISRUPTS,HLA-E gene,NK Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415761,C2611772,DISRUPTS,HSPA5 gene,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415846,C1155041,DISRUPTS,ICOS gene,regulatory T cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415888,C0004391,DISRUPTS,IFI30 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415888,C3157010,DISRUPTS,IFI30 gene,phagosome maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415892,C1157569,DISRUPTS,IFIT1 gene,viral translation,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1415894,C0031308,DISRUPTS,IFIT2 gene,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415897,C1156309,DISRUPTS,IFITM2 gene,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415897,C1159455,DISRUPTS,IFITM2 gene,syncytium formation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1415898,C0007586,DISRUPTS,IFITM3 gene,Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415898,C0007613,DISRUPTS,IFITM3 gene,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415898,C0014139,DISRUPTS,IFITM3 gene,Endocytosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1415898,C0596290,DISRUPTS,IFITM3 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415898,C1156309,DISRUPTS,IFITM3 gene,syncytium formation by plasma membrane fusion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1415898,C1326292,DISRUPTS,IFITM3 gene,pore complex assembly,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1416402,C0031308,DISRUPTS,IL1RN gene,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416402,C1155013,DISRUPTS,IL1RN gene,T cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416433,C1157569,DISRUPTS,IDO1 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416473,C0041904,DISRUPTS,IRF5 gene,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416475,C0041904,DISRUPTS,IRF7 gene,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416478,C0007613,DISRUPTS,ISG20 gene,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416478,C1157569,DISRUPTS,ISG20 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416479,C3271724,DISRUPTS,IRF9 gene,basal signaling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416521,C0037083,DISRUPTS,ITSN2 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416642,C0037083,DISRUPTS,KIN gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416676,C0010813,DISRUPTS,KLK5 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416699,C0872070,DISRUPTS,KPNA1 gene,nucleocytoplasmic transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416699,C0887839,DISRUPTS,KPNA1 gene,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416857,C3157011,DISRUPTS,LILRB1 gene,phagosome acidification,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1416988,C1156140,DISRUPTS,MAK gene,ribosome biogenesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417005,C0004391,DISRUPTS,MAP1LC3A gene,Autophagy,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C1417005,C0037083,DISRUPTS,MAP1LC3A gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417496,C0162638,DISRUPTS,MUC4 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417510,C1160700,DISRUPTS,MX1 gene,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417511,C0887839,DISRUPTS,MX2 gene,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417511,C1817908,DISRUPTS,MX2 gene,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417530,C0004391,DISRUPTS,MYD88 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417608,C1327415,DISRUPTS,NCF1 gene,interleukin-1 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417719,C1154692,DISRUPTS,NGF gene,amiloride transport,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1417912,C1817908,DISRUPTS,OAS1 gene,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1417925,C0162638,DISRUPTS,OCA2 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418252,C1326212,DISRUPTS,SERPINE1 gene,neutrophil apoptotic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418401,C0037083,DISRUPTS,PDCD1 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418401,C1155046,DISRUPTS,PDCD1 gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418526,C1326471,DISRUPTS,PHEX gene,Protein Import,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1418574,C0004391,DISRUPTS,PIK3C3 gene,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1418597,C0032174,DISRUPTS,PITX3 gene,"Platelet adhesion, function",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418597,C1136143,DISRUPTS,PITX3 gene,Leukocyte Rolling,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418793,C1160700,DISRUPTS,PPIA gene,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1418858,C0004391,DISRUPTS,NPY4R gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419043,C0162638,DISRUPTS,PSME3 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419086,C0086982,DISRUPTS,PTMS gene,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419635,C1157569,DISRUPTS,RPL18 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419652,C1159710,DISRUPTS,RPL27 gene,lipopolysaccharide transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419770,C0004391,DISRUPTS,RTN3 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419818,C0007586,DISRUPTS,SARS gene,Cell Cycle,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1419876,C0162638,DISRUPTS,CCL16 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420002,C0019595,DISRUPTS,SFTPA1 gene,Histamine Release,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420002,C0031308,DISRUPTS,SFTPA1 gene,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420081,C0162638,DISRUPTS,SKP1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420086,C0013081,DISRUPTS,SLC10A1 gene,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420192,C0003272,DISRUPTS,SLC3A2 gene,Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420322,C0596290,DISRUPTS,SOX2 gene,Cell Proliferation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1420362,C0010813,DISRUPTS,SPINT2 gene,Cytokinesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1420362,C1156309,DISRUPTS,SPINT2 gene,syncytium formation by plasma membrane fusion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1420362,C1159455,DISRUPTS,SPINT2 gene,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420393,C0004391,DISRUPTS,SQSTM1 gene,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1420469,C1155046,DISRUPTS,STK17B gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1420699,C2611772,DISRUPTS,TFEB gene,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421270,C1160466,DISRUPTS,UBA7 gene,conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421318,C1159789,DISRUPTS,SCGB1A1 gene,intracellular virion transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421350,C1326207,DISRUPTS,ULK1 gene,"Programmed Cell Death, Type II",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421350,C2611772,DISRUPTS,ULK1 gene,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421351,C0010813,DISRUPTS,UMOD gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421361,C3178824,DISRUPTS,UNG gene,G2 Cell Cycle Arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421392,C0037083,DISRUPTS,USP15 gene,Signal Transduction,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1421392,C1820119,DISRUPTS,USP15 gene,Mitochondrial Degradation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421395,C0007595,DISRUPTS,USP18 gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421395,C0162638,DISRUPTS,USP18 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421395,C3157088,DISRUPTS,USP18 gene,type B pancreatic cell apoptotic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421402,C0037083,DISRUPTS,USP25 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421429,C2611812,DISRUPTS,VTRNA1-1 gene,signaling cascade,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421527,C0004391,DISRUPTS,XBP1 gene,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1421527,C0010813,DISRUPTS,XBP1 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421527,C1257986,DISRUPTS,XBP1 gene,Cross-Presentation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421554,C1326120,DISRUPTS,YME1L1 gene,cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421638,C0037083,DISRUPTS,TRIM25 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421638,C1327415,DISRUPTS,TRIM25 gene,interleukin-1 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421924,C0004391,DISRUPTS,GABARAPL2 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421924,C2611772,DISRUPTS,GABARAPL2 gene,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1421947,C0004391,DISRUPTS,MCOLN1 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422014,C0037083,DISRUPTS,UNC93B1 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422014,C1327414,DISRUPTS,UNC93B1 gene,cytokine secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422036,C0162638,DISRUPTS,ERVW-1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422064,C0007595,DISRUPTS,ACE2 gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422064,C4235361,DISRUPTS,ACE2 gene,tumor necrosis factor secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422246,C0013081,DISRUPTS,CPSF6 gene,Down-Regulation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1422341,C0162638,DISRUPTS,PEG10 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422611,C0032176,DISRUPTS,GP6 gene,Platelet aggregation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422767,C0004391,DISRUPTS,MEG3 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422767,C0162638,DISRUPTS,MEG3 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1422771,C1820119,DISRUPTS,PINK1 gene,Mitochondrial Degradation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423062,C0162638,DISRUPTS,SIRT1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423064,C0007587,DISRUPTS,SIRT4 gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423066,C0596290,DISRUPTS,SIRT6 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423085,C2244223,DISRUPTS,MUC15 gene,cellular homeostasis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423112,C3156642,DISRUPTS,SNAP91 gene,clathrin-dependent endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423498,C1160700,DISRUPTS,GOLPH3 gene,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423506,C0007587,DISRUPTS,SPINK5 gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423506,C0085416,DISRUPTS,SPINK5 gene,Respiratory Burst,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1423524,C0037083,DISRUPTS,NCKIPSD gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1424250,C1327415,DISRUPTS,NLRP3 gene,interleukin-1 secretion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1424530,C1622501,DISRUPTS,GORASP1 gene,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1424583,C0007577,DISRUPTS,TGFBRAP1 gene,Cell Adhesion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1424774,C1820119,DISRUPTS,OPTN gene,Mitochondrial Degradation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1424984,C1622501,DISRUPTS,GORASP2 gene,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1425032,C0887840,DISRUPTS,XPO5 gene,Nuclear Export,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1425066,C0037083,DISRUPTS,TREM1 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1425131,C1159978,DISRUPTS,CHPT1 gene,osteoclast differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1425514,C1155065,DISRUPTS,HAVCR2 gene,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1425745,C1155046,DISRUPTS,PDCD1LG2 gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1426208,C0007613,DISRUPTS,SOCS1 gene,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1426393,C1656972,DISRUPTS,HES5 gene,oligodendrocyte differentiation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1426653,C1820119,DISRUPTS,USP30 gene,Mitochondrial Degradation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1427373,C0037083,DISRUPTS,RNF135 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1427382,C1820119,DISRUPTS,RHOT1 gene,Mitochondrial Degradation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1427812,C1517347,DISRUPTS,PDLIM7 gene,G2-M Cell Cycle Checkpoint,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1428927,C0596290,DISRUPTS,MIR7-3HG gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1428987,C0007595,DISRUPTS,SUSD2 gene,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1435283,C0041904,DISRUPTS,"MHC2TA protein, human",Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1436327,C0007587,DISRUPTS,"AKR1B1 protein, human",Cell Death,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C1449159,C0162638,DISRUPTS,"CCL2 protein, human",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1453853,C0872070,DISRUPTS,"WNK1 protein, human",nucleocytoplasmic transport,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1517683,C0004391,DISRUPTS,L-Selenomethionine,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1517683,C0007620,DISRUPTS,L-Selenomethionine,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1521898,C0031308,DISRUPTS,"FCGR3A protein, human",Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1522002,C0037083,DISRUPTS,RNA Recognition Motif,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1522712,C0007620,DISRUPTS,Recombinant Interferon-alpha Inducible Protein 10,Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1530795,C0162638,DISRUPTS,"BID protein, human",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537399,C0037083,DISRUPTS,IFIH1 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537647,C0596290,DISRUPTS,MALAT1 gene,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537719,C0007613,DISRUPTS,MIR21 gene,Cell physiology,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537719,C0162638,DISRUPTS,MIR21 gene,Apoptosis,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C1537719,C1326120,DISRUPTS,MIR21 gene,cell activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537719,C2611050,DISRUPTS,MIR21 gene,fat cell proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1537730,C0162638,DISRUPTS,MIR27B gene,Apoptosis,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C1538071,C0024426,DISRUPTS,VSIG4 gene,Macrophage Activation,aapp,celf,7,DISRUPTS_AAPPdrptCELF
+C1538071,C1155046,DISRUPTS,VSIG4 gene,T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1538143,C1656972,DISRUPTS,ZBTB7A gene,oligodendrocyte differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1538577,C0010813,DISRUPTS,PARP1 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1538577,C0162638,DISRUPTS,PARP1 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1538915,C1450027,DISRUPTS,APLN gene,Cell Enlargement,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1539093,C3156671,DISRUPTS,CLEC4A gene,interleukin-12 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539099,C0041904,DISRUPTS,CLEC4M gene,Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539099,C0162638,DISRUPTS,CLEC4M gene,Apoptosis,aapp,celf,5,DISRUPTS_AAPPdrptCELF
+C1539100,C0007587,DISRUPTS,CLEC5A gene,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539221,C1516349,DISRUPTS,DCLK3 gene,Cell Maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539233,C0004391,DISRUPTS,DDX58 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539703,C1159339,DISRUPTS,RSAD2 gene,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539774,C1155065,DISRUPTS,SIT1 gene,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1539986,C0162638,DISRUPTS,TMED5 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1540014,C0004391,DISRUPTS,TMEM41B gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1564881,C0004391,DISRUPTS,Apoptosis Regulatory Proteins,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1565114,C0007587,DISRUPTS,Apoptosis Inhibiting Proteins,Cell Death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1565114,C0162638,DISRUPTS,Apoptosis Inhibiting Proteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1565114,C2610958,DISRUPTS,Apoptosis Inhibiting Proteins,necroptotic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1565120,C0162638,DISRUPTS,B-Cell Leukemia 2 Family Proteins,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1565860,C0007620,DISRUPTS,"PTGS2 protein, human",Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1568891,C0014139,DISRUPTS,"HGS protein, human",Endocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1568975,C0037083,DISRUPTS,"IL2RG protein, human",Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1619966,C1155065,DISRUPTS,abatacept,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1679839,C1817697,DISRUPTS,"PRDM1 protein, human",plasma cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1702088,C0004391,DISRUPTS,"IL5 protein, human",Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1702088,C0007620,DISRUPTS,"IL5 protein, human",Cell Survival,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1704691,C0031308,DISRUPTS,FCGR3A wt Allele,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1704794,C0162638,DISRUPTS,IL12A wt Allele,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1705569,C0596290,DISRUPTS,HPSE wt Allele,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1705590,C0004391,DISRUPTS,PIK3CB wt Allele,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1705590,C0162638,DISRUPTS,PIK3CB wt Allele,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1705590,C1155065,DISRUPTS,PIK3CB wt Allele,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1705590,C2611772,DISRUPTS,PIK3CB wt Allele,autophagosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1705982,C0010813,DISRUPTS,KRAS wt Allele,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1706289,C0004391,DISRUPTS,Interleukin-27,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1706289,C1155013,DISRUPTS,Interleukin-27,T cell differentiation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1708010,C0162638,DISRUPTS,FES wt Allele,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1708130,C0026255,DISRUPTS,GNAI1 wt Allele,Mitosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1709708,C1159339,DISRUPTS,Proprotein,Protein Secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1720985,C0162638,DISRUPTS,"Caspases, Effector",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823139,C0010813,DISRUPTS,STT3B gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823437,C1318468,DISRUPTS,TMEM173 gene,cell mediated immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823491,C0004391,DISRUPTS,TRIM69 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823491,C0037083,DISRUPTS,TRIM69 gene,Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1823636,C0007577,DISRUPTS,VPS8 gene,Cell Adhesion,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1823640,C0013081,DISRUPTS,VPS36 gene,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823882,C1157569,DISRUPTS,YBX1 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1823938,C1159455,DISRUPTS,ZCRB1 gene,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824180,C0085416,DISRUPTS,C5AR1 gene,Respiratory Burst,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1824180,C2610960,DISRUPTS,C5AR1 gene,Pyroptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824340,C1516334,DISRUPTS,C11orf74 gene,Cell Cycle Progression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824509,C0013081,DISRUPTS,RTCB gene,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824728,C0007577,DISRUPTS,CFB gene,Cell Adhesion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824728,C0162638,DISRUPTS,CFB gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1824728,C1819041,DISRUPTS,CFB gene,protein kinase activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825218,C0013081,DISRUPTS,FAM98B gene,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825397,C0086982,DISRUPTS,CAPRIN1 gene,Signal Transduction Pathways,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825497,C0004391,DISRUPTS,ATG5 gene,Autophagy,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C1825497,C1157569,DISRUPTS,ATG5 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825498,C0004391,DISRUPTS,ATG7 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825498,C1157569,DISRUPTS,ATG7 gene,viral translation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825498,C1160466,DISRUPTS,ATG7 gene,conjugation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825498,C1326207,DISRUPTS,ATG7 gene,"Programmed Cell Death, Type II",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825502,C1160693,DISRUPTS,ATG16L1 gene,viral release from host cell,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825561,C0162638,DISRUPTS,IFI6 gene,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825598,C0010813,DISRUPTS,IMPACT gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825598,C2265541,DISRUPTS,IMPACT gene,xyloglucan metabolic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825598,C3270432,DISRUPTS,IMPACT gene,endosomal signal transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825621,C0010813,DISRUPTS,ISG15 gene,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1825621,C1160466,DISRUPTS,ISG15 gene,conjugation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1847590,C3546309,DISRUPTS,ENDOU gene,activation-induced cell death,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1853685,C0162638,DISRUPTS,PBRM1 gene,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1864770,C0004391,DISRUPTS,MAVS gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1864770,C0037083,DISRUPTS,MAVS gene,Signal Transduction,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1864770,C0162638,DISRUPTS,MAVS gene,Apoptosis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C1865043,C0004391,DISRUPTS,ATG12 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1865043,C0037083,DISRUPTS,ATG12 gene,Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1865043,C1160693,DISRUPTS,ATG12 gene,viral release from host cell,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1869199,C1155065,DISRUPTS,"DUSP3 protein, human",T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1883559,C0010813,DISRUPTS,Wild Type,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1883559,C0596290,DISRUPTS,Wild Type,Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1955933,C1160700,DISRUPTS,p21-Activated Kinases,viral gene expression,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C1956096,C0004391,DISRUPTS,Ubiquitinated Proteins,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C2351682,C0010813,DISRUPTS,"F protein, human respiratory syncytial virus",Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2353079,C1155342,DISRUPTS,"ERN1 protein, human",cellular response to unfolded protein,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2826044,C0007595,DISRUPTS,MIR451 wt Allele,cell growth,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2826044,C1622501,DISRUPTS,MIR451 wt Allele,"Migration, Cell",aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2936489,C0887839,DISRUPTS,Pleiotropic Gene,Nuclear Import,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2936529,C0008018,DISRUPTS,Inflammasomes,Chemotaxis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2936529,C0162638,DISRUPTS,Inflammasomes,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2936529,C1155065,DISRUPTS,Inflammasomes,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2945710,C1817908,DISRUPTS,resistance genes,Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2945724,C1159455,DISRUPTS,f-protein,syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2985420,C1155065,DISRUPTS,CD276 Antigen,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2986620,C0004391,DISRUPTS,BECN1 wt Allele,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C2986917,C0031308,DISRUPTS,"Phosphatidylinositol-3,4,5-Trisphosphate 5-Phosphatase 1",Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3146638,C0004391,DISRUPTS,ATG13 gene,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3146941,C1160520,DISRUPTS,CMAHP gene,oocyte maturation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3179274,C0031308,DISRUPTS,electronegative low-density lipoprotein,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3272370,C0162638,DISRUPTS,NEDD8 Activating Enzyme,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3273837,C0013081,DISRUPTS,S100B wt Allele,Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3273837,C0277921,DISRUPTS,S100B wt Allele,Diapedesis,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C3494363,C2755890,DISRUPTS,Tight Junction Proteins,microtubule-based transport,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3494414,C1156189,DISRUPTS,Polycomb Repressive Complex 2,nucleosome assembly,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3538756,C0162638,DISRUPTS,NLRP1 wt Allele,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3538756,C1326205,DISRUPTS,NLRP1 wt Allele,Positive Regulation of Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3540815,C0007587,DISRUPTS,NSMAF wt Allele,Cell Death,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C3541895,C0031308,DISRUPTS,FCGR1A wt Allele,Phagocytosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3665678,C1155065,DISRUPTS,CT-011,T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3710914,C0004391,DISRUPTS,"EIF2AK2 protein, human",Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3710914,C0013081,DISRUPTS,"EIF2AK2 protein, human",Down-Regulation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3710914,C1157569,DISRUPTS,"EIF2AK2 protein, human",viral translation,aapp,celf,4,DISRUPTS_AAPPdrptCELF
+C3710914,C1160700,DISRUPTS,"EIF2AK2 protein, human",viral gene expression,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C3710914,C1817908,DISRUPTS,"EIF2AK2 protein, human",Cellular Immune Response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3712029,C3156665,DISRUPTS,OPN-305,interleukin-6 secretion,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3813576,C0544888,DISRUPTS,MAD2L1 wt Allele,Mitotic arrest,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3816283,C0596290,DISRUPTS,LINC01197 gene,Cell Proliferation,aapp,celf,3,DISRUPTS_AAPPdrptCELF
+C3816283,C1523936,DISRUPTS,LINC01197 gene,cellular biosynthetic process,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3849574,C0004391,DISRUPTS,"EPHB2 protein, human",Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3849574,C0037083,DISRUPTS,"EPHB2 protein, human",Signal Transduction,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3849574,C0041904,DISRUPTS,"EPHB2 protein, human",Up-Regulation (Physiology),aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3849574,C0162638,DISRUPTS,"EPHB2 protein, human",Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3850144,C0004391,DISRUPTS,Protein Aggregates,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C3887647,C1155046,DISRUPTS,"Lymphotoxin-Alpha, human",T-Cell Proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3887682,C1655807,DISRUPTS,"Platelet Glycoprotein 4, human",endothelial cell proliferation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3887958,C1318468,DISRUPTS,"Indoleamine 2,3-Dioxygenase, human",cell mediated immune response,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3889128,C2611014,DISRUPTS,BBS9 wt Allele,G1 to G0 transition,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C3889259,C0004391,DISRUPTS,FLICE Inhibitory Protein,Autophagy,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C3890397,C0004391,DISRUPTS,PRKAA1 wt Allele,Autophagy,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4048280,C1155065,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",T-Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4048280,C4234995,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",ER degradation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4049595,C1155064,DISRUPTS,HLA Complex,NK Cell Activation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4072744,C0162638,DISRUPTS,Hepatitis C virus core,Apoptosis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4281805,C1155065,DISRUPTS,"T-Cell-Specific Surface Glycoprotein CD28, human",T-Cell Activation,aapp,celf,2,DISRUPTS_AAPPdrptCELF
+C4281807,C1159455,DISRUPTS,"Vitronectin, human",syncytium formation,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4284302,C1326228,DISRUPTS,EHD1 wt Allele,B cell homeostasis,aapp,celf,1,DISRUPTS_AAPPdrptCELF
+C4318438,C0010813,DISRUPTS,c-Mer Tyrosine Kinase,Cytokinesis,aapp,celf,1,DISRUPTS_AAPPdrptCELF

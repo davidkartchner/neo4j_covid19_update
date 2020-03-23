@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007587,C0027882,NEG_AFFECTS,Cell Death,Neurons,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0031308,C0014597,NEG_AFFECTS,Phagocytosis,Epithelial Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0011306,NEG_AFFECTS,Apoptosis,Dendritic Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0016030,NEG_AFFECTS,Apoptosis,Fibroblasts,celf,cell,2,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0018873,NEG_AFFECTS,Apoptosis,HeLa Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0024432,NEG_AFFECTS,Apoptosis,macrophage,celf,cell,2,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0027950,NEG_AFFECTS,Apoptosis,neutrophil,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0333827,NEG_AFFECTS,Apoptosis,Monocytoid cell,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C0334227,NEG_AFFECTS,Apoptosis,"Tumor cells, malignant",celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C2936239,NEG_AFFECTS,Apoptosis,HEK293 Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0162638,C4505192,NEG_AFFECTS,Apoptosis,THP-1 Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C0872097,C0014597,NEG_AFFECTS,Anoikis,Epithelial Cells,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C1155046,C0039194,NEG_AFFECTS,T-Cell Proliferation,T-Lymphocyte,celf,cell,1,NEG_AFFECTS_CELFnafctCELL
+C1327414,C0039194,NEG_AFFECTS,cytokine secretion,T-Lymphocyte,celf,cell,2,NEG_AFFECTS_CELFnafctCELL
+C3546309,C0039194,NEG_AFFECTS,activation-induced cell death,T-Lymphocyte,celf,cell,1,NEG_AFFECTS_CELFnafctCELL

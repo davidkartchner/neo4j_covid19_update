@@ -1,0 +1,134 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0010825,DIAGNOSES,Autopsy,Cytomegalovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0004398,C0318855,DIAGNOSES,Autopsy,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0004398,C0597404,DIAGNOSES,Autopsy,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0004398,C3698360,DIAGNOSES,Autopsy,Middle East Respiratory Syndrome Coronavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011906,C0014644,DIAGNOSES,Differential Diagnosis,Epstein-Barr Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011906,C0318855,DIAGNOSES,Differential Diagnosis,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011906,C0597404,DIAGNOSES,Differential Diagnosis,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011911,C0042776,DIAGNOSES,Laboratory Diagnosis,Virus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0011911,C0597404,DIAGNOSES,Laboratory Diagnosis,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011923,C0206466,DIAGNOSES,Diagnostic Imaging,"Parvovirus, Canine",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011930,C0318798,DIAGNOSES,"Diagnostic Tests, Routine","Paramyxovirus, NOS",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0011930,C0949945,DIAGNOSES,"Diagnostic Tests, Routine",Foot-and-Mouth Disease Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0024485,C1079230,DIAGNOSES,Magnetic Resonance Imaging,Subgroup A Nepoviruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0030646,C0003725,DIAGNOSES,Patch Tests,Arboviruses,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0034606,C3698360,DIAGNOSES,Radionuclide Imaging,Middle East Respiratory Syndrome Coronavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0039985,C0014644,DIAGNOSES,Plain chest X-ray,Epstein-Barr Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0041618,C0042776,DIAGNOSES,Ultrasonography,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0079835,C0042776,DIAGNOSES,"Microscopy, Immunoelectron",Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0015767,DIAGNOSES,Diagnostic tests,Feline leukemia virus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0029341,DIAGNOSES,Diagnostic tests,Orthomyxoviridae,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0029343,DIAGNOSES,Diagnostic tests,"Influenza A Virus, Avian",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0036238,DIAGNOSES,Diagnostic tests,Satellite Viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0042776,DIAGNOSES,Diagnostic tests,Virus,diap,virs,8,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0079337,DIAGNOSES,Diagnostic tests,Feline Immunodeficiency Virus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0206545,DIAGNOSES,Diagnostic tests,Human respiratory syncytial virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0318793,DIAGNOSES,Diagnostic tests,Zika Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0318855,DIAGNOSES,Diagnostic tests,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0086143,C0597404,DIAGNOSES,Diagnostic tests,Respiratory viruses,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0086143,C3698360,DIAGNOSES,Diagnostic tests,Middle East Respiratory Syndrome Coronavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C0014383,DIAGNOSES,Polysomnography,Enterovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C0016515,DIAGNOSES,Polysomnography,Aphthovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C0206424,DIAGNOSES,Polysomnography,Cardiovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C0950102,DIAGNOSES,Polysomnography,Parechovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C1056473,DIAGNOSES,Polysomnography,Teschovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C1216700,DIAGNOSES,Polysomnography,Kobuvirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C2663633,DIAGNOSES,Polysomnography,Senecavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0162701,C2803416,DIAGNOSES,Polysomnography,Sapelovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0199236,C0597404,DIAGNOSES,family investigation,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0202823,C0206545,DIAGNOSES,Chest CT,Human respiratory syncytial virus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0203634,C0318855,DIAGNOSES,Nuclear medicine procedure,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0242890,C0019704,DIAGNOSES,Toxicity Tests,HIV-1,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0396352,C0014644,DIAGNOSES,Biopsy of nasopharynx,Epstein-Barr Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0396473,C0042338,DIAGNOSES,Bronchoscopic irrigation,Human herpesvirus 3,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0398523,C0019682,DIAGNOSES,Bone marrow aspiration procedure,HIV,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0419358,C0042776,DIAGNOSES,Exploration with a probe,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0004120,DIAGNOSES,diagnostic procedure,Astrovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0021344,DIAGNOSES,diagnostic procedure,Human Papillomavirus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0029341,DIAGNOSES,diagnostic procedure,Orthomyxoviridae,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0035870,DIAGNOSES,diagnostic procedure,Rotavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0042776,DIAGNOSES,diagnostic procedure,Virus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0086776,DIAGNOSES,diagnostic procedure,Parvovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0206558,DIAGNOSES,diagnostic procedure,Simplexvirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0318855,DIAGNOSES,diagnostic procedure,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0597404,DIAGNOSES,diagnostic procedure,Respiratory viruses,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0430022,C0949920,DIAGNOSES,diagnostic procedure,Norovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C2986384,DIAGNOSES,diagnostic procedure,Enveloped Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0430022,C3698360,DIAGNOSES,diagnostic procedure,Middle East Respiratory Syndrome Coronavirus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0431080,C0949508,DIAGNOSES,Diagnostic assessment,Begomovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0441633,C1210867,DIAGNOSES,Scanning,Tungrovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0444186,C0037170,DIAGNOSES,Smear test,Sindbis Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0497093,C0042776,DIAGNOSES,Sensitivity test,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0497093,C0597404,DIAGNOSES,Sensitivity test,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0581714,C0029347,DIAGNOSES,Buccal smear procedure,Influenza A virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0581714,C0042776,DIAGNOSES,Buccal smear procedure,Virus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0581714,C0079338,DIAGNOSES,Buccal smear procedure,Feline foamy virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0581714,C0597404,DIAGNOSES,Buccal smear procedure,Respiratory viruses,diap,virs,4,DIAGNOSES_DIAPdiagVIRS
+C0596473,C0013480,DIAGNOSES,Early Diagnosis,Ebola virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0596473,C0029347,DIAGNOSES,Early Diagnosis,Influenza A virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0596473,C0042776,DIAGNOSES,Early Diagnosis,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0596473,C0318855,DIAGNOSES,Early Diagnosis,Porcine epidemic diarrhea virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0596473,C0949920,DIAGNOSES,Early Diagnosis,Norovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0596473,C3658219,DIAGNOSES,Early Diagnosis,"Influenza A Virus, H7N9 Subtype",diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0596608,C0085305,DIAGNOSES,gel mobility shift assay,Feline infectious peritonitis virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0597356,C0042776,DIAGNOSES,rapid diagnosis,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683441,C0008056,DIAGNOSES,serologic diagnosis,Chikungunya virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683441,C0011315,DIAGNOSES,serologic diagnosis,Dengue Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683454,C0042776,DIAGNOSES,internal-external locus of control scale,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683454,C0597404,DIAGNOSES,internal-external locus of control scale,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683454,C0949920,DIAGNOSES,internal-external locus of control scale,Norovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0683454,C3698360,DIAGNOSES,internal-external locus of control scale,Middle East Respiratory Syndrome Coronavirus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0796357,C0206350,DIAGNOSES,Genetic Variation Analysis,Tombusvirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0796357,C2986384,DIAGNOSES,Genetic Variation Analysis,Enveloped Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0796358,C0004120,DIAGNOSES,comparative genomic analysis,Astrovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0796358,C0021333,DIAGNOSES,comparative genomic analysis,Equine arteritis virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0796358,C0085512,DIAGNOSES,comparative genomic analysis,Torovirus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0796358,C0206485,DIAGNOSES,comparative genomic analysis,Arterivirus,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0796358,C3415799,DIAGNOSES,comparative genomic analysis,Wobbly possum disease virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0863477,C1478824,DIAGNOSES,transbronchial lung biopsy,Human coronavirus NL63,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0871060,C1615607,DIAGNOSES,performance tests,"Influenza A Virus, H1N1 Subtype",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872187,C0042776,DIAGNOSES,high throughput screening,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872187,C0206531,DIAGNOSES,high throughput screening,Mononegavirales,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872187,C0206580,DIAGNOSES,high throughput screening,Orthopoxvirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872187,C0597404,DIAGNOSES,high throughput screening,Respiratory viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872187,C1203440,DIAGNOSES,high throughput screening,VEEV complex,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0014383,DIAGNOSES,rapid technique,Enterovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0029341,DIAGNOSES,rapid technique,Orthomyxoviridae,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0035870,DIAGNOSES,rapid technique,Rotavirus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0042776,DIAGNOSES,rapid technique,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0206545,DIAGNOSES,rapid technique,Human respiratory syncytial virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0318855,DIAGNOSES,rapid technique,Porcine epidemic diarrhea virus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C0872257,C0376325,DIAGNOSES,rapid technique,Hepatitis A Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C0872257,C1079230,DIAGNOSES,rapid technique,Subgroup A Nepoviruses,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C0872257,C2599948,DIAGNOSES,rapid technique,Rabies virus strain,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1306036,C0042776,DIAGNOSES,Forced expiratory volume procedure,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1306645,C1319861,DIAGNOSES,Plain x-ray,Human parainfluenza viruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1548757,C0042776,DIAGNOSES,"Transport Media, Viral",Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0001483,DIAGNOSES,Observation - diagnostic procedure,Adenoviruses,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0002331,DIAGNOSES,Observation - diagnostic procedure,Alphavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0004419,DIAGNOSES,Observation - diagnostic procedure,Infectious bronchitis virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0005670,DIAGNOSES,Observation - diagnostic procedure,BK Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0011313,DIAGNOSES,Observation - diagnostic procedure,"Dengue virus, type 1",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0016215,DIAGNOSES,Observation - diagnostic procedure,Flavivirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0019369,DIAGNOSES,Observation - diagnostic procedure,Herpesviridae,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0019704,DIAGNOSES,Observation - diagnostic procedure,HIV-1,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0029341,DIAGNOSES,Observation - diagnostic procedure,Orthomyxoviridae,diap,virs,2,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0035414,DIAGNOSES,Observation - diagnostic procedure,Rhabdoviridae,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0035614,DIAGNOSES,Observation - diagnostic procedure,Rift Valley fever virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0035691,DIAGNOSES,Observation - diagnostic procedure,RNA Viruses,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0042776,DIAGNOSES,Observation - diagnostic procedure,Virus,diap,virs,10,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0206273,DIAGNOSES,Observation - diagnostic procedure,Potyvirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0206545,DIAGNOSES,Observation - diagnostic procedure,Human respiratory syncytial virus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0220847,DIAGNOSES,Observation - diagnostic procedure,Hepatitis C virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0318750,DIAGNOSES,Observation - diagnostic procedure,Bagaza virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0318760,DIAGNOSES,Observation - diagnostic procedure,"Dengue virus, type 3",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0318761,DIAGNOSES,Observation - diagnostic procedure,"Dengue virus, type 4",diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0751673,DIAGNOSES,Observation - diagnostic procedure,Nipah Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0949858,DIAGNOSES,Observation - diagnostic procedure,Nidovirales,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C0969694,DIAGNOSES,Observation - diagnostic procedure,Bovine herpesvirus 4,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C1007219,DIAGNOSES,Observation - diagnostic procedure,Malacosoma neustria nucleopolyhedrovirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C2806453,DIAGNOSES,Observation - diagnostic procedure,Betacoronavirus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C1964257,C3698360,DIAGNOSES,Observation - diagnostic procedure,Middle East Respiratory Syndrome Coronavirus,diap,virs,3,DIAGNOSES_DIAPdiagVIRS
+C2986547,C1079230,DIAGNOSES,Non-Target Lesion Identification,Subgroup A Nepoviruses,diap,virs,1,DIAGNOSES_DIAPdiagVIRS
+C4528380,C0042776,DIAGNOSES,Tissue Elastance,Virus,diap,virs,1,DIAGNOSES_DIAPdiagVIRS

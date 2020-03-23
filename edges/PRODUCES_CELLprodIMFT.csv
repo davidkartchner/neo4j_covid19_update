@@ -1,0 +1,78 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004561,C0003342,PRODUCES,B-Lymphocytes,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0004561,C0042211,PRODUCES,B-Lymphocytes,"Vaccines, Attenuated",cell,imft,1,PRODUCES_CELLprodIMFT
+C0004561,C0301838,PRODUCES,B-Lymphocytes,Soluble antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0004561,C1883036,PRODUCES,B-Lymphocytes,Single-Chain Antibodies,cell,imft,1,PRODUCES_CELLprodIMFT
+C0004561,C2825347,PRODUCES,B-Lymphocytes,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C0007600,C0003342,PRODUCES,Cultured Cell Line,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0007600,C0008897,PRODUCES,Cultured Cell Line,Human Class I Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0007600,C0042742,PRODUCES,Cultured Cell Line,Viral Vaccines,cell,imft,6,PRODUCES_CELLprodIMFT
+C0007600,C0368675,PRODUCES,Cultured Cell Line,antibody antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0007600,C0376613,PRODUCES,Cultured Cell Line,"Vaccines, DNA",cell,imft,1,PRODUCES_CELLprodIMFT
+C0009013,C0003316,PRODUCES,Clone Cells,Epitopes,cell,imft,2,PRODUCES_CELLprodIMFT
+C0009013,C0003339,PRODUCES,Clone Cells,Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0009013,C0042210,PRODUCES,Clone Cells,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0009013,C1440809,PRODUCES,Clone Cells,IgG.heavy chain,cell,imft,1,PRODUCES_CELLprodIMFT
+C0009013,C1883036,PRODUCES,Clone Cells,Single-Chain Antibodies,cell,imft,4,PRODUCES_CELLprodIMFT
+C0011306,C0003342,PRODUCES,Dendritic Cells,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0011306,C2825347,PRODUCES,Dendritic Cells,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C0014597,C0003342,PRODUCES,Epithelial Cells,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0014597,C0080188,PRODUCES,Epithelial Cells,"Antigens, CD15",cell,imft,1,PRODUCES_CELLprodIMFT
+C0014597,C2825347,PRODUCES,Epithelial Cells,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C0015161,C0042210,PRODUCES,Eukaryotic Cells,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0015161,C1883036,PRODUCES,Eukaryotic Cells,Single-Chain Antibodies,cell,imft,1,PRODUCES_CELLprodIMFT
+C0016030,C1291777,PRODUCES,Fibroblasts,Protein antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0018873,C0042210,PRODUCES,HeLa Cells,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0020204,C0368675,PRODUCES,Hybridomas,antibody antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0020204,C0376613,PRODUCES,Hybridomas,"Vaccines, DNA",cell,imft,1,PRODUCES_CELLprodIMFT
+C0020204,C1883036,PRODUCES,Hybridomas,Single-Chain Antibodies,cell,imft,1,PRODUCES_CELLprodIMFT
+C0022688,C2825347,PRODUCES,Natural Killer Cells,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C0023516,C0001551,PRODUCES,Leukocytes,Immunologic Adjuvants,cell,imft,1,PRODUCES_CELLprodIMFT
+C0026473,C0032172,PRODUCES,Monocytes,Platelet Activating Factor,cell,imft,1,PRODUCES_CELLprodIMFT
+C0027883,C0003342,PRODUCES,Afferent neuron,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0027950,C0003316,PRODUCES,neutrophil,Epitopes,cell,imft,1,PRODUCES_CELLprodIMFT
+C0027950,C2825347,PRODUCES,neutrophil,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C0029974,C3272757,PRODUCES,Ovum,Live Attenuated Influenza Vaccine,cell,imft,1,PRODUCES_CELLprodIMFT
+C0032112,C2825347,PRODUCES,Plasma Cells,"Immunoglobulin A, Human",cell,imft,3,PRODUCES_CELLprodIMFT
+C0039194,C0003316,PRODUCES,T-Lymphocyte,Epitopes,cell,imft,1,PRODUCES_CELLprodIMFT
+C0039194,C0008014,PRODUCES,T-Lymphocyte,"Chemotactic Factors, Eosinophil",cell,imft,1,PRODUCES_CELLprodIMFT
+C0039194,C0301838,PRODUCES,T-Lymphocyte,Soluble antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0039194,C0456981,PRODUCES,T-Lymphocyte,Specific antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0039194,C2986386,PRODUCES,T-Lymphocyte,Virus-neutralizing Antibody,cell,imft,1,PRODUCES_CELLprodIMFT
+C0039215,C0003342,PRODUCES,CD4 Positive T Lymphocytes,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0039215,C2986386,PRODUCES,CD4 Positive T Lymphocytes,Virus-neutralizing Antibody,cell,imft,1,PRODUCES_CELLprodIMFT
+C0042542,C0042210,PRODUCES,Vero Cells,Vaccines,cell,imft,4,PRODUCES_CELLprodIMFT
+C0042542,C0042211,PRODUCES,Vero Cells,"Vaccines, Attenuated",cell,imft,1,PRODUCES_CELLprodIMFT
+C0085983,C0042742,PRODUCES,"Cell Line, Tumor",Viral Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0221284,C0003316,PRODUCES,Leptocyte,Epitopes,cell,imft,2,PRODUCES_CELLprodIMFT
+C0221284,C0376613,PRODUCES,Leptocyte,"Vaccines, DNA",cell,imft,1,PRODUCES_CELLprodIMFT
+C0221284,C1291777,PRODUCES,Leptocyte,Protein antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0225336,C0003339,PRODUCES,Endothelial Cells,Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0227525,C0019168,PRODUCES,Hepatocyte,Hepatitis B Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0242629,C0003335,PRODUCES,CD8-Positive T-Lymphocytes,"Antigens, Neoplasm",cell,imft,1,PRODUCES_CELLprodIMFT
+C0242629,C0042210,PRODUCES,CD8-Positive T-Lymphocytes,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0242629,C0369498,PRODUCES,CD8-Positive T-Lymphocytes,HIV-1 antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0334227,C0003342,PRODUCES,"Tumor cells, malignant","Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT
+C0334227,C0019168,PRODUCES,"Tumor cells, malignant",Hepatitis B Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0334227,C0021054,PRODUCES,"Tumor cells, malignant",Immunologic Factors,cell,imft,1,PRODUCES_CELLprodIMFT
+C0553257,C0003324,PRODUCES,Epithelial cell of renal tubule,Differentiation Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0553257,C0042210,PRODUCES,Epithelial cell of renal tubule,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0596981,C1291777,PRODUCES,Muscle Cells,Protein antigen,cell,imft,1,PRODUCES_CELLprodIMFT
+C0598088,C0042210,PRODUCES,continuous cell line,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0598088,C0042742,PRODUCES,continuous cell line,Viral Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0598091,C0003316,PRODUCES,stable cell line,Epitopes,cell,imft,1,PRODUCES_CELLprodIMFT
+C0598829,C0021403,PRODUCES,Madin Darby Canine Kidney Cells,Influenza virus vaccine,cell,imft,2,PRODUCES_CELLprodIMFT
+C0677626,C0019168,PRODUCES,hepatoma cell,Hepatitis B Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0682523,C0042210,PRODUCES,human cell line,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C0682523,C0042742,PRODUCES,human cell line,Viral Vaccines,cell,imft,2,PRODUCES_CELLprodIMFT
+C0682638,C0003339,PRODUCES,memory b cell,Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C0682638,C2825347,PRODUCES,memory b cell,"Immunoglobulin A, Human",cell,imft,1,PRODUCES_CELLprodIMFT
+C1182659,C0003339,PRODUCES,Hyalocyte,Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C1512977,C0042210,PRODUCES,Mammalian Cell,Vaccines,cell,imft,1,PRODUCES_CELLprodIMFT
+C1513095,C0003316,PRODUCES,Melanoma Cell,Epitopes,cell,imft,2,PRODUCES_CELLprodIMFT
+C1513528,C0019168,PRODUCES,Mouse Cell Line,Hepatitis B Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C1883178,C1883036,PRODUCES,Subclone,Single-Chain Antibodies,cell,imft,1,PRODUCES_CELLprodIMFT
+C2717940,C0003339,PRODUCES,Hep G2 Cells,Surface Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C2717940,C0019167,PRODUCES,Hep G2 Cells,Hepatitis B e Antigens,cell,imft,1,PRODUCES_CELLprodIMFT
+C3178867,C0243020,PRODUCES,Plant Cells,Immunoconjugates,cell,imft,1,PRODUCES_CELLprodIMFT
+C4331503,C0003342,PRODUCES,Virus-specific Cytotoxic T-lymphocytes,"Antigens, Viral",cell,imft,1,PRODUCES_CELLprodIMFT

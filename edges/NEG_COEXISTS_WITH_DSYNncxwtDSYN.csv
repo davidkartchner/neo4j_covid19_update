@@ -1,0 +1,78 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001175,C0019693,NEG_COEXISTS_WITH,Acquired Immunodeficiency Syndrome,HIV Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0002395,C0520680,NEG_COEXISTS_WITH,Alzheimer's Disease,"Sleep Apnea, Central",dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0004096,C0017168,NEG_COEXISTS_WITH,Asthma,Gastroesophageal reflux disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0004096,C3853540,NEG_COEXISTS_WITH,Asthma,Aspirin exacerbated respiratory disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0004623,C0004096,NEG_COEXISTS_WITH,Bacterial Infections,Asthma,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0004623,C3694279,NEG_COEXISTS_WITH,Bacterial Infections,Middle East Respiratory Syndrome,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0006267,C0010674,NEG_COEXISTS_WITH,Bronchiectasis,Cystic Fibrosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0009443,C0032310,NEG_COEXISTS_WITH,Common Cold,"Pneumonia, Viral",dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0009450,C0021400,NEG_COEXISTS_WITH,Communicable Diseases,Influenza,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0009450,C1175175,NEG_COEXISTS_WITH,Communicable Diseases,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0011053,C0154639,NEG_COEXISTS_WITH,Deafness,Streptococcal meningitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0011847,C0036690,NEG_COEXISTS_WITH,Diabetes,Septicemia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0011847,C0040034,NEG_COEXISTS_WITH,Diabetes,Thrombocytopenia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0014836,C0004610,NEG_COEXISTS_WITH,Escherichia coli Infections,Bacteremia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0018572,C0243026,NEG_COEXISTS_WITH,"Hand, Foot and Mouth Disease",Sepsis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0018621,C0016470,NEG_COEXISTS_WITH,Hay fever,Food Allergy,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0019114,C0003165,NEG_COEXISTS_WITH,Hemosiderosis,Anthracosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0020676,C0020550,NEG_COEXISTS_WITH,Hypothyroidism,Hyperthyroidism,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0021051,C0442893,NEG_COEXISTS_WITH,Immunologic Deficiency Syndromes,Systemic disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0021400,C0032285,NEG_COEXISTS_WITH,Influenza,Pneumonia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0021400,C0270724,NEG_COEXISTS_WITH,Influenza,Infantile Neuroaxonal Dystrophy,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0021400,C0442886,NEG_COEXISTS_WITH,Influenza,Secondary Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0022810,C0014061,NEG_COEXISTS_WITH,Kyasanur Forest Disease,Tick-Borne Encephalitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0022810,C0025289,NEG_COEXISTS_WITH,Kyasanur Forest Disease,Meningitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0027765,C0021334,NEG_COEXISTS_WITH,nervous system disorder,Infectious Bovine Rhinotracheitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0028754,C0020538,NEG_COEXISTS_WITH,Obesity,Hypertensive disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0029405,C0027697,NEG_COEXISTS_WITH,Osteitis Fibrosa Cystica,Nephritis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0030305,C0028754,NEG_COEXISTS_WITH,Pancreatitis,Obesity,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0030499,C0004623,NEG_COEXISTS_WITH,Parasitic Diseases,Bacterial Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0030567,C0002395,NEG_COEXISTS_WITH,Parkinson Disease,Alzheimer's Disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0032285,C0021400,NEG_COEXISTS_WITH,Pneumonia,Influenza,dsyn,dsyn,2,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0032285,C1175175,NEG_COEXISTS_WITH,Pneumonia,Severe Acute Respiratory Syndrome,dsyn,dsyn,2,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035204,C0019114,NEG_COEXISTS_WITH,Respiration Disorders,Hemosiderosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035204,C0021400,NEG_COEXISTS_WITH,Respiration Disorders,Influenza,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035204,C1175175,NEG_COEXISTS_WITH,Respiration Disorders,Severe Acute Respiratory Syndrome,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035222,C0030305,NEG_COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Pancreatitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035243,C0003873,NEG_COEXISTS_WITH,Respiratory Tract Infections,Rheumatoid Arthritis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0035243,C0340044,NEG_COEXISTS_WITH,Respiratory Tract Infections,Acute exacerbation of chronic obstructive airways disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0036690,C0019348,NEG_COEXISTS_WITH,Septicemia,Herpes Simplex Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0037354,C0276180,NEG_COEXISTS_WITH,Smallpox,Monkeypox,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042749,C0275518,NEG_COEXISTS_WITH,Viremia,Acute infectious disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0006271,NEG_COEXISTS_WITH,Virus Diseases,Bronchiolitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0011303,NEG_COEXISTS_WITH,Virus Diseases,Demyelinating Diseases,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0021051,NEG_COEXISTS_WITH,Virus Diseases,Immunologic Deficiency Syndromes,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0024312,NEG_COEXISTS_WITH,Virus Diseases,Lymphopenia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0032285,NEG_COEXISTS_WITH,Virus Diseases,Pneumonia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0042769,C0275522,NEG_COEXISTS_WITH,Virus Diseases,Asymptomatic Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0043124,C0275518,NEG_COEXISTS_WITH,West Nile Fever,Acute infectious disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0149676,C0019100,NEG_COEXISTS_WITH,Enzyme Deficiency,Severe Dengue,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0151317,C0014038,NEG_COEXISTS_WITH,Chronic infectious disease,Encephalitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0162309,C1623038,NEG_COEXISTS_WITH,Adrenoleukodystrophy,Cirrhosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0206171,C0042769,NEG_COEXISTS_WITH,Community-Acquired Infections,Virus Diseases,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0221505,C0275544,NEG_COEXISTS_WITH,Lesion of brain,Congenital infectious disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0238051,C0040553,NEG_COEXISTS_WITH,Cerebral Angiitis,Toxocariasis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0240066,C0151317,NEG_COEXISTS_WITH,Iron deficiency,Chronic infectious disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0264523,C0003165,NEG_COEXISTS_WITH,Pulmonary ossification,Anthracosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0264545,C0003165,NEG_COEXISTS_WITH,Thickening of pleura,Anthracosis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0267446,C0035243,NEG_COEXISTS_WITH,Acute gastroenteritis,Respiratory Tract Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0275524,C0018889,NEG_COEXISTS_WITH,Coinfection,Helminthiasis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0275524,C0035243,NEG_COEXISTS_WITH,Coinfection,Respiratory Tract Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0282687,C0042769,NEG_COEXISTS_WITH,"Hemorrhagic Fever, Ebola",Virus Diseases,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0339901,C0004096,NEG_COEXISTS_WITH,Acute respiratory infections,Asthma,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0341439,C0019158,NEG_COEXISTS_WITH,Chronic liver disease,Hepatitis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0343537,C0152021,NEG_COEXISTS_WITH,Specific viral infections,Congenital heart disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0343537,C0746102,NEG_COEXISTS_WITH,Specific viral infections,Chronic lung disease,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0348321,C0002871,NEG_COEXISTS_WITH,Hemophilus influenza infection,Anemia,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0442886,C0022521,NEG_COEXISTS_WITH,Secondary Infections,Kartagener Syndrome,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0524851,C0343537,NEG_COEXISTS_WITH,Neurodegenerative Disorders,Specific viral infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0876973,C0948807,NEG_COEXISTS_WITH,Infectious disease of lung,Hepatic impairment,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C0920627,C0023895,NEG_COEXISTS_WITH,Orphan Diseases,Liver diseases,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C1175175,C0270724,NEG_COEXISTS_WITH,Severe Acute Respiratory Syndrome,Infantile Neuroaxonal Dystrophy,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C1175175,C3694279,NEG_COEXISTS_WITH,Severe Acute Respiratory Syndrome,Middle East Respiratory Syndrome,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C1262091,C0040147,NEG_COEXISTS_WITH,Lymphocytic infiltration,Thyroiditis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C1443953,C0004096,NEG_COEXISTS_WITH,Acute viral disease,Asthma,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C1443953,C0035369,NEG_COEXISTS_WITH,Acute viral disease,Retroviridae Infections,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C2939465,C0019100,NEG_COEXISTS_WITH,Deficiency of glucose-6-phosphate dehydrogenase,Severe Dengue,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN
+C3669463,C0014179,NEG_COEXISTS_WITH,Feline immunodeficiency virus infection,Endometritis,dsyn,dsyn,1,NEG_COEXISTS_WITH_DSYNncxwtDSYN

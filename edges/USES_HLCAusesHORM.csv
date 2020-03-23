@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0025815,USES,Hospitalization,Methylprednisolone,hlca,horm,1,USES_HLCAusesHORM
+C0030231,C0032952,USES,Palliative Care,Prednisone,hlca,horm,1,USES_HLCAusesHORM
+C0030685,C0002006,USES,Patient Discharge,Aldosterone,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0012472,USES,Patient Discharge,Dinoprostone,hlca,horm,4,USES_HLCAusesHORM
+C0030685,C0020268,USES,Patient Discharge,Hydrocortisone,hlca,horm,5,USES_HLCAusesHORM
+C0030685,C0028351,USES,Patient Discharge,Norepinephrine,hlca,horm,3,USES_HLCAusesHORM
+C0679830,C0020268,USES,patient assessment,Hydrocortisone,hlca,horm,1,USES_HLCAusesHORM
+C1318955,C0001617,USES,Asthma management,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C1406915,C0001617,USES,breathing therapy,Adrenal Cortex Hormones,hlca,horm,8,USES_HLCAusesHORM

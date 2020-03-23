@@ -1,0 +1,48 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001618,C0001622,CAUSES,Tumors of Adrenal Cortex,Adrenal Gland Hyperfunction,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0001618,C0010481,CAUSES,Tumors of Adrenal Cortex,Cushing Syndrome,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0006826,C0009450,CAUSES,Malignant Neoplasms,Communicable Diseases,neop,dsyn,3,CAUSES_NEOPcausDSYN
+C0006826,C0018799,CAUSES,Malignant Neoplasms,Heart Diseases,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0007847,C0019163,CAUSES,Malignant tumor of cervix,Hepatitis B,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0007847,C2047226,CAUSES,Malignant tumor of cervix,human papilloma virus type 16,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0014522,C0018572,CAUSES,Epidermodysplasia Verruciformis,"Hand, Foot and Mouth Disease",neop,dsyn,2,CAUSES_NEOPcausDSYN
+C0014522,C0243010,CAUSES,Epidermodysplasia Verruciformis,Viral Encephalitis,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0014522,C0393483,CAUSES,Epidermodysplasia Verruciformis,Brainstem encephalitis,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0014522,C1290871,CAUSES,Epidermodysplasia Verruciformis,Disorder of hand,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0023487,C0012739,CAUSES,Acute Promyelocytic Leukemia,Disseminated Intravascular Coagulation,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0023798,C0267548,CAUSES,Lipoma,Ileocolic intussusception,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0024314,C0442893,CAUSES,Lymphoproliferative Disorders,Systemic disease,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0026764,C0030489,CAUSES,Multiple Myeloma,Paraproteinemias,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0027627,C0010403,CAUSES,Neoplasm Metastasis,Cryoglobulinemia,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0027627,C0032285,CAUSES,Neoplasm Metastasis,Pneumonia,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0027651,C0013691,CAUSES,Neoplasms,Chylous effusion,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0027651,C0031048,CAUSES,Neoplasms,"Pericarditis, Constrictive",neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0027651,C3266178,CAUSES,Neoplasms,Peripheral facial palsy,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0030354,C0009663,CAUSES,Papilloma,Condylomata Acuminata,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032019,C0001622,CAUSES,Pituitary Neoplasms,Adrenal Gland Hyperfunction,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032019,C0010481,CAUSES,Pituitary Neoplasms,Cushing Syndrome,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032463,C0007684,CAUSES,Polycythemia Vera,Central Nervous System Infection,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032463,C0031350,CAUSES,Polycythemia Vera,Pharyngitis,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032463,C0035204,CAUSES,Polycythemia Vera,Respiration Disorders,neop,dsyn,6,CAUSES_NEOPcausDSYN
+C0032463,C0035243,CAUSES,Polycythemia Vera,Respiratory Tract Infections,neop,dsyn,6,CAUSES_NEOPcausDSYN
+C0032463,C0267941,CAUSES,Polycythemia Vera,"Pancreatitis, Acute Necrotizing",neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032463,C0275524,CAUSES,Polycythemia Vera,Coinfection,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0032463,C1290841,CAUSES,Polycythemia Vera,Acute nervous system disorder,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0040100,C0011606,CAUSES,Thymoma,Exfoliative dermatitis,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0085164,C0002871,CAUSES,"Leukemia, Feline",Anemia,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0206655,C0035869,CAUSES,Alveolar rhabdomyosarcoma,Rotavirus Infections,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0262587,C0035222,CAUSES,Parathyroid Adenoma,"Respiratory Distress Syndrome, Adult",neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0278864,C0001206,CAUSES,Growth Hormone-Producing Pituitary Gland Neoplasm,Acromegaly,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0346302,C0011849,CAUSES,Growth Hormone-Secreting Pituitary Adenoma,Diabetes Mellitus,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0346302,C0271547,CAUSES,Growth Hormone-Secreting Pituitary Adenoma,Overproduction of growth hormone,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0346979,C4317046,CAUSES,Secondary malignant neoplasm of bone marrow,Hematological abnormality,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0376545,C0030489,CAUSES,Hematologic Neoplasms,Paraproteinemias,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0677930,C0042769,CAUSES,primary tumor,Virus Diseases,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0677932,C0035222,CAUSES,Progressive Neoplastic Disease,"Respiratory Distress Syndrome, Adult",neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0677932,C1145670,CAUSES,Progressive Neoplastic Disease,Respiratory Failure,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C0872301,C0021400,CAUSES,virus related neoplasm,Influenza,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C1136085,C0015397,CAUSES,Monoclonal Gammapathies,Disorder of eye,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C1136085,C0030489,CAUSES,Monoclonal Gammapathies,Paraproteinemias,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C1136085,C0037274,CAUSES,Monoclonal Gammapathies,Dermatologic disorders,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C1136085,C0442874,CAUSES,Monoclonal Gammapathies,Neuropathy,neop,dsyn,1,CAUSES_NEOPcausDSYN
+C1275278,C1175175,CAUSES,Extraskeletal Myxoid Chondrosarcoma,Severe Acute Respiratory Syndrome,neop,dsyn,1,CAUSES_NEOPcausDSYN

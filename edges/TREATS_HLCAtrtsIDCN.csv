@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0009488,TREATS,Hospitalization,Comorbidity,hlca,idcn,2,TREATS_HLCAtrtsIDCN
+C0085559,C0009488,TREATS,intensive care,Comorbidity,hlca,idcn,1,TREATS_HLCAtrtsIDCN
+C1261322,C0087130,TREATS,Evaluation procedure,Uncertainty,hlca,idcn,1,TREATS_HLCAtrtsIDCN
+C1293116,C0087130,TREATS,Introduction procedure,Uncertainty,hlca,idcn,1,TREATS_HLCAtrtsIDCN

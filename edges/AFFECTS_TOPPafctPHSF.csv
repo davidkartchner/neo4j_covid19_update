@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0020964,AFFECTS,"Administration, Intranasal",Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0001560,C0243144,AFFECTS,"Administration, Intranasal",Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0001563,C0020964,AFFECTS,"Administration, Oral",Immunity,topp,phsf,2,AFFECTS_TOPPafctPHSF
+C0001563,C0751982,AFFECTS,"Administration, Oral",Neutrophil Infiltration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0009429,C1258192,AFFECTS,Combined Modality Therapy,Total Peripheral Resistance,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0013216,C0020964,AFFECTS,Pharmacotherapy,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0013216,C0178665,AFFECTS,Pharmacotherapy,glucose tolerance,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0013216,C0301944,AFFECTS,Pharmacotherapy,Graft acceptance,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0015357,C0035203,AFFECTS,Extracorporeal Membrane Oxygenation,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0017296,C0020964,AFFECTS,gene therapy,Immunity,topp,phsf,2,AFFECTS_TOPPafctPHSF
+C0017296,C4277517,AFFECTS,gene therapy,Host Tropism,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0020971,C0020964,AFFECTS,Immunization,Immunity,topp,phsf,5,AFFECTS_TOPPafctPHSF
+C0020971,C0242732,AFFECTS,Immunization,Tropism,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0020971,C0243144,AFFECTS,Immunization,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0021932,C0035203,AFFECTS,"Intubation, Intratracheal",Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0024881,C0149784,AFFECTS,Mastectomy,biological adaptation to stress,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0032740,C0035203,AFFECTS,Positive End-Expiratory Pressure,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0035139,C0242732,AFFECTS,Surgical Replantation,Tropism,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0040044,C2917212,AFFECTS,Thrombolytic Therapy,Negative Regulation of Coagulation,topp,phsf,2,AFFECTS_TOPPafctPHSF
+C0040732,C0301944,AFFECTS,Transplantation,Graft acceptance,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0040732,C0597170,AFFECTS,Transplantation,paracrine,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0042196,C0020964,AFFECTS,Vaccination,Immunity,topp,phsf,7,AFFECTS_TOPPafctPHSF
+C0042196,C0243144,AFFECTS,Vaccination,Uptake,topp,phsf,2,AFFECTS_TOPPafctPHSF
+C0042196,C1135927,AFFECTS,Vaccination,"Immunity, Herd",topp,phsf,5,AFFECTS_TOPPafctPHSF
+C0042200,C0020119,AFFECTS,Influenza vaccination,Human Development,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0042200,C0243144,AFFECTS,Influenza vaccination,Uptake,topp,phsf,3,AFFECTS_TOPPafctPHSF
+C0042203,C0243144,AFFECTS,Pertussis vaccination,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0065764,C3714584,AFFECTS,bleomycin/cisplatin/methotrexate protocol,"Transformation, function",topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0079613,C0020964,AFFECTS,Adoptive Immunotherapy,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0150189,C0149784,AFFECTS,Distraction training,biological adaptation to stress,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0152060,C0242732,AFFECTS,Transection (procedure),Tropism,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0185115,C0035203,AFFECTS,Extraction,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0199470,C0035203,AFFECTS,Mechanical ventilation,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0204727,C1135927,AFFECTS,Isolation procedure,"Immunity, Herd",topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0281176,C0020964,AFFECTS,antibody therapy,Immunity,topp,phsf,2,AFFECTS_TOPPafctPHSF
+C0282077,C0149784,AFFECTS,Qigong,biological adaptation to stress,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0425403,C0243144,AFFECTS,"Diet, High-Protein",Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0441509,C0016017,AFFECTS,Coagulation procedure,Fibrinolysis,topp,phsf,3,AFFECTS_TOPPafctPHSF
+C0441516,C0035203,AFFECTS,Demand (clinical),Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0454511,C0035203,AFFECTS,Inspiratory muscle training,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0543467,C0005775,AFFECTS,Operative Surgical Procedures,Blood Circulation,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0557061,C0243144,AFFECTS,Discussion (procedure),Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C0683525,C0035203,AFFECTS,treatment options,Respiration,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1096021,C0020964,AFFECTS,antiplatelet therapy,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1135809,C0014272,AFFECTS,Caloric Restriction,Energy Metabolism,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1283075,C0243144,AFFECTS,Fusion - action,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1504389,C0597170,AFFECTS,Stem cell transplant,paracrine,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1511790,C0005775,AFFECTS,Detection,Blood Circulation,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1511790,C0020964,AFFECTS,Detection,Immunity,topp,phsf,4,AFFECTS_TOPPafctPHSF
+C1512034,C0020964,AFFECTS,Donor Lymphocyte Infusion,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1512721,C0243144,AFFECTS,Inferential Current Treatment,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1515884,C0020964,AFFECTS,Acupuncture and Oriental Medicine,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C1627346,C0243144,AFFECTS,Feeding regime,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C3850098,C0243144,AFFECTS,Pre-Exposure Prophylaxis,Uptake,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C3897730,C0301944,AFFECTS,Reduced-Intensity Transplant Conditioning Procedure,Graft acceptance,topp,phsf,1,AFFECTS_TOPPafctPHSF
+C4319935,C0020964,AFFECTS,Irreversible Electroporation,Immunity,topp,phsf,1,AFFECTS_TOPPafctPHSF

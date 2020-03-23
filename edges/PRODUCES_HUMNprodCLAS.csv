@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001675,C0441729,PRODUCES,Adult,Type 1,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0008059,C0441729,PRODUCES,Child,Type 1,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0040704,C2827421,PRODUCES,Transient Population Group,Construct,humn,clas,2,PRODUCES_HUMNprodCLAS
+C0086418,C0441729,PRODUCES,Homo sapiens,Type 1,humn,clas,2,PRODUCES_HUMNprodCLAS
+C0086418,C0441731,PRODUCES,Homo sapiens,Type 3,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0086418,C1515021,PRODUCES,Homo sapiens,Subgroup,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0086418,C1705920,PRODUCES,Homo sapiens,Species,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0086418,C2827421,PRODUCES,Homo sapiens,Construct,humn,clas,1,PRODUCES_HUMNprodCLAS
+C0341647,C1517886,PRODUCES,Secretary,Limited stage (cancer stage),humn,clas,1,PRODUCES_HUMNprodCLAS
+C0680063,C1705920,PRODUCES,Offspring,Species,humn,clas,1,PRODUCES_HUMNprodCLAS
+C3812881,C1705920,PRODUCES,Author,Species,humn,clas,1,PRODUCES_HUMNprodCLAS
+C3887537,C1705920,PRODUCES,Partner,Species,humn,clas,1,PRODUCES_HUMNprodCLAS

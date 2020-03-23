@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0850107,CAUSES,Antibiotics,antibiotic side-effect,antb,inpo,1,CAUSES_ANTBcausINPO
+C0013089,C0018805,CAUSES,Doxorubicin,Heart Injuries,antb,inpo,1,CAUSES_ANTBcausINPO
+C0013089,C0235378,CAUSES,Doxorubicin,Hepatotoxicity,antb,inpo,1,CAUSES_ANTBcausINPO
+C0013089,C0599918,CAUSES,Doxorubicin,nephrotoxicity,antb,inpo,1,CAUSES_ANTBcausINPO
+C0013089,C0600688,CAUSES,Doxorubicin,Toxic effect,antb,inpo,4,CAUSES_ANTBcausINPO
+C0013089,C0876994,CAUSES,Doxorubicin,Cardiotoxicity,antb,inpo,15,CAUSES_ANTBcausINPO
+C0054036,C0600688,CAUSES,Brefeldin A,Toxic effect,antb,inpo,1,CAUSES_ANTBcausINPO
+C3854019,C0599918,CAUSES,Gentamicin,nephrotoxicity,antb,inpo,2,CAUSES_ANTBcausINPO

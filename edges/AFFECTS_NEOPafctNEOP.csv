@@ -1,0 +1,52 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001418,C0007137,AFFECTS,Adenocarcinoma,Squamous cell carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0006142,C0178874,AFFECTS,Malignant neoplasm of breast,Tumor Progression,neop,neop,2,AFFECTS_NEOPafctNEOP
+C0006826,C0007114,AFFECTS,Malignant Neoplasms,Malignant neoplasm of skin,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0006826,C0027651,AFFECTS,Malignant Neoplasms,Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0006826,C2939419,AFFECTS,Malignant Neoplasms,Secondary Neoplasm,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0007621,C0005684,AFFECTS,Neoplastic Cell Transformation,Malignant neoplasm of urinary bladder,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0007621,C0027651,AFFECTS,Neoplastic Cell Transformation,Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0007621,C1516170,AFFECTS,Neoplastic Cell Transformation,Cancer Cell Growth,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0007847,C0006826,AFFECTS,Malignant tumor of cervix,Malignant Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0023467,C0023449,AFFECTS,"Leukemia, Myelocytic, Acute",Acute lymphocytic leukemia,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0024299,C0598766,AFFECTS,Lymphoma,Leukemogenesis,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0024305,C0025500,AFFECTS,"Lymphoma, Non-Hodgkin",Mesothelioma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0024305,C0220603,AFFECTS,"Lymphoma, Non-Hodgkin",Childhood Brain Neoplasm,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0025500,C0024305,AFFECTS,Mesothelioma,"Lymphoma, Non-Hodgkin",neop,neop,1,AFFECTS_NEOPafctNEOP
+C0025500,C0220603,AFFECTS,Mesothelioma,Childhood Brain Neoplasm,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0027627,C0023487,AFFECTS,Neoplasm Metastasis,Acute Promyelocytic Leukemia,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0027651,C0006826,AFFECTS,Neoplasms,Malignant Neoplasms,neop,neop,2,AFFECTS_NEOPafctNEOP
+C0027651,C0178874,AFFECTS,Neoplasms,Tumor Progression,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0027651,C0235974,AFFECTS,Neoplasms,Pancreatic carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0027809,C0023267,AFFECTS,Neurilemmoma,Fibroid Tumor,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0153381,C0027663,AFFECTS,Malignant neoplasm of mouth,"Neoplasms, Multiple Primary",neop,neop,1,AFFECTS_NEOPafctNEOP
+C0153382,C0596263,AFFECTS,Malignant neoplasm of oropharynx,Carcinogenesis,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0153676,C0598934,AFFECTS,Secondary malignant neoplasm of lung,tumor growth,neop,neop,2,AFFECTS_NEOPafctNEOP
+C0178874,C0598934,AFFECTS,Tumor Progression,tumor growth,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0220603,C0024305,AFFECTS,Childhood Brain Neoplasm,"Lymphoma, Non-Hodgkin",neop,neop,1,AFFECTS_NEOPafctNEOP
+C0220603,C0025500,AFFECTS,Childhood Brain Neoplasm,Mesothelioma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0242379,C0006826,AFFECTS,Malignant neoplasm of lung,Malignant Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0302592,C0007621,AFFECTS,Cervix carcinoma,Neoplastic Cell Transformation,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0334663,C0376544,AFFECTS,Histiocytic sarcoma,Hematopoietic Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0341823,C0029925,AFFECTS,Epithelial tumor of ovary,Ovarian Carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0376358,C0006826,AFFECTS,Malignant neoplasm of prostate,Malignant Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0376358,C0007621,AFFECTS,Malignant neoplasm of prostate,Neoplastic Cell Transformation,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0521158,C0006826,AFFECTS,Recurrent tumor,Malignant Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0596263,C0280317,AFFECTS,Carcinogenesis,Tonsillar Squamous Cell Carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0678222,C0007621,AFFECTS,Breast Carcinoma,Neoplastic Cell Transformation,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0699791,C0007097,AFFECTS,Stomach Carcinoma,Carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0879615,C0598934,AFFECTS,Stromal Neoplasm,tumor growth,neop,neop,1,AFFECTS_NEOPafctNEOP
+C0879615,C2939419,AFFECTS,Stromal Neoplasm,Secondary Neoplasm,neop,neop,1,AFFECTS_NEOPafctNEOP
+C1261473,C0178874,AFFECTS,Sarcoma,Tumor Progression,neop,neop,1,AFFECTS_NEOPafctNEOP
+C1334699,C0376545,AFFECTS,Mesenchymal Cell Neoplasm,Hematologic Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP
+C1335307,C0178874,AFFECTS,Pancreatic Lymphoma,Tumor Progression,neop,neop,1,AFFECTS_NEOPafctNEOP
+C1658953,C0598934,AFFECTS,tumor vasculature,tumor growth,neop,neop,1,AFFECTS_NEOPafctNEOP
+C2939419,C0006826,AFFECTS,Secondary Neoplasm,Malignant Neoplasms,neop,neop,3,AFFECTS_NEOPafctNEOP
+C2939419,C0007097,AFFECTS,Secondary Neoplasm,Carcinoma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C2939419,C0007621,AFFECTS,Secondary Neoplasm,Neoplastic Cell Transformation,neop,neop,1,AFFECTS_NEOPafctNEOP
+C2939419,C0178874,AFFECTS,Secondary Neoplasm,Tumor Progression,neop,neop,1,AFFECTS_NEOPafctNEOP
+C2939419,C0598934,AFFECTS,Secondary Neoplasm,tumor growth,neop,neop,1,AFFECTS_NEOPafctNEOP
+C2939419,C0598935,AFFECTS,Secondary Neoplasm,Tumor Initiation,neop,neop,1,AFFECTS_NEOPafctNEOP
+C3665419,C0017638,AFFECTS,intracranial glioma,Glioma,neop,neop,1,AFFECTS_NEOPafctNEOP
+C3887461,C0178874,AFFECTS,Head and Neck Carcinoma,Tumor Progression,neop,neop,1,AFFECTS_NEOPafctNEOP
+C3899716,C0027651,AFFECTS,Canine Osteosarcoma,Neoplasms,neop,neop,1,AFFECTS_NEOPafctNEOP

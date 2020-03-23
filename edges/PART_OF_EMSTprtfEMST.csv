@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002084,C0013935,PART_OF,Structure of allantois,Embryo,emst,emst,1,PART_OF_EMSTprtfEMST
+C0008508,C0008503,PART_OF,Chorionic villi,Chorion,emst,emst,2,PART_OF_EMSTprtfEMST
+C0008508,C1135936,PART_OF,Chorionic villi,Syncytiotrophoblasts,emst,emst,1,PART_OF_EMSTprtfEMST
+C0015943,C0002630,PART_OF,Fetal Membranes,Structure of amnion,emst,emst,1,PART_OF_EMSTprtfEMST
+C0015943,C0015965,PART_OF,Fetal Membranes,Fetus,emst,emst,1,PART_OF_EMSTprtfEMST
+C0032043,C0013935,PART_OF,Placenta,Embryo,emst,emst,2,PART_OF_EMSTprtfEMST
+C0032043,C0015965,PART_OF,Placenta,Fetus,emst,emst,3,PART_OF_EMSTprtfEMST
+C0032043,C0043425,PART_OF,Placenta,Yolk Sac,emst,emst,2,PART_OF_EMSTprtfEMST
+C0041178,C0015965,PART_OF,trophoblast,Fetus,emst,emst,5,PART_OF_EMSTprtfEMST
+C0041178,C0032043,PART_OF,trophoblast,Placenta,emst,emst,14,PART_OF_EMSTprtfEMST
+C0162415,C0032043,PART_OF,Mesenchyma,Placenta,emst,emst,1,PART_OF_EMSTprtfEMST
+C0162415,C0391914,PART_OF,Mesenchyma,Pupillary membrane,emst,emst,1,PART_OF_EMSTprtfEMST
+C0162415,C4242696,PART_OF,Mesenchyma,Palatal shelf,emst,emst,1,PART_OF_EMSTprtfEMST
+C0178551,C0013935,PART_OF,chorioallantoic membrane,Embryo,emst,emst,2,PART_OF_EMSTprtfEMST
+C0231117,C0013935,PART_OF,Fetal head,Embryo,emst,emst,3,PART_OF_EMSTprtfEMST
+C0231117,C0032043,PART_OF,Fetal head,Placenta,emst,emst,1,PART_OF_EMSTprtfEMST
+C1135936,C0032043,PART_OF,Syncytiotrophoblasts,Placenta,emst,emst,2,PART_OF_EMSTprtfEMST
+C1283994,C0005705,PART_OF,Inner cell mass,Embryo stage 3 structure,emst,emst,1,PART_OF_EMSTprtfEMST
+C4247535,C0032043,PART_OF,Fetal mesenchyme,Placenta,emst,emst,2,PART_OF_EMSTprtfEMST

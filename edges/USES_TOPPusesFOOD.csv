@@ -1,0 +1,57 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009429,C0678420,USES,Combined Modality Therapy,Cocktail,topp,food,2,USES_TOPPusesFOOD
+C0017296,C2947019,USES,gene therapy,Pivot,topp,food,1,USES_TOPPusesFOOD
+C0020971,C0453018,USES,Immunization,Bacha,topp,food,1,USES_TOPPusesFOOD
+C0020971,C0678420,USES,Immunization,Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0021083,C0678420,USES,Immunotherapy,Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0022100,C0025017,USES,Irrigation,Meat,topp,food,1,USES_TOPPusesFOOD
+C0032741,C0016452,USES,Positive Reinforcement,Food,topp,food,1,USES_TOPPusesFOOD
+C0035822,C2947019,USES,Role playing therapy,Pivot,topp,food,1,USES_TOPPusesFOOD
+C0038288,C0016452,USES,Sexual sterilization,Food,topp,food,2,USES_TOPPusesFOOD
+C0040808,C0012155,USES,Treatment Protocols,Diet,topp,food,1,USES_TOPPusesFOOD
+C0040808,C0016767,USES,Treatment Protocols,Fruit,topp,food,1,USES_TOPPusesFOOD
+C0040808,C0042440,USES,Treatment Protocols,Vegetables,topp,food,1,USES_TOPPusesFOOD
+C0040808,C0678420,USES,Treatment Protocols,Cocktail,topp,food,2,USES_TOPPusesFOOD
+C0040808,C0678695,USES,Treatment Protocols,Nutrients,topp,food,4,USES_TOPPusesFOOD
+C0042196,C0016452,USES,Vaccination,Food,topp,food,1,USES_TOPPusesFOOD
+C0042196,C0678420,USES,Vaccination,Cocktail,topp,food,5,USES_TOPPusesFOOD
+C0079613,C0016452,USES,Adoptive Immunotherapy,Food,topp,food,1,USES_TOPPusesFOOD
+C0152060,C0242295,USES,Transection (procedure),Dietary Supplements,topp,food,1,USES_TOPPusesFOOD
+C0152060,C0452867,USES,Transection (procedure),Pork,topp,food,1,USES_TOPPusesFOOD
+C0152060,C0681574,USES,Transection (procedure),sugar cane,topp,food,1,USES_TOPPusesFOOD
+C0185027,C0012155,USES,Imbrication (procedure),Diet,topp,food,2,USES_TOPPusesFOOD
+C0185111,C0012155,USES,Surgical Manipulation,Diet,topp,food,3,USES_TOPPusesFOOD
+C0185115,C0013710,USES,Extraction,Egg Food Product,topp,food,1,USES_TOPPusesFOOD
+C0185115,C0016452,USES,Extraction,Food,topp,food,1,USES_TOPPusesFOOD
+C0185115,C0037732,USES,Extraction,Soybean Oil,topp,food,1,USES_TOPPusesFOOD
+C0185115,C0678695,USES,Extraction,Nutrients,topp,food,2,USES_TOPPusesFOOD
+C0199176,C2947019,USES,Prophylactic treatment,Pivot,topp,food,2,USES_TOPPusesFOOD
+C0204727,C0013710,USES,Isolation procedure,Egg Food Product,topp,food,2,USES_TOPPusesFOOD
+C0204774,C0678420,USES,Soaking Procedure,Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0393005,C0349966,USES,chlorodihydroxypyridine/potassium oxonate/tegafur,Figs - dietary,topp,food,1,USES_TOPPusesFOOD
+C0394663,C0039400,USES,Cupping,Tea,topp,food,1,USES_TOPPusesFOOD
+C0438673,C0019906,USES,Microwave Therapy,Honey,topp,food,1,USES_TOPPusesFOOD
+C0441516,C0012155,USES,Demand (clinical),Diet,topp,food,1,USES_TOPPusesFOOD
+C0441516,C0678695,USES,Demand (clinical),Nutrients,topp,food,2,USES_TOPPusesFOOD
+C0452376,C0042440,USES,Elimination diet,Vegetables,topp,food,1,USES_TOPPusesFOOD
+C0455085,C0453289,USES,Skin preparation,Pomegranate,topp,food,1,USES_TOPPusesFOOD
+C0524865,C0453309,USES,Reconstructive Surgical Procedures,Prunes,topp,food,2,USES_TOPPusesFOOD
+C0543467,C0003050,USES,Operative Surgical Procedures,Animal feed (substance),topp,food,1,USES_TOPPusesFOOD
+C0543467,C0349374,USES,Operative Surgical Procedures,Cow's milk,topp,food,1,USES_TOPPusesFOOD
+C0543467,C0452867,USES,Operative Surgical Procedures,Pork,topp,food,1,USES_TOPPusesFOOD
+C0567467,C0043188,USES,Drinking practice,Wine,topp,food,1,USES_TOPPusesFOOD
+C0574032,C0039400,USES,Infusion procedures,Tea,topp,food,1,USES_TOPPusesFOOD
+C0574032,C0678420,USES,Infusion procedures,Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0597815,C0012155,USES,crystal healing,Diet,topp,food,1,USES_TOPPusesFOOD
+C0808232,C0678420,USES,Therapeutic Intervention,Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0887947,C0678420,USES,"Antiretroviral Therapy, Highly Active",Cocktail,topp,food,1,USES_TOPPusesFOOD
+C0920298,C0012155,USES,Weight maintenance regimen,Diet,topp,food,1,USES_TOPPusesFOOD
+C0947647,C0012155,USES,Manipulation procedure,Diet,topp,food,1,USES_TOPPusesFOOD
+C0949266,C0012155,USES,"Therapies, Investigational",Diet,topp,food,1,USES_TOPPusesFOOD
+C1511790,C0012173,USES,Detection,Dietary Fiber,topp,food,1,USES_TOPPusesFOOD
+C1511790,C0349966,USES,Detection,Figs - dietary,topp,food,1,USES_TOPPusesFOOD
+C1511790,C1510451,USES,Detection,French fries,topp,food,2,USES_TOPPusesFOOD
+C1511790,C4543503,USES,Detection,Sandwich,topp,food,3,USES_TOPPusesFOOD
+C1527077,C0359583,USES,Peripheral Electronic Nerve Stimulation,enrich,topp,food,1,USES_TOPPusesFOOD
+C1964029,C0012155,USES,early/brief intervention/therapy (treatment),Diet,topp,food,1,USES_TOPPusesFOOD
+C4505304,C4084254,USES,"Transplantation, Haploidentical",REPLETE,topp,food,1,USES_TOPPusesFOOD

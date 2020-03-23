@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0013343,USES,angiogram,Dyes,diap,irda,1,USES_DIAPusesIRDA
+C0004398,C0018964,USES,Autopsy,Hematoxylin,diap,irda,1,USES_DIAPusesIRDA
+C0004398,C0492002,USES,Autopsy,Neutral buffered formalin,diap,irda,1,USES_DIAPusesIRDA
+C0024485,C0009924,USES,Magnetic Resonance Imaging,Contrast Media,diap,irda,2,USES_DIAPusesIRDA
+C0024485,C1512628,USES,Magnetic Resonance Imaging,Imaging Agent,diap,irda,1,USES_DIAPusesIRDA
+C0024671,C0034760,USES,Mammography,Reagents,diap,irda,1,USES_DIAPusesIRDA
+C0032743,C0046056,USES,Positron-Emission Tomography,Fluorodeoxyglucose F18,diap,irda,2,USES_DIAPusesIRDA
+C0032743,C0597354,USES,Positron-Emission Tomography,radiotracer,diap,irda,2,USES_DIAPusesIRDA
+C0034606,C2930749,USES,Radionuclide Imaging,Radiographic contrast media,diap,irda,1,USES_DIAPusesIRDA
+C0040395,C0009924,USES,tomography,Contrast Media,diap,irda,2,USES_DIAPusesIRDA
+C0086143,C0034760,USES,Diagnostic tests,Reagents,diap,irda,1,USES_DIAPusesIRDA
+C0193388,C0034760,USES,Biopsy of liver (procedure),Reagents,diap,irda,1,USES_DIAPusesIRDA
+C0203634,C0034760,USES,Nuclear medicine procedure,Reagents,diap,irda,2,USES_DIAPusesIRDA
+C0262485,C0013343,USES,Flash,Dyes,diap,irda,4,USES_DIAPusesIRDA
+C0444186,C0017542,USES,Smear test,Giemsa stain,diap,irda,2,USES_DIAPusesIRDA
+C0444186,C0878260,USES,Smear test,Auramine O,diap,irda,1,USES_DIAPusesIRDA
+C0449900,C3889729,USES,Contrast used,Carbon Nanoparticle-based Formulation,diap,irda,1,USES_DIAPusesIRDA
+C0596473,C0021212,USES,Early Diagnosis,Indicators,diap,irda,2,USES_DIAPusesIRDA
+C0860888,C2930749,USES,"Tomography, Spiral Computed",Radiographic contrast media,diap,irda,1,USES_DIAPusesIRDA
+C0871813,C0034760,USES,medical diagnosis,Reagents,diap,irda,1,USES_DIAPusesIRDA
+C0872187,C1522485,USES,high throughput screening,Tracer,diap,irda,1,USES_DIAPusesIRDA
+C1167856,C0013343,USES,blood smear test,Dyes,diap,irda,1,USES_DIAPusesIRDA
+C1167856,C0017542,USES,blood smear test,Giemsa stain,diap,irda,3,USES_DIAPusesIRDA
+C1518156,C1522485,USES,Magnetic Resonance Elastography,Tracer,diap,irda,1,USES_DIAPusesIRDA
+C1548757,C1550078,USES,"Transport Media, Viral",M4-RT,diap,irda,2,USES_DIAPusesIRDA
+C1699633,C0046056,USES,PET/CT scan,Fluorodeoxyglucose F18,diap,irda,2,USES_DIAPusesIRDA
+C1964257,C0037638,USES,Observation - diagnostic procedure,Solvents,diap,irda,1,USES_DIAPusesIRDA
+C2986547,C0021212,USES,Non-Target Lesion Identification,Indicators,diap,irda,1,USES_DIAPusesIRDA
+C4277740,C0021212,USES,Walk Test,Indicators,diap,irda,1,USES_DIAPusesIRDA

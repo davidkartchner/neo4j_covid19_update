@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009429,C0027651,AFFECTS,Combined Modality Therapy,Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0013216,C0006826,AFFECTS,Pharmacotherapy,Malignant Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0013216,C0027668,AFFECTS,Pharmacotherapy,"Neoplasms, Vascular Tissue",topp,neop,1,AFFECTS_TOPPafctNEOP
+C0013216,C1168401,AFFECTS,Pharmacotherapy,Squamous cell carcinoma of the head and neck,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0013216,C3887461,AFFECTS,Pharmacotherapy,Head and Neck Carcinoma,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0017296,C1135161,AFFECTS,gene therapy,Stage 4S neuroblastoma,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0021083,C0027651,AFFECTS,Immunotherapy,Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0040732,C0023418,AFFECTS,Transplantation,leukemia,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0040739,C0023467,AFFECTS,"Transplantation, Homologous","Leukemia, Myelocytic, Acute",topp,neop,1,AFFECTS_TOPPafctNEOP
+C0042196,C0006826,AFFECTS,Vaccination,Malignant Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0042196,C0027627,AFFECTS,Vaccination,Neoplasm Metastasis,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0042196,C0598934,AFFECTS,Vaccination,tumor growth,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0055670,C0001418,AFFECTS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Adenocarcinoma,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0079613,C0178874,AFFECTS,Adoptive Immunotherapy,Tumor Progression,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0086153,C0006826,AFFECTS,Dietary Modification,Malignant Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0185027,C0027627,AFFECTS,Imbrication (procedure),Neoplasm Metastasis,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0185117,C0007621,AFFECTS,Expression procedure,Neoplastic Cell Transformation,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0199176,C0006826,AFFECTS,Prophylactic treatment,Malignant Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0679651,C0027627,AFFECTS,directive therapy,Neoplasm Metastasis,topp,neop,1,AFFECTS_TOPPafctNEOP
+C0920425,C0027651,AFFECTS,cancer therapy,Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C1511790,C0007621,AFFECTS,Detection,Neoplastic Cell Transformation,topp,neop,1,AFFECTS_TOPPafctNEOP
+C1511790,C0027627,AFFECTS,Detection,Neoplasm Metastasis,topp,neop,1,AFFECTS_TOPPafctNEOP
+C1511790,C0521158,AFFECTS,Detection,Recurrent tumor,topp,neop,2,AFFECTS_TOPPafctNEOP
+C2945704,C0027651,AFFECTS,Conventional Treatment,Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C2985566,C0006826,AFFECTS,Targeted Therapy,Malignant Neoplasms,topp,neop,1,AFFECTS_TOPPafctNEOP
+C4042855,C0178874,AFFECTS,RNAi Therapeutics,Tumor Progression,topp,neop,1,AFFECTS_TOPPafctNEOP

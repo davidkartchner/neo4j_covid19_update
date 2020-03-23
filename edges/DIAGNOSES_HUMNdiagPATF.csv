@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0025106,C1704489,DIAGNOSES,Medical Staff,Extended Rotated Sidebent,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0031831,C0020517,DIAGNOSES,Physicians,Hypersensitivity,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0031831,C0036983,DIAGNOSES,Physicians,Septic Shock,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0031831,C0242781,DIAGNOSES,Physicians,disease transmission,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0031831,C0700148,DIAGNOSES,Physicians,Congestion,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0035173,C0011304,DIAGNOSES,Research Personnel,Demyelination,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0035173,C0020517,DIAGNOSES,Research Personnel,Hypersensitivity,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0035173,C0021368,DIAGNOSES,Research Personnel,Inflammation,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0035173,C0029445,DIAGNOSES,Research Personnel,Bone necrosis,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0035173,C0242656,DIAGNOSES,Research Personnel,Disease Progression,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0035173,C0242781,DIAGNOSES,Research Personnel,disease transmission,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0035173,C0751530,DIAGNOSES,Research Personnel,"Subarachnoid Hemorrhage, Aneurysmal",humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0042462,C0242781,DIAGNOSES,Vendors,disease transmission,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0087009,C0020517,DIAGNOSES,Hospital specialist,Hypersensitivity,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0237485,C0020517,DIAGNOSES,Attendants -- group,Hypersensitivity,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0242856,C0013687,DIAGNOSES,Veterinarian,effusion,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0260194,C3714514,DIAGNOSES,radiologist,Infection,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0260319,C1520005,DIAGNOSES,Virologists,Viral Pathogenesis,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0260319,C3714514,DIAGNOSES,Virologists,Infection,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0334915,C0242781,DIAGNOSES,"Dentist, general",disease transmission,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0335038,C0020517,DIAGNOSES,Reporter (occupation),Hypersensitivity,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0335038,C3714514,DIAGNOSES,Reporter (occupation),Infection,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0335417,C1520005,DIAGNOSES,Poultry farmer,Viral Pathogenesis,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0402606,C0021368,DIAGNOSES,Gate-keeper,Inflammation,humn,patf,2,DIAGNOSES_HUMNdiagPATF
+C0684017,C0242781,DIAGNOSES,scholar,disease transmission,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0871685,C0020517,DIAGNOSES,Clinician,Hypersensitivity,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0871685,C0021368,DIAGNOSES,Clinician,Inflammation,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0871685,C0036983,DIAGNOSES,Clinician,Septic Shock,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C0871685,C3714514,DIAGNOSES,Clinician,Infection,humn,patf,3,DIAGNOSES_HUMNdiagPATF
+C1320929,C3714514,DIAGNOSES,Attending physician,Infection,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C1521895,C0028778,DIAGNOSES,Principal Investigator,Obstruction,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C1522486,C0151763,DIAGNOSES,Professional Organization or Group,Liver damage,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3642273,C0011304,DIAGNOSES,Stanford Cancer Institute,Demyelination,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3642273,C0332448,DIAGNOSES,Stanford Cancer Institute,Infiltration,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C0020517,DIAGNOSES,Author,Hypersensitivity,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C0036983,DIAGNOSES,Author,Septic Shock,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C0162633,DIAGNOSES,Author,Viral Shedding,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C0242656,DIAGNOSES,Author,Disease Progression,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C1520005,DIAGNOSES,Author,Viral Pathogenesis,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C2699153,DIAGNOSES,Author,Cell Invasion,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C3812881,C3714514,DIAGNOSES,Author,Infection,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C4522252,C0013687,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,effusion,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C4522252,C0020963,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Immune Tolerance,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C4522252,C0021368,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Inflammation,humn,patf,1,DIAGNOSES_HUMNdiagPATF
+C4522252,C2911645,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Weight Loss Adverse Event,humn,patf,1,DIAGNOSES_HUMNdiagPATF

@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007344,C0220781,AFFECTS,Castration,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0007876,C1817972,AFFECTS,Cesarean section,immune system development,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013216,C0013203,AFFECTS,Pharmacotherapy,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013216,C3714634,AFFECTS,Pharmacotherapy,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013806,C0220781,AFFECTS,Electroconvulsive Therapy,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0013806,C1721019,AFFECTS,Electroconvulsive Therapy,Virus Attachment,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0020971,C1721019,AFFECTS,Immunization,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0021107,C0042765,AFFECTS,Implantation procedure,Virulence,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0021107,C0220781,AFFECTS,Implantation procedure,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0040732,C1721019,AFFECTS,Transplantation,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0042196,C0220781,AFFECTS,Vaccination,Anabolism,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0042196,C3714634,AFFECTS,Vaccination,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0055670,C0220781,AFFECTS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0065764,C0042765,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Virulence,topp,biof,3,AFFECTS_TOPPafctBIOF
+C0065764,C3714634,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0185026,C0220781,AFFECTS,Plication,Anabolism,topp,biof,2,AFFECTS_TOPPafctBIOF
+C0185026,C3537152,AFFECTS,Plication,biological signaling,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0196775,C3714634,AFFECTS,Neuroplasty,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0237072,C0220781,AFFECTS,feeding procedures,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0393005,C0220781,AFFECTS,chlorodihydroxypyridine/potassium oxonate/tegafur,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0547070,C3714634,AFFECTS,Ablation,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0581602,C0220781,AFFECTS,Structural modification,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0600080,C1721019,AFFECTS,Stretching exercises,Virus Attachment,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0600080,C3714634,AFFECTS,Stretching exercises,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C0920425,C0013203,AFFECTS,cancer therapy,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1261381,C0220781,AFFECTS,Destructive procedure (surgical),Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1293130,C3714634,AFFECTS,Stabilization,Biological Processes,topp,biof,1,AFFECTS_TOPPafctBIOF
+C1511790,C0220781,AFFECTS,Detection,Anabolism,topp,biof,1,AFFECTS_TOPPafctBIOF
+C2827774,C0013203,AFFECTS,Current Therapy,Drug resistance,topp,biof,1,AFFECTS_TOPPafctBIOF

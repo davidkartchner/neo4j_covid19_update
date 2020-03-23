@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007584,C0017351,USES,Cell Count,IGH gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C0017375,USES,Cell Count,tat Genes,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C0017376,USES,Cell Count,"Genes, Viral",lbpr,gngm,6,USES_LBPRusesGNGM
+C0007584,C0022457,USES,Cell Count,K-ras Oncogene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C0022959,USES,Cell Count,LacZ Genes,lbpr,gngm,5,USES_LBPRusesGNGM
+C0007584,C0042720,USES,Cell Count,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C0162728,USES,Cell Count,"Genes, Plant",lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C0206414,USES,Cell Count,"Genes, Reporter",lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1257902,USES,Cell Count,Jumping Genes,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1332838,USES,Cell Count,Candidate Disease Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1335144,USES,Cell Count,Orthologous Gene,lbpr,gngm,2,USES_LBPRusesGNGM
+C0007584,C1335621,USES,Cell Count,PDLIM4 wt Allele,lbpr,gngm,2,USES_LBPRusesGNGM
+C0007584,C1413345,USES,Cell Count,CEPA gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1423554,USES,Cell Count,P2RY8 gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1511573,USES,Cell Count,Cyclic AMP Response Element,lbpr,gngm,1,USES_LBPRusesGNGM
+C0007584,C1563761,USES,Cell Count,"Genes, Mitochondrial",lbpr,gngm,1,USES_LBPRusesGNGM
+C0007594,C0206414,USES,Cell fusion procedure,"Genes, Reporter",lbpr,gngm,1,USES_LBPRusesGNGM
+C0014441,C0486954,USES,Enzyme-Linked Immunosorbent Assay,"Human immunodeficiency virus, type I protein 24 antigen",lbpr,gngm,2,USES_LBPRusesGNGM
+C0014441,C1419310,USES,Enzyme-Linked Immunosorbent Assay,RBMY1A1 gene,lbpr,gngm,4,USES_LBPRusesGNGM
+C0016318,C1366527,USES,Fluorescent Antibody Technique,RTN4 gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0020985,C1419692,USES,Immunoblotting,RPLP1 gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0021069,C0599776,USES,Immunoprecipitation,RNA library,lbpr,gngm,1,USES_LBPRusesGNGM
+C0021069,C0751608,USES,Immunoprecipitation,cDNA Library,lbpr,gngm,1,USES_LBPRusesGNGM
+C0022885,C0022457,USES,Laboratory Procedures,K-ras Oncogene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0022885,C0079941,USES,Laboratory Procedures,Open Reading Frames,lbpr,gngm,2,USES_LBPRusesGNGM
+C0022885,C0085238,USES,Laboratory Procedures,"Genome, Bacterial",lbpr,gngm,1,USES_LBPRusesGNGM
+C0022885,C0872147,USES,Laboratory Procedures,DNA Library,lbpr,gngm,1,USES_LBPRusesGNGM
+C0022885,C1334043,USES,Laboratory Procedures,Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0026878,C1257902,USES,Mutagenicity Tests,Jumping Genes,lbpr,gngm,1,USES_LBPRusesGNGM
+C0040284,C0017339,USES,Tissue culture,"Genes, Bacterial",lbpr,gngm,1,USES_LBPRusesGNGM
+C0162801,C0042720,USES,Sequence Analysis,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C0162801,C0751608,USES,Sequence Analysis,cDNA Library,lbpr,gngm,2,USES_LBPRusesGNGM
+C0162801,C1334043,USES,Sequence Analysis,Homologous Gene,lbpr,gngm,12,USES_LBPRusesGNGM
+C0200363,C1257902,USES,Specimen preparation,Jumping Genes,lbpr,gngm,1,USES_LBPRusesGNGM
+C0200898,C0017429,USES,DNA analysis,"Genome, Human",lbpr,gngm,1,USES_LBPRusesGNGM
+C0200898,C1335440,USES,DNA analysis,Polymerase Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0200931,C1334043,USES,Polymerase chain reaction analysis,Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0200931,C1335440,USES,Polymerase chain reaction analysis,Polymerase Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0201709,C0206414,USES,Chemiluminescence assay,"Genes, Reporter",lbpr,gngm,1,USES_LBPRusesGNGM
+C0206691,C0042720,USES,Electroporation,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C0242831,C0017430,USES,Epitope Mapping,Genomic Library,lbpr,gngm,1,USES_LBPRusesGNGM
+C0474643,C1334043,USES,Antibody titer measurement,Homologous Gene,lbpr,gngm,3,USES_LBPRusesGNGM
+C0523891,C1334043,USES,Serum sodium measurement,Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0597452,C1415996,USES,Single-Cell Analysis,IGHV@ gene cluster,lbpr,gngm,1,USES_LBPRusesGNGM
+C0599953,C1336633,USES,Virus Inactivation,TK Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0679560,C0042720,USES,Genetic screening method,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C0679560,C1334043,USES,Genetic screening method,Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0751970,C1334043,USES,"Sequence Analysis, Protein",Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0752248,C0751608,USES,Gene Expression Profiling,cDNA Library,lbpr,gngm,1,USES_LBPRusesGNGM
+C0917791,C0042720,USES,Sequence Determinations,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C0947630,C0042720,USES,Scientific Study,Viral Genome,lbpr,gngm,2,USES_LBPRusesGNGM
+C0947630,C1332838,USES,Scientific Study,Candidate Disease Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C0947630,C1334435,USES,Scientific Study,Luc Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C1294356,C0440471,USES,Detection of virus procedure,Genetic Materials,lbpr,gngm,1,USES_LBPRusesGNGM
+C1450269,C0206414,USES,Luminescent Measurements,"Genes, Reporter",lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0017374,USES,Assay,Synthetic Genes,lbpr,gngm,2,USES_LBPRusesGNGM
+C1510438,C0017429,USES,Assay,"Genome, Human",lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0022457,USES,Assay,K-ras Oncogene,lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0022959,USES,Assay,LacZ Genes,lbpr,gngm,3,USES_LBPRusesGNGM
+C1510438,C0042720,USES,Assay,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0206414,USES,Assay,"Genes, Reporter",lbpr,gngm,9,USES_LBPRusesGNGM
+C1510438,C0598467,USES,Assay,chimeric gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0872147,USES,Assay,DNA Library,lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C0913423,USES,Assay,methionylglutamic acid,lbpr,gngm,1,USES_LBPRusesGNGM
+C1510438,C1332838,USES,Assay,Candidate Disease Gene,lbpr,gngm,2,USES_LBPRusesGNGM
+C1510438,C1334435,USES,Assay,Luc Gene,lbpr,gngm,28,USES_LBPRusesGNGM
+C1510438,C1511573,USES,Assay,Cyclic AMP Response Element,lbpr,gngm,28,USES_LBPRusesGNGM
+C2347644,C1335144,USES,Positive Selection,Orthologous Gene,lbpr,gngm,3,USES_LBPRusesGNGM
+C2698870,C1517495,USES,Precursor Plasma Cell Count,Gene Feature,lbpr,gngm,1,USES_LBPRusesGNGM
+C3146302,C1257902,USES,Mutagenesis Procedure,Jumping Genes,lbpr,gngm,4,USES_LBPRusesGNGM
+C3484173,C1334043,USES,Vaccination panel,Homologous Gene,lbpr,gngm,2,USES_LBPRusesGNGM
+C4284307,C0042720,USES,RNA Isolation,Viral Genome,lbpr,gngm,1,USES_LBPRusesGNGM
+C4318456,C1334043,USES,Zaire Ebolavirus Measurement,Homologous Gene,lbpr,gngm,1,USES_LBPRusesGNGM
+C4319105,C0042720,USES,Ribonucleic Acid Measurement,Viral Genome,lbpr,gngm,2,USES_LBPRusesGNGM

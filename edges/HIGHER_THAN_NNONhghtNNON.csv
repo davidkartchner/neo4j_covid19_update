@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0028630,C0028630,HIGHER_THAN,Nucleotides,Nucleotides,nnon,nnon,8,HIGHER_THAN_NNONhghtNNON
+C0035736,C0033755,HIGHER_THAN,"RNA, Viral",Proviruses,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0035736,C0035736,HIGHER_THAN,"RNA, Viral","RNA, Viral",nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0045186,C0045186,HIGHER_THAN,2'-deoxyadenosine triphosphate,2'-deoxyadenosine triphosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0049935,C1699870,HIGHER_THAN,7-methyl-diguanosine triphosphate,m7GpppA,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0071360,C0032400,HIGHER_THAN,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",Poly A,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0206415,C0206415,HIGHER_THAN,Oligonucleotide Primers,Oligonucleotide Primers,nnon,nnon,5,HIGHER_THAN_NNONhghtNNON
+C0206416,C0206415,HIGHER_THAN,DNA Primers,Oligonucleotide Primers,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0599013,C0599013,HIGHER_THAN,aptamer,aptamer,nnon,nnon,4,HIGHER_THAN_NNONhghtNNON
+C0887909,C0028630,HIGHER_THAN,"RNA, Untranslated",Nucleotides,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C1519595,C0028630,HIGHER_THAN,Transcript,Nucleotides,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C1519595,C0035736,HIGHER_THAN,Transcript,"RNA, Viral",nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1519595,C1519595,HIGHER_THAN,Transcript,Transcript,nnon,nnon,3,HIGHER_THAN_NNONhghtNNON
+C1567953,C1567954,HIGHER_THAN,DNA Aptamers,RNA Aptamers,nnon,nnon,3,HIGHER_THAN_NNONhghtNNON
+C2930586,C1519595,HIGHER_THAN,Short Hairpin RNA,Transcript,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C2982391,C0028630,HIGHER_THAN,Long Intergenic Non-Protein Coding RNA,Nucleotides,nnon,nnon,3,HIGHER_THAN_NNONhghtNNON
+C2982391,C2982391,HIGHER_THAN,Long Intergenic Non-Protein Coding RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C3272452,C3272452,HIGHER_THAN,Single-Stranded RNA,Single-Stranded RNA,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C3830308,C2982391,HIGHER_THAN,Epstein-Barr Virus Early RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON

@@ -1,0 +1,76 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001480,C1148870,AUGMENTS,Adenosine Triphosphate,RNA helicase activity,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0001480,C1511695,AUGMENTS,Adenosine Triphosphate,DNA Sequence Rearrangement,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0003320,C0017262,AUGMENTS,Antigens,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0003682,C0034865,AUGMENTS,Arabinose,"Recombination, Genetic",bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0003682,C0598312,AUGMENTS,Arabinose,DNA Replication,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0003682,C1171362,AUGMENTS,Arabinose,protein expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0008377,C0040649,AUGMENTS,Cholesterol,"Transcription, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C0020202,AUGMENTS,DNA,Crossbreeding,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C0026882,AUGMENTS,DNA,Mutation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C0034865,AUGMENTS,DNA,"Recombination, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C0035380,AUGMENTS,DNA,Reverse Transcription,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C0040649,AUGMENTS,DNA,"Transcription, Genetic",bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0012854,C0599773,AUGMENTS,DNA,Homologous Recombination,bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0012854,C1148756,AUGMENTS,DNA,telomerase activity,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012854,C1158512,AUGMENTS,DNA,recombinational repair,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0012935,C0034865,AUGMENTS,"DNA, Single-Stranded","Recombination, Genetic",bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0016945,C1171362,AUGMENTS,Galactose,protein expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0017215,C0034865,AUGMENTS,GC Rich Sequence,"Recombination, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0018284,C0017262,AUGMENTS,Growth Factor,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0018330,C1515669,AUGMENTS,Guanosine,mRNA Export,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0028606,C0040649,AUGMENTS,Nucleic Acids,"Transcription, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0028606,C0598496,AUGMENTS,Nucleic Acids,Gene Silencing,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0028928,C1513838,AUGMENTS,Oleic Acid,NFKB Signaling Pathway,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0031617,C1152412,AUGMENTS,Lecithin,RNA-directed RNA polymerase activity,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0032136,C0040649,AUGMENTS,Plasmids,"Transcription, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0032136,C0598496,AUGMENTS,Plasmids,Gene Silencing,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0032136,C0678713,AUGMENTS,Plasmids,DNA template,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0033607,C1148846,AUGMENTS,Protease Inhibitors,RNA Binding,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0034987,C3158452,AUGMENTS,"Regulatory Sequences, Nucleic Acid","transcription, RNA-templated",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035693,C0040649,AUGMENTS,"RNA, Double-Stranded","Transcription, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035693,C0376452,AUGMENTS,"RNA, Double-Stranded",DNA Methylation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035693,C0598496,AUGMENTS,"RNA, Double-Stranded",Gene Silencing,bacs,genf,3,AUGMENTS_BACSaugmGENF
+C0035693,C1136031,AUGMENTS,"RNA, Double-Stranded",RNA Interference,bacs,genf,11,AUGMENTS_BACSaugmGENF
+C0035693,C1519619,AUGMENTS,"RNA, Double-Stranded",Translational Repression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035693,C2247634,AUGMENTS,"RNA, Double-Stranded",stress granule assembly,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035696,C0017262,AUGMENTS,"RNA, Messenger",Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035696,C0282572,AUGMENTS,"RNA, Messenger","Frameshifting, Ribosomal",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035696,C1519613,AUGMENTS,"RNA, Messenger",Translation Initiation,bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0035703,C2610186,AUGMENTS,"RNA, Ribosomal, 18S","nuclear mRNA cis splicing, via spliceosome",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035711,C0017262,AUGMENTS,Transfer RNA,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035711,C0017263,AUGMENTS,Transfer RNA,Gene Expression Regulation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035711,C0282629,AUGMENTS,Transfer RNA,Virus Assembly,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0035711,C1136031,AUGMENTS,Transfer RNA,RNA Interference,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0037494,C0034865,AUGMENTS,Sodium Chloride,"Recombination, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0079925,C0282572,AUGMENTS,Antisense Oligonucleotides,"Frameshifting, Ribosomal",bacs,genf,6,AUGMENTS_BACSaugmGENF
+C0082774,C0017262,AUGMENTS,"RNA, Guide",Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0086860,C0017262,AUGMENTS,promoter,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0086860,C0040649,AUGMENTS,promoter,"Transcription, Genetic",bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0086860,C1152412,AUGMENTS,promoter,RNA-directed RNA polymerase activity,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0086860,C1156210,AUGMENTS,promoter,chromatin remodeling,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0162772,C0026882,AUGMENTS,Reactive Oxygen Species,Mutation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0178555,C0017262,AUGMENTS,chemical cofactor,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0242494,C1515669,AUGMENTS,Poly(A) Tail,mRNA Export,bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0242494,C1519613,AUGMENTS,Poly(A) Tail,Translation Initiation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0242611,C0282572,AUGMENTS,"Codon, Terminator","Frameshifting, Ribosomal",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600493,C1158726,AUGMENTS,5' Untranslated Regions,mRNA cleavage,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600493,C1519614,AUGMENTS,5' Untranslated Regions,Genetic Translation Process,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600508,C0040649,AUGMENTS,Response Elements,"Transcription, Genetic",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600508,C1158816,AUGMENTS,Response Elements,mRNA transcription,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600680,C0017262,AUGMENTS,Untranslated Regions,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600680,C1171362,AUGMENTS,Untranslated Regions,protein expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0600680,C3268336,AUGMENTS,Untranslated Regions,cap-independent translational initiation,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C0887859,C0597600,AUGMENTS,Intergenic Region,Transcription Termination,bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0949639,C0040649,AUGMENTS,Transcription Initiation Site,"Transcription, Genetic",bacs,genf,2,AUGMENTS_BACSaugmGENF
+C0969709,C0017262,AUGMENTS,Serum Response Element,Gene Expression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C1099354,C0598496,AUGMENTS,"RNA, Small Interfering",Gene Silencing,bacs,genf,3,AUGMENTS_BACSaugmGENF
+C1099354,C1136031,AUGMENTS,"RNA, Small Interfering",RNA Interference,bacs,genf,11,AUGMENTS_BACSaugmGENF
+C1099354,C1152412,AUGMENTS,"RNA, Small Interfering",RNA-directed RNA polymerase activity,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C1099354,C1156212,AUGMENTS,"RNA, Small Interfering",chromatin silencing,bacs,genf,2,AUGMENTS_BACSaugmGENF
+C1101610,C0282572,AUGMENTS,MicroRNAs,"Frameshifting, Ribosomal",bacs,genf,1,AUGMENTS_BACSaugmGENF
+C1101610,C0598496,AUGMENTS,MicroRNAs,Gene Silencing,bacs,genf,8,AUGMENTS_BACSaugmGENF
+C1101610,C1136031,AUGMENTS,MicroRNAs,RNA Interference,bacs,genf,5,AUGMENTS_BACSaugmGENF
+C1101610,C1519619,AUGMENTS,MicroRNAs,Translational Repression,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C1764827,C1257825,AUGMENTS,Isolate - microorganism,Genomic Stability,bacs,genf,1,AUGMENTS_BACSaugmGENF
+C2936590,C0282572,AUGMENTS,Riboswitch,"Frameshifting, Ribosomal",bacs,genf,2,AUGMENTS_BACSaugmGENF

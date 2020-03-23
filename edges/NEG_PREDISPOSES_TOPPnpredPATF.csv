@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005841,C0040038,NEG_PREDISPOSES,Blood Transfusion,Thromboembolism,topp,patf,1,NEG_PREDISPOSES_TOPPnpredPATF
+C0042196,C0021376,NEG_PREDISPOSES,Vaccination,Chronic inflammation,topp,patf,1,NEG_PREDISPOSES_TOPPnpredPATF
+C0042196,C0242781,NEG_PREDISPOSES,Vaccination,disease transmission,topp,patf,1,NEG_PREDISPOSES_TOPPnpredPATF
+C0679637,C0040053,NEG_PREDISPOSES,major surgery,Thrombosis,topp,patf,1,NEG_PREDISPOSES_TOPPnpredPATF
+C0679651,C0161816,NEG_PREDISPOSES,directive therapy,Cardiac complication,topp,patf,1,NEG_PREDISPOSES_TOPPnpredPATF

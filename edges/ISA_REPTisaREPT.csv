@@ -1,0 +1,22 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020864,C0035161,ISA,Iguanas,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0023916,C0035161,ISA,Lizards,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0037382,C0035161,ISA,Snakes,Reptiles,rept,rept,4,ISA_REPTisaREPT
+C0327167,C0035161,ISA,Alligator mississippiensis,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0327213,C0035161,ISA,Iguana iguana,Reptiles,rept,rept,1,ISA_REPTisaREPT
+C0327221,C0023916,ISA,Anolis carolinensis,Lizards,rept,rept,3,ISA_REPTisaREPT
+C0327230,C0023916,ISA,Tiliqua,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327237,C0023916,ISA,Trachydosaurus rugosus,Lizards,rept,rept,18,ISA_REPTisaREPT
+C0327268,C0023916,ISA,Heloderma suspectum,Lizards,rept,rept,2,ISA_REPTisaREPT
+C0327300,C0037382,ISA,Python regius,Snakes,rept,rept,2,ISA_REPTisaREPT
+C0327434,C0037382,ISA,Naja mossambica,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327473,C0037382,ISA,Bungarus multicinctus,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0327539,C0206317,ISA,Crotalus durissus,Crotalus,rept,rept,1,ISA_REPTisaREPT
+C0327571,C0037382,ISA,Trimeresurus mucrosquamatus,Snakes,rept,rept,1,ISA_REPTisaREPT
+C0999068,C0041412,ISA,Caretta caretta,Turtle,rept,rept,2,ISA_REPTisaREPT
+C0999068,C0327136,ISA,Caretta caretta,Genus Caretta (organism),rept,rept,1,ISA_REPTisaREPT
+C1005396,C0206281,ISA,Thamnophis sirtalis,Thamnophis,rept,rept,1,ISA_REPTisaREPT
+C1016267,C0327292,ISA,Corallus annulatus,Genus Corallus,rept,rept,1,ISA_REPTisaREPT
+C1062411,C0206304,ISA,Apodora papuana,Genus Python (organism),rept,rept,1,ISA_REPTisaREPT
+C1070723,C0327176,ISA,Gekko japonicus,Geckos,rept,rept,1,ISA_REPTisaREPT
+C1188007,C0035161,ISA,Pogona vitticeps,Reptiles,rept,rept,1,ISA_REPTisaREPT

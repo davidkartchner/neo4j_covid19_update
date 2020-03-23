@@ -1,0 +1,362 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008952,C0008059,TREATS,Clinic Visits,Child,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0009449,C0851286,TREATS,Communicable Disease Control,Staff,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C0008059,TREATS,Consultation,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C0008100,TREATS,Consultation,"Child, Preschool",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C0009932,TREATS,Consultation,Control Groups,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0009818,C0020052,TREATS,Consultation,Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C0086418,TREATS,Consultation,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C0687759,TREATS,Consultation,traveler,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0009818,C1611835,TREATS,Consultation,Specialist,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0010210,C0033167,TREATS,Counseling,Prisoners,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0010210,C0206194,TREATS,Counseling,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0010210,C0851286,TREATS,Counseling,Staff,hlca,humn,6,TREATS_HLCAtrtsHUMN
+C0010337,C0008059,TREATS,Care of intensive care unit patient,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0010337,C0206194,TREATS,Care of intensive care unit patient,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0010337,C0870602,TREATS,Care of intensive care unit patient,geriatric patients,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0011017,C0020052,TREATS,"Day Care, Medical",Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0011211,C0682134,TREATS,Delivery of Health Care,citizen,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0011929,C0086418,TREATS,Diagnostic Services,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013164,C0150775,TREATS,Drug Compounding,Social Networks,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0013194,C0008059,TREATS,Drug Packaging,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013194,C0026092,TREATS,Drug Packaging,Migrant Workers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013194,C0086282,TREATS,Drug Packaging,Family member,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013194,C0086418,TREATS,Drug Packaging,Homo sapiens,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0013194,C0682201,TREATS,Drug Packaging,middle class,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013194,C0871489,TREATS,Drug Packaging,teams,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013194,C1522486,TREATS,Drug Packaging,Professional Organization or Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013961,C0001675,TREATS,Emergency medical service,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013961,C0008059,TREATS,Emergency medical service,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013961,C0026093,TREATS,Emergency medical service,Migrants,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0013961,C0680681,TREATS,Emergency medical service,victim,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0013961,C2700280,TREATS,Emergency medical service,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0017313,C0020052,TREATS,patient care,Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0017463,C0206194,TREATS,Geriatric Assessment,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018738,C0238598,TREATS,Health Promotion,Young Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018738,C0259853,TREATS,Health Promotion,Educator,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0008059,TREATS,Health Services,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0018747,C0026093,TREATS,Health Services,Migrants,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C0018747,C0031831,TREATS,Health Services,Physicians,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0033176,TREATS,Health Services,Private Sector,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0034961,TREATS,Health Services,Refugees,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0018747,C0086418,TREATS,Health Services,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0206194,TREATS,Health Services,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0240072,TREATS,Health Services,Jamaican,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0596910,TREATS,Health Services,mental health personnel,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0680413,TREATS,Health Services,civilian,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0682134,TREATS,Health Services,citizen,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C0870646,TREATS,Health Services,High Risk Populations,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0018747,C1955874,TREATS,Health Services,Foreigners,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019948,C0008059,TREATS,Hospital Administration,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0001675,TREATS,Hospitalization,Adult,hlca,humn,6,TREATS_HLCAtrtsHUMN
+C0019993,C0001792,TREATS,Hospitalization,Elderly (population group),hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0019993,C0008059,TREATS,Hospitalization,Child,hlca,humn,67,TREATS_HLCAtrtsHUMN
+C0019993,C0008098,TREATS,Hospitalization,"Child, Hospitalized",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0020052,TREATS,Hospitalization,Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0021270,TREATS,Hospitalization,Infant,hlca,humn,16,TREATS_HLCAtrtsHUMN
+C0019993,C0021294,TREATS,Hospitalization,"Infant, Premature",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0029039,TREATS,Hospitalization,Is an only child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0038492,TREATS,Hospitalization,student,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0150775,TREATS,Hospitalization,Social Networks,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0206194,TREATS,Hospitalization,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0684030,TREATS,Hospitalization,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C0870602,TREATS,Hospitalization,geriatric patients,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0019993,C0870668,TREATS,Hospitalization,hospitalized patients,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0019993,C1999167,TREATS,Hospitalization,Old age,hlca,humn,14,TREATS_HLCAtrtsHUMN
+C0019993,C2348228,TREATS,Hospitalization,Source Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C2700280,TREATS,Hospitalization,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0019993,C2986530,TREATS,Hospitalization,Intervention Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0021682,C0035962,TREATS,Health Insurance,Rural Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0021688,C1999167,TREATS,"Insurance, Long-Term Care",Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0023977,C0008059,TREATS,long-term care,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0023977,C0015576,TREATS,long-term care,Family,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0023977,C0021270,TREATS,long-term care,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0025355,C0206194,TREATS,Mental Health Services,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0025355,C0680681,TREATS,Mental Health Services,victim,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0030231,C1516213,TREATS,Palliative Care,Cancer Patient,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0030672,C0008059,TREATS,Patient Acceptance of Health Care,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030672,C0087134,TREATS,Patient Acceptance of Health Care,Uninsured,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030672,C0206194,TREATS,Patient Acceptance of Health Care,Survivors,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0030672,C0240072,TREATS,Patient Acceptance of Health Care,Jamaican,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030672,C1999167,TREATS,Patient Acceptance of Health Care,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C0001675,TREATS,Patient Discharge,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C0009932,TREATS,Patient Discharge,Control Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C0020052,TREATS,Patient Discharge,Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C0086418,TREATS,Patient Discharge,Homo sapiens,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0030685,C0206194,TREATS,Patient Discharge,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C0242821,TREATS,Patient Discharge,Human body,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C2700280,TREATS,Patient Discharge,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030685,C2986530,TREATS,Patient Discharge,Intervention Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0030700,C0001675,TREATS,Patient Readmission,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0031809,C0008059,TREATS,Physical Examination,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0031809,C0009932,TREATS,Physical Examination,Control Groups,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0031809,C0042960,TREATS,Physical Examination,Voluntary Workers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0031809,C0078988,TREATS,Physical Examination,Asians,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0031809,C1516213,TREATS,Physical Examination,Cancer Patient,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033052,C0026591,TREATS,Prenatal care,Mother (person),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033080,C0026192,TREATS,Prescription procedure,Minority Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033101,C0009932,TREATS,pretesting,Control Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033109,C0450048,TREATS,Preventive Health Services,Passenger,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033137,C0086944,TREATS,Primary Health Care,Rural Communities,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033137,C0871489,TREATS,Primary Health Care,teams,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0033333,C0221457,TREATS,Program Development,Teacher,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0034115,C0015576,TREATS,Paracentesis,Family,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0034115,C0043210,TREATS,Paracentesis,Woman,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0035649,C1551706,TREATS,Risk Management,Artic Indian,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0043113,C0008059,TREATS,Wellness Programs,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085557,C0008059,TREATS,Infectious disease prevention / control,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0085557,C0086418,TREATS,Infectious disease prevention / control,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085557,C0599987,TREATS,Infectious disease prevention / control,Employee,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085557,C2348484,TREATS,Infectious disease prevention / control,Exposed Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085559,C0021289,TREATS,intensive care,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085559,C0028829,TREATS,intensive care,Octogenarians,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085559,C0679924,TREATS,intensive care,professional occupation status,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085971,C0001675,TREATS,Case management (procedure),Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0085971,C0008059,TREATS,Case management (procedure),Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0086208,C0687759,TREATS,Emergency Health Services,traveler,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150270,C0086418,TREATS,Medication Management,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150600,C0554244,TREATS,Advice,Maker (occupation),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150600,C0687759,TREATS,Advice,traveler,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0150600,C0851286,TREATS,Advice,Staff,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150600,C1704784,TREATS,Advice,Owner,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150600,C1706077,TREATS,Advice,user - individual,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0150600,C1707496,TREATS,Advice,Consumer,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0162648,C2700280,TREATS,Telemedicine,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0184634,C0008059,TREATS,Ventilator care,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0184666,C0001675,TREATS,Hospital admission,Adult,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C0008059,TREATS,Hospital admission,Child,hlca,humn,17,TREATS_HLCAtrtsHUMN
+C0184666,C0021270,TREATS,Hospital admission,Infant,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C0025266,TREATS,Hospital admission,Male population group,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C0031831,TREATS,Hospital admission,Physicians,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0184666,C0043210,TREATS,Hospital admission,Woman,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0184666,C0242444,TREATS,Hospital admission,Population at Risk,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C1320929,TREATS,Hospital admission,Attending physician,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0184666,C1999167,TREATS,Hospital admission,Old age,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C2700280,TREATS,Hospital admission,World,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C2986530,TREATS,Hospital admission,Intervention Group,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184673,C0008059,TREATS,Emergency hospital admission,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0204695,C0001675,TREATS,Feeding patient,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0204695,C0009932,TREATS,Feeding patient,Control Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0204695,C0021289,TREATS,Feeding patient,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0205787,C1518563,TREATS,Health Campaigns,Older Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0206082,C0001675,TREATS,Immunization Programs,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0206082,C0008059,TREATS,Immunization Programs,Child,hlca,humn,7,TREATS_HLCAtrtsHUMN
+C0206082,C0086418,TREATS,Immunization Programs,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0206082,C0684030,TREATS,Immunization Programs,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0206082,C1999167,TREATS,Immunization Programs,Old age,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0220908,C0005795,TREATS,Screening procedure,Blood donor,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0008059,TREATS,Screening procedure,Child,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C0220908,C0013018,TREATS,Screening procedure,Donor person,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0220908,C0025266,TREATS,Screening procedure,Male population group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0026092,TREATS,Screening procedure,Migrant Workers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0026753,TREATS,Screening procedure,Multiple Birth Offspring,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0034961,TREATS,Screening procedure,Refugees,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0043210,TREATS,Screening procedure,Woman,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0220908,C0086418,TREATS,Screening procedure,Homo sapiens,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0220908,C0150775,TREATS,Screening procedure,Social Networks,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0220908,C0282163,TREATS,Screening procedure,Immigrant (person),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0401783,TREATS,Screening procedure,Adjudicator,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0450048,TREATS,Screening procedure,Passenger,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0682323,TREATS,Screening procedure,Partner in relationship,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0220908,C0687759,TREATS,Screening procedure,traveler,hlca,humn,7,TREATS_HLCAtrtsHUMN
+C0220908,C0870646,TREATS,Screening procedure,High Risk Populations,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C0870668,TREATS,Screening procedure,hospitalized patients,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0220908,C0871685,TREATS,Screening procedure,Clinician,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C1708335,TREATS,Screening procedure,Healthy Volunteers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C1709854,TREATS,Screening procedure,Recipient,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0220908,C1711305,TREATS,Screening procedure,Sponsor (person),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C2348484,TREATS,Screening procedure,Exposed Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0220908,C4288965,TREATS,Screening procedure,Hematopoietic Cell Transplantation Recipient,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0242650,C0871685,TREATS,Futile Treatment,Clinician,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0242963,C0021288,TREATS,Perinatal Care,Low Birth Weight Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0259945,C0008059,TREATS,hospital care,Child,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0259945,C0021289,TREATS,hospital care,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0262685,C1553362,TREATS,Delegation,Catalonian,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0262754,C0021289,TREATS,drug management,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0278329,C0001675,TREATS,prescribed,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0278329,C0008059,TREATS,prescribed,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0278329,C0029039,TREATS,prescribed,Is an only child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0278329,C0871685,TREATS,prescribed,Clinician,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0302186,C0221460,TREATS,telephone call,Farmers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0422202,C0011327,TREATS,Notifications,Dental Assistants,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0436120,C0021270,TREATS,"Physical examination, complete",Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0441587,C0005795,TREATS,Clinical act of insertion,Blood donor,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0441587,C0013018,TREATS,Clinical act of insertion,Donor person,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0441587,C0040288,TREATS,Clinical act of insertion,Tissue Donors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0441587,C0086418,TREATS,Clinical act of insertion,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0441587,C0683626,TREATS,Clinical act of insertion,human group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0541653,C0008059,TREATS,Chart evaluation by healthcare professional,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0541653,C0150775,TREATS,Chart evaluation by healthcare professional,Social Networks,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0545084,C0008059,TREATS,Outpatient visits,Child,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0545084,C0043210,TREATS,Outpatient visits,Woman,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0553618,C0008059,TREATS,emergency visit,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0557038,C0001675,TREATS,Providing material,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0558024,C0086418,TREATS,Functional behavioral assessment,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0558024,C0150775,TREATS,Functional behavioral assessment,Social Networks,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0581122,C0008059,TREATS,Asthma severity,Child,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0582103,C0001675,TREATS,Medical Examination,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0582103,C0026093,TREATS,Medical Examination,Migrants,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0582103,C0034961,TREATS,Medical Examination,Refugees,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0582103,C1711305,TREATS,Medical Examination,Sponsor (person),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0586082,C0008059,TREATS,Emergency department patient visit,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0587569,C0687759,TREATS,Physician service,traveler,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0589121,C0009932,TREATS,Follow-up visit,Control Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0600290,C0021289,TREATS,Hospital Readmissions,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0679226,C0086418,TREATS,disorder analysis,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0679830,C0001675,TREATS,patient assessment,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0679831,C0871489,TREATS,Patient History,teams,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0679886,C0033176,TREATS,health services by provider,Private Sector,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0699943,C0033176,TREATS,Public health service,Private Sector,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0730229,C0008059,TREATS,Medical records review,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0733511,C0041935,TREATS,Medical Surveillance,Urban Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0733511,C0086418,TREATS,Medical Surveillance,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0008059,TREATS,Challenge,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0011441,TREATS,Challenge,Dentist,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0015576,TREATS,Challenge,Family,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0805586,C0021270,TREATS,Challenge,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0021289,TREATS,Challenge,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0031831,TREATS,Challenge,Physicians,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0805586,C0033011,TREATS,Challenge,Pregnant Women,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0035173,TREATS,Challenge,Research Personnel,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0805586,C0085537,TREATS,Challenge,Caregiver,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0086418,TREATS,Challenge,Homo sapiens,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0805586,C0242856,TREATS,Challenge,Veterinarian,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0376387,TREATS,Challenge,Transplant Recipients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0402112,TREATS,Challenge,Scientist,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0680063,TREATS,Challenge,Offspring,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C0871685,TREATS,Challenge,Clinician,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0805586,C2700280,TREATS,Challenge,World,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C0805586,C2826212,TREATS,Challenge,Health Official,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0805586,C3812881,TREATS,Challenge,Author,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0848616,C0238606,TREATS,nursing Home Services,West Africans,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0850397,C0001675,TREATS,health information,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0850397,C0679924,TREATS,health information,professional occupation status,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0850397,C0687759,TREATS,health information,traveler,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C0871311,C0008059,TREATS,screening tests,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C0871311,C0021270,TREATS,screening tests,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1138559,C0221460,TREATS,Voluntary Programs,Farmers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0001675,TREATS,Evaluation procedure,Adult,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1261322,C0008059,TREATS,Evaluation procedure,Child,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C1261322,C0008098,TREATS,Evaluation procedure,"Child, Hospitalized",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0015576,TREATS,Evaluation procedure,Family,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0020052,TREATS,Evaluation procedure,Households,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1261322,C0031831,TREATS,Evaluation procedure,Physicians,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0033176,TREATS,Evaluation procedure,Private Sector,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0034961,TREATS,Evaluation procedure,Refugees,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0086418,TREATS,Evaluation procedure,Homo sapiens,hlca,humn,7,TREATS_HLCAtrtsHUMN
+C1261322,C0150775,TREATS,Evaluation procedure,Social Networks,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0206194,TREATS,Evaluation procedure,Survivors,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1261322,C0260101,TREATS,Evaluation procedure,Sick child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0282204,TREATS,Evaluation procedure,Native Americans,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0680681,TREATS,Evaluation procedure,victim,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0687744,TREATS,Evaluation procedure,Social group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C0870602,TREATS,Evaluation procedure,geriatric patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C1611835,TREATS,Evaluation procedure,Specialist,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C1707496,TREATS,Evaluation procedure,Consumer,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C1883562,TREATS,Evaluation procedure,Working Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C1999167,TREATS,Evaluation procedure,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C2986530,TREATS,Evaluation procedure,Intervention Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1261322,C3178774,TREATS,Evaluation procedure,Laboratory Personnel,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1283821,C0020052,TREATS,Barrier nursing,Households,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1285223,C0008059,TREATS,Death notification,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1285223,C1999167,TREATS,Death notification,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1288295,C2700280,TREATS,Preparation - action,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0001675,TREATS,Introduction procedure,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0008059,TREATS,Introduction procedure,Child,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C1293116,C0020052,TREATS,Introduction procedure,Households,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C1293116,C0021289,TREATS,Introduction procedure,"Infant, Newborn",hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1293116,C0043210,TREATS,Introduction procedure,Woman,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0086418,TREATS,Introduction procedure,Homo sapiens,hlca,humn,6,TREATS_HLCAtrtsHUMN
+C1293116,C0205653,TREATS,Introduction procedure,Adolescent (age group),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0683626,TREATS,Introduction procedure,human group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0851286,TREATS,Introduction procedure,Staff,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1293116,C0871463,TREATS,Introduction procedure,surgical patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1318955,C0008100,TREATS,Asthma management,"Child, Preschool",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1319069,C0001675,TREATS,Point-of-Care Testing,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1320387,C0008942,TREATS,Trauma therapy,Clients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1331096,C0015031,TREATS,vaccine delivery,Ethnic group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1331096,C0026192,TREATS,vaccine delivery,Minority Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1331096,C0086418,TREATS,vaccine delivery,Homo sapiens,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1512335,C0221460,TREATS,Harvest Procedure,Farmers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1514821,C0001792,TREATS,Registration,Elderly (population group),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1514821,C0086418,TREATS,Registration,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1514821,C0851286,TREATS,Registration,Staff,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1516879,C0008059,TREATS,Enrollment,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1516879,C0026092,TREATS,Enrollment,Migrant Workers,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1516879,C0205653,TREATS,Enrollment,Adolescent (age group),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1516879,C0682177,TREATS,Enrollment,College student,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1516879,C0870668,TREATS,Enrollment,hospitalized patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1516879,C1556093,TREATS,Enrollment,Filipino race,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1522577,C0001675,TREATS,follow-up,Adult,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C1522577,C0008059,TREATS,follow-up,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1522577,C0020052,TREATS,follow-up,Households,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C1522577,C0037179,TREATS,follow-up,Unmarried person,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1522577,C0206194,TREATS,follow-up,Survivors,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1522577,C0450048,TREATS,follow-up,Passenger,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1522577,C0687759,TREATS,follow-up,traveler,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1522577,C0851286,TREATS,follow-up,Staff,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1553687,C0008059,TREATS,public healthcare,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1555324,C0008059,TREATS,inpatient encounter,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1555324,C1999167,TREATS,inpatient encounter,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1706385,C0425104,TREATS,Device Evaluation Method,Shift worker,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1999110,C0150775,TREATS,Collecting Sample,Social Networks,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C1999123,C0086418,TREATS,Continued Surveillance,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2348625,C0683626,TREATS,Sweep,human group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2350596,C0086418,TREATS,Biosurveillance,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2359834,C0086418,TREATS,Additional assessment,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2718016,C0086418,TREATS,Compassionate Use,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2718026,C0402112,TREATS,Capacity Building,Scientist,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2735310,C1709854,TREATS,Care management,Recipient,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C2958078,C0031228,TREATS,Psychosocial care (regime/therapy),"Personnel, Hospital",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3165381,C0008059,TREATS,Promotion of hygiene,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3165381,C0085098,TREATS,Promotion of hygiene,Police,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3165426,C0009932,TREATS,educated Patient,Control Groups,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3176875,C0021289,TREATS,Asymptomatic screening,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3242284,C0080103,TREATS,Population Health,Relative (related person),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3494403,C0008059,TREATS,Tertiary Healthcare,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3655761,C0682134,TREATS,NHIS,citizen,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3658257,C1519427,TREATS,Childbirth Classes,South Asian,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3658272,C2700280,TREATS,Hazard Analysis and Critical Control Points,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3824919,C1999167,TREATS,Insurance claims,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3826004,C0008059,TREATS,Medical screening,Child,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C3826454,C0086418,TREATS,Diagnostic specimens,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3889687,C0021270,TREATS,Clinical Observation,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3889687,C0021289,TREATS,Clinical Observation,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3889687,C0043210,TREATS,Clinical Observation,Woman,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C3889687,C0086418,TREATS,Clinical Observation,Homo sapiens,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C3889687,C1999167,TREATS,Clinical Observation,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0001675,TREATS,Contacts,Adult,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C4036459,C0008059,TREATS,Contacts,Child,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C4036459,C0020052,TREATS,Contacts,Households,hlca,humn,15,TREATS_HLCAtrtsHUMN
+C4036459,C0028661,TREATS,Contacts,Nurses,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0030551,TREATS,Contacts,parent,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0038492,TREATS,Contacts,student,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C4036459,C0038495,TREATS,Contacts,"Students, Medical",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0086418,TREATS,Contacts,Homo sapiens,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C4036459,C0086944,TREATS,Contacts,Rural Communities,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0150775,TREATS,Contacts,Social Networks,hlca,humn,4,TREATS_HLCAtrtsHUMN
+C4036459,C0205653,TREATS,Contacts,Adolescent (age group),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0242444,TREATS,Contacts,Population at Risk,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0687744,TREATS,Contacts,Social group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C0851286,TREATS,Contacts,Staff,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C4036459,C0870646,TREATS,Contacts,High Risk Populations,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4036459,C2700280,TREATS,Contacts,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4072684,C0871463,TREATS,CNAP,surgical patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4082936,C0871463,TREATS,Hemodynamic Monitoring,surgical patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4279933,C0008059,TREATS,Vaccination Campaign,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4279933,C0242444,TREATS,Vaccination Campaign,Population at Risk,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4279933,C0684030,TREATS,Vaccination Campaign,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4279933,C1999167,TREATS,Vaccination Campaign,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C0001675,TREATS,Vaccination Coverage,Adult,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C4505148,C0001792,TREATS,Vaccination Coverage,Elderly (population group),hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C0008059,TREATS,Vaccination Coverage,Child,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C4505148,C0021270,TREATS,Vaccination Coverage,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C0205653,TREATS,Vaccination Coverage,Adolescent (age group),hlca,humn,2,TREATS_HLCAtrtsHUMN
+C4505148,C0680888,TREATS,Vaccination Coverage,target group,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C0684030,TREATS,Vaccination Coverage,high-risk group,hlca,humn,3,TREATS_HLCAtrtsHUMN
+C4505148,C1518563,TREATS,Vaccination Coverage,Older Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C1704221,TREATS,Vaccination Coverage,"Physicians, Family",hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505148,C1999167,TREATS,Vaccination Coverage,Old age,hlca,humn,5,TREATS_HLCAtrtsHUMN
+C4505149,C0039309,TREATS,Immunization Coverage,Target Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505149,C1999167,TREATS,Immunization Coverage,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
+C4505227,C0871463,TREATS,Early Goal-Directed Therapy,surgical patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
