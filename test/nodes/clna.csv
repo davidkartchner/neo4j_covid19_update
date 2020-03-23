@@ -1,0 +1,48 @@
+cui,type,name
+C0234724,clna,Secondary visual deviation
+C0366513,clna,Insulin regular:Mass:Pt:Dose:Qn
+C0488002,clna,Body temperature:Temp:Pt:Axillary:Qn
+C0488005,clna,Body temperature:Temperature:Point in time:Mouth:Quantitative
+C0488007,clna,Body temperature:Temp:Pt:Tympanic membrane:Qn
+C0488055,clna,Intravascular systolic:Pressure:Point in time:Arterial system:Quantitative
+C0488377,clna,QRS duration:Time:Point in time:Heart:Quantitative:EKG
+C0488414,clna,QT interval:Time:Point in time:Heart:Quantitative:EKG
+C0488478,clna,Apache II score:Function:Point in time:^Patient:Ordinal
+C0488789,clna,Work/Heart rate/Body surface area:Energy/Area:Point in time:Heart.ventricle.left:Quantitative
+C0550853,clna,human histocompatibility complex derived antigens-B:Type:Point in time:Whole blood:Nominal
+C0550854,clna,human histocompatibility complex derived antigens-C:Type:Point in time:Whole blood:Nominal
+C0550862,clna,human histocompatibility complex derived antigens-DR:Type:Point in time:Whole blood:Nomina
+C0798503,clna,Challenge:Type:Point in time:^Patient:Nominal
+C0801957,clna,Penicillin:Susc:Pt:Isolate:OrdQn
+C0802741,clna,Volume at 1.0 s post forced expiration/Vital capacity.forced:Volume Ratio:Point in time:Respiratory system:Quantitative
+C0851473,clna,temperature conditions
+C1277632,clna,Target systolic blood pressure
+C1316572,clna,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider}
+C1716529,clna,Social security number:Identifier:Point in time:^Patient:Nominal
+C1829939,clna,{Non-patient}
+C1953352,clna,"Amino acid change:Finding:Point in time:Whole blood/Tissue, unspecified:Nominal:Molecular Genetics"
+C1977902,clna,Iohexol renal clearance:Volume Rate:Point in time:Urine+Serum/Plasma:Quantitative
+C2359945,clna,Immunosuppressive drugs attachment:Find:Pt:^Patient:Doc
+C2360551,clna,Letter:Finding:Point in time:{Setting}:Document:{Provider}
+C2599617,clna,a wave
+C2707291,clna,Health conditions:-:Point in time:^Patient:-
+C2708732,clna,Clinical information:Finding:Point in time:^Patient:Narrative
+C2713234,clna,Mood:-:Point in time:^Patient:-
+C2741673,clna,Account number:Identifier:Point in time:^Patient:Nominal
+C2919552,clna,Survival time
+C2926606,clna,Procedure findings:Finding:Point in time:^Patient:Narrative
+C2960751,clna,Visual analog scale score
+C2979880,clna,Subjective:Finding:Point in time:^Patient:Narrative
+C3166387,clna,Suicidality
+C3167821,clna,Temperature.ambient:Temperature:Point in time:Room:Quantitative
+C3173575,clna,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal
+C3176928,clna,Condition status
+C3538984,clna,Social Risk Factor
+C3640049,clna,Appropriate Treatment
+C3699655,clna,Disease category
+C3827727,clna,Undetectable
+C3830527,clna,Detectable
+C4035091,clna,End-systolic volume
+C4255121,clna,Fever duration:Time:Point in time:^Patient:Quantitative
+C4255287,clna,Probable associated phenotype:Finding:Point in time:^Patient:Nominal
+C4283769,clna,Outdoor activity:Type:Pt:^Patient:Nom
