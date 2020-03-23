@@ -1,5 +1,5 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
-C0001271,C0243144,AFFECTS,Actins,Uptake,aapp,phsf,2,AFFECTS_AAPPafctPHSF
+C0001271,C0243144,AFFECTS,Actins,Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0001347,C0149784,AFFECTS,Acute-Phase Proteins,biological adaptation to stress,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0002520,C0242732,AFFECTS,Amino Acids,Tropism,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0002520,C0243144,AFFECTS,Amino Acids,Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
@@ -43,7 +43,7 @@ C0017968,C1328821,AFFECTS,Glycoproteins,tissue tropism,aapp,phsf,1,AFFECTS_AAPPa
 C0018850,C0149784,AFFECTS,Heat shock proteins,biological adaptation to stress,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0019046,C0020964,AFFECTS,Hemoglobin,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0019629,C0020964,AFFECTS,Histocompatibility Antigens Class I,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
-C0020838,C0020964,AFFECTS,Secretory Immunoglobulin A,Immunity,aapp,phsf,2,AFFECTS_AAPPafctPHSF
+C0020838,C0020964,AFFECTS,Secretory Immunoglobulin A,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0021017,C0020964,AFFECTS,Immunoglobulin Isotypes,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0021027,C0020964,AFFECTS,Immunoglobulins,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0021641,C0014272,AFFECTS,Insulin,Energy Metabolism,aapp,phsf,1,AFFECTS_AAPPafctPHSF
@@ -92,7 +92,7 @@ C0034805,C0243144,AFFECTS,Fc Receptor,Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0034805,C0751982,AFFECTS,Fc Receptor,Neutrophil Infiltration,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0034807,C0234073,AFFECTS,GABA-A Receptor,Neuronal excitation,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0034821,C0243144,AFFECTS,Low Density Lipoprotein Receptor,Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
-C0034845,C0243144,AFFECTS,Transferrin Receptor,Uptake,aapp,phsf,2,AFFECTS_AAPPafctPHSF
+C0034845,C0243144,AFFECTS,Transferrin Receptor,Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0034848,C1328821,AFFECTS,"Receptors, Virus",tissue tropism,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0034848,C2717801,AFFECTS,"Receptors, Virus",Viral Tropism,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0035552,C0014272,AFFECTS,Ribosomal Proteins,Energy Metabolism,aapp,phsf,1,AFFECTS_AAPPafctPHSF
@@ -158,7 +158,7 @@ C0086376,C0020964,AFFECTS,GTP-Binding Proteins,Immunity,aapp,phsf,1,AFFECTS_AAPP
 C0086661,C3714584,AFFECTS,MYC gene,"Transformation, function",aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0103306,C0042401,AFFECTS,angiotensin I (1-7),Vasodilation,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0108793,C0020964,AFFECTS,"Antigens, CD55",Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
-C0108801,C0243144,AFFECTS,"TFRC protein, human",Uptake,aapp,phsf,2,AFFECTS_AAPPafctPHSF
+C0108801,C0243144,AFFECTS,"TFRC protein, human",Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0122040,C0020964,AFFECTS,HLA-DRB1 antigen,Immunity,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0123263,C0243144,AFFECTS,"Receptors, IgG",Uptake,aapp,phsf,1,AFFECTS_AAPPafctPHSF
 C0128897,C0751982,AFFECTS,Monocyte Chemoattractant Protein-1,Neutrophil Infiltration,aapp,phsf,1,AFFECTS_AAPPafctPHSF

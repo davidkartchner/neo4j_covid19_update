@@ -55,7 +55,7 @@ C0003241,C0015767,PART_OF,Antibodies,Feline leukemia virus,aapp,virs,1,PART_OF_A
 C0003241,C0016215,PART_OF,Antibodies,Flavivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0019094,PART_OF,Antibodies,Tacaribe Complex Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0019183,PART_OF,Antibodies,"Adenoviruses, Canine",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0003241,C0019704,PART_OF,Antibodies,HIV-1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0003241,C0019704,PART_OF,Antibodies,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0021335,PART_OF,Antibodies,Bovine herpesvirus 1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0027984,PART_OF,Antibodies,Newcastle disease virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0029341,PART_OF,Antibodies,Orthomyxoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -79,7 +79,7 @@ C0003241,C0206544,PART_OF,Antibodies,"Respiratory Syncytial Virus, Bovine",aapp,
 C0003241,C0206545,PART_OF,Antibodies,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0206551,PART_OF,Antibodies,Thogotovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0206558,PART_OF,Antibodies,Simplexvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0003241,C0220847,PART_OF,Antibodies,Hepatitis C virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0003241,C0220847,PART_OF,Antibodies,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0318761,PART_OF,Antibodies,"Dengue virus, type 4",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0318787,PART_OF,Antibodies,Tembusu virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C0318793,PART_OF,Antibodies,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -100,9 +100,9 @@ C0003241,C0999806,PART_OF,Antibodies,Human papillomavirus 16,aapp,virs,1,PART_OF
 C0003241,C1012096,PART_OF,Antibodies,Human endogenous retrovirus K,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1024661,PART_OF,Antibodies,Yokose virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1145669,PART_OF,Antibodies,Influenza C Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0003241,C1175743,PART_OF,Antibodies,SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0003241,C1175743,PART_OF,Antibodies,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1258014,PART_OF,Antibodies,Human Metapneumovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0003241,C1258015,PART_OF,Antibodies,Henipavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0003241,C1258015,PART_OF,Antibodies,Henipavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1265386,PART_OF,Antibodies,Porcine circovirus type II,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1319861,PART_OF,Antibodies,Human parainfluenza viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0003241,C1676985,PART_OF,Antibodies,Human coronavirus HKU1,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -297,7 +297,7 @@ C0017278,C0220847,PART_OF,"Gene Products, env",Hepatitis C virus,aapp,virs,1,PAR
 C0017278,C0318759,PART_OF,"Gene Products, env","Dengue virus, type 2",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017278,C0318760,PART_OF,"Gene Products, env","Dengue virus, type 3",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017278,C0318761,PART_OF,"Gene Products, env","Dengue virus, type 4",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017278,C0318793,PART_OF,"Gene Products, env",Zika Virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017278,C0318793,PART_OF,"Gene Products, env",Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017278,C0376536,PART_OF,"Gene Products, env",Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017278,C0522424,PART_OF,"Gene Products, env",Simian-Human immunodeficiency virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017278,C0887881,PART_OF,"Gene Products, env",Jaagsiekte sheep retrovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -311,7 +311,7 @@ C0017278,C3698360,PART_OF,"Gene Products, env",Middle East Respiratory Syndrome 
 C0017279,C0004422,PART_OF,"Gene Products, gag",Avian leukosis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017279,C0014662,PART_OF,"Gene Products, gag","Infectious Anemia Virus, Equine",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017279,C0019682,PART_OF,"Gene Products, gag",HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017279,C0019704,PART_OF,"Gene Products, gag",HIV-1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017279,C0019704,PART_OF,"Gene Products, gag",HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017279,C0020094,PART_OF,"Gene Products, gag",Human T-lymphotropic virus 1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017279,C0024662,PART_OF,"Gene Products, gag",Mouse mammary tumor virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017279,C0024864,PART_OF,"Gene Products, gag",Mason-Pfizer monkey virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -371,17 +371,17 @@ C0017797,C0030391,PART_OF,Glutamine,"Parainfluenza Virus 2, Human",aapp,virs,1,P
 C0017797,C0042776,PART_OF,Glutamine,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017797,C0376526,PART_OF,Glutamine,human herpesvirus 8,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0002331,PART_OF,Glycoproteins,Alphavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017968,C0004419,PART_OF,Glycoproteins,Infectious bronchitis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017968,C0004419,PART_OF,Glycoproteins,Infectious bronchitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0006063,PART_OF,Glycoproteins,Bovine Viral Diarrhea Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0006395,PART_OF,Glycoproteins,Bunyaviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0008056,PART_OF,Glycoproteins,Chikungunya virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0009743,PART_OF,Glycoproteins,"Hemorrhagic Fever Virus, Crimean-Congo",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0011315,PART_OF,Glycoproteins,Dengue Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0012755,PART_OF,Glycoproteins,"Distemper Virus, Canine",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017968,C0013480,PART_OF,Glycoproteins,Ebola virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017968,C0013480,PART_OF,Glycoproteins,Ebola virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0014047,PART_OF,Glycoproteins,Japanese encephalitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0014049,PART_OF,Glycoproteins,Venezuelan equine encephalitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017968,C0014052,PART_OF,Glycoproteins,Tick-Borne Encephalitis Viruses,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017968,C0014052,PART_OF,Glycoproteins,Tick-Borne Encephalitis Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0014644,PART_OF,Glycoproteins,Epstein-Barr Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0016215,PART_OF,Glycoproteins,Flavivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0019090,PART_OF,Glycoproteins,Machupo virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -412,7 +412,7 @@ C0017968,C0032092,PART_OF,Glycoproteins,Plant Viruses,aapp,virs,1,PART_OF_AAPPpr
 C0017968,C0034497,PART_OF,Glycoproteins,Rabies virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0035236,PART_OF,Glycoproteins,Respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0035366,PART_OF,Glycoproteins,Retroviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017968,C0035614,PART_OF,Glycoproteins,Rift Valley fever virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017968,C0035614,PART_OF,Glycoproteins,Rift Valley fever virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0035691,PART_OF,Glycoproteins,RNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0035866,PART_OF,Glycoproteins,Ross river virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0035924,PART_OF,Glycoproteins,Rubella virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -449,7 +449,7 @@ C0017968,C0318356,PART_OF,Glycoproteins,Human virus,aapp,virs,1,PART_OF_AAPPprtf
 C0017968,C0318759,PART_OF,Glycoproteins,"Dengue virus, type 2",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0318793,PART_OF,Glycoproteins,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0318798,PART_OF,Glycoproteins,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0017968,C0318855,PART_OF,Glycoproteins,Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0017968,C0318855,PART_OF,Glycoproteins,Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0319016,PART_OF,Glycoproteins,Punta Toro phlebovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0376536,PART_OF,Glycoproteins,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0017968,C0546788,PART_OF,Glycoproteins,Parainfluenza Virus 5,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -606,16 +606,16 @@ C0025248,C0036636,PART_OF,Membrane Glycoproteins,Semliki forest virus,aapp,virs,
 C0025248,C0042776,PART_OF,Membrane Glycoproteins,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0079337,PART_OF,Membrane Glycoproteins,Feline Immunodeficiency Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0085150,PART_OF,Membrane Glycoproteins,Filoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0025248,C0206419,PART_OF,Membrane Glycoproteins,Genus: Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0025248,C0206419,PART_OF,Membrane Glycoproteins,Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0206497,PART_OF,Membrane Glycoproteins,Arenavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0206545,PART_OF,Membrane Glycoproteins,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0220847,PART_OF,Membrane Glycoproteins,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0318356,PART_OF,Membrane Glycoproteins,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0318793,PART_OF,Membrane Glycoproteins,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0318798,PART_OF,Membrane Glycoproteins,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0025248,C0318855,PART_OF,Membrane Glycoproteins,Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0025248,C0318855,PART_OF,Membrane Glycoproteins,Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0376536,PART_OF,Membrane Glycoproteins,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0025248,C0598902,PART_OF,Membrane Glycoproteins,murine nodule inducing virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0025248,C0598902,PART_OF,Membrane Glycoproteins,murine nodule inducing virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0682451,PART_OF,Membrane Glycoproteins,alphaherpesvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0751673,PART_OF,Membrane Glycoproteins,Nipah Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0025248,C0936087,PART_OF,Membrane Glycoproteins,"Coronavirus, Feline",aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -703,7 +703,7 @@ C0027803,C0085391,PART_OF,Neuraminidase,Reassortant Viruses,aapp,virs,1,PART_OF_
 C0027803,C0318356,PART_OF,Neuraminidase,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0027803,C1300303,PART_OF,Neuraminidase,"Avian influenza virus, highly pathogenic",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0027803,C1444092,PART_OF,Neuraminidase,Resistant virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0027803,C1613950,PART_OF,Neuraminidase,"Influenza A Virus, H5N1 Subtype",aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0027803,C1613950,PART_OF,Neuraminidase,"Influenza A Virus, H5N1 Subtype",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0027803,C3658219,PART_OF,Neuraminidase,"Influenza A Virus, H7N9 Subtype",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028589,C0014644,PART_OF,Nuclear Proteins,Epstein-Barr Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028589,C0220847,PART_OF,Nuclear Proteins,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -728,7 +728,7 @@ C0028612,C0035414,PART_OF,Nucleoproteins,Rhabdoviridae,aapp,virs,1,PART_OF_AAPPp
 C0028612,C0035614,PART_OF,Nucleoproteins,Rift Valley fever virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028612,C0042338,PART_OF,Nucleoproteins,Human herpesvirus 3,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028612,C0042776,PART_OF,Nucleoproteins,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0028612,C0085150,PART_OF,Nucleoproteins,Filoviridae,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0028612,C0085150,PART_OF,Nucleoproteins,Filoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028612,C0086384,PART_OF,Nucleoproteins,Hantaan virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028612,C0206419,PART_OF,Nucleoproteins,Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0028612,C0206422,PART_OF,Nucleoproteins,Human coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -829,7 +829,7 @@ C0030946,C0206558,PART_OF,Endopeptidases,Simplexvirus,aapp,virs,1,PART_OF_AAPPpr
 C0030946,C0220847,PART_OF,Endopeptidases,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0030946,C0318356,PART_OF,Endopeptidases,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0030946,C0318467,PART_OF,Endopeptidases,Human rhinovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0030946,C0318759,PART_OF,Endopeptidases,"Dengue virus, type 2",aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0030946,C0318759,PART_OF,Endopeptidases,"Dengue virus, type 2",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0030946,C0318760,PART_OF,Endopeptidases,"Dengue virus, type 3",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0030946,C0318761,PART_OF,Endopeptidases,"Dengue virus, type 4",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0030946,C0318793,PART_OF,Endopeptidases,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -935,7 +935,7 @@ C0034861,C0376536,PART_OF,Recombinant Proteins,Porcine respiratory and reproduct
 C0034861,C0949880,PART_OF,Recombinant Proteins,Human coronavirus 229E,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0034861,C0949920,PART_OF,Recombinant Proteins,Norovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0034861,C1000250,PART_OF,Recombinant Proteins,Turnip crinkle virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0034861,C1175743,PART_OF,Recombinant Proteins,SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0034861,C1175743,PART_OF,Recombinant Proteins,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0034861,C1258014,PART_OF,Recombinant Proteins,Human Metapneumovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0034861,C1265388,PART_OF,Recombinant Proteins,Pigeon circovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0034861,C1676985,PART_OF,Recombinant Proteins,Human coronavirus HKU1,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -963,7 +963,7 @@ C0035342,C0027984,PART_OF,Retinol Binding Proteins,Newcastle disease virus,aapp,
 C0035342,C0318798,PART_OF,Retinol Binding Proteins,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035379,C0019169,PART_OF,RNA-Directed DNA Polymerase,Hepatitis B Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035379,C0019682,PART_OF,RNA-Directed DNA Polymerase,HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0035379,C0019704,PART_OF,RNA-Directed DNA Polymerase,HIV-1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0035379,C0019704,PART_OF,RNA-Directed DNA Polymerase,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035379,C0026398,PART_OF,RNA-Directed DNA Polymerase,Moloney Leukemia Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035379,C0026626,PART_OF,RNA-Directed DNA Polymerase,Murine leukemia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035379,C0026979,PART_OF,RNA-Directed DNA Polymerase,Avian Myeloblastosis Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1026,7 +1026,7 @@ C0035685,C0206265,PART_OF,RNA-Directed RNA Polymerase,Alfalfa mosaic virus,aapp,
 C0035685,C0206350,PART_OF,RNA-Directed RNA Polymerase,Tombusvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035685,C0206422,PART_OF,RNA-Directed RNA Polymerase,Human coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035685,C0206435,PART_OF,RNA-Directed RNA Polymerase,Human poliovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0035685,C0220847,PART_OF,RNA-Directed RNA Polymerase,Hepatitis C virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0035685,C0220847,PART_OF,RNA-Directed RNA Polymerase,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035685,C0318793,PART_OF,RNA-Directed RNA Polymerase,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035685,C0318798,PART_OF,RNA-Directed RNA Polymerase,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0035685,C0376459,PART_OF,RNA-Directed RNA Polymerase,Tombusviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1130,7 +1130,7 @@ C0042736,C0206419,PART_OF,Viral Proteins,Genus: Coronavirus,aapp,virs,1,PART_OF_
 C0042736,C0206558,PART_OF,Viral Proteins,Simplexvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0042736,C0220847,PART_OF,Viral Proteins,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0042736,C0318793,PART_OF,Viral Proteins,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0042736,C0318855,PART_OF,Viral Proteins,Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0042736,C0318855,PART_OF,Viral Proteins,Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0042736,C0376325,PART_OF,Viral Proteins,Hepatitis A Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0042736,C0376536,PART_OF,Viral Proteins,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0042736,C0597065,PART_OF,Viral Proteins,neurotropic virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1186,7 +1186,7 @@ C0054757,C1175743,PART_OF,carboxypeptidase H,SARS coronavirus,aapp,virs,1,PART_O
 C0054871,C1175743,PART_OF,Cathepsin L,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0055023,C0019092,PART_OF,Vitronectin,Hantavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0055633,C0035691,PART_OF,Chromogranin A,RNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0055673,C1175743,PART_OF,Chymase,SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0055673,C1175743,PART_OF,Chymase,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0055817,C0011315,PART_OF,citrate carrier,Dengue Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0055817,C0014047,PART_OF,citrate carrier,Japanese encephalitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0055817,C0016215,PART_OF,citrate carrier,Flavivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1267,7 +1267,7 @@ C0065827,C0010076,PART_OF,Measles Virus Nucleoprotein,Coronaviridae,aapp,virs,1,
 C0065827,C0017161,PART_OF,Measles Virus Nucleoprotein,Transmissible gastroenteritis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0019092,PART_OF,Measles Virus Nucleoprotein,Hantavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0019169,PART_OF,Measles Virus Nucleoprotein,Hepatitis B Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0065827,C0019185,PART_OF,Measles Virus Nucleoprotein,Murine hepatitis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0065827,C0019185,PART_OF,Measles Virus Nucleoprotein,Murine hepatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0019682,PART_OF,Measles Virus Nucleoprotein,HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0019704,PART_OF,Measles Virus Nucleoprotein,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0024267,PART_OF,Measles Virus Nucleoprotein,Lymphocytic choriomeningitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1293,7 +1293,7 @@ C0065827,C0206545,PART_OF,Measles Virus Nucleoprotein,Human respiratory syncytia
 C0065827,C0220847,PART_OF,Measles Virus Nucleoprotein,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0318798,PART_OF,Measles Virus Nucleoprotein,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0318810,PART_OF,Measles Virus Nucleoprotein,Chandipura virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0065827,C0318855,PART_OF,Measles Virus Nucleoprotein,Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0065827,C0318855,PART_OF,Measles Virus Nucleoprotein,Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0318937,PART_OF,Measles Virus Nucleoprotein,Akabane virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0376536,PART_OF,Measles Virus Nucleoprotein,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0598902,PART_OF,Measles Virus Nucleoprotein,murine nodule inducing virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1306,12 +1306,12 @@ C0065827,C0949493,PART_OF,Measles Virus Nucleoprotein,Porcine torovirus,aapp,vir
 C0065827,C0949858,PART_OF,Measles Virus Nucleoprotein,Nidovirales,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0949859,PART_OF,Measles Virus Nucleoprotein,Arteriviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0949880,PART_OF,Measles Virus Nucleoprotein,Human coronavirus 229E,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0065827,C0949881,PART_OF,Measles Virus Nucleoprotein,"Coronavirus OC43, Human",aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0065827,C0949881,PART_OF,Measles Virus Nucleoprotein,"Coronavirus OC43, Human",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0949889,PART_OF,Measles Virus Nucleoprotein,Marburgvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C0949892,PART_OF,Measles Virus Nucleoprotein,Ebolavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C1043770,PART_OF,Measles Virus Nucleoprotein,Yellow-head virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C1043948,PART_OF,Measles Virus Nucleoprotein,Gill-associated virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0065827,C1175743,PART_OF,Measles Virus Nucleoprotein,SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0065827,C1175743,PART_OF,Measles Virus Nucleoprotein,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C1219985,PART_OF,Measles Virus Nucleoprotein,Okavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C1258014,PART_OF,Measles Virus Nucleoprotein,Human Metapneumovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C1478824,PART_OF,Measles Virus Nucleoprotein,Human coronavirus NL63,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1321,7 +1321,7 @@ C0065827,C2806453,PART_OF,Measles Virus Nucleoprotein,Betacoronavirus,aapp,virs,
 C0065827,C2806461,PART_OF,Measles Virus Nucleoprotein,Avian coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C3448728,PART_OF,Measles Virus Nucleoprotein,Feline morbillivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C3611143,PART_OF,Measles Virus Nucleoprotein,Ferret coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0065827,C3698360,PART_OF,Measles Virus Nucleoprotein,Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0065827,C3698360,PART_OF,Measles Virus Nucleoprotein,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C4038448,PART_OF,Measles Virus Nucleoprotein,Porcine deltacoronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065827,C4468385,PART_OF,Measles Virus Nucleoprotein,Tula hantavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0065929,C0026626,PART_OF,membrane glycoprotein 80,Murine leukemia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1361,7 +1361,7 @@ C0079189,C0042216,PART_OF,cytokine,Vaccinia virus,aapp,virs,1,PART_OF_AAPPprtfVI
 C0079189,C0376536,PART_OF,cytokine,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0079405,C0019682,PART_OF,"Gene Products, vpr",HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0079405,C0019704,PART_OF,"Gene Products, vpr",HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0079407,C0020094,PART_OF,"Gene Products, tax",Human T-lymphotropic virus 1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0079407,C0020094,PART_OF,"Gene Products, tax",Human T-lymphotropic virus 1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0079407,C0020099,PART_OF,"Gene Products, tax",Human T-lymphotropic virus 2,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0079407,C0086427,PART_OF,"Gene Products, tax","T-Cell Leukemia Viruses, Human",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0079408,C0019682,PART_OF,"Gene Products, vif",HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1486,7 +1486,7 @@ C0162768,C0019704,PART_OF,Fusion protein,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0021344,PART_OF,Fusion protein,Human Papillomavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0027984,PART_OF,Fusion protein,Newcastle disease virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0028586,PART_OF,Fusion protein,Nucleopolyhedrovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0162768,C0029341,PART_OF,Fusion protein,Orthomyxoviridae,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0162768,C0029341,PART_OF,Fusion protein,Orthomyxoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0029347,PART_OF,Fusion protein,Influenza A virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0030391,PART_OF,Fusion protein,"Parainfluenza Virus 2, Human",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0035236,PART_OF,Fusion protein,Respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1498,7 +1498,7 @@ C0162768,C0037170,PART_OF,Fusion protein,Sindbis Virus,aapp,virs,1,PART_OF_AAPPp
 C0162768,C0042776,PART_OF,Fusion protein,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0079005,PART_OF,Fusion protein,Baculoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0085150,PART_OF,Fusion protein,Filoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0162768,C0206419,PART_OF,Fusion protein,Genus: Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0162768,C0206419,PART_OF,Fusion protein,Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0206542,PART_OF,Fusion protein,Turkey rhinotracheitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0206545,PART_OF,Fusion protein,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0162768,C0206551,PART_OF,Fusion protein,Thogotovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1578,7 +1578,7 @@ C0178774,C2806461,PART_OF,Nucleocapsid,Avian coronavirus,aapp,virs,1,PART_OF_AAP
 C0178774,C2986384,PART_OF,Nucleocapsid,Enveloped Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0178774,C3698360,PART_OF,Nucleocapsid,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0178827,C0002331,PART_OF,replicase,Alphavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0178827,C0004419,PART_OF,replicase,Infectious bronchitis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0178827,C0004419,PART_OF,replicase,Infectious bronchitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0178827,C0004651,PART_OF,replicase,Bacteriophages,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0178827,C0019185,PART_OF,replicase,Murine hepatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0178827,C0021333,PART_OF,replicase,Equine arteritis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1808,10 +1808,10 @@ C0582263,C0001483,PART_OF,Structural protein,Adenoviruses,aapp,virs,1,PART_OF_AA
 C0582263,C0002331,PART_OF,Structural protein,Alphavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0003725,PART_OF,Structural protein,Arboviruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0004120,PART_OF,Structural protein,Astrovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0582263,C0004419,PART_OF,Structural protein,Infectious bronchitis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0582263,C0004419,PART_OF,Structural protein,Infectious bronchitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0005867,PART_OF,Structural protein,Bluetongue virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0006063,PART_OF,Structural protein,Bovine Viral Diarrhea Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0582263,C0008056,PART_OF,Structural protein,Chikungunya virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0582263,C0008056,PART_OF,Structural protein,Chikungunya virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0009743,PART_OF,Structural protein,"Hemorrhagic Fever Virus, Crimean-Congo",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0010243,PART_OF,Structural protein,Coxsackieviruses B,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0013480,PART_OF,Structural protein,Ebola virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1822,7 +1822,7 @@ C0582263,C0016215,PART_OF,Structural protein,Flavivirus,aapp,virs,1,PART_OF_AAPP
 C0582263,C0019169,PART_OF,Structural protein,Hepatitis B Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0019185,PART_OF,Structural protein,Murine hepatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0019369,PART_OF,Structural protein,Herpesviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0582263,C0019682,PART_OF,Structural protein,HIV,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0582263,C0019682,PART_OF,Structural protein,HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0019704,PART_OF,Structural protein,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0020094,PART_OF,Structural protein,Human T-lymphotropic virus 1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0021338,PART_OF,Structural protein,Infectious bursal disease virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1851,7 +1851,7 @@ C0582263,C0206558,PART_OF,Structural protein,Simplexvirus,aapp,virs,1,PART_OF_AA
 C0582263,C0220847,PART_OF,Structural protein,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0318428,PART_OF,Structural protein,Human enterovirus 68,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0318793,PART_OF,Structural protein,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0582263,C0318855,PART_OF,Structural protein,Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0582263,C0318855,PART_OF,Structural protein,Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0376536,PART_OF,Structural protein,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0949858,PART_OF,Structural protein,Nidovirales,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0582263,C0949945,PART_OF,Structural protein,Foot-and-Mouth Disease Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1960,7 +1960,7 @@ C0669472,C0877837,PART_OF,ubiquitin-specific protease,Murid herpesvirus 1,aapp,v
 C0670896,C0042776,PART_OF,Toll-like receptors,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0671154,C0220847,PART_OF,"CLEC11A protein, human",Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0672596,C0035236,PART_OF,palivizumab,Respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0672596,C0206545,PART_OF,palivizumab,Human respiratory syncytial virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0672596,C0206545,PART_OF,palivizumab,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0673013,C0029347,PART_OF,"GPER protein, human",Influenza A virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0682744,C0019378,PART_OF,neuraminidases,"Herpesvirus 1, Cercopithecine",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0682744,C0029341,PART_OF,neuraminidases,Orthomyxoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -1988,7 +1988,7 @@ C0700271,C0043125,PART_OF,"M Protein, multiple myeloma",West Nile virus,aapp,vir
 C0700271,C0043396,PART_OF,"M Protein, multiple myeloma",Yellow fever virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C0085305,PART_OF,"M Protein, multiple myeloma",Feline infectious peritonitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C0086943,PART_OF,"M Protein, multiple myeloma",Rous sarcoma virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0700271,C0206419,PART_OF,"M Protein, multiple myeloma",Genus: Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0700271,C0206419,PART_OF,"M Protein, multiple myeloma",Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C0206421,PART_OF,"M Protein, multiple myeloma","Coronavirus, Canine",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C0206422,PART_OF,"M Protein, multiple myeloma",Human coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C0206545,PART_OF,"M Protein, multiple myeloma",Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2015,7 +2015,7 @@ C0700271,C2806448,PART_OF,"M Protein, multiple myeloma",Alphacoronavirus 1,aapp,
 C0700271,C2806453,PART_OF,"M Protein, multiple myeloma",Betacoronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C2806461,PART_OF,"M Protein, multiple myeloma",Avian coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0700271,C2986384,PART_OF,"M Protein, multiple myeloma",Enveloped Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0700271,C3698360,PART_OF,"M Protein, multiple myeloma",Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0700271,C3698360,PART_OF,"M Protein, multiple myeloma",Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0729663,C0004422,PART_OF,Maternal antibody,Avian leukosis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0729663,C0027984,PART_OF,Maternal antibody,Newcastle disease virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0729663,C0043125,PART_OF,Maternal antibody,West Nile virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2024,7 +2024,7 @@ C0729663,C3698360,PART_OF,Maternal antibody,Middle East Respiratory Syndrome Cor
 C0751455,C0001483,PART_OF,"Gene Products, Protein",Adenoviruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0751455,C0042216,PART_OF,"Gene Products, Protein",Vaccinia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0751455,C0206419,PART_OF,"Gene Products, Protein",Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C0751455,C1175743,PART_OF,"Gene Products, Protein",SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C0751455,C1175743,PART_OF,"Gene Products, Protein",SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0751455,C3698360,PART_OF,"Gene Products, Protein",Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0751600,C0010825,PART_OF,Intron A,Cytomegalovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C0751973,C0011315,PART_OF,Proteome,Dengue Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2183,7 +2183,7 @@ C1136102,C0206558,PART_OF,Capsid Proteins,Simplexvirus,aapp,virs,1,PART_OF_AAPPp
 C1136102,C0220847,PART_OF,Capsid Proteins,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1136102,C0318356,PART_OF,Capsid Proteins,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1136102,C0318759,PART_OF,Capsid Proteins,"Dengue virus, type 2",aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1136102,C0318793,PART_OF,Capsid Proteins,Zika Virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1136102,C0318793,PART_OF,Capsid Proteins,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1136102,C0319119,PART_OF,Capsid Proteins,"Parvovirus, Porcine",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1136102,C0319124,PART_OF,Capsid Proteins,Adeno-associated virus-2,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1136102,C0319333,PART_OF,Capsid Proteins,Human astrovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2264,7 +2264,7 @@ C1291779,C0206497,PART_OF,Recombinant glycoprotein,Arenavirus,aapp,virs,1,PART_O
 C1291779,C0598902,PART_OF,Recombinant glycoprotein,murine nodule inducing virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1291779,C0751672,PART_OF,Recombinant glycoprotein,Hendra Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1291779,C0751673,PART_OF,Recombinant glycoprotein,Nipah Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1291779,C0949892,PART_OF,Recombinant glycoprotein,Ebolavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1291779,C0949892,PART_OF,Recombinant glycoprotein,Ebolavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1292267,C0019185,PART_OF,Procoagulant,Murine hepatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1295489,C0950119,PART_OF,Retropepsin,Walleye dermal sarcoma virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1305923,C0004419,PART_OF,Polypeptides,Infectious bronchitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2369,7 +2369,7 @@ C1335439,C0012923,PART_OF,Polymerase,DNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVIR
 C1335439,C0014644,PART_OF,Polymerase,Epstein-Barr Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0015763,PART_OF,Polymerase,"Calicivirus, Feline",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0018895,PART_OF,Polymerase,Helper Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1335439,C0019169,PART_OF,Polymerase,Hepatitis B Virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1335439,C0019169,PART_OF,Polymerase,Hepatitis B Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0019171,PART_OF,Polymerase,"Hepatitis B Virus, Duck",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0019704,PART_OF,Polymerase,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0024267,PART_OF,Polymerase,Lymphocytic choriomeningitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2383,7 +2383,7 @@ C1335439,C0031886,PART_OF,Polymerase,Family Picornaviridae,aapp,virs,1,PART_OF_A
 C1335439,C0035111,PART_OF,Polymerase,Reoviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0035236,PART_OF,Polymerase,Respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0035366,PART_OF,Polymerase,Retroviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1335439,C0035473,PART_OF,Polymerase,Rhinovirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1335439,C0035473,PART_OF,Polymerase,Rhinovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0035674,PART_OF,Polymerase,RNA Phages,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0035691,PART_OF,Polymerase,RNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0036238,PART_OF,Polymerase,Satellite Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2397,7 +2397,7 @@ C1335439,C0206273,PART_OF,Polymerase,Potyvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206350,PART_OF,Polymerase,Tombusvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206389,PART_OF,Polymerase,Bacteriophage Q beta,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206419,PART_OF,Polymerase,Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1335439,C0206435,PART_OF,Polymerase,Human poliovirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1335439,C0206435,PART_OF,Polymerase,Human poliovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206497,PART_OF,Polymerase,Arenavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206545,PART_OF,Polymerase,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1335439,C0206558,PART_OF,Polymerase,Simplexvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2688,13 +2688,13 @@ C1422036,C0004422,PART_OF,ERVW-1 gene,Avian leukosis virus,aapp,virs,1,PART_OF_A
 C1422036,C0004423,PART_OF,ERVW-1 gene,Genus Alpharetrovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0006395,PART_OF,ERVW-1 gene,Bunyaviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0011315,PART_OF,ERVW-1 gene,Dengue Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1422036,C0013480,PART_OF,ERVW-1 gene,Ebola virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1422036,C0013480,PART_OF,ERVW-1 gene,Ebola virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0014047,PART_OF,ERVW-1 gene,Japanese encephalitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0015767,PART_OF,ERVW-1 gene,Feline leukemia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0016215,PART_OF,ERVW-1 gene,Flavivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0019092,PART_OF,ERVW-1 gene,Hantavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0019369,PART_OF,ERVW-1 gene,Herpesviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1422036,C0019682,PART_OF,ERVW-1 gene,HIV,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1422036,C0019682,PART_OF,ERVW-1 gene,HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0019704,PART_OF,ERVW-1 gene,HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0021335,PART_OF,ERVW-1 gene,Bovine herpesvirus 1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0023093,PART_OF,ERVW-1 gene,Lassa virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2723,7 +2723,7 @@ C1422036,C0206419,PART_OF,ERVW-1 gene,Genus: Coronavirus,aapp,virs,1,PART_OF_AAP
 C1422036,C0206465,PART_OF,ERVW-1 gene,"Leukemia Virus, Gibbon Ape",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0206497,PART_OF,ERVW-1 gene,Arenavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0206558,PART_OF,ERVW-1 gene,Simplexvirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1422036,C0220847,PART_OF,ERVW-1 gene,Hepatitis C virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1422036,C0220847,PART_OF,ERVW-1 gene,Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0318356,PART_OF,ERVW-1 gene,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0318793,PART_OF,ERVW-1 gene,Zika Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C0318798,PART_OF,ERVW-1 gene,"Paramyxovirus, NOS",aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2734,7 +2734,7 @@ C1422036,C0949892,PART_OF,ERVW-1 gene,Ebolavirus,aapp,virs,1,PART_OF_AAPPprtfVIR
 C1422036,C0949896,PART_OF,ERVW-1 gene,Zaire Ebola Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C1079231,PART_OF,ERVW-1 gene,Subgroup B,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C1079232,PART_OF,ERVW-1 gene,Subgroup C,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1422036,C1175743,PART_OF,ERVW-1 gene,SARS coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1422036,C1175743,PART_OF,ERVW-1 gene,SARS coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C1258015,PART_OF,ERVW-1 gene,Henipavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C1623048,PART_OF,ERVW-1 gene,Vesicular stomatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1422036,C2656439,PART_OF,ERVW-1 gene,Bundibugyo ebolavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2772,11 +2772,11 @@ C1423498,C1000329,PART_OF,GOLPH3 gene,Cucumber green mottle mosaic virus,aapp,vi
 C1423498,C1001979,PART_OF,GOLPH3 gene,Strawberry latent ringspot virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423498,C1002566,PART_OF,GOLPH3 gene,ssDNA viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423498,C1005569,PART_OF,GOLPH3 gene,Bamboo mosaic virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1423498,C1623051,PART_OF,GOLPH3 gene,Filamentous bacteriophage (species),aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1423498,C1623051,PART_OF,GOLPH3 gene,Filamentous bacteriophage (species),aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423498,C2788263,PART_OF,GOLPH3 gene,Sclerotinia sclerotiorum partitivirus S,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423524,C0015763,PART_OF,NCKIPSD gene,"Calicivirus, Feline",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423524,C0042776,PART_OF,NCKIPSD gene,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1423524,C0085294,PART_OF,NCKIPSD gene,Hepatitis E virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1423524,C0085294,PART_OF,NCKIPSD gene,Hepatitis E virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423524,C0085512,PART_OF,NCKIPSD gene,Torovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423524,C0086776,PART_OF,NCKIPSD gene,Parvovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1423524,C0206413,PART_OF,NCKIPSD gene,Calicivirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -2961,7 +2961,7 @@ C1624602,C1646817,PART_OF,Anti-Antibodies,Human bocavirus,aapp,virs,1,PART_OF_AA
 C1624602,C3615508,PART_OF,Anti-Antibodies,Sweetwater Branch virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1624602,C3698360,PART_OF,Anti-Antibodies,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1701084,C0019682,PART_OF,"CD9 protein, human",HIV,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1701084,C0019704,PART_OF,"CD9 protein, human",HIV-1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1701084,C0019704,PART_OF,"CD9 protein, human",HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1701084,C0042776,PART_OF,"CD9 protein, human",Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1701084,C0079337,PART_OF,"CD9 protein, human",Feline Immunodeficiency Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1701084,C0079679,PART_OF,"CD9 protein, human",Genus: Lentivirus group,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3035,7 +3035,7 @@ C1825598,C0035691,PART_OF,IMPACT gene,RNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVI
 C1825598,C0035870,PART_OF,IMPACT gene,Rotavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1825598,C0042216,PART_OF,IMPACT gene,Vaccinia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1825598,C0042776,PART_OF,IMPACT gene,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C1825598,C0079337,PART_OF,IMPACT gene,Feline Immunodeficiency Virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C1825598,C0079337,PART_OF,IMPACT gene,Feline Immunodeficiency Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1825598,C0086776,PART_OF,IMPACT gene,Parvovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1825598,C0206422,PART_OF,IMPACT gene,Human coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C1825598,C0206544,PART_OF,IMPACT gene,"Respiratory Syncytial Virus, Bovine",aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3133,7 +3133,7 @@ C2717969,C0019682,PART_OF,Aspartic Acid Proteases,HIV,aapp,virs,1,PART_OF_AAPPpr
 C2717970,C0010825,PART_OF,Cysteine Proteases,Cytomegalovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2717970,C0016515,PART_OF,Cysteine Proteases,Aphthovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2717970,C0019369,PART_OF,Cysteine Proteases,Herpesviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C2717970,C0035691,PART_OF,Cysteine Proteases,RNA Viruses,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C2717970,C0035691,PART_OF,Cysteine Proteases,RNA Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2717970,C0206419,PART_OF,Cysteine Proteases,Genus: Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2717970,C0949920,PART_OF,Cysteine Proteases,Norovirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2717970,C3698360,PART_OF,Cysteine Proteases,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3146,7 +3146,7 @@ C2744535,C0206545,PART_OF,"CD69 protein, human",Human respiratory syncytial viru
 C2744535,C0220847,PART_OF,"CD69 protein, human",Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2744535,C0597363,PART_OF,"CD69 protein, human",recombinant virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2744535,C0949892,PART_OF,"CD69 protein, human",Ebolavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C2744535,C3698360,PART_OF,"CD69 protein, human",Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C2744535,C3698360,PART_OF,"CD69 protein, human",Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2744539,C1478824,PART_OF,"THBD protein, human",Human coronavirus NL63,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2744579,C0376536,PART_OF,"ATP8A2 protein, human",Porcine respiratory and reproductive syndrome virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C2756983,C0042776,PART_OF,Secretory Phospholipase A2,Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3248,7 +3248,7 @@ C3891304,C0042776,PART_OF,"Cathelicidin LL-37, human",Virus,aapp,virs,1,PART_OF_
 C4042946,C0003060,PART_OF,Protein Corona,Animal Viruses,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4042946,C0035236,PART_OF,Protein Corona,Respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4042946,C0206545,PART_OF,Protein Corona,Human respiratory syncytial virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C4048280,C0019704,PART_OF,"T-Cell Surface Glycoprotein CD4, human",HIV-1,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C4048280,C0019704,PART_OF,"T-Cell Surface Glycoprotein CD4, human",HIV-1,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4048280,C0035366,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Retroviridae,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4048280,C0220847,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Hepatitis C virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4049611,C1000329,PART_OF,CD48 wt Allele,Cucumber green mottle mosaic virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3256,8 +3256,8 @@ C4082587,C0206350,PART_OF,"HLA Class II Histocompatibility Antigen Gamma Chain, 
 C4082587,C0520503,PART_OF,"HLA Class II Histocompatibility Antigen Gamma Chain, human",Tomato bushy stunt virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4082587,C1000281,PART_OF,"HLA Class II Histocompatibility Antigen Gamma Chain, human",Cucumber necrosis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4084937,C0318356,PART_OF,Antimicrobial Peptide,Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C4281807,C0004419,PART_OF,"Vitronectin, human",Infectious bronchitis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
-C4281807,C0017161,PART_OF,"Vitronectin, human",Transmissible gastroenteritis virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C4281807,C0004419,PART_OF,"Vitronectin, human",Infectious bronchitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
+C4281807,C0017161,PART_OF,"Vitronectin, human",Transmissible gastroenteritis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0019169,PART_OF,"Vitronectin, human",Hepatitis B Virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0019185,PART_OF,"Vitronectin, human",Murine hepatitis virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0042216,PART_OF,"Vitronectin, human",Vaccinia virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
@@ -3266,7 +3266,7 @@ C4281807,C0206419,PART_OF,"Vitronectin, human",Genus: Coronavirus,aapp,virs,1,PA
 C4281807,C0206421,PART_OF,"Vitronectin, human","Coronavirus, Canine",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0206422,PART_OF,"Vitronectin, human",Human coronavirus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0318356,PART_OF,"Vitronectin, human",Human virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
-C4281807,C0318855,PART_OF,"Vitronectin, human",Porcine epidemic diarrhea virus,aapp,virs,2,PART_OF_AAPPprtfVIRS
+C4281807,C0318855,PART_OF,"Vitronectin, human",Porcine epidemic diarrhea virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0597363,PART_OF,"Vitronectin, human",recombinant virus,aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0936087,PART_OF,"Vitronectin, human","Coronavirus, Feline",aapp,virs,1,PART_OF_AAPPprtfVIRS
 C4281807,C0949880,PART_OF,"Vitronectin, human",Human coronavirus 229E,aapp,virs,1,PART_OF_AAPPprtfVIRS

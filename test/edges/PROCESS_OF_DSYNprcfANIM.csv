@@ -2,7 +2,7 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000786,C2936506,PROCESS_OF,Spontaneous abortion,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0002395,C0599779,PROCESS_OF,Alzheimer's Disease,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0003175,C0003070,PROCESS_OF,Anthrax disease,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0003175,C2936506,PROCESS_OF,Anthrax disease,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0003175,C2936506,PROCESS_OF,Anthrax disease,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0003723,C0599779,PROCESS_OF,Arbovirus Infections,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0003864,C0599779,PROCESS_OF,Arthritis,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0004096,C0599779,PROCESS_OF,Asthma,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -16,7 +16,7 @@ C0005940,C0599779,PROCESS_OF,Bone Diseases,Animal Model,dsyn,anim,1,PROCESS_OF_D
 C0006277,C0031268,PROCESS_OF,Bronchitis,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0006309,C0003063,PROCESS_OF,Brucellosis,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0006309,C0003070,PROCESS_OF,Brucellosis,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0006309,C2936506,PROCESS_OF,Brucellosis,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0006309,C2936506,PROCESS_OF,Brucellosis,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0007682,C0003063,PROCESS_OF,CNS disorder,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0007682,C0599779,PROCESS_OF,CNS disorder,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0007684,C0599779,PROCESS_OF,Central Nervous System Infection,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -36,7 +36,7 @@ C0009450,C0562690,PROCESS_OF,Communicable Diseases,Carnivore,dsyn,anim,1,PROCESS
 C0009450,C0598744,PROCESS_OF,Communicable Diseases,juvenile animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0009450,C0599779,PROCESS_OF,Communicable Diseases,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0009450,C1554184,PROCESS_OF,Communicable Diseases,Dual,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0009450,C2936506,PROCESS_OF,Communicable Diseases,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0009450,C2936506,PROCESS_OF,Communicable Diseases,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0010356,C0003070,PROCESS_OF,Cross Infection,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0010418,C0003063,PROCESS_OF,Cryptosporidiosis,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0010418,C0003070,PROCESS_OF,Cryptosporidiosis,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -65,10 +65,10 @@ C0014335,C0162318,PROCESS_OF,Enteritis,Farm Animals,dsyn,anim,1,PROCESS_OF_DSYNp
 C0014335,C0598744,PROCESS_OF,Enteritis,juvenile animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0014371,C0003063,PROCESS_OF,Enterotoxemia,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0015652,C2936506,PROCESS_OF,Fascioliasis,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0015695,C0003064,PROCESS_OF,Fatty Liver,"Animals, Laboratory",dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0015695,C0003064,PROCESS_OF,Fatty Liver,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0016052,C0012656,PROCESS_OF,Fibromuscular Dysplasia,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0016052,C1511501,PROCESS_OF,Fibromuscular Dysplasia,Control Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0016514,C2936506,PROCESS_OF,Foot-and-Mouth Disease,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0016514,C2936506,PROCESS_OF,Foot-and-Mouth Disease,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0016627,C0003064,PROCESS_OF,Influenza in Birds,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0016627,C0599779,PROCESS_OF,Influenza in Birds,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0016627,C2936506,PROCESS_OF,Influenza in Birds,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -88,13 +88,13 @@ C0019348,C0012656,PROCESS_OF,Herpes Simplex Infections,Disease Vectors,dsyn,anim
 C0019348,C0598744,PROCESS_OF,Herpes Simplex Infections,juvenile animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0019693,C0012656,PROCESS_OF,HIV Infections,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0019841,C0003063,PROCESS_OF,Classical Swine Fever,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0020459,C0003064,PROCESS_OF,Hyperinsulinism,"Animals, Laboratory",dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
-C0020473,C0003064,PROCESS_OF,Hyperlipidemia,"Animals, Laboratory",dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0020459,C0003064,PROCESS_OF,Hyperinsulinism,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
+C0020473,C0003064,PROCESS_OF,Hyperlipidemia,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0020538,C0003064,PROCESS_OF,Hypertensive disease,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021390,C0599779,PROCESS_OF,Inflammatory Bowel Diseases,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021400,C0003070,PROCESS_OF,Influenza,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021400,C0031268,PROCESS_OF,Influenza,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0021400,C0599779,PROCESS_OF,Influenza,Animal Model,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0021400,C0599779,PROCESS_OF,Influenza,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021400,C0887965,PROCESS_OF,Influenza,Experimental Animal Models,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021400,C2936506,PROCESS_OF,Influenza,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0021832,C0003063,PROCESS_OF,"Intestinal Diseases, Parasitic","Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -126,7 +126,7 @@ C0027707,C0562690,PROCESS_OF,"Nephritis, Interstitial",Carnivore,dsyn,anim,1,PRO
 C0027765,C0003063,PROCESS_OF,nervous system disorder,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0027765,C1547282,PROCESS_OF,nervous system disorder,Show,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0027983,C0003063,PROCESS_OF,Newcastle Disease,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0028754,C0003064,PROCESS_OF,Obesity,"Animals, Laboratory",dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0028754,C0003064,PROCESS_OF,Obesity,"Animals, Laboratory",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0028754,C0031268,PROCESS_OF,Obesity,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0028754,C0599779,PROCESS_OF,Obesity,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0028797,C0003063,PROCESS_OF,Occupational Diseases,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -165,7 +165,7 @@ C0035613,C0003063,PROCESS_OF,Rift Valley Fever,"Animals, Domestic",dsyn,anim,1,P
 C0035613,C0003070,PROCESS_OF,Rift Valley Fever,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0035613,C0598744,PROCESS_OF,Rift Valley Fever,juvenile animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0035613,C0599779,PROCESS_OF,Rift Valley Fever,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0035613,C2936506,PROCESS_OF,Rift Valley Fever,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0035613,C2936506,PROCESS_OF,Rift Valley Fever,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0035801,C0012656,PROCESS_OF,Rodent Diseases,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0035869,C0003063,PROCESS_OF,Rotavirus Infections,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0035869,C0598744,PROCESS_OF,Rotavirus Infections,juvenile animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -195,7 +195,7 @@ C0042510,C0012656,PROCESS_OF,Ventricular Fibrillation,Disease Vectors,dsyn,anim,
 C0042740,C0003065,PROCESS_OF,Viral syndrome,"Animals, Newborn",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042749,C0599779,PROCESS_OF,Viremia,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042749,C0887965,PROCESS_OF,Viremia,Experimental Animal Models,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0042749,C1511501,PROCESS_OF,Viremia,Control Animal,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0042749,C1511501,PROCESS_OF,Viremia,Control Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042769,C0003063,PROCESS_OF,Virus Diseases,"Animals, Domestic",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042769,C0012656,PROCESS_OF,Virus Diseases,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042769,C0031268,PROCESS_OF,Virus Diseases,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -205,7 +205,7 @@ C0042769,C0683949,PROCESS_OF,Virus Diseases,animal study,dsyn,anim,1,PROCESS_OF_
 C0042769,C0887965,PROCESS_OF,Virus Diseases,Experimental Animal Models,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042769,C1514783,PROCESS_OF,Virus Diseases,Recombinant Inbred Strain,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0042769,C1554184,PROCESS_OF,Virus Diseases,Dual,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0042769,C2936506,PROCESS_OF,Virus Diseases,Livestock,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0042769,C2936506,PROCESS_OF,Virus Diseases,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0043116,C0012656,PROCESS_OF,HMN (Hereditary Motor Neuropathy) Proximal Type I,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0043528,C0003070,PROCESS_OF,Zoonoses,"Animals, Wild",dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0043528,C0031268,PROCESS_OF,Zoonoses,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -221,7 +221,7 @@ C0162534,C0003063,PROCESS_OF,Prion Diseases,"Animals, Domestic",dsyn,anim,1,PROC
 C0162534,C0599779,PROCESS_OF,Prion Diseases,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0162699,C2936506,PROCESS_OF,Tick-Borne Infections,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0205721,C0031268,PROCESS_OF,"Infections, Hospital",Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0205740,C0562690,PROCESS_OF,Canine Distemper,Carnivore,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0205740,C0562690,PROCESS_OF,Canine Distemper,Carnivore,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0206061,C1511501,PROCESS_OF,"Pneumonia, Interstitial",Control Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0206608,C0012656,PROCESS_OF,Flavivirus Infections,Disease Vectors,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0206608,C0599779,PROCESS_OF,Flavivirus Infections,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
@@ -251,7 +251,7 @@ C0275522,C0596888,PROCESS_OF,Asymptomatic Infections,mature animal,dsyn,anim,1,P
 C0275524,C0162318,PROCESS_OF,Coinfection,Farm Animals,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0275524,C0596888,PROCESS_OF,Coinfection,mature animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0275524,C0599779,PROCESS_OF,Coinfection,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
-C0275524,C1554184,PROCESS_OF,Coinfection,Dual,dsyn,anim,2,PROCESS_OF_DSYNprcfANIM
+C0275524,C1554184,PROCESS_OF,Coinfection,Dual,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0275544,C0599779,PROCESS_OF,Congenital infectious disease,Animal Model,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0275626,C2936506,PROCESS_OF,Struck,Livestock,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM
 C0275982,C0031268,PROCESS_OF,Enteric campylobacteriosis,Pet Animal,dsyn,anim,1,PROCESS_OF_DSYNprcfANIM

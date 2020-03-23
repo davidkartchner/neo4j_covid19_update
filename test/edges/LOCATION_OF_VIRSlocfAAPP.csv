@@ -35,8 +35,8 @@ C0003060,C1825497,LOCATION_OF,Animal Viruses,ATG5 gene,virs,aapp,1,LOCATION_OF_V
 C0004120,C0035685,LOCATION_OF,Astrovirus,RNA-Directed RNA Polymerase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0004120,C0582263,LOCATION_OF,Astrovirus,Structural protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0004120,C1412821,LOCATION_OF,Astrovirus,BRD3 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0004419,C0017968,LOCATION_OF,Infectious bronchitis virus,Glycoproteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
-C0004419,C0042736,LOCATION_OF,Infectious bronchitis virus,Viral Proteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0004419,C0017968,LOCATION_OF,Infectious bronchitis virus,Glycoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
+C0004419,C0042736,LOCATION_OF,Infectious bronchitis virus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0004419,C0054871,LOCATION_OF,Infectious bronchitis virus,Cathepsin L,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0004419,C0055817,LOCATION_OF,Infectious bronchitis virus,citrate carrier,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0004419,C0065827,LOCATION_OF,Infectious bronchitis virus,Measles Virus Nucleoprotein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -201,12 +201,12 @@ C0019092,C1136102,LOCATION_OF,Hantavirus,Capsid Proteins,virs,aapp,1,LOCATION_OF
 C0019092,C1448177,LOCATION_OF,Hantavirus,"TNF protein, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019092,C1706005,LOCATION_OF,Hantavirus,CD40LG wt Allele,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019092,C2348358,LOCATION_OF,Hantavirus,EDNRA wt Allele,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0019160,C1425107,LOCATION_OF,Hepatovirus,PLA2G16 gene,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0019160,C1425107,LOCATION_OF,Hepatovirus,PLA2G16 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C0017278,LOCATION_OF,Hepatitis B Virus,"Gene Products, env",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C0042736,LOCATION_OF,Hepatitis B Virus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C0243044,LOCATION_OF,Hepatitis B Virus,HSP90 Heat-Shock Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C0387583,LOCATION_OF,Hepatitis B Virus,cyclooxygenase 2,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0019169,C1335439,LOCATION_OF,Hepatitis B Virus,Polymerase,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0019169,C1335439,LOCATION_OF,Hepatitis B Virus,Polymerase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C1415761,LOCATION_OF,Hepatitis B Virus,HSPA5 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C1416478,LOCATION_OF,Hepatitis B Virus,ISG20 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019169,C1824798,LOCATION_OF,Hepatitis B Virus,CRTC1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -217,7 +217,7 @@ C0019185,C0007428,LOCATION_OF,Murine hepatitis virus,Cathepsins,virs,aapp,1,LOCA
 C0019185,C0009498,LOCATION_OF,Murine hepatitis virus,Complement System Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019185,C0015301,LOCATION_OF,Murine hepatitis virus,Exoribonucleases,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019185,C0031640,LOCATION_OF,Murine hepatitis virus,phosphoric diester hydrolase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0019185,C0042736,LOCATION_OF,Murine hepatitis virus,Viral Proteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0019185,C0042736,LOCATION_OF,Murine hepatitis virus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019185,C0071795,LOCATION_OF,Murine hepatitis virus,2-5A-dependent ribonuclease,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019185,C0389916,LOCATION_OF,Murine hepatitis virus,"nucleocapsid protein, Coronavirus",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019185,C0700271,LOCATION_OF,Murine hepatitis virus,"M Protein, multiple myeloma",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -271,7 +271,7 @@ C0019682,C1413962,LOCATION_OF,HIV,DDX3X gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAP
 C0019682,C1414406,LOCATION_OF,HIV,ENPEP gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019682,C1416001,LOCATION_OF,HIV,IGHV1-2 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019682,C1417785,LOCATION_OF,HIV,NPIPA1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0019682,C1701084,LOCATION_OF,HIV,"CD9 protein, human",virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0019682,C1701084,LOCATION_OF,HIV,"CD9 protein, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019682,C1705701,LOCATION_OF,HIV,TYRO3 wt Allele,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019682,C1825598,LOCATION_OF,HIV,IMPACT gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019682,C3839127,LOCATION_OF,HIV,Protein coding gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -281,8 +281,8 @@ C0019704,C0003250,LOCATION_OF,HIV-1,Monoclonal Antibodies,virs,aapp,1,LOCATION_O
 C0019704,C0010590,LOCATION_OF,HIV-1,Cycloserine,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019704,C0017279,LOCATION_OF,HIV-1,"Gene Products, gag",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019704,C0017343,LOCATION_OF,HIV-1,"Genes, env",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0019704,C0017360,LOCATION_OF,HIV-1,pol genes,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
-C0019704,C0017968,LOCATION_OF,HIV-1,Glycoproteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0019704,C0017360,LOCATION_OF,HIV-1,pol genes,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
+C0019704,C0017968,LOCATION_OF,HIV-1,Glycoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019704,C0019629,LOCATION_OF,HIV-1,Histocompatibility Antigens Class I,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019704,C0024337,LOCATION_OF,HIV-1,Lysine,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0019704,C0039341,LOCATION_OF,HIV-1,tat Protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -518,7 +518,7 @@ C0035236,C0965245,LOCATION_OF,Respiratory syncytial virus,"CD274 protein, human"
 C0035236,C1418879,LOCATION_OF,Respiratory syncytial virus,PRDX1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0035236,C1422036,LOCATION_OF,Respiratory syncytial virus,ERVW-1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0035366,C0012892,LOCATION_OF,Retroviridae,DNA-Directed DNA Polymerase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0035366,C0017279,LOCATION_OF,Retroviridae,"Gene Products, gag",virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0035366,C0017279,LOCATION_OF,Retroviridae,"Gene Products, gag",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0035366,C0017281,LOCATION_OF,Retroviridae,"Gene Products, pol",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0035366,C0017968,LOCATION_OF,Retroviridae,Glycoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0035366,C0035379,LOCATION_OF,Retroviridae,RNA-Directed DNA Polymerase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -625,7 +625,7 @@ C0042776,C0001479,LOCATION_OF,Virus,Na(+)-K(+)-Exchanging ATPase,virs,aapp,1,LOC
 C0042776,C0001898,LOCATION_OF,Virus,Alanine,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0042776,C0002199,LOCATION_OF,Virus,Interferon-alpha,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0042776,C0002520,LOCATION_OF,Virus,Amino Acids,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0042776,C0003241,LOCATION_OF,Virus,Antibodies,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0042776,C0003241,LOCATION_OF,Virus,Antibodies,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0042776,C0003250,LOCATION_OF,Virus,Monoclonal Antibodies,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0042776,C0003253,LOCATION_OF,Virus,"Antibodies, Viral",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0042776,C0003323,LOCATION_OF,Virus,CD4 Antigens,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -831,7 +831,7 @@ C0043125,C1415898,LOCATION_OF,West Nile virus,IFITM3 gene,virs,aapp,1,LOCATION_O
 C0043125,C1421429,LOCATION_OF,West Nile virus,VTRNA1-1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0043125,C2744535,LOCATION_OF,West Nile virus,"CD69 protein, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0043396,C0030940,LOCATION_OF,Yellow fever virus,Peptide Hydrolases,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0043396,C0599561,LOCATION_OF,Yellow fever virus,e protein,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0043396,C0599561,LOCATION_OF,Yellow fever virus,e protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0043396,C1540057,LOCATION_OF,Yellow fever virus,TRIM23 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0043396,C1705982,LOCATION_OF,Yellow fever virus,KRAS wt Allele,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079005,C0029923,LOCATION_OF,Baculoviridae,Ovalbumin,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -844,7 +844,7 @@ C0079005,C1414168,LOCATION_OF,Baculoviridae,DSG1 gene,virs,aapp,1,LOCATION_OF_VI
 C0079005,C1422036,LOCATION_OF,Baculoviridae,ERVW-1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079005,C1512511,LOCATION_OF,Baculoviridae,Human Papilloma Virus Vaccine,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079005,C1540210,LOCATION_OF,Baculoviridae,ASZ1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0079337,C1422036,LOCATION_OF,Feline Immunodeficiency Virus,ERVW-1 gene,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0079337,C1422036,LOCATION_OF,Feline Immunodeficiency Virus,ERVW-1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079337,C1428114,LOCATION_OF,Feline Immunodeficiency Virus,TBATA gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079337,C1825598,LOCATION_OF,Feline Immunodeficiency Virus,IMPACT gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0079500,C0021755,LOCATION_OF,Hepatitis C-Like Viruses,Interleukin-1,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1005,7 +1005,7 @@ C0206485,C1417200,LOCATION_OF,Arterivirus,MMP10 gene,virs,aapp,1,LOCATION_OF_VIR
 C0206497,C0017968,LOCATION_OF,Arenavirus,Glycoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206497,C0028612,LOCATION_OF,Arenavirus,Nucleoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206497,C0283757,LOCATION_OF,Arenavirus,dolichyl-diphosphooligosaccharide - protein glycotransferase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0206497,C1312700,LOCATION_OF,Arenavirus,"FABP1 protein, human",virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0206497,C1312700,LOCATION_OF,Arenavirus,"FABP1 protein, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206497,C1415898,LOCATION_OF,Arenavirus,IFITM3 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206497,C1422036,LOCATION_OF,Arenavirus,ERVW-1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206497,C1422548,LOCATION_OF,Arenavirus,NLGN1 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1049,7 +1049,7 @@ C0206558,C0034848,LOCATION_OF,Simplexvirus,"Receptors, Virus",virs,aapp,1,LOCATI
 C0206558,C0035679,LOCATION_OF,Simplexvirus,RNA Polymerase II,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206558,C0040078,LOCATION_OF,Simplexvirus,Thymidine Kinase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206558,C0041368,LOCATION_OF,Simplexvirus,Tumor Necrosis Factors,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0206558,C0042736,LOCATION_OF,Simplexvirus,Viral Proteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0206558,C0042736,LOCATION_OF,Simplexvirus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206558,C0062529,LOCATION_OF,Simplexvirus,hepatitis B virus X protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206558,C0079189,LOCATION_OF,Simplexvirus,cytokine,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0206558,C0207199,LOCATION_OF,Simplexvirus,dUTP pyrophosphatase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1141,7 +1141,7 @@ C0318761,C0599561,LOCATION_OF,"Dengue virus, type 4",e protein,virs,aapp,1,LOCAT
 C0318793,C0001022,LOCATION_OF,Zika Virus,Acetyl-CoA Carboxylase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0318793,C0013729,LOCATION_OF,Zika Virus,Eukaryotic Initiation Factor-2,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0318793,C0025252,LOCATION_OF,Zika Virus,Membrane Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0318793,C0055817,LOCATION_OF,Zika Virus,citrate carrier,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0318793,C0055817,LOCATION_OF,Zika Virus,citrate carrier,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0318793,C0071795,LOCATION_OF,Zika Virus,2-5A-dependent ribonuclease,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0318793,C0290378,LOCATION_OF,Zika Virus,"ADAM11 protein, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0318793,C0293442,LOCATION_OF,Zika Virus,major vault protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1235,7 +1235,7 @@ C0376536,C0003765,LOCATION_OF,Porcine respiratory and reproductive syndrome viru
 C0376536,C0017968,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Glycoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0376536,C0021753,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Interleukin-1 beta,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0376536,C0021755,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Interleukin-1,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C0376536,C0021760,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Interleukin-6,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C0376536,C0021760,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Interleukin-6,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0376536,C0040691,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Transforming Growth Factors,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0376536,C0042736,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C0376536,C0065827,LOCATION_OF,Porcine respiratory and reproductive syndrome virus,Measles Virus Nucleoprotein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1450,7 +1450,7 @@ C1175743,C0030946,LOCATION_OF,SARS coronavirus,Endopeptidases,virs,aapp,1,LOCATI
 C1175743,C0034848,LOCATION_OF,SARS coronavirus,"Receptors, Virus",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C0034861,LOCATION_OF,SARS coronavirus,Recombinant Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C0035544,LOCATION_OF,SARS coronavirus,Ribonucleoproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C1175743,C0042736,LOCATION_OF,SARS coronavirus,Viral Proteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C1175743,C0042736,LOCATION_OF,SARS coronavirus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C0054871,LOCATION_OF,SARS coronavirus,Cathepsin L,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C0065011,LOCATION_OF,SARS coronavirus,link protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C0065827,LOCATION_OF,SARS coronavirus,Measles Virus Nucleoprotein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1510,7 +1510,7 @@ C1175743,C3839127,LOCATION_OF,SARS coronavirus,Protein coding gene,virs,aapp,1,L
 C1175743,C4038479,LOCATION_OF,SARS coronavirus,HLA class I,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C4048280,LOCATION_OF,SARS coronavirus,"T-Cell Surface Glycoprotein CD4, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1175743,C4049595,LOCATION_OF,SARS coronavirus,HLA Complex,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C1175743,C4281807,LOCATION_OF,SARS coronavirus,"Vitronectin, human",virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C1175743,C4281807,LOCATION_OF,SARS coronavirus,"Vitronectin, human",virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1205347,C3540820,LOCATION_OF,Infectious spleen and kidney necrosis virus,CAPG wt Allele,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1205893,C0582263,LOCATION_OF,Chronic bee paralysis virus,Structural protein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C1205893,C1423524,LOCATION_OF,Chronic bee paralysis virus,NCKIPSD gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
@@ -1648,7 +1648,7 @@ C3698360,C0030940,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Pepti
 C3698360,C0032583,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Polyproteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C3698360,C0034861,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Recombinant Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C3698360,C0035685,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,RNA-Directed RNA Polymerase,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
-C3698360,C0042736,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Viral Proteins,virs,aapp,2,LOCATION_OF_VIRSlocfAAPP
+C3698360,C0042736,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Viral Proteins,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C3698360,C0054871,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Cathepsin L,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C3698360,C0065827,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,Measles Virus Nucleoprotein,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP
 C3698360,C0085114,LOCATION_OF,Middle East Respiratory Syndrome Coronavirus,NF2 gene,virs,aapp,1,LOCATION_OF_VIRSlocfAAPP

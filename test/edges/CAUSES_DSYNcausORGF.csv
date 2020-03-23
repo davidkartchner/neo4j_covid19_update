@@ -37,7 +37,7 @@ C0009450,C0011065,CAUSES,Communicable Diseases,Cessation of life,dsyn,orgf,1,CAU
 C0009450,C0026649,CAUSES,Communicable Diseases,Movement,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0009663,C0032961,CAUSES,Condylomata Acuminata,Pregnancy,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0010054,C0011065,CAUSES,Coronary Arteriosclerosis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0010356,C0011065,CAUSES,Cross Infection,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0010356,C0011065,CAUSES,Cross Infection,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0010414,C0011065,CAUSES,Infection by Cryptococcus neoformans,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0010418,C0011065,CAUSES,Cryptosporidiosis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0011119,C0576730,CAUSES,Decompression Sickness,Changing position,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -53,7 +53,7 @@ C0013295,C0011065,CAUSES,Duodenal Ulcer,Cessation of life,dsyn,orgf,1,CAUSES_DSY
 C0013369,C0011065,CAUSES,Dysentery,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0013371,C0011065,CAUSES,Shigella Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0013928,C0011065,CAUSES,Fat embolism (disorder),Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0014038,C0011065,CAUSES,Encephalitis,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0014038,C0011065,CAUSES,Encephalitis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0014057,C0011065,CAUSES,Japanese Encephalitis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0014070,C0011065,CAUSES,Encephalomyelitis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0014335,C0011065,CAUSES,Enteritis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -84,7 +84,7 @@ C0019693,C0011065,CAUSES,HIV Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSY
 C0020538,C0011065,CAUSES,Hypertensive disease,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0021290,C0011065,CAUSES,Neonatal disorder,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0021400,C0004614,CAUSES,Influenza,Bacterial Adhesion,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0021400,C0011065,CAUSES,Influenza,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0021400,C0011065,CAUSES,Influenza,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0021400,C0678889,CAUSES,Influenza,Immunoregulation,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0021400,C1516559,CAUSES,Influenza,Circulatory Process,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0021400,C1819430,CAUSES,Influenza,type I interferon production,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -135,12 +135,12 @@ C0030528,C0011065,CAUSES,Paratyphoid Fever,Cessation of life,dsyn,orgf,1,CAUSES_
 C0030783,C0011065,CAUSES,Pellagra,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032064,C0011065,CAUSES,Plague,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032269,C0011065,CAUSES,Pneumococcal Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0032285,C0011065,CAUSES,Pneumonia,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0032285,C0011065,CAUSES,Pneumonia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032285,C0014653,CAUSES,Pneumonia,Equilibrium,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032285,C1749719,CAUSES,Pneumonia,Adaptive Immune Response,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032285,C1819436,CAUSES,Pneumonia,interleukin-1 production,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032290,C0011065,CAUSES,Aspiration Pneumonia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0032300,C0011065,CAUSES,Lobar Pneumonia,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0032300,C0011065,CAUSES,Lobar Pneumonia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032310,C0011065,CAUSES,"Pneumonia, Viral",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0032371,C1516559,CAUSES,Poliomyelitis,Circulatory Process,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0033036,C0020966,CAUSES,Atrial Premature Complexes,Cellular Immunity,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -152,7 +152,7 @@ C0034345,C0011065,CAUSES,Pyruvate Dehydrogenase Complex Deficiency Disease,Cessa
 C0035078,C0011065,CAUSES,Kidney Failure,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0035078,C0016284,CAUSES,Kidney Failure,Fluid Balance,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0035204,C0011065,CAUSES,Respiration Disorders,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0035222,C0011065,CAUSES,"Respiratory Distress Syndrome, Adult",Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0035222,C0011065,CAUSES,"Respiratory Distress Syndrome, Adult",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0035222,C0025519,CAUSES,"Respiratory Distress Syndrome, Adult",Metabolism,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0035235,C0011065,CAUSES,Respiratory Syncytial Virus Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0035243,C0011065,CAUSES,Respiratory Tract Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -162,14 +162,14 @@ C0035869,C0011065,CAUSES,Rotavirus Infections,Cessation of life,dsyn,orgf,1,CAUS
 C0035869,C1155328,CAUSES,Rotavirus Infections,Antiviral Response,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0036330,C0011065,CAUSES,Schistosomiasis mansoni,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0036685,C0011065,CAUSES,gram negative sepsis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0036690,C0011065,CAUSES,Septicemia,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0036690,C0011065,CAUSES,Septicemia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0036916,C0011065,CAUSES,Sexually Transmitted Diseases,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0037354,C0011065,CAUSES,Smallpox,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0038454,C0011065,CAUSES,Cerebrovascular accident,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0038454,C0011065,CAUSES,Cerebrovascular accident,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0038644,C0011065,CAUSES,Sudden infant death syndrome,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0038826,C0011065,CAUSES,Superinfection,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0040034,C0011065,CAUSES,Thrombocytopenia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0041296,C0011065,CAUSES,Tuberculosis,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0041296,C0011065,CAUSES,Tuberculosis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0041307,C0011065,CAUSES,"Tuberculosis, Bovine",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0041327,C0011065,CAUSES,"Tuberculosis, Pulmonary",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0041471,C0011065,CAUSES,TYPHUS,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -209,7 +209,7 @@ C0085306,C0020967,CAUSES,Feline infectious peritonitis,Humoral Immunity,dsyn,org
 C0085436,C0011065,CAUSES,"Meningitis, Cryptococcal",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0085584,C0011065,CAUSES,Encephalopathies,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0085786,C0011065,CAUSES,Hamman-Rich syndrome,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0149514,C0011065,CAUSES,Acute bronchitis,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0149514,C0011065,CAUSES,Acute bronchitis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0149725,C0011065,CAUSES,Lower respiratory tract infection,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0151317,C0011065,CAUSES,Chronic infectious disease,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0151317,C0035150,CAUSES,Chronic infectious disease,Reproduction,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -225,7 +225,7 @@ C0162557,C0011065,CAUSES,"Liver Failure, Acute",Cessation of life,dsyn,orgf,1,CA
 C0205721,C0011065,CAUSES,"Infections, Hospital",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0205858,C0011065,CAUSES,General Paralysis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0206061,C0011065,CAUSES,"Pneumonia, Interstitial",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0206750,C0011065,CAUSES,Coronavirus Infections,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0206750,C0011065,CAUSES,Coronavirus Infections,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0206750,C0699900,CAUSES,Coronavirus Infections,Catabolism,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0206750,C3159140,CAUSES,Coronavirus Infections,interferon production,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0221714,C0032961,CAUSES,Injection site infection,Pregnancy,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -287,7 +287,7 @@ C0524910,C0011065,CAUSES,"Hepatitis C, Chronic",Cessation of life,dsyn,orgf,1,CA
 C0553669,C0011065,CAUSES,Aregenerative anemia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0679247,C0011065,CAUSES,Terminal illness,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0679408,C0011065,CAUSES,Lesion of stomach,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0694549,C0011065,CAUSES,Community acquired pneumonia,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0694549,C0011065,CAUSES,Community acquired pneumonia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0740441,C0011065,CAUSES,Acute diarrhea,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0740766,C0011065,CAUSES,acute pneumonia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0741922,C0011065,CAUSES,CARDIAC causes,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -298,18 +298,18 @@ C0745283,C1516559,CAUSES,INFECTIOUS PROCESS,Circulatory Process,dsyn,orgf,1,CAUS
 C0746556,C1516559,CAUSES,metabolic disturbance,Circulatory Process,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0747676,C0011065,CAUSES,pneumonia childhood,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0856238,C0011065,CAUSES,influenza (epidemic),Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0858318,C0011065,CAUSES,Plasmodium falciparum infection,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0858318,C0011065,CAUSES,Plasmodium falciparum infection,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0858744,C0011065,CAUSES,infection induced,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0872315,C0011065,CAUSES,"Communicable Diseases, Emerging",Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0876973,C0011065,CAUSES,Infectious disease of lung,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C0877445,C0011065,CAUSES,Candidemia,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C0877445,C0011065,CAUSES,Candidemia,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0878544,C0011065,CAUSES,Cardiomyopathies,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0940933,C0011065,CAUSES,infection as a complication,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0948441,C0011065,CAUSES,Venoocclusive disease,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C0948755,C0011065,CAUSES,Pulmonary failure,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C1145670,C0011065,CAUSES,Respiratory Failure,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C1175175,C0009253,CAUSES,Severe Acute Respiratory Syndrome,Coitus,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C1175175,C0011065,CAUSES,Severe Acute Respiratory Syndrome,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C1175175,C0011065,CAUSES,Severe Acute Respiratory Syndrome,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C1175175,C0020966,CAUSES,Severe Acute Respiratory Syndrome,Cellular Immunity,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C1175175,C0678210,CAUSES,Severe Acute Respiratory Syndrome,"Passive immunity, function",dsyn,orgf,1,CAUSES_DSYNcausORGF
 C1262020,C0011065,CAUSES,diffuse alveolar damage,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
@@ -344,7 +344,7 @@ C3472181,C1516559,CAUSES,Severe dehydration,Circulatory Process,dsyn,orgf,1,CAUS
 C3495919,C0011065,CAUSES,Enthesitis-Related Arthritis,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C3534585,C0011065,CAUSES,Infection caused by Norovirus,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C3672279,C0011065,CAUSES,Acute hepatopathy,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
-C3694279,C0011065,CAUSES,Middle East Respiratory Syndrome,Cessation of life,dsyn,orgf,2,CAUSES_DSYNcausORGF
+C3694279,C0011065,CAUSES,Middle East Respiratory Syndrome,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C3873487,C0011065,CAUSES,Waterborne Diseases,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C3873497,C0011065,CAUSES,Severe acute respiratory infection,Cessation of life,dsyn,orgf,1,CAUSES_DSYNcausORGF
 C4288963,C0678723,CAUSES,Hepatitis C Virus Infection,Biologic Development,dsyn,orgf,1,CAUSES_DSYNcausORGF

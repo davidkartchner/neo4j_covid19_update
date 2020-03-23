@@ -79,7 +79,7 @@ C0021853,C0008151,LOCATION_OF,Intestines,Chlamydia trachomatis,bpoc,bact,1,LOCAT
 C0021853,C0008152,LOCATION_OF,Intestines,Chlamydiaceae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0021853,C0009063,LOCATION_OF,Intestines,Clostridium perfringens,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0021853,C0014346,LOCATION_OF,Intestines,Enterobacteriaceae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0021853,C0014834,LOCATION_OF,Intestines,Escherichia coli,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0021853,C0014834,LOCATION_OF,Intestines,Escherichia coli,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0021853,C0018148,LOCATION_OF,Intestines,Gram-Negative Aerobic Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0021853,C0018154,LOCATION_OF,Intestines,Gram-Positive Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0021853,C0022938,LOCATION_OF,Intestines,Lactobacillus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
@@ -123,7 +123,7 @@ C0024109,C0014834,LOCATION_OF,Lung,Escherichia coli,bpoc,bact,1,LOCATION_OF_BPOC
 C0024109,C0016676,LOCATION_OF,Lung,Francisella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0022938,LOCATION_OF,Lung,Lactobacillus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0026912,LOCATION_OF,Lung,Genus Mycobacterium,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0024109,C0026926,LOCATION_OF,Lung,Mycobacterium tuberculosis,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0024109,C0026926,LOCATION_OF,Lung,Mycobacterium tuberculosis,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0026934,LOCATION_OF,Lung,Mycoplasma,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0026941,LOCATION_OF,Lung,Mycoplasma pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0030635,LOCATION_OF,Lung,Pasteurella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
@@ -132,7 +132,7 @@ C0024109,C0033819,LOCATION_OF,Lung,Burkholderia pseudomallei,bpoc,bact,1,LOCATIO
 C0024109,C0038172,LOCATION_OF,Lung,Staphylococcus aureus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0038402,LOCATION_OF,Lung,Streptococcus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0038410,LOCATION_OF,Lung,Streptococcus pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0024109,C0038411,LOCATION_OF,Lung,Streptococcus pyogenes,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0024109,C0038411,LOCATION_OF,Lung,Streptococcus pyogenes,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0041944,LOCATION_OF,Lung,Ureaplasma,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0043408,LOCATION_OF,Lung,Yersinia pestis,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0024109,C0085494,LOCATION_OF,Lung,Enterococcus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
@@ -166,12 +166,12 @@ C0027442,C0027571,LOCATION_OF,Nasopharynx,Neisseria,bpoc,bact,1,LOCATION_OF_BPOC
 C0027442,C0027575,LOCATION_OF,Nasopharynx,Neisseria meningitidis,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0030635,LOCATION_OF,Nasopharynx,Pasteurella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0030641,LOCATION_OF,Nasopharynx,Pasteurellaceae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0027442,C0038172,LOCATION_OF,Nasopharynx,Staphylococcus aureus,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0027442,C0038172,LOCATION_OF,Nasopharynx,Staphylococcus aureus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0038402,LOCATION_OF,Nasopharynx,Streptococcus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0027442,C0038410,LOCATION_OF,Nasopharynx,Streptococcus pneumoniae,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0027442,C0038410,LOCATION_OF,Nasopharynx,Streptococcus pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0038411,LOCATION_OF,Nasopharynx,Streptococcus pyogenes,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0085504,LOCATION_OF,Nasopharynx,Chlamydophila pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0027442,C0121772,LOCATION_OF,Nasopharynx,Haemophilus influenzae type b,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0027442,C0121772,LOCATION_OF,Nasopharynx,Haemophilus influenzae type b,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0206347,LOCATION_OF,Nasopharynx,Porphyromonas,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0242946,LOCATION_OF,Nasopharynx,Prevotella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0027442,C0314761,LOCATION_OF,Nasopharynx,Normal flora,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
@@ -218,13 +218,13 @@ C0037993,C0004611,LOCATION_OF,Spleen,Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBA
 C0037993,C0006303,LOCATION_OF,Spleen,Brucella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0037993,C0014834,LOCATION_OF,Spleen,Escherichia coli,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0037993,C0023859,LOCATION_OF,Spleen,Listeria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0037993,C0026926,LOCATION_OF,Spleen,Mycobacterium tuberculosis,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0037993,C0026926,LOCATION_OF,Spleen,Mycobacterium tuberculosis,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0037993,C0035583,LOCATION_OF,Spleen,Rickettsia,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0037993,C0038410,LOCATION_OF,Spleen,Streptococcus pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0037993,C0314756,LOCATION_OF,Spleen,Gram-negative coccobacillus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0038351,C0004611,LOCATION_OF,Stomach,Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0038351,C0033809,LOCATION_OF,Stomach,Pseudomonas aeruginosa,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0038351,C0079488,LOCATION_OF,Stomach,Helicobacter pylori,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0038351,C0079488,LOCATION_OF,Stomach,Helicobacter pylori,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0038351,C0085508,LOCATION_OF,Stomach,Helicobacter,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0038351,C0315051,LOCATION_OF,Stomach,Helicobacter-like organism,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0039099,C0004611,LOCATION_OF,Synovial Membrane,Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
@@ -279,9 +279,9 @@ C0458578,C0085490,LOCATION_OF,Upper respiratory tract,Mannheimia haemolytica,bpo
 C0458578,C0314761,LOCATION_OF,Upper respiratory tract,Normal flora,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0004611,LOCATION_OF,Airway structure,Bacteria,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0018479,LOCATION_OF,Airway structure,Hemophilus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0458827,C0018483,LOCATION_OF,Airway structure,Haemophilus influenzae,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0458827,C0018483,LOCATION_OF,Airway structure,Haemophilus influenzae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0026941,LOCATION_OF,Airway structure,Mycoplasma pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
-C0458827,C0033809,LOCATION_OF,Airway structure,Pseudomonas aeruginosa,bpoc,bact,2,LOCATION_OF_BPOClocfBACT
+C0458827,C0033809,LOCATION_OF,Airway structure,Pseudomonas aeruginosa,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0038402,LOCATION_OF,Airway structure,Streptococcus,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0038410,LOCATION_OF,Airway structure,Streptococcus pneumoniae,bpoc,bact,1,LOCATION_OF_BPOClocfBACT
 C0458827,C0042446,LOCATION_OF,Airway structure,Veillonella,bpoc,bact,1,LOCATION_OF_BPOClocfBACT

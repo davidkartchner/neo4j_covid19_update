@@ -53,7 +53,7 @@ C0004422,C3669677,PROCESS_OF,Avian leukosis virus,Young chicken,virs,bird,1,PROC
 C0004423,C0005595,PROCESS_OF,Genus Alpharetrovirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0004423,C0008051,PROCESS_OF,Genus Alpharetrovirus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0004423,C0032850,PROCESS_OF,Genus Alpharetrovirus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0004425,C0005595,PROCESS_OF,Reticuloendotheliosis virus,Aves,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0004425,C0005595,PROCESS_OF,Reticuloendotheliosis virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0004425,C0008051,PROCESS_OF,Reticuloendotheliosis virus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0004425,C0013268,PROCESS_OF,Reticuloendotheliosis virus,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0004425,C0017225,PROCESS_OF,Reticuloendotheliosis virus,Geese,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -90,15 +90,15 @@ C0019369,C3669677,PROCESS_OF,Herpesviridae,Young chicken,virs,bird,1,PROCESS_OF_
 C0019378,C0013268,PROCESS_OF,"Herpesvirus 1, Cercopithecine",Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0019682,C0032850,PROCESS_OF,HIV,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0021338,C0005595,PROCESS_OF,Infectious bursal disease virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0021338,C0008051,PROCESS_OF,Infectious bursal disease virus,Chickens,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
-C0021338,C0032850,PROCESS_OF,Infectious bursal disease virus,"Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0021338,C0008051,PROCESS_OF,Infectious bursal disease virus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
+C0021338,C0032850,PROCESS_OF,Infectious bursal disease virus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0021338,C0325328,PROCESS_OF,Infectious bursal disease virus,Wild bird,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0021338,C0325331,PROCESS_OF,Infectious bursal disease virus,Spheniscidae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0021338,C0325333,PROCESS_OF,Infectious bursal disease virus,Spheniscus demersus,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0021338,C3669679,PROCESS_OF,Infectious bursal disease virus,Chicken for meat production,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0024794,C0005595,PROCESS_OF,"Herpesvirus 2, Gallid",Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0024794,C0008051,PROCESS_OF,"Herpesvirus 2, Gallid",Chickens,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
-C0027984,C0005595,PROCESS_OF,Newcastle disease virus,Aves,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0024794,C0008051,PROCESS_OF,"Herpesvirus 2, Gallid",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
+C0027984,C0005595,PROCESS_OF,Newcastle disease virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0027984,C0008051,PROCESS_OF,Newcastle disease virus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0027984,C0013268,PROCESS_OF,Newcastle disease virus,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0027984,C0017225,PROCESS_OF,Newcastle disease virus,Geese,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -126,7 +126,7 @@ C0029017,C0005595,PROCESS_OF,Oncogenic Viruses,Aves,virs,bird,1,PROCESS_OF_VIRSp
 C0029341,C0005595,PROCESS_OF,Orthomyxoviridae,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029341,C0008051,PROCESS_OF,Orthomyxoviridae,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029341,C0013268,PROCESS_OF,Orthomyxoviridae,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0029341,C0032850,PROCESS_OF,Orthomyxoviridae,"Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0029341,C0032850,PROCESS_OF,Orthomyxoviridae,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029341,C0034374,PROCESS_OF,Orthomyxoviridae,Quail,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029341,C0041401,PROCESS_OF,Orthomyxoviridae,Meleagridinae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029341,C0324556,PROCESS_OF,Orthomyxoviridae,Domestic avian species,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -140,14 +140,14 @@ C0029341,C3669677,PROCESS_OF,Orthomyxoviridae,Young chicken,virs,bird,1,PROCESS_
 C0029343,C0005595,PROCESS_OF,"Influenza A Virus, Avian",Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C0008051,PROCESS_OF,"Influenza A Virus, Avian",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C0013268,PROCESS_OF,"Influenza A Virus, Avian",Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0029343,C0032850,PROCESS_OF,"Influenza A Virus, Avian","Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0029343,C0032850,PROCESS_OF,"Influenza A Virus, Avian","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C0041401,PROCESS_OF,"Influenza A Virus, Avian",Meleagridinae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C0325328,PROCESS_OF,"Influenza A Virus, Avian",Wild bird,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C0597941,PROCESS_OF,"Influenza A Virus, Avian",aquatic bird,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0029343,C1260943,PROCESS_OF,"Influenza A Virus, Avian",Anas platyrhynchos,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0029343,C1260943,PROCESS_OF,"Influenza A Virus, Avian",Anas platyrhynchos,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029343,C2698565,PROCESS_OF,"Influenza A Virus, Avian",Broiler chicken,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029345,C3669435,PROCESS_OF,"Orthomyxovirus Type A, Porcine",Embryonated chicken egg,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0029347,C0005595,PROCESS_OF,Influenza A virus,Aves,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0029347,C0005595,PROCESS_OF,Influenza A virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029347,C0008051,PROCESS_OF,Influenza A virus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029347,C0013268,PROCESS_OF,Influenza A virus,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0029347,C0032850,PROCESS_OF,Influenza A virus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -210,7 +210,7 @@ C0042776,C0005595,PROCESS_OF,Virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0008051,PROCESS_OF,Virus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0013268,PROCESS_OF,Virus,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0017225,PROCESS_OF,Virus,Geese,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0042776,C0032850,PROCESS_OF,Virus,"Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0042776,C0032850,PROCESS_OF,Virus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0033852,PROCESS_OF,Virus,Order Psittaciformes (organism),virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0034374,PROCESS_OF,Virus,Quail,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C0041401,PROCESS_OF,Virus,Meleagridinae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -244,7 +244,7 @@ C0042776,C1260943,PROCESS_OF,Virus,Anas platyrhynchos,virs,bird,1,PROCESS_OF_VIR
 C0042776,C1827216,PROCESS_OF,Virus,Calidris ruficollis,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C2698565,PROCESS_OF,Virus,Broiler chicken,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C3669416,PROCESS_OF,Virus,Broiler chick,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0042776,C3669435,PROCESS_OF,Virus,Embryonated chicken egg,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0042776,C3669435,PROCESS_OF,Virus,Embryonated chicken egg,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C3669677,PROCESS_OF,Virus,Young chicken,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C3669679,PROCESS_OF,Virus,Chicken for meat production,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0042776,C3687490,PROCESS_OF,Virus,Teal,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -284,7 +284,7 @@ C0206179,C0008051,PROCESS_OF,Chicken anemia virus,Chickens,virs,bird,1,PROCESS_O
 C0206179,C3669677,PROCESS_OF,Chicken anemia virus,Young chicken,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206404,C0005595,PROCESS_OF,Avihepadnavirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206410,C0005595,PROCESS_OF,Beak and feather disease virus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0206410,C0033852,PROCESS_OF,Beak and feather disease virus,Order Psittaciformes (organism),virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0206410,C0033852,PROCESS_OF,Beak and feather disease virus,Order Psittaciformes (organism),virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206412,C0005595,PROCESS_OF,Circovirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206412,C0033852,PROCESS_OF,Circovirus,Order Psittaciformes (organism),virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206412,C0041401,PROCESS_OF,Circovirus,Meleagridinae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -296,7 +296,7 @@ C0206413,C0325328,PROCESS_OF,Calicivirus,Wild bird,virs,bird,1,PROCESS_OF_VIRSpr
 C0206413,C0325803,PROCESS_OF,Calicivirus,Arenaria <Aves>,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206413,C1260943,PROCESS_OF,Calicivirus,Anas platyrhynchos,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206413,C3685795,PROCESS_OF,Calicivirus,Recurvirostra novaehollandiae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C0206419,C0005595,PROCESS_OF,Genus: Coronavirus,Aves,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C0206419,C0005595,PROCESS_OF,Genus: Coronavirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206419,C0008051,PROCESS_OF,Genus: Coronavirus,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206419,C0013268,PROCESS_OF,Genus: Coronavirus,Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C0206419,C0032850,PROCESS_OF,Genus: Coronavirus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -406,14 +406,14 @@ C1258014,C0325870,PROCESS_OF,Human Metapneumovirus,Laridae,virs,bird,1,PROCESS_O
 C1265378,C0006345,PROCESS_OF,Avian parainfluenza virus 5,Melopsittacus,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1265378,C0008051,PROCESS_OF,Avian parainfluenza virus 5,Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1265378,C1384595,PROCESS_OF,Avian parainfluenza virus 5,Melopsittacus undulatus,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C1265388,C0325912,PROCESS_OF,Pigeon circovirus,Columbidae,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C1265388,C0325912,PROCESS_OF,Pigeon circovirus,Columbidae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300302,C0008051,PROCESS_OF,"Avian influenza virus, low pathogenic",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300302,C0013268,PROCESS_OF,"Avian influenza virus, low pathogenic",Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300302,C0032850,PROCESS_OF,"Avian influenza virus, low pathogenic","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300302,C0325328,PROCESS_OF,"Avian influenza virus, low pathogenic",Wild bird,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300302,C3669435,PROCESS_OF,"Avian influenza virus, low pathogenic",Embryonated chicken egg,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300303,C0008051,PROCESS_OF,"Avian influenza virus, highly pathogenic",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C1300303,C0032850,PROCESS_OF,"Avian influenza virus, highly pathogenic","Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C1300303,C0032850,PROCESS_OF,"Avian influenza virus, highly pathogenic","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300303,C0324595,PROCESS_OF,"Avian influenza virus, highly pathogenic",Leghorn chicken,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300303,C0325328,PROCESS_OF,"Avian influenza virus, highly pathogenic",Wild bird,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1300303,C0326391,PROCESS_OF,"Avian influenza virus, highly pathogenic",Crow,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -435,13 +435,13 @@ C1470637,C3687490,PROCESS_OF,Avastrovirus,Teal,virs,bird,1,PROCESS_OF_VIRSprcfBI
 C1512716,C0032850,PROCESS_OF,"Infectious Agent, Virus","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1612293,C0005595,PROCESS_OF,"Influenza A Virus, H9N2 Subtype",Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1612293,C0008051,PROCESS_OF,"Influenza A Virus, H9N2 Subtype",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C1612293,C0032850,PROCESS_OF,"Influenza A Virus, H9N2 Subtype","Fowls, Domestic",virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C1612293,C0032850,PROCESS_OF,"Influenza A Virus, H9N2 Subtype","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1612293,C3669435,PROCESS_OF,"Influenza A Virus, H9N2 Subtype",Embryonated chicken egg,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1612845,C0005595,PROCESS_OF,"Influenza A Virus, H7N7 Subtype",Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613396,C0013268,PROCESS_OF,"Influenza A Virus, H5N2 Subtype",Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613950,C0005595,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613950,C0008051,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Chickens,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C1613950,C0013268,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Ducks,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C1613950,C0013268,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Ducks,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613950,C0032850,PROCESS_OF,"Influenza A Virus, H5N1 Subtype","Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613950,C0324556,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Domestic avian species,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C1613950,C0324624,PROCESS_OF,"Influenza A Virus, H5N1 Subtype",Pekin duck,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
@@ -510,8 +510,8 @@ C4008676,C3685764,PROCESS_OF,Gemycircularvirus,Gerygone albofrontata,virs,bird,1
 C4038448,C0005595,PROCESS_OF,Porcine deltacoronavirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C4038448,C0032850,PROCESS_OF,Porcine deltacoronavirus,"Fowls, Domestic",virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C4195226,C0005595,PROCESS_OF,Duck-dominant coronavirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
-C4195226,C0017225,PROCESS_OF,Duck-dominant coronavirus,Geese,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
-C4195226,C0041401,PROCESS_OF,Duck-dominant coronavirus,Meleagridinae,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
-C4195226,C0325693,PROCESS_OF,Duck-dominant coronavirus,Peafowl,virs,bird,2,PROCESS_OF_VIRSprcfBIRD
+C4195226,C0017225,PROCESS_OF,Duck-dominant coronavirus,Geese,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
+C4195226,C0041401,PROCESS_OF,Duck-dominant coronavirus,Meleagridinae,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
+C4195226,C0325693,PROCESS_OF,Duck-dominant coronavirus,Peafowl,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C4368233,C0005595,PROCESS_OF,Turkey picornavirus,Aves,virs,bird,1,PROCESS_OF_VIRSprcfBIRD
 C4510762,C0325628,PROCESS_OF,Human adenovirus 55,Meleagris gallopavo,virs,bird,1,PROCESS_OF_VIRSprcfBIRD

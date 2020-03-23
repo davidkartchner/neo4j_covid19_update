@@ -2,7 +2,7 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0002260,C0027819,TREATS,Eflornithine,Neuroblastoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0003250,C0024301,TREATS,Monoclonal Antibodies,"Lymphoma, Follicular",aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0003250,C0334634,TREATS,Monoclonal Antibodies,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",aapp,neop,1,TREATS_AAPPtrtsNEOP
-C0003993,C0023449,TREATS,ASPARAGINASE,Acute lymphocytic leukemia,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C0003993,C0023449,TREATS,ASPARAGINASE,Acute lymphocytic leukemia,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0003993,C0079731,TREATS,ASPARAGINASE,B-Cell Lymphomas,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0004480,C0007097,TREATS,Azaserine,Carcinoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0010590,C0006826,TREATS,Cycloserine,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
@@ -39,7 +39,7 @@ C0218986,C0278678,TREATS,Aldesleukin,Metastatic Renal Cell Cancer,aapp,neop,1,TR
 C0245109,C0007621,TREATS,anakinra,Neoplastic Cell Transformation,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0281549,C0006826,TREATS,Zenapax,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0296773,C0006826,TREATS,polysaccharide peptide,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
-C0301521,C0006826,TREATS,therapeutic vaccine,Malignant Neoplasms,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C0301521,C0006826,TREATS,therapeutic vaccine,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0301521,C0007114,TREATS,therapeutic vaccine,Malignant neoplasm of skin,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0301521,C0007847,TREATS,therapeutic vaccine,Malignant tumor of cervix,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0301521,C0027651,TREATS,therapeutic vaccine,Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
@@ -47,7 +47,7 @@ C0301521,C0877373,TREATS,therapeutic vaccine,advanced cancer,aapp,neop,1,TREATS_
 C0301521,C0940937,TREATS,therapeutic vaccine,precancerous lesions,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0358321,C0027651,TREATS,Immune Globulin (Human),Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0376659,C0025202,TREATS,Cancer Vaccines,melanoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
-C0376659,C0027651,TREATS,Cancer Vaccines,Neoplasms,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C0376659,C0027651,TREATS,Cancer Vaccines,Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0376659,C0740457,TREATS,Cancer Vaccines,Malignant neoplasm of kidney,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0376659,C0877373,TREATS,Cancer Vaccines,advanced cancer,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0393022,C0006826,TREATS,rituximab,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
@@ -63,14 +63,14 @@ C0770558,C0238462,TREATS,Human calcitonin,Medullary carcinoma of thyroid,aapp,ne
 C0796392,C0006826,TREATS,bevacizumab,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0796392,C0027651,TREATS,bevacizumab,Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0796392,C0877373,TREATS,bevacizumab,advanced cancer,aapp,neop,1,TREATS_AAPPtrtsNEOP
-C0879427,C0948380,TREATS,panitumumab,metastatic colorectal cancer,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C0879427,C0948380,TREATS,panitumumab,metastatic colorectal cancer,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0879624,C0007131,TREATS,TG4010,Non-Small Cell Lung Carcinoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0912332,C0007102,TREATS,Glucagon-Like Peptide 2,Malignant tumor of colon,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0912332,C0334044,TREATS,Glucagon-Like Peptide 2,Dysplasia,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0995188,C0009402,TREATS,cetuximab,Colorectal Carcinoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C0995188,C0280100,TREATS,cetuximab,Solid Neoplasm,aapp,neop,1,TREATS_AAPPtrtsNEOP
-C1367202,C0025202,TREATS,ipilimumab,melanoma,aapp,neop,2,TREATS_AAPPtrtsNEOP
-C1367202,C0278883,TREATS,ipilimumab,Metastatic melanoma,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C1367202,C0025202,TREATS,ipilimumab,melanoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
+C1367202,C0278883,TREATS,ipilimumab,Metastatic melanoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C1522712,C1266119,TREATS,Recombinant Interferon-alpha Inducible Protein 10,Solitary fibrous tumor,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C1527233,C0006826,TREATS,Recombinant Immune Globulin,Malignant Neoplasms,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C1743549,C0948380,TREATS,Vectibix,metastatic colorectal cancer,aapp,neop,1,TREATS_AAPPtrtsNEOP
@@ -83,7 +83,7 @@ C3154308,C0278883,TREATS,Yervoy,Metastatic melanoma,aapp,neop,1,TREATS_AAPPtrtsN
 C3537035,C0220630,TREATS,kinase inhibitor,Adult Liver Carcinoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C3537035,C1306058,TREATS,kinase inhibitor,Primary malignant neoplasm of kidney,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C3537035,C4329281,TREATS,kinase inhibitor,Advanced Malignant Solid Neoplasm,aapp,neop,1,TREATS_AAPPtrtsNEOP
-C3657270,C0007131,TREATS,nivolumab,Non-Small Cell Lung Carcinoma,aapp,neop,2,TREATS_AAPPtrtsNEOP
+C3657270,C0007131,TREATS,nivolumab,Non-Small Cell Lung Carcinoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C3657270,C0025202,TREATS,nivolumab,melanoma,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C3657270,C0242379,TREATS,nivolumab,Malignant neoplasm of lung,aapp,neop,1,TREATS_AAPPtrtsNEOP
 C3657270,C0278883,TREATS,nivolumab,Metastatic melanoma,aapp,neop,1,TREATS_AAPPtrtsNEOP

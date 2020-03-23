@@ -85,7 +85,7 @@ C0017968,C0872079,STIMULATES,Glycoproteins,protein protein interaction,aapp,moft
 C0017968,C1149536,STIMULATES,Glycoproteins,virion binding,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0018437,C4505258,STIMULATES,Proton-Translocating ATPases,Proteostasis,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0018850,C0031715,STIMULATES,Heat shock proteins,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C0018850,C0162847,STIMULATES,Heat shock proteins,protein folding,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C0018850,C0162847,STIMULATES,Heat shock proteins,protein folding,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0018850,C3179232,STIMULATES,Heat shock proteins,p38 Kinase Pathway,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0019472,C0017952,STIMULATES,HEXOKINASE,Glycolysis,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0019472,C1150635,STIMULATES,HEXOKINASE,stem cell factor receptor activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
@@ -472,7 +472,7 @@ C0248868,C1150587,STIMULATES,calmodulin-dependent protein kinase II,JUN kinase a
 C0249187,C0597304,STIMULATES,"NS3 protein, hepatitis C virus",Proteolysis,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0251914,C1150347,STIMULATES,"PDIA3 protein, human",protein disulfide isomerase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0254260,C0597295,STIMULATES,"EIF4EBP1 protein, human",Protein Biosynthesis,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C0255156,C0031715,STIMULATES,Protein Phosphatase 2A Regulatory Subunit PR53,Phosphorylation,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C0255156,C0031715,STIMULATES,Protein Phosphatase 2A Regulatory Subunit PR53,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0256616,C1138407,STIMULATES,Mannose-Binding Protein-Associated Serine Proteases,"Complement Pathway, Mannose-Binding Lectin",aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0257694,C0031715,STIMULATES,Protein Kinase C-epsilon,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0257694,C1150587,STIMULATES,Protein Kinase C-epsilon,JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
@@ -493,7 +493,7 @@ C0286648,C1817389,STIMULATES,Myeloid Differentiation Factor 88,pattern recogniti
 C0286648,C2247717,STIMULATES,Myeloid Differentiation Factor 88,toll-like receptor 2 signaling pathway,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0287750,C1150587,STIMULATES,Transcription Factor CHOP,JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0287920,C2611095,STIMULATES,STAT1 protein,ERK cascade,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C0287990,C0597304,STIMULATES,paired basic amino acid cleaving enzyme,Proteolysis,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C0287990,C0597304,STIMULATES,paired basic amino acid cleaving enzyme,Proteolysis,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0287990,C1150095,STIMULATES,paired basic amino acid cleaving enzyme,peptidase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0288472,C0031715,STIMULATES,oncoprotein p21,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C0289012,C1150587,STIMULATES,TNF Receptor-Associated Death Domain Protein,JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
@@ -816,7 +816,7 @@ C1414406,C1325174,STIMULATES,ENPEP gene,tau-protein kinase activity,aapp,moft,1,
 C1414444,C0031715,STIMULATES,ERN1 gene,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1414444,C0813988,STIMULATES,ERN1 gene,autophosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1414444,C1150423,STIMULATES,ERN1 gene,kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C1414444,C1150587,STIMULATES,ERN1 gene,JUN kinase activity,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C1414444,C1150587,STIMULATES,ERN1 gene,JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1414444,C1257755,STIMULATES,ERN1 gene,RNA Decay,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1414444,C1621396,STIMULATES,ERN1 gene,JNK Pathway,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1414557,C1621396,STIMULATES,FCGRT gene,JNK Pathway,aapp,moft,1,STIMULATES_AAPPstimMOFT
@@ -1136,7 +1136,7 @@ C1853685,C3272080,STIMULATES,PBRM1 gene,NLRP3 inflammasome activation,aapp,moft,
 C1864770,C0031715,STIMULATES,MAVS gene,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1864770,C0597304,STIMULATES,MAVS gene,Proteolysis,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1864770,C1150571,STIMULATES,MAVS gene,IkappaB kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C1864770,C1150587,STIMULATES,MAVS gene,JUN kinase activity,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C1864770,C1150587,STIMULATES,MAVS gene,JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1864770,C1151115,STIMULATES,MAVS gene,luciferin monooxygenase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1864770,C1155494,STIMULATES,MAVS gene,intracellular signal transduction,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C1864770,C1707312,STIMULATES,MAVS gene,Caspase-Dependent Apoptosis,aapp,moft,1,STIMULATES_AAPPstimMOFT
@@ -1185,7 +1185,7 @@ C3539807,C1704259,STIMULATES,RALBP1 wt Allele,Biochemical Pathway,aapp,moft,1,ST
 C3540525,C0001801,STIMULATES,F12 wt Allele,agglutination,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C3540546,C0031715,STIMULATES,ANTXR1 wt Allele,Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C3641819,C3269138,STIMULATES,Truncated BID,extrinsic apoptosis,aapp,moft,1,STIMULATES_AAPPstimMOFT
-C3710914,C0031715,STIMULATES,"EIF2AK2 protein, human",Phosphorylation,aapp,moft,2,STIMULATES_AAPPstimMOFT
+C3710914,C0031715,STIMULATES,"EIF2AK2 protein, human",Phosphorylation,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C3710914,C1150423,STIMULATES,"EIF2AK2 protein, human",kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C3710914,C1150587,STIMULATES,"EIF2AK2 protein, human",JUN kinase activity,aapp,moft,1,STIMULATES_AAPPstimMOFT
 C3710914,C1704259,STIMULATES,"EIF2AK2 protein, human",Biochemical Pathway,aapp,moft,1,STIMULATES_AAPPstimMOFT

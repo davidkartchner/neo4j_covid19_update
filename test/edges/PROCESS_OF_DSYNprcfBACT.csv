@@ -90,10 +90,10 @@ C0019112,C0040840,PROCESS_OF,Hemorrhoids,Treponema pallidum,dsyn,bact,1,PROCESS_
 C0021390,C0036111,PROCESS_OF,Inflammatory Bowel Diseases,Salmonella,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0004611,PROCESS_OF,Influenza,Bacteria,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0006132,PROCESS_OF,Influenza,Moraxella (Branhamella) catarrhalis,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0021400,C0018483,PROCESS_OF,Influenza,Haemophilus influenzae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0021400,C0018483,PROCESS_OF,Influenza,Haemophilus influenzae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0027575,PROCESS_OF,Influenza,Neisseria meningitidis,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0038172,PROCESS_OF,Influenza,Staphylococcus aureus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0021400,C0038410,PROCESS_OF,Influenza,Streptococcus pneumoniae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0021400,C0038410,PROCESS_OF,Influenza,Streptococcus pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0038411,PROCESS_OF,Influenza,Streptococcus pyogenes,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0021400,C0544144,PROCESS_OF,Influenza,Haemophilus suis,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0022568,C0033809,PROCESS_OF,Keratitis,Pseudomonas aeruginosa,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
@@ -163,7 +163,7 @@ C0035334,C0014834,PROCESS_OF,Retinitis Pigmentosa,Escherichia coli,dsyn,bact,1,P
 C0035334,C0563199,PROCESS_OF,Retinitis Pigmentosa,Bacterial cell,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0035436,C0038402,PROCESS_OF,Rheumatic Fever,Streptococcus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0036202,C0033477,PROCESS_OF,Sarcoidosis,Propionibacterium acnes,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0036285,C0038402,PROCESS_OF,Scarlet Fever,Streptococcus,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0036285,C0038402,PROCESS_OF,Scarlet Fever,Streptococcus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0036285,C0038411,PROCESS_OF,Scarlet Fever,Streptococcus pyogenes,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0036690,C0009054,PROCESS_OF,Septicemia,Clostridium,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0036690,C0022727,PROCESS_OF,Septicemia,Klebsiella,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
@@ -186,7 +186,7 @@ C0038826,C0038411,PROCESS_OF,Superinfection,Streptococcus pyogenes,dsyn,bact,1,P
 C0038826,C1265292,PROCESS_OF,Superinfection,Methicillin-Resistant Staphylococcus aureus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0041296,C0004611,PROCESS_OF,Tuberculosis,Bacteria,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0041296,C0026926,PROCESS_OF,Tuberculosis,Mycobacterium tuberculosis,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0041296,C0026934,PROCESS_OF,Tuberculosis,Mycoplasma,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0041296,C0026934,PROCESS_OF,Tuberculosis,Mycoplasma,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0041296,C1035882,PROCESS_OF,Tuberculosis,Mycobacterium immunogenum,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0041296,C1265234,PROCESS_OF,Tuberculosis,Nontuberculous Mycobacteria,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0041351,C0016676,PROCESS_OF,Tularemia,Francisella,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
@@ -277,12 +277,12 @@ C0275524,C0008148,PROCESS_OF,Coinfection,Chlamydia,dsyn,bact,1,PROCESS_OF_DSYNpr
 C0275524,C0010240,PROCESS_OF,Coinfection,Coxiella burnetii,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0014344,PROCESS_OF,Coinfection,Enterobacter,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0014834,PROCESS_OF,Coinfection,Escherichia coli,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0275524,C0018483,PROCESS_OF,Coinfection,Haemophilus influenzae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0275524,C0018483,PROCESS_OF,Coinfection,Haemophilus influenzae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0026934,PROCESS_OF,Coinfection,Mycoplasma,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0026941,PROCESS_OF,Coinfection,Mycoplasma pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0030637,PROCESS_OF,Coinfection,Pasteurella multocida,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0038172,PROCESS_OF,Coinfection,Staphylococcus aureus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0275524,C0038410,PROCESS_OF,Coinfection,Streptococcus pneumoniae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0275524,C0038410,PROCESS_OF,Coinfection,Streptococcus pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0085489,PROCESS_OF,Coinfection,Actinobacillus pleuropneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0085520,PROCESS_OF,Coinfection,Streptococcus suis,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0275524,C0317810,PROCESS_OF,Coinfection,Mycoplasma synoviae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
@@ -315,10 +315,10 @@ C0574084,C0995637,PROCESS_OF,3-Methylglutaconic aciduria type 3,Bacillus methano
 C0598196,C0038410,PROCESS_OF,microbial disease,Streptococcus pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0684256,C0004611,PROCESS_OF,Bacterial sepsis,Bacteria,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0694549,C0022727,PROCESS_OF,Community acquired pneumonia,Klebsiella,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0694549,C0026941,PROCESS_OF,Community acquired pneumonia,Mycoplasma pneumoniae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0694549,C0026941,PROCESS_OF,Community acquired pneumonia,Mycoplasma pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0694549,C0033809,PROCESS_OF,Community acquired pneumonia,Pseudomonas aeruginosa,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0694549,C0038172,PROCESS_OF,Community acquired pneumonia,Staphylococcus aureus,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
-C0694549,C0038410,PROCESS_OF,Community acquired pneumonia,Streptococcus pneumoniae,dsyn,bact,2,PROCESS_OF_DSYNprcfBACT
+C0694549,C0038410,PROCESS_OF,Community acquired pneumonia,Streptococcus pneumoniae,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0702166,C0004611,PROCESS_OF,Acne,Bacteria,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0729552,C0008148,PROCESS_OF,Genital infection,Chlamydia,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT
 C0740441,C0033477,PROCESS_OF,Acute diarrhea,Propionibacterium acnes,dsyn,bact,1,PROCESS_OF_DSYNprcfBACT

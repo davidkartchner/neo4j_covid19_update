@@ -85,7 +85,7 @@ C0007584,C0242506,USES,Cell Count,Fluorescence Spectroscopy,lbpr,lbpr,1,USES_LBP
 C0007584,C0242841,USES,Cell Count,"Microscopy, Confocal, Laser Scanning",lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0242842,USES,Cell Count,"Microscopy, Confocal",lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0282547,USES,Cell Count,Coculture Techniques,lbpr,lbpr,1,USES_LBPRusesLBPR
-C0007584,C0282646,USES,Cell Count,Indirect Immunofluorescence,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0282646,USES,Cell Count,Indirect Immunofluorescence,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0282647,USES,Cell Count,"Fluorescent Antibody Technique, Indirect",lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0282649,USES,Cell Count,"Fluorescent Antibody Technique, Direct",lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0337438,USES,Cell Count,Glucose measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
@@ -96,7 +96,7 @@ C0007584,C0430389,USES,Cell Count,Light Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0441073,USES,Cell Count,Bright field,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0457437,USES,Cell Count,Microscopy technique,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0597717,USES,Cell Count,Fluorescence Resonance Energy Transfer,lbpr,lbpr,1,USES_LBPRusesLBPR
-C0007584,C0599662,USES,Cell Count,magnetic cell separation system,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007584,C0599662,USES,Cell Count,magnetic cell separation system,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0600070,USES,Cell Count,Direct microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0600209,USES,Cell Count,SDS-PAGE,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007584,C0600396,USES,Cell Count,Laser Scanning Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
@@ -159,7 +159,7 @@ C0007616,C0200955,USES,Cell Separation,Viral culture procedure,lbpr,lbpr,1,USES_
 C0007616,C0599662,USES,Cell Separation,magnetic cell separation system,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007703,C0005863,USES,Centrifugation,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007703,C0008551,USES,Centrifugation,"Chromatography, Affinity",lbpr,lbpr,1,USES_LBPRusesLBPR
-C0007703,C0014441,USES,Centrifugation,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0007703,C0014441,USES,Centrifugation,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007703,C0021069,USES,Centrifugation,Immunoprecipitation,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007703,C0022885,USES,Centrifugation,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0007703,C0032102,USES,Centrifugation,plaque assay,lbpr,lbpr,1,USES_LBPRusesLBPR
@@ -270,7 +270,7 @@ C0016263,C0597452,USES,Flow Cytometry,Single-Cell Analysis,lbpr,lbpr,1,USES_LBPR
 C0016263,C1318786,USES,Flow Cytometry,Fluorescent stain method,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0016263,C1510438,USES,Flow Cytometry,Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0016318,C0007584,USES,Fluorescent Antibody Technique,Cell Count,lbpr,lbpr,1,USES_LBPRusesLBPR
-C0016318,C0014441,USES,Fluorescent Antibody Technique,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0016318,C0014441,USES,Fluorescent Antibody Technique,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0016318,C0016263,USES,Fluorescent Antibody Technique,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0016318,C0022885,USES,Fluorescent Antibody Technique,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0016318,C0026018,USES,Fluorescent Antibody Technique,Microscopy,lbpr,lbpr,1,USES_LBPRusesLBPR
@@ -750,7 +750,7 @@ C0430420,C1318793,USES,Antigen assay,Immunofluorescent stain method,lbpr,lbpr,1,
 C0430420,C3178849,USES,Antigen assay,Immunochromatography,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0430420,C4049928,USES,Antigen assay,Immunoglobulin G Subclass 1 Measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0430425,C0005863,USES,Procedure to identify antibody,Western Blotting,lbpr,lbpr,1,USES_LBPRusesLBPR
-C0430425,C0014441,USES,Procedure to identify antibody,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C0430425,C0014441,USES,Procedure to identify antibody,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0430425,C0016318,USES,Procedure to identify antibody,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0430425,C0022885,USES,Procedure to identify antibody,Laboratory Procedures,lbpr,lbpr,1,USES_LBPRusesLBPR
 C0430425,C0086231,USES,Procedure to identify antibody,Enzyme Immunoassay,lbpr,lbpr,1,USES_LBPRusesLBPR
@@ -983,7 +983,7 @@ C1510438,C0011321,USES,Assay,Densitometry,lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0013855,USES,Assay,Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0013856,USES,Assay,"Electrophoresis, Agar Gel",lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0013862,USES,Assay,Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,USES_LBPRusesLBPR
-C1510438,C0014441,USES,Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,USES_LBPRusesLBPR
+C1510438,C0014441,USES,Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0014772,USES,Assay,Red Blood Cell Count measurement,lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0016263,USES,Assay,Flow Cytometry,lbpr,lbpr,1,USES_LBPRusesLBPR
 C1510438,C0016318,USES,Assay,Fluorescent Antibody Technique,lbpr,lbpr,1,USES_LBPRusesLBPR

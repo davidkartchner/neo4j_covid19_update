@@ -59,7 +59,7 @@ C0005117,C1336636,INHIBITS,Berberine,TLR4 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0005304,C0021641,INHIBITS,Betaine,Insulin,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0005575,C0075028,INHIBITS,Biotin,spleen exonuclease,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0005575,C3711667,INHIBITS,Biotin,"ARHGEF5 protein, human",orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0005661,C0010656,INHIBITS,Bithionol,caspase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0005661,C0010656,INHIBITS,Bithionol,caspase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0005802,C0023821,INHIBITS,Blood Glucose,High Density Lipoproteins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0005802,C0023823,INHIBITS,Blood Glucose,Low-Density Lipoproteins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0006230,C0030946,INHIBITS,Bromocriptine,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -320,7 +320,7 @@ C0034392,C0030946,INHIBITS,Quercetin,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinh
 C0034392,C0041368,INHIBITS,Quercetin,Tumor Necrosis Factors,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0034392,C0042736,INHIBITS,Quercetin,Viral Proteins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0034392,C0054757,INHIBITS,Quercetin,carboxypeptidase H,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0034392,C0058107,INHIBITS,Quercetin,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0034392,C0058107,INHIBITS,Quercetin,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0034392,C0079189,INHIBITS,Quercetin,cytokine,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0034392,C0132555,INHIBITS,Quercetin,Nitric Oxide Synthase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0034392,C0165519,INHIBITS,Quercetin,Matrix Metalloproteinase 9,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -352,7 +352,7 @@ C0039294,C0030940,INHIBITS,Tannic Acid,Peptide Hydrolases,orch,aapp,1,INHIBITS_O
 C0039294,C1825598,INHIBITS,Tannic Acid,IMPACT gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0039315,C0033640,INHIBITS,Tars,Protein Kinases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0039315,C0058980,INHIBITS,Tars,eIF-2 Kinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0039315,C3710914,INHIBITS,Tars,"EIF2AK2 protein, human",orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0039315,C3710914,INHIBITS,Tars,"EIF2AK2 protein, human",orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0039902,C0030946,INHIBITS,Thioguanine,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0040096,C0021755,INHIBITS,Thymol,Interleukin-1,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0040613,C0016016,INHIBITS,Tranexamic Acid,Plasmin,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -371,7 +371,7 @@ C0046699,C1418188,INHIBITS,25-hydroxycholesterol,OSBP gene,orch,aapp,1,INHIBITS_
 C0046699,C1420399,INHIBITS,25-hydroxycholesterol,SREBF2 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0047130,C1538071,INHIBITS,3-(2-phenylethyl)-4-methylsydnone,VSIG4 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0047895,C0010656,INHIBITS,4-(2-aminoethyl)benzenesulfonylfluoride,caspase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0047895,C0030940,INHIBITS,4-(2-aminoethyl)benzenesulfonylfluoride,Peptide Hydrolases,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0047895,C0030940,INHIBITS,4-(2-aminoethyl)benzenesulfonylfluoride,Peptide Hydrolases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0047895,C0030946,INHIBITS,4-(2-aminoethyl)benzenesulfonylfluoride,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0047895,C0291573,INHIBITS,4-(2-aminoethyl)benzenesulfonylfluoride,caspase-3,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0048072,C1367307,INHIBITS,4-anisyltetrazolium blue,STAT3 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -462,7 +462,7 @@ C0059831,C1420232,INHIBITS,ethylisopropylamiloride,SLC9A1 gene,orch,aapp,1,INHIB
 C0060131,C0072134,INHIBITS,febrifugine,Proline-tRNA ligase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0060444,C0058107,INHIBITS,Flavonols,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0060992,C0041368,INHIBITS,galangin,Tumor Necrosis Factors,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0060992,C0058107,INHIBITS,galangin,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0060992,C0058107,INHIBITS,galangin,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0061275,C0164786,INHIBITS,ginsenoside Rh2,Proto-Oncogene Proteins c-akt,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0061275,C0174680,INHIBITS,ginsenoside Rh2,Cyclin D1,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0061275,C1413287,INHIBITS,ginsenoside Rh2,CDK6 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -487,7 +487,7 @@ C0063041,C0443583,INHIBITS,leflunomide,Orotidine-5'-monophosphate decarboxylase,
 C0064071,C0079904,INHIBITS,isoquercitrin,NF-kappa B,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0064110,C0022159,INHIBITS,itaconic acid,Isocitrate Lyase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0064280,C0040648,INHIBITS,kaempferol,TRANSCRIPTION FACTOR,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0064280,C0058107,INHIBITS,kaempferol,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0064280,C0058107,INHIBITS,kaempferol,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0064678,C0001271,INHIBITS,latrunculin B,Actins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0064771,C1333682,INHIBITS,leptomycin B,NOP53 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0064771,C1421544,INHIBITS,leptomycin B,XPO1 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -507,14 +507,14 @@ C0067067,C0012274,INHIBITS,myricetin,Dihydroorotase,orch,aapp,1,INHIBITS_ORCHinh
 C0067067,C0026454,INHIBITS,myricetin,Monoamine Oxidase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C0040018,INHIBITS,myricetin,Thrombin,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C0051188,INHIBITS,myricetin,Allantoinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0067067,C0058107,INHIBITS,myricetin,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0067067,C0058107,INHIBITS,myricetin,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C0164786,INHIBITS,myricetin,Proto-Oncogene Proteins c-akt,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C0165519,INHIBITS,myricetin,Matrix Metalloproteinase 9,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C0172537,INHIBITS,myricetin,Matrix Metalloproteinase 2,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C1417247,INHIBITS,myricetin,MPV17 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C1505783,INHIBITS,myricetin,"dnaB protein, E coli",orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0067067,C1565860,INHIBITS,myricetin,"PTGS2 protein, human",orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0067068,C0058107,INHIBITS,myricitrin,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0067068,C0058107,INHIBITS,myricitrin,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0068767,C1413512,INHIBITS,nile red,CLTC gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0068788,C0025831,INHIBITS,nitazoxanide,Methyltransferase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0068788,C0054757,INHIBITS,nitazoxanide,carboxypeptidase H,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -706,7 +706,7 @@ C0379965,C0121925,INHIBITS,gomisin J,"reverse transcriptase, Human immunodeficie
 C0388088,C1414253,INHIBITS,FTY-720,S1PR1 gene,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0389500,C0529196,INHIBITS,TAPI-2,ADAM17 Protein,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0390843,C0244172,INHIBITS,BL 1743,"M2 protein, Influenza A virus",orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C0525005,C0030940,INHIBITS,Nelfinavir,Peptide Hydrolases,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C0525005,C0030940,INHIBITS,Nelfinavir,Peptide Hydrolases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0525005,C0030946,INHIBITS,Nelfinavir,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0525005,C0208355,INHIBITS,Nelfinavir,multicatalytic endopeptidase complex,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C0525678,C0035094,INHIBITS,rasagiline,Renin,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -833,13 +833,13 @@ C1122962,C0034802,INHIBITS,gefitinib,Epidermal Growth Factor Receptor,orch,aapp,
 C1138226,C0035685,INHIBITS,favipiravir,RNA-Directed RNA Polymerase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1138226,C0054757,INHIBITS,favipiravir,carboxypeptidase H,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1138226,C1335439,INHIBITS,favipiravir,Polymerase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C1142985,C0596902,INHIBITS,ezetimibe,Membrane Transport Proteins,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C1142985,C0596902,INHIBITS,ezetimibe,Membrane Transport Proteins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1144341,C0539636,INHIBITS,CGP 57380,"MKNK1 protein, human",orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1145759,C0030946,INHIBITS,Atazanavir,Endopeptidases,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C1170364,C0021753,INHIBITS,Kineret,Interleukin-1 beta,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C1170364,C0021753,INHIBITS,Kineret,Interleukin-1 beta,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1170364,C0600251,INHIBITS,Kineret,Interleukin-1 alpha,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1172934,C0597357,INHIBITS,AVE 0991,receptor,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C1174885,C0058107,INHIBITS,dihydromyricetin,Dihydropyrimidinase,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C1174885,C0058107,INHIBITS,dihydromyricetin,Dihydropyrimidinase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176007,C0021760,INHIBITS,"3,3',4,5'-tetrahydroxystilbene",Interleukin-6,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176007,C0079189,INHIBITS,"3,3',4,5'-tetrahydroxystilbene",cytokine,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176214,C0017932,INHIBITS,Chir 99021,Glycogen (Starch) Synthase,orch,aapp,1,INHIBITS_ORCHinhbAAPP
@@ -849,7 +849,7 @@ C1176309,C0041538,INHIBITS,bortezomib,Ubiquitin,orch,aapp,1,INHIBITS_ORCHinhbAAP
 C1176309,C0042738,INHIBITS,bortezomib,Viral Structural Proteins,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176309,C0208355,INHIBITS,bortezomib,multicatalytic endopeptidase complex,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176309,C0246694,INHIBITS,bortezomib,MG 132,orch,aapp,1,INHIBITS_ORCHinhbAAPP
-C1176309,C0286330,INHIBITS,bortezomib,26S proteasome,orch,aapp,2,INHIBITS_ORCHinhbAAPP
+C1176309,C0286330,INHIBITS,bortezomib,26S proteasome,orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1176309,C3710914,INHIBITS,bortezomib,"EIF2AK2 protein, human",orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1257855,C0121925,INHIBITS,Xanthones,"reverse transcriptase, Human immunodeficiency virus 1",orch,aapp,1,INHIBITS_ORCHinhbAAPP
 C1257954,C1256770,INHIBITS,Cyclooxygenase 2 Inhibitors,Vascular Endothelial Growth Factors,orch,aapp,1,INHIBITS_ORCHinhbAAPP

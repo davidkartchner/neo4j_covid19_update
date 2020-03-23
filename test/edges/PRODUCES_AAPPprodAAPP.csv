@@ -98,7 +98,7 @@ C0003250,C1427460,PRODUCES,Monoclonal Antibodies,OARD1 gene,aapp,aapp,1,PRODUCES
 C0003313,C0475463,PRODUCES,Immune complex,"Antibodies, Neutralizing",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0003438,C0724532,PRODUCES,Antithrombin III,"Antithrombin III, Human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0003593,C0052193,PRODUCES,Apolipoproteins B,apolipoprotein D,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0003765,C0079259,PRODUCES,Arginine,Dystrophin,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0003765,C0079259,PRODUCES,Arginine,Dystrophin,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0003765,C0312759,PRODUCES,Arginine,Desarginisated complement enzyme,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0003995,C1413503,PRODUCES,Asparagine,CLOCK gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0004358,C1540056,PRODUCES,Autoantibodies,TRIM21 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -330,8 +330,8 @@ C0021753,C0021760,PRODUCES,Interleukin-1 beta,Interleukin-6,aapp,aapp,1,PRODUCES
 C0021753,C0026682,PRODUCES,Interleukin-1 beta,Mucins,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021753,C0072978,PRODUCES,Interleukin-1 beta,RANTES,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021753,C0079189,PRODUCES,Interleukin-1 beta,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0021753,C0079460,PRODUCES,Interleukin-1 beta,Granulocyte-Macrophage Colony-Stimulating Factor,aapp,aapp,2,PRODUCES_AAPPprodAAPP
-C0021753,C1448177,PRODUCES,Interleukin-1 beta,"TNF protein, human",aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0021753,C0079460,PRODUCES,Interleukin-1 beta,Granulocyte-Macrophage Colony-Stimulating Factor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
+C0021753,C1448177,PRODUCES,Interleukin-1 beta,"TNF protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021755,C0021756,PRODUCES,Interleukin-1,Interleukin-2,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021755,C0021760,PRODUCES,Interleukin-1,Interleukin-6,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021755,C0041368,PRODUCES,Interleukin-1,Tumor Necrosis Factors,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -366,7 +366,7 @@ C0021758,C1332680,PRODUCES,Interleukin-4,CCL17 gene,aapp,aapp,1,PRODUCES_AAPPpro
 C0021758,C1332681,PRODUCES,Interleukin-4,CCL18 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021758,C1332685,PRODUCES,Interleukin-4,CCL22 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021758,C1332687,PRODUCES,Interleukin-4,CCL24 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0021758,C1702088,PRODUCES,Interleukin-4,"IL5 protein, human",aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0021758,C1702088,PRODUCES,Interleukin-4,"IL5 protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0016006,PRODUCES,Interleukin-6,Fibrinogen,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0021747,PRODUCES,Interleukin-6,Interferons,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0021755,PRODUCES,Interleukin-6,Interleukin-1,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -376,7 +376,7 @@ C0021760,C0063695,PRODUCES,Interleukin-6,Intercellular adhesion molecule 1,aapp,
 C0021760,C0072978,PRODUCES,Interleukin-6,RANTES,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0079189,PRODUCES,Interleukin-6,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0079460,PRODUCES,Interleukin-6,Granulocyte-Macrophage Colony-Stimulating Factor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0021760,C0085295,PRODUCES,Interleukin-6,Interleukin-10,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0021760,C0085295,PRODUCES,Interleukin-6,Interleukin-10,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0123759,PRODUCES,Interleukin-6,Interleukin-12,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0282554,PRODUCES,Interleukin-6,chemokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0021760,C0597357,PRODUCES,Interleukin-6,receptor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -462,7 +462,7 @@ C0030940,C1136102,PRODUCES,Peptide Hydrolases,Capsid Proteins,aapp,aapp,1,PRODUC
 C0030940,C1136161,PRODUCES,Peptide Hydrolases,Protomers,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0030940,C1148798,PRODUCES,Peptide Hydrolases,Activating Transcription Factors,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0030940,C1305923,PRODUCES,Peptide Hydrolases,Polypeptides,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0030940,C1309025,PRODUCES,Peptide Hydrolases,"SH2D3A protein, human",aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0030940,C1309025,PRODUCES,Peptide Hydrolases,"SH2D3A protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0030940,C1367710,PRODUCES,Peptide Hydrolases,C5 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0030940,C1416673,PRODUCES,Peptide Hydrolases,KLK13 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0030946,C0002520,PRODUCES,Endopeptidases,Amino Acids,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -543,7 +543,7 @@ C0034862,C0034861,PRODUCES,"Vaccines, Recombinant",Recombinant Proteins,aapp,aap
 C0034862,C0121463,PRODUCES,"Vaccines, Recombinant","nucleocapsid protein, Hepatitis C virus",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0034862,C1176244,PRODUCES,"Vaccines, Recombinant","DARC protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0034862,C3658243,PRODUCES,"Vaccines, Recombinant","Spike Glycoprotein, Coronavirus",aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0035094,C0003006,PRODUCES,Renin,Angiotensin I,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0035094,C0003006,PRODUCES,Renin,Angiotensin I,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0035094,C4521302,PRODUCES,Renin,"Angiotensin-1, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0035379,C0081937,PRODUCES,RNA-Directed DNA Polymerase,Dipeptidyl-Peptidase IV,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0035541,C1416521,PRODUCES,Pancreatic ribonuclease,ITSN2 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -585,12 +585,12 @@ C0041368,C0009630,PRODUCES,Tumor Necrosis Factors,Concanavalin A,aapp,aapp,1,PRO
 C0041368,C0021747,PRODUCES,Tumor Necrosis Factors,Interferons,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0021755,PRODUCES,Tumor Necrosis Factors,Interleukin-1,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0021756,PRODUCES,Tumor Necrosis Factors,Interleukin-2,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0041368,C0021760,PRODUCES,Tumor Necrosis Factors,Interleukin-6,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0041368,C0021760,PRODUCES,Tumor Necrosis Factors,Interleukin-6,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0034819,PRODUCES,Tumor Necrosis Factors,Interleukin 2 Receptor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0079189,PRODUCES,Tumor Necrosis Factors,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0079460,PRODUCES,Tumor Necrosis Factors,Granulocyte-Macrophage Colony-Stimulating Factor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0041368,C0085295,PRODUCES,Tumor Necrosis Factors,Interleukin-10,aapp,aapp,2,PRODUCES_AAPPprodAAPP
-C0041368,C0123759,PRODUCES,Tumor Necrosis Factors,Interleukin-12,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0041368,C0085295,PRODUCES,Tumor Necrosis Factors,Interleukin-10,aapp,aapp,1,PRODUCES_AAPPprodAAPP
+C0041368,C0123759,PRODUCES,Tumor Necrosis Factors,Interleukin-12,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041368,C0253050,PRODUCES,Tumor Necrosis Factors,Stat3 protein,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041484,C4084937,PRODUCES,MONOPHENOL MONOOXYGENASE,Antimicrobial Peptide,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0041538,C0085828,PRODUCES,Ubiquitin,Transcription Factor AP-1,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -779,11 +779,11 @@ C0085295,C0021740,PRODUCES,Interleukin-10,Recombinant Interferon-gamma,aapp,aapp
 C0085295,C0021747,PRODUCES,Interleukin-10,Interferons,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0021755,PRODUCES,Interleukin-10,Interleukin-1,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0021758,PRODUCES,Interleukin-10,Interleukin-4,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0085295,C0021760,PRODUCES,Interleukin-10,Interleukin-6,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0085295,C0021760,PRODUCES,Interleukin-10,Interleukin-6,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0034819,PRODUCES,Interleukin-10,Interleukin 2 Receptor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0085295,C0041368,PRODUCES,Interleukin-10,Tumor Necrosis Factors,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0085295,C0041368,PRODUCES,Interleukin-10,Tumor Necrosis Factors,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0079189,PRODUCES,Interleukin-10,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0085295,C0123759,PRODUCES,Interleukin-10,Interleukin-12,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0085295,C0123759,PRODUCES,Interleukin-10,Interleukin-12,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0208940,PRODUCES,Interleukin-10,human REG1A protein,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C0254610,PRODUCES,Interleukin-10,Interleukin-15,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0085295,C1099914,PRODUCES,Interleukin-10,"IL12B protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -838,11 +838,11 @@ C0123759,C0021743,PRODUCES,Interleukin-12,Interferon Type I,aapp,aapp,1,PRODUCES
 C0123759,C0021747,PRODUCES,Interleukin-12,Interferons,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0021755,PRODUCES,Interleukin-12,Interleukin-1,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0021758,PRODUCES,Interleukin-12,Interleukin-4,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0123759,C0021760,PRODUCES,Interleukin-12,Interleukin-6,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0123759,C0021760,PRODUCES,Interleukin-12,Interleukin-6,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0034819,PRODUCES,Interleukin-12,Interleukin 2 Receptor,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0041368,PRODUCES,Interleukin-12,Tumor Necrosis Factors,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0079189,PRODUCES,Interleukin-12,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0123759,C0085295,PRODUCES,Interleukin-12,Interleukin-10,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0123759,C0085295,PRODUCES,Interleukin-12,Interleukin-10,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0123759,C0282554,PRODUCES,Interleukin-12,chemokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0132308,C0030940,PRODUCES,neutrase,Peptide Hydrolases,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0136073,C0597298,PRODUCES,Peptidylprolyl Isomerase,Protein Isoforms,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -896,7 +896,7 @@ C0214743,C1332681,PRODUCES,Interleukin-13,CCL18 gene,aapp,aapp,1,PRODUCES_AAPPpr
 C0214743,C1332685,PRODUCES,Interleukin-13,CCL22 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0214743,C1332687,PRODUCES,Interleukin-13,CCL24 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0214743,C1417497,PRODUCES,Interleukin-13,MUC5AC gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0214743,C1702088,PRODUCES,Interleukin-13,"IL5 protein, human",aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0214743,C1702088,PRODUCES,Interleukin-13,"IL5 protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0215991,C0010590,PRODUCES,CD70 Antigen,Cycloserine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0219433,C0003250,PRODUCES,"POSTN protein, human",Monoclonal Antibodies,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0220780,C0017797,PRODUCES,Aminobutyric Acid,Glutamine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -1000,7 +1000,7 @@ C0384768,C0172511,PRODUCES,"IRF3 protein, human",interferon-alpha 8,aapp,aapp,1,
 C0384768,C1310468,PRODUCES,"IRF3 protein, human","DDX58 protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0384768,C1883559,PRODUCES,"IRF3 protein, human",Wild Type,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0384782,C1449651,PRODUCES,polyglutamine,Amyloid Fibrils,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0384822,C1415764,PRODUCES,"HSPH1 protein, human",HSPA8 gene,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0384822,C1415764,PRODUCES,"HSPH1 protein, human",HSPA8 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0386040,C0017968,PRODUCES,Ephrin-B2,Glycoproteins,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0388060,C0950080,PRODUCES,peptide A,Escherichia coli Proteins,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0388730,C0146462,PRODUCES,Cyclin D,E2F transcription factors,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -1100,7 +1100,7 @@ C0667830,C2240116,PRODUCES,caspase-8,TPPP3 gene,aapp,aapp,1,PRODUCES_AAPPprodAAP
 C0669472,C0030940,PRODUCES,ubiquitin-specific protease,Peptide Hydrolases,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0670896,C0021743,PRODUCES,Toll-like receptors,Interferon Type I,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0670896,C0079189,PRODUCES,Toll-like receptors,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C0670896,C0282554,PRODUCES,Toll-like receptors,chemokine,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C0670896,C0282554,PRODUCES,Toll-like receptors,chemokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0670896,C0669372,PRODUCES,Toll-like receptors,"NOS2A protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0670896,C1321919,PRODUCES,Toll-like receptors,"TLR4 protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C0671412,C0017968,PRODUCES,Ephrin-B3,Glycoproteins,aapp,aapp,1,PRODUCES_AAPPprodAAPP
@@ -1777,7 +1777,7 @@ C1701790,C0214743,PRODUCES,"IL17A protein, human",Interleukin-13,aapp,aapp,1,PRO
 C1701790,C1099914,PRODUCES,"IL17A protein, human","IL12B protein, human",aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C1701790,C1417201,PRODUCES,"IL17A protein, human",MMP12 gene,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C1701790,C1705280,PRODUCES,"IL17A protein, human",CDKN2A wt Allele,aapp,aapp,1,PRODUCES_AAPPprodAAPP
-C1702088,C0021758,PRODUCES,"IL5 protein, human",Interleukin-4,aapp,aapp,2,PRODUCES_AAPPprodAAPP
+C1702088,C0021758,PRODUCES,"IL5 protein, human",Interleukin-4,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C1702088,C0079189,PRODUCES,"IL5 protein, human",cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C1702088,C0214743,PRODUCES,"IL5 protein, human",Interleukin-13,aapp,aapp,1,PRODUCES_AAPPprodAAPP
 C1704691,C0079189,PRODUCES,FCGR3A wt Allele,cytokine,aapp,aapp,1,PRODUCES_AAPPprodAAPP

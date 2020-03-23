@@ -3,7 +3,7 @@ C0001962,C0001973,TREATS,Ethanol,"Alcoholic Intoxication, Chronic",orch,mobd,1,T
 C0002573,C0024809,TREATS,Aminophenols,Marijuana Abuse,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0002772,C0011206,TREATS,"Analgesics, Opioid",Delirium,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0008286,C0036341,TREATS,Chlorpromazine,Schizophrenia,orch,mobd,1,TREATS_ORCHtrtsMOBD
-C0009079,C0036341,TREATS,Clozapine,Schizophrenia,orch,mobd,2,TREATS_ORCHtrtsMOBD
+C0009079,C0036341,TREATS,Clozapine,Schizophrenia,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0010460,C0006370,TREATS,Cuprizone,Bulimia,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0010620,C0011581,TREATS,Cyproheptadine,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0013618,C0086168,TREATS,Edetic Acid,Dissociation,orch,mobd,1,TREATS_ORCHtrtsMOBD
@@ -13,7 +13,7 @@ C0018546,C0011206,TREATS,Haloperidol,Delirium,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0018546,C0038271,TREATS,Haloperidol,Stereotyped Behavior,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0020934,C0011581,TREATS,Imipramine,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0025598,C0008073,TREATS,Metformin,Developmental Disabilities,orch,mobd,1,TREATS_ORCHtrtsMOBD
-C0041009,C0036341,TREATS,Trihexyphenidyl,Schizophrenia,orch,mobd,2,TREATS_ORCHtrtsMOBD
+C0041009,C0036341,TREATS,Trihexyphenidyl,Schizophrenia,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0042291,C0004936,TREATS,Valproic Acid,Mental disorders,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0049506,C0011581,TREATS,Mirtazapine,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0051561,C0011581,TREATS,amentoflavone,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD
@@ -21,8 +21,8 @@ C0069751,C0011581,TREATS,oxcarbazepine,Depressive disorder,orch,mobd,1,TREATS_OR
 C0071097,C0036341,TREATS,pioglitazone,Schizophrenia,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0075810,C0233794,TREATS,tanshinone,Memory impairment,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0078442,C0011581,TREATS,epinastine,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD
-C0113293,C0741146,TREATS,Dexmedetomidine,anxiety acute,orch,mobd,2,TREATS_ORCHtrtsMOBD
-C0123091,C0011206,TREATS,quetiapine,Delirium,orch,mobd,2,TREATS_ORCHtrtsMOBD
+C0113293,C0741146,TREATS,Dexmedetomidine,anxiety acute,orch,mobd,1,TREATS_ORCHtrtsMOBD
+C0123091,C0011206,TREATS,quetiapine,Delirium,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0216660,C0242510,TREATS,Zanamivir,Drug usage,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0298130,C0233794,TREATS,montelukast,Memory impairment,orch,mobd,1,TREATS_ORCHtrtsMOBD
 C0772037,C0011581,TREATS,ROSE HIPS,Depressive disorder,orch,mobd,1,TREATS_ORCHtrtsMOBD

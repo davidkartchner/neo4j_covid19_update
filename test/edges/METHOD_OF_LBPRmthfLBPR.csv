@@ -16,7 +16,7 @@ C0005863,C0008559,METHOD_OF,Western Blotting,Gel Chromatography,lbpr,lbpr,1,METH
 C0005863,C0013855,METHOD_OF,Western Blotting,Electrophoresis,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0005863,C0013856,METHOD_OF,Western Blotting,"Electrophoresis, Agar Gel",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0005863,C0013862,METHOD_OF,Western Blotting,Polyacrylamide Gel Electrophoresis,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C0005863,C0014441,METHOD_OF,Western Blotting,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C0005863,C0014441,METHOD_OF,Western Blotting,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0005863,C0016263,METHOD_OF,Western Blotting,Flow Cytometry,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0005863,C0016318,METHOD_OF,Western Blotting,Fluorescent Antibody Technique,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0005863,C0020980,METHOD_OF,Western Blotting,Immunoassay method,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -257,7 +257,7 @@ C0014441,C0368676,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Antibody screen,lb
 C0014441,C0427716,METHOD_OF,Enzyme-Linked Immunosorbent Assay,"Protein concentration, test strip measurement",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0014441,C0428539,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Total immunoglobulin measurement,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0014441,C0430420,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Antigen assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C0014441,C0430425,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Procedure to identify antibody,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C0014441,C0430425,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Procedure to identify antibody,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0014441,C0474643,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Antibody titer measurement,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0014441,C0580327,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Antibody studies (procedure),lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0014441,C0596795,METHOD_OF,Enzyme-Linked Immunosorbent Assay,Intravital Microscopy,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -553,7 +553,7 @@ C0037813,C0200363,METHOD_OF,Mass Spectrometry,Specimen preparation,lbpr,lbpr,1,M
 C0037813,C0427743,METHOD_OF,Mass Spectrometry,"Glucose concentration, test strip measurement",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0037813,C0444680,METHOD_OF,Mass Spectrometry,Protein profiling,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0037813,C0596495,METHOD_OF,Mass Spectrometry,"Spectrometry, Mass, Electrospray Ionization",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C0037813,C0600209,METHOD_OF,Mass Spectrometry,SDS-PAGE,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C0037813,C0600209,METHOD_OF,Mass Spectrometry,SDS-PAGE,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0037813,C0814048,METHOD_OF,Mass Spectrometry,Cytometry,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0037813,C1449705,METHOD_OF,Mass Spectrometry,Co-Immunoprecipitation,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0037813,C1510438,METHOD_OF,Mass Spectrometry,Assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -724,7 +724,7 @@ C0282597,C1294275,METHOD_OF,"Spectrometry, Mass, Matrix-Assisted Laser Desorptio
 C0282597,C1441498,METHOD_OF,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Anaerobic blood culture,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0282597,C1446041,METHOD_OF,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Serum protein profile,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0282597,C2936240,METHOD_OF,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Two-Dimensional Difference Gel Electrophoresis,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C0282646,C0007584,METHOD_OF,Indirect Immunofluorescence,Cell Count,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C0282646,C0007584,METHOD_OF,Indirect Immunofluorescence,Cell Count,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0282646,C0014441,METHOD_OF,Indirect Immunofluorescence,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0282646,C0016263,METHOD_OF,Indirect Immunofluorescence,Flow Cytometry,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0282646,C0023508,METHOD_OF,Indirect Immunofluorescence,White Blood Cell Count procedure,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -816,7 +816,7 @@ C0599662,C0282547,METHOD_OF,magnetic cell separation system,Coculture Techniques
 C0599862,C0007584,METHOD_OF,northern hybridization,Cell Count,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0600209,C0001674,METHOD_OF,SDS-PAGE,Adsorption,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0600209,C0005863,METHOD_OF,SDS-PAGE,Western Blotting,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C0600209,C0007584,METHOD_OF,SDS-PAGE,Cell Count,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C0600209,C0007584,METHOD_OF,SDS-PAGE,Cell Count,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0600209,C0007703,METHOD_OF,SDS-PAGE,Centrifugation,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0600209,C0008551,METHOD_OF,SDS-PAGE,"Chromatography, Affinity",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C0600209,C0008552,METHOD_OF,SDS-PAGE,"Chromatography, Agarose",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -1005,7 +1005,7 @@ C1510438,C0007594,METHOD_OF,Assay,Cell fusion procedure,lbpr,lbpr,1,METHOD_OF_LB
 C1510438,C0007703,METHOD_OF,Assay,Centrifugation,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C0009407,METHOD_OF,Assay,Colorimetry,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C0009541,METHOD_OF,Assay,Complement Fixation Tests,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C1510438,C0014441,METHOD_OF,Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C1510438,C0014441,METHOD_OF,Assay,Enzyme-Linked Immunosorbent Assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C0014772,METHOD_OF,Assay,Red Blood Cell Count measurement,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C0016263,METHOD_OF,Assay,Flow Cytometry,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C0016318,METHOD_OF,Assay,Fluorescent Antibody Technique,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
@@ -1052,7 +1052,7 @@ C1510438,C1441604,METHOD_OF,Assay,High sensitivity,lbpr,lbpr,1,METHOD_OF_LBPRmth
 C1510438,C1511124,METHOD_OF,Assay,"Bioassay, In Vivo",lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C1513388,METHOD_OF,Assay,Molecular Diagnosis,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C1710378,METHOD_OF,Assay,Thaw,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
-C1510438,C2697666,METHOD_OF,Assay,Immunoenzyme Procedure,lbpr,lbpr,2,METHOD_OF_LBPRmthfLBPR
+C1510438,C2697666,METHOD_OF,Assay,Immunoenzyme Procedure,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C2707655,METHOD_OF,Assay,Respiratory Pathogen Panel,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C3146302,METHOD_OF,Assay,Mutagenesis Procedure,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR
 C1510438,C3178850,METHOD_OF,Assay,Immunochromatographic Assay,lbpr,lbpr,1,METHOD_OF_LBPRmthfLBPR

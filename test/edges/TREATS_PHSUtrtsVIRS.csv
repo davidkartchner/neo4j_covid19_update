@@ -14,7 +14,7 @@ C0003451,C0004422,TREATS,Antiviral Agents,Avian leukosis virus,phsu,virs,1,TREAT
 C0003451,C0008056,TREATS,Antiviral Agents,Chikungunya virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C0009743,TREATS,Antiviral Agents,"Hemorrhagic Fever Virus, Crimean-Congo",phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C0010825,TREATS,Antiviral Agents,Cytomegalovirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0003451,C0011315,TREATS,Antiviral Agents,Dengue Virus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0003451,C0011315,TREATS,Antiviral Agents,Dengue Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C0014047,TREATS,Antiviral Agents,Japanese encephalitis virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C0016215,TREATS,Antiviral Agents,Flavivirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C0019092,TREATS,Antiviral Agents,Hantavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
@@ -50,12 +50,12 @@ C0003451,C1175743,TREATS,Antiviral Agents,SARS coronavirus,phsu,virs,1,TREATS_PH
 C0003451,C1258014,TREATS,Antiviral Agents,Human Metapneumovirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C1516962,TREATS,Antiviral Agents,Escape Mutant,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C1676985,TREATS,Antiviral Agents,Human coronavirus HKU1,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0003451,C3698360,TREATS,Antiviral Agents,Middle East Respiratory Syndrome Coronavirus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0003451,C3698360,TREATS,Antiviral Agents,Middle East Respiratory Syndrome Coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0003451,C4445584,TREATS,Antiviral Agents,SFTS phlebovirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0006280,C0206545,TREATS,Bronchodilator Agents,Human respiratory syncytial virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0009117,C0205790,TREATS,Coagulants,Puumala virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0012133,C0019682,TREATS,Didanosine,HIV,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0013230,C0010825,TREATS,Investigational New Drugs,Cytomegalovirus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0013230,C0010825,TREATS,Investigational New Drugs,Cytomegalovirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0013230,C0012923,TREATS,Investigational New Drugs,DNA Viruses,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0016360,C0002331,TREATS,Fluorouracil,Alphavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0016360,C0008056,TREATS,Fluorouracil,Chikungunya virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
@@ -80,16 +80,16 @@ C0035525,C0006024,TREATS,Ribavirin,Borna disease virus,phsu,virs,1,TREATS_PHSUtr
 C0035525,C0008056,TREATS,Ribavirin,Chikungunya virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0014047,TREATS,Ribavirin,Japanese encephalitis virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0023093,TREATS,Ribavirin,Lassa virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0035525,C0029341,TREATS,Ribavirin,Orthomyxoviridae,phsu,virs,2,TREATS_PHSUtrtsVIRS
-C0035525,C0035236,TREATS,Ribavirin,Respiratory syncytial virus,phsu,virs,3,TREATS_PHSUtrtsVIRS
+C0035525,C0029341,TREATS,Ribavirin,Orthomyxoviridae,phsu,virs,1,TREATS_PHSUtrtsVIRS
+C0035525,C0035236,TREATS,Ribavirin,Respiratory syncytial virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0035614,TREATS,Ribavirin,Rift Valley fever virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0035691,TREATS,Ribavirin,RNA Viruses,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0037170,TREATS,Ribavirin,Sindbis Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0042776,TREATS,Ribavirin,Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0035525,C0085294,TREATS,Ribavirin,Hepatitis E virus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0035525,C0085294,TREATS,Ribavirin,Hepatitis E virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0206419,TREATS,Ribavirin,Genus: Coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0035525,C0206545,TREATS,Ribavirin,Human respiratory syncytial virus,phsu,virs,2,TREATS_PHSUtrtsVIRS
-C0035525,C0220847,TREATS,Ribavirin,Hepatitis C virus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0035525,C0206545,TREATS,Ribavirin,Human respiratory syncytial virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
+C0035525,C0220847,TREATS,Ribavirin,Hepatitis C virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0318855,TREATS,Ribavirin,Porcine epidemic diarrhea virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0597404,TREATS,Ribavirin,Respiratory viruses,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C0949945,TREATS,Ribavirin,Foot-and-Mouth Disease Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
@@ -98,7 +98,7 @@ C0035525,C1258014,TREATS,Ribavirin,Human Metapneumovirus,phsu,virs,1,TREATS_PHSU
 C0035525,C1319861,TREATS,Ribavirin,Human parainfluenza viruses,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C1457865,TREATS,Ribavirin,Genus Phlebovirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0035525,C3532919,TREATS,Ribavirin,Hepatitis C virus genotype 1,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C0035525,C3698360,TREATS,Ribavirin,Middle East Respiratory Syndrome Coronavirus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C0035525,C3698360,TREATS,Ribavirin,Middle East Respiratory Syndrome Coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0040616,C0206419,TREATS,Anti-Anxiety Agents,Genus: Coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0040616,C0206422,TREATS,Anti-Anxiety Agents,Human coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C0040987,C1444092,TREATS,Trifluridine,Resistant virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
@@ -217,7 +217,7 @@ C3537218,C0029341,TREATS,Neuraminidase Inhibitor [EPC],Orthomyxoviridae,phsu,vir
 C3537218,C0042776,TREATS,Neuraminidase Inhibitor [EPC],Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C3539125,C0042776,TREATS,other medicated shampoos in ATC,Virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C3539125,C0206419,TREATS,other medicated shampoos in ATC,Genus: Coronavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
-C3539125,C0220847,TREATS,other medicated shampoos in ATC,Hepatitis C virus,phsu,virs,2,TREATS_PHSUtrtsVIRS
+C3539125,C0220847,TREATS,other medicated shampoos in ATC,Hepatitis C virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C3539125,C0598902,TREATS,other medicated shampoos in ATC,murine nodule inducing virus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C3539125,C0949892,TREATS,other medicated shampoos in ATC,Ebolavirus,phsu,virs,1,TREATS_PHSUtrtsVIRS
 C3539957,C0030392,TREATS,opium alkaloids and derivative combination cough suppressants,"Parainfluenza Virus 3, Human",phsu,virs,1,TREATS_PHSUtrtsVIRS

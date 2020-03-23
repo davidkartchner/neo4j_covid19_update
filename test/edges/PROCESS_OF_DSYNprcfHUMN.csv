@@ -6,12 +6,12 @@ C0001126,C0025106,PROCESS_OF,Renal tubular acidosis,Medical Staff,dsyn,humn,1,PR
 C0001126,C0040704,PROCESS_OF,Renal tubular acidosis,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0001675,PROCESS_OF,Acquired Immunodeficiency Syndrome,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0001792,PROCESS_OF,Acquired Immunodeficiency Syndrome,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0001175,C0008059,PROCESS_OF,Acquired Immunodeficiency Syndrome,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0001175,C0008059,PROCESS_OF,Acquired Immunodeficiency Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0009932,PROCESS_OF,Acquired Immunodeficiency Syndrome,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0020052,PROCESS_OF,Acquired Immunodeficiency Syndrome,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0025266,PROCESS_OF,Acquired Immunodeficiency Syndrome,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0043210,PROCESS_OF,Acquired Immunodeficiency Syndrome,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0001175,C0086418,PROCESS_OF,Acquired Immunodeficiency Syndrome,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0001175,C0086418,PROCESS_OF,Acquired Immunodeficiency Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0205653,PROCESS_OF,Acquired Immunodeficiency Syndrome,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0238598,PROCESS_OF,Acquired Immunodeficiency Syndrome,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001175,C0242299,PROCESS_OF,Acquired Immunodeficiency Syndrome,Orphan child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -26,8 +26,8 @@ C0001175,C2700280,PROCESS_OF,Acquired Immunodeficiency Syndrome,World,dsyn,humn,
 C0001175,C3826770,PROCESS_OF,Acquired Immunodeficiency Syndrome,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001261,C0043210,PROCESS_OF,Actinomycosis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001311,C0008059,PROCESS_OF,Acute bronchiolitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0001311,C0008098,PROCESS_OF,Acute bronchiolitis,"Child, Hospitalized",dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0001311,C0021270,PROCESS_OF,Acute bronchiolitis,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0001311,C0008098,PROCESS_OF,Acute bronchiolitis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0001311,C0021270,PROCESS_OF,Acute bronchiolitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001311,C0870221,PROCESS_OF,Acute bronchiolitis,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001311,C0870668,PROCESS_OF,Acute bronchiolitis,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001314,C0001675,PROCESS_OF,Acute Disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -44,7 +44,7 @@ C0001344,C0001675,PROCESS_OF,Acute pharyngitis,Adult,dsyn,humn,1,PROCESS_OF_DSYN
 C0001344,C0008059,PROCESS_OF,Acute pharyngitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001344,C0238598,PROCESS_OF,Acute pharyngitis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001360,C0043210,PROCESS_OF,Acute thyroiditis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0001361,C0008059,PROCESS_OF,Acute tonsillitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0001361,C0008059,PROCESS_OF,Acute tonsillitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001403,C0086418,PROCESS_OF,Addison Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001486,C0001675,PROCESS_OF,Adenovirus Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0001486,C0008059,PROCESS_OF,Adenovirus Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -87,7 +87,7 @@ C0002876,C2700280,PROCESS_OF,Congenital dyserythropoietic anemia,World,dsyn,humn
 C0002878,C0086418,PROCESS_OF,"Anemia, Hemolytic",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0002880,C0040704,PROCESS_OF,Autoimmune hemolytic anemia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0002884,C0021270,PROCESS_OF,Hypochromic anemia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0002895,C0008059,PROCESS_OF,"Anemia, Sickle Cell",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0002895,C0008059,PROCESS_OF,"Anemia, Sickle Cell",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0002895,C0043210,PROCESS_OF,"Anemia, Sickle Cell",Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0002895,C0240072,PROCESS_OF,"Anemia, Sickle Cell",Jamaican,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0002895,C2700280,PROCESS_OF,"Anemia, Sickle Cell",World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -108,7 +108,7 @@ C0003723,C0687759,PROCESS_OF,Arbovirus Infections,traveler,dsyn,humn,1,PROCESS_O
 C0003723,C2700280,PROCESS_OF,Arbovirus Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003850,C0001675,PROCESS_OF,Arteriosclerosis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003850,C0086418,PROCESS_OF,Arteriosclerosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0003864,C0001675,PROCESS_OF,Arthritis,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0003864,C0001675,PROCESS_OF,Arthritis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003864,C0008059,PROCESS_OF,Arthritis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003864,C0010331,PROCESS_OF,Arthritis,crippled,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003864,C0013018,PROCESS_OF,Arthritis,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -119,14 +119,14 @@ C0003873,C0001675,PROCESS_OF,Rheumatoid Arthritis,Adult,dsyn,humn,1,PROCESS_OF_D
 C0003873,C0025266,PROCESS_OF,Rheumatoid Arthritis,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003873,C0043210,PROCESS_OF,Rheumatoid Arthritis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003873,C0085756,PROCESS_OF,Rheumatoid Arthritis,African American,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0003873,C0086418,PROCESS_OF,Rheumatoid Arthritis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0003873,C0086418,PROCESS_OF,Rheumatoid Arthritis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003873,C0871685,PROCESS_OF,Rheumatoid Arthritis,Clinician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0003950,C0086418,PROCESS_OF,Ascariasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004030,C0008098,PROCESS_OF,Aspergillosis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C0001675,PROCESS_OF,Asthma,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C0001675,PROCESS_OF,Asthma,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0001792,PROCESS_OF,Asthma,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0007457,PROCESS_OF,Asthma,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C0008059,PROCESS_OF,Asthma,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C0008059,PROCESS_OF,Asthma,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0008098,PROCESS_OF,Asthma,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0008100,PROCESS_OF,Asthma,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0009932,PROCESS_OF,Asthma,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -142,11 +142,11 @@ C0004096,C0030551,PROCESS_OF,Asthma,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0033011,PROCESS_OF,Asthma,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0037047,PROCESS_OF,Asthma,Sibling,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0038492,PROCESS_OF,Asthma,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C0043210,PROCESS_OF,Asthma,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C0043210,PROCESS_OF,Asthma,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0080103,PROCESS_OF,Asthma,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0080105,PROCESS_OF,Asthma,Research Subject,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0086282,PROCESS_OF,Asthma,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C0086418,PROCESS_OF,Asthma,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C0086418,PROCESS_OF,Asthma,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0205653,PROCESS_OF,Asthma,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0205847,PROCESS_OF,Asthma,Middle Aged,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C0206194,PROCESS_OF,Asthma,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -161,13 +161,13 @@ C0004096,C1455726,PROCESS_OF,Asthma,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfH
 C0004096,C1522486,PROCESS_OF,Asthma,Professional Organization or Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C1708335,PROCESS_OF,Asthma,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C1709924,PROCESS_OF,Asthma,Respiratory therapist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C1999167,PROCESS_OF,Asthma,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C1999167,PROCESS_OF,Asthma,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C2348484,PROCESS_OF,Asthma,Exposed Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C2348534,PROCESS_OF,Asthma,Steering Committee,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004096,C2700280,PROCESS_OF,Asthma,World,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004096,C2700280,PROCESS_OF,Asthma,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C3844033,PROCESS_OF,Asthma,Child 1,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004096,C4522252,PROCESS_OF,Asthma,Foundation for the Accreditation of Cellular Therapy,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004099,C0008059,PROCESS_OF,"Asthma, Exercise-Induced",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004099,C0008059,PROCESS_OF,"Asthma, Exercise-Induced",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004099,C0870221,PROCESS_OF,"Asthma, Exercise-Induced",Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004135,C0020052,PROCESS_OF,Ataxia Telangiectasia,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004135,C0037179,PROCESS_OF,Ataxia Telangiectasia,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -177,8 +177,8 @@ C0004364,C0021289,PROCESS_OF,Autoimmune Diseases,"Infant, Newborn",dsyn,humn,1,P
 C0004364,C0025266,PROCESS_OF,Autoimmune Diseases,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004364,C0033011,PROCESS_OF,Autoimmune Diseases,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004364,C0035173,PROCESS_OF,Autoimmune Diseases,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004364,C0043210,PROCESS_OF,Autoimmune Diseases,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0004364,C0086418,PROCESS_OF,Autoimmune Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004364,C0043210,PROCESS_OF,Autoimmune Diseases,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0004364,C0086418,PROCESS_OF,Autoimmune Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004364,C0683626,PROCESS_OF,Autoimmune Diseases,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004364,C2700280,PROCESS_OF,Autoimmune Diseases,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004576,C0086418,PROCESS_OF,Babesiosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -195,7 +195,7 @@ C0004623,C0008059,PROCESS_OF,Bacterial Infections,Child,dsyn,humn,1,PROCESS_OF_D
 C0004623,C0008098,PROCESS_OF,Bacterial Infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004623,C0021270,PROCESS_OF,Bacterial Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004623,C0021289,PROCESS_OF,Bacterial Infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004623,C0085560,PROCESS_OF,Bacterial Infections,Medical Laboratory Personnel,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004623,C0085560,PROCESS_OF,Bacterial Infections,Medical Laboratory Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004623,C0086418,PROCESS_OF,Bacterial Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004623,C0150775,PROCESS_OF,Bacterial Infections,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004623,C0175989,PROCESS_OF,Bacterial Infections,critically ill children,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -211,7 +211,7 @@ C0004623,C2700280,PROCESS_OF,Bacterial Infections,World,dsyn,humn,1,PROCESS_OF_D
 C0004623,C3661466,PROCESS_OF,Bacterial Infections,Normal Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004626,C0001675,PROCESS_OF,"Pneumonia, Bacterial",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004626,C0001792,PROCESS_OF,"Pneumonia, Bacterial",Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0004626,C0008059,PROCESS_OF,"Pneumonia, Bacterial",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0004626,C0008059,PROCESS_OF,"Pneumonia, Bacterial",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004626,C0021270,PROCESS_OF,"Pneumonia, Bacterial",Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004626,C0870668,PROCESS_OF,"Pneumonia, Bacterial",hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0004626,C2700280,PROCESS_OF,"Pneumonia, Bacterial",World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -240,17 +240,17 @@ C0006267,C0078988,PROCESS_OF,Bronchiectasis,Asians,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0006267,C0870668,PROCESS_OF,Bronchiectasis,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006267,C1999167,PROCESS_OF,Bronchiectasis,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006267,C2700280,PROCESS_OF,Bronchiectasis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006271,C0008059,PROCESS_OF,Bronchiolitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006271,C0008059,PROCESS_OF,Bronchiolitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0008098,PROCESS_OF,Bronchiolitis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0015576,PROCESS_OF,Bronchiolitis,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006271,C0021270,PROCESS_OF,Bronchiolitis,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006271,C0021270,PROCESS_OF,Bronchiolitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0021289,PROCESS_OF,Bronchiolitis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0029039,PROCESS_OF,Bronchiolitis,Is an only child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0035173,PROCESS_OF,Bronchiolitis,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0043210,PROCESS_OF,Bronchiolitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0238598,PROCESS_OF,Bronchiolitis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0337547,PROCESS_OF,Bronchiolitis,Younger child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006271,C0870668,PROCESS_OF,Bronchiolitis,hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006271,C0870668,PROCESS_OF,Bronchiolitis,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C0871685,PROCESS_OF,Bronchiolitis,Clinician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C1455726,PROCESS_OF,Bronchiolitis,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006271,C1999167,PROCESS_OF,Bronchiolitis,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -270,13 +270,13 @@ C0006277,C0043210,PROCESS_OF,Bronchitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUM
 C0006277,C0870668,PROCESS_OF,Bronchitis,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006277,C1706077,PROCESS_OF,Bronchitis,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006277,C1709854,PROCESS_OF,Bronchitis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006285,C0008059,PROCESS_OF,Bronchopneumonia,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006285,C0008059,PROCESS_OF,Bronchopneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006285,C0021270,PROCESS_OF,Bronchopneumonia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006285,C0086418,PROCESS_OF,Bronchopneumonia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006287,C0008059,PROCESS_OF,Bronchopulmonary Dysplasia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006287,C0021270,PROCESS_OF,Bronchopulmonary Dysplasia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006309,C0034961,PROCESS_OF,Brucellosis,Refugees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006309,C0086418,PROCESS_OF,Brucellosis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006309,C0086418,PROCESS_OF,Brucellosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006309,C0239971,PROCESS_OF,Brucellosis,hunter,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006309,C0242444,PROCESS_OF,Brucellosis,Population at Risk,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006309,C0596070,PROCESS_OF,Brucellosis,Americas Ethnicity,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -292,7 +292,7 @@ C0006666,C0086418,PROCESS_OF,Calciphylaxis,Homo sapiens,dsyn,humn,1,PROCESS_OF_D
 C0006818,C0008059,PROCESS_OF,Campylobacter infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006818,C0086418,PROCESS_OF,Campylobacter infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006818,C2700280,PROCESS_OF,Campylobacter infection,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0006840,C0043210,PROCESS_OF,Candidiasis,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0006840,C0043210,PROCESS_OF,Candidiasis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006840,C0086418,PROCESS_OF,Candidiasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006840,C0206194,PROCESS_OF,Candidiasis,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0006840,C0238607,PROCESS_OF,Candidiasis,AIDS patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -301,7 +301,7 @@ C0006849,C1999167,PROCESS_OF,Oral candidiasis,Old age,dsyn,humn,1,PROCESS_OF_DSY
 C0006852,C0043210,PROCESS_OF,Candidiasis of vagina,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007177,C0043210,PROCESS_OF,Cardiac Tamponade,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007193,C0001675,PROCESS_OF,"Cardiomyopathy, Dilated",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0007193,C0008059,PROCESS_OF,"Cardiomyopathy, Dilated",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0007193,C0008059,PROCESS_OF,"Cardiomyopathy, Dilated",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007193,C0086418,PROCESS_OF,"Cardiomyopathy, Dilated",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007193,C0870221,PROCESS_OF,"Cardiomyopathy, Dilated",Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007194,C0007457,PROCESS_OF,Hypertrophic Cardiomyopathy,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -311,7 +311,7 @@ C0007222,C0008059,PROCESS_OF,Cardiovascular Diseases,Child,dsyn,humn,1,PROCESS_O
 C0007222,C0025266,PROCESS_OF,Cardiovascular Diseases,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007222,C0043210,PROCESS_OF,Cardiovascular Diseases,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007222,C0086282,PROCESS_OF,Cardiovascular Diseases,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0007222,C0086418,PROCESS_OF,Cardiovascular Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0007222,C0086418,PROCESS_OF,Cardiovascular Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007222,C0282122,PROCESS_OF,Cardiovascular Diseases,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007222,C0870668,PROCESS_OF,Cardiovascular Diseases,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007222,C1999167,PROCESS_OF,Cardiovascular Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -325,7 +325,7 @@ C0007570,C0026192,PROCESS_OF,Celiac Disease,Minority Groups,dsyn,humn,1,PROCESS_
 C0007570,C0086418,PROCESS_OF,Celiac Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007682,C0008059,PROCESS_OF,CNS disorder,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007682,C0021270,PROCESS_OF,CNS disorder,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0007682,C0086418,PROCESS_OF,CNS disorder,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0007682,C0086418,PROCESS_OF,CNS disorder,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007684,C0001675,PROCESS_OF,Central Nervous System Infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007684,C0008059,PROCESS_OF,Central Nervous System Infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0007684,C0021289,PROCESS_OF,Central Nervous System Infection,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -395,7 +395,7 @@ C0008679,C0851286,PROCESS_OF,Chronic disease,Staff,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0008679,C0870602,PROCESS_OF,Chronic disease,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0008679,C0870668,PROCESS_OF,Chronic disease,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0008679,C1518563,PROCESS_OF,Chronic disease,Older Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0008679,C1999167,PROCESS_OF,Chronic disease,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0008679,C1999167,PROCESS_OF,Chronic disease,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0008679,C2700280,PROCESS_OF,Chronic disease,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0008679,C3825963,PROCESS_OF,Chronic disease,Middle-aged men,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0008679,C3826770,PROCESS_OF,Chronic disease,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -417,7 +417,7 @@ C0009421,C0206194,PROCESS_OF,Comatose,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfH
 C0009421,C0260101,PROCESS_OF,Comatose,Sick child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0001675,PROCESS_OF,Common Cold,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0001792,PROCESS_OF,Common Cold,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009443,C0008059,PROCESS_OF,Common Cold,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009443,C0008059,PROCESS_OF,Common Cold,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0008100,PROCESS_OF,Common Cold,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0009932,PROCESS_OF,Common Cold,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0021270,PROCESS_OF,Common Cold,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -427,7 +427,7 @@ C0009443,C0038492,PROCESS_OF,Common Cold,student,dsyn,humn,1,PROCESS_OF_DSYNprcf
 C0009443,C0038495,PROCESS_OF,Common Cold,"Students, Medical",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0042960,PROCESS_OF,Common Cold,Voluntary Workers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0043210,PROCESS_OF,Common Cold,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009443,C0086418,PROCESS_OF,Common Cold,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009443,C0086418,PROCESS_OF,Common Cold,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0238703,PROCESS_OF,Common Cold,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0242664,PROCESS_OF,Common Cold,husband,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C0524645,PROCESS_OF,Common Cold,Marines,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -437,18 +437,18 @@ C0009443,C0870221,PROCESS_OF,Common Cold,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUM
 C0009443,C1552089,PROCESS_OF,Common Cold,Staff Member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C1708335,PROCESS_OF,Common Cold,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C1999167,PROCESS_OF,Common Cold,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009443,C2700280,PROCESS_OF,Common Cold,World,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009443,C2700280,PROCESS_OF,Common Cold,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009443,C2986530,PROCESS_OF,Common Cold,Intervention Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009447,C0015576,PROCESS_OF,Common Variable Immunodeficiency,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0001675,PROCESS_OF,Communicable Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0001792,PROCESS_OF,Communicable Diseases,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009450,C0008059,PROCESS_OF,Communicable Diseases,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009450,C0008059,PROCESS_OF,Communicable Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0008100,PROCESS_OF,Communicable Diseases,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0009817,PROCESS_OF,Communicable Diseases,Consultant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0009932,PROCESS_OF,Communicable Diseases,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0013018,PROCESS_OF,Communicable Diseases,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0015576,PROCESS_OF,Communicable Diseases,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009450,C0020052,PROCESS_OF,Communicable Diseases,Households,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009450,C0020052,PROCESS_OF,Communicable Diseases,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0020155,PROCESS_OF,Communicable Diseases,Human Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0021270,PROCESS_OF,Communicable Diseases,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0021289,PROCESS_OF,Communicable Diseases,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -461,7 +461,7 @@ C0009450,C0034961,PROCESS_OF,Communicable Diseases,Refugees,dsyn,humn,1,PROCESS_
 C0009450,C0035173,PROCESS_OF,Communicable Diseases,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0037179,PROCESS_OF,Communicable Diseases,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0038492,PROCESS_OF,Communicable Diseases,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009450,C0086418,PROCESS_OF,Communicable Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009450,C0086418,PROCESS_OF,Communicable Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0087009,PROCESS_OF,Communicable Diseases,Hospital specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0150775,PROCESS_OF,Communicable Diseases,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C0238703,PROCESS_OF,Communicable Diseases,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -494,16 +494,16 @@ C0009450,C1611835,PROCESS_OF,Communicable Diseases,Specialist,dsyn,humn,1,PROCES
 C0009450,C1709627,PROCESS_OF,Communicable Diseases,Practitioner,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C1709854,PROCESS_OF,Communicable Diseases,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C1711305,PROCESS_OF,Communicable Diseases,Sponsor (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009450,C1999167,PROCESS_OF,Communicable Diseases,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009450,C1999167,PROCESS_OF,Communicable Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009450,C2700280,PROCESS_OF,Communicable Diseases,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009663,C0008059,PROCESS_OF,Condylomata Acuminata,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009663,C0025266,PROCESS_OF,Condylomata Acuminata,Male population group,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0009663,C0043210,PROCESS_OF,Condylomata Acuminata,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009663,C0025266,PROCESS_OF,Condylomata Acuminata,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0009663,C0043210,PROCESS_OF,Condylomata Acuminata,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0008059,PROCESS_OF,Conjunctivitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0021270,PROCESS_OF,Conjunctivitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0028661,PROCESS_OF,Conjunctivitis,Nurses,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0043210,PROCESS_OF,Conjunctivitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0009763,C0086418,PROCESS_OF,Conjunctivitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0009763,C0086418,PROCESS_OF,Conjunctivitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0238703,PROCESS_OF,Conjunctivitis,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C0598781,PROCESS_OF,Conjunctivitis,communes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0009763,C1517739,PROCESS_OF,Conjunctivitis,Laryngectomee,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -550,7 +550,7 @@ C0010340,C0206194,PROCESS_OF,Critical Illness,Survivors,dsyn,humn,1,PROCESS_OF_D
 C0010340,C0337910,PROCESS_OF,Critical Illness,Thais (Population Group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010340,C0680681,PROCESS_OF,Critical Illness,victim,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010340,C0700061,PROCESS_OF,Critical Illness,Obstetric Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0010340,C0870602,PROCESS_OF,Critical Illness,geriatric patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0010340,C0870602,PROCESS_OF,Critical Illness,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010340,C0870668,PROCESS_OF,Critical Illness,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010340,C0870869,PROCESS_OF,Critical Illness,medical patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010340,C0871463,PROCESS_OF,Critical Illness,surgical patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -571,7 +571,7 @@ C0010356,C0851286,PROCESS_OF,Cross Infection,Staff,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0010356,C0870668,PROCESS_OF,Cross Infection,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010356,C1999167,PROCESS_OF,Cross Infection,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010356,C2717882,PROCESS_OF,Cross Infection,Endangered Species,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0010380,C0008059,PROCESS_OF,Croup,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0010380,C0008059,PROCESS_OF,Croup,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010380,C0008098,PROCESS_OF,Croup,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010380,C0021270,PROCESS_OF,Croup,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010380,C0238598,PROCESS_OF,Croup,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -585,11 +585,11 @@ C0010418,C0021270,PROCESS_OF,Cryptosporidiosis,Infant,dsyn,humn,1,PROCESS_OF_DSY
 C0010418,C0021289,PROCESS_OF,Cryptosporidiosis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010418,C0038492,PROCESS_OF,Cryptosporidiosis,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010418,C0039309,PROCESS_OF,Cryptosporidiosis,Target Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0010418,C0086418,PROCESS_OF,Cryptosporidiosis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0010418,C0086418,PROCESS_OF,Cryptosporidiosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010418,C0238607,PROCESS_OF,Cryptosporidiosis,AIDS patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010418,C0949366,PROCESS_OF,Cryptosporidiosis,Vulnerable Populations,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010674,C0001675,PROCESS_OF,Cystic Fibrosis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0010674,C0008059,PROCESS_OF,Cystic Fibrosis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0010674,C0008059,PROCESS_OF,Cystic Fibrosis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010674,C0008100,PROCESS_OF,Cystic Fibrosis,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010674,C0021270,PROCESS_OF,Cystic Fibrosis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0010674,C0025266,PROCESS_OF,Cystic Fibrosis,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -613,11 +613,11 @@ C0011053,C0008059,PROCESS_OF,Deafness,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011053,C0015576,PROCESS_OF,Deafness,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011053,C0021270,PROCESS_OF,Deafness,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011053,C0021289,PROCESS_OF,Deafness,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011053,C0086418,PROCESS_OF,Deafness,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011053,C0086418,PROCESS_OF,Deafness,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011053,C0206194,PROCESS_OF,Deafness,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011053,C2700280,PROCESS_OF,Deafness,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011119,C0026192,PROCESS_OF,Decompression Sickness,Minority Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011127,C0001675,PROCESS_OF,Pressure Ulcer,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011127,C0001675,PROCESS_OF,Pressure Ulcer,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011168,C0008059,PROCESS_OF,Deglutition Disorders,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011168,C0009932,PROCESS_OF,Deglutition Disorders,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011168,C0021289,PROCESS_OF,Deglutition Disorders,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -630,11 +630,11 @@ C0011303,C0086418,PROCESS_OF,Demyelinating Diseases,Homo sapiens,dsyn,humn,1,PRO
 C0011311,C0001675,PROCESS_OF,Dengue Fever,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011311,C0008059,PROCESS_OF,Dengue Fever,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011311,C0015576,PROCESS_OF,Dengue Fever,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011311,C0086418,PROCESS_OF,Dengue Fever,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011311,C0086418,PROCESS_OF,Dengue Fever,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011311,C0450048,PROCESS_OF,Dengue Fever,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011311,C0683626,PROCESS_OF,Dengue Fever,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011311,C2700280,PROCESS_OF,Dengue Fever,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011334,C0008059,PROCESS_OF,Dental caries,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011334,C0008059,PROCESS_OF,Dental caries,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011334,C0008100,PROCESS_OF,Dental caries,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011334,C0015576,PROCESS_OF,Dental caries,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011334,C0260267,PROCESS_OF,Dental caries,School child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -650,7 +650,7 @@ C0011603,C1552089,PROCESS_OF,Dermatitis,Staff Member,dsyn,humn,1,PROCESS_OF_DSYN
 C0011603,C2349018,PROCESS_OF,Dermatitis,Unexposed Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011609,C0043210,PROCESS_OF,Drug Eruptions,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011609,C3826770,PROCESS_OF,Drug Eruptions,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011615,C0008059,PROCESS_OF,"Dermatitis, Atopic",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011615,C0008059,PROCESS_OF,"Dermatitis, Atopic",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011615,C0008100,PROCESS_OF,"Dermatitis, Atopic","Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011615,C0021270,PROCESS_OF,"Dermatitis, Atopic",Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011615,C0024045,PROCESS_OF,"Dermatitis, Atopic",Low-Income Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -660,10 +660,10 @@ C0011615,C0086418,PROCESS_OF,"Dermatitis, Atopic",Homo sapiens,dsyn,humn,1,PROCE
 C0011615,C0205653,PROCESS_OF,"Dermatitis, Atopic",Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011615,C0870221,PROCESS_OF,"Dermatitis, Atopic",Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011615,C3844033,PROCESS_OF,"Dermatitis, Atopic",Child 1,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011636,C0086418,PROCESS_OF,Dermatophytosis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011636,C0086418,PROCESS_OF,Dermatophytosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0001675,PROCESS_OF,Diabetes,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011847,C0001792,PROCESS_OF,Diabetes,Elderly (population group),dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0011847,C0008059,PROCESS_OF,Diabetes,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011847,C0001792,PROCESS_OF,Diabetes,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0011847,C0008059,PROCESS_OF,Diabetes,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0015341,PROCESS_OF,Diabetes,Extended Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0025266,PROCESS_OF,Diabetes,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0028574,PROCESS_OF,Diabetes,Nuclear Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -671,7 +671,7 @@ C0011847,C0038492,PROCESS_OF,Diabetes,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUM
 C0011847,C0043210,PROCESS_OF,Diabetes,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0078988,PROCESS_OF,Diabetes,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0086282,PROCESS_OF,Diabetes,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011847,C0086418,PROCESS_OF,Diabetes,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011847,C0086418,PROCESS_OF,Diabetes,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0150775,PROCESS_OF,Diabetes,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0238598,PROCESS_OF,Diabetes,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C0282122,PROCESS_OF,Diabetes,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -686,7 +686,7 @@ C0011847,C1522486,PROCESS_OF,Diabetes,Professional Organization or Group,dsyn,hu
 C0011847,C1709854,PROCESS_OF,Diabetes,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011847,C1999167,PROCESS_OF,Diabetes,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011849,C0007457,PROCESS_OF,Diabetes Mellitus,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011849,C0043210,PROCESS_OF,Diabetes Mellitus,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011849,C0043210,PROCESS_OF,Diabetes Mellitus,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011849,C0086418,PROCESS_OF,Diabetes Mellitus,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011849,C0206194,PROCESS_OF,Diabetes Mellitus,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011849,C1522486,PROCESS_OF,Diabetes Mellitus,Professional Organization or Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -697,7 +697,7 @@ C0011854,C0008059,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Child,dsyn,h
 C0011854,C0015576,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011854,C0037047,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Sibling,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011854,C0043210,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0011854,C0086418,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0011854,C0086418,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011854,C0238598,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011854,C0870221,PROCESS_OF,"Diabetes Mellitus, Insulin-Dependent",Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0011860,C0001675,PROCESS_OF,"Diabetes Mellitus, Non-Insulin-Dependent",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -730,7 +730,7 @@ C0013182,C0238598,PROCESS_OF,Drug Allergy,Young Adult,dsyn,humn,1,PROCESS_OF_DSY
 C0013182,C0682070,PROCESS_OF,Drug Allergy,pregnant teen,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0013264,C0008059,PROCESS_OF,"Muscular Dystrophy, Duchenne",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0013264,C0037179,PROCESS_OF,"Muscular Dystrophy, Duchenne",Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0013264,C0086418,PROCESS_OF,"Muscular Dystrophy, Duchenne",Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0013264,C0086418,PROCESS_OF,"Muscular Dystrophy, Duchenne",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0013264,C0870221,PROCESS_OF,"Muscular Dystrophy, Duchenne",Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0013369,C0001675,PROCESS_OF,Dysentery,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0013369,C0008059,PROCESS_OF,Dysentery,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -757,15 +757,15 @@ C0013884,C0035173,PROCESS_OF,Filarial Elephantiases,Research Personnel,dsyn,humn
 C0013902,C0238697,PROCESS_OF,"Elliptocytosis, Hereditary",South East Asian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014009,C0008059,PROCESS_OF,Empyema,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014013,C0008059,PROCESS_OF,"Empyema, Pleural",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0014038,C0001675,PROCESS_OF,Encephalitis,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0014038,C0001675,PROCESS_OF,Encephalitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0001792,PROCESS_OF,Encephalitis,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0014038,C0008059,PROCESS_OF,Encephalitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0014038,C0008059,PROCESS_OF,Encephalitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0008098,PROCESS_OF,Encephalitis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0021270,PROCESS_OF,Encephalitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0021289,PROCESS_OF,Encephalitis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0025266,PROCESS_OF,Encephalitis,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0043210,PROCESS_OF,Encephalitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0014038,C0086418,PROCESS_OF,Encephalitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0014038,C0086418,PROCESS_OF,Encephalitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0206194,PROCESS_OF,Encephalitis,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0221460,PROCESS_OF,Encephalitis,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C0237485,PROCESS_OF,Encephalitis,Attendants -- group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -779,13 +779,13 @@ C0014038,C0870668,PROCESS_OF,Encephalitis,hospitalized patients,dsyn,humn,1,PROC
 C0014038,C1709854,PROCESS_OF,Encephalitis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014038,C2700280,PROCESS_OF,Encephalitis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014055,C0086418,PROCESS_OF,Arbovirus encephalitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0014057,C0086418,PROCESS_OF,Japanese Encephalitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0014057,C0086418,PROCESS_OF,Japanese Encephalitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014057,C0687759,PROCESS_OF,Japanese Encephalitis,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014057,C1522486,PROCESS_OF,Japanese Encephalitis,Professional Organization or Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014059,C0008059,PROCESS_OF,"Encephalomyelitis, Acute Disseminated",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014059,C0086418,PROCESS_OF,"Encephalomyelitis, Acute Disseminated",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014061,C0086418,PROCESS_OF,Tick-Borne Encephalitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0014070,C0086418,PROCESS_OF,Encephalomyelitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0014070,C0086418,PROCESS_OF,Encephalomyelitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014070,C0238598,PROCESS_OF,Encephalomyelitis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014118,C0086418,PROCESS_OF,Endocarditis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014122,C0086418,PROCESS_OF,Subacute Bacterial Endocarditis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -852,13 +852,13 @@ C0014743,C0086418,PROCESS_OF,Erythema Nodosum,Homo sapiens,dsyn,humn,1,PROCESS_O
 C0014836,C0086418,PROCESS_OF,Escherichia coli Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0014868,C1709854,PROCESS_OF,Esophagitis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0001675,PROCESS_OF,Exanthema,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0015230,C0008059,PROCESS_OF,Exanthema,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0015230,C0008059,PROCESS_OF,Exanthema,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0009932,PROCESS_OF,Exanthema,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0021270,PROCESS_OF,Exanthema,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0021289,PROCESS_OF,Exanthema,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0025266,PROCESS_OF,Exanthema,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0040704,PROCESS_OF,Exanthema,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0015230,C0086418,PROCESS_OF,Exanthema,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0015230,C0086418,PROCESS_OF,Exanthema,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0205653,PROCESS_OF,Exanthema,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015230,C0337527,PROCESS_OF,Exanthema,Brothers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015231,C0008059,PROCESS_OF,Exanthema Subitum,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -867,16 +867,16 @@ C0015403,C0001675,PROCESS_OF,Eye Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprc
 C0015403,C0008059,PROCESS_OF,Eye Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015403,C0021289,PROCESS_OF,Eye Infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015469,C0001675,PROCESS_OF,Facial paralysis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0015469,C0008059,PROCESS_OF,Facial paralysis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0015469,C0008059,PROCESS_OF,Facial paralysis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015469,C0040704,PROCESS_OF,Facial paralysis,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015469,C1709854,PROCESS_OF,Facial paralysis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015634,C0086418,PROCESS_OF,Farmer's Lung,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0015652,C0086418,PROCESS_OF,Fascioliasis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0015652,C0086418,PROCESS_OF,Fascioliasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015652,C2700280,PROCESS_OF,Fascioliasis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015674,C0015576,PROCESS_OF,Chronic Fatigue Syndrome,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015674,C0086418,PROCESS_OF,Chronic Fatigue Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015674,C0206194,PROCESS_OF,Chronic Fatigue Syndrome,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0015695,C0086418,PROCESS_OF,Fatty Liver,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0015695,C0086418,PROCESS_OF,Fatty Liver,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015702,C0086418,PROCESS_OF,Favism,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015702,C2700280,PROCESS_OF,Favism,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0015929,C0001675,PROCESS_OF,Fetal Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -901,7 +901,7 @@ C0016627,C0033011,PROCESS_OF,Influenza in Birds,Pregnant Women,dsyn,humn,1,PROCE
 C0016627,C0035173,PROCESS_OF,Influenza in Birds,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0016627,C0037179,PROCESS_OF,Influenza in Birds,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0016627,C0078988,PROCESS_OF,Influenza in Birds,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0016627,C0086418,PROCESS_OF,Influenza in Birds,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0016627,C0086418,PROCESS_OF,Influenza in Birds,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0016627,C0150775,PROCESS_OF,Influenza in Birds,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0016627,C0206194,PROCESS_OF,Influenza in Birds,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0016627,C0242821,PROCESS_OF,Influenza in Birds,Human body,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -922,13 +922,13 @@ C0016735,C0238598,PROCESS_OF,Frontal Sinusitis,Young Adult,dsyn,humn,1,PROCESS_O
 C0017152,C0086418,PROCESS_OF,Gastritis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0001675,PROCESS_OF,Gastroenteritis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0001792,PROCESS_OF,Gastroenteritis,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0017160,C0008059,PROCESS_OF,Gastroenteritis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0017160,C0008059,PROCESS_OF,Gastroenteritis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0009932,PROCESS_OF,Gastroenteritis,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0015576,PROCESS_OF,Gastroenteritis,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0021270,PROCESS_OF,Gastroenteritis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0021289,PROCESS_OF,Gastroenteritis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0040704,PROCESS_OF,Gastroenteritis,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0017160,C0086418,PROCESS_OF,Gastroenteritis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0017160,C0086418,PROCESS_OF,Gastroenteritis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0086944,PROCESS_OF,Gastroenteritis,Rural Communities,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0260267,PROCESS_OF,Gastroenteritis,School child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017160,C0450048,PROCESS_OF,Gastroenteritis,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -940,7 +940,7 @@ C0017168,C0242821,PROCESS_OF,Gastroesophageal reflux disease,Human body,dsyn,hum
 C0017178,C0008059,PROCESS_OF,Gastrointestinal Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017178,C0021270,PROCESS_OF,Gastrointestinal Diseases,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017178,C0021289,PROCESS_OF,Gastrointestinal Diseases,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0017178,C0025266,PROCESS_OF,Gastrointestinal Diseases,Male population group,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0017178,C0025266,PROCESS_OF,Gastrointestinal Diseases,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017178,C0086418,PROCESS_OF,Gastrointestinal Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017178,C0150775,PROCESS_OF,Gastrointestinal Diseases,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0017178,C0687759,PROCESS_OF,Gastrointestinal Diseases,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -972,7 +972,7 @@ C0018099,C0086418,PROCESS_OF,Gout,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHU
 C0018133,C1709854,PROCESS_OF,Graft-vs-Host Disease,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018203,C0086418,PROCESS_OF,Chronic granulomatous disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018378,C0001675,PROCESS_OF,Guillain-Barre Syndrome,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0018378,C0008059,PROCESS_OF,Guillain-Barre Syndrome,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0018378,C0008059,PROCESS_OF,Guillain-Barre Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018378,C0021289,PROCESS_OF,Guillain-Barre Syndrome,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018378,C0040704,PROCESS_OF,Guillain-Barre Syndrome,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018378,C0043210,PROCESS_OF,Guillain-Barre Syndrome,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1002,7 +1002,7 @@ C0018799,C0870668,PROCESS_OF,Heart Diseases,hospitalized patients,dsyn,humn,1,PR
 C0018799,C1999167,PROCESS_OF,Heart Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018799,C2700280,PROCESS_OF,Heart Diseases,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018801,C0033011,PROCESS_OF,Heart failure,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0018801,C0086418,PROCESS_OF,Heart failure,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0018801,C0086418,PROCESS_OF,Heart failure,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018801,C0206194,PROCESS_OF,Heart failure,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018802,C0001675,PROCESS_OF,Congestive heart failure,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0018802,C0025266,PROCESS_OF,Congestive heart failure,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1041,7 +1041,7 @@ C0019100,C1709854,PROCESS_OF,Severe Dengue,Recipient,dsyn,humn,1,PROCESS_OF_DSYN
 C0019101,C0086418,PROCESS_OF,Hemorrhagic Fever with Renal Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019101,C0870668,PROCESS_OF,Hemorrhagic Fever with Renal Syndrome,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019101,C2700280,PROCESS_OF,Hemorrhagic Fever with Renal Syndrome,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0019104,C0086418,PROCESS_OF,"Hemorrhagic Fevers, Viral",Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0019104,C0086418,PROCESS_OF,"Hemorrhagic Fevers, Viral",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019104,C0598781,PROCESS_OF,"Hemorrhagic Fevers, Viral",communes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019104,C0870668,PROCESS_OF,"Hemorrhagic Fevers, Viral",hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019104,C1611835,PROCESS_OF,"Hemorrhagic Fevers, Viral",Specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1053,7 +1053,7 @@ C0019158,C0033011,PROCESS_OF,Hepatitis,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSY
 C0019158,C0040704,PROCESS_OF,Hepatitis,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019158,C0043210,PROCESS_OF,Hepatitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019158,C0079382,PROCESS_OF,Hepatitis,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0019158,C0086418,PROCESS_OF,Hepatitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0019158,C0086418,PROCESS_OF,Hepatitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019158,C0238607,PROCESS_OF,Hepatitis,AIDS patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019158,C0376387,PROCESS_OF,Hepatitis,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019158,C0524647,PROCESS_OF,Hepatitis,Soldiers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1073,7 +1073,7 @@ C0019163,C0008059,PROCESS_OF,Hepatitis B,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHU
 C0019163,C0009932,PROCESS_OF,Hepatitis B,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019163,C0015576,PROCESS_OF,Hepatitis B,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019163,C0026093,PROCESS_OF,Hepatitis B,Migrants,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0019163,C0086418,PROCESS_OF,Hepatitis B,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0019163,C0086418,PROCESS_OF,Hepatitis B,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019163,C0684030,PROCESS_OF,Hepatitis B,high-risk group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019163,C0870221,PROCESS_OF,Hepatitis B,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019163,C1552089,PROCESS_OF,Hepatitis B,Staff Member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1129,13 +1129,13 @@ C0019693,C0021270,PROCESS_OF,HIV Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0019693,C0025266,PROCESS_OF,HIV Infections,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0033011,PROCESS_OF,HIV Infections,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0043210,PROCESS_OF,HIV Infections,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0019693,C0086418,PROCESS_OF,HIV Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0019693,C0086418,PROCESS_OF,HIV Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0238607,PROCESS_OF,HIV Infections,AIDS patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0376387,PROCESS_OF,HIV Infections,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0860067,PROCESS_OF,HIV Infections,Plasma donor,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C0870668,PROCESS_OF,HIV Infections,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C1706077,PROCESS_OF,HIV Infections,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0019693,C1999167,PROCESS_OF,HIV Infections,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0019693,C1999167,PROCESS_OF,HIV Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019693,C2700280,PROCESS_OF,HIV Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019911,C0086418,PROCESS_OF,Hookworm Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0019940,C0021289,PROCESS_OF,Horse Diseases,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1158,9 +1158,9 @@ C0020456,C0870869,PROCESS_OF,Hyperglycemia,medical patients,dsyn,humn,1,PROCESS_
 C0020456,C1709854,PROCESS_OF,Hyperglycemia,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020459,C0001675,PROCESS_OF,Hyperinsulinism,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020459,C0043157,PROCESS_OF,Hyperinsulinism,Caucasians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0020459,C0086418,PROCESS_OF,Hyperinsulinism,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0020459,C0086418,PROCESS_OF,Hyperinsulinism,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020473,C0025266,PROCESS_OF,Hyperlipidemia,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0020473,C0086418,PROCESS_OF,Hyperlipidemia,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0020473,C0086418,PROCESS_OF,Hyperlipidemia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020488,C0001675,PROCESS_OF,Hypernatremia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020488,C0008059,PROCESS_OF,Hypernatremia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020488,C0040704,PROCESS_OF,Hypernatremia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1168,7 +1168,7 @@ C0020498,C0687735,PROCESS_OF,"Hyperostosis, Diffuse Idiopathic Skeletal",shaker,
 C0020538,C0001675,PROCESS_OF,Hypertensive disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0008059,PROCESS_OF,Hypertensive disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0025266,PROCESS_OF,Hypertensive disease,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0020538,C0031831,PROCESS_OF,Hypertensive disease,Physicians,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0020538,C0031831,PROCESS_OF,Hypertensive disease,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0043210,PROCESS_OF,Hypertensive disease,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0086418,PROCESS_OF,Hypertensive disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0152035,PROCESS_OF,Hypertensive disease,Chinese People,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1177,7 +1177,7 @@ C0020538,C0282122,PROCESS_OF,Hypertensive disease,Respondents,dsyn,humn,1,PROCES
 C0020538,C0682201,PROCESS_OF,Hypertensive disease,middle class,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0683626,PROCESS_OF,Hypertensive disease,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C0815271,PROCESS_OF,Hypertensive disease,retiree,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0020538,C0870668,PROCESS_OF,Hypertensive disease,hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0020538,C0870668,PROCESS_OF,Hypertensive disease,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C1551488,PROCESS_OF,Hypertensive disease,Pima Indian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020538,C1999167,PROCESS_OF,Hypertensive disease,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0020542,C0086418,PROCESS_OF,Pulmonary Hypertension,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1195,7 +1195,7 @@ C0021051,C0008059,PROCESS_OF,Immunologic Deficiency Syndromes,Child,dsyn,humn,1,
 C0021051,C0015576,PROCESS_OF,Immunologic Deficiency Syndromes,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021051,C0021270,PROCESS_OF,Immunologic Deficiency Syndromes,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021051,C0040704,PROCESS_OF,Immunologic Deficiency Syndromes,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021051,C0086418,PROCESS_OF,Immunologic Deficiency Syndromes,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021051,C0086418,PROCESS_OF,Immunologic Deficiency Syndromes,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021051,C0870221,PROCESS_OF,Immunologic Deficiency Syndromes,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021051,C0870602,PROCESS_OF,Immunologic Deficiency Syndromes,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021051,C1709854,PROCESS_OF,Immunologic Deficiency Syndromes,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1214,10 +1214,10 @@ C0021390,C0008059,PROCESS_OF,Inflammatory Bowel Diseases,Child,dsyn,humn,1,PROCE
 C0021390,C0041935,PROCESS_OF,Inflammatory Bowel Diseases,Urban Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021390,C0086418,PROCESS_OF,Inflammatory Bowel Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021390,C0205847,PROCESS_OF,Inflammatory Bowel Diseases,Middle Aged,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0001675,PROCESS_OF,Influenza,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0001792,PROCESS_OF,Influenza,Elderly (population group),dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0001675,PROCESS_OF,Influenza,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0001792,PROCESS_OF,Influenza,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0007457,PROCESS_OF,Influenza,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0008059,PROCESS_OF,Influenza,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0008059,PROCESS_OF,Influenza,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0008098,PROCESS_OF,Influenza,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0008100,PROCESS_OF,Influenza,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0009932,PROCESS_OF,Influenza,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1225,8 +1225,8 @@ C0021400,C0010222,PROCESS_OF,Influenza,Couples (persons),dsyn,humn,1,PROCESS_OF_
 C0021400,C0015031,PROCESS_OF,Influenza,Ethnic group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0015576,PROCESS_OF,Influenza,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0020052,PROCESS_OF,Influenza,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0021270,PROCESS_OF,Influenza,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0021289,PROCESS_OF,Influenza,"Infant, Newborn",dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0021270,PROCESS_OF,Influenza,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0021289,PROCESS_OF,Influenza,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0021821,PROCESS_OF,Influenza,Interviewers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0025266,PROCESS_OF,Influenza,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0026126,PROCESS_OF,Influenza,Military Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1241,13 +1241,13 @@ C0021400,C0035173,PROCESS_OF,Influenza,Research Personnel,dsyn,humn,1,PROCESS_OF
 C0021400,C0037179,PROCESS_OF,Influenza,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0038492,PROCESS_OF,Influenza,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0043210,PROCESS_OF,Influenza,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0078988,PROCESS_OF,Influenza,Asians,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0078988,PROCESS_OF,Influenza,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0079382,PROCESS_OF,Influenza,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0080103,PROCESS_OF,Influenza,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0080105,PROCESS_OF,Influenza,Research Subject,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0086282,PROCESS_OF,Influenza,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0086409,PROCESS_OF,Influenza,Hispanics,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0086418,PROCESS_OF,Influenza,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0086418,PROCESS_OF,Influenza,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0086944,PROCESS_OF,Influenza,Rural Communities,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0087009,PROCESS_OF,Influenza,Hospital specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0150775,PROCESS_OF,Influenza,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1262,7 +1262,7 @@ C0021400,C0260319,PROCESS_OF,Influenza,Virologists,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0021400,C0282122,PROCESS_OF,Influenza,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0337609,PROCESS_OF,Influenza,Acquaintances,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0337611,PROCESS_OF,Influenza,contact person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0337810,PROCESS_OF,Influenza,Italians,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0337810,PROCESS_OF,Influenza,Italians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0337816,PROCESS_OF,Influenza,Russians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0337846,PROCESS_OF,Influenza,Senegalese,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0376387,PROCESS_OF,Influenza,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1275,16 +1275,16 @@ C0021400,C0680681,PROCESS_OF,Influenza,victim,dsyn,humn,1,PROCESS_OF_DSYNprcfHUM
 C0021400,C0680888,PROCESS_OF,Influenza,target group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0682287,PROCESS_OF,Influenza,nursing home resident,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0683602,PROCESS_OF,Influenza,nonparticipant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0683626,PROCESS_OF,Influenza,human group,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0683626,PROCESS_OF,Influenza,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0684030,PROCESS_OF,Influenza,high-risk group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0687759,PROCESS_OF,Influenza,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0814942,PROCESS_OF,Influenza,Han Chinese,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0851286,PROCESS_OF,Influenza,Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0870602,PROCESS_OF,Influenza,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C0870668,PROCESS_OF,Influenza,hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C0870668,PROCESS_OF,Influenza,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C0871685,PROCESS_OF,Influenza,Clinician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1274022,PROCESS_OF,Influenza,Employer,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C1455726,PROCESS_OF,Influenza,Older child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C1455726,PROCESS_OF,Influenza,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1516213,PROCESS_OF,Influenza,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1518563,PROCESS_OF,Influenza,Older Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1550489,PROCESS_OF,Influenza,tracker,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1292,12 +1292,12 @@ C0021400,C1553323,PROCESS_OF,Influenza,Cambodians,dsyn,humn,1,PROCESS_OF_DSYNprc
 C0021400,C1553362,PROCESS_OF,Influenza,Catalonian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1704784,PROCESS_OF,Influenza,Owner,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1708335,PROCESS_OF,Influenza,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C1709854,PROCESS_OF,Influenza,Recipient,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C1709854,PROCESS_OF,Influenza,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1710263,PROCESS_OF,Influenza,Swedish,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C1883562,PROCESS_OF,Influenza,Working Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C1999167,PROCESS_OF,Influenza,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C1999167,PROCESS_OF,Influenza,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C2348534,PROCESS_OF,Influenza,Steering Committee,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0021400,C2700280,PROCESS_OF,Influenza,World,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0021400,C2700280,PROCESS_OF,Influenza,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C2986530,PROCESS_OF,Influenza,Intervention Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C3812881,PROCESS_OF,Influenza,Author,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0021400,C3826770,PROCESS_OF,Influenza,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1311,7 +1311,7 @@ C0021933,C0001675,PROCESS_OF,Intussusception,Adult,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0021933,C0021270,PROCESS_OF,Intussusception,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022104,C0086418,PROCESS_OF,Irritable Bowel Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022116,C0001675,PROCESS_OF,Ischemia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0022336,C0086418,PROCESS_OF,Creutzfeldt-Jakob disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0022336,C0086418,PROCESS_OF,Creutzfeldt-Jakob disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022336,C2700280,PROCESS_OF,Creutzfeldt-Jakob disease,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022340,C0086418,PROCESS_OF,Late-Infantile Neuronal Ceroid Lipfuscinosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022408,C0001675,PROCESS_OF,Arthropathy,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1361,7 +1361,7 @@ C0022882,C0450048,PROCESS_OF,Laboratory Infection,Passenger,dsyn,humn,1,PROCESS_
 C0022882,C0851286,PROCESS_OF,Laboratory Infection,Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0022882,C0870668,PROCESS_OF,Laboratory Infection,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023092,C0043210,PROCESS_OF,Lassa Fever,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0023092,C0086418,PROCESS_OF,Lassa Fever,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0023092,C0086418,PROCESS_OF,Lassa Fever,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023092,C0206194,PROCESS_OF,Lassa Fever,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023092,C0687759,PROCESS_OF,Lassa Fever,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023092,C0870668,PROCESS_OF,Lassa Fever,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1381,7 +1381,7 @@ C0023290,C2700280,PROCESS_OF,"Leishmaniasis, Visceral",World,dsyn,humn,1,PROCESS
 C0023343,C0086418,PROCESS_OF,Leprosy,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023343,C0680063,PROCESS_OF,Leprosy,Offspring,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023343,C0814942,PROCESS_OF,Leprosy,Han Chinese,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0023364,C0086418,PROCESS_OF,Leptospirosis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0023364,C0086418,PROCESS_OF,Leptospirosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023364,C0238703,PROCESS_OF,Leptospirosis,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023364,C0683626,PROCESS_OF,Leptospirosis,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023364,C1704784,PROCESS_OF,Leptospirosis,Owner,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1396,10 +1396,10 @@ C0023530,C0021270,PROCESS_OF,Leukopenia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHU
 C0023530,C0025266,PROCESS_OF,Leukopenia,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023530,C0030551,PROCESS_OF,Leukopenia,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023530,C0040704,PROCESS_OF,Leukopenia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0023530,C0086418,PROCESS_OF,Leukopenia,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0023530,C0086418,PROCESS_OF,Leukopenia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023530,C0206194,PROCESS_OF,Leukopenia,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023530,C0238598,PROCESS_OF,Leukopenia,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0023788,C0086418,PROCESS_OF,Whipple Disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0023788,C0086418,PROCESS_OF,Whipple Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023860,C0086418,PROCESS_OF,Listeriosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023860,C1999167,PROCESS_OF,Listeriosis,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0023890,C0086418,PROCESS_OF,Liver Cirrhosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1414,7 +1414,7 @@ C0023895,C0337873,PROCESS_OF,Liver diseases,Labradors ethnic group,dsyn,humn,1,P
 C0023944,C0206194,PROCESS_OF,Locked-In Syndrome,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024106,C1522486,PROCESS_OF,Lumpy Skin Disease,Professional Organization or Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C0001675,PROCESS_OF,Lung diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024115,C0008059,PROCESS_OF,Lung diseases,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024115,C0008059,PROCESS_OF,Lung diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C0021270,PROCESS_OF,Lung diseases,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C0031831,PROCESS_OF,Lung diseases,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C0040704,PROCESS_OF,Lung diseases,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1424,28 +1424,28 @@ C0024115,C0238598,PROCESS_OF,Lung diseases,Young Adult,dsyn,humn,1,PROCESS_OF_DS
 C0024115,C0870602,PROCESS_OF,Lung diseases,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C1709854,PROCESS_OF,Lung diseases,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024115,C1999167,PROCESS_OF,Lung diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0001675,PROCESS_OF,Chronic Obstructive Airway Disease,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0001792,PROCESS_OF,Chronic Obstructive Airway Disease,Elderly (population group),dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0001675,PROCESS_OF,Chronic Obstructive Airway Disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0001792,PROCESS_OF,Chronic Obstructive Airway Disease,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0007457,PROCESS_OF,Chronic Obstructive Airway Disease,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0008059,PROCESS_OF,Chronic Obstructive Airway Disease,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0008059,PROCESS_OF,Chronic Obstructive Airway Disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0013018,PROCESS_OF,Chronic Obstructive Airway Disease,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0021270,PROCESS_OF,Chronic Obstructive Airway Disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0021289,PROCESS_OF,Chronic Obstructive Airway Disease,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0025266,PROCESS_OF,Chronic Obstructive Airway Disease,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0043210,PROCESS_OF,Chronic Obstructive Airway Disease,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0086418,PROCESS_OF,Chronic Obstructive Airway Disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0086418,PROCESS_OF,Chronic Obstructive Airway Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0087009,PROCESS_OF,Chronic Obstructive Airway Disease,Hospital specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0206194,PROCESS_OF,Chronic Obstructive Airway Disease,Survivors,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0206194,PROCESS_OF,Chronic Obstructive Airway Disease,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0240339,PROCESS_OF,Chronic Obstructive Airway Disease,mexican,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0337801,PROCESS_OF,Chronic Obstructive Airway Disease,Egyptians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0376387,PROCESS_OF,Chronic Obstructive Airway Disease,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0679739,PROCESS_OF,Chronic Obstructive Airway Disease,peer,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0870602,PROCESS_OF,Chronic Obstructive Airway Disease,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C0870668,PROCESS_OF,Chronic Obstructive Airway Disease,hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C0870668,PROCESS_OF,Chronic Obstructive Airway Disease,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C0871489,PROCESS_OF,Chronic Obstructive Airway Disease,teams,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C1708335,PROCESS_OF,Chronic Obstructive Airway Disease,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C1709854,PROCESS_OF,Chronic Obstructive Airway Disease,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024117,C1999167,PROCESS_OF,Chronic Obstructive Airway Disease,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024117,C1999167,PROCESS_OF,Chronic Obstructive Airway Disease,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C2348484,PROCESS_OF,Chronic Obstructive Airway Disease,Exposed Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024117,C2700280,PROCESS_OF,Chronic Obstructive Airway Disease,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024141,C0008059,PROCESS_OF,"Lupus Erythematosus, Systemic",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1460,22 +1460,22 @@ C0024205,C0086418,PROCESS_OF,Lymphadenitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_D
 C0024266,C0086418,PROCESS_OF,Lymphocytic Choriomeningitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024282,C0021270,PROCESS_OF,Lymphocytosis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024282,C0870602,PROCESS_OF,Lymphocytosis,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024286,C0025266,PROCESS_OF,Lymphogranuloma Venereum,Male population group,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0024291,C0001675,PROCESS_OF,"Lymphohistiocytosis, Hemophagocytic",Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024286,C0025266,PROCESS_OF,Lymphogranuloma Venereum,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0024291,C0001675,PROCESS_OF,"Lymphohistiocytosis, Hemophagocytic",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024291,C0008059,PROCESS_OF,"Lymphohistiocytosis, Hemophagocytic",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024291,C0043210,PROCESS_OF,"Lymphohistiocytosis, Hemophagocytic",Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024291,C0205653,PROCESS_OF,"Lymphohistiocytosis, Hemophagocytic",Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024312,C0001675,PROCESS_OF,Lymphopenia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024312,C0008059,PROCESS_OF,Lymphopenia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024312,C0040704,PROCESS_OF,Lymphopenia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024312,C0206194,PROCESS_OF,Lymphopenia,Survivors,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024312,C0206194,PROCESS_OF,Lymphopenia,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024437,C0086418,PROCESS_OF,Macular degeneration,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024440,C0086418,PROCESS_OF,"Macular Edema, Cystoid",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024440,C1709854,PROCESS_OF,"Macular Edema, Cystoid",Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024449,C0025266,PROCESS_OF,Mycetoma,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024449,C0043210,PROCESS_OF,Mycetoma,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0001675,PROCESS_OF,Malaria,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024530,C0008059,PROCESS_OF,Malaria,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024530,C0008059,PROCESS_OF,Malaria,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0009484,PROCESS_OF,Malaria,community worker,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0021270,PROCESS_OF,Malaria,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0021289,PROCESS_OF,Malaria,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1486,7 +1486,7 @@ C0024530,C0039309,PROCESS_OF,Malaria,Target Population,dsyn,humn,1,PROCESS_OF_DS
 C0024530,C0043210,PROCESS_OF,Malaria,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0079382,PROCESS_OF,Malaria,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0080103,PROCESS_OF,Malaria,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0024530,C0086418,PROCESS_OF,Malaria,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0024530,C0086418,PROCESS_OF,Malaria,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0240146,PROCESS_OF,Malaria,Laborer,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0282163,PROCESS_OF,Malaria,Immigrant (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024530,C0683626,PROCESS_OF,Malaria,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1503,7 +1503,7 @@ C0024591,C0031831,PROCESS_OF,Malignant hyperpyrexia due to anesthesia,Physicians
 C0024776,C1136114,PROCESS_OF,Maple Syrup Urine Disease,Institutional Animal Care and Use Committees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024788,C0086418,PROCESS_OF,Marburg Virus Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0024894,C0043210,PROCESS_OF,Mastitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025007,C0001675,PROCESS_OF,Measles,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025007,C0001675,PROCESS_OF,Measles,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0008059,PROCESS_OF,Measles,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0018422,PROCESS_OF,Measles,Roma ethnic group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0020052,PROCESS_OF,Measles,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1513,11 +1513,11 @@ C0025007,C0030551,PROCESS_OF,Measles,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0033011,PROCESS_OF,Measles,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0034961,PROCESS_OF,Measles,Refugees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0043210,PROCESS_OF,Measles,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025007,C0086418,PROCESS_OF,Measles,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025007,C0086418,PROCESS_OF,Measles,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0205653,PROCESS_OF,Measles,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0524635,PROCESS_OF,Measles,"Physicians, Junior",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0680319,PROCESS_OF,Measles,modern society,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025007,C0683626,PROCESS_OF,Measles,human group,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025007,C0683626,PROCESS_OF,Measles,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C0851286,PROCESS_OF,Measles,Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C1518563,PROCESS_OF,Measles,Older Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025007,C2700280,PROCESS_OF,Measles,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1528,13 +1528,13 @@ C0025229,C0871685,PROCESS_OF,Melioidosis,Clinician,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0025235,C0150775,PROCESS_OF,Melkersson-Rosenthal Syndrome,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025237,C0015576,PROCESS_OF,Melnick-Needles Syndrome,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0001675,PROCESS_OF,Meningitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025289,C0008059,PROCESS_OF,Meningitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025289,C0008059,PROCESS_OF,Meningitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0008098,PROCESS_OF,Meningitis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0021270,PROCESS_OF,Meningitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0021289,PROCESS_OF,Meningitis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0043210,PROCESS_OF,Meningitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0079891,PROCESS_OF,Meningitis,Indigenous Population (Natives),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025289,C0086418,PROCESS_OF,Meningitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025289,C0086418,PROCESS_OF,Meningitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0221460,PROCESS_OF,Meningitis,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0238598,PROCESS_OF,Meningitis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025289,C0335440,PROCESS_OF,Meningitis,Pig farm worker,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1546,7 +1546,7 @@ C0025290,C0043210,PROCESS_OF,Aseptic Meningitis,Woman,dsyn,humn,1,PROCESS_OF_DSY
 C0025290,C0086418,PROCESS_OF,Aseptic Meningitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025294,C0008059,PROCESS_OF,Meningococcal meningitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025294,C0238598,PROCESS_OF,Meningococcal meningitis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025295,C0008059,PROCESS_OF,"Meningitis, Pneumococcal",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025295,C0008059,PROCESS_OF,"Meningitis, Pneumococcal",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025295,C0008098,PROCESS_OF,"Meningitis, Pneumococcal","Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025295,C0870668,PROCESS_OF,"Meningitis, Pneumococcal",hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025297,C0001675,PROCESS_OF,Viral meningitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1561,7 +1561,7 @@ C0025306,C0008059,PROCESS_OF,Meningococcemia,Child,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0025306,C0025266,PROCESS_OF,Meningococcemia,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025306,C0086418,PROCESS_OF,Meningococcemia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025309,C0001675,PROCESS_OF,Meningoencephalitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025309,C0008059,PROCESS_OF,Meningoencephalitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025309,C0008059,PROCESS_OF,Meningoencephalitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025309,C0021270,PROCESS_OF,Meningoencephalitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025309,C0021289,PROCESS_OF,Meningoencephalitis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025309,C0025266,PROCESS_OF,Meningoencephalitis,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1573,7 +1573,7 @@ C0025517,C0001675,PROCESS_OF,Metabolic Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSY
 C0025517,C0025266,PROCESS_OF,Metabolic Diseases,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025517,C0033011,PROCESS_OF,Metabolic Diseases,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025517,C0043210,PROCESS_OF,Metabolic Diseases,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0025517,C0086418,PROCESS_OF,Metabolic Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0025517,C0086418,PROCESS_OF,Metabolic Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0025637,C0086418,PROCESS_OF,Methemoglobinemia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026265,C0009932,PROCESS_OF,Diseases of mitral valve,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026266,C0242543,PROCESS_OF,Mitral Valve Insufficiency,Women's Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1582,7 +1582,7 @@ C0026393,C0008059,PROCESS_OF,Molluscum Contagiosum,Child,dsyn,humn,1,PROCESS_OF_
 C0026636,C0008059,PROCESS_OF,Mouth Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026636,C0008100,PROCESS_OF,Mouth Diseases,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026691,C0001675,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0026691,C0008059,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0026691,C0008059,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026691,C0015031,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Ethnic group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026691,C0021270,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026691,C0078988,PROCESS_OF,Mucocutaneous Lymph Node Syndrome,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1593,7 +1593,7 @@ C0026718,C0008059,PROCESS_OF,Mucormycosis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfH
 C0026769,C0008059,PROCESS_OF,Multiple Sclerosis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026769,C0033011,PROCESS_OF,Multiple Sclerosis,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026769,C0043210,PROCESS_OF,Multiple Sclerosis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0026769,C0086418,PROCESS_OF,Multiple Sclerosis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0026769,C0086418,PROCESS_OF,Multiple Sclerosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026769,C0337841,PROCESS_OF,Multiple Sclerosis,Luo,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026769,C0680085,PROCESS_OF,Multiple Sclerosis,early adulthood,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026780,C0001675,PROCESS_OF,Mumps,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1611,7 +1611,7 @@ C0026919,C1709854,PROCESS_OF,"Mycobacterium Infections, Nontuberculous",Recipien
 C0026936,C0008059,PROCESS_OF,Mycoplasma Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026946,C0008059,PROCESS_OF,Mycoses,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026946,C0043210,PROCESS_OF,Mycoses,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0026946,C0086418,PROCESS_OF,Mycoses,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0026946,C0086418,PROCESS_OF,Mycoses,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026946,C1516213,PROCESS_OF,Mycoses,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026946,C1709854,PROCESS_OF,Mycoses,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0026975,C0001675,PROCESS_OF,Myelitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1622,7 +1622,7 @@ C0027051,C0042960,PROCESS_OF,Myocardial Infarction,Voluntary Workers,dsyn,humn,1
 C0027051,C0086418,PROCESS_OF,Myocardial Infarction,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027051,C0450048,PROCESS_OF,Myocardial Infarction,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027059,C0001675,PROCESS_OF,Myocarditis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0027059,C0008059,PROCESS_OF,Myocarditis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0027059,C0008059,PROCESS_OF,Myocarditis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027059,C0021289,PROCESS_OF,Myocarditis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027059,C0086418,PROCESS_OF,Myocarditis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027059,C0238703,PROCESS_OF,Myocarditis,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1642,7 +1642,7 @@ C0027765,C0021289,PROCESS_OF,nervous system disorder,"Infant, Newborn",dsyn,humn
 C0027765,C0025266,PROCESS_OF,nervous system disorder,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027765,C0043210,PROCESS_OF,nervous system disorder,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027765,C0080105,PROCESS_OF,nervous system disorder,Research Subject,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0027765,C0086418,PROCESS_OF,nervous system disorder,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0027765,C0086418,PROCESS_OF,nervous system disorder,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027765,C0238607,PROCESS_OF,nervous system disorder,AIDS patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027765,C1709854,PROCESS_OF,nervous system disorder,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0027765,C1999167,PROCESS_OF,nervous system disorder,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1653,7 +1653,7 @@ C0027983,C0162592,PROCESS_OF,Newcastle Disease,Public Domain,dsyn,humn,1,PROCESS
 C0028754,C0001675,PROCESS_OF,Obesity,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0001792,PROCESS_OF,Obesity,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0007457,PROCESS_OF,Obesity,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0028754,C0008059,PROCESS_OF,Obesity,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0028754,C0008059,PROCESS_OF,Obesity,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0013018,PROCESS_OF,Obesity,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0015576,PROCESS_OF,Obesity,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0021270,PROCESS_OF,Obesity,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1664,7 +1664,7 @@ C0028754,C0042960,PROCESS_OF,Obesity,Voluntary Workers,dsyn,humn,1,PROCESS_OF_DS
 C0028754,C0043157,PROCESS_OF,Obesity,Caucasians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0043210,PROCESS_OF,Obesity,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0079891,PROCESS_OF,Obesity,Indigenous Population (Natives),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0028754,C0086418,PROCESS_OF,Obesity,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0028754,C0086418,PROCESS_OF,Obesity,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0152035,PROCESS_OF,Obesity,Chinese People,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C0205653,PROCESS_OF,Obesity,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0028754,C1518563,PROCESS_OF,Obesity,Older Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1704,7 +1704,7 @@ C0029456,C0043210,PROCESS_OF,Osteoporosis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfH
 C0029456,C0205847,PROCESS_OF,Osteoporosis,Middle Aged,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0029456,C1999167,PROCESS_OF,Osteoporosis,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0029877,C0008059,PROCESS_OF,Ear Inflammation,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0029882,C0008059,PROCESS_OF,Otitis Media,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0029882,C0008059,PROCESS_OF,Otitis Media,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0029882,C0079891,PROCESS_OF,Otitis Media,Indigenous Population (Natives),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0029883,C0008059,PROCESS_OF,Otitis Media with Effusion,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0029896,C0008059,PROCESS_OF,Otorhinolaryngologic Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1723,7 +1723,7 @@ C0030389,C0870668,PROCESS_OF,Parainfluenza,hospitalized patients,dsyn,humn,1,PRO
 C0030389,C1999167,PROCESS_OF,Parainfluenza,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0030446,C0008059,PROCESS_OF,Paralytic Ileus,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0030481,C0086418,PROCESS_OF,Tropical Spastic Paraparesis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0030499,C0086418,PROCESS_OF,Parasitic Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0030499,C0086418,PROCESS_OF,Parasitic Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0030499,C2700280,PROCESS_OF,Parasitic Diseases,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0030524,C1708335,PROCESS_OF,Paratuberculosis,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0030567,C0001675,PROCESS_OF,Parkinson Disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1754,7 +1754,7 @@ C0031350,C0009932,PROCESS_OF,Pharyngitis,Control Groups,dsyn,humn,1,PROCESS_OF_D
 C0031350,C0020052,PROCESS_OF,Pharyngitis,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0031350,C0043210,PROCESS_OF,Pharyngitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0031350,C0085537,PROCESS_OF,Pharyngitis,Caregiver,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0031350,C0086418,PROCESS_OF,Pharyngitis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0031350,C0086418,PROCESS_OF,Pharyngitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0031350,C0205653,PROCESS_OF,Pharyngitis,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0031350,C0221460,PROCESS_OF,Pharyngitis,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0031350,C0238703,PROCESS_OF,Pharyngitis,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1769,7 +1769,7 @@ C0032027,C0086418,PROCESS_OF,Pityriasis Rubra Pilaris,Homo sapiens,dsyn,humn,1,P
 C0032051,C0008059,PROCESS_OF,Placental Insufficiency,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032064,C0007457,PROCESS_OF,Plague,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032064,C0019898,PROCESS_OF,Plague,Homosexuals,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032064,C0086418,PROCESS_OF,Plague,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032064,C0086418,PROCESS_OF,Plague,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032064,C0206194,PROCESS_OF,Plague,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032064,C0240346,PROCESS_OF,Plague,Miners,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032064,C0450048,PROCESS_OF,Plague,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1781,18 +1781,18 @@ C0032064,C2700280,PROCESS_OF,Plague,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032231,C0025266,PROCESS_OF,Pleurisy,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032269,C0001675,PROCESS_OF,Pneumococcal Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032269,C0001792,PROCESS_OF,Pneumococcal Infections,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032269,C0008059,PROCESS_OF,Pneumococcal Infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032269,C0008059,PROCESS_OF,Pneumococcal Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032269,C0282204,PROCESS_OF,Pneumococcal Infections,Native Americans,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032269,C1999167,PROCESS_OF,Pneumococcal Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0001675,PROCESS_OF,Pneumonia,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0001675,PROCESS_OF,Pneumonia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0001792,PROCESS_OF,Pneumonia,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0008059,PROCESS_OF,Pneumonia,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0008059,PROCESS_OF,Pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0008098,PROCESS_OF,Pneumonia,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0008100,PROCESS_OF,Pneumonia,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0009932,PROCESS_OF,Pneumonia,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0015576,PROCESS_OF,Pneumonia,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0020052,PROCESS_OF,Pneumonia,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0021270,PROCESS_OF,Pneumonia,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0021270,PROCESS_OF,Pneumonia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0021289,PROCESS_OF,Pneumonia,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0025266,PROCESS_OF,Pneumonia,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0026126,PROCESS_OF,Pneumonia,Military Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1801,12 +1801,12 @@ C0032285,C0031228,PROCESS_OF,Pneumonia,"Personnel, Hospital",dsyn,humn,1,PROCESS
 C0032285,C0031831,PROCESS_OF,Pneumonia,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0033011,PROCESS_OF,Pneumonia,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0035173,PROCESS_OF,Pneumonia,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0038492,PROCESS_OF,Pneumonia,student,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0038492,PROCESS_OF,Pneumonia,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0040704,PROCESS_OF,Pneumonia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0041432,PROCESS_OF,Pneumonia,Monozygotic twins,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0043210,PROCESS_OF,Pneumonia,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0043210,PROCESS_OF,Pneumonia,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0086282,PROCESS_OF,Pneumonia,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0086418,PROCESS_OF,Pneumonia,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0086418,PROCESS_OF,Pneumonia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0086582,PROCESS_OF,Pneumonia,Males,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0150775,PROCESS_OF,Pneumonia,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0205653,PROCESS_OF,Pneumonia,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1817,7 +1817,7 @@ C0032285,C0242664,PROCESS_OF,Pneumonia,husband,dsyn,humn,1,PROCESS_OF_DSYNprcfHU
 C0032285,C0242665,PROCESS_OF,Pneumonia,wife,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0242821,PROCESS_OF,Pneumonia,Human body,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0282122,PROCESS_OF,Pneumonia,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0337534,PROCESS_OF,Pneumonia,Twin brother,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0337534,PROCESS_OF,Pneumonia,Twin brother,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0337547,PROCESS_OF,Pneumonia,Younger child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0337806,PROCESS_OF,Pneumonia,Greeks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0376326,PROCESS_OF,Pneumonia,Institutionalized Persons,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1827,10 +1827,10 @@ C0032285,C0524647,PROCESS_OF,Pneumonia,Soldiers,dsyn,humn,1,PROCESS_OF_DSYNprcfH
 C0032285,C0680063,PROCESS_OF,Pneumonia,Offspring,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0682287,PROCESS_OF,Pneumonia,nursing home resident,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0683626,PROCESS_OF,Pneumonia,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0815269,PROCESS_OF,Pneumonia,secondary school student,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0815269,PROCESS_OF,Pneumonia,secondary school student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0851286,PROCESS_OF,Pneumonia,Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0870221,PROCESS_OF,Pneumonia,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C0870602,PROCESS_OF,Pneumonia,geriatric patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C0870602,PROCESS_OF,Pneumonia,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0870668,PROCESS_OF,Pneumonia,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0871489,PROCESS_OF,Pneumonia,teams,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C0871685,PROCESS_OF,Pneumonia,Clinician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1841,15 +1841,15 @@ C0032285,C1553705,PROCESS_OF,Pneumonia,Daughter-in-law,dsyn,humn,1,PROCESS_OF_DS
 C0032285,C1704784,PROCESS_OF,Pneumonia,Owner,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C1706077,PROCESS_OF,Pneumonia,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C1709854,PROCESS_OF,Pneumonia,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032285,C1999167,PROCESS_OF,Pneumonia,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0032285,C2700280,PROCESS_OF,Pneumonia,World,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032285,C1999167,PROCESS_OF,Pneumonia,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0032285,C2700280,PROCESS_OF,Pneumonia,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C2986530,PROCESS_OF,Pneumonia,Intervention Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C3826770,PROCESS_OF,Pneumonia,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C3844032,PROCESS_OF,Pneumonia,Child 2,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032285,C3844033,PROCESS_OF,Pneumonia,Child 1,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032290,C0008059,PROCESS_OF,Aspiration Pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032290,C0870668,PROCESS_OF,Aspiration Pneumonia,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032290,C3826770,PROCESS_OF,Aspiration Pneumonia,Older people,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032290,C3826770,PROCESS_OF,Aspiration Pneumonia,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032298,C0008059,PROCESS_OF,"Pneumonia, Lipid",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032300,C0001675,PROCESS_OF,Lobar Pneumonia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032300,C0008059,PROCESS_OF,Lobar Pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1858,7 +1858,7 @@ C0032300,C3844027,PROCESS_OF,Lobar Pneumonia,Child 7,dsyn,humn,1,PROCESS_OF_DSYN
 C0032300,C3844032,PROCESS_OF,Lobar Pneumonia,Child 2,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032302,C0008059,PROCESS_OF,Mycoplasma pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032310,C0001675,PROCESS_OF,"Pneumonia, Viral",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0032310,C0008059,PROCESS_OF,"Pneumonia, Viral",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0032310,C0008059,PROCESS_OF,"Pneumonia, Viral",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032310,C0008098,PROCESS_OF,"Pneumonia, Viral","Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032310,C0021270,PROCESS_OF,"Pneumonia, Viral",Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0032310,C0033011,PROCESS_OF,"Pneumonia, Viral",Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1905,7 +1905,7 @@ C0034069,C0086418,PROCESS_OF,Pulmonary Fibrosis,Homo sapiens,dsyn,humn,1,PROCESS
 C0034069,C0206194,PROCESS_OF,Pulmonary Fibrosis,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034069,C0376387,PROCESS_OF,Pulmonary Fibrosis,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034069,C1708335,PROCESS_OF,Pulmonary Fibrosis,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0034072,C0001675,PROCESS_OF,Cor pulmonale,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0034072,C0001675,PROCESS_OF,Cor pulmonale,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034072,C0008059,PROCESS_OF,Cor pulmonale,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034072,C0021270,PROCESS_OF,Cor pulmonale,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034072,C1999167,PROCESS_OF,Cor pulmonale,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1913,7 +1913,7 @@ C0034088,C0870668,PROCESS_OF,Pulmonary Valve Insufficiency,hospitalized patients
 C0034150,C0008059,PROCESS_OF,Purpura,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034150,C0043210,PROCESS_OF,Purpura,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034152,C0001675,PROCESS_OF,Henoch-Schoenlein Purpura,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0034152,C0008059,PROCESS_OF,Henoch-Schoenlein Purpura,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0034152,C0008059,PROCESS_OF,Henoch-Schoenlein Purpura,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034152,C0205653,PROCESS_OF,Henoch-Schoenlein Purpura,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034155,C0043210,PROCESS_OF,"Purpura, Thrombotic Thrombocytopenic",Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0034186,C0008059,PROCESS_OF,Pyelonephritis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1956,7 +1956,7 @@ C0035204,C0150775,PROCESS_OF,Respiration Disorders,Social Networks,dsyn,humn,1,P
 C0035204,C0205653,PROCESS_OF,Respiration Disorders,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035204,C0221460,PROCESS_OF,Respiration Disorders,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035204,C0335350,PROCESS_OF,Respiration Disorders,Building caretaker,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035204,C0450048,PROCESS_OF,Respiration Disorders,Passenger,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035204,C0450048,PROCESS_OF,Respiration Disorders,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035204,C0687759,PROCESS_OF,Respiration Disorders,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035204,C0870454,PROCESS_OF,Respiration Disorders,dyads,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035204,C0870668,PROCESS_OF,Respiration Disorders,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1971,7 +1971,7 @@ C0035220,C0021289,PROCESS_OF,"Respiratory Distress Syndrome, Newborn","Infant, N
 C0035220,C0078988,PROCESS_OF,"Respiratory Distress Syndrome, Newborn",Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035220,C0086418,PROCESS_OF,"Respiratory Distress Syndrome, Newborn",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035220,C0206194,PROCESS_OF,"Respiratory Distress Syndrome, Newborn",Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035222,C0001675,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035222,C0001675,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0001792,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0007457,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0008059,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1985,7 +1985,7 @@ C0035222,C0033011,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Pregnant Wom
 C0035222,C0043210,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0078988,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0080105,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Research Subject,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035222,C0086418,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035222,C0086418,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0150775,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0175989,PROCESS_OF,"Respiratory Distress Syndrome, Adult",critically ill children,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C0206194,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -1999,14 +1999,14 @@ C0035222,C1999167,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Old age,dsyn
 C0035222,C3812881,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Author,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C3826770,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035222,C4288965,PROCESS_OF,"Respiratory Distress Syndrome, Adult",Hematopoietic Cell Transplantation Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035235,C0001675,PROCESS_OF,Respiratory Syncytial Virus Infections,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035235,C0001675,PROCESS_OF,Respiratory Syncytial Virus Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0001792,PROCESS_OF,Respiratory Syncytial Virus Infections,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035235,C0008059,PROCESS_OF,Respiratory Syncytial Virus Infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035235,C0008059,PROCESS_OF,Respiratory Syncytial Virus Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0008098,PROCESS_OF,Respiratory Syncytial Virus Infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0008100,PROCESS_OF,Respiratory Syncytial Virus Infections,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0015576,PROCESS_OF,Respiratory Syncytial Virus Infections,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0020052,PROCESS_OF,Respiratory Syncytial Virus Infections,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035235,C0021270,PROCESS_OF,Respiratory Syncytial Virus Infections,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035235,C0021270,PROCESS_OF,Respiratory Syncytial Virus Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0021288,PROCESS_OF,Respiratory Syncytial Virus Infections,Low Birth Weight Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0021289,PROCESS_OF,Respiratory Syncytial Virus Infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C0026591,PROCESS_OF,Respiratory Syncytial Virus Infections,Mother (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2028,7 +2028,7 @@ C0035235,C1455726,PROCESS_OF,Respiratory Syncytial Virus Infections,Older child,
 C0035235,C1516213,PROCESS_OF,Respiratory Syncytial Virus Infections,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C1708335,PROCESS_OF,Respiratory Syncytial Virus Infections,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C1709854,PROCESS_OF,Respiratory Syncytial Virus Infections,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035235,C1999167,PROCESS_OF,Respiratory Syncytial Virus Infections,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035235,C1999167,PROCESS_OF,Respiratory Syncytial Virus Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C2700280,PROCESS_OF,Respiratory Syncytial Virus Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035235,C4288965,PROCESS_OF,Respiratory Syncytial Virus Infections,Hematopoietic Cell Transplantation Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035242,C0001675,PROCESS_OF,Respiratory Tract Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2038,14 +2038,14 @@ C0035242,C0086418,PROCESS_OF,Respiratory Tract Diseases,Homo sapiens,dsyn,humn,1
 C0035242,C0221460,PROCESS_OF,Respiratory Tract Diseases,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035242,C1709854,PROCESS_OF,Respiratory Tract Diseases,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035242,C1999167,PROCESS_OF,Respiratory Tract Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035243,C0001675,PROCESS_OF,Respiratory Tract Infections,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035243,C0001675,PROCESS_OF,Respiratory Tract Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0001792,PROCESS_OF,Respiratory Tract Infections,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0007457,PROCESS_OF,Respiratory Tract Infections,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035243,C0008059,PROCESS_OF,Respiratory Tract Infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035243,C0008059,PROCESS_OF,Respiratory Tract Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0008098,PROCESS_OF,Respiratory Tract Infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0015576,PROCESS_OF,Respiratory Tract Infections,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0020052,PROCESS_OF,Respiratory Tract Infections,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035243,C0021270,PROCESS_OF,Respiratory Tract Infections,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035243,C0021270,PROCESS_OF,Respiratory Tract Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0021289,PROCESS_OF,Respiratory Tract Infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0026126,PROCESS_OF,Respiratory Tract Infections,Military Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0026192,PROCESS_OF,Respiratory Tract Infections,Minority Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2055,7 +2055,7 @@ C0035243,C0040704,PROCESS_OF,Respiratory Tract Infections,Transient Population G
 C0035243,C0043210,PROCESS_OF,Respiratory Tract Infections,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0080103,PROCESS_OF,Respiratory Tract Infections,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0086282,PROCESS_OF,Respiratory Tract Infections,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035243,C0086418,PROCESS_OF,Respiratory Tract Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035243,C0086418,PROCESS_OF,Respiratory Tract Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0238598,PROCESS_OF,Respiratory Tract Infections,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0238703,PROCESS_OF,Respiratory Tract Infections,Athletes,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C0282122,PROCESS_OF,Respiratory Tract Infections,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2077,7 +2077,7 @@ C0035243,C0870646,PROCESS_OF,Respiratory Tract Infections,High Risk Populations,
 C0035243,C0870668,PROCESS_OF,Respiratory Tract Infections,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C1553362,PROCESS_OF,Respiratory Tract Infections,Catalonian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C1709854,PROCESS_OF,Respiratory Tract Infections,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035243,C1999167,PROCESS_OF,Respiratory Tract Infections,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035243,C1999167,PROCESS_OF,Respiratory Tract Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035243,C2700280,PROCESS_OF,Respiratory Tract Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035309,C0086418,PROCESS_OF,Retinal Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035309,C0087009,PROCESS_OF,Retinal Diseases,Hospital specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2088,7 +2088,7 @@ C0035333,C0870668,PROCESS_OF,Retinitis,hospitalized patients,dsyn,humn,1,PROCESS
 C0035334,C0086418,PROCESS_OF,Retinitis Pigmentosa,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035369,C0020052,PROCESS_OF,Retroviridae Infections,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035369,C0079382,PROCESS_OF,Retroviridae Infections,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035369,C0086418,PROCESS_OF,Retroviridae Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035369,C0086418,PROCESS_OF,Retroviridae Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035400,C0008059,PROCESS_OF,Reye Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035400,C0205653,PROCESS_OF,Reye Syndrome,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035436,C0008059,PROCESS_OF,Rheumatic Fever,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2102,7 +2102,7 @@ C0035436,C1516213,PROCESS_OF,Rheumatic Fever,Cancer Patient,dsyn,humn,1,PROCESS_
 C0035439,C0008059,PROCESS_OF,Rheumatic Heart Disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035439,C0238598,PROCESS_OF,Rheumatic Heart Disease,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035455,C0001675,PROCESS_OF,Rhinitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035455,C0008059,PROCESS_OF,Rhinitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035455,C0008059,PROCESS_OF,Rhinitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035455,C0015576,PROCESS_OF,Rhinitis,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035455,C0020052,PROCESS_OF,Rhinitis,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035455,C0086282,PROCESS_OF,Rhinitis,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2113,7 +2113,7 @@ C0035585,C0086418,PROCESS_OF,Rickettsia Infections,Homo sapiens,dsyn,humn,1,PROC
 C0035585,C0687759,PROCESS_OF,Rickettsia Infections,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035613,C0015576,PROCESS_OF,Rift Valley Fever,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035613,C0086418,PROCESS_OF,Rift Valley Fever,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035613,C0337831,PROCESS_OF,Rift Valley Fever,Ewe,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035613,C0337831,PROCESS_OF,Rift Valley Fever,Ewe,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035613,C0684030,PROCESS_OF,Rift Valley Fever,high-risk group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035690,C0008059,PROCESS_OF,RNA Virus Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035690,C0086418,PROCESS_OF,RNA Virus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2125,10 +2125,10 @@ C0035869,C0034510,PROCESS_OF,Rotavirus Infections,Racial group,dsyn,humn,1,PROCE
 C0035869,C0086418,PROCESS_OF,Rotavirus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035869,C2700280,PROCESS_OF,Rotavirus Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C0001675,PROCESS_OF,Rubella,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035920,C0008059,PROCESS_OF,Rubella,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035920,C0008059,PROCESS_OF,Rubella,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C0026591,PROCESS_OF,Rubella,Mother (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C0033011,PROCESS_OF,Rubella,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0035920,C0205653,PROCESS_OF,Rubella,Adolescent (age group),dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0035920,C0205653,PROCESS_OF,Rubella,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C0238598,PROCESS_OF,Rubella,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C0870992,PROCESS_OF,Rubella,observers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0035920,C2700280,PROCESS_OF,Rubella,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2151,7 +2151,7 @@ C0036323,C0008059,PROCESS_OF,Schistosomiasis,Child,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0036323,C0026093,PROCESS_OF,Schistosomiasis,Migrants,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036323,C0034961,PROCESS_OF,Schistosomiasis,Refugees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036323,C0078988,PROCESS_OF,Schistosomiasis,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0036323,C0086418,PROCESS_OF,Schistosomiasis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0036323,C0086418,PROCESS_OF,Schistosomiasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036330,C0086418,PROCESS_OF,Schistosomiasis mansoni,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036421,C0871685,PROCESS_OF,Systemic Scleroderma,Clinician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036457,C0086418,PROCESS_OF,Scrapie,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2164,9 +2164,9 @@ C0036690,C0008059,PROCESS_OF,Septicemia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUM
 C0036690,C0021270,PROCESS_OF,Septicemia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0021289,PROCESS_OF,Septicemia,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0043210,PROCESS_OF,Septicemia,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0036690,C0086418,PROCESS_OF,Septicemia,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0036690,C0086418,PROCESS_OF,Septicemia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0150775,PROCESS_OF,Septicemia,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0036690,C0206194,PROCESS_OF,Septicemia,Survivors,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0036690,C0206194,PROCESS_OF,Septicemia,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0221460,PROCESS_OF,Septicemia,Farmers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0238598,PROCESS_OF,Septicemia,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0036690,C0241315,PROCESS_OF,Septicemia,Swiss,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2209,7 +2209,7 @@ C0037354,C0015576,PROCESS_OF,Smallpox,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0026126,PROCESS_OF,Smallpox,Military Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0033011,PROCESS_OF,Smallpox,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0035173,PROCESS_OF,Smallpox,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0037354,C0086418,PROCESS_OF,Smallpox,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0037354,C0086418,PROCESS_OF,Smallpox,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0335416,PROCESS_OF,Smallpox,Dairy farmer,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0337527,PROCESS_OF,Smallpox,Brothers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0037354,C0596227,PROCESS_OF,Smallpox,british,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2308,30 +2308,30 @@ C0041228,C0010222,PROCESS_OF,African Trypanosomiasis,Couples (persons),dsyn,humn
 C0041228,C0086418,PROCESS_OF,African Trypanosomiasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041234,C0008059,PROCESS_OF,Chagas Disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041234,C0026093,PROCESS_OF,Chagas Disease,Migrants,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041234,C0086418,PROCESS_OF,Chagas Disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041234,C0086418,PROCESS_OF,Chagas Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0001675,PROCESS_OF,Tuberculosis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C0008059,PROCESS_OF,Tuberculosis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C0008059,PROCESS_OF,Tuberculosis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0016400,PROCESS_OF,Tuberculosis,Focus Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0018422,PROCESS_OF,Tuberculosis,Roma ethnic group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0021270,PROCESS_OF,Tuberculosis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0025266,PROCESS_OF,Tuberculosis,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C0026093,PROCESS_OF,Tuberculosis,Migrants,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C0026093,PROCESS_OF,Tuberculosis,Migrants,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0026192,PROCESS_OF,Tuberculosis,Minority Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0030551,PROCESS_OF,Tuberculosis,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0034510,PROCESS_OF,Tuberculosis,Racial group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0034961,PROCESS_OF,Tuberculosis,Refugees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0038492,PROCESS_OF,Tuberculosis,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C0043210,PROCESS_OF,Tuberculosis,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C0043210,PROCESS_OF,Tuberculosis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0086418,PROCESS_OF,Tuberculosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0238598,PROCESS_OF,Tuberculosis,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0282163,PROCESS_OF,Tuberculosis,Immigrant (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0683626,PROCESS_OF,Tuberculosis,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0814942,PROCESS_OF,Tuberculosis,Han Chinese,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C0815269,PROCESS_OF,Tuberculosis,secondary school student,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C0815269,PROCESS_OF,Tuberculosis,secondary school student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C0870668,PROCESS_OF,Tuberculosis,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C1709854,PROCESS_OF,Tuberculosis,Recipient,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C1709854,PROCESS_OF,Tuberculosis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041296,C1883562,PROCESS_OF,Tuberculosis,Working Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041296,C2700280,PROCESS_OF,Tuberculosis,World,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041296,C2700280,PROCESS_OF,Tuberculosis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041307,C0150775,PROCESS_OF,"Tuberculosis, Bovine",Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041318,C0008059,PROCESS_OF,"Tuberculosis, Meningeal",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041318,C0086418,PROCESS_OF,"Tuberculosis, Meningeal",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2348,16 +2348,16 @@ C0041466,C0026093,PROCESS_OF,Typhoid Fever,Migrants,dsyn,humn,1,PROCESS_OF_DSYNp
 C0041466,C0079382,PROCESS_OF,Typhoid Fever,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041466,C0080103,PROCESS_OF,Typhoid Fever,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041466,C0086418,PROCESS_OF,Typhoid Fever,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041466,C0687759,PROCESS_OF,Typhoid Fever,traveler,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041466,C0687759,PROCESS_OF,Typhoid Fever,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041471,C0034961,PROCESS_OF,TYPHUS,Refugees,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041471,C0086418,PROCESS_OF,TYPHUS,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041471,C0086418,PROCESS_OF,TYPHUS,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041471,C1706077,PROCESS_OF,TYPHUS,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041472,C0524647,PROCESS_OF,Endemic Flea-Borne Typhus,Soldiers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0001675,PROCESS_OF,Upper Respiratory Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0001792,PROCESS_OF,Upper Respiratory Infections,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041912,C0008059,PROCESS_OF,Upper Respiratory Infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041912,C0008059,PROCESS_OF,Upper Respiratory Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0008098,PROCESS_OF,Upper Respiratory Infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0041912,C0008100,PROCESS_OF,Upper Respiratory Infections,"Child, Preschool",dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0041912,C0008100,PROCESS_OF,Upper Respiratory Infections,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0021270,PROCESS_OF,Upper Respiratory Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0025266,PROCESS_OF,Upper Respiratory Infections,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C0030551,PROCESS_OF,Upper Respiratory Infections,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2378,13 +2378,13 @@ C0041912,C1455726,PROCESS_OF,Upper Respiratory Infections,Older child,dsyn,humn,
 C0041912,C1708335,PROCESS_OF,Upper Respiratory Infections,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C1999167,PROCESS_OF,Upper Respiratory Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0041912,C2700280,PROCESS_OF,Upper Respiratory Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042029,C0008059,PROCESS_OF,Urinary tract infection,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042029,C0008059,PROCESS_OF,Urinary tract infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C0009932,PROCESS_OF,Urinary tract infection,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C0021270,PROCESS_OF,Urinary tract infection,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C0021289,PROCESS_OF,Urinary tract infection,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C0030551,PROCESS_OF,Urinary tract infection,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C0043210,PROCESS_OF,Urinary tract infection,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042029,C0086418,PROCESS_OF,Urinary tract infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042029,C0086418,PROCESS_OF,Urinary tract infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042029,C1999167,PROCESS_OF,Urinary tract infection,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042075,C0086418,PROCESS_OF,Urologic Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042109,C0008059,PROCESS_OF,Urticaria,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2404,7 +2404,7 @@ C0042721,C0025266,PROCESS_OF,Viral hepatitis,Male population group,dsyn,humn,1,P
 C0042721,C0086418,PROCESS_OF,Viral hepatitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042721,C0282122,PROCESS_OF,Viral hepatitis,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042721,C2700280,PROCESS_OF,Viral hepatitis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042749,C0001675,PROCESS_OF,Viremia,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042749,C0001675,PROCESS_OF,Viremia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0001792,PROCESS_OF,Viremia,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0005795,PROCESS_OF,Viremia,Blood donor,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0008059,PROCESS_OF,Viremia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2416,7 +2416,7 @@ C0042749,C0040288,PROCESS_OF,Viremia,Tissue Donors,dsyn,humn,1,PROCESS_OF_DSYNpr
 C0042749,C0040704,PROCESS_OF,Viremia,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0042960,PROCESS_OF,Viremia,Voluntary Workers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0043210,PROCESS_OF,Viremia,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042749,C0086418,PROCESS_OF,Viremia,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042749,C0086418,PROCESS_OF,Viremia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0205653,PROCESS_OF,Viremia,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0206194,PROCESS_OF,Viremia,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C0337831,PROCESS_OF,Viremia,Ewe,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2429,8 +2429,8 @@ C0042749,C3812881,PROCESS_OF,Viremia,Author,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042749,C4288965,PROCESS_OF,Viremia,Hematopoietic Cell Transplantation Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0001675,PROCESS_OF,Virus Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0001792,PROCESS_OF,Virus Diseases,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042769,C0008059,PROCESS_OF,Virus Diseases,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0042769,C0008098,PROCESS_OF,Virus Diseases,"Child, Hospitalized",dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042769,C0008059,PROCESS_OF,Virus Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0042769,C0008098,PROCESS_OF,Virus Diseases,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0008100,PROCESS_OF,Virus Diseases,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0009932,PROCESS_OF,Virus Diseases,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0011328,PROCESS_OF,Virus Diseases,Dental Auxiliaries,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2438,7 +2438,7 @@ C0042769,C0011441,PROCESS_OF,Virus Diseases,Dentist,dsyn,humn,1,PROCESS_OF_DSYNp
 C0042769,C0013018,PROCESS_OF,Virus Diseases,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0015576,PROCESS_OF,Virus Diseases,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0020052,PROCESS_OF,Virus Diseases,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042769,C0021270,PROCESS_OF,Virus Diseases,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042769,C0021270,PROCESS_OF,Virus Diseases,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0021289,PROCESS_OF,Virus Diseases,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0030551,PROCESS_OF,Virus Diseases,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0031831,PROCESS_OF,Virus Diseases,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2447,7 +2447,7 @@ C0042769,C0034961,PROCESS_OF,Virus Diseases,Refugees,dsyn,humn,1,PROCESS_OF_DSYN
 C0042769,C0040704,PROCESS_OF,Virus Diseases,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0042960,PROCESS_OF,Virus Diseases,Voluntary Workers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0043210,PROCESS_OF,Virus Diseases,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042769,C0086418,PROCESS_OF,Virus Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042769,C0086418,PROCESS_OF,Virus Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0150775,PROCESS_OF,Virus Diseases,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0205653,PROCESS_OF,Virus Diseases,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C0240346,PROCESS_OF,Virus Diseases,Miners,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2469,7 +2469,7 @@ C0042769,C1516213,PROCESS_OF,Virus Diseases,Cancer Patient,dsyn,humn,1,PROCESS_O
 C0042769,C1706077,PROCESS_OF,Virus Diseases,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C1708335,PROCESS_OF,Virus Diseases,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C1709854,PROCESS_OF,Virus Diseases,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0042769,C1999167,PROCESS_OF,Virus Diseases,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0042769,C1999167,PROCESS_OF,Virus Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C2700280,PROCESS_OF,Virus Diseases,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C2717882,PROCESS_OF,Virus Diseases,Endangered Species,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0042769,C3178774,PROCESS_OF,Virus Diseases,Laboratory Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2491,7 +2491,7 @@ C0043167,C0001675,PROCESS_OF,Pertussis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0008059,PROCESS_OF,Pertussis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0008098,PROCESS_OF,Pertussis,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0020052,PROCESS_OF,Pertussis,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0043167,C0021270,PROCESS_OF,Pertussis,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0043167,C0021270,PROCESS_OF,Pertussis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0021289,PROCESS_OF,Pertussis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0026192,PROCESS_OF,Pertussis,Minority Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043167,C0026591,PROCESS_OF,Pertussis,Mother (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2503,14 +2503,14 @@ C0043194,C0008059,PROCESS_OF,Wiskott-Aldrich Syndrome,Child,dsyn,humn,1,PROCESS_
 C0043388,C0086418,PROCESS_OF,Yaws,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043395,C0008059,PROCESS_OF,Yellow Fever,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043395,C0086418,PROCESS_OF,Yellow Fever,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0043395,C0687759,PROCESS_OF,Yellow Fever,traveler,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0043395,C0687759,PROCESS_OF,Yellow Fever,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043395,C1709854,PROCESS_OF,Yellow Fever,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043407,C0086418,PROCESS_OF,Yersinia infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0015576,PROCESS_OF,Zoonoses,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0020052,PROCESS_OF,Zoonoses,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0031228,PROCESS_OF,Zoonoses,"Personnel, Hospital",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0033011,PROCESS_OF,Zoonoses,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0043528,C0086418,PROCESS_OF,Zoonoses,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0043528,C0086418,PROCESS_OF,Zoonoses,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0086944,PROCESS_OF,Zoonoses,Rural Communities,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0087009,PROCESS_OF,Zoonoses,Hospital specialist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0043528,C0150775,PROCESS_OF,Zoonoses,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2536,8 +2536,8 @@ C0085110,C0086418,PROCESS_OF,Severe Combined Immunodeficiency,Homo sapiens,dsyn,
 C0085110,C1709854,PROCESS_OF,Severe Combined Immunodeficiency,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0085129,C0008059,PROCESS_OF,Bronchial Hyperreactivity,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0085129,C0040704,PROCESS_OF,Bronchial Hyperreactivity,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0085166,C0043210,PROCESS_OF,Bacterial Vaginosis,Woman,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0085207,C0031831,PROCESS_OF,Gestational Diabetes,Physicians,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0085166,C0043210,PROCESS_OF,Bacterial Vaginosis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0085207,C0031831,PROCESS_OF,Gestational Diabetes,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0085207,C0043210,PROCESS_OF,Gestational Diabetes,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0085209,C0524645,PROCESS_OF,"Encephalopathy, Bovine Spongiform",Marines,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0085273,C0008059,PROCESS_OF,Erythema Infectiosum,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2579,8 +2579,8 @@ C0087086,C0008059,PROCESS_OF,Thrombus,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149512,C0001675,PROCESS_OF,Acute sinusitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149512,C0007457,PROCESS_OF,Acute sinusitis,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149512,C0008059,PROCESS_OF,Acute sinusitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149514,C0001675,PROCESS_OF,Acute bronchitis,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0149514,C0008059,PROCESS_OF,Acute bronchitis,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149514,C0001675,PROCESS_OF,Acute bronchitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0149514,C0008059,PROCESS_OF,Acute bronchitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149514,C0870602,PROCESS_OF,Acute bronchitis,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149516,C0001675,PROCESS_OF,Chronic sinusitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149516,C0008059,PROCESS_OF,Chronic sinusitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2596,18 +2596,18 @@ C0149678,C1708335,PROCESS_OF,Epstein-Barr Virus Infections,Healthy Volunteers,ds
 C0149678,C1999167,PROCESS_OF,Epstein-Barr Virus Infections,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0001675,PROCESS_OF,Lower respiratory tract infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0001792,PROCESS_OF,Lower respiratory tract infection,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149725,C0008059,PROCESS_OF,Lower respiratory tract infection,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149725,C0008059,PROCESS_OF,Lower respiratory tract infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0008098,PROCESS_OF,Lower respiratory tract infection,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0008100,PROCESS_OF,Lower respiratory tract infection,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0020155,PROCESS_OF,Lower respiratory tract infection,Human Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149725,C0021270,PROCESS_OF,Lower respiratory tract infection,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149725,C0021270,PROCESS_OF,Lower respiratory tract infection,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0021289,PROCESS_OF,Lower respiratory tract infection,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0037179,PROCESS_OF,Lower respiratory tract infection,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0040704,PROCESS_OF,Lower respiratory tract infection,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0086418,PROCESS_OF,Lower respiratory tract infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0175989,PROCESS_OF,Lower respiratory tract infection,critically ill children,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0205653,PROCESS_OF,Lower respiratory tract infection,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149725,C0337547,PROCESS_OF,Lower respiratory tract infection,Younger child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149725,C0337547,PROCESS_OF,Lower respiratory tract infection,Younger child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0376387,PROCESS_OF,Lower respiratory tract infection,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0682053,PROCESS_OF,Lower respiratory tract infection,Toddler (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C0684030,PROCESS_OF,Lower respiratory tract infection,high-risk group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2616,12 +2616,12 @@ C0149725,C0870221,PROCESS_OF,Lower respiratory tract infection,Boys,dsyn,humn,1,
 C0149725,C0870668,PROCESS_OF,Lower respiratory tract infection,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C1517739,PROCESS_OF,Lower respiratory tract infection,Laryngectomee,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C1709854,PROCESS_OF,Lower respiratory tract infection,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149725,C1999167,PROCESS_OF,Lower respiratory tract infection,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149725,C1999167,PROCESS_OF,Lower respiratory tract infection,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149725,C2700280,PROCESS_OF,Lower respiratory tract infection,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149745,C0242856,PROCESS_OF,Oral Ulcer,Veterinarian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149869,C0008059,PROCESS_OF,Spasmodic Croup,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149871,C0870869,PROCESS_OF,Deep Vein Thrombosis,medical patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0149886,C0008059,PROCESS_OF,"Seizure, Febrile, Simple",Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0149886,C0008059,PROCESS_OF,"Seizure, Febrile, Simple",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149904,C0376387,PROCESS_OF,Cholestatic hepatitis,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149904,C0870221,PROCESS_OF,Cholestatic hepatitis,Boys,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0149904,C1709854,PROCESS_OF,Cholestatic hepatitis,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2631,8 +2631,8 @@ C0151317,C0008059,PROCESS_OF,Chronic infectious disease,Child,dsyn,humn,1,PROCES
 C0151317,C0021270,PROCESS_OF,Chronic infectious disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0151317,C0037179,PROCESS_OF,Chronic infectious disease,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0151317,C0043210,PROCESS_OF,Chronic infectious disease,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0151317,C0086418,PROCESS_OF,Chronic infectious disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0151317,C0376387,PROCESS_OF,Chronic infectious disease,Transplant Recipients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0151317,C0086418,PROCESS_OF,Chronic infectious disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0151317,C0376387,PROCESS_OF,Chronic infectious disease,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0151317,C0524337,PROCESS_OF,Chronic infectious disease,Elderly man,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0151317,C0680085,PROCESS_OF,Chronic infectious disease,early adulthood,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0151317,C0680319,PROCESS_OF,Chronic infectious disease,modern society,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2660,7 +2660,7 @@ C0152244,C0402574,PROCESS_OF,"Bone Cysts, Aneurysmal",Exporter,dsyn,humn,1,PROCE
 C0152517,C0008059,PROCESS_OF,Enteritis due to specified virus,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0152517,C0021270,PROCESS_OF,Enteritis due to specified virus,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0152517,C0025266,PROCESS_OF,Enteritis due to specified virus,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0152517,C0086418,PROCESS_OF,Enteritis due to specified virus,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0152517,C0086418,PROCESS_OF,Enteritis due to specified virus,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0152517,C1709854,PROCESS_OF,Enteritis due to specified virus,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0152915,C0008059,PROCESS_OF,Acute miliary tuberculosis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0152936,C0150775,PROCESS_OF,"Plague, Septicemic",Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2711,7 +2711,7 @@ C0175701,C0221460,PROCESS_OF,Aarskog syndrome,Farmers,dsyn,humn,1,PROCESS_OF_DSY
 C0175713,C0086418,PROCESS_OF,Aicardi's syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0178238,C0008059,PROCESS_OF,Intestinal infectious disease (disorder),Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0178238,C0021289,PROCESS_OF,Intestinal infectious disease (disorder),"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0178238,C0086418,PROCESS_OF,Intestinal infectious disease (disorder),Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0178238,C0086418,PROCESS_OF,Intestinal infectious disease (disorder),Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0178238,C2700280,PROCESS_OF,Intestinal infectious disease (disorder),World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0178829,C2700280,PROCESS_OF,reproductive system disorder,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0178879,C0021270,PROCESS_OF,Urinary tract obstruction,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2735,7 +2735,7 @@ C0205721,C0086418,PROCESS_OF,"Infections, Hospital",Homo sapiens,dsyn,humn,1,PRO
 C0205721,C0282122,PROCESS_OF,"Infections, Hospital",Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0205721,C0683626,PROCESS_OF,"Infections, Hospital",human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0205721,C0851286,PROCESS_OF,"Infections, Hospital",Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0205721,C0870668,PROCESS_OF,"Infections, Hospital",hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0205721,C0870668,PROCESS_OF,"Infections, Hospital",hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0205721,C1552089,PROCESS_OF,"Infections, Hospital",Staff Member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0205721,C1998092,PROCESS_OF,"Infections, Hospital","Jain, follower of religion",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0205734,C0001675,PROCESS_OF,"Diabetes, Autoimmune",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2766,12 +2766,12 @@ C0206608,C0008059,PROCESS_OF,Flavivirus Infections,Child,dsyn,humn,1,PROCESS_OF_
 C0206608,C0086418,PROCESS_OF,Flavivirus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206613,C0008059,PROCESS_OF,Paramyxoviridae Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0001675,PROCESS_OF,Coronavirus Infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0206750,C0008059,PROCESS_OF,Coronavirus Infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0206750,C0008059,PROCESS_OF,Coronavirus Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0008098,PROCESS_OF,Coronavirus Infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0008100,PROCESS_OF,Coronavirus Infections,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0015576,PROCESS_OF,Coronavirus Infections,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0020052,PROCESS_OF,Coronavirus Infections,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0206750,C0021270,PROCESS_OF,Coronavirus Infections,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0206750,C0021270,PROCESS_OF,Coronavirus Infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0021289,PROCESS_OF,Coronavirus Infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0025106,PROCESS_OF,Coronavirus Infections,Medical Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0025266,PROCESS_OF,Coronavirus Infections,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2782,7 +2782,7 @@ C0206750,C0037179,PROCESS_OF,Coronavirus Infections,Unmarried person,dsyn,humn,1
 C0206750,C0043210,PROCESS_OF,Coronavirus Infections,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0078988,PROCESS_OF,Coronavirus Infections,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0086282,PROCESS_OF,Coronavirus Infections,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0206750,C0086418,PROCESS_OF,Coronavirus Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0206750,C0086418,PROCESS_OF,Coronavirus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0150775,PROCESS_OF,Coronavirus Infections,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0242821,PROCESS_OF,Coronavirus Infections,Human body,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0376387,PROCESS_OF,Coronavirus Infections,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2792,7 +2792,7 @@ C0206750,C0680681,PROCESS_OF,Coronavirus Infections,victim,dsyn,humn,1,PROCESS_O
 C0206750,C0683626,PROCESS_OF,Coronavirus Infections,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0687759,PROCESS_OF,Coronavirus Infections,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C0870134,PROCESS_OF,Coronavirus Infections,ancestors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0206750,C0870668,PROCESS_OF,Coronavirus Infections,hospitalized patients,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0206750,C0870668,PROCESS_OF,Coronavirus Infections,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C1516213,PROCESS_OF,Coronavirus Infections,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C2700280,PROCESS_OF,Coronavirus Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0206750,C3826770,PROCESS_OF,Coronavirus Infections,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2843,7 +2843,7 @@ C0242172,C0043210,PROCESS_OF,Pelvic Inflammatory Disease,Woman,dsyn,humn,1,PROCE
 C0242225,C0870992,PROCESS_OF,Color blindness,observers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242301,C0337758,PROCESS_OF,furuncle,Mormon,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242350,C0025266,PROCESS_OF,Erectile dysfunction,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0242354,C0008059,PROCESS_OF,Congenital Disorders,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0242354,C0008059,PROCESS_OF,Congenital Disorders,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242354,C0021270,PROCESS_OF,Congenital Disorders,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242354,C0021289,PROCESS_OF,Congenital Disorders,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242354,C0086418,PROCESS_OF,Congenital Disorders,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2869,7 +2869,7 @@ C0242966,C0680398,PROCESS_OF,Systemic Inflammatory Response Syndrome,secondary g
 C0242966,C1527272,PROCESS_OF,Systemic Inflammatory Response Syndrome,American College of Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242966,C1999167,PROCESS_OF,Systemic Inflammatory Response Syndrome,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242994,C0008059,PROCESS_OF,Hantavirus Infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0242994,C0086418,PROCESS_OF,Hantavirus Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0242994,C0086418,PROCESS_OF,Hantavirus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242994,C0221457,PROCESS_OF,Hantavirus Infections,Teacher,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242994,C0687759,PROCESS_OF,Hantavirus Infections,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0242994,C2700280,PROCESS_OF,Hantavirus Infections,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2879,7 +2879,7 @@ C0243025,C0086418,PROCESS_OF,Hantavirus Pulmonary Syndrome,Homo sapiens,dsyn,hum
 C0243026,C0008059,PROCESS_OF,Sepsis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0243026,C0021270,PROCESS_OF,Sepsis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0243026,C0021289,PROCESS_OF,Sepsis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0243026,C0086418,PROCESS_OF,Sepsis,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0243026,C0086418,PROCESS_OF,Sepsis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0262421,C0086418,PROCESS_OF,Chronic urinary tract infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0262655,C0043210,PROCESS_OF,Recurrent urinary tract infection,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0262975,C0009932,PROCESS_OF,Chronic dermatitis,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -2917,7 +2917,7 @@ C0264220,C3826770,PROCESS_OF,Chronic disease of respiratory system,Older people,
 C0264221,C0038495,PROCESS_OF,Disorder of upper respiratory system,"Students, Medical",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0264221,C0040704,PROCESS_OF,Disorder of upper respiratory system,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0264221,C0086418,PROCESS_OF,Disorder of upper respiratory system,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0264222,C0001675,PROCESS_OF,Acute upper respiratory infection,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0264222,C0001675,PROCESS_OF,Acute upper respiratory infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0264222,C0008059,PROCESS_OF,Acute upper respiratory infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0264222,C1274041,PROCESS_OF,Acute upper respiratory infection,Guardian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0264342,C0008059,PROCESS_OF,Croupous bronchitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3031,7 +3031,7 @@ C0270724,C2826212,PROCESS_OF,Infantile Neuroaxonal Dystrophy,Health Official,dsy
 C0270814,C0015576,PROCESS_OF,Spastic syndrome,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0271097,C0086418,PROCESS_OF,Usher Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0271215,C1999167,PROCESS_OF,"Blindness, Legal",Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0271429,C0008059,PROCESS_OF,Acute otitis media,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0271429,C0008059,PROCESS_OF,Acute otitis media,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0271429,C0021270,PROCESS_OF,Acute otitis media,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0271429,C0870668,PROCESS_OF,Acute otitis media,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0271429,C2700280,PROCESS_OF,Acute otitis media,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3060,7 +3060,7 @@ C0275518,C0009932,PROCESS_OF,Acute infectious disease,Control Groups,dsyn,humn,1
 C0275518,C0013018,PROCESS_OF,Acute infectious disease,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275518,C0020052,PROCESS_OF,Acute infectious disease,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275518,C0020155,PROCESS_OF,Acute infectious disease,Human Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0275518,C0021270,PROCESS_OF,Acute infectious disease,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0275518,C0021270,PROCESS_OF,Acute infectious disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275518,C0033011,PROCESS_OF,Acute infectious disease,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275518,C0040704,PROCESS_OF,Acute infectious disease,Transient Population Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275518,C0086418,PROCESS_OF,Acute infectious disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3082,7 +3082,7 @@ C0275522,C0021289,PROCESS_OF,Asymptomatic Infections,"Infant, Newborn",dsyn,humn
 C0275522,C0033011,PROCESS_OF,Asymptomatic Infections,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C0035173,PROCESS_OF,Asymptomatic Infections,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C0042960,PROCESS_OF,Asymptomatic Infections,Voluntary Workers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0275522,C0086418,PROCESS_OF,Asymptomatic Infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0275522,C0086418,PROCESS_OF,Asymptomatic Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C0402404,PROCESS_OF,Asymptomatic Infections,Animal trader,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C0450048,PROCESS_OF,Asymptomatic Infections,Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C0680063,PROCESS_OF,Asymptomatic Infections,Offspring,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3090,9 +3090,9 @@ C0275522,C0684030,PROCESS_OF,Asymptomatic Infections,high-risk group,dsyn,humn,1
 C0275522,C1455726,PROCESS_OF,Asymptomatic Infections,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C1708480,PROCESS_OF,Asymptomatic Infections,In Utero,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275522,C1709854,PROCESS_OF,Asymptomatic Infections,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0275524,C0001675,PROCESS_OF,Coinfection,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0275524,C0001675,PROCESS_OF,Coinfection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0001792,PROCESS_OF,Coinfection,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0275524,C0008059,PROCESS_OF,Coinfection,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0275524,C0008059,PROCESS_OF,Coinfection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0008098,PROCESS_OF,Coinfection,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0008100,PROCESS_OF,Coinfection,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0015576,PROCESS_OF,Coinfection,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3105,7 +3105,7 @@ C0275524,C0026591,PROCESS_OF,Coinfection,Mother (person),dsyn,humn,1,PROCESS_OF_
 C0275524,C0038492,PROCESS_OF,Coinfection,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0039309,PROCESS_OF,Coinfection,Target Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0043210,PROCESS_OF,Coinfection,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0275524,C0086418,PROCESS_OF,Coinfection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0275524,C0086418,PROCESS_OF,Coinfection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0150775,PROCESS_OF,Coinfection,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0242444,PROCESS_OF,Coinfection,Population at Risk,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0275524,C0337474,PROCESS_OF,Coinfection,Grandmother,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3148,7 +3148,7 @@ C0276156,C0205653,PROCESS_OF,Adenoviral pneumonia,Adolescent (age group),dsyn,hu
 C0276156,C0238598,PROCESS_OF,Adenoviral pneumonia,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276180,C0026126,PROCESS_OF,Monkeypox,Military Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276180,C0033011,PROCESS_OF,Monkeypox,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0276180,C0086418,PROCESS_OF,Monkeypox,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0276180,C0086418,PROCESS_OF,Monkeypox,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276222,C0043210,PROCESS_OF,Primary herpes simplex,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276226,C0001675,PROCESS_OF,Herpes encephalitis,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276226,C0008059,PROCESS_OF,Herpes encephalitis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3167,7 +3167,7 @@ C0276289,C0026591,PROCESS_OF,Zika Virus Infection,Mother (person),dsyn,humn,1,PR
 C0276289,C0033011,PROCESS_OF,Zika Virus Infection,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276289,C0041427,PROCESS_OF,Zika Virus Infection,Twin sibling (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276289,C0043210,PROCESS_OF,Zika Virus Infection,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0276289,C0086418,PROCESS_OF,Zika Virus Infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0276289,C0086418,PROCESS_OF,Zika Virus Infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276289,C0678804,PROCESS_OF,Zika Virus Infection,prenatal,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276289,C0680063,PROCESS_OF,Zika Virus Infection,Offspring,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276289,C0683626,PROCESS_OF,Zika Virus Infection,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3180,7 +3180,7 @@ C0276340,C0021270,PROCESS_OF,Respiratory syncytial virus bronchiolitis,Infant,ds
 C0276357,C0086418,PROCESS_OF,Swine influenza,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276357,C1711254,PROCESS_OF,Swine influenza,Finnish,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276447,C0001675,PROCESS_OF,Rhinovirus infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0276447,C0008059,PROCESS_OF,Rhinovirus infection,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0276447,C0008059,PROCESS_OF,Rhinovirus infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276447,C0021270,PROCESS_OF,Rhinovirus infection,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276447,C0038492,PROCESS_OF,Rhinovirus infection,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0276447,C0043210,PROCESS_OF,Rhinovirus infection,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3238,7 +3238,7 @@ C0282312,C2700280,PROCESS_OF,Bubonic Plague,World,dsyn,humn,1,PROCESS_OF_DSYNprc
 C0282488,C0086418,PROCESS_OF,Interstitial Cystitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0282667,C1313913,PROCESS_OF,"Infant, Very Low Birth Weight",Singleton,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0282687,C0021289,PROCESS_OF,"Hemorrhagic Fever, Ebola","Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0282687,C0086418,PROCESS_OF,"Hemorrhagic Fever, Ebola",Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0282687,C0086418,PROCESS_OF,"Hemorrhagic Fever, Ebola",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0282687,C0206194,PROCESS_OF,"Hemorrhagic Fever, Ebola",Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0282687,C0238606,PROCESS_OF,"Hemorrhagic Fever, Ebola",West Africans,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0282687,C0450048,PROCESS_OF,"Hemorrhagic Fever, Ebola",Passenger,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3266,16 +3266,16 @@ C0339510,C2700280,PROCESS_OF,Vitelliform Macular Dystrophy,World,dsyn,humn,1,PRO
 C0339573,C0007457,PROCESS_OF,"Glaucoma, Primary Open Angle",Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0001675,PROCESS_OF,Acute respiratory infections,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0001792,PROCESS_OF,Acute respiratory infections,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0339901,C0008059,PROCESS_OF,Acute respiratory infections,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0339901,C0008059,PROCESS_OF,Acute respiratory infections,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0008098,PROCESS_OF,Acute respiratory infections,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0008100,PROCESS_OF,Acute respiratory infections,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0020052,PROCESS_OF,Acute respiratory infections,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0339901,C0021270,PROCESS_OF,Acute respiratory infections,Infant,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0339901,C0021270,PROCESS_OF,Acute respiratory infections,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0021289,PROCESS_OF,Acute respiratory infections,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0028698,PROCESS_OF,Acute respiratory infections,Nursing Staff,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0043210,PROCESS_OF,Acute respiratory infections,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0085756,PROCESS_OF,Acute respiratory infections,African American,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0339901,C0086418,PROCESS_OF,Acute respiratory infections,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0339901,C0086418,PROCESS_OF,Acute respiratory infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0175989,PROCESS_OF,Acute respiratory infections,critically ill children,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0238598,PROCESS_OF,Acute respiratory infections,Young Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0339901,C0524647,PROCESS_OF,Acute respiratory infections,Soldiers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3327,7 +3327,7 @@ C0343312,C0008059,PROCESS_OF,Tetanus neonatorum,Child,dsyn,humn,1,PROCESS_OF_DSY
 C0343363,C0008059,PROCESS_OF,Viral gastroenteritis due to Rotavirus,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0343363,C0086418,PROCESS_OF,Viral gastroenteritis due to Rotavirus,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0343381,C0086418,PROCESS_OF,Verotoxigenic Escherichia coli gastrointestinal tract infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0343386,C0086418,PROCESS_OF,Clostridium difficile infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0343386,C0086418,PROCESS_OF,Clostridium difficile infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0343398,C0086418,PROCESS_OF,Cyclosporiasis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0343401,C0037179,PROCESS_OF,MRSA - Methicillin resistant Staphylococcus aureus infection,Unmarried person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0343401,C2700280,PROCESS_OF,MRSA - Methicillin resistant Staphylococcus aureus infection,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3367,7 +3367,7 @@ C0349410,C1516213,PROCESS_OF,Single organ dysfunction,Cancer Patient,dsyn,humn,1
 C0349412,C0008059,PROCESS_OF,Refractory shock,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0376300,C0021270,PROCESS_OF,Dengue Shock Syndrome,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0376329,C0013018,PROCESS_OF,New Variant Creutzfeldt-Jakob Disease,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0376329,C0086418,PROCESS_OF,New Variant Creutzfeldt-Jakob Disease,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0376329,C0086418,PROCESS_OF,New Variant Creutzfeldt-Jakob Disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0376538,C0030551,PROCESS_OF,Porcine Reproductive and Respiratory Syndrome,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0376538,C0035173,PROCESS_OF,Porcine Reproductive and Respiratory Syndrome,Research Personnel,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0376538,C0086418,PROCESS_OF,Porcine Reproductive and Respiratory Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3455,7 +3455,7 @@ C0497169,C0870602,PROCESS_OF,hiv-infection/aids,geriatric patients,dsyn,humn,1,P
 C0497169,C1706077,PROCESS_OF,hiv-infection/aids,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0497169,C2700280,PROCESS_OF,hiv-infection/aids,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0520459,C0021270,PROCESS_OF,Necrotizing Enterocolitis,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0520459,C0021289,PROCESS_OF,Necrotizing Enterocolitis,"Infant, Newborn",dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0520459,C0021289,PROCESS_OF,Necrotizing Enterocolitis,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0520572,C0086418,PROCESS_OF,Enzymopathy,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0520572,C2700280,PROCESS_OF,Enzymopathy,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0520679,C0001675,PROCESS_OF,"Sleep Apnea, Obstructive",Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3468,11 +3468,11 @@ C0520680,C0376387,PROCESS_OF,"Sleep Apnea, Central",Transplant Recipients,dsyn,h
 C0520680,C0402112,PROCESS_OF,"Sleep Apnea, Central",Scientist,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0521515,C0043210,PROCESS_OF,Calcific tendinitis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0521530,C0008059,PROCESS_OF,Lung consolidation,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0521839,C0086418,PROCESS_OF,Influenza-like illness,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0521839,C0086418,PROCESS_OF,Influenza-like illness,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524620,C0242856,PROCESS_OF,Metabolic Syndrome X,Veterinarian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524688,C0086418,PROCESS_OF,Pneumonic Plague,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524688,C2700280,PROCESS_OF,Pneumonic Plague,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0524851,C0086418,PROCESS_OF,Neurodegenerative Disorders,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0524851,C0086418,PROCESS_OF,Neurodegenerative Disorders,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524909,C0008059,PROCESS_OF,"Hepatitis B, Chronic",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524909,C0025266,PROCESS_OF,"Hepatitis B, Chronic",Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0524909,C0086418,PROCESS_OF,"Hepatitis B, Chronic",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3530,8 +3530,8 @@ C0679247,C4288965,PROCESS_OF,Terminal illness,Hematopoietic Cell Transplantation
 C0683381,C0086418,PROCESS_OF,inflammatory joint disease,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0684256,C0008059,PROCESS_OF,Bacterial sepsis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0686347,C0086418,PROCESS_OF,Tardive Dyskinesia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0694549,C0001675,PROCESS_OF,Community acquired pneumonia,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0694549,C0008059,PROCESS_OF,Community acquired pneumonia,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0694549,C0001675,PROCESS_OF,Community acquired pneumonia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0694549,C0008059,PROCESS_OF,Community acquired pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0694549,C0008098,PROCESS_OF,Community acquired pneumonia,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0694549,C0008100,PROCESS_OF,Community acquired pneumonia,"Child, Preschool",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0694549,C0021270,PROCESS_OF,Community acquired pneumonia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3637,8 +3637,8 @@ C0745283,C0080103,PROCESS_OF,INFECTIOUS PROCESS,Relative (related person),dsyn,h
 C0745283,C0150775,PROCESS_OF,INFECTIOUS PROCESS,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746102,C0001675,PROCESS_OF,Chronic lung disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746102,C0001792,PROCESS_OF,Chronic lung disease,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0746102,C0007457,PROCESS_OF,Chronic lung disease,Caucasoid Race,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0746102,C0008059,PROCESS_OF,Chronic lung disease,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0746102,C0007457,PROCESS_OF,Chronic lung disease,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0746102,C0008059,PROCESS_OF,Chronic lung disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746102,C0021270,PROCESS_OF,Chronic lung disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746102,C0021289,PROCESS_OF,Chronic lung disease,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746102,C0025266,PROCESS_OF,Chronic lung disease,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3648,7 +3648,7 @@ C0746102,C0870602,PROCESS_OF,Chronic lung disease,geriatric patients,dsyn,humn,1
 C0746102,C1455726,PROCESS_OF,Chronic lung disease,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746556,C0206194,PROCESS_OF,metabolic disturbance,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746883,C0001675,PROCESS_OF,Febrile Neutropenia,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0746883,C0008059,PROCESS_OF,Febrile Neutropenia,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0746883,C0008059,PROCESS_OF,Febrile Neutropenia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746883,C1516213,PROCESS_OF,Febrile Neutropenia,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746982,C0008059,PROCESS_OF,obstructive disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0746982,C0206194,PROCESS_OF,obstructive disease,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3662,7 +3662,7 @@ C0747845,C0086418,PROCESS_OF,early pregnancy,Homo sapiens,dsyn,humn,1,PROCESS_OF
 C0748159,C0206194,PROCESS_OF,pulmonary involvement,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0748168,C0001675,PROCESS_OF,Pulmonary Pathology,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0748168,C0009932,PROCESS_OF,Pulmonary Pathology,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0748168,C0086418,PROCESS_OF,Pulmonary Pathology,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0748168,C0086418,PROCESS_OF,Pulmonary Pathology,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0748355,C0008059,PROCESS_OF,Acute respiratory distress,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0748355,C0086418,PROCESS_OF,Acute respiratory distress,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0748355,C1556020,PROCESS_OF,Acute respiratory distress,Technician,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3677,7 +3677,7 @@ C0750103,C0043210,PROCESS_OF,vaginalis,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0750901,C0015576,PROCESS_OF,"Alzheimer Disease, Early Onset",Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0751057,C0008059,PROCESS_OF,"Seizure, Febrile, Complex",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0751098,C0086418,PROCESS_OF,Mosquito-borne viral encephalitis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0751422,C0086418,PROCESS_OF,Hereditary Autoinflammatory Diseases,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0751422,C0086418,PROCESS_OF,Hereditary Autoinflammatory Diseases,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0751583,C0086418,PROCESS_OF,"Encephalitis, West Nile Fever",Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0751583,C0870668,PROCESS_OF,"Encephalitis, West Nile Fever",hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0751583,C1999167,PROCESS_OF,"Encephalitis, West Nile Fever",Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3733,8 +3733,8 @@ C0856238,C1553362,PROCESS_OF,influenza (epidemic),Catalonian,dsyn,humn,1,PROCESS
 C0856238,C1999167,PROCESS_OF,influenza (epidemic),Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0856238,C2700280,PROCESS_OF,influenza (epidemic),World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0856619,C0043210,PROCESS_OF,sexual problem,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0858318,C0008059,PROCESS_OF,Plasmodium falciparum infection,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C0858318,C0086418,PROCESS_OF,Plasmodium falciparum infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0858318,C0008059,PROCESS_OF,Plasmodium falciparum infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C0858318,C0086418,PROCESS_OF,Plasmodium falciparum infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0858318,C0282163,PROCESS_OF,Plasmodium falciparum infection,Immigrant (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0858318,C0687759,PROCESS_OF,Plasmodium falciparum infection,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0858318,C1455726,PROCESS_OF,Plasmodium falciparum infection,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3785,11 +3785,11 @@ C0877203,C0008098,PROCESS_OF,Viral Respiratory Tract Infection,"Child, Hospitali
 C0877203,C0020052,PROCESS_OF,Viral Respiratory Tract Infection,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877203,C0021270,PROCESS_OF,Viral Respiratory Tract Infection,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877203,C0085537,PROCESS_OF,Viral Respiratory Tract Infection,Caregiver,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0877203,C0086418,PROCESS_OF,Viral Respiratory Tract Infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0877203,C0086418,PROCESS_OF,Viral Respiratory Tract Infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877203,C0376387,PROCESS_OF,Viral Respiratory Tract Infection,Transplant Recipients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877203,C0682287,PROCESS_OF,Viral Respiratory Tract Infection,nursing home resident,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877203,C1709854,PROCESS_OF,Viral Respiratory Tract Infection,Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C0877203,C1999167,PROCESS_OF,Viral Respiratory Tract Infection,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C0877203,C1999167,PROCESS_OF,Viral Respiratory Tract Infection,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877430,C0001675,PROCESS_OF,asthma chronic,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877430,C0008059,PROCESS_OF,asthma chronic,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C0877564,C0015576,PROCESS_OF,Lymphohistiocytosis,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3831,9 +3831,9 @@ C0949804,C0376387,PROCESS_OF,Polyomavirus Infections,Transplant Recipients,dsyn,
 C1095979,C0086418,PROCESS_OF,progressive multiple sclerosis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096000,C0021270,PROCESS_OF,bronchopulmonary disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096063,C0086418,PROCESS_OF,Drug Resistant Epilepsy,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1096155,C0001675,PROCESS_OF,Macrophage Activation Syndrome,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1096155,C0001675,PROCESS_OF,Macrophage Activation Syndrome,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096155,C0007457,PROCESS_OF,Macrophage Activation Syndrome,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1096155,C0008059,PROCESS_OF,Macrophage Activation Syndrome,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1096155,C0008059,PROCESS_OF,Macrophage Activation Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096155,C0030551,PROCESS_OF,Macrophage Activation Syndrome,parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096155,C0086418,PROCESS_OF,Macrophage Activation Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1096155,C0681273,PROCESS_OF,Macrophage Activation Syndrome,audience,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3856,9 +3856,9 @@ C1145670,C0870221,PROCESS_OF,Respiratory Failure,Boys,dsyn,humn,1,PROCESS_OF_DSY
 C1145670,C3826770,PROCESS_OF,Respiratory Failure,Older people,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1145670,C3898901,PROCESS_OF,Respiratory Failure,Healthy Term Newborn,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1145670,C4288965,PROCESS_OF,Respiratory Failure,Hematopoietic Cell Transplantation Recipient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0001675,PROCESS_OF,Severe Acute Respiratory Syndrome,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0001675,PROCESS_OF,Severe Acute Respiratory Syndrome,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0001792,PROCESS_OF,Severe Acute Respiratory Syndrome,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0008059,PROCESS_OF,Severe Acute Respiratory Syndrome,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0008059,PROCESS_OF,Severe Acute Respiratory Syndrome,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0009932,PROCESS_OF,Severe Acute Respiratory Syndrome,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0011011,PROCESS_OF,Severe Acute Respiratory Syndrome,Daughter,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0011327,PROCESS_OF,Severe Acute Respiratory Syndrome,Dental Assistants,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3871,16 +3871,16 @@ C1175175,C0026591,PROCESS_OF,Severe Acute Respiratory Syndrome,Mother (person),d
 C1175175,C0028661,PROCESS_OF,Severe Acute Respiratory Syndrome,Nurses,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0031228,PROCESS_OF,Severe Acute Respiratory Syndrome,"Personnel, Hospital",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0031831,PROCESS_OF,Severe Acute Respiratory Syndrome,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0033011,PROCESS_OF,Severe Acute Respiratory Syndrome,Pregnant Women,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0033011,PROCESS_OF,Severe Acute Respiratory Syndrome,Pregnant Women,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0037683,PROCESS_OF,Severe Acute Respiratory Syndrome,Son (person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0038492,PROCESS_OF,Severe Acute Respiratory Syndrome,student,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0038492,PROCESS_OF,Severe Acute Respiratory Syndrome,student,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0038495,PROCESS_OF,Severe Acute Respiratory Syndrome,"Students, Medical",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0043210,PROCESS_OF,Severe Acute Respiratory Syndrome,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0086282,PROCESS_OF,Severe Acute Respiratory Syndrome,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0086418,PROCESS_OF,Severe Acute Respiratory Syndrome,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0086418,PROCESS_OF,Severe Acute Respiratory Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0150775,PROCESS_OF,Severe Acute Respiratory Syndrome,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0152035,PROCESS_OF,Severe Acute Respiratory Syndrome,Chinese People,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C0205653,PROCESS_OF,Severe Acute Respiratory Syndrome,Adolescent (age group),dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C0205653,PROCESS_OF,Severe Acute Respiratory Syndrome,Adolescent (age group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0206194,PROCESS_OF,Severe Acute Respiratory Syndrome,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0221191,PROCESS_OF,Severe Acute Respiratory Syndrome,Judge,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C0242664,PROCESS_OF,Severe Acute Respiratory Syndrome,husband,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3906,7 +3906,7 @@ C1175175,C0871685,PROCESS_OF,Severe Acute Respiratory Syndrome,Clinician,dsyn,hu
 C1175175,C0949366,PROCESS_OF,Severe Acute Respiratory Syndrome,Vulnerable Populations,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C1518563,PROCESS_OF,Severe Acute Respiratory Syndrome,Older Population,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C1552089,PROCESS_OF,Severe Acute Respiratory Syndrome,Staff Member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1175175,C1999167,PROCESS_OF,Severe Acute Respiratory Syndrome,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1175175,C1999167,PROCESS_OF,Severe Acute Respiratory Syndrome,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C2348534,PROCESS_OF,Severe Acute Respiratory Syndrome,Steering Committee,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C2350007,PROCESS_OF,Severe Acute Respiratory Syndrome,Son-in-law,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1175175,C2700280,PROCESS_OF,Severe Acute Respiratory Syndrome,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3958,7 +3958,7 @@ C1290325,C0870668,PROCESS_OF,Disorder of lower respiratory system,hospitalized p
 C1290325,C1999167,PROCESS_OF,Disorder of lower respiratory system,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290344,C0008059,PROCESS_OF,Nonspecific interstitial pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290386,C1999167,PROCESS_OF,Chronic heart disease,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1290807,C0008059,PROCESS_OF,Diarrheal disorder,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1290807,C0008059,PROCESS_OF,Diarrheal disorder,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290807,C0015576,PROCESS_OF,Diarrheal disorder,Family,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290807,C0021270,PROCESS_OF,Diarrheal disorder,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290807,C0021289,PROCESS_OF,Diarrheal disorder,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3972,7 +3972,7 @@ C1290871,C0008059,PROCESS_OF,Disorder of hand,Child,dsyn,humn,1,PROCESS_OF_DSYNp
 C1290882,C0086418,PROCESS_OF,Chronic nervous system disorder,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290884,C0008059,PROCESS_OF,Inflammatory disorder,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290884,C0009932,PROCESS_OF,Inflammatory disorder,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1290884,C0086418,PROCESS_OF,Inflammatory disorder,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1290884,C0086418,PROCESS_OF,Inflammatory disorder,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290884,C0150775,PROCESS_OF,Inflammatory disorder,Social Networks,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290884,C0206194,PROCESS_OF,Inflammatory disorder,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1290886,C0008059,PROCESS_OF,Chronic inflammatory disorder,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -3992,7 +3992,7 @@ C1318973,C0008059,PROCESS_OF,Staphylococcus aureus infection,Child,dsyn,humn,1,P
 C1319466,C0007457,PROCESS_OF,Barber Say syndrome,Caucasoid Race,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1319466,C0021270,PROCESS_OF,Barber Say syndrome,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1319466,C0085756,PROCESS_OF,Barber Say syndrome,African American,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1320214,C0001675,PROCESS_OF,Invasive Streptococcus pneumoniae disease,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1320214,C0001675,PROCESS_OF,Invasive Streptococcus pneumoniae disease,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1320214,C0008059,PROCESS_OF,Invasive Streptococcus pneumoniae disease,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1320214,C0021270,PROCESS_OF,Invasive Streptococcus pneumoniae disease,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1320214,C0870646,PROCESS_OF,Invasive Streptococcus pneumoniae disease,High Risk Populations,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4026,13 +4026,13 @@ C1405308,C1709854,PROCESS_OF,Vaccine-Associated Paralytic Poliomyelitis,Recipien
 C1412002,C0086282,PROCESS_OF,Atypical pneumonia,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1412002,C0086418,PROCESS_OF,Atypical pneumonia,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1415817,C0030551,PROCESS_OF,"HETEROTAXY, VISCERAL, 2, AUTOSOMAL",parent,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1442786,C0001675,PROCESS_OF,Acute respiratory tract infection,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1442786,C0001675,PROCESS_OF,Acute respiratory tract infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0008059,PROCESS_OF,Acute respiratory tract infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0008098,PROCESS_OF,Acute respiratory tract infection,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0021270,PROCESS_OF,Acute respiratory tract infection,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0021289,PROCESS_OF,Acute respiratory tract infection,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0025266,PROCESS_OF,Acute respiratory tract infection,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1442786,C0086418,PROCESS_OF,Acute respiratory tract infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1442786,C0086418,PROCESS_OF,Acute respiratory tract infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1442786,C0870668,PROCESS_OF,Acute respiratory tract infection,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1443237,C0870668,PROCESS_OF,Healthcare associated pneumonia,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1443952,C0013018,PROCESS_OF,Asymptomatic viremia,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4057,7 +4057,7 @@ C1535917,C0086418,PROCESS_OF,Nipah Virus Infection,Homo sapiens,dsyn,humn,1,PROC
 C1535917,C0206194,PROCESS_OF,Nipah Virus Infection,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1535917,C0870668,PROCESS_OF,Nipah Virus Infection,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1535917,C2700280,PROCESS_OF,Nipah Virus Infection,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1535939,C0008059,PROCESS_OF,Pneumocystis jiroveci pneumonia,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1535939,C0008059,PROCESS_OF,Pneumocystis jiroveci pneumonia,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1535939,C0021270,PROCESS_OF,Pneumocystis jiroveci pneumonia,Infant,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1535939,C0031228,PROCESS_OF,Pneumocystis jiroveci pneumonia,"Personnel, Hospital",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1535939,C0031831,PROCESS_OF,Pneumocystis jiroveci pneumonia,Physicians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4069,7 +4069,7 @@ C1535939,C2700280,PROCESS_OF,Pneumocystis jiroveci pneumonia,World,dsyn,humn,1,P
 C1536220,C0206194,PROCESS_OF,ST segment elevation myocardial infarction,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561642,C0008059,PROCESS_OF,"Chronic kidney disease, Stage V",Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561643,C0001675,PROCESS_OF,Chronic Kidney Diseases,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1561643,C0008059,PROCESS_OF,Chronic Kidney Diseases,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1561643,C0008059,PROCESS_OF,Chronic Kidney Diseases,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561643,C0009932,PROCESS_OF,Chronic Kidney Diseases,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561643,C0025266,PROCESS_OF,Chronic Kidney Diseases,Male population group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561643,C0043210,PROCESS_OF,Chronic Kidney Diseases,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4078,7 +4078,7 @@ C1561643,C0870602,PROCESS_OF,Chronic Kidney Diseases,geriatric patients,dsyn,hum
 C1561643,C1706077,PROCESS_OF,Chronic Kidney Diseases,user - individual,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1561643,C1999167,PROCESS_OF,Chronic Kidney Diseases,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1565489,C0009932,PROCESS_OF,Renal Insufficiency,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C1565489,C0086418,PROCESS_OF,Renal Insufficiency,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C1565489,C0086418,PROCESS_OF,Renal Insufficiency,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1565489,C0870602,PROCESS_OF,Renal Insufficiency,geriatric patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1565489,C0870668,PROCESS_OF,Renal Insufficiency,hospitalized patients,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C1565489,C1516213,PROCESS_OF,Renal Insufficiency,Cancer Patient,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4159,18 +4159,18 @@ C2028293,C0008059,PROCESS_OF,Haemophilus influenzae Type b Infection,Child,dsyn,
 C2047215,C0013018,PROCESS_OF,Herpesvirus 5 infection,Donor person,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2047215,C0021289,PROCESS_OF,Herpesvirus 5 infection,"Infant, Newborn",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062326,C0086418,PROCESS_OF,Eosinophilic enteropathy,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C2062441,C0001675,PROCESS_OF,Influenza A,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
-C2062441,C0008059,PROCESS_OF,Influenza A,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C2062441,C0001675,PROCESS_OF,Influenza A,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
+C2062441,C0008059,PROCESS_OF,Influenza A,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0009932,PROCESS_OF,Influenza A,Control Groups,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0078988,PROCESS_OF,Influenza A,Asians,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C2062441,C0086418,PROCESS_OF,Influenza A,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C2062441,C0086418,PROCESS_OF,Influenza A,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0282122,PROCESS_OF,Influenza A,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0596728,PROCESS_OF,Influenza A,human old age (65+),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0683626,PROCESS_OF,Influenza A,human group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C0687759,PROCESS_OF,Influenza A,traveler,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C1553362,PROCESS_OF,Influenza A,Catalonian,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C1708335,PROCESS_OF,Influenza A,Healthy Volunteers,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C2062441,C1999167,PROCESS_OF,Influenza A,Old age,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C2062441,C1999167,PROCESS_OF,Influenza A,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2062441,C2986530,PROCESS_OF,Influenza A,Intervention Group,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2074898,C0008059,PROCESS_OF,chronic Lung Inflammations,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C2076600,C0001675,PROCESS_OF,Influenza due to Influenza A virus subtype H1N1,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4325,7 +4325,7 @@ C3694279,C0043210,PROCESS_OF,Middle East Respiratory Syndrome,Woman,dsyn,humn,1,
 C3694279,C0079382,PROCESS_OF,Middle East Respiratory Syndrome,friend,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C0080103,PROCESS_OF,Middle East Respiratory Syndrome,Relative (related person),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C0086282,PROCESS_OF,Middle East Respiratory Syndrome,Family member,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C3694279,C0086418,PROCESS_OF,Middle East Respiratory Syndrome,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C3694279,C0086418,PROCESS_OF,Middle East Respiratory Syndrome,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C0206194,PROCESS_OF,Middle East Respiratory Syndrome,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C0241520,PROCESS_OF,Middle East Respiratory Syndrome,Ugandans,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C0282122,PROCESS_OF,Middle East Respiratory Syndrome,Respondents,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4346,7 +4346,7 @@ C3694279,C1708335,PROCESS_OF,Middle East Respiratory Syndrome,Healthy Volunteers
 C3694279,C1999167,PROCESS_OF,Middle East Respiratory Syndrome,Old age,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C2700280,PROCESS_OF,Middle East Respiratory Syndrome,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3694279,C4522252,PROCESS_OF,Middle East Respiratory Syndrome,Foundation for the Accreditation of Cellular Therapy,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C3714496,C0008059,PROCESS_OF,Chronic obstructive pulmonary disease of horses,Child,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C3714496,C0008059,PROCESS_OF,Chronic obstructive pulmonary disease of horses,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3714496,C1455726,PROCESS_OF,Chronic obstructive pulmonary disease of horses,Older child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3714509,C0206194,PROCESS_OF,Nutrition Disorders,Survivors,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3714630,C0086418,PROCESS_OF,Respirovirus Infections,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4375,7 +4375,7 @@ C3873492,C0001675,PROCESS_OF,Epidemic gastroenteritis,Adult,dsyn,humn,1,PROCESS_
 C3873492,C0008059,PROCESS_OF,Epidemic gastroenteritis,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3873492,C0086418,PROCESS_OF,Epidemic gastroenteritis,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3873492,C2700280,PROCESS_OF,Epidemic gastroenteritis,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C3873497,C0001675,PROCESS_OF,Severe acute respiratory infection,Adult,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C3873497,C0001675,PROCESS_OF,Severe acute respiratory infection,Adult,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3873497,C0001792,PROCESS_OF,Severe acute respiratory infection,Elderly (population group),dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3873497,C0008059,PROCESS_OF,Severe acute respiratory infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C3873497,C0008098,PROCESS_OF,Severe acute respiratory infection,"Child, Hospitalized",dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
@@ -4412,7 +4412,7 @@ C4049006,C0086418,PROCESS_OF,Selective immunoglobulin A deficiency,Homo sapiens,
 C4049993,C0043210,PROCESS_OF,Aristolochic Acid Nephropathy,Woman,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C4082764,C0008059,PROCESS_OF,Gastrointestinal infection,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C4082764,C0020052,PROCESS_OF,Gastrointestinal infection,Households,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
-C4082764,C0086418,PROCESS_OF,Gastrointestinal infection,Homo sapiens,dsyn,humn,2,PROCESS_OF_DSYNprcfHUMN
+C4082764,C0086418,PROCESS_OF,Gastrointestinal infection,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C4082764,C2700280,PROCESS_OF,Gastrointestinal infection,World,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C4085595,C0008059,PROCESS_OF,AL-RAQAD SYNDROME,Child,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN
 C4085595,C0086418,PROCESS_OF,AL-RAQAD SYNDROME,Homo sapiens,dsyn,humn,1,PROCESS_OF_DSYNprcfHUMN

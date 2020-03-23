@@ -164,7 +164,7 @@ C0020364,C0053329,INTERACTS_WITH,Mixed Function Oxygenases,benzylsuccinate,aapp,
 C0020364,C0359916,INTERACTS_WITH,Mixed Function Oxygenases,Phenolics,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0020392,C2607886,INTERACTS_WITH,Hydroxysteroid Dehydrogenases,abiraterone acetate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0021088,C0007004,INTERACTS_WITH,IMP Dehydrogenase,Carbohydrates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0021641,C0005802,INTERACTS_WITH,Insulin,Blood Glucose,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0021641,C0005802,INTERACTS_WITH,Insulin,Blood Glucose,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0021641,C0032487,INTERACTS_WITH,Insulin,Polyethylenes,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0021641,C0525678,INTERACTS_WITH,Insulin,rasagiline,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0021699,C0007004,INTERACTS_WITH,Integral Membrane Proteins,Carbohydrates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
@@ -192,7 +192,7 @@ C0022917,C0034392,INTERACTS_WITH,Lactate Dehydrogenase,Quercetin,aapp,orch,1,INT
 C0023194,C0042839,INTERACTS_WITH,Phosphatidylcholine-Sterol O-Acyltransferase,Vitamin A,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0023204,C0032594,INTERACTS_WITH,"Receptors, Lectin",Polysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0023206,C0005575,INTERACTS_WITH,Lectin,Biotin,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0023206,C0007004,INTERACTS_WITH,Lectin,Carbohydrates,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0023206,C0007004,INTERACTS_WITH,Lectin,Carbohydrates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0023206,C0012611,INTERACTS_WITH,Lectin,Disaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0023206,C0017906,INTERACTS_WITH,Lectin,Glycoconjugates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0023206,C0023779,INTERACTS_WITH,Lectin,Lipids,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
@@ -368,7 +368,7 @@ C0051979,C0045246,INTERACTS_WITH,anti-IgG,"2,2'-azino-di-(3-ethylbenzothiazoline
 C0051979,C0060520,INTERACTS_WITH,anti-IgG,Fluorescein,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0051979,C0076308,INTERACTS_WITH,anti-IgG,tetramethylrhodamine isothiocyanate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0051979,C0096724,INTERACTS_WITH,anti-IgG,4-aminophenylphosphate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0051979,C0124209,INTERACTS_WITH,anti-IgG,Isothiocyanate,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0051979,C0124209,INTERACTS_WITH,anti-IgG,Isothiocyanate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0051979,C0134796,INTERACTS_WITH,anti-IgG,4-nitrophenylphosphate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0051979,C0600322,INTERACTS_WITH,anti-IgG,Rhodamine,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0051979,C0911292,INTERACTS_WITH,anti-IgG,SYTOX Green,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
@@ -399,7 +399,7 @@ C0063657,C0005802,INTERACTS_WITH,"insulin, neutral",Blood Glucose,aapp,orch,1,IN
 C0064833,C0059438,INTERACTS_WITH,Leukocyte Elastane,epigallocatechin gallate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0065042,C0011816,INTERACTS_WITH,Annexins,Dextromethorphan,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0065054,C0023810,INTERACTS_WITH,lipopolysaccharide-binding protein,Lipopolysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0065661,C0007004,INTERACTS_WITH,Mannose Binding Lectin,Carbohydrates,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0065661,C0007004,INTERACTS_WITH,Mannose Binding Lectin,Carbohydrates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0065661,C0024727,INTERACTS_WITH,Mannose Binding Lectin,Mannans,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0065661,C0028959,INTERACTS_WITH,Mannose Binding Lectin,Oligosaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0065661,C0032594,INTERACTS_WITH,Mannose Binding Lectin,Polysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
@@ -662,10 +662,10 @@ C0907411,C0028959,INTERACTS_WITH,"Lectins, C-Type",Oligosaccharides,aapp,orch,1,
 C0907411,C0032594,INTERACTS_WITH,"Lectins, C-Type",Polysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0907412,C0024727,INTERACTS_WITH,"dectin-2, mouse",Mannans,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0907734,C1312445,INTERACTS_WITH,nectin-1,lipofectamine 2000,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0913092,C0007004,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Carbohydrates,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0913092,C0007004,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Carbohydrates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0913092,C0017906,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Glycoconjugates,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0913092,C0028959,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Oligosaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C0913092,C0032594,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Polysaccharides,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C0913092,C0032594,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Polysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0913092,C0036681,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Sepharose,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0913092,C0066350,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,methylene dimethanesulfonate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C0913092,C0242209,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Sugars,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
@@ -701,7 +701,7 @@ C1309025,C0022020,INTERACTS_WITH,"SH2D3A protein, human",Ionomycin,aapp,orch,1,I
 C1311470,C0007043,INTERACTS_WITH,"PARK2 protein, human",Carbonyl Cyanide m-Chlorophenyl Hydrazone,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C1313407,C0031623,INTERACTS_WITH,"HAVCR1 protein, human",Phosphatidylserines,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C1313407,C0066350,INTERACTS_WITH,"HAVCR1 protein, human",methylene dimethanesulfonate,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
-C1321919,C0023810,INTERACTS_WITH,"TLR4 protein, human",Lipopolysaccharides,aapp,orch,2,INTERACTS_WITH_AAPPitawORCH
+C1321919,C0023810,INTERACTS_WITH,"TLR4 protein, human",Lipopolysaccharides,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C1332112,C0073591,INTERACTS_WITH,RHOH gene,rosoxacin,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C1332386,C0012403,INTERACTS_WITH,BCAR3 gene,Dimethyl Sulfoxide,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH
 C1332656,C4282316,INTERACTS_WITH,C3 gene,GC 1 compound,aapp,orch,1,INTERACTS_WITH_AAPPitawORCH

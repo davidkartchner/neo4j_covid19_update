@@ -15,7 +15,7 @@ C0001551,C0042769,TREATS,Immunologic Adjuvants,Virus Diseases,imft,dsyn,1,TREATS
 C0001551,C0151317,TREATS,Immunologic Adjuvants,Chronic infectious disease,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0001551,C0524909,TREATS,Immunologic Adjuvants,"Hepatitis B, Chronic",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0001551,C1318705,TREATS,Immunologic Adjuvants,Effusive feline infectious peritonitis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0001551,C1318706,TREATS,Immunologic Adjuvants,Noneffusive feline infectious peritonitis,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0001551,C1318706,TREATS,Immunologic Adjuvants,Noneffusive feline infectious peritonitis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0001551,C2748361,TREATS,Immunologic Adjuvants,H5N1 Human Influenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0001551,C3277428,TREATS,Immunologic Adjuvants,Severe viral infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0003342,C0003175,TREATS,"Antigens, Viral",Anthrax disease,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -23,7 +23,7 @@ C0004886,C0041296,TREATS,BCG Vaccine,Tuberculosis,imft,dsyn,1,TREATS_IMFTtrtsDSY
 C0019168,C0520680,TREATS,Hepatitis B Surface Antigens,"Sleep Apnea, Central",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0019168,C0524909,TREATS,Hepatitis B Surface Antigens,"Hepatitis B, Chronic",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0021403,C0016627,TREATS,Influenza virus vaccine,Influenza in Birds,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0021403,C0021400,TREATS,Influenza virus vaccine,Influenza,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0021403,C0021400,TREATS,Influenza virus vaccine,Influenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0021403,C0263680,TREATS,Influenza virus vaccine,Chronic arthritis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0021403,C0272302,TREATS,Influenza virus vaccine,Gray Platelet Syndrome,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0021403,C0339916,TREATS,Influenza virus vaccine,Viral upper respiratory tract infection,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -53,7 +53,7 @@ C0042210,C0010232,TREATS,Vaccines,Cowpox,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0010414,TREATS,Vaccines,Infection by Cryptococcus neoformans,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0010418,TREATS,Vaccines,Cryptosporidiosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0010678,TREATS,Vaccines,Cysticercosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0011311,TREATS,Vaccines,Dengue Fever,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0011311,TREATS,Vaccines,Dengue Fever,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0011615,TREATS,Vaccines,"Dermatitis, Atopic",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0011847,TREATS,Vaccines,Diabetes,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0013502,TREATS,Vaccines,Echinococcosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -61,32 +61,32 @@ C0042210,C0014057,TREATS,Vaccines,Japanese Encephalitis,imft,dsyn,1,TREATS_IMFTt
 C0042210,C0014335,TREATS,Vaccines,Enteritis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0014342,TREATS,Vaccines,"Enteritis, Transmissible, of Turkeys",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0016052,TREATS,Vaccines,Fibromuscular Dysplasia,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0016627,TREATS,Vaccines,Influenza in Birds,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0016627,TREATS,Vaccines,Influenza in Birds,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0017162,TREATS,Vaccines,"Gastroenteritis, Transmissible, of Swine",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0017589,TREATS,Vaccines,Glanders,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0018099,TREATS,Vaccines,Gout,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0018621,TREATS,Vaccines,Hay fever,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0019101,TREATS,Vaccines,Hemorrhagic Fever with Renal Syndrome,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0019104,TREATS,Vaccines,"Hemorrhagic Fevers, Viral",imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0019104,TREATS,Vaccines,"Hemorrhagic Fevers, Viral",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0019159,TREATS,Vaccines,Hepatitis A,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0019163,TREATS,Vaccines,Hepatitis B,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0019372,TREATS,Vaccines,Herpesviridae Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0019693,TREATS,Vaccines,HIV Infections,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0019693,TREATS,Vaccines,HIV Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0019911,TREATS,Vaccines,Hookworm Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0021400,TREATS,Vaccines,Influenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0021831,TREATS,Vaccines,Intestinal Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0023092,TREATS,Vaccines,Lassa Fever,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0023281,TREATS,Vaccines,Leishmaniasis,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0023281,TREATS,Vaccines,Leishmaniasis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0023290,TREATS,Vaccines,"Leishmaniasis, Visceral",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0023364,TREATS,Vaccines,Leptospirosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0024117,TREATS,Vaccines,Chronic Obstructive Airway Disease,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0024530,TREATS,Vaccines,Malaria,imft,dsyn,2,TREATS_IMFTtrtsDSYN
-C0042210,C0025007,TREATS,Vaccines,Measles,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0024530,TREATS,Vaccines,Malaria,imft,dsyn,1,TREATS_IMFTtrtsDSYN
+C0042210,C0025007,TREATS,Vaccines,Measles,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0025229,TREATS,Vaccines,Melioidosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0025289,TREATS,Vaccines,Meningitis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0027583,TREATS,Vaccines,Nematode infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0030389,TREATS,Vaccines,Parainfluenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0032371,TREATS,Vaccines,Poliomyelitis,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0032371,TREATS,Vaccines,Poliomyelitis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0032851,TREATS,Vaccines,Poultry Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0033036,TREATS,Vaccines,Atrial Premature Complexes,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0035235,TREATS,Vaccines,Respiratory Syncytial Virus Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -109,7 +109,7 @@ C0042210,C0151317,TREATS,Vaccines,Chronic infectious disease,imft,dsyn,1,TREATS_
 C0042210,C0205671,TREATS,Vaccines,"Infections, Arenavirus",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0206526,TREATS,Vaccines,"Tuberculosis, Multidrug-Resistant",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0206608,TREATS,Vaccines,Flavivirus Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C0206750,TREATS,Vaccines,Coronavirus Infections,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C0206750,TREATS,Vaccines,Coronavirus Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0206752,TREATS,Vaccines,Alphavirus Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0243025,TREATS,Vaccines,Hantavirus Pulmonary Syndrome,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C0270724,TREATS,Vaccines,Infantile Neuroaxonal Dystrophy,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -147,7 +147,7 @@ C0042210,C2747816,TREATS,Vaccines,Severe Malaria,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C2936328,TREATS,Vaccines,Neglected Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C3160718,TREATS,Vaccines,"PARKINSON DISEASE, LATE-ONSET",imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C3277428,TREATS,Vaccines,Severe viral infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0042210,C3694279,TREATS,Vaccines,Middle East Respiratory Syndrome,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0042210,C3694279,TREATS,Vaccines,Middle East Respiratory Syndrome,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C3853962,TREATS,Vaccines,Enterovirus 71 infection,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C3874414,TREATS,Vaccines,Human metapneumovirus infection,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0042210,C4505065,TREATS,Vaccines,Noncommunicable Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -196,13 +196,13 @@ C0085432,C0001175,TREATS,AIDS Vaccines,Acquired Immunodeficiency Syndrome,imft,d
 C0174745,C0033839,TREATS,Pseudorabies Vaccines,Pseudorabies,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0206515,C0009450,TREATS,"Vaccines, Conjugate",Communicable Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0003873,TREATS,"Vaccines, DNA",Rheumatoid Arthritis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0376613,C0004364,TREATS,"Vaccines, DNA",Autoimmune Diseases,imft,dsyn,2,TREATS_IMFTtrtsDSYN
-C0376613,C0009450,TREATS,"Vaccines, DNA",Communicable Diseases,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0376613,C0004364,TREATS,"Vaccines, DNA",Autoimmune Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
+C0376613,C0009450,TREATS,"Vaccines, DNA",Communicable Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0011849,TREATS,"Vaccines, DNA",Diabetes Mellitus,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0016627,TREATS,"Vaccines, DNA",Influenza in Birds,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0019101,TREATS,"Vaccines, DNA",Hemorrhagic Fever with Renal Syndrome,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0019189,TREATS,"Vaccines, DNA","Hepatitis, Chronic",imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C0376613,C0023281,TREATS,"Vaccines, DNA",Leishmaniasis,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C0376613,C0023281,TREATS,"Vaccines, DNA",Leishmaniasis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0023364,TREATS,"Vaccines, DNA",Leptospirosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0026769,TREATS,"Vaccines, DNA",Multiple Sclerosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C0376613,C0030499,TREATS,"Vaccines, DNA",Parasitic Diseases,imft,dsyn,1,TREATS_IMFTtrtsDSYN
@@ -233,7 +233,7 @@ C1520145,C0149725,TREATS,Whole Cell Vaccine,Lower respiratory tract infection,im
 C1699926,C0026769,TREATS,fingolimod,Multiple Sclerosis,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C2148557,C0019196,TREATS,hepatitis C vaccine,Hepatitis C,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C2240392,C1373218,TREATS,Hepatitis B Vaccines,Decreased Immunologic Activity [PE],imft,dsyn,1,TREATS_IMFTtrtsDSYN
-C3161957,C0021400,TREATS,INFLUENZA strains,Influenza,imft,dsyn,2,TREATS_IMFTtrtsDSYN
+C3161957,C0021400,TREATS,INFLUENZA strains,Influenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C3161957,C0276357,TREATS,INFLUENZA strains,Swine influenza,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C3161957,C0442886,TREATS,INFLUENZA strains,Secondary Infections,imft,dsyn,1,TREATS_IMFTtrtsDSYN
 C3179547,C0003873,TREATS,secukinumab,Rheumatoid Arthritis,imft,dsyn,1,TREATS_IMFTtrtsDSYN

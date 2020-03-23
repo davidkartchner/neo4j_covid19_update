@@ -44,7 +44,7 @@ C0002723,C1166650,PART_OF,Serum amyloid A protein,microneme,aapp,celc,1,PART_OF_
 C0003241,C0007623,PART_OF,Antibodies,Cell Wall,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0003241,C0024369,PART_OF,Antibodies,Lysosomes,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0003241,C0042760,PART_OF,Antibodies,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0003241,C0175996,PART_OF,Antibodies,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0003241,C0175996,PART_OF,Antibodies,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0003241,C0230764,PART_OF,Antibodies,Golgi membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0003241,C0521119,PART_OF,Antibodies,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0003241,C0596901,PART_OF,Antibodies,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -95,7 +95,7 @@ C0007075,C1167322,PART_OF,Carboxypeptidase,integral to membrane,aapp,celc,1,PART
 C0007292,C1749467,PART_OF,Carrier Proteins,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0007367,C0026237,PART_OF,CATALASE,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0007367,C1383501,PART_OF,CATALASE,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0007428,C0034850,PART_OF,Cathepsins,Endosomes,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0007428,C0034850,PART_OF,Cathepsins,Endosomes,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0007428,C1179907,PART_OF,Cathepsins,Wall of endosome,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0007578,C0175996,PART_OF,Cell Adhesion Molecules,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0007578,C0596901,PART_OF,Cell Adhesion Molecules,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -128,7 +128,7 @@ C0010654,C0010834,PART_OF,Cysteine,Cytoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010654,C1167322,PART_OF,Cysteine,integral to membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010654,C1179989,PART_OF,Cysteine,Axon Initial Segment,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010654,C1622525,PART_OF,Cysteine,juxtamembrane,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0010656,C0175996,PART_OF,caspase,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0010656,C0175996,PART_OF,caspase,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010656,C1819995,PART_OF,caspase,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010744,C0026237,PART_OF,Cytochromes b,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0010749,C0026237,PART_OF,Cytochromes c,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -291,7 +291,7 @@ C0021701,C1819995,PART_OF,Integrins,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021740,C0008652,PART_OF,Recombinant Interferon-gamma,"Chromosomes, Human, Pair 10",aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021740,C0175996,PART_OF,Recombinant Interferon-gamma,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021740,C2612852,PART_OF,Recombinant Interferon-gamma,methyltransferase complex,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0021747,C0175996,PART_OF,Interferons,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0021747,C0175996,PART_OF,Interferons,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021747,C1167395,PART_OF,Interferons,Host (organism),aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021747,C1819995,PART_OF,Interferons,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0021755,C0175996,PART_OF,Interleukin-1,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -553,7 +553,7 @@ C0036734,C0333829,PART_OF,Serine Endopeptidases,Azurophilic granules,aapp,celc,1
 C0036734,C0521119,PART_OF,Serine Endopeptidases,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0036734,C0596901,PART_OF,Serine Endopeptidases,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0036734,C0699040,PART_OF,Serine Endopeptidases,Cell surface,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0036734,C1167322,PART_OF,Serine Endopeptidases,integral to membrane,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0036734,C1167322,PART_OF,Serine Endopeptidases,integral to membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0036734,C1325603,PART_OF,Serine Endopeptidases,Azurophil granule,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0036734,C1819995,PART_OF,Serine Endopeptidases,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0036764,C0175996,PART_OF,Serpins,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -602,12 +602,12 @@ C0042666,C0010851,PART_OF,Vimentin,Cytoskeletal Filaments,aapp,celc,1,PART_OF_AA
 C0042666,C0010853,PART_OF,Vimentin,Cytoskeleton,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C0021770,PART_OF,Vimentin,Intermediate Filaments,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C0042760,PART_OF,Vimentin,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0042666,C0175996,PART_OF,Vimentin,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0042666,C0175996,PART_OF,Vimentin,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C0521119,PART_OF,Vimentin,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C0699040,PART_OF,Vimentin,Cell surface,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C0887869,PART_OF,Vimentin,Cell-Matrix Junction,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C1383501,PART_OF,Vimentin,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0042666,C1519989,PART_OF,Vimentin,Type III Intermediate Filament,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0042666,C1519989,PART_OF,Vimentin,Type III Intermediate Filament,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C1622204,PART_OF,Vimentin,envelope,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C1749467,PART_OF,Vimentin,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0042666,C1819995,PART_OF,Vimentin,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -693,7 +693,7 @@ C0059249,C1749467,PART_OF,annexin A5,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0059258,C0014239,PART_OF,endoplasmic reticulum glycoprotein p72,Endoplasmic Reticulum,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0059973,C0596901,PART_OF,ezrin,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0060095,C0521119,PART_OF,Fatty Acid-Binding Proteins,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0060320,C2612852,PART_OF,fibrillarin,methyltransferase complex,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0060320,C2612852,PART_OF,fibrillarin,methyltransferase complex,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0060911,C1622204,PART_OF,"G protein, vesicular stomatitis virus",envelope,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0060916,C3549194,PART_OF,G-substrate,viral membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0061405,C1749467,PART_OF,glucose dehydrogenase (pyrroloquinoline-quinone),soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -711,11 +711,11 @@ C0062509,C0007603,PART_OF,heparin receptor,Plasma membrane,aapp,celc,1,PART_OF_A
 C0062675,C0521119,PART_OF,"hexon capsid protein, Adenovirus",Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063078,C1383501,PART_OF,hydrocortisone receptor,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063256,C0521119,PART_OF,I-E-antigen,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0063355,C2610566,PART_OF,IgY,yolk,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0063355,C2610566,PART_OF,IgY,yolk,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063356,C0014239,PART_OF,invariant chain,Endoplasmic Reticulum,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063423,C0014239,PART_OF,molecular chaperone GRP78,Endoplasmic Reticulum,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063423,C1749467,PART_OF,molecular chaperone GRP78,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0063695,C1749467,PART_OF,Intercellular adhesion molecule 1,soluble,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0063695,C1749467,PART_OF,Intercellular adhesion molecule 1,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0063717,C1749467,PART_OF,Interleukin 6 Receptor,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0064207,C0031921,PART_OF,"K88 antigen, E coli",Bacterial Fimbria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0064293,C0521119,PART_OF,keratinase,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -863,7 +863,7 @@ C0087160,C0596901,PART_OF,Viral M Protein,Membrane,aapp,celc,1,PART_OF_AAPPprtfC
 C0089793,C0175996,PART_OF,1-Phosphatidylinositol 4-Kinase,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0096069,C0175996,PART_OF,Dual Specificity Phosphatase 1,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0103404,C0175996,PART_OF,Annexin A2,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0103404,C0596901,PART_OF,Annexin A2,Membrane,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0103404,C0596901,PART_OF,Annexin A2,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0103404,C1749467,PART_OF,Annexin A2,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0104398,C3271504,PART_OF,asparaginylendopeptidase,endolysosome,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0108048,C1383501,PART_OF,calbindin 1,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -929,7 +929,7 @@ C0162799,C0162771,PART_OF,"Ribonucleoprotein, U4-U6 Small Nuclear",Spliceosomes,
 C0163826,C0596901,PART_OF,Glypican,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0164198,C0042760,PART_OF,Cyclophilin A,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0164198,C0521119,PART_OF,Cyclophilin A,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0164198,C1383501,PART_OF,Cyclophilin A,Cytoplasmic matrix,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0164198,C1383501,PART_OF,Cyclophilin A,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0164371,C1749467,PART_OF,Matrix Metalloproteinase 3,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0165117,C0025979,PART_OF,jasplakinolide,Microfilaments,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0165270,C0018042,PART_OF,dipeptidyl aminopeptidase B,Golgi Apparatus,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1008,7 +1008,7 @@ C0243043,C0014239,PART_OF,Heat-Shock Proteins 70,Endoplasmic Reticulum,aapp,celc
 C0243043,C0026237,PART_OF,Heat-Shock Proteins 70,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0243043,C0042760,PART_OF,Heat-Shock Proteins 70,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0243043,C0175996,PART_OF,Heat-Shock Proteins 70,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0243043,C1383501,PART_OF,Heat-Shock Proteins 70,Cytoplasmic matrix,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0243043,C1383501,PART_OF,Heat-Shock Proteins 70,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0243043,C1523873,PART_OF,Heat-Shock Proteins 70,receptor complex,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0243044,C0026237,PART_OF,HSP90 Heat-Shock Proteins,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0243044,C1383501,PART_OF,HSP90 Heat-Shock Proteins,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1044,11 +1044,11 @@ C0287653,C1167331,PART_OF,"CRIP1 protein, human",outer membrane,aapp,celc,1,PART
 C0287920,C0010834,PART_OF,STAT1 protein,Cytoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0287920,C1819995,PART_OF,STAT1 protein,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0287990,C0042760,PART_OF,paired basic amino acid cleaving enzyme,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0287990,C0175996,PART_OF,paired basic amino acid cleaving enzyme,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0287990,C0175996,PART_OF,paired basic amino acid cleaving enzyme,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0287990,C0699040,PART_OF,paired basic amino acid cleaving enzyme,Cell surface,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0287990,C1167322,PART_OF,paired basic amino acid cleaving enzyme,integral to membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0287990,C1749467,PART_OF,paired basic amino acid cleaving enzyme,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0287990,C1819995,PART_OF,paired basic amino acid cleaving enzyme,Host Cell,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0287990,C1819995,PART_OF,paired basic amino acid cleaving enzyme,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0288881,C0007603,PART_OF,Qa-SNARE Proteins,Plasma membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0289012,C1167160,PART_OF,TNF Receptor-Associated Death Domain Protein,signalosome,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0289235,C1511625,PART_OF,M2 delta,Cytoplasmic Domain,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1259,9 +1259,9 @@ C0669372,C0596901,PART_OF,"NOS2A protein, human",Membrane,aapp,celc,1,PART_OF_AA
 C0669472,C0010834,PART_OF,ubiquitin-specific protease,Cytoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670496,C0010834,PART_OF,RNase Z,Cytoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670896,C0007603,PART_OF,Toll-like receptors,Plasma membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0670896,C0034850,PART_OF,Toll-like receptors,Endosomes,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0670896,C0034850,PART_OF,Toll-like receptors,Endosomes,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670896,C0175996,PART_OF,Toll-like receptors,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0670896,C0596901,PART_OF,Toll-like receptors,Membrane,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0670896,C0596901,PART_OF,Toll-like receptors,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670896,C1167322,PART_OF,Toll-like receptors,integral to membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670896,C1749467,PART_OF,Toll-like receptors,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0670896,C1819995,PART_OF,Toll-like receptors,Host Cell,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1275,7 +1275,7 @@ C0682972,C0699040,PART_OF,G-Protein-Coupled Receptors,Cell surface,aapp,celc,1,P
 C0682972,C1167322,PART_OF,G-Protein-Coupled Receptors,integral to membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0699918,C0521119,PART_OF,Elastases,Extracellular,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0699919,C0034850,PART_OF,Cathepsins B,Endosomes,aapp,celc,1,PART_OF_AAPPprtfCELC
-C0699919,C0042760,PART_OF,Cathepsins B,Virion,aapp,celc,2,PART_OF_AAPPprtfCELC
+C0699919,C0042760,PART_OF,Cathepsins B,Virion,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0699919,C0175996,PART_OF,Cathepsins B,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0699919,C0230653,PART_OF,Cathepsins B,Caveolae,aapp,celc,1,PART_OF_AAPPprtfCELC
 C0699919,C1749467,PART_OF,Cathepsins B,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1810,7 +1810,7 @@ C1423498,C3893737,PART_OF,GOLPH3 gene,Golgi subcompartment,aapp,celc,1,PART_OF_A
 C1423501,C0596901,PART_OF,MBTPS2 gene,Membrane,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1423505,C0026237,PART_OF,ZNF330 gene,Mitochondria,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1423586,C0014239,PART_OF,RB1CC1 gene,Endoplasmic Reticulum,aapp,celc,1,PART_OF_AAPPprtfCELC
-C1423633,C0034850,PART_OF,TLR9 gene,Endosomes,aapp,celc,2,PART_OF_AAPPprtfCELC
+C1423633,C0034850,PART_OF,TLR9 gene,Endosomes,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1423633,C0175996,PART_OF,TLR9 gene,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1423706,C1749467,PART_OF,SDCBP2 gene,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1424322,C0175996,PART_OF,DPP8 gene,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -1952,7 +1952,7 @@ C1624602,C1622204,PART_OF,Anti-Antibodies,envelope,aapp,celc,1,PART_OF_AAPPprtfC
 C1624602,C2350307,PART_OF,Anti-Antibodies,Cell-Derived Microparticles,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1624602,C3821310,PART_OF,Anti-Antibodies,membrane region,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1631793,C1749467,PART_OF,Bacterial sialidase,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
-C1700887,C1749467,PART_OF,"IL2RA protein, human",soluble,aapp,celc,2,PART_OF_AAPPprtfCELC
+C1700887,C1749467,PART_OF,"IL2RA protein, human",soluble,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1701032,C0699040,PART_OF,"ITGAM protein, human",Cell surface,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1701032,C1167227,PART_OF,"ITGAM protein, human",integrin complex,aapp,celc,1,PART_OF_AAPPprtfCELC
 C1701084,C0175996,PART_OF,"CD9 protein, human",Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
@@ -2070,7 +2070,7 @@ C2827563,C0333785,PART_OF,HBG1 wt Allele,Virus-like particles,aapp,celc,1,PART_O
 C2827563,C0699040,PART_OF,HBG1 wt Allele,Cell surface,aapp,celc,1,PART_OF_AAPPprtfCELC
 C2828720,C0596142,PART_OF,SPATS2L gene,Autosome,aapp,celc,1,PART_OF_AAPPprtfCELC
 C2936529,C0010834,PART_OF,Inflammasomes,Cytoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
-C2936529,C0175996,PART_OF,Inflammasomes,Protoplasm,aapp,celc,2,PART_OF_AAPPprtfCELC
+C2936529,C0175996,PART_OF,Inflammasomes,Protoplasm,aapp,celc,1,PART_OF_AAPPprtfCELC
 C2936529,C1383501,PART_OF,Inflammasomes,Cytoplasmic matrix,aapp,celc,1,PART_OF_AAPPprtfCELC
 C2945724,C1622204,PART_OF,f-protein,envelope,aapp,celc,1,PART_OF_AAPPprtfCELC
 C2945724,C1749467,PART_OF,f-protein,soluble,aapp,celc,1,PART_OF_AAPPprtfCELC

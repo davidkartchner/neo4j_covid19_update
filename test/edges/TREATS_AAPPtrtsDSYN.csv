@@ -5,7 +5,7 @@ C0001047,C0024117,TREATS,Acetylcysteine,Chronic Obstructive Airway Disease,aapp,
 C0001047,C0034069,TREATS,Acetylcysteine,Pulmonary Fibrosis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0001047,C0349410,TREATS,Acetylcysteine,Single organ dysfunction,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0001047,C1719672,TREATS,Acetylcysteine,Severe Sepsis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0002199,C0024312,TREATS,Interferon-alpha,Lymphopenia,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0002199,C0024312,TREATS,Interferon-alpha,Lymphopenia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0002199,C0042769,TREATS,Interferon-alpha,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0002199,C0151317,TREATS,Interferon-alpha,Chronic infectious disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0002199,C0524909,TREATS,Interferon-alpha,"Hepatitis B, Chronic",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -19,7 +19,7 @@ C0002520,C1318484,TREATS,Amino Acids,Chimera disorder,aapp,dsyn,1,TREATS_AAPPtrt
 C0002520,C1854469,TREATS,Amino Acids,Noonan Syndrome 2,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0002712,C0034063,TREATS,Amylases,Pulmonary Edema,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0003009,C0020538,TREATS,angiotensin II,Hypertensive disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0003009,C0035222,TREATS,angiotensin II,"Respiratory Distress Syndrome, Adult",aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0003009,C0035222,TREATS,angiotensin II,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0003018,C0034069,TREATS,Angiotensins,Pulmonary Fibrosis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0003241,C0406632,TREATS,Antibodies,Autoimmune skin disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0003250,C0004364,TREATS,Monoclonal Antibodies,Autoimmune Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -55,7 +55,7 @@ C0010590,C0042769,TREATS,Cycloserine,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsD
 C0010590,C0206750,TREATS,Cycloserine,Coronavirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010590,C0729531,TREATS,Cycloserine,Viral respiratory infection,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010590,C1279481,TREATS,Cycloserine,X-Linked Combined Immunodeficiency Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0010592,C0002878,TREATS,Cyclosporine,"Anemia, Hemolytic",aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0010592,C0002878,TREATS,Cyclosporine,"Anemia, Hemolytic",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010592,C0010823,TREATS,Cyclosporine,Cytomegalovirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010592,C0021053,TREATS,Cyclosporine,Immune System Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010592,C0155626,TREATS,Cyclosporine,Acute myocardial infarction,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -64,7 +64,7 @@ C0010592,C3875321,TREATS,Cyclosporine,Inflammatory dermatosis,aapp,dsyn,1,TREATS
 C0010592,C4288963,TREATS,Cyclosporine,Hepatitis C Virus Infection,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010934,C0001486,TREATS,Dactinomycin,Adenovirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0010934,C0042769,TREATS,Dactinomycin,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0014025,C0018801,TREATS,Enalapril,Heart failure,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0014025,C0018801,TREATS,Enalapril,Heart failure,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0014025,C0020538,TREATS,Enalapril,Hypertensive disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0014025,C0027051,TREATS,Enalapril,Myocardial Infarction,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0015502,C0019247,TREATS,factor VII,Hereditary Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -86,7 +86,7 @@ C0020960,C0039614,TREATS,Immune Sera,Tetanus,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0020960,C0872315,TREATS,Immune Sera,"Communicable Diseases, Emerging",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021027,C0027121,TREATS,Immunoglobulins,Myositis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021641,C0010340,TREATS,Insulin,Critical Illness,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0021641,C0011847,TREATS,Insulin,Diabetes,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0021641,C0011847,TREATS,Insulin,Diabetes,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021641,C0011854,TREATS,Insulin,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021641,C0020456,TREATS,Insulin,Hyperglycemia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021641,C0020615,TREATS,Insulin,Hypoglycemia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -109,17 +109,17 @@ C0021745,C0004623,TREATS,Interferon Type II,Bacterial Infections,aapp,dsyn,1,TRE
 C0021747,C0014378,TREATS,Interferons,Enterovirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0016627,TREATS,Interferons,Influenza in Birds,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0019163,TREATS,Interferons,Hepatitis B,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0021747,C0019196,TREATS,Interferons,Hepatitis C,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0021747,C0019196,TREATS,Interferons,Hepatitis C,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0019693,TREATS,Interferons,HIV Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0026769,TREATS,Interferons,Multiple Sclerosis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0035204,TREATS,Interferons,Respiration Disorders,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0035369,TREATS,Interferons,Retroviridae Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0042769,TREATS,Interferons,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0021747,C0151317,TREATS,Interferons,Chronic infectious disease,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0021747,C0151317,TREATS,Interferons,Chronic infectious disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0275518,TREATS,Interferons,Acute infectious disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C0282687,TREATS,Interferons,"Hemorrhagic Fever, Ebola",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0021747,C0524909,TREATS,Interferons,"Hepatitis B, Chronic",aapp,dsyn,2,TREATS_AAPPtrtsDSYN
-C0021747,C0524910,TREATS,Interferons,"Hepatitis C, Chronic",aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0021747,C0524909,TREATS,Interferons,"Hepatitis B, Chronic",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
+C0021747,C0524910,TREATS,Interferons,"Hepatitis C, Chronic",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C1175175,TREATS,Interferons,Severe Acute Respiratory Syndrome,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C2074700,TREATS,Interferons,chronic gingivostomatitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0021747,C4288963,TREATS,Interferons,Hepatitis C Virus Infection,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -173,7 +173,7 @@ C0042313,C0949083,TREATS,Vancomycin,Hospital acquired pneumonia,aapp,dsyn,1,TREA
 C0042313,C1701940,TREATS,Vancomycin,"Pneumonia, Ventilator-Associated",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0042395,C0004096,TREATS,vasoactive intestinal peptide,Asthma,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0042413,C1719672,TREATS,Vasopressins,Severe Sepsis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0050461,C0740441,TREATS,racecadotril,Acute diarrhea,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0050461,C0740441,TREATS,racecadotril,Acute diarrhea,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0052026,C0206750,TREATS,anticomplement,Coronavirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0054015,C0007222,TREATS,Nesiritide,Cardiovascular Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0054015,C0018801,TREATS,Nesiritide,Heart failure,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -203,14 +203,14 @@ C0079189,C1373218,TREATS,cytokine,Decreased Immunologic Activity [PE],aapp,dsyn,
 C0084692,C0020192,TREATS,Pulmonary Surfactant-Associated Protein D,Hyaline Membrane Disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085295,C0011854,TREATS,Interleukin-10,"Diabetes Mellitus, Insulin-Dependent",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085295,C0442886,TREATS,Interleukin-10,Secondary Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0085297,C0001314,TREATS,"Immunoglobulins, Intravenous",Acute Disease,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0085297,C0001314,TREATS,"Immunoglobulins, Intravenous",Acute Disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0004364,TREATS,"Immunoglobulins, Intravenous",Autoimmune Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0004623,TREATS,"Immunoglobulins, Intravenous",Bacterial Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0014378,TREATS,"Immunoglobulins, Intravenous",Enterovirus Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0018378,TREATS,"Immunoglobulins, Intravenous",Guillain-Barre Syndrome,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0022658,TREATS,"Immunoglobulins, Intravenous",Kidney Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0023530,TREATS,"Immunoglobulins, Intravenous",Leukopenia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0085297,C0026691,TREATS,"Immunoglobulins, Intravenous",Mucocutaneous Lymph Node Syndrome,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0085297,C0026691,TREATS,"Immunoglobulins, Intravenous",Mucocutaneous Lymph Node Syndrome,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0032285,TREATS,"Immunoglobulins, Intravenous",Pneumonia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0035222,TREATS,"Immunoglobulins, Intravenous","Respiratory Distress Syndrome, Adult",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0085297,C0036690,TREATS,"Immunoglobulins, Intravenous",Septicemia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -232,14 +232,14 @@ C0103306,C0020538,TREATS,angiotensin I (1-7),Hypertensive disease,aapp,dsyn,1,TR
 C0103306,C0035222,TREATS,angiotensin I (1-7),"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0103306,C0206172,TREATS,angiotensin I (1-7),Diabetic Foot,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0108282,C0006271,TREATS,CAP18 lipopolysaccharide-binding protein,Bronchiolitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0123759,C0004096,TREATS,Interleukin-12,Asthma,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0123759,C0004096,TREATS,Interleukin-12,Asthma,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C0004364,TREATS,Interleukin-12,Autoimmune Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C0009319,TREATS,Interleukin-12,Colitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C0010340,TREATS,Interleukin-12,Critical Illness,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C0010346,TREATS,Interleukin-12,Crohn Disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C0442886,TREATS,Interleukin-12,Secondary Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0123759,C2350621,TREATS,Interleukin-12,Eumycetoma,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0127615,C0009324,TREATS,mesalamine,Ulcerative Colitis,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0127615,C0009324,TREATS,mesalamine,Ulcerative Colitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0142580,C0948441,TREATS,"PI3 protein, human",Venoocclusive disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0145106,C0042769,TREATS,Teicoplanin,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0145106,C0085426,TREATS,Teicoplanin,Gram-Positive Bacterial Infections,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -254,7 +254,7 @@ C0242275,C0014335,TREATS,Epidermal Growth Factor,Enteritis,aapp,dsyn,1,TREATS_AA
 C0245109,C0018572,TREATS,anakinra,"Hand, Foot and Mouth Disease",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0245109,C0349410,TREATS,anakinra,Single organ dysfunction,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0299583,C0019159,TREATS,leptin,Hepatitis A,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0299583,C0028754,TREATS,leptin,Obesity,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0299583,C0028754,TREATS,leptin,Obesity,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0299583,C0342895,TREATS,leptin,Fish-Eye Disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0301521,C0003873,TREATS,therapeutic vaccine,Rheumatoid Arthritis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0301521,C0008679,TREATS,therapeutic vaccine,Chronic disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -262,7 +262,7 @@ C0301521,C0023281,TREATS,therapeutic vaccine,Leishmaniasis,aapp,dsyn,1,TREATS_AA
 C0301521,C0042721,TREATS,therapeutic vaccine,Viral hepatitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0301521,C0151317,TREATS,therapeutic vaccine,Chronic infectious disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0301521,C0343641,TREATS,therapeutic vaccine,Human papilloma virus infection,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C0301521,C0524909,TREATS,therapeutic vaccine,"Hepatitis B, Chronic",aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C0301521,C0524909,TREATS,therapeutic vaccine,"Hepatitis B, Chronic",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0301521,C4288963,TREATS,therapeutic vaccine,Hepatitis C Virus Infection,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0305052,C0035222,TREATS,Gamma globulin serum,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C0305052,C0042769,TREATS,Gamma globulin serum,Virus Diseases,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
@@ -328,7 +328,7 @@ C1144709,C0018801,TREATS,Natriuretic Peptides,Heart failure,aapp,dsyn,1,TREATS_A
 C1144709,C0020538,TREATS,Natriuretic Peptides,Hypertensive disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C1170000,C0025064,TREATS,drotrecogin alfa,Mediastinitis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C1170000,C0036690,TREATS,drotrecogin alfa,Septicemia,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
-C1170000,C1719672,TREATS,drotrecogin alfa,Severe Sepsis,aapp,dsyn,2,TREATS_AAPPtrtsDSYN
+C1170000,C1719672,TREATS,drotrecogin alfa,Severe Sepsis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C1172734,C0010346,TREATS,natalizumab,Crohn Disease,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C1172734,C0026769,TREATS,natalizumab,Multiple Sclerosis,aapp,dsyn,1,TREATS_AAPPtrtsDSYN
 C1172734,C0751967,TREATS,natalizumab,"Multiple Sclerosis, Relapsing-Remitting",aapp,dsyn,1,TREATS_AAPPtrtsDSYN

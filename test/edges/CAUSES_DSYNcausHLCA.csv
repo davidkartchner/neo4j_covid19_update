@@ -1,6 +1,6 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001311,C0019993,CAUSES,Acute bronchiolitis,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
-C0004096,C0019993,CAUSES,Asthma,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0004096,C0019993,CAUSES,Asthma,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0004096,C0184666,CAUSES,Asthma,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0004096,C0545084,CAUSES,Asthma,Outpatient visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0004096,C0545092,CAUSES,Asthma,hospital visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
@@ -35,7 +35,7 @@ C0018799,C0019993,CAUSES,Heart Diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNc
 C0019100,C0019993,CAUSES,Severe Dengue,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0019247,C0262500,CAUSES,Hereditary Diseases,Health maintenance,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0021400,C0009818,CAUSES,Influenza,Consultation,dsyn,hlca,1,CAUSES_DSYNcausHLCA
-C0021400,C0019993,CAUSES,Influenza,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0021400,C0019993,CAUSES,Influenza,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0021400,C0030685,CAUSES,Influenza,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0021400,C0033080,CAUSES,Influenza,Prescription procedure,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0021400,C0184666,CAUSES,Influenza,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
@@ -53,7 +53,7 @@ C0023240,C1318493,CAUSES,Legionellosis,Inflation procedure,dsyn,hlca,1,CAUSES_DS
 C0023241,C0019993,CAUSES,Legionnaires' Disease,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0023281,C0030685,CAUSES,Leishmaniasis,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0024115,C0019993,CAUSES,Lung diseases,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
-C0024117,C0019993,CAUSES,Chronic Obstructive Airway Disease,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0024117,C0019993,CAUSES,Chronic Obstructive Airway Disease,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0024117,C0586082,CAUSES,Chronic Obstructive Airway Disease,Emergency department patient visit,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0024141,C0030685,CAUSES,"Lupus Erythematosus, Systemic",Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0024537,C0019993,CAUSES,"Malaria, Vivax",Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
@@ -73,7 +73,7 @@ C0035222,C0019993,CAUSES,"Respiratory Distress Syndrome, Adult",Hospitalization,
 C0035222,C0030672,CAUSES,"Respiratory Distress Syndrome, Adult",Patient Acceptance of Health Care,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0035222,C0030685,CAUSES,"Respiratory Distress Syndrome, Adult",Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0035222,C0184666,CAUSES,"Respiratory Distress Syndrome, Adult",Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
-C0035235,C0019993,CAUSES,Respiratory Syncytial Virus Infections,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0035235,C0019993,CAUSES,Respiratory Syncytial Virus Infections,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0035235,C0030685,CAUSES,Respiratory Syncytial Virus Infections,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0035235,C0184666,CAUSES,Respiratory Syncytial Virus Infections,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0035243,C0008952,CAUSES,Respiratory Tract Infections,Clinic Visits,dsyn,hlca,1,CAUSES_DSYNcausHLCA
@@ -131,7 +131,7 @@ C0339901,C0679878,CAUSES,Acute respiratory infections,acute care,dsyn,hlca,1,CAU
 C0339941,C0019993,CAUSES,Acute viral bronchiolitis,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0340194,C1292960,CAUSES,Respiratory failure without hypercapnia,Procedure on lung,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0376538,C0030685,CAUSES,Porcine Reproductive and Respiratory Syndrome,Patient Discharge,dsyn,hlca,1,CAUSES_DSYNcausHLCA
-C0694549,C0019993,CAUSES,Community acquired pneumonia,Hospitalization,dsyn,hlca,2,CAUSES_DSYNcausHLCA
+C0694549,C0019993,CAUSES,Community acquired pneumonia,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0694549,C0184666,CAUSES,Community acquired pneumonia,Hospital admission,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0729531,C0019993,CAUSES,Viral respiratory infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA
 C0729532,C0019993,CAUSES,Viral lower respiratory infection,Hospitalization,dsyn,hlca,1,CAUSES_DSYNcausHLCA

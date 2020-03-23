@@ -43,7 +43,7 @@ C0012242,C0740577,CAUSES,Digestive System Disorders,Acute abdominal pain,dsyn,so
 C0013369,C0011991,CAUSES,Dysentery,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0014038,C0151315,CAUSES,Encephalitis,Neck stiffness,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0014038,C0392171,CAUSES,Encephalitis,Influenza-like symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0014070,C0042963,CAUSES,Encephalomyelitis,Vomiting,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0014070,C0042963,CAUSES,Encephalomyelitis,Vomiting,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0014070,C0151315,CAUSES,Encephalomyelitis,Neck stiffness,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0014070,C0235031,CAUSES,Encephalomyelitis,Neurologic Symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0014070,C0392674,CAUSES,Encephalomyelitis,Exhaustion,dsyn,sosy,1,CAUSES_DSYNcausSOSY
@@ -77,7 +77,7 @@ C0021390,C0011991,CAUSES,Inflammatory Bowel Diseases,Diarrhea,dsyn,sosy,1,CAUSES
 C0021390,C0920703,CAUSES,Inflammatory Bowel Diseases,gastrointestinal sign,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0021400,C0037088,CAUSES,Influenza,Signs and Symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0021400,C0231239,CAUSES,Influenza,Fluctuation,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0021400,C0392171,CAUSES,Influenza,Influenza-like symptoms,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0021400,C0392171,CAUSES,Influenza,Influenza-like symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0021400,C0850149,CAUSES,Influenza,Dry cough,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0021831,C0011991,CAUSES,Intestinal Diseases,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0021831,C0020639,CAUSES,Intestinal Diseases,Hypoproteinemia,dsyn,sosy,1,CAUSES_DSYNcausSOSY
@@ -90,7 +90,7 @@ C0025289,C0392171,CAUSES,Meningitis,Influenza-like symptoms,dsyn,sosy,1,CAUSES_D
 C0025309,C0235031,CAUSES,Meningoencephalitis,Neurologic Symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0026636,C3697716,CAUSES,Mouth Diseases,Acute flaccid paralysis,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0026769,C0231218,CAUSES,Multiple Sclerosis,Malaise,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0026769,C0848771,CAUSES,Multiple Sclerosis,neurological disability,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0026769,C0848771,CAUSES,Multiple Sclerosis,neurological disability,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0026848,C0015672,CAUSES,Myopathy,Fatigue,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0027765,C0392171,CAUSES,nervous system disorder,Influenza-like symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0027813,C0020453,CAUSES,Neuritis,Hyperesthesia,dsyn,sosy,1,CAUSES_DSYNcausSOSY
@@ -104,7 +104,7 @@ C0031350,C0037384,CAUSES,Pharyngitis,Snoring,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0032285,C0011991,CAUSES,Pneumonia,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0032285,C0231218,CAUSES,Pneumonia,Malaise,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0032285,C0476273,CAUSES,Pneumonia,Respiratory distress,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0032371,C3697716,CAUSES,Poliomyelitis,Acute flaccid paralysis,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0032371,C3697716,CAUSES,Poliomyelitis,Acute flaccid paralysis,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0033626,C0020639,CAUSES,Protein Deficiency,Hypoproteinemia,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0034063,C0476273,CAUSES,Pulmonary Edema,Respiratory distress,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035078,C0392171,CAUSES,Kidney Failure,Influenza-like symptoms,dsyn,sosy,1,CAUSES_DSYNcausSOSY
@@ -114,7 +114,7 @@ C0035204,C0392171,CAUSES,Respiration Disorders,Influenza-like symptoms,dsyn,sosy
 C0035204,C0553668,CAUSES,Respiration Disorders,Labored breathing,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035235,C0010200,CAUSES,Respiratory Syncytial Virus Infections,Coughing,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035235,C0036572,CAUSES,Respiratory Syncytial Virus Infections,Seizures,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0035235,C0043144,CAUSES,Respiratory Syncytial Virus Infections,Wheezing,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0035235,C0043144,CAUSES,Respiratory Syncytial Virus Infections,Wheezing,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035243,C0013404,CAUSES,Respiratory Tract Infections,Dyspnea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035243,C0042963,CAUSES,Respiratory Tract Infections,Vomiting,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0035334,C1517205,CAUSES,Retinitis Pigmentosa,Flare,dsyn,sosy,1,CAUSES_DSYNcausSOSY
@@ -196,7 +196,7 @@ C0276480,C0011991,CAUSES,Canine coronaviral gastroenteritis,Diarrhea,dsyn,sosy,1
 C0276500,C0011991,CAUSES,Human immunodeficiency virus I infection,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0276807,C0011991,CAUSES,Infection by Cystoisospora,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0277527,C0011991,CAUSES,Epidemic diarrhea,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
-C0277527,C1443924,CAUSES,Epidemic diarrhea,Severe diarrhea,dsyn,sosy,2,CAUSES_DSYNcausSOSY
+C0277527,C1443924,CAUSES,Epidemic diarrhea,Severe diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0277554,C0013404,CAUSES,primary disorders,Dyspnea,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0282687,C0679309,CAUSES,"Hemorrhagic Fever, Ebola",physical symptom,dsyn,sosy,1,CAUSES_DSYNcausSOSY
 C0311276,C0011991,CAUSES,Severe malnutrition,Diarrhea,dsyn,sosy,1,CAUSES_DSYNcausSOSY

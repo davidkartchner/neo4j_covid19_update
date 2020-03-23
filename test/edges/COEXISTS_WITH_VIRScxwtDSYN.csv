@@ -1,13 +1,13 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001483,C0001486,COEXISTS_WITH,Adenoviruses,Adenovirus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0004096,COEXISTS_WITH,Adenoviruses,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0001483,C0004626,COEXISTS_WITH,Adenoviruses,"Pneumonia, Bacterial",virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0001483,C0004626,COEXISTS_WITH,Adenoviruses,"Pneumonia, Bacterial",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0006267,COEXISTS_WITH,Adenoviruses,Bronchiectasis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0019158,COEXISTS_WITH,Adenoviruses,Hepatitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0032285,COEXISTS_WITH,Adenoviruses,Pneumonia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0035235,COEXISTS_WITH,Adenoviruses,Respiratory Syncytial Virus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0035243,COEXISTS_WITH,Adenoviruses,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0001483,C0042769,COEXISTS_WITH,Adenoviruses,Virus Diseases,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0001483,C0042769,COEXISTS_WITH,Adenoviruses,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0085106,COEXISTS_WITH,Adenoviruses,Familial benign pemphigus,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0149725,COEXISTS_WITH,Adenoviruses,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0001483,C0275524,COEXISTS_WITH,Adenoviruses,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -128,7 +128,7 @@ C0022369,C0040820,COEXISTS_WITH,JC Virus,Trematode Infections,virs,dsyn,1,COEXIS
 C0022858,C0024266,COEXISTS_WITH,La Crosse virus,Lymphocytic Choriomeningitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0023093,C0042769,COEXISTS_WITH,Lassa virus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0023093,C0205671,COEXISTS_WITH,Lassa virus,"Infections, Arenavirus",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0024267,C0275518,COEXISTS_WITH,Lymphocytic choriomeningitis virus,Acute infectious disease,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0024267,C0275518,COEXISTS_WITH,Lymphocytic choriomeningitis virus,Acute infectious disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0024267,C0276500,COEXISTS_WITH,Lymphocytic choriomeningitis virus,Human immunodeficiency virus I infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0024267,C1264606,COEXISTS_WITH,Lymphocytic choriomeningitis virus,Persistent infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0025011,C0042769,COEXISTS_WITH,Measles virus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -208,7 +208,7 @@ C0031886,C0031887,COEXISTS_WITH,Family Picornaviridae,Picornaviridae Infections,
 C0031886,C0032310,COEXISTS_WITH,Family Picornaviridae,"Pneumonia, Viral",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0031886,C0035204,COEXISTS_WITH,Family Picornaviridae,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0031886,C0275518,COEXISTS_WITH,Family Picornaviridae,Acute infectious disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0031886,C0275524,COEXISTS_WITH,Family Picornaviridae,Coinfection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0031886,C0275524,COEXISTS_WITH,Family Picornaviridae,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0031886,C2062441,COEXISTS_WITH,Family Picornaviridae,Influenza A,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0032092,C0275524,COEXISTS_WITH,Plant Viruses,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0032859,C0162700,COEXISTS_WITH,Powassan virus,Tick-Borne Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -220,7 +220,7 @@ C0035111,C1264606,COEXISTS_WITH,Reoviridae,Persistent infection,virs,dsyn,1,COEX
 C0035111,C2750737,COEXISTS_WITH,Reoviridae,"DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0001311,COEXISTS_WITH,Respiratory syncytial virus,Acute bronchiolitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0004096,COEXISTS_WITH,Respiratory syncytial virus,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0035236,C0004626,COEXISTS_WITH,Respiratory syncytial virus,"Pneumonia, Bacterial",virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0035236,C0004626,COEXISTS_WITH,Respiratory syncytial virus,"Pneumonia, Bacterial",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0006271,COEXISTS_WITH,Respiratory syncytial virus,Bronchiolitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0009450,COEXISTS_WITH,Respiratory syncytial virus,Communicable Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0032285,COEXISTS_WITH,Respiratory syncytial virus,Pneumonia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -228,11 +228,11 @@ C0035236,C0032300,COEXISTS_WITH,Respiratory syncytial virus,Lobar Pneumonia,virs
 C0035236,C0035204,COEXISTS_WITH,Respiratory syncytial virus,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0035235,COEXISTS_WITH,Respiratory syncytial virus,Respiratory Syncytial Virus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0035243,COEXISTS_WITH,Respiratory syncytial virus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0035236,C0042769,COEXISTS_WITH,Respiratory syncytial virus,Virus Diseases,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0035236,C0042769,COEXISTS_WITH,Respiratory syncytial virus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0149725,COEXISTS_WITH,Respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0154830,COEXISTS_WITH,Respiratory syncytial virus,Proliferative diabetic retinopathy,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0275518,COEXISTS_WITH,Respiratory syncytial virus,Acute infectious disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0035236,C0275524,COEXISTS_WITH,Respiratory syncytial virus,Coinfection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0035236,C0275524,COEXISTS_WITH,Respiratory syncytial virus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C0339901,COEXISTS_WITH,Respiratory syncytial virus,Acute respiratory infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C1443953,COEXISTS_WITH,Respiratory syncytial virus,Acute viral disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035236,C2062441,COEXISTS_WITH,Respiratory syncytial virus,Influenza A,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -246,7 +246,7 @@ C0035473,C0035235,COEXISTS_WITH,Rhinovirus,Respiratory Syncytial Virus Infection
 C0035473,C0149725,COEXISTS_WITH,Rhinovirus,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035473,C0238990,COEXISTS_WITH,Rhinovirus,Acute lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035473,C0275518,COEXISTS_WITH,Rhinovirus,Acute infectious disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0035473,C0275524,COEXISTS_WITH,Rhinovirus,Coinfection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0035473,C0275524,COEXISTS_WITH,Rhinovirus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035473,C0276447,COEXISTS_WITH,Rhinovirus,Rhinovirus infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035473,C0339901,COEXISTS_WITH,Rhinovirus,Acute respiratory infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0035473,C0343537,COEXISTS_WITH,Rhinovirus,Specific viral infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -386,7 +386,7 @@ C0206397,C0033036,COEXISTS_WITH,Inovirus,Atrial Premature Complexes,virs,dsyn,1,
 C0206412,C0275524,COEXISTS_WITH,Circovirus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206419,C0006840,COEXISTS_WITH,Genus: Coronavirus,Candidiasis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206419,C0032851,COEXISTS_WITH,Genus: Coronavirus,Poultry Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206419,C0035204,COEXISTS_WITH,Genus: Coronavirus,Respiration Disorders,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206419,C0035204,COEXISTS_WITH,Genus: Coronavirus,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206419,C0035243,COEXISTS_WITH,Genus: Coronavirus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206419,C0035455,COEXISTS_WITH,Genus: Coronavirus,Rhinitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206419,C0043528,COEXISTS_WITH,Genus: Coronavirus,Zoonoses,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -414,7 +414,7 @@ C0206497,C0042769,COEXISTS_WITH,Arenavirus,Virus Diseases,virs,dsyn,1,COEXISTS_W
 C0206510,C0043395,COEXISTS_WITH,Flaviviridae,Yellow Fever,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206510,C1264606,COEXISTS_WITH,Flaviviridae,Persistent infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206536,C0009450,COEXISTS_WITH,Morbillivirus,Communicable Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206545,C0004096,COEXISTS_WITH,Human respiratory syncytial virus,Asthma,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206545,C0004096,COEXISTS_WITH,Human respiratory syncytial virus,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0004610,COEXISTS_WITH,Human respiratory syncytial virus,Bacteremia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0006271,COEXISTS_WITH,Human respiratory syncytial virus,Bronchiolitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0018802,COEXISTS_WITH,Human respiratory syncytial virus,Congestive heart failure,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -426,18 +426,18 @@ C0206545,C0030389,COEXISTS_WITH,Human respiratory syncytial virus,Parainfluenza,
 C0206545,C0032285,COEXISTS_WITH,Human respiratory syncytial virus,Pneumonia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0035204,COEXISTS_WITH,Human respiratory syncytial virus,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0035235,COEXISTS_WITH,Human respiratory syncytial virus,Respiratory Syncytial Virus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206545,C0035243,COEXISTS_WITH,Human respiratory syncytial virus,Respiratory Tract Infections,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206545,C0035243,COEXISTS_WITH,Human respiratory syncytial virus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0041912,COEXISTS_WITH,Human respiratory syncytial virus,Upper Respiratory Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0042769,COEXISTS_WITH,Human respiratory syncytial virus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206545,C0149725,COEXISTS_WITH,Human respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206545,C0149725,COEXISTS_WITH,Human respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0275518,COEXISTS_WITH,Human respiratory syncytial virus,Acute infectious disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206545,C0275524,COEXISTS_WITH,Human respiratory syncytial virus,Coinfection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206545,C0275524,COEXISTS_WITH,Human respiratory syncytial virus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0339901,COEXISTS_WITH,Human respiratory syncytial virus,Acute respiratory infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0343537,COEXISTS_WITH,Human respiratory syncytial virus,Specific viral infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C0442886,COEXISTS_WITH,Human respiratory syncytial virus,Secondary Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C1698510,COEXISTS_WITH,Human respiratory syncytial virus,Bacterial otitis media,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206545,C1856053,COEXISTS_WITH,Human respiratory syncytial virus,Hydranencephaly with Renal Aplasia-Dysplasia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0206545,C2062441,COEXISTS_WITH,Human respiratory syncytial virus,Influenza A,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0206545,C2062441,COEXISTS_WITH,Human respiratory syncytial virus,Influenza A,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206546,C0014518,COEXISTS_WITH,Lyssavirus,Toxic Epidermal Necrolysis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206546,C1656590,COEXISTS_WITH,Lyssavirus,lyssavirus infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0206551,C1449809,COEXISTS_WITH,Thogotovirus,Bovine Respiratory Disease Complex,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -469,7 +469,7 @@ C0318356,C0872054,COEXISTS_WITH,Human virus,latent infection,virs,dsyn,1,COEXIST
 C0318356,C1175175,COEXISTS_WITH,Human virus,Severe Acute Respiratory Syndrome,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0318356,C3694279,COEXISTS_WITH,Human virus,Middle East Respiratory Syndrome,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0318428,C0035204,COEXISTS_WITH,Human enterovirus 68,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0318428,C0035243,COEXISTS_WITH,Human enterovirus 68,Respiratory Tract Infections,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0318428,C0035243,COEXISTS_WITH,Human enterovirus 68,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0318428,C0339901,COEXISTS_WITH,Human enterovirus 68,Acute respiratory infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0318467,C0001311,COEXISTS_WITH,Human rhinovirus,Acute bronchiolitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0318467,C0004096,COEXISTS_WITH,Human rhinovirus,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -521,7 +521,7 @@ C0597363,C0020498,COEXISTS_WITH,recombinant virus,"Hyperostosis, Diffuse Idiopat
 C0597363,C0042769,COEXISTS_WITH,recombinant virus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0597404,C0001344,COEXISTS_WITH,Respiratory viruses,Acute pharyngitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0597404,C0003873,COEXISTS_WITH,Respiratory viruses,Rheumatoid Arthritis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C0597404,C0004096,COEXISTS_WITH,Respiratory viruses,Asthma,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C0597404,C0004096,COEXISTS_WITH,Respiratory viruses,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0597404,C0004623,COEXISTS_WITH,Respiratory viruses,Bacterial Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0597404,C0008679,COEXISTS_WITH,Respiratory viruses,Chronic disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C0597404,C0014038,COEXISTS_WITH,Respiratory viruses,Encephalitis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -615,14 +615,14 @@ C1216700,C0205740,COEXISTS_WITH,Kobuvirus,Canine Distemper,virs,dsyn,1,COEXISTS_
 C1234164,C0149725,COEXISTS_WITH,Anelloviridae,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1234164,C0264550,COEXISTS_WITH,Anelloviridae,Pleural effusion associated with pulmonary infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1234165,C4082764,COEXISTS_WITH,Gyrovirus,Gastrointestinal infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C1258014,C0004626,COEXISTS_WITH,Human Metapneumovirus,"Pneumonia, Bacterial",virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C1258014,C0004626,COEXISTS_WITH,Human Metapneumovirus,"Pneumonia, Bacterial",virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0021400,COEXISTS_WITH,Human Metapneumovirus,Influenza,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0024117,COEXISTS_WITH,Human Metapneumovirus,Chronic Obstructive Airway Disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0029342,COEXISTS_WITH,Human Metapneumovirus,Orthomyxoviridae Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0032285,COEXISTS_WITH,Human Metapneumovirus,Pneumonia,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0035235,COEXISTS_WITH,Human Metapneumovirus,Respiratory Syncytial Virus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0035243,COEXISTS_WITH,Human Metapneumovirus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C1258014,C0042769,COEXISTS_WITH,Human Metapneumovirus,Virus Diseases,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C1258014,C0042769,COEXISTS_WITH,Human Metapneumovirus,Virus Diseases,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0149725,COEXISTS_WITH,Human Metapneumovirus,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0264219,COEXISTS_WITH,Human Metapneumovirus,Acute respiratory disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1258014,C0275524,COEXISTS_WITH,Human Metapneumovirus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -668,7 +668,7 @@ C1641393,C1856053,COEXISTS_WITH,Bocavirus,Hydranencephaly with Renal Aplasia-Dys
 C1646817,C0004096,COEXISTS_WITH,Human bocavirus,Asthma,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1646817,C0035204,COEXISTS_WITH,Human bocavirus,Respiration Disorders,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1646817,C0035243,COEXISTS_WITH,Human bocavirus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C1646817,C0149725,COEXISTS_WITH,Human bocavirus,Lower respiratory tract infection,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C1646817,C0149725,COEXISTS_WITH,Human bocavirus,Lower respiratory tract infection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1646817,C0243026,COEXISTS_WITH,Human bocavirus,Sepsis,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1646817,C0275524,COEXISTS_WITH,Human bocavirus,Coinfection,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C1646817,C0339901,COEXISTS_WITH,Human bocavirus,Acute respiratory infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
@@ -680,7 +680,7 @@ C2803549,C0009450,COEXISTS_WITH,Torque teno sus virus 1a,Communicable Diseases,v
 C2806447,C0206750,COEXISTS_WITH,Alphacoronavirus,Coronavirus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C2806453,C0035243,COEXISTS_WITH,Betacoronavirus,Respiratory Tract Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C2806453,C0206750,COEXISTS_WITH,Betacoronavirus,Coronavirus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
-C2806453,C3694279,COEXISTS_WITH,Betacoronavirus,Middle East Respiratory Syndrome,virs,dsyn,2,COEXISTS_WITH_VIRScxwtDSYN
+C2806453,C3694279,COEXISTS_WITH,Betacoronavirus,Middle East Respiratory Syndrome,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C2806461,C0206750,COEXISTS_WITH,Avian coronavirus,Coronavirus Infections,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C2919536,C0015674,COEXISTS_WITH,Xenotropic murine leukemia virus-related virus,Chronic Fatigue Syndrome,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN
 C2963492,C0016514,COEXISTS_WITH,Enterovirus 71,Foot-and-Mouth Disease,virs,dsyn,1,COEXISTS_WITH_VIRScxwtDSYN

@@ -13,7 +13,7 @@ C0001280,C0079189,PRODUCES,Armed macrophage,cytokine,cell,aapp,1,PRODUCES_CELLpr
 C0001280,C0079460,PRODUCES,Armed macrophage,Granulocyte-Macrophage Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0001280,C0123759,PRODUCES,Armed macrophage,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0001280,C0282554,PRODUCES,Armed macrophage,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0001280,C0623362,PRODUCES,Armed macrophage,Matrix Metalloproteinases,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0001280,C0623362,PRODUCES,Armed macrophage,Matrix Metalloproteinases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0001280,C0669372,PRODUCES,Armed macrophage,"NOS2A protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0001280,C1333908,PRODUCES,Armed macrophage,HMGB1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0001280,C1336763,PRODUCES,Armed macrophage,Toll-Like Receptor Family Gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -29,7 +29,7 @@ C0003315,C0019630,PRODUCES,Antigen-Presenting Cells,Histocompatibility Antigens 
 C0003315,C0034805,PRODUCES,Antigen-Presenting Cells,Fc Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0003315,C0079189,PRODUCES,Antigen-Presenting Cells,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0003315,C0085295,PRODUCES,Antigen-Presenting Cells,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0003315,C0123759,PRODUCES,Antigen-Presenting Cells,Interleukin-12,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0003315,C0123759,PRODUCES,Antigen-Presenting Cells,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0003315,C0282554,PRODUCES,Antigen-Presenting Cells,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0003315,C0670896,PRODUCES,Antigen-Presenting Cells,Toll-like receptors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0003315,C0913092,PRODUCES,Antigen-Presenting Cells,DC-specific ICAM-3 grabbing nonintegrin,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -87,7 +87,7 @@ C0004561,C0021031,PRODUCES,B-Lymphocytes,Fab Immunoglobulins,cell,aapp,1,PRODUCE
 C0004561,C0021753,PRODUCES,B-Lymphocytes,Interleukin-1 beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0021756,PRODUCES,B-Lymphocytes,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0021758,PRODUCES,B-Lymphocytes,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0004561,C0021760,PRODUCES,B-Lymphocytes,Interleukin-6,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0004561,C0021760,PRODUCES,B-Lymphocytes,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0034789,PRODUCES,B-Lymphocytes,"Receptors, Antigen, B-Cell",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0034805,PRODUCES,B-Lymphocytes,Fc Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0040648,PRODUCES,B-Lymphocytes,TRANSCRIPTION FACTOR,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -96,7 +96,7 @@ C0004561,C0051976,PRODUCES,B-Lymphocytes,anti-IgA,cell,aapp,1,PRODUCES_CELLprodA
 C0004561,C0063416,PRODUCES,B-Lymphocytes,immunoglobulin B,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0079189,PRODUCES,B-Lymphocytes,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0079633,PRODUCES,B-Lymphocytes,Interleukin-8,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0004561,C0085295,PRODUCES,B-Lymphocytes,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0004561,C0085295,PRODUCES,B-Lymphocytes,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0120285,PRODUCES,B-Lymphocytes,Green Fluorescent Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0123759,PRODUCES,B-Lymphocytes,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C0248007,PRODUCES,B-Lymphocytes,B-Cell Lymphoma 6 Protein,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -138,7 +138,7 @@ C0004561,C3816168,PRODUCES,B-Lymphocytes,B-Cell Receptor Complex,cell,aapp,1,PRO
 C0004561,C3891304,PRODUCES,B-Lymphocytes,"Cathelicidin LL-37, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C4082262,PRODUCES,B-Lymphocytes,"Integrin Alpha-X , human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004561,C4532562,PRODUCES,B-Lymphocytes,Porcine circovirus type 2 Ab,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0004827,C0021758,PRODUCES,Basophils,Interleukin-4,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0004827,C0021758,PRODUCES,Basophils,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004827,C0079189,PRODUCES,Basophils,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004827,C0214743,PRODUCES,Basophils,Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0004827,C3541895,PRODUCES,Basophils,FCGR1A wt Allele,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -289,7 +289,7 @@ C0011306,C0003241,PRODUCES,Dendritic Cells,Antibodies,cell,aapp,1,PRODUCES_CELLp
 C0011306,C0015980,PRODUCES,Dendritic Cells,Interferon-beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0019630,PRODUCES,Dendritic Cells,Histocompatibility Antigens Class II,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0021701,PRODUCES,Dendritic Cells,Integrins,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0011306,C0021743,PRODUCES,Dendritic Cells,Interferon Type I,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0011306,C0021743,PRODUCES,Dendritic Cells,Interferon Type I,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0021747,PRODUCES,Dendritic Cells,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0021753,PRODUCES,Dendritic Cells,Interleukin-1 beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0021755,PRODUCES,Dendritic Cells,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -301,9 +301,9 @@ C0011306,C0040691,PRODUCES,Dendritic Cells,Transforming Growth Factors,cell,aapp
 C0011306,C0041368,PRODUCES,Dendritic Cells,Tumor Necrosis Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0065693,PRODUCES,Dendritic Cells,Mannose-Binding Lectins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0079189,PRODUCES,Dendritic Cells,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0011306,C0085295,PRODUCES,Dendritic Cells,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0011306,C0085295,PRODUCES,Dendritic Cells,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0120285,PRODUCES,Dendritic Cells,Green Fluorescent Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0011306,C0123759,PRODUCES,Dendritic Cells,Interleukin-12,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0011306,C0123759,PRODUCES,Dendritic Cells,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0142251,PRODUCES,Dendritic Cells,Sialic Acid Binding Ig-like Lectin 1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0174234,PRODUCES,Dendritic Cells,PTX3 protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0011306,C0282554,PRODUCES,Dendritic Cells,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -373,7 +373,7 @@ C0014597,C0282553,PRODUCES,Epithelial Cells,CXC Chemokines,cell,aapp,1,PRODUCES_
 C0014597,C0282554,PRODUCES,Epithelial Cells,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0014597,C0295247,PRODUCES,Epithelial Cells,sialic acid receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0014597,C0305052,PRODUCES,Epithelial Cells,Gamma globulin serum,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0014597,C0378910,PRODUCES,Epithelial Cells,Lymphocyte antigen CD66A,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0014597,C0378910,PRODUCES,Epithelial Cells,Lymphocyte antigen CD66A,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0014597,C0384156,PRODUCES,Epithelial Cells,epithelial sodium channel,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0014597,C0597357,PRODUCES,Epithelial Cells,receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0014597,C0599561,PRODUCES,Epithelial Cells,e protein,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -428,7 +428,7 @@ C0015161,C0021747,PRODUCES,Eukaryotic Cells,Interferons,cell,aapp,1,PRODUCES_CEL
 C0015161,C0030940,PRODUCES,Eukaryotic Cells,Peptide Hydrolases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0015161,C0034861,PRODUCES,Eukaryotic Cells,Recombinant Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0015161,C1564907,PRODUCES,Eukaryotic Cells,"Receptors, Pattern Recognition",cell,aapp,1,PRODUCES_CELLprodAAPP
-C0016030,C0009325,PRODUCES,Fibroblasts,Collagen,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0016030,C0009325,PRODUCES,Fibroblasts,Collagen,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0016030,C0016055,PRODUCES,Fibroblasts,Fibronectins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0016030,C0017968,PRODUCES,Fibroblasts,Glycoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0016030,C0022984,PRODUCES,Fibroblasts,Laminin,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -517,7 +517,7 @@ C0018873,C1883559,PRODUCES,HeLa Cells,Wild Type,cell,aapp,1,PRODUCES_CELLprodAAP
 C0018873,C3710914,PRODUCES,HeLa Cells,"EIF2AK2 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0018873,C3887680,PRODUCES,HeLa Cells,Human Aminopeptidase N,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0018873,C4048280,PRODUCES,HeLa Cells,"T-Cell Surface Glycoprotein CD4, human",cell,aapp,1,PRODUCES_CELLprodAAPP
-C0018894,C0021747,PRODUCES,Helper-Inducer T-Lymphocyte,Interferons,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0018894,C0021747,PRODUCES,Helper-Inducer T-Lymphocyte,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0018894,C0021756,PRODUCES,Helper-Inducer T-Lymphocyte,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0018894,C0021757,PRODUCES,Helper-Inducer T-Lymphocyte,Interleukin-3,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0018894,C0021758,PRODUCES,Helper-Inducer T-Lymphocyte,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -571,7 +571,7 @@ C0022567,C3891304,PRODUCES,keratinocyte,"Cathelicidin LL-37, human",cell,aapp,1,
 C0022567,C4084937,PRODUCES,keratinocyte,Antimicrobial Peptide,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0022688,C0021740,PRODUCES,Natural Killer Cells,Recombinant Interferon-gamma,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0022688,C0021745,PRODUCES,Natural Killer Cells,Interferon Type II,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0022688,C0021747,PRODUCES,Natural Killer Cells,Interferons,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0022688,C0021747,PRODUCES,Natural Killer Cells,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0022688,C0021755,PRODUCES,Natural Killer Cells,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0022688,C0021756,PRODUCES,Natural Killer Cells,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0022688,C0021760,PRODUCES,Natural Killer Cells,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -657,8 +657,8 @@ C0024264,C0007578,PRODUCES,Lymphocyte,Cell Adhesion Molecules,cell,aapp,1,PRODUC
 C0024264,C0017968,PRODUCES,Lymphocyte,Glycoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024264,C0021701,PRODUCES,Lymphocyte,Integrins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024264,C0021745,PRODUCES,Lymphocyte,Interferon Type II,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024264,C0021747,PRODUCES,Lymphocyte,Interferons,cell,aapp,2,PRODUCES_CELLprodAAPP
-C0024264,C0021758,PRODUCES,Lymphocyte,Interleukin-4,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024264,C0021747,PRODUCES,Lymphocyte,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
+C0024264,C0021758,PRODUCES,Lymphocyte,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024264,C0021760,PRODUCES,Lymphocyte,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024264,C0038585,PRODUCES,Lymphocyte,Substance P,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024264,C0041368,PRODUCES,Lymphocyte,Tumor Necrosis Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -698,9 +698,9 @@ C0024432,C0019796,PRODUCES,macrophage,HMGB1 Protein,cell,aapp,1,PRODUCES_CELLpro
 C0024432,C0021743,PRODUCES,macrophage,Interferon Type I,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0021747,PRODUCES,macrophage,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0021753,PRODUCES,macrophage,Interleukin-1 beta,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024432,C0021755,PRODUCES,macrophage,Interleukin-1,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024432,C0021755,PRODUCES,macrophage,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0021756,PRODUCES,macrophage,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024432,C0021760,PRODUCES,macrophage,Interleukin-6,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024432,C0021760,PRODUCES,macrophage,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0023206,PRODUCES,macrophage,Lectin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0023823,PRODUCES,macrophage,Low-Density Lipoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0027752,PRODUCES,macrophage,Nerve Growth Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -723,11 +723,11 @@ C0024432,C0079189,PRODUCES,macrophage,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0079459,PRODUCES,macrophage,Granulocyte Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0079633,PRODUCES,macrophage,Interleukin-8,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0079784,PRODUCES,macrophage,Macrophage Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024432,C0085295,PRODUCES,macrophage,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024432,C0085295,PRODUCES,macrophage,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0104398,PRODUCES,macrophage,asparaginylendopeptidase,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0107103,PRODUCES,macrophage,Brain-Derived Neurotrophic Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0120285,PRODUCES,macrophage,Green Fluorescent Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024432,C0123759,PRODUCES,macrophage,Interleukin-12,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024432,C0123759,PRODUCES,macrophage,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0165519,PRODUCES,macrophage,Matrix Metalloproteinase 9,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0172511,PRODUCES,macrophage,interferon-alpha 8,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C0172537,PRODUCES,macrophage,Matrix Metalloproteinase 2,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -781,7 +781,7 @@ C0024432,C1424460,PRODUCES,macrophage,CXCL16 gene,cell,aapp,1,PRODUCES_CELLprodA
 C0024432,C1424930,PRODUCES,macrophage,APOBEC3G gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C1425066,PRODUCES,macrophage,TREM1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C1425412,PRODUCES,macrophage,CYSLTR2 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024432,C1448177,PRODUCES,macrophage,"TNF protein, human",cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024432,C1448177,PRODUCES,macrophage,"TNF protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C1449159,PRODUCES,macrophage,"CCL2 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C1515370,PRODUCES,macrophage,Recombinant Fas Ligand,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C1537663,PRODUCES,macrophage,MARCH8 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -814,14 +814,14 @@ C0024432,C4084937,PRODUCES,macrophage,Antimicrobial Peptide,cell,aapp,1,PRODUCES
 C0024432,C4281807,PRODUCES,macrophage,"Vitronectin, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024432,C4318438,PRODUCES,macrophage,c-Mer Tyrosine Kinase,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0021755,PRODUCES,mast cell,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024880,C0021758,PRODUCES,mast cell,Interleukin-4,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024880,C0021758,PRODUCES,mast cell,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0021760,PRODUCES,mast cell,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0030940,PRODUCES,mast cell,Peptide Hydrolases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0036734,PRODUCES,mast cell,Serine Endopeptidases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0055673,PRODUCES,mast cell,Chymase,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0079189,PRODUCES,mast cell,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0123759,PRODUCES,mast cell,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0024880,C0147080,PRODUCES,mast cell,TRYPTASE,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0024880,C0147080,PRODUCES,mast cell,TRYPTASE,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0214743,PRODUCES,mast cell,Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0282554,PRODUCES,mast cell,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0024880,C0376579,PRODUCES,mast cell,Macrophage Inflammatory Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -854,14 +854,14 @@ C0026473,C0042736,PRODUCES,Monocytes,Viral Proteins,cell,aapp,1,PRODUCES_CELLpro
 C0026473,C0079189,PRODUCES,Monocytes,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0079460,PRODUCES,Monocytes,Granulocyte-Macrophage Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0079633,PRODUCES,Monocytes,Interleukin-8,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0026473,C0079717,PRODUCES,Monocytes,Lymphocyte Function-Associated Antigen-1,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0026473,C0079717,PRODUCES,Monocytes,Lymphocyte Function-Associated Antigen-1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0081937,PRODUCES,Monocytes,Dipeptidyl-Peptidase IV,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0085295,PRODUCES,Monocytes,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0103404,PRODUCES,Monocytes,Annexin A2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0123759,PRODUCES,Monocytes,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0165519,PRODUCES,Monocytes,Matrix Metalloproteinase 9,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0174234,PRODUCES,Monocytes,PTX3 protein,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0026473,C0209606,PRODUCES,Monocytes,Integrin alpha4beta1,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0026473,C0209606,PRODUCES,Monocytes,Integrin alpha4beta1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0215469,PRODUCES,Monocytes,"CXCL9 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0254610,PRODUCES,Monocytes,Interleukin-15,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0026473,C0282554,PRODUCES,Monocytes,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -913,7 +913,7 @@ C0027882,C0002716,PRODUCES,Neurons,Amyloid,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0007578,PRODUCES,Neurons,Cell Adhesion Molecules,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0016026,PRODUCES,Neurons,Fibroblast Growth Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0021755,PRODUCES,Neurons,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0027882,C0021760,PRODUCES,Neurons,Interleukin-6,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0027882,C0021760,PRODUCES,Neurons,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0024518,PRODUCES,Neurons,Major Histocompatibility Complex,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0040690,PRODUCES,Neurons,Transforming Growth Factor beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027882,C0040691,PRODUCES,Neurons,Transforming Growth Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -962,7 +962,7 @@ C0027950,C0079189,PRODUCES,neutrophil,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0079633,PRODUCES,neutrophil,Interleukin-8,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0079785,PRODUCES,neutrophil,Macrophage-1 Antigen,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0085295,PRODUCES,neutrophil,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0027950,C0123759,PRODUCES,neutrophil,Interleukin-12,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0027950,C0123759,PRODUCES,neutrophil,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0165519,PRODUCES,neutrophil,Matrix Metalloproteinase 9,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0174234,PRODUCES,neutrophil,PTX3 protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0282554,PRODUCES,neutrophil,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -971,7 +971,7 @@ C0027950,C0376579,PRODUCES,neutrophil,Macrophage Inflammatory Proteins,cell,aapp
 C0027950,C0391845,PRODUCES,neutrophil,Lysosomal enzyme,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0597357,PRODUCES,neutrophil,receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0623362,PRODUCES,neutrophil,Matrix Metalloproteinases,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0027950,C0699918,PRODUCES,neutrophil,Elastases,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0027950,C0699918,PRODUCES,neutrophil,Elastases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0812445,PRODUCES,neutrophil,CXCL1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C0950373,PRODUCES,neutrophil,Eosinophil cationic protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0027950,C1143489,PRODUCES,neutrophil,antimicrobial peptide LL-37,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1017,7 +1017,7 @@ C0029974,C0214743,PRODUCES,Ovum,Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C0034793,PRODUCES,Phagocytes,Complement Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C0034805,PRODUCES,Phagocytes,Fc Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C0079189,PRODUCES,Phagocytes,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0031307,C0123759,PRODUCES,Phagocytes,Interleukin-12,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0031307,C0123759,PRODUCES,Phagocytes,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C0245109,PRODUCES,Phagocytes,anakinra,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C0282554,PRODUCES,Phagocytes,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0031307,C1336763,PRODUCES,Phagocytes,Toll-Like Receptor Family Gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1065,13 +1065,13 @@ C0039194,C0023816,PRODUCES,T-Lymphocyte,LIPOPROTEIN LIPASE,cell,aapp,1,PRODUCES_
 C0039194,C0025248,PRODUCES,T-Lymphocyte,Membrane Glycoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0030946,PRODUCES,T-Lymphocyte,Endopeptidases,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0034788,PRODUCES,T-Lymphocyte,"Receptors, Antigen",cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039194,C0034790,PRODUCES,T-Lymphocyte,T-Cell Receptor,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039194,C0034790,PRODUCES,T-Lymphocyte,T-Cell Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0034805,PRODUCES,T-Lymphocyte,Fc Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0034819,PRODUCES,T-Lymphocyte,Interleukin 2 Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0035680,PRODUCES,T-Lymphocyte,RNA Polymerase III,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0040648,PRODUCES,T-Lymphocyte,TRANSCRIPTION FACTOR,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0040691,PRODUCES,T-Lymphocyte,Transforming Growth Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039194,C0041368,PRODUCES,T-Lymphocyte,Tumor Necrosis Factors,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039194,C0041368,PRODUCES,T-Lymphocyte,Tumor Necrosis Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0058687,PRODUCES,T-Lymphocyte,DOPA melanin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0061877,PRODUCES,T-Lymphocyte,granzyme A,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0061878,PRODUCES,T-Lymphocyte,granzyme B,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1079,13 +1079,13 @@ C0039194,C0070410,PRODUCES,T-Lymphocyte,perforin,cell,aapp,1,PRODUCES_CELLprodAA
 C0039194,C0075747,PRODUCES,T-Lymphocyte,CD28 Antigens,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0079189,PRODUCES,T-Lymphocyte,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0079460,PRODUCES,T-Lymphocyte,Granulocyte-Macrophage Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039194,C0085295,PRODUCES,T-Lymphocyte,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039194,C0085295,PRODUCES,T-Lymphocyte,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0111208,PRODUCES,T-Lymphocyte,cytotoxic T-lymphocyte antigen 4,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0123759,PRODUCES,T-Lymphocyte,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0167627,PRODUCES,T-Lymphocyte,CD40 Ligand,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0206552,PRODUCES,T-Lymphocyte,"Receptors, Cytokine",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0208940,PRODUCES,T-Lymphocyte,human REG1A protein,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039194,C0214743,PRODUCES,T-Lymphocyte,Interleukin-13,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039194,C0214743,PRODUCES,T-Lymphocyte,Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0247111,PRODUCES,T-Lymphocyte,"TNFRSF9 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0248007,PRODUCES,T-Lymphocyte,B-Cell Lymphoma 6 Protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039194,C0282554,PRODUCES,T-Lymphocyte,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1175,7 +1175,7 @@ C0039198,C0100804,PRODUCES,Regulatory T-Lymphocytes,Neuropilin-1,cell,aapp,1,PRO
 C0039198,C0123759,PRODUCES,Regulatory T-Lymphocytes,Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039198,C1414609,PRODUCES,Regulatory T-Lymphocytes,FGL2 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039198,C1416467,PRODUCES,Regulatory T-Lymphocytes,FOXP3 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039198,C1700887,PRODUCES,Regulatory T-Lymphocytes,"IL2RA protein, human",cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039198,C1700887,PRODUCES,Regulatory T-Lymphocytes,"IL2RA protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039198,C4321494,PRODUCES,Regulatory T-Lymphocytes,Interleukin-35,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C0003241,PRODUCES,CD4 Positive T Lymphocytes,Antibodies,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C0003253,PRODUCES,CD4 Positive T Lymphocytes,"Antibodies, Viral",cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1201,7 +1201,7 @@ C0039215,C0254616,PRODUCES,CD4 Positive T Lymphocytes,integrin alpha1beta1,cell,
 C0039215,C0282056,PRODUCES,CD4 Positive T Lymphocytes,"Antibodies, Anti-DNA",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C0282554,PRODUCES,CD4 Positive T Lymphocytes,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C0596709,PRODUCES,CD4 Positive T Lymphocytes,HIV envelope protein,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0039215,C0962190,PRODUCES,CD4 Positive T Lymphocytes,interleukin-21,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0039215,C0962190,PRODUCES,CD4 Positive T Lymphocytes,interleukin-21,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C1332421,PRODUCES,CD4 Positive T Lymphocytes,CXCR5 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C1333877,PRODUCES,CD4 Positive T Lymphocytes,Granzymes,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0039215,C1334078,PRODUCES,CD4 Positive T Lymphocytes,IFITM1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1442,12 +1442,12 @@ C0225336,C0022709,PRODUCES,Endothelial Cells,Peptidyl-Dipeptidase A,cell,aapp,1,
 C0225336,C0034813,PRODUCES,Endothelial Cells,Histamine Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0040018,PRODUCES,Endothelial Cells,Thrombin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0040048,PRODUCES,Endothelial Cells,Thromboplastin,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0225336,C0042666,PRODUCES,Endothelial Cells,Vimentin,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0225336,C0042666,PRODUCES,Endothelial Cells,Vimentin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0042736,PRODUCES,Endothelial Cells,Viral Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0042971,PRODUCES,Endothelial Cells,von Willebrand factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0059249,PRODUCES,Endothelial Cells,annexin A5,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0062505,PRODUCES,Endothelial Cells,heparanase,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0225336,C0063695,PRODUCES,Endothelial Cells,Intercellular adhesion molecule 1,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0225336,C0063695,PRODUCES,Endothelial Cells,Intercellular adhesion molecule 1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0065684,PRODUCES,Endothelial Cells,mannose receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0078056,PRODUCES,Endothelial Cells,Vascular Cell Adhesion Molecule-1,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225336,C0079189,PRODUCES,Endothelial Cells,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1498,7 +1498,7 @@ C0225700,C0009325,PRODUCES,Type-II Pneumocytes,Collagen,cell,aapp,1,PRODUCES_CEL
 C0225700,C0015980,PRODUCES,Type-II Pneumocytes,Interferon-beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225700,C0023206,PRODUCES,Type-II Pneumocytes,Lectin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225700,C0063695,PRODUCES,Type-II Pneumocytes,Intercellular adhesion molecule 1,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0225700,C0072600,PRODUCES,Type-II Pneumocytes,Pulmonary Surfactant-Associated Proteins,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0225700,C0072600,PRODUCES,Type-II Pneumocytes,Pulmonary Surfactant-Associated Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225700,C0079189,PRODUCES,Type-II Pneumocytes,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225700,C0079460,PRODUCES,Type-II Pneumocytes,Granulocyte-Macrophage Colony-Stimulating Factor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0225700,C0084692,PRODUCES,Type-II Pneumocytes,Pulmonary Surfactant-Associated Protein D,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1511,12 +1511,12 @@ C0227276,C0057256,PRODUCES,Paneth Cells,Defensins,cell,aapp,1,PRODUCES_CELLprodA
 C0227276,C1334033,PRODUCES,Paneth Cells,"HDAC5 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227276,C1413976,PRODUCES,Paneth Cells,DEFA5 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227276,C4084937,PRODUCES,Paneth Cells,Antimicrobial Peptide,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0227525,C0001347,PRODUCES,Hepatocyte,Acute-Phase Proteins,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0227525,C0001347,PRODUCES,Hepatocyte,Acute-Phase Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0003591,PRODUCES,Hepatocyte,Apolipoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0006560,PRODUCES,Hepatocyte,C-reactive protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0015980,PRODUCES,Hepatocyte,Interferon-beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0017968,PRODUCES,Hepatocyte,Glycoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0227525,C0018595,PRODUCES,Hepatocyte,Haptoglobins,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0227525,C0018595,PRODUCES,Hepatocyte,Haptoglobins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0021760,PRODUCES,Hepatocyte,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0024337,PRODUCES,Hepatocyte,Lysine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0227525,C0029297,PRODUCES,Hepatocyte,Orosomucoid,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1554,7 +1554,7 @@ C0242245,C0034805,PRODUCES,"Dendritic Cells, Follicular",Fc Receptor,cell,aapp,1
 C0242629,C0007428,PRODUCES,CD8-Positive T-Lymphocytes,Cathepsins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C0021701,PRODUCES,CD8-Positive T-Lymphocytes,Integrins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C0021740,PRODUCES,CD8-Positive T-Lymphocytes,Recombinant Interferon-gamma,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0242629,C0021747,PRODUCES,CD8-Positive T-Lymphocytes,Interferons,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0242629,C0021747,PRODUCES,CD8-Positive T-Lymphocytes,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C0021753,PRODUCES,CD8-Positive T-Lymphocytes,Interleukin-1 beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C0021756,PRODUCES,CD8-Positive T-Lymphocytes,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C0021758,PRODUCES,CD8-Positive T-Lymphocytes,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1606,7 +1606,7 @@ C0242629,C3538708,PRODUCES,CD8-Positive T-Lymphocytes,GZMB wt Allele,cell,aapp,1
 C0242629,C4039583,PRODUCES,CD8-Positive T-Lymphocytes,Chimeric antigen receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242629,C4048280,PRODUCES,CD8-Positive T-Lymphocytes,"T-Cell Surface Glycoprotein CD4, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242632,C0021747,PRODUCES,T-helper cell type 1,Interferons,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0242632,C0021756,PRODUCES,T-helper cell type 1,Interleukin-2,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0242632,C0021756,PRODUCES,T-helper cell type 1,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242632,C0021758,PRODUCES,T-helper cell type 1,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242632,C0051755,PRODUCES,T-helper cell type 1,Amphiregulin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0242632,C0079189,PRODUCES,T-helper cell type 1,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1688,7 +1688,7 @@ C0444746,C0010590,PRODUCES,Endocyte,Cycloserine,cell,aapp,1,PRODUCES_CELLprodAAP
 C0506994,C0017151,PRODUCES,Goblet Cells,Gastrins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0506994,C0017968,PRODUCES,Goblet Cells,Glycoproteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0506994,C0021755,PRODUCES,Goblet Cells,Interleukin-1,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0506994,C0026682,PRODUCES,Goblet Cells,Mucins,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0506994,C0026682,PRODUCES,Goblet Cells,Mucins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0506994,C1417497,PRODUCES,Goblet Cells,MUC5AC gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0506994,C1417498,PRODUCES,Goblet Cells,MUC5B gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0524983,C0017151,PRODUCES,Gastrin-Secreting Cells,Gastrins,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1821,7 +1821,7 @@ C0682639,C0079189,PRODUCES,Memory T-Lymphocyte,cytokine,cell,aapp,1,PRODUCES_CEL
 C0682639,C0524914,PRODUCES,Memory T-Lymphocyte,chemokine receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0682639,C1332700,PRODUCES,Memory T-Lymphocyte,CCR5 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0682639,C1418401,PRODUCES,Memory T-Lymphocyte,PDCD1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0682639,C1701790,PRODUCES,Memory T-Lymphocyte,"IL17A protein, human",cell,aapp,2,PRODUCES_CELLprodAAPP
+C0682639,C1701790,PRODUCES,Memory T-Lymphocyte,"IL17A protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0682694,C1421479,PRODUCES,Inhibitory interneuron,WASF1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0682701,C0282554,PRODUCES,Central neuron,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0806987,C0021758,PRODUCES,mononuclear cells,Interleukin-4,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1849,7 +1849,7 @@ C0883208,C0378910,PRODUCES,Lymphoma cells,Lymphocyte antigen CD66A,cell,aapp,1,P
 C0883208,C1334346,PRODUCES,Lymphoma cells,LMP1 EBV latent membrane protein,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0887899,C0021760,PRODUCES,Myeloid Cells,Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0887899,C0079189,PRODUCES,Myeloid Cells,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C0887899,C0085295,PRODUCES,Myeloid Cells,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C0887899,C0085295,PRODUCES,Myeloid Cells,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0887899,C1143976,PRODUCES,Myeloid Cells,"TREM2 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C0887899,C1424250,PRODUCES,Myeloid Cells,NLRP3 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C0887899,C1537663,PRODUCES,Myeloid Cells,MARCH8 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1916,7 +1916,7 @@ C1257975,C1420816,PRODUCES,Mesenchymal Stem Cells,TNFSF13B gene,cell,aapp,1,PROD
 C1267822,C0040690,PRODUCES,CD4+ CD25+ Regulatory T Cells,Transforming Growth Factor beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1267822,C0040691,PRODUCES,CD4+ CD25+ Regulatory T Cells,Transforming Growth Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1267822,C0079189,PRODUCES,CD4+ CD25+ Regulatory T Cells,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C1267822,C0085295,PRODUCES,CD4+ CD25+ Regulatory T Cells,Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C1267822,C0085295,PRODUCES,CD4+ CD25+ Regulatory T Cells,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1267822,C1414609,PRODUCES,CD4+ CD25+ Regulatory T Cells,FGL2 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1267822,C1700887,PRODUCES,CD4+ CD25+ Regulatory T Cells,"IL2RA protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C1267822,C3540595,PRODUCES,CD4+ CD25+ Regulatory T Cells,CD8A wt Allele,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -1934,7 +1934,7 @@ C1321301,C0021758,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-
 C1321301,C0021760,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-6,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1321301,C0040690,PRODUCES,Peripheral blood mononuclear cell (cell),Transforming Growth Factor beta,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1321301,C0079189,PRODUCES,Peripheral blood mononuclear cell (cell),cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C1321301,C0085295,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-10,cell,aapp,2,PRODUCES_CELLprodAAPP
+C1321301,C0085295,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1321301,C0085358,PRODUCES,Peripheral blood mononuclear cell (cell),CD8 Antigens,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1321301,C0123759,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-12,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1321301,C0214743,PRODUCES,Peripheral blood mononuclear cell (cell),Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -2021,8 +2021,8 @@ C1519715,C0021758,PRODUCES,Type II Epithelial Receptor Cell,Interleukin-4,cell,a
 C1519715,C0040648,PRODUCES,Type II Epithelial Receptor Cell,TRANSCRIPTION FACTOR,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1519715,C0079189,PRODUCES,Type II Epithelial Receptor Cell,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1519715,C0085295,PRODUCES,Type II Epithelial Receptor Cell,Interleukin-10,cell,aapp,1,PRODUCES_CELLprodAAPP
-C1519715,C0214743,PRODUCES,Type II Epithelial Receptor Cell,Interleukin-13,cell,aapp,2,PRODUCES_CELLprodAAPP
-C1519715,C1702088,PRODUCES,Type II Epithelial Receptor Cell,"IL5 protein, human",cell,aapp,2,PRODUCES_CELLprodAAPP
+C1519715,C0214743,PRODUCES,Type II Epithelial Receptor Cell,Interleukin-13,cell,aapp,1,PRODUCES_CELLprodAAPP
+C1519715,C1702088,PRODUCES,Type II Epithelial Receptor Cell,"IL5 protein, human",cell,aapp,1,PRODUCES_CELLprodAAPP
 C1522109,C0358321,PRODUCES,Leukocyte - Lymphocyte - B-Lymphocyte (MMHCC),Immune Globulin (Human),cell,aapp,1,PRODUCES_CELLprodAAPP
 C1522109,C1366487,PRODUCES,Leukocyte - Lymphocyte - B-Lymphocyte (MMHCC),FAP gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1522131,C0384648,PRODUCES,Leukocyte - Lymphocyte - T-Lymphocyte (MMHCC),Interleukin-17,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -2047,7 +2047,7 @@ C1711178,C0015502,PRODUCES,Bronchial Epithelial Cell,factor VII,cell,aapp,1,PROD
 C1711178,C0040691,PRODUCES,Bronchial Epithelial Cell,Transforming Growth Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1711178,C0051755,PRODUCES,Bronchial Epithelial Cell,Amphiregulin,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1711178,C0063695,PRODUCES,Bronchial Epithelial Cell,Intercellular adhesion molecule 1,cell,aapp,1,PRODUCES_CELLprodAAPP
-C1711178,C0079633,PRODUCES,Bronchial Epithelial Cell,Interleukin-8,cell,aapp,2,PRODUCES_CELLprodAAPP
+C1711178,C0079633,PRODUCES,Bronchial Epithelial Cell,Interleukin-8,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1711178,C0282554,PRODUCES,Bronchial Epithelial Cell,chemokine,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1711178,C1366516,PRODUCES,Bronchial Epithelial Cell,IRF1 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
 C1711178,C1414141,PRODUCES,Bronchial Epithelial Cell,DPP4 gene,cell,aapp,1,PRODUCES_CELLprodAAPP
@@ -2248,7 +2248,7 @@ C3496194,C0079459,PRODUCES,Epidermal cells,Granulocyte Colony-Stimulating Factor
 C3496194,C0120285,PRODUCES,Epidermal cells,Green Fluorescent Proteins,cell,aapp,1,PRODUCES_CELLprodAAPP
 C3641721,C0034790,PRODUCES,Naive T-Lymphocyte,T-Cell Receptor,cell,aapp,1,PRODUCES_CELLprodAAPP
 C3641721,C0079189,PRODUCES,Naive T-Lymphocyte,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP
-C3641722,C0021756,PRODUCES,Effector T-Lymphocyte,Interleukin-2,cell,aapp,2,PRODUCES_CELLprodAAPP
+C3641722,C0021756,PRODUCES,Effector T-Lymphocyte,Interleukin-2,cell,aapp,1,PRODUCES_CELLprodAAPP
 C3641722,C0041368,PRODUCES,Effector T-Lymphocyte,Tumor Necrosis Factors,cell,aapp,1,PRODUCES_CELLprodAAPP
 C3641722,C0061878,PRODUCES,Effector T-Lymphocyte,granzyme B,cell,aapp,1,PRODUCES_CELLprodAAPP
 C3641722,C0079189,PRODUCES,Effector T-Lymphocyte,cytokine,cell,aapp,1,PRODUCES_CELLprodAAPP

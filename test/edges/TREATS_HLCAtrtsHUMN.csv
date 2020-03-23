@@ -62,7 +62,7 @@ C0019993,C0206194,TREATS,Hospitalization,Survivors,hlca,humn,1,TREATS_HLCAtrtsHU
 C0019993,C0684030,TREATS,Hospitalization,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0019993,C0870602,TREATS,Hospitalization,geriatric patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0019993,C0870668,TREATS,Hospitalization,hospitalized patients,hlca,humn,1,TREATS_HLCAtrtsHUMN
-C0019993,C1999167,TREATS,Hospitalization,Old age,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0019993,C1999167,TREATS,Hospitalization,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0019993,C2348228,TREATS,Hospitalization,Source Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0019993,C2700280,TREATS,Hospitalization,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0019993,C2986530,TREATS,Hospitalization,Intervention Group,hlca,humn,1,TREATS_HLCAtrtsHUMN
@@ -124,7 +124,7 @@ C0150600,C1707496,TREATS,Advice,Consumer,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0162648,C2700280,TREATS,Telemedicine,World,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0184634,C0008059,TREATS,Ventilator care,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0184666,C0001675,TREATS,Hospital admission,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
-C0184666,C0008059,TREATS,Hospital admission,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0184666,C0008059,TREATS,Hospital admission,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0184666,C0021270,TREATS,Hospital admission,Infant,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0184666,C0025266,TREATS,Hospital admission,Male population group,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0184666,C0031831,TREATS,Hospital admission,Physicians,hlca,humn,1,TREATS_HLCAtrtsHUMN
@@ -140,7 +140,7 @@ C0204695,C0009932,TREATS,Feeding patient,Control Groups,hlca,humn,1,TREATS_HLCAt
 C0204695,C0021289,TREATS,Feeding patient,"Infant, Newborn",hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0205787,C1518563,TREATS,Health Campaigns,Older Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0206082,C0001675,TREATS,Immunization Programs,Adult,hlca,humn,1,TREATS_HLCAtrtsHUMN
-C0206082,C0008059,TREATS,Immunization Programs,Child,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C0206082,C0008059,TREATS,Immunization Programs,Child,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0206082,C0086418,TREATS,Immunization Programs,Homo sapiens,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0206082,C0684030,TREATS,Immunization Programs,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C0206082,C1999167,TREATS,Immunization Programs,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
@@ -356,7 +356,7 @@ C4505148,C0680888,TREATS,Vaccination Coverage,target group,hlca,humn,1,TREATS_HL
 C4505148,C0684030,TREATS,Vaccination Coverage,high-risk group,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C4505148,C1518563,TREATS,Vaccination Coverage,Older Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C4505148,C1704221,TREATS,Vaccination Coverage,"Physicians, Family",hlca,humn,1,TREATS_HLCAtrtsHUMN
-C4505148,C1999167,TREATS,Vaccination Coverage,Old age,hlca,humn,2,TREATS_HLCAtrtsHUMN
+C4505148,C1999167,TREATS,Vaccination Coverage,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C4505149,C0039309,TREATS,Immunization Coverage,Target Population,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C4505149,C1999167,TREATS,Immunization Coverage,Old age,hlca,humn,1,TREATS_HLCAtrtsHUMN
 C4505227,C0871463,TREATS,Early Goal-Directed Therapy,surgical patients,hlca,humn,1,TREATS_HLCAtrtsHUMN

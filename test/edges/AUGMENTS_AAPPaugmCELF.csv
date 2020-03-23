@@ -6,7 +6,7 @@ C0001271,C0014139,AUGMENTS,Actins,Endocytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001271,C0031308,AUGMENTS,Actins,Phagocytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001271,C3156642,AUGMENTS,Actins,clathrin-dependent endocytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001271,C3269125,AUGMENTS,Actins,ruffle assembly,aapp,celf,1,AUGMENTS_AAPPaugmCELF
-C0001271,C3271951,AUGMENTS,Actins,macropinocytosis,aapp,celf,2,AUGMENTS_AAPPaugmCELF
+C0001271,C3271951,AUGMENTS,Actins,macropinocytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001271,C4235041,AUGMENTS,Actins,blebbing,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001457,C1155065,AUGMENTS,ADENOSINE DEAMINASE,T-Cell Activation,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0001473,C0597601,AUGMENTS,Adenosine Triphosphatases,Transcytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
@@ -128,7 +128,7 @@ C0021032,C1155229,AUGMENTS,Immunoglobulin Fc Fragments,Humoral immune response,a
 C0021641,C0178666,AUGMENTS,Insulin,glucose transport,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0021641,C0597361,AUGMENTS,Insulin,Receptor Mediated Endocytosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0021641,C1256369,AUGMENTS,Insulin,insulin secretion,aapp,celf,1,AUGMENTS_AAPPaugmCELF
-C0021665,C0596290,AUGMENTS,Insulin-Like Growth Factor I,Cell Proliferation,aapp,celf,2,AUGMENTS_AAPPaugmCELF
+C0021665,C0596290,AUGMENTS,Insulin-Like Growth Factor I,Cell Proliferation,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0021665,C1817605,AUGMENTS,Insulin-Like Growth Factor I,oligodendrocyte development,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0021666,C1256369,AUGMENTS,insulin-like growth factor 2,insulin secretion,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0021701,C0007577,AUGMENTS,Integrins,Cell Adhesion,aapp,celf,1,AUGMENTS_AAPPaugmCELF
@@ -377,8 +377,8 @@ C0079405,C0162638,AUGMENTS,"Gene Products, vpr",Apoptosis,aapp,celf,1,AUGMENTS_A
 C0079419,C0004391,AUGMENTS,TP53 gene,Autophagy,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0079419,C0007581,AUGMENTS,TP53 gene,Cellular Senescence,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0079419,C0007586,AUGMENTS,TP53 gene,Cell Cycle,aapp,celf,1,AUGMENTS_AAPPaugmCELF
-C0079419,C0162638,AUGMENTS,TP53 gene,Apoptosis,aapp,celf,2,AUGMENTS_AAPPaugmCELF
-C0079419,C1155873,AUGMENTS,TP53 gene,Cell Cycle Arrest,aapp,celf,2,AUGMENTS_AAPPaugmCELF
+C0079419,C0162638,AUGMENTS,TP53 gene,Apoptosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
+C0079419,C1155873,AUGMENTS,TP53 gene,Cell Cycle Arrest,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0079419,C1155874,AUGMENTS,TP53 gene,Cell Cycle Checkpoints,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0079419,C1155876,AUGMENTS,TP53 gene,DNA replication checkpoint,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0079419,C3156665,AUGMENTS,TP53 gene,interleukin-6 secretion,aapp,celf,1,AUGMENTS_AAPPaugmCELF
@@ -445,7 +445,7 @@ C0121463,C0007620,AUGMENTS,"nucleocapsid protein, Hepatitis C virus",Cell Surviv
 C0121463,C0596290,AUGMENTS,"nucleocapsid protein, Hepatitis C virus",Cell Proliferation,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0123263,C0003272,AUGMENTS,"Receptors, IgG",Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0123759,C0037083,AUGMENTS,Interleukin-12,Signal Transduction,aapp,celf,1,AUGMENTS_AAPPaugmCELF
-C0123759,C1155080,AUGMENTS,Interleukin-12,T-helper 1 type immune response,aapp,celf,2,AUGMENTS_AAPPaugmCELF
+C0123759,C1155080,AUGMENTS,Interleukin-12,T-helper 1 type immune response,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0123759,C1318468,AUGMENTS,Interleukin-12,cell mediated immune response,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0132298,C1514121,AUGMENTS,neurotrophic factor,Nerve Cell Survival,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C0134835,C3156749,AUGMENTS,P-Selectin,neutrophil extravasation,aapp,celf,1,AUGMENTS_AAPPaugmCELF
@@ -1224,7 +1224,7 @@ C2826044,C0596290,AUGMENTS,MIR451 wt Allele,Cell Proliferation,aapp,celf,1,AUGME
 C2826044,C1622501,AUGMENTS,MIR451 wt Allele,"Migration, Cell",aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C2827382,C1156140,AUGMENTS,RPS6KB1 wt Allele,ribosome biogenesis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C2936529,C0003261,AUGMENTS,Inflammasomes,Antibody Formation,aapp,celf,1,AUGMENTS_AAPPaugmCELF
-C2936529,C0007587,AUGMENTS,Inflammasomes,Cell Death,aapp,celf,2,AUGMENTS_AAPPaugmCELF
+C2936529,C0007587,AUGMENTS,Inflammasomes,Cell Death,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C2936529,C0162638,AUGMENTS,Inflammasomes,Apoptosis,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C2936529,C1155263,AUGMENTS,Inflammasomes,T-helper 2 type immune response,aapp,celf,1,AUGMENTS_AAPPaugmCELF
 C2936529,C1327414,AUGMENTS,Inflammasomes,cytokine secretion,aapp,celf,1,AUGMENTS_AAPPaugmCELF

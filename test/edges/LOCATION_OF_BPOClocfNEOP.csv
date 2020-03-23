@@ -121,7 +121,7 @@ C0021853,C0238198,LOCATION_OF,Intestines,Gastrointestinal Stromal Tumors,bpoc,ne
 C0021853,C0596263,LOCATION_OF,Intestines,Carcinogenesis,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0021853,C0879615,LOCATION_OF,Intestines,Stromal Neoplasm,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0022646,C0006826,LOCATION_OF,Kidney,Malignant Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
-C0022646,C0007138,LOCATION_OF,Kidney,"Carcinoma, Transitional Cell",bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
+C0022646,C0007138,LOCATION_OF,Kidney,"Carcinoma, Transitional Cell",bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0022646,C0007621,LOCATION_OF,Kidney,Neoplastic Cell Transformation,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0022646,C0018923,LOCATION_OF,Kidney,Hemangiosarcoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0022646,C0024299,LOCATION_OF,Kidney,Lymphoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
@@ -159,8 +159,8 @@ C0023884,C1261473,LOCATION_OF,Liver,Sarcoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0023884,C1266129,LOCATION_OF,Liver,Atypical Lipoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0023884,C1336869,LOCATION_OF,Liver,Unresectable Malignant Neoplasm,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0023884,C1519689,LOCATION_OF,Liver,Tumor Promotion,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
-C0023884,C2239176,LOCATION_OF,Liver,Liver carcinoma,bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
-C0024109,C0001418,LOCATION_OF,Lung,Adenocarcinoma,bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
+C0023884,C2239176,LOCATION_OF,Liver,Liver carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
+C0024109,C0001418,LOCATION_OF,Lung,Adenocarcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0001430,LOCATION_OF,Lung,Adenoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0006826,LOCATION_OF,Lung,Malignant Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0007097,LOCATION_OF,Lung,Carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
@@ -183,7 +183,7 @@ C0024109,C0086692,LOCATION_OF,Lung,Benign Neoplasm,bpoc,neop,1,LOCATION_OF_BPOCl
 C0024109,C0205650,LOCATION_OF,Lung,Papillary adenoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0206704,LOCATION_OF,Lung,"Carcinoma, Large Cell",bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0235974,LOCATION_OF,Lung,Pancreatic carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
-C0024109,C0238258,LOCATION_OF,Lung,Lymphangitis carcinomatosa,bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
+C0024109,C0238258,LOCATION_OF,Lung,Lymphangitis carcinomatosa,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0242379,LOCATION_OF,Lung,Malignant neoplasm of lung,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0262584,LOCATION_OF,Lung,"Carcinoma, Small Cell",bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024109,C0302592,LOCATION_OF,Lung,Cervix carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
@@ -209,7 +209,7 @@ C0024204,C0027651,LOCATION_OF,lymph nodes,Neoplasms,bpoc,neop,1,LOCATION_OF_BPOC
 C0024204,C0079744,LOCATION_OF,lymph nodes,Diffuse Large B-Cell Lymphoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024204,C0936223,LOCATION_OF,lymph nodes,Metastatic Prostate Carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024204,C2939419,LOCATION_OF,lymph nodes,Secondary Neoplasm,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
-C0024687,C0027651,LOCATION_OF,Mandible,Neoplasms,bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
+C0024687,C0027651,LOCATION_OF,Mandible,Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0024947,C0027651,LOCATION_OF,Maxilla,Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0026639,C0007097,LOCATION_OF,Oral mucous membrane structure,Carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0027442,C0006826,LOCATION_OF,Nasopharynx,Malignant Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
@@ -404,7 +404,7 @@ C0459385,C0027651,LOCATION_OF,Brain tissue,Neoplasms,bpoc,neop,1,LOCATION_OF_BPO
 C0475358,C0006826,LOCATION_OF,Tumor tissue sample,Malignant Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0475358,C0007117,LOCATION_OF,Tumor tissue sample,Basal cell carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0475358,C0007129,LOCATION_OF,Tumor tissue sample,Merkel cell carcinoma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
-C0475358,C0027651,LOCATION_OF,Tumor tissue sample,Neoplasms,bpoc,neop,2,LOCATION_OF_BPOClocfNEOP
+C0475358,C0027651,LOCATION_OF,Tumor tissue sample,Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0475358,C0037286,LOCATION_OF,Tumor tissue sample,Skin Neoplasms,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0475358,C0205770,LOCATION_OF,Tumor tissue sample,Choroid Plexus Papilloma,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP
 C0475358,C0280100,LOCATION_OF,Tumor tissue sample,Solid Neoplasm,bpoc,neop,1,LOCATION_OF_BPOClocfNEOP

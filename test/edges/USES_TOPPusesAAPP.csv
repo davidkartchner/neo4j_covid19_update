@@ -7,7 +7,7 @@ C0001560,C0030346,USES,"Administration, Intranasal",Papain,topp,aapp,1,USES_TOPP
 C0001560,C0084692,USES,"Administration, Intranasal",Pulmonary Surfactant-Associated Protein D,topp,aapp,1,USES_TOPPusesAAPP
 C0001560,C0299583,USES,"Administration, Intranasal",leptin,topp,aapp,1,USES_TOPPusesAAPP
 C0001560,C0887910,USES,"Administration, Intranasal",Virosomes,topp,aapp,1,USES_TOPPusesAAPP
-C0001563,C0002199,USES,"Administration, Oral",Interferon-alpha,topp,aapp,2,USES_TOPPusesAAPP
+C0001563,C0002199,USES,"Administration, Oral",Interferon-alpha,topp,aapp,1,USES_TOPPusesAAPP
 C0001563,C0008356,USES,"Administration, Oral",Cholera Toxin,topp,aapp,1,USES_TOPPusesAAPP
 C0001563,C0021027,USES,"Administration, Oral",Immunoglobulins,topp,aapp,1,USES_TOPPusesAAPP
 C0001563,C0021747,USES,"Administration, Oral",Interferons,topp,aapp,1,USES_TOPPusesAAPP
@@ -199,12 +199,12 @@ C0020974,C0020960,USES,passive immunization procedure,Immune Sera,topp,aapp,1,US
 C0020974,C0021027,USES,passive immunization procedure,Immunoglobulins,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0034861,USES,passive immunization procedure,Recombinant Proteins,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0051979,USES,passive immunization procedure,anti-IgG,topp,aapp,1,USES_TOPPusesAAPP
-C0020974,C0063355,USES,passive immunization procedure,IgY,topp,aapp,2,USES_TOPPusesAAPP
+C0020974,C0063355,USES,passive immunization procedure,IgY,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0301503,USES,passive immunization procedure,"rabies immune globulin, human",topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0443640,USES,passive immunization procedure,Specific antibody,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0443938,USES,passive immunization procedure,Ku antibody,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C0475463,USES,passive immunization procedure,"Antibodies, Neutralizing",topp,aapp,1,USES_TOPPusesAAPP
-C0020974,C0672596,USES,passive immunization procedure,palivizumab,topp,aapp,2,USES_TOPPusesAAPP
+C0020974,C0672596,USES,passive immunization procedure,palivizumab,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C1445860,USES,passive immunization procedure,Protein antibody,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C1624602,USES,passive immunization procedure,Anti-Antibodies,topp,aapp,1,USES_TOPPusesAAPP
 C0020974,C4078046,USES,passive immunization procedure,MEDI4893,topp,aapp,1,USES_TOPPusesAAPP
@@ -1093,8 +1093,8 @@ C1511790,C0001271,USES,Detection,Actins,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0002059,USES,Detection,Alkaline Phosphatase,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0002199,USES,Detection,Interferon-alpha,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0003241,USES,Detection,Antibodies,topp,aapp,1,USES_TOPPusesAAPP
-C1511790,C0003242,USES,Detection,"Antibodies, Anti-Idiotypic",topp,aapp,2,USES_TOPPusesAAPP
-C1511790,C0003250,USES,Detection,Monoclonal Antibodies,topp,aapp,2,USES_TOPPusesAAPP
+C1511790,C0003242,USES,Detection,"Antibodies, Anti-Idiotypic",topp,aapp,1,USES_TOPPusesAAPP
+C1511790,C0003250,USES,Detection,Monoclonal Antibodies,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0004358,USES,Detection,Autoantibodies,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0005186,USES,Detection,beta-Actin,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0006560,USES,Detection,C-reactive protein,topp,aapp,1,USES_TOPPusesAAPP
@@ -1136,7 +1136,7 @@ C1511790,C0040646,USES,Detection,Transcriptase,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0041236,USES,Detection,TRYPSIN,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0041348,USES,Detection,Tubulin,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0042736,USES,Detection,Viral Proteins,topp,aapp,1,USES_TOPPusesAAPP
-C1511790,C0051979,USES,Detection,anti-IgG,topp,aapp,2,USES_TOPPusesAAPP
+C1511790,C0051979,USES,Detection,anti-IgG,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0054757,USES,Detection,carboxypeptidase H,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0054871,USES,Detection,Cathepsin L,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C0055633,USES,Detection,Chromogranin A,topp,aapp,1,USES_TOPPusesAAPP
@@ -1270,7 +1270,7 @@ C1511790,C1540056,USES,Detection,TRIM21 gene,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1540290,USES,Detection,CD200R1 gene,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1564907,USES,Detection,"Receptors, Pattern Recognition",topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1612111,USES,Detection,human MUC1 protein,topp,aapp,1,USES_TOPPusesAAPP
-C1511790,C1624602,USES,Detection,Anti-Antibodies,topp,aapp,2,USES_TOPPusesAAPP
+C1511790,C1624602,USES,Detection,Anti-Antibodies,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1705508,USES,Detection,AVPR2 wt Allele,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1706005,USES,Detection,CD40LG wt Allele,topp,aapp,1,USES_TOPPusesAAPP
 C1511790,C1706012,USES,Detection,TREX1 wt Allele,topp,aapp,1,USES_TOPPusesAAPP

@@ -95,7 +95,7 @@ C0017278,C1156309,CAUSES,"Gene Products, env",syncytium formation by plasma memb
 C0017278,C1817908,CAUSES,"Gene Products, env",Cellular Immune Response,aapp,celf,1,CAUSES_AAPPcausCELF
 C0017278,C3546359,CAUSES,"Gene Products, env",pro-apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0017278,C3820832,CAUSES,"Gene Products, env",virion budding,aapp,celf,1,CAUSES_AAPPcausCELF
-C0017687,C0004391,CAUSES,Glucagon,Autophagy,aapp,celf,2,CAUSES_AAPPcausCELF
+C0017687,C0004391,CAUSES,Glucagon,Autophagy,aapp,celf,1,CAUSES_AAPPcausCELF
 C0017757,C0596290,CAUSES,Glucosephosphate Dehydrogenase,Cell Proliferation,aapp,celf,1,CAUSES_AAPPcausCELF
 C0017757,C1657987,CAUSES,Glucosephosphate Dehydrogenase,neuron development,aapp,celf,1,CAUSES_AAPPcausCELF
 C0017789,C2754100,CAUSES,Glutamates,neuron death,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -128,7 +128,7 @@ C0021699,C0162638,CAUSES,Integral Membrane Proteins,Apoptosis,aapp,celf,1,CAUSES
 C0021699,C0598838,CAUSES,Integral Membrane Proteins,membrane assembly,aapp,celf,1,CAUSES_AAPPcausCELF
 C0021699,C4328963,CAUSES,Integral Membrane Proteins,membrane bending,aapp,celf,1,CAUSES_AAPPcausCELF
 C0021701,C0007577,CAUSES,Integrins,Cell Adhesion,aapp,celf,1,CAUSES_AAPPcausCELF
-C0021701,C0037083,CAUSES,Integrins,Signal Transduction,aapp,celf,2,CAUSES_AAPPcausCELF
+C0021701,C0037083,CAUSES,Integrins,Signal Transduction,aapp,celf,1,CAUSES_AAPPcausCELF
 C0021701,C1155002,CAUSES,Integrins,endothelial cell activation,aapp,celf,1,CAUSES_AAPPcausCELF
 C0021740,C0037083,CAUSES,Recombinant Interferon-gamma,Signal Transduction,aapp,celf,1,CAUSES_AAPPcausCELF
 C0021743,C0007587,CAUSES,Interferon Type I,Cell Death,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -362,7 +362,7 @@ C0079419,C1155873,CAUSES,TP53 gene,Cell Cycle Arrest,aapp,celf,1,CAUSES_AAPPcaus
 C0079419,C3156633,CAUSES,TP53 gene,hepatocyte proliferation,aapp,celf,1,CAUSES_AAPPcausCELF
 C0079419,C3548493,CAUSES,TP53 gene,mitochondrial outer membrane permeabilization,aapp,celf,1,CAUSES_AAPPcausCELF
 C0079423,C0007587,CAUSES,"Genes, vpr",Cell Death,aapp,celf,1,CAUSES_AAPPcausCELF
-C0079423,C0162638,CAUSES,"Genes, vpr",Apoptosis,aapp,celf,2,CAUSES_AAPPcausCELF
+C0079423,C0162638,CAUSES,"Genes, vpr",Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0079459,C2611812,CAUSES,Granulocyte Colony-Stimulating Factor,signaling cascade,aapp,celf,1,CAUSES_AAPPcausCELF
 C0079460,C0162638,CAUSES,Granulocyte-Macrophage Colony-Stimulating Factor,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0079460,C1155064,CAUSES,Granulocyte-Macrophage Colony-Stimulating Factor,NK Cell Activation,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -472,7 +472,7 @@ C0255813,C0007587,CAUSES,"Receptors, Tumor Necrosis Factor, Type II",Cell Death,
 C0258441,C0162638,CAUSES,TNF receptor-associated factor 2,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0259419,C0162638,CAUSES,caspase-2,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0282552,C0008018,CAUSES,beta-Chemokines,Chemotaxis,aapp,celf,1,CAUSES_AAPPcausCELF
-C0282554,C0008018,CAUSES,chemokine,Chemotaxis,aapp,celf,2,CAUSES_AAPPcausCELF
+C0282554,C0008018,CAUSES,chemokine,Chemotaxis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0282554,C0162638,CAUSES,chemokine,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0282554,C0596233,CAUSES,chemokine,release of sequestered calcium ion into cytoplasm,aapp,celf,1,CAUSES_AAPPcausCELF
 C0282554,C1155229,CAUSES,chemokine,Humoral immune response,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -488,7 +488,7 @@ C0289012,C0162638,CAUSES,TNF Receptor-Associated Death Domain Protein,Apoptosis,
 C0291573,C0007587,CAUSES,caspase-3,Cell Death,aapp,celf,1,CAUSES_AAPPcausCELF
 C0291573,C0007620,CAUSES,caspase-3,Cell Survival,aapp,celf,1,CAUSES_AAPPcausCELF
 C0291573,C0010813,CAUSES,caspase-3,Cytokinesis,aapp,celf,1,CAUSES_AAPPcausCELF
-C0291573,C0162638,CAUSES,caspase-3,Apoptosis,aapp,celf,2,CAUSES_AAPPcausCELF
+C0291573,C0162638,CAUSES,caspase-3,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0295247,C1155065,CAUSES,sialic acid receptor,T-Cell Activation,aapp,celf,1,CAUSES_AAPPcausCELF
 C0296346,C0162638,CAUSES,Fas-Associated Death Domain Protein,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C0297981,C0162638,CAUSES,"RIPK1 protein, human",Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -667,7 +667,7 @@ C1142652,C1514758,CAUSES,"NR4A2 protein, human",Receptor Activation Process,aapp
 C1143949,C0004391,CAUSES,"TNFSF10 protein, human",Autophagy,aapp,celf,1,CAUSES_AAPPcausCELF
 C1143949,C0007587,CAUSES,"TNFSF10 protein, human",Cell Death,aapp,celf,1,CAUSES_AAPPcausCELF
 C1143949,C0010813,CAUSES,"TNFSF10 protein, human",Cytokinesis,aapp,celf,1,CAUSES_AAPPcausCELF
-C1143949,C0162638,CAUSES,"TNFSF10 protein, human",Apoptosis,aapp,celf,2,CAUSES_AAPPcausCELF
+C1143949,C0162638,CAUSES,"TNFSF10 protein, human",Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C1143949,C2610958,CAUSES,"TNFSF10 protein, human",necroptotic process,aapp,celf,1,CAUSES_AAPPcausCELF
 C1143949,C2611812,CAUSES,"TNFSF10 protein, human",signaling cascade,aapp,celf,1,CAUSES_AAPPcausCELF
 C1143976,C0037083,CAUSES,"TREM2 protein, human",Signal Transduction,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -1135,7 +1135,7 @@ C1864770,C0162638,CAUSES,MAVS gene,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C1864770,C1622858,CAUSES,MAVS gene,apoptosis signaling,aapp,celf,1,CAUSES_AAPPcausCELF
 C1864770,C1720920,CAUSES,MAVS gene,"Membrane Potential, Mitochondrial",aapp,celf,1,CAUSES_AAPPcausCELF
 C1864770,C2611812,CAUSES,MAVS gene,signaling cascade,aapp,celf,1,CAUSES_AAPPcausCELF
-C1864770,C3269135,CAUSES,MAVS gene,apoptotic signaling pathway,aapp,celf,2,CAUSES_AAPPcausCELF
+C1864770,C3269135,CAUSES,MAVS gene,apoptotic signaling pathway,aapp,celf,1,CAUSES_AAPPcausCELF
 C1865043,C2611772,CAUSES,ATG12 gene,autophagosome assembly,aapp,celf,1,CAUSES_AAPPcausCELF
 C1870006,C1326169,CAUSES,"PTPRC protein, human",microglial cell activation,aapp,celf,1,CAUSES_AAPPcausCELF
 C1870006,C1327414,CAUSES,"PTPRC protein, human",cytokine secretion,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -1170,7 +1170,7 @@ C2934329,C1155080,CAUSES,"S-(2,3-bispalmitoyloxypropyl)-cysteinyl-amido-monometh
 C2936243,C0162638,CAUSES,Cell-Penetrating Peptides,Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C2936441,C2611772,CAUSES,Class III Phosphatidylinositol 3-Kinases,autophagosome assembly,aapp,celf,1,CAUSES_AAPPcausCELF
 C2936529,C0007587,CAUSES,Inflammasomes,Cell Death,aapp,celf,1,CAUSES_AAPPcausCELF
-C2936529,C0010813,CAUSES,Inflammasomes,Cytokinesis,aapp,celf,2,CAUSES_AAPPcausCELF
+C2936529,C0010813,CAUSES,Inflammasomes,Cytokinesis,aapp,celf,1,CAUSES_AAPPcausCELF
 C2936529,C1256369,CAUSES,Inflammasomes,insulin secretion,aapp,celf,1,CAUSES_AAPPcausCELF
 C2936529,C2610960,CAUSES,Inflammasomes,Pyroptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C2945724,C1156309,CAUSES,f-protein,syncytium formation by plasma membrane fusion,aapp,celf,1,CAUSES_AAPPcausCELF
@@ -1210,7 +1210,7 @@ C3642279,C0004391,CAUSES,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,
 C3642462,C1720920,CAUSES,F2 Gene Product,"Membrane Potential, Mitochondrial",aapp,celf,1,CAUSES_AAPPcausCELF
 C3710914,C0004391,CAUSES,"EIF2AK2 protein, human",Autophagy,aapp,celf,1,CAUSES_AAPPcausCELF
 C3710914,C0037083,CAUSES,"EIF2AK2 protein, human",Signal Transduction,aapp,celf,1,CAUSES_AAPPcausCELF
-C3710914,C0162638,CAUSES,"EIF2AK2 protein, human",Apoptosis,aapp,celf,2,CAUSES_AAPPcausCELF
+C3710914,C0162638,CAUSES,"EIF2AK2 protein, human",Apoptosis,aapp,celf,1,CAUSES_AAPPcausCELF
 C3710914,C1157569,CAUSES,"EIF2AK2 protein, human",viral translation,aapp,celf,1,CAUSES_AAPPcausCELF
 C3711684,C1159455,CAUSES,"S protein, severe acute respiratory syndrome coronavirus",syncytium formation,aapp,celf,1,CAUSES_AAPPcausCELF
 C3810883,C1622501,CAUSES,MIR503HG gene,"Migration, Cell",aapp,celf,1,CAUSES_AAPPcausCELF

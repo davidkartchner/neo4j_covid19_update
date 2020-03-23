@@ -279,14 +279,14 @@ C0063264,C0034693,TREATS,Cisplatin/Doxorubicin/Ifosfamide protocol,Rattus norveg
 C0065764,C0025919,TREATS,bleomycin/cisplatin/methotrexate protocol,"Mice, Inbred BALB C",topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0065764,C0026809,TREATS,bleomycin/cisplatin/methotrexate protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0068899,C0026809,TREATS,NOAC protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
-C0068899,C0034693,TREATS,NOAC protocol,Rattus norvegicus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0068899,C0034693,TREATS,NOAC protocol,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0071973,C0026809,TREATS,Ifosfamide/Methotrexate/Procarbazine protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0079613,C0026809,TREATS,Adoptive Immunotherapy,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0083765,C0007450,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0083765,C0026809,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0086153,C0012984,TREATS,Dietary Modification,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0086153,C0324336,TREATS,Dietary Modification,Collie,topp,mamm,1,TREATS_TOPPtrtsMAMM
-C0086330,C0012984,TREATS,Gamma Knife Radiosurgery,Canis familiaris,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0086330,C0012984,TREATS,Gamma Knife Radiosurgery,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0149615,C0026809,TREATS,Allogeneic bone marrow transplantation,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0149783,C0012984,TREATS,Steroid therapy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0150238,C0034693,TREATS,Fluid resuscitation,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
@@ -328,7 +328,7 @@ C0192616,C0012984,TREATS,Partial excision of small intestine,Canis familiaris,to
 C0193398,C0034693,TREATS,Partial hepatectomy,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0194053,C0007450,TREATS,Kidney operation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0194209,C0007450,TREATS,Ureter operation,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
-C0194211,C0007450,TREATS,Incision of ureter,Felis catus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C0194211,C0007450,TREATS,Incision of ureter,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0195499,C0007450,TREATS,Ovariohysterectomy,Felis catus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0195499,C0012984,TREATS,Ovariohysterectomy,Canis familiaris,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C0199176,C0006801,TREATS,Prophylactic treatment,Camels,topp,mamm,1,TREATS_TOPPtrtsMAMM
@@ -549,7 +549,7 @@ C1511790,C0026413,TREATS,Detection,Herpestidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0026447,TREATS,Detection,Monkeys,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0026809,TREATS,Detection,Mus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0033147,TREATS,Detection,Primates,topp,mamm,1,TREATS_TOPPtrtsMAMM
-C1511790,C0034693,TREATS,Detection,Rattus norvegicus,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C1511790,C0034693,TREATS,Detection,Rattus norvegicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0035804,TREATS,Detection,Rodent,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0035950,TREATS,Detection,Ruminants,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C0039005,TREATS,Detection,Family suidae,topp,mamm,1,TREATS_TOPPtrtsMAMM
@@ -564,7 +564,7 @@ C1511790,C0599885,TREATS,Detection,marine Mammalia,topp,mamm,1,TREATS_TOPPtrtsMA
 C1511790,C0684075,TREATS,Detection,Adult female pig having farrowed,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C1086889,TREATS,Detection,Rhinolophus sinicus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C1123019,TREATS,Detection,Domestic Sheep,topp,mamm,1,TREATS_TOPPtrtsMAMM
-C1511790,C1135183,TREATS,Detection,Sus scrofa,topp,mamm,2,TREATS_TOPPtrtsMAMM
+C1511790,C1135183,TREATS,Detection,Sus scrofa,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C1265469,TREATS,Detection,Rhinolophus,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C2764300,TREATS,Detection,Triaenops afer,topp,mamm,1,TREATS_TOPPtrtsMAMM
 C1511790,C3669692,TREATS,Detection,Young housecat,topp,mamm,1,TREATS_TOPPtrtsMAMM

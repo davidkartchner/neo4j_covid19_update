@@ -19,7 +19,7 @@ C0004611,C0010674,ASSOCIATED_WITH,Bacteria,Cystic Fibrosis,bact,dsyn,1,ASSOCIATE
 C0004611,C0011847,ASSOCIATED_WITH,Bacteria,Diabetes,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0014335,ASSOCIATED_WITH,Bacteria,Enteritis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0016513,ASSOCIATED_WITH,Bacteria,Foot Rot,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0004611,C0017160,ASSOCIATED_WITH,Bacteria,Gastroenteritis,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0004611,C0017160,ASSOCIATED_WITH,Bacteria,Gastroenteritis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0020498,ASSOCIATED_WITH,Bacteria,"Hyperostosis, Diffuse Idiopathic Skeletal",bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0021831,ASSOCIATED_WITH,Bacteria,Intestinal Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0024117,ASSOCIATED_WITH,Bacteria,Chronic Obstructive Airway Disease,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -28,7 +28,7 @@ C0004611,C0029118,ASSOCIATED_WITH,Bacteria,Opportunistic Infections,bact,dsyn,1,
 C0004611,C0029882,ASSOCIATED_WITH,Bacteria,Otitis Media,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0029883,ASSOCIATED_WITH,Bacteria,Otitis Media with Effusion,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0030636,ASSOCIATED_WITH,Bacteria,Pasteurella Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0004611,C0032285,ASSOCIATED_WITH,Bacteria,Pneumonia,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0004611,C0032285,ASSOCIATED_WITH,Bacteria,Pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0035204,ASSOCIATED_WITH,Bacteria,Respiration Disorders,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0035243,ASSOCIATED_WITH,Bacteria,Respiratory Tract Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0004611,C0036690,ASSOCIATED_WITH,Bacteria,Septicemia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -91,9 +91,9 @@ C0006813,C0001175,ASSOCIATED_WITH,Campylobacter,Acquired Immunodeficiency Syndro
 C0006813,C0019693,ASSOCIATED_WITH,Campylobacter,HIV Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008148,C0008149,ASSOCIATED_WITH,Chlamydia,Chlamydia Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008148,C0008679,ASSOCIATED_WITH,Chlamydia,Chronic disease,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0008148,C0085435,ASSOCIATED_WITH,Chlamydia,"Arthritis, Reactive",bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0008148,C0085435,ASSOCIATED_WITH,Chlamydia,"Arthritis, Reactive",bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008148,C0275524,ASSOCIATED_WITH,Chlamydia,Coinfection,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0008148,C0949690,ASSOCIATED_WITH,Chlamydia,Spondylarthritis,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0008148,C0949690,ASSOCIATED_WITH,Chlamydia,Spondylarthritis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008151,C0008679,ASSOCIATED_WITH,Chlamydia trachomatis,Chronic disease,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008152,C0275524,ASSOCIATED_WITH,Chlamydiaceae,Coinfection,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0008862,C0021831,ASSOCIATED_WITH,Citrobacter,Intestinal Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -150,7 +150,7 @@ C0023237,C0032285,ASSOCIATED_WITH,Legionella,Pneumonia,bact,dsyn,1,ASSOCIATED_WI
 C0023238,C0023241,ASSOCIATED_WITH,Legionella pneumophila,Legionnaires' Disease,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026922,C0011847,ASSOCIATED_WITH,Mycobacterium leprae,Diabetes,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026926,C0021400,ASSOCIATED_WITH,Mycobacterium tuberculosis,Influenza,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0026926,C0041296,ASSOCIATED_WITH,Mycobacterium tuberculosis,Tuberculosis,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0026926,C0041296,ASSOCIATED_WITH,Mycobacterium tuberculosis,Tuberculosis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026926,C0275524,ASSOCIATED_WITH,Mycobacterium tuberculosis,Coinfection,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026926,C0392164,ASSOCIATED_WITH,Mycobacterium tuberculosis,Pulmonary Cystic Fibrosis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026926,C0748168,ASSOCIATED_WITH,Mycobacterium tuberculosis,Pulmonary Pathology,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -162,7 +162,7 @@ C0026941,C0002878,ASSOCIATED_WITH,Mycoplasma pneumoniae,"Anemia, Hemolytic",bact
 C0026941,C0009443,ASSOCIATED_WITH,Mycoplasma pneumoniae,Common Cold,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026941,C0009450,ASSOCIATED_WITH,Mycoplasma pneumoniae,Communicable Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026941,C0029883,ASSOCIATED_WITH,Mycoplasma pneumoniae,Otitis Media with Effusion,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0026941,C0032285,ASSOCIATED_WITH,Mycoplasma pneumoniae,Pneumonia,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0026941,C0032285,ASSOCIATED_WITH,Mycoplasma pneumoniae,Pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026941,C0035243,ASSOCIATED_WITH,Mycoplasma pneumoniae,Respiratory Tract Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026941,C0042769,ASSOCIATED_WITH,Mycoplasma pneumoniae,Virus Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0026941,C0149725,ASSOCIATED_WITH,Mycoplasma pneumoniae,Lower respiratory tract infection,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -189,7 +189,7 @@ C0033809,C0006267,ASSOCIATED_WITH,Pseudomonas aeruginosa,Bronchiectasis,bact,dsy
 C0033809,C0009450,ASSOCIATED_WITH,Pseudomonas aeruginosa,Communicable Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0033809,C0010674,ASSOCIATED_WITH,Pseudomonas aeruginosa,Cystic Fibrosis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0033809,C0014518,ASSOCIATED_WITH,Pseudomonas aeruginosa,Toxic Epidermal Necrolysis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0033809,C0032285,ASSOCIATED_WITH,Pseudomonas aeruginosa,Pneumonia,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0033809,C0032285,ASSOCIATED_WITH,Pseudomonas aeruginosa,Pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0033809,C0205721,ASSOCIATED_WITH,Pseudomonas aeruginosa,"Infections, Hospital",bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0033809,C0694549,ASSOCIATED_WITH,Pseudomonas aeruginosa,Community acquired pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0035583,C0019159,ASSOCIATED_WITH,Rickettsia,Hepatitis A,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -204,7 +204,7 @@ C0037970,C0002395,ASSOCIATED_WITH,Spirochaeta genus,Alzheimer's Disease,bact,dsy
 C0038172,C0004096,ASSOCIATED_WITH,Staphylococcus aureus,Asthma,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038172,C0014009,ASSOCIATED_WITH,Staphylococcus aureus,Empyema,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038172,C0018203,ASSOCIATED_WITH,Staphylococcus aureus,Chronic granulomatous disease,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0038172,C0032285,ASSOCIATED_WITH,Staphylococcus aureus,Pneumonia,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0038172,C0032285,ASSOCIATED_WITH,Staphylococcus aureus,Pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038172,C0035204,ASSOCIATED_WITH,Staphylococcus aureus,Respiration Disorders,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038172,C0035235,ASSOCIATED_WITH,Staphylococcus aureus,Respiratory Syncytial Virus Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038172,C0035243,ASSOCIATED_WITH,Staphylococcus aureus,Respiratory Tract Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
@@ -226,17 +226,17 @@ C0038410,C0009450,ASSOCIATED_WITH,Streptococcus pneumoniae,Communicable Diseases
 C0038410,C0019061,ASSOCIATED_WITH,Streptococcus pneumoniae,Hemolytic-Uremic Syndrome,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0021400,ASSOCIATED_WITH,Streptococcus pneumoniae,Influenza,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0029883,ASSOCIATED_WITH,Streptococcus pneumoniae,Otitis Media with Effusion,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0038410,C0032285,ASSOCIATED_WITH,Streptococcus pneumoniae,Pneumonia,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0038410,C0032285,ASSOCIATED_WITH,Streptococcus pneumoniae,Pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0035243,ASSOCIATED_WITH,Streptococcus pneumoniae,Respiratory Tract Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0036690,ASSOCIATED_WITH,Streptococcus pneumoniae,Septicemia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0038410,C0042769,ASSOCIATED_WITH,Streptococcus pneumoniae,Virus Diseases,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0038410,C0042769,ASSOCIATED_WITH,Streptococcus pneumoniae,Virus Diseases,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0175778,ASSOCIATED_WITH,Streptococcus pneumoniae,Larsen syndrome,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0271428,ASSOCIATED_WITH,Streptococcus pneumoniae,Disorder of middle ear,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0271429,ASSOCIATED_WITH,Streptococcus pneumoniae,Acute otitis media,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0275524,ASSOCIATED_WITH,Streptococcus pneumoniae,Coinfection,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0339952,ASSOCIATED_WITH,Streptococcus pneumoniae,Secondary bacterial pneumonia,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C0948780,ASSOCIATED_WITH,Streptococcus pneumoniae,Rhinosinusitis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
-C0038410,C2062441,ASSOCIATED_WITH,Streptococcus pneumoniae,Influenza A,bact,dsyn,2,ASSOCIATED_WITH_BACTaswtDSYN
+C0038410,C2062441,ASSOCIATED_WITH,Streptococcus pneumoniae,Influenza A,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038410,C4054044,ASSOCIATED_WITH,Streptococcus pneumoniae,Secondary Hemophagocytic Lymphohistiocytosis,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038411,C0004623,ASSOCIATED_WITH,Streptococcus pyogenes,Bacterial Infections,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN
 C0038411,C0343532,ASSOCIATED_WITH,Streptococcus pyogenes,Streptococcal toxic shock syndrome,bact,dsyn,1,ASSOCIATED_WITH_BACTaswtDSYN

@@ -8,7 +8,7 @@ C0001551,C2986665,TREATS,Immunologic Adjuvants,Early-Stage Breast Carcinoma,imft
 C0003251,C0025202,TREATS,"Antibodies, Neoplasm",melanoma,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0021084,C0079773,TREATS,Immunotoxins,"Lymphoma, T-Cell, Cutaneous",imft,neop,1,TREATS_IMFTtrtsNEOP
 C0021403,C0006826,TREATS,Influenza virus vaccine,Malignant Neoplasms,imft,neop,1,TREATS_IMFTtrtsNEOP
-C0042210,C0006826,TREATS,Vaccines,Malignant Neoplasms,imft,neop,2,TREATS_IMFTtrtsNEOP
+C0042210,C0006826,TREATS,Vaccines,Malignant Neoplasms,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0042210,C0024793,TREATS,Vaccines,Marek Disease,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0042210,C0025202,TREATS,Vaccines,melanoma,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0042210,C0026764,TREATS,Vaccines,Multiple Myeloma,imft,neop,1,TREATS_IMFTtrtsNEOP
@@ -21,7 +21,7 @@ C0042211,C0153676,TREATS,"Vaccines, Attenuated",Secondary malignant neoplasm of 
 C0042212,C0006826,TREATS,"Vaccines, Inactivated",Malignant Neoplasms,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0078048,C0023418,TREATS,Chickenpox Vaccine,leukemia,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0281606,C0376358,TREATS,recombinant viral vaccine,Malignant neoplasm of prostate,imft,neop,1,TREATS_IMFTtrtsNEOP
-C0376613,C0006826,TREATS,"Vaccines, DNA",Malignant Neoplasms,imft,neop,2,TREATS_IMFTtrtsNEOP
+C0376613,C0006826,TREATS,"Vaccines, DNA",Malignant Neoplasms,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0376613,C0007847,TREATS,"Vaccines, DNA",Malignant tumor of cervix,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0376613,C0009402,TREATS,"Vaccines, DNA",Colorectal Carcinoma,imft,neop,1,TREATS_IMFTtrtsNEOP
 C0376613,C0024299,TREATS,"Vaccines, DNA",Lymphoma,imft,neop,1,TREATS_IMFTtrtsNEOP
@@ -42,7 +42,7 @@ C1516086,C0032463,TREATS,Attenuated Live Virus Vaccine,Polycythemia Vera,imft,ne
 C1541801,C0919976,TREATS,TroVax,renal cancer metastatic,imft,neop,1,TREATS_IMFTtrtsNEOP
 C1541801,C1328504,TREATS,TroVax,Hormone refractory prostate cancer,imft,neop,1,TREATS_IMFTtrtsNEOP
 C1706668,C0376358,TREATS,sipuleucel-T,Malignant neoplasm of prostate,imft,neop,1,TREATS_IMFTtrtsNEOP
-C1706668,C1328504,TREATS,sipuleucel-T,Hormone refractory prostate cancer,imft,neop,2,TREATS_IMFTtrtsNEOP
+C1706668,C1328504,TREATS,sipuleucel-T,Hormone refractory prostate cancer,imft,neop,1,TREATS_IMFTtrtsNEOP
 C2973446,C0019829,TREATS,brentuximab vedotin,Hodgkin Disease,imft,neop,1,TREATS_IMFTtrtsNEOP
 C2987378,C0001418,TREATS,"Anti-CEA BiTE Monoclonal Antibody MEDI-565, Human",Adenocarcinoma,imft,neop,1,TREATS_IMFTtrtsNEOP
 C2987378,C0006826,TREATS,"Anti-CEA BiTE Monoclonal Antibody MEDI-565, Human",Malignant Neoplasms,imft,neop,1,TREATS_IMFTtrtsNEOP

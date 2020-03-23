@@ -1,5 +1,5 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
-C0001175,C0024530,AFFECTS,Acquired Immunodeficiency Syndrome,Malaria,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0001175,C0024530,AFFECTS,Acquired Immunodeficiency Syndrome,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0001175,C0041296,AFFECTS,Acquired Immunodeficiency Syndrome,Tuberculosis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0001175,C0497169,AFFECTS,Acquired Immunodeficiency Syndrome,hiv-infection/aids,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0001175,C1262313,AFFECTS,Acquired Immunodeficiency Syndrome,Invasive Fungal Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
@@ -39,16 +39,16 @@ C0004610,C0729531,AFFECTS,Bacteremia,Viral respiratory infection,dsyn,dsyn,1,AFF
 C0004623,C0004096,AFFECTS,Bacterial Infections,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004623,C0009450,AFFECTS,Bacterial Infections,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004623,C0024115,AFFECTS,Bacterial Infections,Lung diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0004623,C0024117,AFFECTS,Bacterial Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0004623,C0024117,AFFECTS,Bacterial Infections,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004623,C0029342,AFFECTS,Bacterial Infections,Orthomyxoviridae Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0004623,C0032285,AFFECTS,Bacterial Infections,Pneumonia,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0004623,C0032285,AFFECTS,Bacterial Infections,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004623,C0041912,AFFECTS,Bacterial Infections,Upper Respiratory Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004623,C0042769,AFFECTS,Bacterial Infections,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0004626,C0004096,AFFECTS,"Pneumonia, Bacterial",Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006267,C0024117,AFFECTS,Bronchiectasis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006271,C0004096,AFFECTS,Bronchiolitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006271,C0024117,AFFECTS,Bronchiolitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0006271,C0032285,AFFECTS,Bronchiolitis,Pneumonia,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0006271,C0032285,AFFECTS,Bronchiolitis,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006277,C0004096,AFFECTS,Bronchitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006277,C0024117,AFFECTS,Bronchitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0006285,C0008679,AFFECTS,Bronchopneumonia,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
@@ -164,7 +164,7 @@ C0021051,C0024115,AFFECTS,Immunologic Deficiency Syndromes,Lung diseases,dsyn,ds
 C0021051,C0042769,AFFECTS,Immunologic Deficiency Syndromes,Virus Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0021053,C0007222,AFFECTS,Immune System Diseases,Cardiovascular Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0021053,C0027765,AFFECTS,Immune System Diseases,nervous system disorder,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0021400,C0004096,AFFECTS,Influenza,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0021400,C0004096,AFFECTS,Influenza,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0021400,C0004623,AFFECTS,Influenza,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0021400,C0008679,AFFECTS,Influenza,Chronic disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0021400,C0009443,AFFECTS,Influenza,Common Cold,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
@@ -253,7 +253,7 @@ C0031350,C0004096,AFFECTS,Pharyngitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0031350,C0024117,AFFECTS,Pharyngitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0032231,C0442886,AFFECTS,Pleurisy,Secondary Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0032269,C0275524,AFFECTS,Pneumococcal Infections,Coinfection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0032285,C0000786,AFFECTS,Pneumonia,Spontaneous abortion,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0032285,C0000786,AFFECTS,Pneumonia,Spontaneous abortion,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0032285,C0004096,AFFECTS,Pneumonia,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0032285,C0004623,AFFECTS,Pneumonia,Bacterial Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0032285,C0006271,AFFECTS,Pneumonia,Bronchiolitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
@@ -311,7 +311,7 @@ C0035920,C0009450,AFFECTS,Rubella,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYN
 C0036472,C0024530,AFFECTS,Scrub Typhus,Malaria,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0036690,C0009450,AFFECTS,Septicemia,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0036690,C2939465,AFFECTS,Septicemia,Deficiency of glucose-6-phosphate dehydrogenase,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0037199,C0004096,AFFECTS,Sinusitis,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0037199,C0004096,AFFECTS,Sinusitis,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0037199,C0024117,AFFECTS,Sinusitis,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0037199,C0149516,AFFECTS,Sinusitis,Chronic sinusitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0037354,C0021400,AFFECTS,Smallpox,Influenza,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
@@ -380,10 +380,10 @@ C0085786,C0009450,AFFECTS,Hamman-Rich syndrome,Communicable Diseases,dsyn,dsyn,1
 C0149516,C0948780,AFFECTS,Chronic sinusitis,Rhinosinusitis,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149678,C0679225,AFFECTS,Epstein-Barr Virus Infections,multiple pathologies,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149678,C0872054,AFFECTS,Epstein-Barr Virus Infections,latent infection,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0149725,C0004096,AFFECTS,Lower respiratory tract infection,Asthma,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0149725,C0004096,AFFECTS,Lower respiratory tract infection,Asthma,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149725,C0009443,AFFECTS,Lower respiratory tract infection,Common Cold,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149725,C0009450,AFFECTS,Lower respiratory tract infection,Communicable Diseases,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
-C0149725,C0024117,AFFECTS,Lower respiratory tract infection,Chronic Obstructive Airway Disease,dsyn,dsyn,2,AFFECTS_DSYNafctDSYN
+C0149725,C0024117,AFFECTS,Lower respiratory tract infection,Chronic Obstructive Airway Disease,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149725,C0032285,AFFECTS,Lower respiratory tract infection,Pneumonia,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149725,C0035204,AFFECTS,Lower respiratory tract infection,Respiration Disorders,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN
 C0149725,C0041912,AFFECTS,Lower respiratory tract infection,Upper Respiratory Infections,dsyn,dsyn,1,AFFECTS_DSYNafctDSYN

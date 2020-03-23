@@ -1,8 +1,8 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000970,C0009443,TREATS,Acetaminophen,Common Cold,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0000970,C0021400,TREATS,Acetaminophen,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0000970,C0021400,TREATS,Acetaminophen,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0000970,C0035243,TREATS,Acetaminophen,Respiratory Tract Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0000970,C0041912,TREATS,Acetaminophen,Upper Respiratory Infections,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0000970,C0041912,TREATS,Acetaminophen,Upper Respiratory Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0000970,C0149514,TREATS,Acetaminophen,Acute bronchitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0000970,C0740380,TREATS,Acetaminophen,varicella zoster,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0000970,C0749591,TREATS,Acetaminophen,tonsillopharyngitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -17,11 +17,11 @@ C0002144,C0011847,TREATS,Allopurinol,Diabetes,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002144,C0023281,TREATS,Allopurinol,Leishmaniasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002144,C0220988,TREATS,Allopurinol,Xanthinuria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002144,C0451641,TREATS,Allopurinol,Urolithiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0002335,C0035222,TREATS,Alprostadil,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0002335,C0035222,TREATS,Alprostadil,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002403,C0016627,TREATS,Amantadine,Influenza in Birds,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0002403,C0021400,TREATS,Amantadine,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0002403,C0021400,TREATS,Amantadine,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002403,C0029342,TREATS,Amantadine,Orthomyxoviridae Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0002403,C0030567,TREATS,Amantadine,Parkinson Disease,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0002403,C0030567,TREATS,Amantadine,Parkinson Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002403,C2062441,TREATS,Amantadine,Influenza A,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002502,C0018802,TREATS,Amiloride,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002502,C0020538,TREATS,Amiloride,Hypertensive disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -33,13 +33,13 @@ C0002556,C1719672,TREATS,Aminoglycosides,Severe Sepsis,orch,dsyn,1,TREATS_ORCHtr
 C0002598,C2039715,TREATS,Amiodarone,Systolic (congestive) heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002641,C1175175,TREATS,Amodiaquine,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0002641,C3694279,TREATS,Amodiaquine,Middle East Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0002697,C0018802,TREATS,Inamrinone,Congestive heart failure,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0002697,C0018802,TREATS,Inamrinone,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0009443,TREATS,Ascorbic Acid,Common Cold,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0011854,TREATS,Ascorbic Acid,"Diabetes Mellitus, Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0014038,TREATS,Ascorbic Acid,Encephalitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0019158,TREATS,Ascorbic Acid,Hepatitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0021400,TREATS,Ascorbic Acid,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0003968,C0035222,TREATS,Ascorbic Acid,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0003968,C0035222,TREATS,Ascorbic Acid,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C0042769,TREATS,Ascorbic Acid,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C1175175,TREATS,Ascorbic Acid,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0003968,C1719672,TREATS,Ascorbic Acid,Severe Sepsis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -80,25 +80,25 @@ C0007404,C1285162,TREATS,Catechin,Degenerative disorder,orch,dsyn,1,TREATS_ORCHt
 C0007404,C1290884,TREATS,Catechin,Inflammatory disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008196,C0010340,TREATS,Chlorhexidine,Critical Illness,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008241,C0024530,TREATS,Proguanil,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0003864,TREATS,Chloroquine,Arthritis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0008269,C0003864,TREATS,Chloroquine,Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0003873,TREATS,Chloroquine,Rheumatoid Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0004364,TREATS,Chloroquine,Autoimmune Diseases,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0008269,C0004364,TREATS,Chloroquine,Autoimmune Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0008055,TREATS,Chloroquine,Chikungunya Fever,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0019693,TREATS,Chloroquine,HIV Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0021400,TREATS,Chloroquine,Influenza,orch,dsyn,3,TREATS_ORCHtrtsDSYN
+C0008269,C0021400,TREATS,Chloroquine,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0024141,TREATS,Chloroquine,"Lupus Erythematosus, Systemic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0024530,TREATS,Chloroquine,Malaria,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0008269,C0024530,TREATS,Chloroquine,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0024537,TREATS,Chloroquine,"Malaria, Vivax",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0026848,TREATS,Chloroquine,Myopathy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0036203,TREATS,Chloroquine,Cutaneous sarcoidosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0042769,TREATS,Chloroquine,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0242917,TREATS,Chloroquine,Filoviridae Infections,orch,dsyn,3,TREATS_ORCHtrtsDSYN
+C0008269,C0242917,TREATS,Chloroquine,Filoviridae Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0263680,TREATS,Chloroquine,Chronic arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0272285,TREATS,Chloroquine,Heparin-induced thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0276289,TREATS,Chloroquine,Zika Virus Infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C0282687,TREATS,Chloroquine,"Hemorrhagic Fever, Ebola",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0008269,C0282687,TREATS,Chloroquine,"Hemorrhagic Fever, Ebola",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C0858320,TREATS,Chloroquine,Plasmodium ovale infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0008269,C1290884,TREATS,Chloroquine,Inflammatory disorder,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0008269,C1290884,TREATS,Chloroquine,Inflammatory disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C1290886,TREATS,Chloroquine,Chronic inflammatory disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C1719672,TREATS,Chloroquine,Severe Sepsis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0008269,C1855038,TREATS,Chloroquine,Hepatocellular necrosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -154,7 +154,7 @@ C0014479,C0041912,TREATS,Ephedrine,Upper Respiratory Infections,orch,dsyn,1,TREA
 C0014964,C0041296,TREATS,Ethambutol,Tuberculosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0014983,C4529962,TREATS,Ethanolamines,Fatty Liver Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0015133,C0040188,TREATS,Etoposide,Tic disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0016277,C0026946,TREATS,Fluconazole,Mycoses,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0016277,C0026946,TREATS,Fluconazole,Mycoses,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0016277,C0919659,TREATS,Fluconazole,oropharyngeal candidiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0016410,C0275518,TREATS,Folic Acid,Acute infectious disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0016860,C0018802,TREATS,Furosemide,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -163,15 +163,15 @@ C0016860,C0042384,TREATS,Furosemide,Vasculitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0016860,C0267458,TREATS,Furosemide,Pyogranulomatous enteritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0017245,C0021400,TREATS,Gemfibrozil,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0017718,C0004096,TREATS,Glucosamine,Asthma,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0017718,C0029408,TREATS,Glucosamine,Degenerative polyarthritis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0017718,C0029408,TREATS,Glucosamine,Degenerative polyarthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0017718,C0577625,TREATS,Glucosamine,Shellfish allergy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0017765,C0008679,TREATS,Glucosides,Chronic disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0017986,C0748168,TREATS,Glycyrrhetinic acid,Pulmonary Pathology,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0019139,C0751956,TREATS,"Heparin, Low-Molecular-Weight",Acute Cerebrovascular Accidents,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0020336,C0003873,TREATS,Hydroxychloroquine,Rheumatoid Arthritis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0020336,C0003873,TREATS,Hydroxychloroquine,Rheumatoid Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0020336,C0011633,TREATS,Hydroxychloroquine,Dermatomyositis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0020336,C0024141,TREATS,Hydroxychloroquine,"Lupus Erythematosus, Systemic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0020336,C0024530,TREATS,Hydroxychloroquine,Malaria,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0020336,C0024530,TREATS,Hydroxychloroquine,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0020336,C0035435,TREATS,Hydroxychloroquine,Rheumatism,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0020336,C0042769,TREATS,Hydroxychloroquine,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0020336,C0497169,TREATS,Hydroxychloroquine,hiv-infection/aids,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -180,13 +180,13 @@ C0020923,C1846721,TREATS,Imidazole,"Laryngeal Atresia, Encephalocele, and Limb D
 C0020928,C0004576,TREATS,imidocarb,Babesiosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0021236,C0021831,TREATS,indole,Intestinal Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0021236,C0339901,TREATS,indole,Acute respiratory infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0022209,C0041296,TREATS,isoniazid,Tuberculosis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0022209,C0041296,TREATS,isoniazid,Tuberculosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0022614,C0264490,TREATS,Ketamine,Acute respiratory failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0022614,C1145670,TREATS,Ketamine,Respiratory Failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0022643,C0004096,TREATS,Khellin,Asthma,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0022957,C0014836,TREATS,Lactulose,Escherichia coli Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0022957,C0019151,TREATS,Lactulose,Hepatic Encephalopathy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0023556,C0014544,TREATS,Levamisole,Epilepsy,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0023556,C0014544,TREATS,Levamisole,Epilepsy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0023660,C0400877,TREATS,Lidocaine,Postoperative ileus,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0023992,C0030446,TREATS,Loperamide,Paralytic Ileus,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0023992,C0040188,TREATS,Loperamide,Tic disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -204,15 +204,15 @@ C0025153,C3694279,TREATS,Mefloquine,Middle East Respiratory Syndrome,orch,dsyn,1
 C0025242,C0027765,TREATS,Memantine,nervous system disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025598,C0011847,TREATS,Metformin,Diabetes,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025598,C0011849,TREATS,Metformin,Diabetes Mellitus,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0025598,C0011860,TREATS,Metformin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
-C0025598,C0036690,TREATS,Metformin,Septicemia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0025598,C0011860,TREATS,Metformin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
+C0025598,C0036690,TREATS,Metformin,Septicemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025598,C0400966,TREATS,Metformin,Non-alcoholic Fatty Liver Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025677,C0003864,TREATS,Methotrexate,Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025677,C0003873,TREATS,Methotrexate,Rheumatoid Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0025677,C0033860,TREATS,Methotrexate,Psoriasis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0025677,C0033860,TREATS,Methotrexate,Psoriasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025677,C0036202,TREATS,Methotrexate,Sarcoidosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025746,C0024530,TREATS,Methylene blue,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0025746,C0025637,TREATS,Methylene blue,Methemoglobinemia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0025746,C0025637,TREATS,Methylene blue,Methemoglobinemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025746,C0033860,TREATS,Methylene blue,Psoriasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025872,C0002438,TREATS,Metronidazole,Amebiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0025872,C0007894,TREATS,Metronidazole,Cestode Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -277,7 +277,7 @@ C0034417,C0009450,TREATS,Quinine,Communicable Diseases,orch,dsyn,1,TREATS_ORCHtr
 C0034417,C0024530,TREATS,Quinine,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0034428,C0022658,TREATS,Quinolones,Kidney Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0034665,C1838329,TREATS,Ranitidine,APLASIA CUTIS CONGENITA WITH EPIBULBAR DERMOIDS,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0035629,C0021400,TREATS,Rimantadine,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0035629,C0021400,TREATS,Rimantadine,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0035976,C0085306,TREATS,Rutin,Feline infectious peritonitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0036077,C0011860,TREATS,Salicylates,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0036078,C0009319,TREATS,Sulfasalazine,Colitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -292,7 +292,7 @@ C0038317,C0009450,TREATS,Steroids,Communicable Diseases,orch,dsyn,1,TREATS_ORCHt
 C0038675,C0025309,TREATS,Sulfadiazine,Meningoencephalitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0038686,C1535939,TREATS,Sulfamethazine,Pneumocystis jiroveci pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0038880,C0002438,TREATS,Suramin,Amebiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0038880,C0041228,TREATS,Suramin,African Trypanosomiasis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0038880,C0041228,TREATS,Suramin,African Trypanosomiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0038880,C0456909,TREATS,Suramin,Blindness,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0039286,C0004364,TREATS,Tamoxifen,Autoimmune Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0039286,C0042769,TREATS,Tamoxifen,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -314,7 +314,7 @@ C0041041,C0042029,TREATS,Trimethoprim,Urinary tract infection,orch,dsyn,1,TREATS
 C0042291,C0014544,TREATS,Valproic Acid,Epilepsy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0042679,C0021051,TREATS,Vincristine,Immunologic Deficiency Syndromes,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0042679,C0029408,TREATS,Vincristine,Degenerative polyarthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0042839,C0025007,TREATS,Vitamin A,Measles,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0042839,C0025007,TREATS,Vitamin A,Measles,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0042839,C0267963,TREATS,Vitamin A,Exocrine pancreatic insufficiency,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0042845,C0021390,TREATS,Vitamin B 12,Inflammatory Bowel Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0042845,C0267963,TREATS,Vitamin B 12,Exocrine pancreatic insufficiency,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -334,12 +334,12 @@ C0048220,C0009319,TREATS,4-cymene,Colitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0050393,C0011860,TREATS,Acarbose,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0050393,C0020456,TREATS,Acarbose,Hyperglycemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0051561,C0162311,TREATS,amentoflavone,Androgenetic Alopecia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0051696,C0020538,TREATS,Amlodipine,Hypertensive disease,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0051696,C0020538,TREATS,Amlodipine,Hypertensive disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0051696,C0865575,TREATS,Amlodipine,Chronic Mitral valve disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052080,C0272285,TREATS,antineoplaston A10,Heparin-induced thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052231,C0024117,TREATS,apramycin,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052430,C0003873,TREATS,artemisinine,Rheumatoid Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0052430,C0024530,TREATS,artemisinine,Malaria,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0052430,C0024530,TREATS,artemisinine,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052430,C0024535,TREATS,artemisinine,"Malaria, Falciparum",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052432,C0003864,TREATS,artesunate,Arthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0052432,C0009450,TREATS,artesunate,Communicable Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -361,7 +361,7 @@ C0055738,C0004096,TREATS,Eucalyptol,Asthma,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055738,C0009319,TREATS,Eucalyptol,Colitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055738,C0024117,TREATS,Eucalyptol,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055738,C0035204,TREATS,Eucalyptol,Respiration Disorders,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0055738,C0149514,TREATS,Eucalyptol,Acute bronchitis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0055738,C0149514,TREATS,Eucalyptol,Acute bronchitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055738,C0948780,TREATS,Eucalyptol,Rhinosinusitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055775,C0020473,TREATS,ciprofibrate,Hyperlipidemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0055775,C3241937,TREATS,ciprofibrate,Nonalcoholic Steatohepatitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -383,9 +383,9 @@ C0061751,C0011615,TREATS,Glycyrrhizic Acid,"Dermatitis, Atopic",orch,dsyn,1,TREA
 C0061751,C0016627,TREATS,Glycyrrhizic Acid,Influenza in Birds,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061751,C0019159,TREATS,Glycyrrhizic Acid,Hepatitis A,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061751,C0019189,TREATS,Glycyrrhizic Acid,"Hepatitis, Chronic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0061751,C0023895,TREATS,Glycyrrhizic Acid,Liver diseases,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0061751,C0023895,TREATS,Glycyrrhizic Acid,Liver diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061751,C0036690,TREATS,Glycyrrhizic Acid,Septicemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0061751,C0276623,TREATS,Glycyrrhizic Acid,Chronic viral hepatitis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0061751,C0276623,TREATS,Glycyrrhizic Acid,Chronic viral hepatitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061751,C0524910,TREATS,Glycyrrhizic Acid,"Hepatitis C, Chronic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061751,C0548923,TREATS,Glycyrrhizic Acid,burn infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0061851,C0017160,TREATS,Ondansetron,Gastroenteritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -415,23 +415,23 @@ C0067067,C0031099,TREATS,myricetin,Periodontitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0067067,C0813142,TREATS,myricetin,Circadian Rhythm Disorders,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068006,C0153326,TREATS,miltefosine,Free-living ameba infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068475,C0040034,TREATS,nebivolol,Thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0068788,C0010418,TREATS,nitazoxanide,Cryptosporidiosis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
-C0068788,C0017536,TREATS,nitazoxanide,Giardiasis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0068788,C0010418,TREATS,nitazoxanide,Cryptosporidiosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
+C0068788,C0017536,TREATS,nitazoxanide,Giardiasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068788,C0021400,TREATS,nitazoxanide,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068788,C0021832,TREATS,nitazoxanide,"Intestinal Diseases, Parasitic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0068788,C0030499,TREATS,nitazoxanide,Parasitic Diseases,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0068788,C0030499,TREATS,nitazoxanide,Parasitic Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068788,C0267446,TREATS,nitazoxanide,Acute gastroenteritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0068788,C0276619,TREATS,nitazoxanide,Viral gastroenteritis due to Norwalk-like agent,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0069991,C0024530,TREATS,pamaquine,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0070971,C0019348,TREATS,phthalocyanine,Herpes Simplex Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071071,C0018799,TREATS,pimobendan,Heart Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071071,C0018801,TREATS,pimobendan,Heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0071071,C0018802,TREATS,pimobendan,Congestive heart failure,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0071071,C0018802,TREATS,pimobendan,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071071,C0264885,TREATS,pimobendan,Myxoid transformation of mitral valve,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071071,C0685099,TREATS,pimobendan,Canine dilated cardiomyopathy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0071071,C0878544,TREATS,pimobendan,Cardiomyopathies,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0071071,C0878544,TREATS,pimobendan,Cardiomyopathies,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071071,C2919646,TREATS,pimobendan,Hypertrophic cardiomyopathy associated with another disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0071097,C0011860,TREATS,pioglitazone,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0071097,C0011860,TREATS,pioglitazone,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071097,C0020456,TREATS,pioglitazone,Hyperglycemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071097,C0271650,TREATS,pioglitazone,Impaired glucose tolerance,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0071097,C3241937,TREATS,pioglitazone,Nonalcoholic Steatohepatitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -474,7 +474,7 @@ C0076829,C0021390,TREATS,topiramate,Inflammatory Bowel Diseases,orch,dsyn,1,TREA
 C0076836,C0036690,TREATS,Toremifene,Septicemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0076836,C0242966,TREATS,Toremifene,Systemic Inflammatory Response Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0076836,C0275518,TREATS,Toremifene,Acute infectious disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0076840,C0018802,TREATS,torsemide,Congestive heart failure,orch,dsyn,3,TREATS_ORCHtrtsDSYN
+C0076840,C0018802,TREATS,torsemide,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0076840,C0040034,TREATS,torsemide,Thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0076840,C1281998,TREATS,torsemide,Refractory heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0080621,C0031350,TREATS,"2',4'-dichlorobenzamil amiloride",Pharyngitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -536,12 +536,12 @@ C0209368,C0021053,TREATS,mycophenolate mofetil,Immune System Diseases,orch,dsyn,
 C0209368,C0206750,TREATS,mycophenolate mofetil,Coronavirus Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216660,C0000786,TREATS,Zanamivir,Spontaneous abortion,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216660,C0016627,TREATS,Zanamivir,Influenza in Birds,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0216660,C0021400,TREATS,Zanamivir,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0216660,C0021400,TREATS,Zanamivir,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216660,C0029342,TREATS,Zanamivir,Orthomyxoviridae Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0216660,C0032285,TREATS,Zanamivir,Pneumonia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0216660,C0032285,TREATS,Zanamivir,Pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216660,C0042769,TREATS,Zanamivir,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216660,C2062441,TREATS,Zanamivir,Influenza A,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0216660,C2076600,TREATS,Zanamivir,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0216660,C2076600,TREATS,Zanamivir,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0216784,C0018802,TREATS,valsartan,Congestive heart failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0242209,C0014175,TREATS,Sugars,Endometriosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0242947,C0042024,TREATS,Muscarinic Agonists,Urinary Incontinence,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -596,7 +596,7 @@ C0360714,C0011847,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Diabetes
 C0360714,C0020443,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Hypercholesterolemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C0020473,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Hyperlipidemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C0020538,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Hypertensive disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0360714,C0021400,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0360714,C0021400,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C0032285,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C0035222,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C0036690,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Septicemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -606,7 +606,7 @@ C0360714,C0856169,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,endothel
 C0360714,C0948008,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Ischemic stroke,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C1175175,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0360714,C3277428,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Severe viral infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0360714,C3694279,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Middle East Respiratory Syndrome,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0360714,C3694279,TREATS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Middle East Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0376637,C0007453,TREATS,Indinavir,Cattle Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0377265,C0014544,TREATS,Levetiracetam,Epilepsy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0388088,C0019360,TREATS,FTY-720,Herpes zoster disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -635,8 +635,8 @@ C0541155,C0011860,TREATS,colesevelam,"Diabetes Mellitus, Non-Insulin-Dependent",
 C0541155,C0020473,TREATS,colesevelam,Hyperlipidemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0592018,C1719672,TREATS,prowess,Severe Sepsis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0592024,C0850666,TREATS,Pylorid,Infection caused by Helicobacter pylori,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0595726,C0004096,TREATS,Leukotriene Antagonists,Asthma,orch,dsyn,2,TREATS_ORCHtrtsDSYN
-C0600370,C0004096,TREATS,Methacholine,Asthma,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0595726,C0004096,TREATS,Leukotriene Antagonists,Asthma,orch,dsyn,1,TREATS_ORCHtrtsDSYN
+C0600370,C0004096,TREATS,Methacholine,Asthma,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0605321,C0877008,TREATS,compound 18,Enzyme inhibition disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0627595,C0149725,TREATS,makyokansekito,Lower respiratory tract infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0635106,C4024896,TREATS,benzyloxycarbonyl-Phe-Ala-fluormethylketone,Motor neuron atrophy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -672,8 +672,8 @@ C0874039,C0003873,TREATS,Salicin extract,Rheumatoid Arthritis,orch,dsyn,1,TREATS
 C0874039,C0029408,TREATS,Salicin extract,Degenerative polyarthritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0010340,TREATS,Oseltamivir,Critical Illness,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0014335,TREATS,Oseltamivir,Enteritis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0874161,C0016627,TREATS,Oseltamivir,Influenza in Birds,orch,dsyn,3,TREATS_ORCHtrtsDSYN
-C0874161,C0021400,TREATS,Oseltamivir,Influenza,orch,dsyn,3,TREATS_ORCHtrtsDSYN
+C0874161,C0016627,TREATS,Oseltamivir,Influenza in Birds,orch,dsyn,1,TREATS_ORCHtrtsDSYN
+C0874161,C0021400,TREATS,Oseltamivir,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0024117,TREATS,Oseltamivir,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0029342,TREATS,Oseltamivir,Orthomyxoviridae Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0031350,TREATS,Oseltamivir,Pharyngitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -682,7 +682,7 @@ C0874161,C0154830,TREATS,Oseltamivir,Proliferative diabetic retinopathy,orch,dsy
 C0874161,C0275518,TREATS,Oseltamivir,Acute infectious disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C0275524,TREATS,Oseltamivir,Coinfection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C1175175,TREATS,Oseltamivir,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0874161,C2062441,TREATS,Oseltamivir,Influenza A,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0874161,C2062441,TREATS,Oseltamivir,Influenza A,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C2076600,TREATS,Oseltamivir,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0874161,C3873497,TREATS,Oseltamivir,Severe acute respiratory infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0876148,C0021400,TREATS,Relenza,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -697,8 +697,8 @@ C0935989,C0206062,TREATS,imatinib,"Lung Diseases, Interstitial",orch,dsyn,1,TREA
 C0935989,C1960026,TREATS,imatinib,Drug-induced pneumonitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0937846,C0017168,TREATS,Esomeprazole,Gastroesophageal reflux disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0937846,C0850666,TREATS,Esomeprazole,Infection caused by Helicobacter pylori,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0939237,C1175175,TREATS,lopinavir / Ritonavir,Severe Acute Respiratory Syndrome,orch,dsyn,2,TREATS_ORCHtrtsDSYN
-C0939237,C3694279,TREATS,lopinavir / Ritonavir,Middle East Respiratory Syndrome,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0939237,C1175175,TREATS,lopinavir / Ritonavir,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
+C0939237,C3694279,TREATS,lopinavir / Ritonavir,Middle East Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0939237,C3824825,TREATS,lopinavir / Ritonavir,SARS (Disease),orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0939357,C0019693,TREATS,Kaletra,HIV Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0939537,C0032285,TREATS,Imatinib mesylate,Pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -708,7 +708,7 @@ C0949665,C0014836,TREATS,Fluoroquinolones,Escherichia coli Infections,orch,dsyn,
 C0949665,C0023241,TREATS,Fluoroquinolones,Legionnaires' Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0949665,C0026936,TREATS,Fluoroquinolones,Mycoplasma Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0949665,C0029443,TREATS,Fluoroquinolones,Osteomyelitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C0949665,C0032285,TREATS,Fluoroquinolones,Pneumonia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C0949665,C0032285,TREATS,Fluoroquinolones,Pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0949665,C0034069,TREATS,Fluoroquinolones,Pulmonary Fibrosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0949665,C0037199,TREATS,Fluoroquinolones,Sinusitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0949665,C0042029,TREATS,Fluoroquinolones,Urinary tract infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -719,30 +719,30 @@ C0965129,C0010340,TREATS,rosuvastatin,Critical Illness,orch,dsyn,1,TREATS_ORCHtr
 C0965618,C0024117,TREATS,Roflumilast,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0968887,C0024117,TREATS,Cilomilast,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C0971579,C0242350,TREATS,vardenafil,Erectile dysfunction,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1096768,C0023281,TREATS,meglumine antimoniate,Leishmaniasis,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1096768,C0023281,TREATS,meglumine antimoniate,Leishmaniasis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1096768,C0023290,TREATS,meglumine antimoniate,"Leishmaniasis, Visceral",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1096768,C0220988,TREATS,meglumine antimoniate,Xanthinuria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1099414,C0009450,TREATS,Pimecrolimus,Communicable Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1119918,C0242350,TREATS,Ginseng Preparation,Erectile dysfunction,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1121854,C0347950,TREATS,Symbicort,Asthma attack,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1138226,C0019099,TREATS,favipiravir,"Hemorrhagic Fever, Crimean",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1138226,C0021400,TREATS,favipiravir,Influenza,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1138226,C0021400,TREATS,favipiravir,Influenza,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1144149,C0040034,TREATS,lenalidomide,Thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1176309,C0019163,TREATS,bortezomib,Hepatitis B,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1176309,C0206608,TREATS,bortezomib,Flavivirus Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1176316,C0242350,TREATS,tadalafil,Erectile dysfunction,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1186762,C0026946,TREATS,Dakin's solution,Mycoses,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1257987,C0011847,TREATS,Thiazolidinediones,Diabetes,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1257987,C0020456,TREATS,Thiazolidinediones,Hyperglycemia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1257987,C0020456,TREATS,Thiazolidinediones,Hyperglycemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1257987,C0400966,TREATS,Thiazolidinediones,Non-alcoholic Fatty Liver Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1276807,C0024117,TREATS,Budesonide / formoterol,Chronic Obstructive Airway Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1312124,C0009663,TREATS,bicyclol,Condylomata Acuminata,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1312124,C0019196,TREATS,bicyclol,Hepatitis C,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1312124,C0524909,TREATS,bicyclol,"Hepatitis B, Chronic",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1312124,C0524909,TREATS,bicyclol,"Hepatitis B, Chronic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1435444,C0497169,TREATS,darunavir,hiv-infection/aids,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1504945,C0022116,TREATS,INO 1001,Ischemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1529314,C0009187,TREATS,Baycox,Coccidiosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1565750,C0011860,TREATS,sitagliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1565750,C0011860,TREATS,sitagliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1565750,C0022658,TREATS,sitagliptin,Kidney Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1565750,C0025517,TREATS,sitagliptin,Metabolic Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1565750,C0030305,TREATS,sitagliptin,Pancreatitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -764,7 +764,7 @@ C1743645,C0036690,TREATS,eritoran,Septicemia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1816306,C0009663,TREATS,Veregen,Condylomata Acuminata,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1831992,C0042769,TREATS,ABT 263,Virus Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1871004,C0008677,TREATS,maropitant,"Bronchitis, Chronic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C1958126,C0011860,TREATS,alogliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C1958126,C0011860,TREATS,alogliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1958126,C0022658,TREATS,alogliptin,Kidney Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C1961993,C0031154,TREATS,Pomegranate Extract,Peritonitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2350692,C0456103,TREATS,pocapavir,Sepsis of the newborn,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -818,11 +818,11 @@ C2742194,C0679408,TREATS,neohesperidin,Lesion of stomach,orch,dsyn,1,TREATS_ORCH
 C2742211,C0040034,TREATS,florbetapir,Thrombocytopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2742474,C0023530,TREATS,toceranib phosphate,Leukopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2742587,C0149725,TREATS,nemonoxacin,Lower respiratory tract infection,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2744790,C0011860,TREATS,lobeglitazone,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2744790,C0011860,TREATS,lobeglitazone,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2744790,C0015695,TREATS,lobeglitazone,Fatty Liver,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2744790,C0400966,TREATS,lobeglitazone,Non-alcoholic Fatty Liver Disease,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2744790,C0400966,TREATS,lobeglitazone,Non-alcoholic Fatty Liver Disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2746078,C0011847,TREATS,Linagliptin,Diabetes,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2746078,C0011860,TREATS,Linagliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2746078,C0011860,TREATS,Linagliptin,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2746078,C0011881,TREATS,Linagliptin,Diabetic Nephropathy,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2746078,C0020538,TREATS,Linagliptin,Hypertensive disease,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2746078,C0156259,TREATS,Linagliptin,Hypertrophy of kidney,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -831,7 +831,7 @@ C2756786,C0019189,TREATS,Glycyrrhiza glabra extract,"Hepatitis, Chronic",orch,ds
 C2756786,C0030920,TREATS,Glycyrrhiza glabra extract,Peptic Ulcer,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2756786,C1623038,TREATS,Glycyrrhiza glabra extract,Cirrhosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0006015,TREATS,Duration,Bordetella Infections,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2926735,C0009443,TREATS,Duration,Common Cold,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2926735,C0009443,TREATS,Duration,Common Cold,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0009450,TREATS,Duration,Communicable Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0010340,TREATS,Duration,Critical Illness,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0011615,TREATS,Duration,"Dermatitis, Atopic",orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -842,9 +842,9 @@ C2926735,C0023530,TREATS,Duration,Leukopenia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0024530,TREATS,Duration,Malaria,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0026769,TREATS,Duration,Multiple Sclerosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0030499,TREATS,Duration,Parasitic Diseases,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2926735,C0032285,TREATS,Duration,Pneumonia,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2926735,C0032285,TREATS,Duration,Pneumonia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0032310,TREATS,Duration,"Pneumonia, Viral",orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2926735,C0035222,TREATS,Duration,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2926735,C0035222,TREATS,Duration,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0041296,TREATS,Duration,Tuberculosis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0041327,TREATS,Duration,"Tuberculosis, Pulmonary",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0042749,TREATS,Duration,Viremia,orch,dsyn,1,TREATS_ORCHtrtsDSYN
@@ -862,7 +862,7 @@ C2926735,C0747676,TREATS,Duration,pneumonia childhood,orch,dsyn,1,TREATS_ORCHtrt
 C2926735,C0863093,TREATS,Duration,cold symptoms,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C0872315,TREATS,Duration,"Communicable Diseases, Emerging",orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C1145670,TREATS,Duration,Respiratory Failure,orch,dsyn,1,TREATS_ORCHtrtsDSYN
-C2926735,C1175175,TREATS,Duration,Severe Acute Respiratory Syndrome,orch,dsyn,2,TREATS_ORCHtrtsDSYN
+C2926735,C1175175,TREATS,Duration,Severe Acute Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C2317131,TREATS,Duration,Acute rhinosinusitis,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C3694279,TREATS,Duration,Middle East Respiratory Syndrome,orch,dsyn,1,TREATS_ORCHtrtsDSYN
 C2926735,C3899656,TREATS,Duration,Pediatric Infectious Disorder,orch,dsyn,1,TREATS_ORCHtrtsDSYN

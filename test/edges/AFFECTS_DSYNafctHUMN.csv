@@ -79,7 +79,7 @@ C0011334,C0008059,AFFECTS,Dental caries,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011334,C0030551,AFFECTS,Dental caries,parent,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011334,C0260267,AFFECTS,Dental caries,School child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011334,C0949366,AFFECTS,Dental caries,Vulnerable Populations,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0011615,C0008059,AFFECTS,"Dermatitis, Atopic",Child,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0011615,C0008059,AFFECTS,"Dermatitis, Atopic",Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011847,C0015031,AFFECTS,Diabetes,Ethnic group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011847,C0038492,AFFECTS,Diabetes,student,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0011847,C0086418,AFFECTS,Diabetes,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -94,17 +94,17 @@ C0014038,C0086418,AFFECTS,Encephalitis,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafct
 C0014055,C0335466,AFFECTS,Arbovirus encephalitis,Forestry worker,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0014055,C0524647,AFFECTS,Arbovirus encephalitis,Soldiers,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0014057,C0086418,AFFECTS,Japanese Encephalitis,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0014059,C0008059,AFFECTS,"Encephalomyelitis, Acute Disseminated",Child,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0014059,C0008059,AFFECTS,"Encephalomyelitis, Acute Disseminated",Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0014059,C0034510,AFFECTS,"Encephalomyelitis, Acute Disseminated",Racial group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0014527,C0015576,AFFECTS,Epidermolysis Bullosa,Family,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0016514,C0008059,AFFECTS,Foot-and-Mouth Disease,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0016514,C0238697,AFFECTS,Foot-and-Mouth Disease,South East Asian,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0016627,C0008059,AFFECTS,Influenza in Birds,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0016627,C0086282,AFFECTS,Influenza in Birds,Family member,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0016627,C0086418,AFFECTS,Influenza in Birds,Homo sapiens,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0016627,C0086418,AFFECTS,Influenza in Birds,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0017178,C0021289,AFFECTS,Gastrointestinal Diseases,"Infant, Newborn",dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0018133,C0150775,AFFECTS,Graft-vs-Host Disease,Social Networks,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0018572,C0008059,AFFECTS,"Hand, Foot and Mouth Disease",Child,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0018572,C0008059,AFFECTS,"Hand, Foot and Mouth Disease",Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0018572,C0015576,AFFECTS,"Hand, Foot and Mouth Disease",Family,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0018572,C0021270,AFFECTS,"Hand, Foot and Mouth Disease",Infant,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0018802,C0026192,AFFECTS,Congestive heart failure,Minority Groups,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -129,9 +129,9 @@ C0020443,C0015031,AFFECTS,Hypercholesterolemia,Ethnic group,dsyn,humn,1,AFFECTS_
 C0021345,C0205653,AFFECTS,Infectious Mononucleosis,Adolescent (age group),dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021345,C0238598,AFFECTS,Infectious Mononucleosis,Young Adult,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021359,C0040704,AFFECTS,Infertility,Transient Population Group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0021400,C0001675,AFFECTS,Influenza,Adult,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0021400,C0001675,AFFECTS,Influenza,Adult,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0007457,AFFECTS,Influenza,Caucasoid Race,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0021400,C0008059,AFFECTS,Influenza,Child,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0021400,C0008059,AFFECTS,Influenza,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0015031,AFFECTS,Influenza,Ethnic group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0015576,AFFECTS,Influenza,Family,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0020052,AFFECTS,Influenza,Households,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -149,7 +149,7 @@ C0021400,C0282122,AFFECTS,Influenza,Respondents,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0450048,AFFECTS,Influenza,Passenger,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0687759,AFFECTS,Influenza,traveler,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C0814942,AFFECTS,Influenza,Han Chinese,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0021400,C0870134,AFFECTS,Influenza,ancestors,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0021400,C0870134,AFFECTS,Influenza,ancestors,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C1999167,AFFECTS,Influenza,Old age,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C2700280,AFFECTS,Influenza,World,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0021400,C3812881,AFFECTS,Influenza,Author,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -170,10 +170,10 @@ C0024117,C0001675,AFFECTS,Chronic Obstructive Airway Disease,Adult,dsyn,humn,1,A
 C0024117,C0040704,AFFECTS,Chronic Obstructive Airway Disease,Transient Population Group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0024286,C0026192,AFFECTS,Lymphogranuloma Venereum,Minority Groups,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0024530,C0008059,AFFECTS,Malaria,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0024530,C0033011,AFFECTS,Malaria,Pregnant Women,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0024530,C0033011,AFFECTS,Malaria,Pregnant Women,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0024530,C0680063,AFFECTS,Malaria,Offspring,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0025007,C0001675,AFFECTS,Measles,Adult,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0025007,C0033011,AFFECTS,Measles,Pregnant Women,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0025007,C0033011,AFFECTS,Measles,Pregnant Women,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0025007,C0034961,AFFECTS,Measles,Refugees,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0025007,C1455726,AFFECTS,Measles,Older child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0025229,C0086418,AFFECTS,Melioidosis,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -236,7 +236,7 @@ C0035243,C0851286,AFFECTS,Respiratory Tract Infections,Staff,dsyn,humn,1,AFFECTS
 C0035243,C1709696,AFFECTS,Respiratory Tract Infections,Producer,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0035243,C1999167,AFFECTS,Respiratory Tract Infections,Old age,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0035585,C0687759,AFFECTS,Rickettsia Infections,traveler,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C0035613,C0086418,AFFECTS,Rift Valley Fever,Homo sapiens,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C0035613,C0086418,AFFECTS,Rift Valley Fever,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0035637,C0680319,AFFECTS,Rinderpest,modern society,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0035637,C2700280,AFFECTS,Rinderpest,World,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C0035869,C0008059,AFFECTS,Rotavirus Infections,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -403,10 +403,10 @@ C0947961,C0008059,AFFECTS,Atopic condition,Child,dsyn,humn,1,AFFECTS_DSYNafctHUM
 C1175175,C0001675,AFFECTS,Severe Acute Respiratory Syndrome,Adult,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0008059,AFFECTS,Severe Acute Respiratory Syndrome,Child,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0015031,AFFECTS,Severe Acute Respiratory Syndrome,Ethnic group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C1175175,C0021270,AFFECTS,Severe Acute Respiratory Syndrome,Infant,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C1175175,C0021270,AFFECTS,Severe Acute Respiratory Syndrome,Infant,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0025266,AFFECTS,Severe Acute Respiratory Syndrome,Male population group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0028661,AFFECTS,Severe Acute Respiratory Syndrome,Nurses,dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C1175175,C0033011,AFFECTS,Severe Acute Respiratory Syndrome,Pregnant Women,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C1175175,C0033011,AFFECTS,Severe Acute Respiratory Syndrome,Pregnant Women,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0043210,AFFECTS,Severe Acute Respiratory Syndrome,Woman,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0086282,AFFECTS,Severe Acute Respiratory Syndrome,Family member,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C1175175,C0086418,AFFECTS,Severe Acute Respiratory Syndrome,Homo sapiens,dsyn,humn,1,AFFECTS_DSYNafctHUMN
@@ -452,8 +452,8 @@ C2939465,C0021289,AFFECTS,Deficiency of glucose-6-phosphate dehydrogenase,"Infan
 C3203653,C0025266,AFFECTS,IgG4-Related Disease,Male population group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C3534575,C0596070,AFFECTS,Animal Health,Americas Ethnicity,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C3686619,C0080103,AFFECTS,Internal parasite infection,Relative (related person),dsyn,humn,1,AFFECTS_DSYNafctHUMN
-C3694279,C0021270,AFFECTS,Middle East Respiratory Syndrome,Infant,dsyn,humn,2,AFFECTS_DSYNafctHUMN
-C3694279,C0033011,AFFECTS,Middle East Respiratory Syndrome,Pregnant Women,dsyn,humn,2,AFFECTS_DSYNafctHUMN
+C3694279,C0021270,AFFECTS,Middle East Respiratory Syndrome,Infant,dsyn,humn,1,AFFECTS_DSYNafctHUMN
+C3694279,C0033011,AFFECTS,Middle East Respiratory Syndrome,Pregnant Women,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C3694279,C0040704,AFFECTS,Middle East Respiratory Syndrome,Transient Population Group,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C3694279,C0043210,AFFECTS,Middle East Respiratory Syndrome,Woman,dsyn,humn,1,AFFECTS_DSYNafctHUMN
 C3694279,C0086282,AFFECTS,Middle East Respiratory Syndrome,Family member,dsyn,humn,1,AFFECTS_DSYNafctHUMN

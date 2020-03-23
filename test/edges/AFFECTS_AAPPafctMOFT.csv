@@ -146,7 +146,7 @@ C0017797,C0008858,AFFECTS,Glutamine,Citric Acid Cycle,aapp,moft,1,AFFECTS_AAPPaf
 C0017797,C0596843,AFFECTS,Glutamine,Adipogenesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0017797,C0597295,AFFECTS,Glutamine,Protein Biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0017817,C0243102,AFFECTS,Glutathione,enzyme activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0017968,C0025246,AFFECTS,Glycoproteins,Membrane Fusion,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0017968,C0025246,AFFECTS,Glycoproteins,Membrane Fusion,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0017968,C0162847,AFFECTS,Glycoproteins,protein folding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0017968,C0597358,AFFECTS,Glycoproteins,receptor binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0017968,C1149536,AFFECTS,Glycoproteins,virion binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -259,7 +259,7 @@ C0031686,C0031715,AFFECTS,Protein phosphatase,Phosphorylation,aapp,moft,1,AFFECT
 C0031727,C0031715,AFFECTS,Phosphotransferases,Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0031727,C0162847,AFFECTS,Phosphotransferases,protein folding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0031727,C0596563,AFFECTS,Phosphotransferases,fatty acid metabolism,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0031727,C0596620,AFFECTS,Phosphotransferases,glucose metabolism,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0031727,C0596620,AFFECTS,Phosphotransferases,glucose metabolism,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0031727,C0597295,AFFECTS,Phosphotransferases,Protein Biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0031727,C0598435,AFFECTS,Phosphotransferases,Palmitoylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0031727,C0872079,AFFECTS,Phosphotransferases,protein protein interaction,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -399,7 +399,7 @@ C0054534,C0597304,AFFECTS,calpastatin,Proteolysis,aapp,moft,1,AFFECTS_AAPPafctMO
 C0054543,C0162847,AFFECTS,calreticulin,protein folding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0054871,C0243102,AFFECTS,Cathepsin L,enzyme activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0054871,C0597297,AFFECTS,Cathepsin L,"Protein Degradation, Metabolic",aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0054871,C0597304,AFFECTS,Cathepsin L,Proteolysis,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0054871,C0597304,AFFECTS,Cathepsin L,Proteolysis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0054871,C0597358,AFFECTS,Cathepsin L,receptor binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0054871,C1150114,AFFECTS,Cathepsin L,cathepsin D activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0054871,C1514570,AFFECTS,Cathepsin L,Proteolytic Processing,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -447,7 +447,7 @@ C0063423,C1704259,AFFECTS,molecular chaperone GRP78,Biochemical Pathway,aapp,mof
 C0063529,C0031715,AFFECTS,"NP protein, Influenza A virus",Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0064612,C2244328,AFFECTS,lactose permease,Facilitated Diffusion,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0065344,C1157492,AFFECTS,Lymphocyte Specific Protein Tyrosine Kinase p56(lck),protein palmitoylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0065661,C0009528,AFFECTS,Mannose Binding Lectin,Complement Activation,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0065661,C0009528,AFFECTS,Mannose Binding Lectin,Complement Activation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0065684,C1704259,AFFECTS,mannose receptor,Biochemical Pathway,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0065827,C1328948,AFFECTS,Measles Virus Nucleoprotein,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0065827,C1514216,AFFECTS,Measles Virus Nucleoprotein,Polyubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -459,7 +459,7 @@ C0065827,C3271890,AFFECTS,Measles Virus Nucleoprotein,RLR signaling pathway,aapp
 C0065827,C3271928,AFFECTS,Measles Virus Nucleoprotein,RIG-I binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0069065,C1328948,AFFECTS,Viral Nonstructural Proteins,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0069139,C0033666,AFFECTS,nucleolin,Post-Translational Protein Processing,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0069150,C1158580,AFFECTS,nucleoside phosphotransferase,nucleoside metabolic process,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0069150,C1158580,AFFECTS,nucleoside phosphotransferase,nucleoside metabolic process,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0069919,C0031715,AFFECTS,ranpirnase,Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0069919,C1517341,AFFECTS,ranpirnase,G1 to S Transition Process,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0071346,C0949765,AFFECTS,Poly(A)-Binding Proteins,Polyadenylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -487,7 +487,7 @@ C0075212,C1150146,AFFECTS,Cystatin B,cathepsin F activity,aapp,moft,1,AFFECTS_AA
 C0077678,C0033666,AFFECTS,ubiquitin-protein ligase,Post-Translational Protein Processing,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0077678,C1150685,AFFECTS,ubiquitin-protein ligase,ubiquitin-protein ligase activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0077678,C1514216,AFFECTS,ubiquitin-protein ligase,Polyubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0077678,C1519751,AFFECTS,ubiquitin-protein ligase,Ubiquitination,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0077678,C1519751,AFFECTS,ubiquitin-protein ligase,Ubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0077678,C3824143,AFFECTS,ubiquitin-protein ligase,proteasome complex disassembly,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0078056,C1167622,AFFECTS,Vascular Cell Adhesion Molecule-1,Binding (Molecular Function),aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0079185,C3160734,AFFECTS,Cyclin B,Dephosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -603,7 +603,7 @@ C0164786,C1150639,AFFECTS,Proto-Oncogene Proteins c-akt,pyruvate dehydrogenase (
 C0165897,C1817666,AFFECTS,"discs large 1 protein, Drosophila",phosphatidylinositol 3-kinase signaling,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0165970,C0949765,AFFECTS,Cleavage And Polyadenylation Specificity Factor,Polyadenylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0166027,C1328949,AFFECTS,stromelysin 2,RNA replication,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0166033,C1519751,AFFECTS,I kappa B beta protein,Ubiquitination,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0166033,C1519751,AFFECTS,I kappa B beta protein,Ubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0166033,C2754815,AFFECTS,I kappa B beta protein,chemokine (C-C motif) ligand 5 production,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0166415,C0596843,AFFECTS,PPAR alpha,Adipogenesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0166415,C0598783,AFFECTS,PPAR alpha,Lipid Metabolism,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -706,7 +706,7 @@ C0287920,C1720950,AFFECTS,STAT1 protein,Gene Regulatory Networks,aapp,moft,1,AFF
 C0287920,C3824143,AFFECTS,STAT1 protein,proteasome complex disassembly,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0287990,C0301641,AFFECTS,paired basic amino acid cleaving enzyme,Macromolecular alteration,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0287990,C0596562,AFFECTS,paired basic amino acid cleaving enzyme,Fatty acid biosynthetic process,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0287990,C0597304,AFFECTS,paired basic amino acid cleaving enzyme,Proteolysis,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0287990,C0597304,AFFECTS,paired basic amino acid cleaving enzyme,Proteolysis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0287990,C1150095,AFFECTS,paired basic amino acid cleaving enzyme,peptidase activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0287990,C1156530,AFFECTS,paired basic amino acid cleaving enzyme,cholesterol metabolism,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0287990,C1514570,AFFECTS,paired basic amino acid cleaving enzyme,Proteolytic Processing,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -798,7 +798,7 @@ C0540004,C0598783,AFFECTS,nuclear receptor coactivator 3,Lipid Metabolism,aapp,m
 C0540301,C0009528,AFFECTS,C1 esterase inhibitor,Complement Activation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0582119,C1328948,AFFECTS,Translocase,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0582263,C0010357,AFFECTS,Structural protein,Cross Reactions,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C0582263,C1328948,AFFECTS,Structural protein,RNA biosynthesis,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C0582263,C1328948,AFFECTS,Structural protein,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0582263,C1512772,AFFECTS,Structural protein,Negative Regulation of Apoptosis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0582263,C1517342,AFFECTS,Structural protein,Negative Regulation of G1 Phase,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C0582263,C1537044,AFFECTS,Structural protein,protein activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -940,7 +940,7 @@ C0969119,C1149763,AFFECTS,histone deacetylase 6,deacetylase activity,aapp,moft,1
 C0969119,C1511737,AFFECTS,histone deacetylase 6,Deacetylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1099355,C3178791,AFFECTS,RNA-Induced Silencing Complex,RNA Cleavage,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1120843,C0017952,AFFECTS,mitogen-activated protein kinase p38,Glycolysis,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C1120843,C0031715,AFFECTS,mitogen-activated protein kinase p38,Phosphorylation,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C1120843,C0031715,AFFECTS,mitogen-activated protein kinase p38,Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1120843,C0243102,AFFECTS,mitogen-activated protein kinase p38,enzyme activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1120843,C3179234,AFFECTS,mitogen-activated protein kinase p38,ERK Signal Tranduction Pathway,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1135991,C3158634,AFFECTS,Clathrin Assembly Protein Complexes,cargo loading into vesicle,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -1155,7 +1155,7 @@ C1414270,C0597295,AFFECTS,EEF1A1 gene,Protein Biosynthesis,aapp,moft,1,AFFECTS_A
 C1414270,C1328948,AFFECTS,EEF1A1 gene,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1414273,C1519058,AFFECTS,EEF1A2 gene,Phospholipid Signaling Pathway,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1414314,C0031715,AFFECTS,EGR1 gene,Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C1414314,C1150571,AFFECTS,EGR1 gene,IkappaB kinase activity,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C1414314,C1150571,AFFECTS,EGR1 gene,IkappaB kinase activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1414334,C0597295,AFFECTS,EIF2S1 gene,Protein Biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1414356,C0597295,AFFECTS,EIF4G1 gene,Protein Biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1414359,C0031715,AFFECTS,EIF5 gene,Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -1311,7 +1311,7 @@ C1421405,C3271891,AFFECTS,USP4 gene,RIG-I signaling pathway,aapp,moft,1,AFFECTS_
 C1421408,C1514216,AFFECTS,USP7 gene,Polyubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1421408,C1519751,AFFECTS,USP7 gene,Ubiquitination,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1421429,C1328948,AFFECTS,VTRNA1-1 gene,RNA biosynthesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C1421527,C0162847,AFFECTS,XBP1 gene,protein folding,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C1421527,C0162847,AFFECTS,XBP1 gene,protein folding,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1421527,C0596843,AFFECTS,XBP1 gene,Adipogenesis,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1421527,C1157980,AFFECTS,XBP1 gene,erad,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C1421544,C1148636,AFFECTS,XPO1 gene,Lipid Binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
@@ -1641,8 +1641,8 @@ C3540252,C1148592,AFFECTS,PYURF gene,lectin activity,aapp,moft,1,AFFECTS_AAPPafc
 C3541895,C1155494,AFFECTS,FCGR1A wt Allele,intracellular signal transduction,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C3657668,C1152637,AFFECTS,"TiPARP protein, human",aryl hydrocarbon receptor activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C3658243,C0025246,AFFECTS,"Spike Glycoprotein, Coronavirus",Membrane Fusion,aapp,moft,1,AFFECTS_AAPPafctMOFT
-C3658243,C0597358,AFFECTS,"Spike Glycoprotein, Coronavirus",receptor binding,aapp,moft,2,AFFECTS_AAPPafctMOFT
-C3710914,C0031715,AFFECTS,"EIF2AK2 protein, human",Phosphorylation,aapp,moft,2,AFFECTS_AAPPafctMOFT
+C3658243,C0597358,AFFECTS,"Spike Glycoprotein, Coronavirus",receptor binding,aapp,moft,1,AFFECTS_AAPPafctMOFT
+C3710914,C0031715,AFFECTS,"EIF2AK2 protein, human",Phosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C3710914,C0813988,AFFECTS,"EIF2AK2 protein, human",autophosphorylation,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C3710914,C1145751,AFFECTS,"EIF2AK2 protein, human",insulin activity,aapp,moft,1,AFFECTS_AAPPafctMOFT
 C3710914,C1150095,AFFECTS,"EIF2AK2 protein, human",peptidase activity,aapp,moft,1,AFFECTS_AAPPafctMOFT

@@ -60,11 +60,11 @@ C0007134,C0025932,PROCESS_OF,Renal Cell Carcinoma,"Mice, Nude",neop,mamm,1,PROCE
 C0007137,C0007450,PROCESS_OF,Squamous cell carcinoma,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007137,C0012984,PROCESS_OF,Squamous cell carcinoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007137,C0026809,PROCESS_OF,Squamous cell carcinoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0007137,C0034693,PROCESS_OF,Squamous cell carcinoma,Rattus norvegicus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
-C0007137,C0034703,PROCESS_OF,Squamous cell carcinoma,"Rats, Inbred F344",neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0007137,C0034693,PROCESS_OF,Squamous cell carcinoma,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
+C0007137,C0034703,PROCESS_OF,Squamous cell carcinoma,"Rats, Inbred F344",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007137,C0034715,PROCESS_OF,Squamous cell carcinoma,"Rats, Sprague-Dawley",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007137,C0035804,PROCESS_OF,Squamous cell carcinoma,Rodent,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0007138,C0012984,PROCESS_OF,"Carcinoma, Transitional Cell",Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0007138,C0012984,PROCESS_OF,"Carcinoma, Transitional Cell",Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007621,C0012984,PROCESS_OF,Neoplastic Cell Transformation,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007621,C0025932,PROCESS_OF,Neoplastic Cell Transformation,"Mice, Nude",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0007621,C0026809,PROCESS_OF,Neoplastic Cell Transformation,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -82,7 +82,7 @@ C0017150,C0012984,PROCESS_OF,Gastrinoma,Canis familiaris,neop,mamm,1,PROCESS_OF_
 C0017185,C0012984,PROCESS_OF,Gastrointestinal Neoplasms,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0017636,C0012984,PROCESS_OF,Glioblastoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0017636,C0026809,PROCESS_OF,Glioblastoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0017638,C0012984,PROCESS_OF,Glioma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0017638,C0012984,PROCESS_OF,Glioma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0017638,C0025914,PROCESS_OF,Glioma,House mice,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0017638,C0026809,PROCESS_OF,Glioma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0017638,C0034693,PROCESS_OF,Glioma,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -91,7 +91,7 @@ C0018923,C0012984,PROCESS_OF,Hemangiosarcoma,Canis familiaris,neop,mamm,1,PROCES
 C0018923,C0324373,PROCESS_OF,Hemangiosarcoma,German shepherd dog,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0018923,C0325089,PROCESS_OF,Hemangiosarcoma,Family Felidae,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0021670,C0034693,PROCESS_OF,insulinoma,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0021841,C0007450,PROCESS_OF,Intestinal Neoplasms,Felis catus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0021841,C0007450,PROCESS_OF,Intestinal Neoplasms,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0021841,C0012984,PROCESS_OF,Intestinal Neoplasms,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0021841,C0026809,PROCESS_OF,Intestinal Neoplasms,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0021841,C0034693,PROCESS_OF,Intestinal Neoplasms,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -125,13 +125,13 @@ C0023903,C0035804,PROCESS_OF,Liver neoplasms,Rodent,neop,mamm,1,PROCESS_OF_NEOPp
 C0024121,C0036945,PROCESS_OF,Lung Neoplasms,Sheep,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0003518,PROCESS_OF,Lymphoma,"Night Monkey, Northern",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0006763,PROCESS_OF,Lymphoma,Callitrichinae,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0024299,C0007450,PROCESS_OF,Lymphoma,Felis catus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0024299,C0007450,PROCESS_OF,Lymphoma,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0007452,PROCESS_OF,Lymphoma,Cattle,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0007970,PROCESS_OF,Lymphoma,Cheetahs,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0024299,C0012984,PROCESS_OF,Lymphoma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0024299,C0012984,PROCESS_OF,Lymphoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0019944,PROCESS_OF,Lymphoma,Equus caballus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0023334,PROCESS_OF,Lymphoma,Leontopithecus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0024299,C0023756,PROCESS_OF,Lymphoma,Panthera leo,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0024299,C0023756,PROCESS_OF,Lymphoma,Panthera leo,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0024834,PROCESS_OF,Lymphoma,"Marmoset, Cotton-Top",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0025936,PROCESS_OF,Lymphoma,"Mice, Transgenic",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024299,C0026809,PROCESS_OF,Lymphoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -149,16 +149,16 @@ C0024667,C0012984,PROCESS_OF,Animal Mammary Neoplasms,Canis familiaris,neop,mamm
 C0024667,C0026809,PROCESS_OF,Animal Mammary Neoplasms,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024667,C0034693,PROCESS_OF,Animal Mammary Neoplasms,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0024667,C0939793,PROCESS_OF,Animal Mammary Neoplasms,Female dog,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0025202,C0012984,PROCESS_OF,melanoma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
-C0025202,C0026809,PROCESS_OF,melanoma,Mus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0025202,C0012984,PROCESS_OF,melanoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
+C0025202,C0026809,PROCESS_OF,melanoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025202,C0035804,PROCESS_OF,melanoma,Rodent,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025202,C0684073,PROCESS_OF,melanoma,albino mice,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025202,C1521751,PROCESS_OF,melanoma,C57BL/6 Mouse,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025268,C0026809,PROCESS_OF,Multiple Endocrine Neoplasia Type 2a,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0025286,C0012984,PROCESS_OF,Meningioma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0025286,C0012984,PROCESS_OF,Meningioma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025286,C0034693,PROCESS_OF,Meningioma,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0025286,C1444154,PROCESS_OF,Meningioma,Panthera tigris tigris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0025500,C0012984,PROCESS_OF,Mesothelioma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0025500,C0012984,PROCESS_OF,Mesothelioma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0026764,C0012984,PROCESS_OF,Multiple Myeloma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0026764,C0025914,PROCESS_OF,Multiple Myeloma,House mice,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0026764,C0325115,PROCESS_OF,Multiple Myeloma,Tigers,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -214,7 +214,7 @@ C0028433,C0012984,PROCESS_OF,Nose Neoplasms,Canis familiaris,neop,mamm,1,PROCESS
 C0028433,C0034693,PROCESS_OF,Nose Neoplasms,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0028433,C0034703,PROCESS_OF,Nose Neoplasms,"Rats, Inbred F344",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0029463,C0007450,PROCESS_OF,Osteosarcoma,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0029463,C0012984,PROCESS_OF,Osteosarcoma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0029463,C0012984,PROCESS_OF,Osteosarcoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0029463,C0026809,PROCESS_OF,Osteosarcoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0029463,C0324382,PROCESS_OF,Osteosarcoma,Irish wolfhound,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0029925,C0026809,PROCESS_OF,Ovarian Carcinoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -233,7 +233,7 @@ C0032463,C0025920,PROCESS_OF,Polycythemia Vera,"Mice, Inbred C3H",neop,mamm,1,PR
 C0032463,C0026447,PROCESS_OF,Polycythemia Vera,Monkeys,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0032463,C0026809,PROCESS_OF,Polycythemia Vera,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0032463,C0033147,PROCESS_OF,Polycythemia Vera,Primates,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0032463,C0039005,PROCESS_OF,Polycythemia Vera,Family suidae,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0032463,C0039005,PROCESS_OF,Polycythemia Vera,Family suidae,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0032463,C0324768,PROCESS_OF,Polycythemia Vera,Family Pteropodidae,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0032463,C1135183,PROCESS_OF,Polycythemia Vera,Sus scrofa,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0032463,C1214498,PROCESS_OF,Polycythemia Vera,Lynx pardinus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -261,7 +261,7 @@ C0079731,C0012984,PROCESS_OF,B-Cell Lymphomas,Canis familiaris,neop,mamm,1,PROCE
 C0079731,C0023756,PROCESS_OF,B-Cell Lymphomas,Panthera leo,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0079731,C0024834,PROCESS_OF,B-Cell Lymphomas,"Marmoset, Cotton-Top",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0079731,C0325111,PROCESS_OF,B-Cell Lymphomas,Puma yagouaroundi,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0079744,C0012984,PROCESS_OF,Diffuse Large B-Cell Lymphoma,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0079744,C0012984,PROCESS_OF,Diffuse Large B-Cell Lymphoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0079772,C0007450,PROCESS_OF,T-Cell Lymphoma,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0079772,C0007970,PROCESS_OF,T-Cell Lymphoma,Cheetahs,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0079772,C0012984,PROCESS_OF,T-Cell Lymphoma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -271,7 +271,7 @@ C0079772,C3669692,PROCESS_OF,T-Cell Lymphoma,Young housecat,neop,mamm,1,PROCESS_
 C0085090,C0026809,PROCESS_OF,"Lymphoma, AIDS-Related",Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0085090,C0086962,PROCESS_OF,"Lymphoma, AIDS-Related","Mouse, SCID-hu",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0085136,C0012984,PROCESS_OF,Central Nervous System Neoplasms,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0085138,C0012984,PROCESS_OF,Choroid Plexus Neoplasms,Canis familiaris,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0085138,C0012984,PROCESS_OF,Choroid Plexus Neoplasms,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0085164,C0007450,PROCESS_OF,"Leukemia, Feline",Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0085164,C0324504,PROCESS_OF,"Leukemia, Feline",Persian cat,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0085164,C0325111,PROCESS_OF,"Leukemia, Feline",Puma yagouaroundi,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -294,7 +294,7 @@ C0205770,C0025914,PROCESS_OF,Choroid Plexus Papilloma,House mice,neop,mamm,1,PRO
 C0205770,C0026809,PROCESS_OF,Choroid Plexus Papilloma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0205770,C0206535,PROCESS_OF,Choroid Plexus Papilloma,"Mice, Inbred mdx",neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0205834,C0007450,PROCESS_OF,"Meningiomas, Multiple",Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0205874,C0034693,PROCESS_OF,"Papilloma, Squamous Cell",Rattus norvegicus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0205874,C0034693,PROCESS_OF,"Papilloma, Squamous Cell",Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0205875,C0015859,PROCESS_OF,Papillomatosis,Ferrets,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0205875,C0035005,PROCESS_OF,Papillomatosis,Reindeer,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0205875,C0325148,PROCESS_OF,Papillomatosis,Trichechus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -316,7 +316,7 @@ C0206754,C0012984,PROCESS_OF,Neuroendocrine Tumors,Canis familiaris,neop,mamm,1,
 C0220630,C0026809,PROCESS_OF,Adult Liver Carcinoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0220630,C0035804,PROCESS_OF,Adult Liver Carcinoma,Rodent,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0220633,C0034693,PROCESS_OF,Uveal melanoma,Rattus norvegicus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0235974,C0007450,PROCESS_OF,Pancreatic carcinoma,Felis catus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0235974,C0007450,PROCESS_OF,Pancreatic carcinoma,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0235974,C0018557,PROCESS_OF,Pancreatic carcinoma,Hamsters,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0235974,C0026809,PROCESS_OF,Pancreatic carcinoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0238198,C0007450,PROCESS_OF,Gastrointestinal Stromal Tumors,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -381,7 +381,7 @@ C0346957,C0026809,PROCESS_OF,Disseminated Malignant Neoplasm,Mus,neop,mamm,1,PRO
 C0346979,C0007450,PROCESS_OF,Secondary malignant neoplasm of bone marrow,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0349458,C0007450,PROCESS_OF,Cervical intraepithelial neoplasia grade 1,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0349459,C0007450,PROCESS_OF,Cervical intraepithelial neoplasia grade 2,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C0349533,C0007450,PROCESS_OF,Lymphoma of intestine,Felis catus,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C0349533,C0007450,PROCESS_OF,Lymphoma of intestine,Felis catus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0349604,C0012984,PROCESS_OF,Intracranial Meningioma,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0376358,C0012984,PROCESS_OF,Malignant neoplasm of prostate,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C0376358,C0026809,PROCESS_OF,Malignant neoplasm of prostate,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
@@ -485,7 +485,7 @@ C1335381,C0325089,PROCESS_OF,Pericardial mesothelioma,Family Felidae,neop,mamm,1
 C1336521,C0026809,PROCESS_OF,Submandibular Gland Adenocarcinoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C1336745,C0026809,PROCESS_OF,Thymic Lymphoma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C1336745,C0032898,PROCESS_OF,Thymic Lymphoma,Prairie Dogs,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
-C1336745,C1012000,PROCESS_OF,Thymic Lymphoma,Cynomys gunnisoni,neop,mamm,2,PROCESS_OF_NEOPprcfMAMM
+C1336745,C1012000,PROCESS_OF,Thymic Lymphoma,Cynomys gunnisoni,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C1368683,C0026809,PROCESS_OF,Epithelioma,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C1391732,C0026809,PROCESS_OF,Cancer Wasting,Mus,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM
 C1458155,C0012984,PROCESS_OF,Mammary Neoplasms,Canis familiaris,neop,mamm,1,PROCESS_OF_NEOPprcfMAMM

@@ -1,5 +1,5 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
-C0000530,C0001443,PRODUCES,5'-NUCLEOTIDASE,Adenosine,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0000530,C0001443,PRODUCES,5'-NUCLEOTIDASE,Adenosine,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0001021,C0001026,PRODUCES,Acetyl-CoA C-Acyltransferase,Acetyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0001022,C0024645,PRODUCES,Acetyl-CoA Carboxylase,Malonyl Coenzyme A,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0001457,C1101610,PRODUCES,ADENOSINE DEAMINASE,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
@@ -45,7 +45,7 @@ C0017360,C1099354,PRODUCES,pol genes,"RNA, Small Interfering",aapp,bacs,1,PRODUC
 C0017626,C0003320,PRODUCES,Glial Fibrillary Acidic Protein,Antigens,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0017645,C0035696,PRODUCES,Globin,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0017735,C4082271,PRODUCES,GLUCOSE OXIDASE,gluconic acid,aapp,bacs,1,PRODUCES_AAPPprodBACS
-C0017757,C0027303,PRODUCES,Glucosephosphate Dehydrogenase,NADP,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0017757,C0027303,PRODUCES,Glucosephosphate Dehydrogenase,NADP,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0017757,C0035549,PRODUCES,Glucosephosphate Dehydrogenase,Ribose,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0017764,C0023705,PRODUCES,GLUCOSIDASE,Lignin,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0017817,C0028128,PRODUCES,Glutathione,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS
@@ -98,7 +98,7 @@ C0034862,C0003320,PRODUCES,"Vaccines, Recombinant",Antigens,aapp,bacs,1,PRODUCES
 C0035379,C0012854,PRODUCES,RNA-Directed DNA Polymerase,DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0035379,C0035693,PRODUCES,RNA-Directed DNA Polymerase,"RNA, Double-Stranded",aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0035678,C0035701,PRODUCES,RNA Polymerase I,Ribosomal RNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
-C0035679,C0035696,PRODUCES,RNA Polymerase II,"RNA, Messenger",aapp,bacs,2,PRODUCES_AAPPprodBACS
+C0035679,C0035696,PRODUCES,RNA Polymerase II,"RNA, Messenger",aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0035679,C0086860,PRODUCES,RNA Polymerase II,promoter,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0035679,C0242494,PRODUCES,RNA Polymerase II,Poly(A) Tail,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C0035679,C1101610,PRODUCES,RNA Polymerase II,MicroRNAs,aapp,bacs,1,PRODUCES_AAPPprodBACS
@@ -336,7 +336,7 @@ C4048280,C0003320,PRODUCES,"T-Cell Surface Glycoprotein CD4, human",Antigens,aap
 C4048280,C0012854,PRODUCES,"T-Cell Surface Glycoprotein CD4, human",DNA,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C4049595,C0003320,PRODUCES,HLA Complex,Antigens,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C4084937,C0018284,PRODUCES,Antimicrobial Peptide,Growth Factor,aapp,bacs,1,PRODUCES_AAPPprodBACS
-C4084937,C0033554,PRODUCES,Antimicrobial Peptide,Prostaglandins,aapp,bacs,2,PRODUCES_AAPPprodBACS
+C4084937,C0033554,PRODUCES,Antimicrobial Peptide,Prostaglandins,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C4255077,C0032136,PRODUCES,Carbonic Anhydrase IX,Plasmids,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C4278357,C0003320,PRODUCES,malformin C,Antigens,aapp,bacs,1,PRODUCES_AAPPprodBACS
 C4284285,C0028128,PRODUCES,SNAP25 wt Allele,Nitric Oxide,aapp,bacs,1,PRODUCES_AAPPprodBACS

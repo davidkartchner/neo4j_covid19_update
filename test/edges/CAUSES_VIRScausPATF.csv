@@ -30,7 +30,7 @@ C0006395,C0020517,CAUSES,Bunyaviridae,Hypersensitivity,virs,patf,1,CAUSES_VIRSca
 C0006395,C3714514,CAUSES,Bunyaviridae,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0006395,C4061114,CAUSES,Bunyaviridae,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0008056,C0021368,CAUSES,Chikungunya virus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
-C0008056,C4061114,CAUSES,Chikungunya virus,Acute illness,virs,patf,2,CAUSES_VIRScausPATF
+C0008056,C4061114,CAUSES,Chikungunya virus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0009743,C1155266,CAUSES,"Hemorrhagic Fever Virus, Crimean-Congo",inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
 C0010076,C3714514,CAUSES,Coronaviridae,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0010233,C0333467,CAUSES,Cowpox virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
@@ -39,7 +39,7 @@ C0010825,C1155266,CAUSES,Cytomegalovirus,inflammatory response,virs,patf,1,CAUSE
 C0010825,C3714514,CAUSES,Cytomegalovirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0011315,C0020683,CAUSES,Dengue Virus,Hypovolemic Shock,virs,patf,1,CAUSES_VIRScausPATF
 C0011315,C0333467,CAUSES,Dengue Virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
-C0011315,C3714514,CAUSES,Dengue Virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0011315,C3714514,CAUSES,Dengue Virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0011315,C4061114,CAUSES,Dengue Virus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0012755,C0011304,CAUSES,"Distemper Virus, Canine",Demyelination,virs,patf,1,CAUSES_VIRScausPATF
 C0012755,C3714514,CAUSES,"Distemper Virus, Canine",Infection,virs,patf,1,CAUSES_VIRScausPATF
@@ -51,7 +51,7 @@ C0013480,C1155266,CAUSES,Ebola virus,inflammatory response,virs,patf,1,CAUSES_VI
 C0013480,C3714514,CAUSES,Ebola virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0013532,C0027540,CAUSES,Echovirus 9,Necrosis,virs,patf,1,CAUSES_VIRScausPATF
 C0013534,C0021368,CAUSES,Echovirus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
-C0013534,C3714514,CAUSES,Echovirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0013534,C3714514,CAUSES,Echovirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0013590,C0027540,CAUSES,Mouse Pox Virus,Necrosis,virs,patf,1,CAUSES_VIRScausPATF
 C0014047,C0021368,CAUSES,Japanese encephalitis virus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0014047,C0333467,CAUSES,Japanese encephalitis virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
@@ -65,11 +65,11 @@ C0014383,C0021368,CAUSES,Enterovirus,Inflammation,virs,patf,1,CAUSES_VIRScausPAT
 C0014383,C0027540,CAUSES,Enterovirus,Necrosis,virs,patf,1,CAUSES_VIRScausPATF
 C0014383,C0333467,CAUSES,Enterovirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0014383,C1155266,CAUSES,Enterovirus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C0014383,C3714514,CAUSES,Enterovirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0014383,C3714514,CAUSES,Enterovirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0014644,C0024348,CAUSES,Epstein-Barr Virus,Lysis,virs,patf,1,CAUSES_VIRScausPATF
-C0014644,C0432487,CAUSES,Epstein-Barr Virus,Post-transplant lymphoproliferative disorder,virs,patf,2,CAUSES_VIRScausPATF
+C0014644,C0432487,CAUSES,Epstein-Barr Virus,Post-transplant lymphoproliferative disorder,virs,patf,1,CAUSES_VIRScausPATF
 C0014644,C2699153,CAUSES,Epstein-Barr Virus,Cell Invasion,virs,patf,1,CAUSES_VIRScausPATF
-C0014644,C3714514,CAUSES,Epstein-Barr Virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0014644,C3714514,CAUSES,Epstein-Barr Virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0015767,C0000833,CAUSES,Feline leukemia virus,Abscess,virs,patf,1,CAUSES_VIRScausPATF
 C0015767,C0020507,CAUSES,Feline leukemia virus,Hyperplasia,virs,patf,1,CAUSES_VIRScausPATF
 C0016215,C0333467,CAUSES,Flavivirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
@@ -85,7 +85,7 @@ C0019185,C0011304,CAUSES,Murine hepatitis virus,Demyelination,virs,patf,1,CAUSES
 C0019185,C0021368,CAUSES,Murine hepatitis virus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0019185,C0332448,CAUSES,Murine hepatitis virus,Infiltration,virs,patf,1,CAUSES_VIRScausPATF
 C0019185,C0333456,CAUSES,Murine hepatitis virus,Primary demyelination,virs,patf,1,CAUSES_VIRScausPATF
-C0019186,C3714514,CAUSES,Hepatitis Viruses,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0019186,C3714514,CAUSES,Hepatitis Viruses,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0019351,C0011304,CAUSES,Human Herpesvirus 2,Demyelination,virs,patf,1,CAUSES_VIRScausPATF
 C0019369,C1155266,CAUSES,Herpesviridae,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
 C0019369,C3714514,CAUSES,Herpesviridae,Infection,virs,patf,1,CAUSES_VIRScausPATF
@@ -94,7 +94,7 @@ C0019682,C3714514,CAUSES,HIV,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0019704,C0028778,CAUSES,HIV-1,Obstruction,virs,patf,1,CAUSES_VIRScausPATF
 C0019704,C0333467,CAUSES,HIV-1,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0019704,C1155266,CAUSES,HIV-1,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C0019704,C3714514,CAUSES,HIV-1,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0019704,C3714514,CAUSES,HIV-1,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0019842,C0015376,CAUSES,Classical swine fever virus,Extravasation,virs,patf,1,CAUSES_VIRScausPATF
 C0019842,C0476474,CAUSES,Classical swine fever virus,persistent fever,virs,patf,1,CAUSES_VIRScausPATF
 C0019842,C3714514,CAUSES,Classical swine fever virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
@@ -128,7 +128,7 @@ C0029341,C0302158,CAUSES,Orthomyxoviridae,Leucocytic infiltrate,virs,patf,1,CAUS
 C0029341,C0333467,CAUSES,Orthomyxoviridae,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0029341,C1155266,CAUSES,Orthomyxoviridae,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
 C0029341,C1527304,CAUSES,Orthomyxoviridae,Allergic Reaction,virs,patf,1,CAUSES_VIRScausPATF
-C0029341,C3714514,CAUSES,Orthomyxoviridae,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0029341,C3714514,CAUSES,Orthomyxoviridae,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0029341,C4061114,CAUSES,Orthomyxoviridae,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0029343,C1155266,CAUSES,"Influenza A Virus, Avian",inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
 C0029343,C3714514,CAUSES,"Influenza A Virus, Avian",Infection,virs,patf,1,CAUSES_VIRScausPATF
@@ -138,7 +138,7 @@ C0029347,C0021368,CAUSES,Influenza A virus,Inflammation,virs,patf,1,CAUSES_VIRSc
 C0029347,C0281169,CAUSES,Influenza A virus,pulmonary complications,virs,patf,1,CAUSES_VIRScausPATF
 C0029347,C0333467,CAUSES,Influenza A virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0029347,C1155266,CAUSES,Influenza A virus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C0029347,C3714514,CAUSES,Influenza A virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0029347,C3714514,CAUSES,Influenza A virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0030390,C3714514,CAUSES,"Parainfluenza Virus 1, Human",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0030391,C3714514,CAUSES,"Parainfluenza Virus 2, Human",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0030392,C3714514,CAUSES,"Parainfluenza Virus 3, Human",Infection,virs,patf,1,CAUSES_VIRScausPATF
@@ -154,7 +154,7 @@ C0035236,C0021368,CAUSES,Respiratory syncytial virus,Inflammation,virs,patf,1,CA
 C0035236,C0035228,CAUSES,Respiratory syncytial virus,Respiratory Hypersensitivity,virs,patf,1,CAUSES_VIRScausPATF
 C0035236,C0235029,CAUSES,Respiratory syncytial virus,neurological complication,virs,patf,1,CAUSES_VIRScausPATF
 C0035236,C1155266,CAUSES,Respiratory syncytial virus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C0035236,C3714514,CAUSES,Respiratory syncytial virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0035236,C3714514,CAUSES,Respiratory syncytial virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0035236,C4061114,CAUSES,Respiratory syncytial virus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0035366,C0020963,CAUSES,Retroviridae,Immune Tolerance,virs,patf,1,CAUSES_VIRScausPATF
 C0035366,C0151686,CAUSES,Retroviridae,Growth retardation,virs,patf,1,CAUSES_VIRScausPATF
@@ -174,7 +174,7 @@ C0035691,C0948496,CAUSES,RNA Viruses,abortion late,virs,patf,1,CAUSES_VIRScausPA
 C0035691,C3714514,CAUSES,RNA Viruses,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0035866,C0021368,CAUSES,Ross river virus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0035870,C0021368,CAUSES,Rotavirus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
-C0035870,C3714514,CAUSES,Rotavirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0035870,C3714514,CAUSES,Rotavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0035924,C0333467,CAUSES,Rubella virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0036636,C0011304,CAUSES,Semliki forest virus,Demyelination,virs,patf,1,CAUSES_VIRScausPATF
 C0036638,C0035228,CAUSES,Sendai virus,Respiratory Hypersensitivity,virs,patf,1,CAUSES_VIRScausPATF
@@ -240,14 +240,14 @@ C0085294,C3714514,CAUSES,Hepatitis E virus,Infection,virs,patf,1,CAUSES_VIRScaus
 C0085305,C0013687,CAUSES,Feline infectious peritonitis virus,effusion,virs,patf,1,CAUSES_VIRScausPATF
 C0085305,C0018188,CAUSES,Feline infectious peritonitis virus,Granuloma,virs,patf,1,CAUSES_VIRScausPATF
 C0085305,C0027540,CAUSES,Feline infectious peritonitis virus,Necrosis,virs,patf,1,CAUSES_VIRScausPATF
-C0085305,C3714514,CAUSES,Feline infectious peritonitis virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0085305,C3714514,CAUSES,Feline infectious peritonitis virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0086427,C3714514,CAUSES,"T-Cell Leukemia Viruses, Human",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0086776,C0151686,CAUSES,Parvovirus,Growth retardation,virs,patf,1,CAUSES_VIRScausPATF
 C0086776,C3714514,CAUSES,Parvovirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0205725,C3714514,CAUSES,Human Herpesvirus 5 species,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0205790,C3714514,CAUSES,Puumala virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0206419,C0333467,CAUSES,Genus: Coronavirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
-C0206419,C3714514,CAUSES,Genus: Coronavirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0206419,C3714514,CAUSES,Genus: Coronavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0206421,C3714514,CAUSES,"Coronavirus, Canine",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0206422,C0011304,CAUSES,Human coronavirus,Demyelination,virs,patf,1,CAUSES_VIRScausPATF
 C0206422,C0021368,CAUSES,Human coronavirus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
@@ -271,7 +271,7 @@ C0206545,C0028778,CAUSES,Human respiratory syncytial virus,Obstruction,virs,patf
 C0206545,C0035228,CAUSES,Human respiratory syncytial virus,Respiratory Hypersensitivity,virs,patf,1,CAUSES_VIRScausPATF
 C0206545,C0235029,CAUSES,Human respiratory syncytial virus,neurological complication,virs,patf,1,CAUSES_VIRScausPATF
 C0206545,C0332448,CAUSES,Human respiratory syncytial virus,Infiltration,virs,patf,1,CAUSES_VIRScausPATF
-C0206545,C0333467,CAUSES,Human respiratory syncytial virus,Cytopathic effect,virs,patf,2,CAUSES_VIRScausPATF
+C0206545,C0333467,CAUSES,Human respiratory syncytial virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0206545,C3714514,CAUSES,Human respiratory syncytial virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0206545,C4061114,CAUSES,Human respiratory syncytial virus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0206558,C0024348,CAUSES,Simplexvirus,Lysis,virs,patf,1,CAUSES_VIRScausPATF
@@ -280,21 +280,21 @@ C0206558,C3714514,CAUSES,Simplexvirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0206574,C0333467,CAUSES,Goatpox virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0206580,C3714514,CAUSES,Orthopoxvirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0004366,CAUSES,Hepatitis C virus,Autoimmune Response,virs,patf,1,CAUSES_VIRScausPATF
-C0220847,C0016059,CAUSES,Hepatitis C virus,Fibrosis,virs,patf,2,CAUSES_VIRScausPATF
+C0220847,C0016059,CAUSES,Hepatitis C virus,Fibrosis,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0021376,CAUSES,Hepatitis C virus,Chronic inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0021655,CAUSES,Hepatitis C virus,Insulin Resistance,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0024348,CAUSES,Hepatitis C virus,Lysis,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0151763,CAUSES,Hepatitis C virus,Liver damage,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0152254,CAUSES,Hepatitis C virus,Fatty degeneration,virs,patf,1,CAUSES_VIRScausPATF
 C0220847,C0333467,CAUSES,Hepatitis C virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
-C0318356,C3714514,CAUSES,Human virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0318356,C3714514,CAUSES,Human virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0318428,C1520005,CAUSES,Human enterovirus 68,Viral Pathogenesis,virs,patf,1,CAUSES_VIRScausPATF
 C0318428,C3714514,CAUSES,Human enterovirus 68,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0318467,C0021368,CAUSES,Human rhinovirus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0318467,C0035228,CAUSES,Human rhinovirus,Respiratory Hypersensitivity,virs,patf,1,CAUSES_VIRScausPATF
 C0318467,C0333467,CAUSES,Human rhinovirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0318467,C0700148,CAUSES,Human rhinovirus,Congestion,virs,patf,1,CAUSES_VIRScausPATF
-C0318467,C3714514,CAUSES,Human rhinovirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0318467,C3714514,CAUSES,Human rhinovirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0318467,C4061114,CAUSES,Human rhinovirus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0318738,C4061114,CAUSES,Mayaro virus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C0318759,C0333467,CAUSES,"Dengue virus, type 2",Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
@@ -307,7 +307,7 @@ C0318793,C0232910,CAUSES,Zika Virus,Teratogenesis,virs,patf,1,CAUSES_VIRScausPAT
 C0318793,C0235029,CAUSES,Zika Virus,neurological complication,virs,patf,1,CAUSES_VIRScausPATF
 C0318793,C0333467,CAUSES,Zika Virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0318793,C1155266,CAUSES,Zika Virus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C0318793,C3714514,CAUSES,Zika Virus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0318793,C3714514,CAUSES,Zika Virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0318798,C0333467,CAUSES,"Paramyxovirus, NOS",Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C0318798,C3714514,CAUSES,"Paramyxovirus, NOS",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0318855,C0021368,CAUSES,Porcine epidemic diarrhea virus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
@@ -354,10 +354,10 @@ C0887939,C3714514,CAUSES,"Herpesvirus 6B, Human",Infection,virs,patf,1,CAUSES_VI
 C0936087,C3714514,CAUSES,"Coronavirus, Feline",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0949536,C0021368,CAUSES,"Herpesvirus 4, Murid",Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C0949880,C0333467,CAUSES,Human coronavirus 229E,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
-C0949880,C3714514,CAUSES,Human coronavirus 229E,Infection,virs,patf,2,CAUSES_VIRScausPATF
-C0949881,C3714514,CAUSES,"Coronavirus OC43, Human",Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0949880,C3714514,CAUSES,Human coronavirus 229E,Infection,virs,patf,1,CAUSES_VIRScausPATF
+C0949881,C3714514,CAUSES,"Coronavirus OC43, Human",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0949892,C0333467,CAUSES,Ebolavirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
-C0949892,C3714514,CAUSES,Ebolavirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C0949892,C3714514,CAUSES,Ebolavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0949894,C3714514,CAUSES,"Ebola Virus, Reston",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0949896,C3714514,CAUSES,Zaire Ebola Virus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C0949920,C0162633,CAUSES,Norovirus,Viral Shedding,virs,patf,1,CAUSES_VIRScausPATF
@@ -379,7 +379,7 @@ C1175743,C0333467,CAUSES,SARS coronavirus,Cytopathic effect,virs,patf,1,CAUSES_V
 C1175743,C0854457,CAUSES,SARS coronavirus,Direct disease transmission,virs,patf,1,CAUSES_VIRScausPATF
 C1175743,C1155266,CAUSES,SARS coronavirus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
 C1175743,C3686534,CAUSES,SARS coronavirus,Perivascular cuffing,virs,patf,1,CAUSES_VIRScausPATF
-C1175743,C3714514,CAUSES,SARS coronavirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C1175743,C3714514,CAUSES,SARS coronavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C1258014,C0021368,CAUSES,Human Metapneumovirus,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
 C1258014,C0333467,CAUSES,Human Metapneumovirus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C1258014,C0599878,CAUSES,Human Metapneumovirus,disease characteristic,virs,patf,1,CAUSES_VIRScausPATF
@@ -399,7 +399,7 @@ C1319861,C3714514,CAUSES,Human parainfluenza viruses,Infection,virs,patf,1,CAUSE
 C1319861,C4061114,CAUSES,Human parainfluenza viruses,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C1440505,C3714514,CAUSES,Coxsackievirus A16,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C1440514,C0021368,CAUSES,Coxsackievirus B3,Inflammation,virs,patf,1,CAUSES_VIRScausPATF
-C1478824,C3714514,CAUSES,Human coronavirus NL63,Infection,virs,patf,2,CAUSES_VIRScausPATF
+C1478824,C3714514,CAUSES,Human coronavirus NL63,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C1518095,C0333467,CAUSES,Lytic Virus,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF
 C1612845,C3714514,CAUSES,"Influenza A Virus, H7N7 Subtype",Infection,virs,patf,1,CAUSES_VIRScausPATF
 C1613950,C0021368,CAUSES,"Influenza A Virus, H5N1 Subtype",Inflammation,virs,patf,1,CAUSES_VIRScausPATF
@@ -427,8 +427,8 @@ C3658219,C3714514,CAUSES,"Influenza A Virus, H7N9 Subtype",Infection,virs,patf,1
 C3698360,C0242656,CAUSES,Middle East Respiratory Syndrome Coronavirus,Disease Progression,virs,patf,1,CAUSES_VIRScausPATF
 C3698360,C0598906,CAUSES,Middle East Respiratory Syndrome Coronavirus,multiorgan injury,virs,patf,1,CAUSES_VIRScausPATF
 C3698360,C1155266,CAUSES,Middle East Respiratory Syndrome Coronavirus,inflammatory response,virs,patf,1,CAUSES_VIRScausPATF
-C3698360,C3714514,CAUSES,Middle East Respiratory Syndrome Coronavirus,Infection,virs,patf,2,CAUSES_VIRScausPATF
-C3698360,C4061114,CAUSES,Middle East Respiratory Syndrome Coronavirus,Acute illness,virs,patf,2,CAUSES_VIRScausPATF
+C3698360,C3714514,CAUSES,Middle East Respiratory Syndrome Coronavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
+C3698360,C4061114,CAUSES,Middle East Respiratory Syndrome Coronavirus,Acute illness,virs,patf,1,CAUSES_VIRScausPATF
 C3794223,C3714514,CAUSES,Felis catus gammaherpesvirus 1,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C3949547,C3714514,CAUSES,Rosavirus,Infection,virs,patf,1,CAUSES_VIRScausPATF
 C4129474,C0333467,CAUSES,Bat gammaherpesvirus 8,Cytopathic effect,virs,patf,1,CAUSES_VIRScausPATF

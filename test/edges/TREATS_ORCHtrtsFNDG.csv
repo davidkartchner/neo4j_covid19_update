@@ -1,6 +1,6 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000294,C1545588,TREATS,Mesna,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0000970,C0015967,TREATS,Acetaminophen,Fever,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0000970,C0015967,TREATS,Acetaminophen,Fever,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C0332155,TREATS,Acetaminophen,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C0686750,TREATS,Acetaminophen,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C4534363,TREATS,Acetaminophen,At home,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -13,7 +13,7 @@ C0001962,C1320226,TREATS,Ethanol,Incubation period,orch,fndg,1,TREATS_ORCHtrtsFN
 C0001962,C4534506,TREATS,Ethanol,One reactive,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0002062,C0020649,TREATS,Alkaloids,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0002144,C1704258,TREATS,Allopurinol,Abnormality,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0002144,C3671875,TREATS,Allopurinol,Xanthine urolithiasis,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0002144,C3671875,TREATS,Allopurinol,Xanthine urolithiasis,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0002335,C0679218,TREATS,Alprostadil,Resting state,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0002335,C4321237,TREATS,Alprostadil,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0002556,C3843197,TREATS,Aminoglycosides,One or Two Days,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -85,11 +85,11 @@ C0023779,C0240341,TREATS,Lipids,Micrographia,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0023972,C1521726,TREATS,Lomustine,partial response,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0024730,C3279537,TREATS,Mannitol,Severe brain damage,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025397,C1821461,TREATS,Merbromin,Close Relationship,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0025598,C0241863,TREATS,Metformin,diabetic,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0025598,C0241863,TREATS,Metformin,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025677,C1842211,TREATS,Methotrexate,Severe course,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025746,C4304283,TREATS,Methylene blue,Refractory hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025872,C1444662,TREATS,Metronidazole,Discontinued,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0026056,C0235195,TREATS,Midazolam,Sedated state,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0026056,C0235195,TREATS,Midazolam,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0026056,C1299448,TREATS,Midazolam,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0026549,C1969581,TREATS,Morphine,"Hypertension, moderate",orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0027375,C3842675,TREATS,Naphthalene,Day 3,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -106,7 +106,7 @@ C0031716,C3890735,TREATS,Phosphorylcholine,Complete Response with Incomplete Pla
 C0031923,C2004062,TREATS,Pilocarpine,History of previous events,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0032483,C4055264,TREATS,Polyethylene Glycols,Cellular Debris,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0032594,C0427184,TREATS,Polysaccharides,No incoordination,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0033487,C0235195,TREATS,Propofol,Sedated state,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0033487,C0235195,TREATS,Propofol,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0033497,C0342952,TREATS,Propranolol,Hypermetabolism,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0034140,C1517940,TREATS,Purines,Long Term Survivorship,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0034266,C0332575,TREATS,Pyridoxal Phosphate,Redness,orch,fndg,1,TREATS_ORCHtrtsFNDG

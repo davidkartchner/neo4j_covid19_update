@@ -1,0 +1,84 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0001551,COMPARED_WITH,Immunologic Adjuvants,Immunologic Adjuvants,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0021403,COMPARED_WITH,Immunologic Adjuvants,Influenza virus vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0042210,COMPARED_WITH,Immunologic Adjuvants,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0042211,COMPARED_WITH,Immunologic Adjuvants,"Vaccines, Attenuated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0042212,COMPARED_WITH,Immunologic Adjuvants,"Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0301976,COMPARED_WITH,Immunologic Adjuvants,Incomplete adjuvant,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0770694,COMPARED_WITH,Immunologic Adjuvants,trivalent influenza vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0001551,C0887892,COMPARED_WITH,Immunologic Adjuvants,"Vaccines, Subunit",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0002092,C0002092,COMPARED_WITH,Allergens,Allergens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0003316,C0003316,COMPARED_WITH,Epitopes,Epitopes,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0003316,C0042210,COMPARED_WITH,Epitopes,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0003316,C0079600,COMPARED_WITH,Epitopes,Immunodominant Epitopes,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0003316,C0282581,COMPARED_WITH,Epitopes,"Epitopes, B-Lymphocyte",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0003316,C1519887,COMPARED_WITH,Epitopes,Vaccine Antigen,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0012551,C0012551,COMPARED_WITH,"diphtheria toxoid vaccine, inactivated","diphtheria toxoid vaccine, inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0016712,C0042210,COMPARED_WITH,Freund's Adjuvant,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0019167,C0019168,COMPARED_WITH,Hepatitis B e Antigens,Hepatitis B Surface Antigens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0019168,C0019167,COMPARED_WITH,Hepatitis B Surface Antigens,Hepatitis B e Antigens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0019168,C0019168,COMPARED_WITH,Hepatitis B Surface Antigens,Hepatitis B Surface Antigens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0021403,C0001551,COMPARED_WITH,Influenza virus vaccine,Immunologic Adjuvants,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0021403,C0003339,COMPARED_WITH,Influenza virus vaccine,Surface Antigens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0021403,C0021403,COMPARED_WITH,Influenza virus vaccine,Influenza virus vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0021403,C0042210,COMPARED_WITH,Influenza virus vaccine,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0031237,C1520145,COMPARED_WITH,Pertussis Vaccine,Whole Cell Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0001551,COMPARED_WITH,Vaccines,Immunologic Adjuvants,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0003316,COMPARED_WITH,Vaccines,Epitopes,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0003342,COMPARED_WITH,Vaccines,"Antigens, Viral",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0004886,COMPARED_WITH,Vaccines,BCG Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0021403,COMPARED_WITH,Vaccines,Influenza virus vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0034496,COMPARED_WITH,Vaccines,Rabies Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0042210,COMPARED_WITH,Vaccines,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0042211,COMPARED_WITH,Vaccines,"Vaccines, Attenuated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0042212,COMPARED_WITH,Vaccines,"Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0376613,COMPARED_WITH,Vaccines,"Vaccines, DNA",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0720492,COMPARED_WITH,Vaccines,Fluzone,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0887892,COMPARED_WITH,Vaccines,"Vaccines, Subunit",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C0946132,COMPARED_WITH,Vaccines,Human papilloma virus (antigen),imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042210,C1519887,COMPARED_WITH,Vaccines,Vaccine Antigen,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042211,C0042210,COMPARED_WITH,"Vaccines, Attenuated",Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042211,C0042212,COMPARED_WITH,"Vaccines, Attenuated","Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042211,C0887892,COMPARED_WITH,"Vaccines, Attenuated","Vaccines, Subunit",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042212,C0042210,COMPARED_WITH,"Vaccines, Inactivated",Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042212,C0042211,COMPARED_WITH,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042212,C0042212,COMPARED_WITH,"Vaccines, Inactivated","Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042212,C3272757,COMPARED_WITH,"Vaccines, Inactivated",Live Attenuated Influenza Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042742,C0042212,COMPARED_WITH,Viral Vaccines,"Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0042742,C0887892,COMPARED_WITH,Viral Vaccines,"Vaccines, Subunit",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0209660,C0209660,COMPARED_WITH,loxoribine,loxoribine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0282580,C0282580,COMPARED_WITH,"Epitopes, T-Lymphocyte","Epitopes, T-Lymphocyte",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0301871,C0301871,COMPARED_WITH,Immunoprecipitate,Immunoprecipitate,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0369641,C0369641,COMPARED_WITH,M1 Ag,M1 Ag,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0376613,C0042210,COMPARED_WITH,"Vaccines, DNA",Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0376613,C0042211,COMPARED_WITH,"Vaccines, DNA","Vaccines, Attenuated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0376613,C0376613,COMPARED_WITH,"Vaccines, DNA","Vaccines, DNA",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0456981,C1291842,COMPARED_WITH,Specific antigen,Influenzavirus A antigen,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0700144,C0206515,COMPARED_WITH,Meningococcal vaccine,"Vaccines, Conjugate",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0718003,C0032375,COMPARED_WITH,"Poliovirus Vaccine, Inactivated",Oral Poliovirus Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0718003,C0718003,COMPARED_WITH,"Poliovirus Vaccine, Inactivated","Poliovirus Vaccine, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0770694,C0042210,COMPARED_WITH,trivalent influenza vaccine,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0887892,C0001551,COMPARED_WITH,"Vaccines, Subunit",Immunologic Adjuvants,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0887892,C0004886,COMPARED_WITH,"Vaccines, Subunit",BCG Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0887892,C0042210,COMPARED_WITH,"Vaccines, Subunit",Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0887892,C0887892,COMPARED_WITH,"Vaccines, Subunit","Vaccines, Subunit",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0887908,C0042742,COMPARED_WITH,"Vaccines, Marker",Viral Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C0982332,C1520145,COMPARED_WITH,"acellular pertussis vaccine, inactivated",Whole Cell Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1291777,C0003316,COMPARED_WITH,Protein antigen,Epitopes,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1291777,C0019168,COMPARED_WITH,Protein antigen,Hepatitis B Surface Antigens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1320239,C0002092,COMPARED_WITH,Food allergen,Allergens,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1440666,C1440666,COMPARED_WITH,Hay,Hay,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1441165,C1440756,COMPARED_WITH,S-100,HMB-45,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1515333,C1515333,COMPARED_WITH,tetanus toxoid helper peptide,tetanus toxoid helper peptide,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1528012,C1528013,COMPARED_WITH,Rotarix,RotaTeq,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1579319,C1579314,COMPARED_WITH,Pneumococcal conjugate vaccine,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C1883036,C1883036,COMPARED_WITH,Single-Chain Antibodies,Single-Chain Antibodies,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C2825347,C2825347,COMPARED_WITH,"Immunoglobulin A, Human","Immunoglobulin A, Human",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3161957,C0042210,COMPARED_WITH,INFLUENZA strains,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3161957,C3161957,COMPARED_WITH,INFLUENZA strains,INFLUENZA strains,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3178367,C0597641,COMPARED_WITH,MVA vaccine,plasmid vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3178367,C3178367,COMPARED_WITH,MVA vaccine,MVA vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3272757,C0042212,COMPARED_WITH,Live Attenuated Influenza Vaccine,"Vaccines, Inactivated",imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3272757,C3272757,COMPARED_WITH,Live Attenuated Influenza Vaccine,Live Attenuated Influenza Vaccine,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3273243,C0042210,COMPARED_WITH,Polysaccharide Vaccine,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT
+C3833499,C0042210,COMPARED_WITH,AS03 Adjuvant,Vaccines,imft,imft,1,COMPARED_WITH_IMFTcpwtIMFT

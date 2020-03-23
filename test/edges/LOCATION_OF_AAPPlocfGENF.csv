@@ -131,7 +131,7 @@ C0021753,C0040649,LOCATION_OF,Interleukin-1 beta,"Transcription, Genetic",aapp,g
 C0021753,C0162493,LOCATION_OF,Interleukin-1 beta,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021753,C1171362,LOCATION_OF,Interleukin-1 beta,protein expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021753,C1515670,LOCATION_OF,Interleukin-1 beta,mRNA Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C0021755,C0017262,LOCATION_OF,Interleukin-1,Gene Expression,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C0021755,C0017262,LOCATION_OF,Interleukin-1,Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021755,C0040649,LOCATION_OF,Interleukin-1,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021755,C0162493,LOCATION_OF,Interleukin-1,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021755,C1515670,LOCATION_OF,Interleukin-1,mRNA Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -144,7 +144,7 @@ C0021758,C0017262,LOCATION_OF,Interleukin-4,Gene Expression,aapp,genf,1,LOCATION
 C0021758,C0040649,LOCATION_OF,Interleukin-4,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021758,C0162493,LOCATION_OF,Interleukin-4,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021758,C1515670,LOCATION_OF,Interleukin-4,mRNA Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C0021760,C0017262,LOCATION_OF,Interleukin-6,Gene Expression,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C0021760,C0017262,LOCATION_OF,Interleukin-6,Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021760,C0040649,LOCATION_OF,Interleukin-6,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021760,C0079870,LOCATION_OF,Interleukin-6,"Mutagenesis, Site-Directed",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0021760,C0162493,LOCATION_OF,Interleukin-6,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -527,7 +527,7 @@ C0258441,C1512167,LOCATION_OF,TNF receptor-associated factor 2,Ectopic Gene Expr
 C0282400,C0162493,LOCATION_OF,Leukocyte Adhesion Molecules,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0282554,C0017262,LOCATION_OF,chemokine,Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0282554,C0032529,LOCATION_OF,chemokine,Genetic Polymorphism,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C0282554,C0040649,LOCATION_OF,chemokine,"Transcription, Genetic",aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C0282554,C0040649,LOCATION_OF,chemokine,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0282554,C0162493,LOCATION_OF,chemokine,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0282554,C1512167,LOCATION_OF,chemokine,Ectopic Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0282554,C1515670,LOCATION_OF,chemokine,mRNA Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -664,7 +664,7 @@ C0673013,C1512167,LOCATION_OF,"GPER protein, human",Ectopic Gene Expression,aapp
 C0674917,C0040649,LOCATION_OF,"NCR1 protein, human","Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0694888,C0017262,LOCATION_OF,PTEN gene,Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0694888,C0040649,LOCATION_OF,PTEN gene,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C0700271,C0026882,LOCATION_OF,"M Protein, multiple myeloma",Mutation,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C0700271,C0026882,LOCATION_OF,"M Protein, multiple myeloma",Mutation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0700271,C0034865,LOCATION_OF,"M Protein, multiple myeloma","Recombination, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0700271,C0314644,LOCATION_OF,"M Protein, multiple myeloma",Homology region,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C0700271,C0525038,LOCATION_OF,"M Protein, multiple myeloma",Amino Acid Substitution,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -863,7 +863,7 @@ C1335837,C1171362,LOCATION_OF,SLC2A1 gene,protein expression,aapp,genf,1,LOCATIO
 C1335843,C0026882,LOCATION_OF,SMARCA4 gene,Mutation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1335872,C0017262,LOCATION_OF,STAT1 gene,Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1335872,C0040649,LOCATION_OF,STAT1 gene,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C1335872,C0162493,LOCATION_OF,STAT1 gene,Transcriptional Activation,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C1335872,C0162493,LOCATION_OF,STAT1 gene,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1335872,C0598496,LOCATION_OF,STAT1 gene,Gene Silencing,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1335872,C1148673,LOCATION_OF,STAT1 gene,dna binding,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1335872,C1515670,LOCATION_OF,STAT1 gene,mRNA Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -1179,7 +1179,7 @@ C1421429,C0597415,LOCATION_OF,VTRNA1-1 gene,RNA methylation,aapp,genf,1,LOCATION
 C1421429,C1519592,LOCATION_OF,VTRNA1-1 gene,Transcription Process,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1421466,C0598496,LOCATION_OF,VPS41 gene,Gene Silencing,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1421527,C0040649,LOCATION_OF,XBP1 gene,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C1421527,C0162493,LOCATION_OF,XBP1 gene,Transcriptional Activation,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C1421527,C0162493,LOCATION_OF,XBP1 gene,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1421527,C1512167,LOCATION_OF,XBP1 gene,Ectopic Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1421527,C2610186,LOCATION_OF,XBP1 gene,"nuclear mRNA cis splicing, via spliceosome",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1421638,C1148846,LOCATION_OF,TRIM25 gene,RNA Binding,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
@@ -1199,7 +1199,7 @@ C1422179,C0040649,LOCATION_OF,HERPUD1 gene,"Transcription, Genetic",aapp,genf,1,
 C1422268,C1512167,LOCATION_OF,APOM gene,Ectopic Gene Expression,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1422548,C1148846,LOCATION_OF,NLGN1 gene,RNA Binding,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1422599,C0040649,LOCATION_OF,PPP1R15A gene,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF
-C1422599,C0162493,LOCATION_OF,PPP1R15A gene,Transcriptional Activation,aapp,genf,2,LOCATION_OF_AAPPlocfGENF
+C1422599,C0162493,LOCATION_OF,PPP1R15A gene,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1422599,C0314644,LOCATION_OF,PPP1R15A gene,Homology region,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1422629,C0162493,LOCATION_OF,DHX36 gene,Transcriptional Activation,aapp,genf,1,LOCATION_OF_AAPPlocfGENF
 C1422729,C0040649,LOCATION_OF,SP6 gene,"Transcription, Genetic",aapp,genf,1,LOCATION_OF_AAPPlocfGENF

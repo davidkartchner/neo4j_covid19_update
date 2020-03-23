@@ -4,7 +4,7 @@ C0000975,C2239176,TREATS,Acetate,Liver carcinoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0001927,C0206655,TREATS,Albuterol,Alveolar rhabdomyosarcoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0002144,C0006826,TREATS,Allopurinol,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0002144,C0027627,TREATS,Allopurinol,Neoplasm Metastasis,orch,neop,1,TREATS_ORCHtrtsNEOP
-C0002144,C0272199,TREATS,Allopurinol,Familial Hemophagocytic Lymphocytosis,orch,neop,2,TREATS_ORCHtrtsNEOP
+C0002144,C0272199,TREATS,Allopurinol,Familial Hemophagocytic Lymphocytosis,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0003695,C1292753,TREATS,Arachidonic Acid,Primary Effusion Lymphoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0004057,C0006826,TREATS,Aspirin,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0005117,C0029463,TREATS,Berberine,Osteosarcoma,orch,neop,1,TREATS_ORCHtrtsNEOP
@@ -60,7 +60,7 @@ C0059438,C0242379,TREATS,epigallocatechin gallate,Malignant neoplasm of lung,orc
 C0059874,C0024299,TREATS,etoposide phosphate,Lymphoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0060891,C3539878,TREATS,FUT-175,Triple Negative Breast Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0061751,C2239176,TREATS,Glycyrrhizic Acid,Liver carcinoma,orch,neop,1,TREATS_ORCHtrtsNEOP
-C0062941,C0023473,TREATS,omacetaxine mepesuccinate,"Myeloid Leukemia, Chronic",orch,neop,2,TREATS_ORCHtrtsNEOP
+C0062941,C0023473,TREATS,omacetaxine mepesuccinate,"Myeloid Leukemia, Chronic",orch,neop,1,TREATS_ORCHtrtsNEOP
 C0066776,C0027651,TREATS,monophosphoryl lipid A,Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0068006,C0006826,TREATS,miltefosine,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0070066,C0006826,TREATS,paraform,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
@@ -126,7 +126,7 @@ C0733688,C0006826,TREATS,VP-16,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNE
 C0772257,C1266129,TREATS,fruit extracts,Atypical Lipoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0874161,C0206655,TREATS,Oseltamivir,Alveolar rhabdomyosarcoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0879272,C0026764,TREATS,PS 341,Multiple Myeloma,orch,neop,1,TREATS_ORCHtrtsNEOP
-C0935989,C0023473,TREATS,imatinib,"Myeloid Leukemia, Chronic",orch,neop,3,TREATS_ORCHtrtsNEOP
+C0935989,C0023473,TREATS,imatinib,"Myeloid Leukemia, Chronic",orch,neop,1,TREATS_ORCHtrtsNEOP
 C0935989,C0879615,TREATS,imatinib,Stromal Neoplasm,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0939537,C0023473,TREATS,Imatinib mesylate,"Myeloid Leukemia, Chronic",orch,neop,1,TREATS_ORCHtrtsNEOP
 C0939537,C0027627,TREATS,Imatinib mesylate,Neoplasm Metastasis,orch,neop,1,TREATS_ORCHtrtsNEOP
@@ -134,20 +134,20 @@ C0939537,C0677886,TREATS,Imatinib mesylate,Epithelial ovarian cancer,orch,neop,1
 C0949665,C0027627,TREATS,Fluoroquinolones,Neoplasm Metastasis,orch,neop,1,TREATS_ORCHtrtsNEOP
 C0950301,C0027627,TREATS,Baker's Antifol,Neoplasm Metastasis,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1122962,C0242379,TREATS,gefitinib,Malignant neoplasm of lung,orch,neop,1,TREATS_ORCHtrtsNEOP
-C1138226,C1266119,TREATS,favipiravir,Solitary fibrous tumor,orch,neop,2,TREATS_ORCHtrtsNEOP
+C1138226,C1266119,TREATS,favipiravir,Solitary fibrous tumor,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1144149,C0026764,TREATS,lenalidomide,Multiple Myeloma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1144149,C3463824,TREATS,lenalidomide,MYELODYSPLASTIC SYNDROME,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1174739,C0026764,TREATS,Velcade,Multiple Myeloma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1176020,C0242379,TREATS,sunitinib,Malignant neoplasm of lung,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1176020,C0278678,TREATS,sunitinib,Metastatic Renal Cell Cancer,orch,neop,1,TREATS_ORCHtrtsNEOP
-C1176309,C0026764,TREATS,bortezomib,Multiple Myeloma,orch,neop,3,TREATS_ORCHtrtsNEOP
+C1176309,C0026764,TREATS,bortezomib,Multiple Myeloma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1176309,C0549379,TREATS,bortezomib,Recurrent Carcinoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1257954,C1302746,TREATS,Cyclooxygenase 2 Inhibitors,Melanocytic neoplasm,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1312445,C0343079,TREATS,lipofectamine 2000,"Milia, Multiple Eruptive",orch,neop,1,TREATS_ORCHtrtsNEOP
 C1450620,C0343079,TREATS,oligofectamine,"Milia, Multiple Eruptive",orch,neop,1,TREATS_ORCHtrtsNEOP
 C1455147,C0023418,TREATS,dasatinib,leukemia,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1516119,C1706732,TREATS,sorafenib,Advanced Adult Hepatocellular Carcinoma,orch,neop,1,TREATS_ORCHtrtsNEOP
-C1516119,C2239176,TREATS,sorafenib,Liver carcinoma,orch,neop,2,TREATS_ORCHtrtsNEOP
+C1516119,C2239176,TREATS,sorafenib,Liver carcinoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1527262,C0006826,TREATS,17-(dimethylaminoethylamino)-17-demethoxygeldanamycin,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1698364,C4329281,TREATS,cediranib,Advanced Malignant Solid Neoplasm,orch,neop,1,TREATS_ORCHtrtsNEOP
 C1706679,C0006826,TREATS,AZD 0530,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
@@ -172,8 +172,8 @@ C2728259,C0006142,TREATS,Program,Malignant neoplasm of breast,orch,neop,1,TREATS
 C2728259,C0027651,TREATS,Program,Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C2742474,C0029463,TREATS,toceranib phosphate,Osteosarcoma,orch,neop,1,TREATS_ORCHtrtsNEOP
 C2742475,C0007138,TREATS,Palladia,"Carcinoma, Transitional Cell",orch,neop,1,TREATS_ORCHtrtsNEOP
-C2825368,C0238198,TREATS,toceranib,Gastrointestinal Stromal Tumors,orch,neop,2,TREATS_ORCHtrtsNEOP
-C2825368,C0334664,TREATS,toceranib,Mast Cell Neoplasm,orch,neop,2,TREATS_ORCHtrtsNEOP
+C2825368,C0238198,TREATS,toceranib,Gastrointestinal Stromal Tumors,orch,neop,1,TREATS_ORCHtrtsNEOP
+C2825368,C0334664,TREATS,toceranib,Mast Cell Neoplasm,orch,neop,1,TREATS_ORCHtrtsNEOP
 C2825682,C0022602,TREATS,ingenol mebutate,Actinic keratosis,orch,neop,1,TREATS_ORCHtrtsNEOP
 C2828242,C0006826,TREATS,saracatinib,Malignant Neoplasms,orch,neop,1,TREATS_ORCHtrtsNEOP
 C2926735,C0027627,TREATS,Duration,Neoplasm Metastasis,orch,neop,1,TREATS_ORCHtrtsNEOP

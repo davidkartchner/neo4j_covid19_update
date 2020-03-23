@@ -127,7 +127,7 @@ C0020507,C0034693,PROCESS_OF,Hyperplasia,Rattus norvegicus,patf,mamm,1,PROCESS_O
 C0020507,C0034703,PROCESS_OF,Hyperplasia,"Rats, Inbred F344",patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0020507,C1520150,PROCESS_OF,Hyperplasia,Wild Type Mouse,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0020510,C0325089,PROCESS_OF,Nodular hyperplasia,Family Felidae,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C0020517,C0007450,PROCESS_OF,Hypersensitivity,Felis catus,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C0020517,C0007450,PROCESS_OF,Hypersensitivity,Felis catus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0020517,C0007452,PROCESS_OF,Hypersensitivity,Cattle,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0020517,C0008139,PROCESS_OF,Hypersensitivity,Chiroptera,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0020517,C0012984,PROCESS_OF,Hypersensitivity,Canis familiaris,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
@@ -307,7 +307,7 @@ C0085298,C0012984,PROCESS_OF,Sudden Cardiac Death,Canis familiaris,patf,mamm,1,P
 C0085298,C0324373,PROCESS_OF,Sudden Cardiac Death,German shepherd dog,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0085298,C0324462,PROCESS_OF,Sudden Cardiac Death,English Springer spaniel,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0085298,C0869010,PROCESS_OF,Sudden Cardiac Death,Young dog,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C0085612,C0012984,PROCESS_OF,Ventricular arrhythmia,Canis familiaris,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C0085612,C0012984,PROCESS_OF,Ventricular arrhythmia,Canis familiaris,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0085612,C0019944,PROCESS_OF,Ventricular arrhythmia,Equus caballus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0149721,C0007450,PROCESS_OF,Left Ventricular Hypertrophy,Felis catus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C0151517,C0007450,PROCESS_OF,Complete atrioventricular block,Felis catus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
@@ -682,39 +682,39 @@ C3714514,C0002186,PROCESS_OF,Infection,Vicugna pacos,patf,mamm,1,PROCESS_OF_PATF
 C3714514,C0004897,PROCESS_OF,Infection,Ursidae Family,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0006801,PROCESS_OF,Infection,Camels,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0007450,PROCESS_OF,Infection,Felis catus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0007452,PROCESS_OF,Infection,Cattle,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0007452,PROCESS_OF,Infection,Cattle,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0008111,PROCESS_OF,Infection,Pan troglodytes,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0008139,PROCESS_OF,Infection,Chiroptera,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0012984,PROCESS_OF,Infection,Canis familiaris,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0012984,PROCESS_OF,Infection,Canis familiaris,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0013127,PROCESS_OF,Infection,Camelus dromedarius,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0015859,PROCESS_OF,Infection,Ferrets,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0016633,PROCESS_OF,Infection,Foxes,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0018019,PROCESS_OF,Infection,Capra hircus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0018090,PROCESS_OF,Infection,Gorilla <Western Gorilla>,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0018557,PROCESS_OF,Infection,Hamsters,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0019944,PROCESS_OF,Infection,Equus caballus,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0019944,PROCESS_OF,Infection,Equus caballus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0020410,PROCESS_OF,Infection,Hylobates Genus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0023756,PROCESS_OF,Infection,Panthera leo,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0024398,PROCESS_OF,Infection,Macaca,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0024399,PROCESS_OF,Infection,Macaca fascicularis,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0024400,PROCESS_OF,Infection,Macaca mulatta,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0025914,PROCESS_OF,Infection,House mice,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0026179,PROCESS_OF,Infection,Mink,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0026179,PROCESS_OF,Infection,Mink,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0026413,PROCESS_OF,Infection,Herpestidae,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0026809,PROCESS_OF,Infection,Mus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0032636,PROCESS_OF,Infection,Pongidae,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0033147,PROCESS_OF,Infection,Primates,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0033147,PROCESS_OF,Infection,Primates,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0034500,PROCESS_OF,Infection,Raccoons,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0034693,PROCESS_OF,Infection,Rattus norvegicus,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0035804,PROCESS_OF,Infection,Rodent,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0035804,PROCESS_OF,Infection,Rodent,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0035950,PROCESS_OF,Infection,Ruminants,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0036945,PROCESS_OF,Infection,Sheep,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
-C3714514,C0039005,PROCESS_OF,Infection,Family suidae,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0036945,PROCESS_OF,Infection,Sheep,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
+C3714514,C0039005,PROCESS_OF,Infection,Family suidae,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0041390,PROCESS_OF,Infection,Tupaiidae,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0079024,PROCESS_OF,Infection,Bison,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0085112,PROCESS_OF,Infection,SCID Mice,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0085227,PROCESS_OF,Infection,Cercocebus atys,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
-C3714514,C0085979,PROCESS_OF,Infection,Cavia,patf,mamm,2,PROCESS_OF_PATFprcfMAMM
+C3714514,C0085979,PROCESS_OF,Infection,Cavia,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0175925,PROCESS_OF,Infection,Cattle for milk production,patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0206745,PROCESS_OF,Infection,"Mice, Knockout",patf,mamm,1,PROCESS_OF_PATFprcfMAMM
 C3714514,C0237798,PROCESS_OF,Infection,Nonhuman primate,patf,mamm,1,PROCESS_OF_PATFprcfMAMM

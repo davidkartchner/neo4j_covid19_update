@@ -32,7 +32,7 @@ C0021403,C0684030,TREATS,Influenza virus vaccine,high-risk group,imft,humn,1,TRE
 C0021403,C0870602,TREATS,Influenza virus vaccine,geriatric patients,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0021403,C1516213,TREATS,Influenza virus vaccine,Cancer Patient,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0021403,C1518563,TREATS,Influenza virus vaccine,Older Population,imft,humn,1,TREATS_IMFTtrtsHUMN
-C0021403,C1999167,TREATS,Influenza virus vaccine,Old age,imft,humn,2,TREATS_IMFTtrtsHUMN
+C0021403,C1999167,TREATS,Influenza virus vaccine,Old age,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0021403,C2700280,TREATS,Influenza virus vaccine,World,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0021403,C3826770,TREATS,Influenza virus vaccine,Older people,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0025010,C0008059,TREATS,Measles Vaccine,Child,imft,humn,1,TREATS_IMFTtrtsHUMN
@@ -61,7 +61,7 @@ C0042210,C0039309,TREATS,Vaccines,Target Population,imft,humn,1,TREATS_IMFTtrtsH
 C0042210,C0042960,TREATS,Vaccines,Voluntary Workers,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042210,C0043210,TREATS,Vaccines,Woman,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042210,C0080105,TREATS,Vaccines,Research Subject,imft,humn,1,TREATS_IMFTtrtsHUMN
-C0042210,C0086418,TREATS,Vaccines,Homo sapiens,imft,humn,2,TREATS_IMFTtrtsHUMN
+C0042210,C0086418,TREATS,Vaccines,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042210,C0150775,TREATS,Vaccines,Social Networks,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042210,C0238598,TREATS,Vaccines,Young Adult,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042210,C0242299,TREATS,Vaccines,Orphan child,imft,humn,1,TREATS_IMFTtrtsHUMN
@@ -87,7 +87,7 @@ C0042211,C0001675,TREATS,"Vaccines, Attenuated",Adult,imft,humn,1,TREATS_IMFTtrt
 C0042211,C0008059,TREATS,"Vaccines, Attenuated",Child,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042211,C0021270,TREATS,"Vaccines, Attenuated",Infant,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042211,C0033011,TREATS,"Vaccines, Attenuated",Pregnant Women,imft,humn,1,TREATS_IMFTtrtsHUMN
-C0042211,C0086418,TREATS,"Vaccines, Attenuated",Homo sapiens,imft,humn,2,TREATS_IMFTtrtsHUMN
+C0042211,C0086418,TREATS,"Vaccines, Attenuated",Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042211,C0683626,TREATS,"Vaccines, Attenuated",human group,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042211,C0870221,TREATS,"Vaccines, Attenuated",Boys,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042211,C1709854,TREATS,"Vaccines, Attenuated",Recipient,imft,humn,1,TREATS_IMFTtrtsHUMN
@@ -102,7 +102,7 @@ C0042212,C0086418,TREATS,"Vaccines, Inactivated",Homo sapiens,imft,humn,1,TREATS
 C0042742,C0001675,TREATS,Viral Vaccines,Adult,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042742,C0008059,TREATS,Viral Vaccines,Child,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0042742,C0033011,TREATS,Viral Vaccines,Pregnant Women,imft,humn,1,TREATS_IMFTtrtsHUMN
-C0042742,C0086418,TREATS,Viral Vaccines,Homo sapiens,imft,humn,2,TREATS_IMFTtrtsHUMN
+C0042742,C0086418,TREATS,Viral Vaccines,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0062086,C0021270,TREATS,Haemophilus influenzae type b polysaccharide vaccine,Infant,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0062527,C0086418,TREATS,Hepatitis B Surface Antigen Vaccine,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0078048,C0008059,TREATS,Chickenpox Vaccine,Child,imft,humn,1,TREATS_IMFTtrtsHUMN
@@ -122,7 +122,7 @@ C0376613,C0042960,TREATS,"Vaccines, DNA",Voluntary Workers,imft,humn,1,TREATS_IM
 C0376613,C0086418,TREATS,"Vaccines, DNA",Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0376613,C0376387,TREATS,"Vaccines, DNA",Transplant Recipients,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0597420,C0086418,TREATS,Salmonella Vaccines,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
-C0597641,C0086418,TREATS,plasmid vaccine,Homo sapiens,imft,humn,2,TREATS_IMFTtrtsHUMN
+C0597641,C0086418,TREATS,plasmid vaccine,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0597641,C0683626,TREATS,plasmid vaccine,human group,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0599597,C0086418,TREATS,genetic vaccine,Homo sapiens,imft,humn,1,TREATS_IMFTtrtsHUMN
 C0718003,C0021270,TREATS,"Poliovirus Vaccine, Inactivated",Infant,imft,humn,1,TREATS_IMFTtrtsHUMN

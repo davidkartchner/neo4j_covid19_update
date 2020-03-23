@@ -5,7 +5,7 @@ C0001138,C0339952,CAUSES,Acinetobacter,Secondary bacterial pneumonia,bact,dsyn,1
 C0001699,C0004626,CAUSES,Klebsiella pneumoniae,"Pneumonia, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0001699,C0006285,CAUSES,Klebsiella pneumoniae,Bronchopneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0001699,C0032285,CAUSES,Klebsiella pneumoniae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0001699,C0035243,CAUSES,Klebsiella pneumoniae,Respiratory Tract Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0001699,C0035243,CAUSES,Klebsiella pneumoniae,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0001699,C0149725,CAUSES,Klebsiella pneumoniae,Lower respiratory tract infection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0001699,C0205721,CAUSES,Klebsiella pneumoniae,"Infections, Hospital",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0001699,C0275518,CAUSES,Klebsiella pneumoniae,Acute infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -15,7 +15,7 @@ C0001699,C0598196,CAUSES,Klebsiella pneumoniae,microbial disease,bact,dsyn,1,CAU
 C0002795,C0043528,CAUSES,Anaplasmataceae,Zoonoses,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004587,C0043167,CAUSES,Bacillus <bacterium>,Pertussis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004587,C0275518,CAUSES,Bacillus <bacterium>,Acute infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0004589,C0003175,CAUSES,Bacillus anthracis,Anthrax disease,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0004589,C0003175,CAUSES,Bacillus anthracis,Anthrax disease,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004589,C0019061,CAUSES,Bacillus anthracis,Hemolytic-Uremic Syndrome,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004589,C0032064,CAUSES,Bacillus anthracis,Plague,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004589,C0275518,CAUSES,Bacillus anthracis,Acute infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -27,7 +27,7 @@ C0004611,C0002878,CAUSES,Bacteria,"Anemia, Hemolytic",bact,dsyn,1,CAUSES_BACTcau
 C0004611,C0004096,CAUSES,Bacteria,Asthma,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0004364,CAUSES,Bacteria,Autoimmune Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0004610,CAUSES,Bacteria,Bacteremia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0004611,C0004623,CAUSES,Bacteria,Bacterial Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0004611,C0004623,CAUSES,Bacteria,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0004626,CAUSES,Bacteria,"Pneumonia, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0006277,CAUSES,Bacteria,Bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0006285,CAUSES,Bacteria,Bronchopneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -38,7 +38,7 @@ C0004611,C0008325,CAUSES,Bacteria,Cholecystitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0008354,CAUSES,Bacteria,Cholera,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0008677,CAUSES,Bacteria,"Bronchitis, Chronic",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0009443,CAUSES,Bacteria,Common Cold,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0004611,C0009450,CAUSES,Bacteria,Communicable Diseases,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0004611,C0009450,CAUSES,Bacteria,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0010246,CAUSES,Bacteria,Coxsackievirus Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0010674,CAUSES,Bacteria,Cystic Fibrosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0011334,CAUSES,Bacteria,Dental caries,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -52,13 +52,13 @@ C0004611,C0023788,CAUSES,Bacteria,Whipple Disease,bact,dsyn,1,CAUSES_BACTcausDSY
 C0004611,C0024141,CAUSES,Bacteria,"Lupus Erythematosus, Systemic",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0024449,CAUSES,Bacteria,Mycetoma,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0025229,CAUSES,Bacteria,Melioidosis,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0004611,C0025289,CAUSES,Bacteria,Meningitis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0004611,C0025289,CAUSES,Bacteria,Meningitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0027059,CAUSES,Bacteria,Myocarditis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0029118,CAUSES,Bacteria,Opportunistic Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0029291,CAUSES,Bacteria,Psittacosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0031099,CAUSES,Bacteria,Periodontitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0031350,CAUSES,Bacteria,Pharyngitis,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0004611,C0032285,CAUSES,Bacteria,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0004611,C0032285,CAUSES,Bacteria,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0035204,CAUSES,Bacteria,Respiration Disorders,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0035222,CAUSES,Bacteria,"Respiratory Distress Syndrome, Adult",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0004611,C0035243,CAUSES,Bacteria,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -114,7 +114,7 @@ C0006017,C0009450,CAUSES,Bordetella pertussis,Communicable Diseases,bact,dsyn,1,
 C0006017,C0024530,CAUSES,Bordetella pertussis,Malaria,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0006017,C0025289,CAUSES,Bordetella pertussis,Meningitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0006017,C0035243,CAUSES,Bordetella pertussis,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0006017,C0043167,CAUSES,Bordetella pertussis,Pertussis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0006017,C0043167,CAUSES,Bordetella pertussis,Pertussis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0006017,C0149514,CAUSES,Bordetella pertussis,Acute bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0006017,C0871533,CAUSES,Bordetella pertussis,Toxic condition,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0006017,C1175175,CAUSES,Bordetella pertussis,Severe Acute Respiratory Syndrome,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -154,7 +154,7 @@ C0008150,C0029291,CAUSES,Chlamydophila psittaci,Psittacosis,bact,dsyn,1,CAUSES_B
 C0008150,C0035204,CAUSES,Chlamydophila psittaci,Respiration Disorders,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0008150,C0276108,CAUSES,Chlamydophila psittaci,Chlamydia psittaci infection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0008151,C0035012,CAUSES,Chlamydia trachomatis,Reiter Syndrome,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0008151,C0040592,CAUSES,Chlamydia trachomatis,Trachoma,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0008151,C0040592,CAUSES,Chlamydia trachomatis,Trachoma,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0008151,C0085435,CAUSES,Chlamydia trachomatis,"Arthritis, Reactive",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0009054,C0032285,CAUSES,Clostridium,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0009063,C0009319,CAUSES,Clostridium perfringens,Colitis,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -229,12 +229,12 @@ C0018154,C0205721,CAUSES,Gram-Positive Bacteria,"Infections, Hospital",bact,dsyn
 C0018154,C0746883,CAUSES,Gram-Positive Bacteria,Febrile Neutropenia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018154,C0949083,CAUSES,Gram-Positive Bacteria,Hospital acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018479,C0004623,CAUSES,Hemophilus,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0018483,C0004623,CAUSES,Haemophilus influenzae,Bacterial Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0018483,C0004623,CAUSES,Haemophilus influenzae,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0004626,CAUSES,Haemophilus influenzae,"Pneumonia, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0006267,CAUSES,Haemophilus influenzae,Bronchiectasis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0006277,CAUSES,Haemophilus influenzae,Bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0029882,CAUSES,Haemophilus influenzae,Otitis Media,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0018483,C0032285,CAUSES,Haemophilus influenzae,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0018483,C0032285,CAUSES,Haemophilus influenzae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0035243,CAUSES,Haemophilus influenzae,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0040586,CAUSES,Haemophilus influenzae,Tracheobronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0018483,C0042029,CAUSES,Haemophilus influenzae,Urinary tract infection,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -249,7 +249,7 @@ C0022727,C0206171,CAUSES,Klebsiella,Community-Acquired Infections,bact,dsyn,1,CA
 C0022727,C0339952,CAUSES,Klebsiella,Secondary bacterial pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0022727,C0456103,CAUSES,Klebsiella,Sepsis of the newborn,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0022940,C0041296,CAUSES,Lactobacillus casei,Tuberculosis,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0023237,C0032285,CAUSES,Legionella,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0023237,C0032285,CAUSES,Legionella,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0023237,C0694549,CAUSES,Legionella,Community acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0023238,C0009450,CAUSES,Legionella pneumophila,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0023238,C0023241,CAUSES,Legionella pneumophila,Legionnaires' Disease,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -269,10 +269,10 @@ C0026926,C0009450,CAUSES,Mycobacterium tuberculosis,Communicable Diseases,bact,d
 C0026926,C0024530,CAUSES,Mycobacterium tuberculosis,Malaria,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026926,C0032285,CAUSES,Mycobacterium tuberculosis,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026926,C0036690,CAUSES,Mycobacterium tuberculosis,Septicemia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0026926,C0041296,CAUSES,Mycobacterium tuberculosis,Tuberculosis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0026926,C0041296,CAUSES,Mycobacterium tuberculosis,Tuberculosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026926,C0151317,CAUSES,Mycobacterium tuberculosis,Chronic infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0002871,CAUSES,Mycoplasma,Anemia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0026934,C0002878,CAUSES,Mycoplasma,"Anemia, Hemolytic",bact,dsyn,2,CAUSES_BACTcausDSYN
+C0026934,C0002878,CAUSES,Mycoplasma,"Anemia, Hemolytic",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0009450,CAUSES,Mycoplasma,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0022658,CAUSES,Mycoplasma,Kidney Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0026936,CAUSES,Mycoplasma,Mycoplasma Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -281,13 +281,13 @@ C0026934,C0032285,CAUSES,Mycoplasma,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0035204,CAUSES,Mycoplasma,Respiration Disorders,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0035243,CAUSES,Mycoplasma,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026934,C0702135,CAUSES,Mycoplasma,Primary atypical pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0026941,C0004096,CAUSES,Mycoplasma pneumoniae,Asthma,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0026941,C0004096,CAUSES,Mycoplasma pneumoniae,Asthma,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0004623,CAUSES,Mycoplasma pneumoniae,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0006277,CAUSES,Mycoplasma pneumoniae,Bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0009450,CAUSES,Mycoplasma pneumoniae,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0019158,CAUSES,Mycoplasma pneumoniae,Hepatitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0026976,CAUSES,Mycoplasma pneumoniae,"Myelitis, Transverse",bact,dsyn,1,CAUSES_BACTcausDSYN
-C0026941,C0032285,CAUSES,Mycoplasma pneumoniae,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0026941,C0032285,CAUSES,Mycoplasma pneumoniae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0035204,CAUSES,Mycoplasma pneumoniae,Respiration Disorders,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0035243,CAUSES,Mycoplasma pneumoniae,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0026941,C0149514,CAUSES,Mycoplasma pneumoniae,Acute bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -301,10 +301,10 @@ C0027573,C0001361,CAUSES,Neisseria gonorrhoeae,Acute tonsillitis,bact,dsyn,1,CAU
 C0027573,C0018081,CAUSES,Neisseria gonorrhoeae,Gonorrhea,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0027573,C0036916,CAUSES,Neisseria gonorrhoeae,Sexually Transmitted Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0027573,C0858906,CAUSES,Neisseria gonorrhoeae,infection pyogenic,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0027575,C0004623,CAUSES,Neisseria meningitidis,Bacterial Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
-C0027575,C0025289,CAUSES,Neisseria meningitidis,Meningitis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0027575,C0004623,CAUSES,Neisseria meningitidis,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
+C0027575,C0025289,CAUSES,Neisseria meningitidis,Meningitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0027575,C0043167,CAUSES,Neisseria meningitidis,Pertussis,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0027575,C0085437,CAUSES,Neisseria meningitidis,"Meningitis, Bacterial",bact,dsyn,2,CAUSES_BACTcausDSYN
+C0027575,C0085437,CAUSES,Neisseria meningitidis,"Meningitis, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0027575,C0152244,CAUSES,Neisseria meningitidis,"Bone Cysts, Aneurysmal",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0030637,C0032231,CAUSES,Pasteurella multocida,Pleurisy,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0030637,C0035459,CAUSES,Pasteurella multocida,"Rhinitis, Atrophic",bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -322,7 +322,7 @@ C0033809,C0029118,CAUSES,Pseudomonas aeruginosa,Opportunistic Infections,bact,ds
 C0033809,C0032285,CAUSES,Pseudomonas aeruginosa,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033809,C0035243,CAUSES,Pseudomonas aeruginosa,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033809,C0151317,CAUSES,Pseudomonas aeruginosa,Chronic infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0033809,C0205721,CAUSES,Pseudomonas aeruginosa,"Infections, Hospital",bact,dsyn,2,CAUSES_BACTcausDSYN
+C0033809,C0205721,CAUSES,Pseudomonas aeruginosa,"Infections, Hospital",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033809,C0339965,CAUSES,Pseudomonas aeruginosa,Hemorrhagic pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033809,C0442886,CAUSES,Pseudomonas aeruginosa,Secondary Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033809,C0694549,CAUSES,Pseudomonas aeruginosa,Community acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -334,11 +334,11 @@ C0033809,C3164780,CAUSES,Pseudomonas aeruginosa,Clinical sepsis,bact,dsyn,1,CAUS
 C0033818,C0017589,CAUSES,Burkholderia mallei,Glanders,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033819,C0009450,CAUSES,Burkholderia pseudomallei,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0033819,C0017589,CAUSES,Burkholderia pseudomallei,Glanders,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0033819,C0025229,CAUSES,Burkholderia pseudomallei,Melioidosis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0033819,C0025229,CAUSES,Burkholderia pseudomallei,Melioidosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035583,C0042384,CAUSES,Rickettsia,Vasculitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035583,C2108396,CAUSES,Rickettsia,Japanese Spotted Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035588,C0035793,CAUSES,Rickettsia rickettsii,Rocky Mountain Spotted Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0035589,C0036472,CAUSES,Orientia tsutsugamushi,Scrub Typhus,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0035589,C0036472,CAUSES,Orientia tsutsugamushi,Scrub Typhus,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035589,C0041472,CAUSES,Orientia tsutsugamushi,Endemic Flea-Borne Typhus,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035589,C0743841,CAUSES,Orientia tsutsugamushi,Disorder characterized by fever,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0035589,C1640395,CAUSES,Orientia tsutsugamushi,Mite-borne infectious disease,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -401,7 +401,7 @@ C0038404,C0004623,CAUSES,Enterococcus faecalis,Bacterial Infections,bact,dsyn,1,
 C0038404,C0042029,CAUSES,Enterococcus faecalis,Urinary tract infection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038409,C0011334,CAUSES,Streptococcus mutans,Dental caries,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0004610,CAUSES,Streptococcus pneumoniae,Bacteremia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0004623,CAUSES,Streptococcus pneumoniae,Bacterial Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0004623,CAUSES,Streptococcus pneumoniae,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0004626,CAUSES,Streptococcus pneumoniae,"Pneumonia, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0006267,CAUSES,Streptococcus pneumoniae,Bronchiectasis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0008677,CAUSES,Streptococcus pneumoniae,"Bronchitis, Chronic",bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -412,22 +412,22 @@ C0038410,C0024117,CAUSES,Streptococcus pneumoniae,Chronic Obstructive Airway Dis
 C0038410,C0024291,CAUSES,Streptococcus pneumoniae,"Lymphohistiocytosis, Hemophagocytic",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0025289,CAUSES,Streptococcus pneumoniae,Meningitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0029882,CAUSES,Streptococcus pneumoniae,Otitis Media,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0032285,CAUSES,Streptococcus pneumoniae,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0032285,CAUSES,Streptococcus pneumoniae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0032300,CAUSES,Streptococcus pneumoniae,Lobar Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0035204,CAUSES,Streptococcus pneumoniae,Respiration Disorders,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0035243,CAUSES,Streptococcus pneumoniae,Respiratory Tract Infections,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0035243,CAUSES,Streptococcus pneumoniae,Respiratory Tract Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0036690,CAUSES,Streptococcus pneumoniae,Septicemia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0038826,CAUSES,Streptococcus pneumoniae,Superinfection,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0085437,CAUSES,Streptococcus pneumoniae,"Meningitis, Bacterial",bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0085437,CAUSES,Streptococcus pneumoniae,"Meningitis, Bacterial",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0149725,CAUSES,Streptococcus pneumoniae,Lower respiratory tract infection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0206171,CAUSES,Streptococcus pneumoniae,Community-Acquired Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0275524,CAUSES,Streptococcus pneumoniae,Coinfection,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0275524,CAUSES,Streptococcus pneumoniae,Coinfection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0339952,CAUSES,Streptococcus pneumoniae,Secondary bacterial pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0442886,CAUSES,Streptococcus pneumoniae,Secondary Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0598196,CAUSES,Streptococcus pneumoniae,microbial disease,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0694549,CAUSES,Streptococcus pneumoniae,Community acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0740304,CAUSES,Streptococcus pneumoniae,copd exacerbation,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038410,C0740766,CAUSES,Streptococcus pneumoniae,acute pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038410,C0740766,CAUSES,Streptococcus pneumoniae,acute pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0747676,CAUSES,Streptococcus pneumoniae,pneumonia childhood,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C0949083,CAUSES,Streptococcus pneumoniae,Hospital acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038410,C1320214,CAUSES,Streptococcus pneumoniae,Invasive Streptococcus pneumoniae disease,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -437,7 +437,7 @@ C0038411,C0004623,CAUSES,Streptococcus pyogenes,Bacterial Infections,bact,dsyn,1
 C0038411,C0009450,CAUSES,Streptococcus pyogenes,Communicable Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0031350,CAUSES,Streptococcus pyogenes,Pharyngitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0035436,CAUSES,Streptococcus pyogenes,Rheumatic Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0038411,C0036285,CAUSES,Streptococcus pyogenes,Scarlet Fever,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0038411,C0036285,CAUSES,Streptococcus pyogenes,Scarlet Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0037278,CAUSES,Streptococcus pyogenes,"Skin Diseases, Infectious",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0037299,CAUSES,Streptococcus pyogenes,Skin Ulcer,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0040425,CAUSES,Streptococcus pyogenes,Tonsillitis,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -446,9 +446,9 @@ C0038411,C0600327,CAUSES,Streptococcus pyogenes,Toxic Shock Syndrome,bact,dsyn,1
 C0038411,C0749591,CAUSES,Streptococcus pyogenes,tonsillopharyngitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0038411,C0877148,CAUSES,Streptococcus pyogenes,pharyngotonsillitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0040840,C0036916,CAUSES,Treponema pallidum,Sexually Transmitted Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0040840,C0039128,CAUSES,Treponema pallidum,Syphilis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0040840,C0039128,CAUSES,Treponema pallidum,Syphilis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0041944,C0041976,CAUSES,Ureaplasma,Urethritis,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0042629,C0008354,CAUSES,Vibrio cholerae,Cholera,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0042629,C0008354,CAUSES,Vibrio cholerae,Cholera,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0042629,C0013369,CAUSES,Vibrio cholerae,Dysentery,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0042629,C0041466,CAUSES,Vibrio cholerae,Typhoid Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0042629,C1290807,CAUSES,Vibrio cholerae,Diarrheal disorder,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -495,7 +495,7 @@ C0085494,C0275521,CAUSES,Enterococcus,Clinical infection,bact,dsyn,1,CAUSES_BACT
 C0085494,C0854706,CAUSES,Enterococcus,neonatal infection,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0085504,C0004096,CAUSES,Chlamydophila pneumoniae,Asthma,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0085504,C0004623,CAUSES,Chlamydophila pneumoniae,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0085504,C0032285,CAUSES,Chlamydophila pneumoniae,Pneumonia,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0085504,C0032285,CAUSES,Chlamydophila pneumoniae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0085504,C0149514,CAUSES,Chlamydophila pneumoniae,Acute bronchitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0085504,C0339901,CAUSES,Chlamydophila pneumoniae,Acute respiratory infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0085504,C0694549,CAUSES,Chlamydophila pneumoniae,Community acquired pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -548,7 +548,7 @@ C0317817,C0026936,CAUSES,Mycoplasma hyorhinis,Mycoplasma Infections,bact,dsyn,1,
 C0317980,C0004610,CAUSES,Brevundimonas vesicularis,Bacteremia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0318290,C0032285,CAUSES,Stenotrophomonas maltophilia,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0318329,C0040199,CAUSES,Anaplasma phagocytophilum,Tick-borne fever,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0318329,C4476477,CAUSES,Anaplasma phagocytophilum,Human Granulocytic Anaplasmosis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0318329,C4476477,CAUSES,Anaplasma phagocytophilum,Human Granulocytic Anaplasmosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0318337,C0001314,CAUSES,Neorickettsia helminthoeca,Acute Disease,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0318348,C0002878,CAUSES,Mycoplasma haemofelis,"Anemia, Hemolytic",bact,dsyn,1,CAUSES_BACTcausDSYN
 C0318348,C4316790,CAUSES,Mycoplasma haemofelis,Feline infectious anemia,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -560,7 +560,7 @@ C0445868,C0276846,CAUSES,Helicobacter felis,Infection by Hepatozoon,bact,dsyn,1,
 C0445891,C2108396,CAUSES,Rickettsia japonica,Japanese Spotted Fever,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0522384,C0032285,CAUSES,Legionella pneumophila serogroup 1,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0525033,C0042769,CAUSES,Probiotics,Virus Diseases,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0579233,C0025289,CAUSES,Streptococcus agalactiae,Meningitis,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0579233,C0025289,CAUSES,Streptococcus agalactiae,Meningitis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0579233,C0032285,CAUSES,Streptococcus agalactiae,Pneumonia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0579233,C0036690,CAUSES,Streptococcus agalactiae,Septicemia,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0579233,C0456103,CAUSES,Streptococcus agalactiae,Sepsis of the newborn,bact,dsyn,1,CAUSES_BACTcausDSYN
@@ -575,7 +575,7 @@ C0580794,C0276093,CAUSES,Shiga-Toxigenic Escherichia coli,Edema disease,bact,dsy
 C0580797,C0014836,CAUSES,Enterotoxigenic Escherichia coli,Escherichia coli Infections,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0580797,C0017160,CAUSES,Enterotoxigenic Escherichia coli,Gastroenteritis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0580797,C0036690,CAUSES,Enterotoxigenic Escherichia coli,Septicemia,bact,dsyn,1,CAUSES_BACTcausDSYN
-C0580797,C0235840,CAUSES,Enterotoxigenic Escherichia coli,Neonatal diarrhea,bact,dsyn,2,CAUSES_BACTcausDSYN
+C0580797,C0235840,CAUSES,Enterotoxigenic Escherichia coli,Neonatal diarrhea,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0580797,C0276092,CAUSES,Enterotoxigenic Escherichia coli,Neonatal colibacillosis,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0580797,C1290807,CAUSES,Enterotoxigenic Escherichia coli,Diarrheal disorder,bact,dsyn,1,CAUSES_BACTcausDSYN
 C0728888,C0004623,CAUSES,Enterobacter aerogenes,Bacterial Infections,bact,dsyn,1,CAUSES_BACTcausDSYN

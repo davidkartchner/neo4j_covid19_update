@@ -151,7 +151,7 @@ C0021743,C0042774,AFFECTS,Interferon Type I,Virus Replication,aapp,orgf,1,AFFECT
 C0021743,C0301872,AFFECTS,Interferon Type I,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021743,C0678723,AFFECTS,Interferon Type I,Biologic Development,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021743,C1155328,AFFECTS,Interferon Type I,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0021743,C1749719,AFFECTS,Interferon Type I,Adaptive Immune Response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0021743,C1749719,AFFECTS,Interferon Type I,Adaptive Immune Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021743,C1819430,AFFECTS,Interferon Type I,type I interferon production,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021747,C0020966,AFFECTS,Interferons,Cellular Immunity,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021747,C0021059,AFFECTS,Interferons,Immunologic Surveillance,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -188,7 +188,7 @@ C0021760,C0018270,AFFECTS,Interleukin-6,Growth,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C0020966,AFFECTS,Interleukin-6,Cellular Immunity,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C0037313,AFFECTS,Interleukin-6,Sleep,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C0042774,AFFECTS,Interleukin-6,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0021760,C0301872,AFFECTS,Interleukin-6,Immune response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0021760,C0301872,AFFECTS,Interleukin-6,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C1136180,AFFECTS,Interleukin-6,Disease Resistance,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C1654934,AFFECTS,Interleukin-6,Immune Evasion,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0021760,C1749719,AFFECTS,Interleukin-6,Adaptive Immune Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -221,7 +221,7 @@ C0025252,C0301872,AFFECTS,Membrane Proteins,Immune response,aapp,orgf,1,AFFECTS_
 C0025831,C0042774,AFFECTS,Methyltransferase,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0026682,C0042774,AFFECTS,Mucins,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0026794,C0301872,AFFECTS,Muramidase,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0027096,C0026649,AFFECTS,Myosin ATPase,Movement,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0027096,C0026649,AFFECTS,Myosin ATPase,Movement,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0027481,C0019868,AFFECTS,Atrial Natriuretic Factor,Homeostasis,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0027754,C2755962,AFFECTS,Nerve Growth Factors,neural cell differentiation,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0027803,C0004614,AFFECTS,Neuraminidase,Bacterial Adhesion,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -274,7 +274,7 @@ C0033640,C0043240,AFFECTS,Protein Kinases,Wound Healing,aapp,orgf,1,AFFECTS_AAPP
 C0033640,C1155328,AFFECTS,Protein Kinases,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0034789,C0020967,AFFECTS,"Receptors, Antigen, B-Cell",Humoral Immunity,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0034790,C0026649,AFFECTS,T-Cell Receptor,Movement,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0034790,C0301872,AFFECTS,T-Cell Receptor,Immune response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0034790,C0301872,AFFECTS,T-Cell Receptor,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0034790,C1749719,AFFECTS,T-Cell Receptor,Adaptive Immune Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0034790,C2584321,AFFECTS,T-Cell Receptor,Reaching,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0034798,C1510470,AFFECTS,Dopamine Receptor,Motility,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -476,10 +476,10 @@ C0085249,C0678723,AFFECTS,glycosyltransferase,Biologic Development,aapp,orgf,1,A
 C0085295,C0014653,AFFECTS,Interleukin-10,Equilibrium,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C0019868,AFFECTS,Interleukin-10,Homeostasis,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C0021080,AFFECTS,Interleukin-10,Natural immunosuppression,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0085295,C0043240,AFFECTS,Interleukin-10,Wound Healing,aapp,orgf,2,AFFECTS_AAPPafctORGF
-C0085295,C0301872,AFFECTS,Interleukin-10,Immune response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0085295,C0043240,AFFECTS,Interleukin-10,Wound Healing,aapp,orgf,1,AFFECTS_AAPPafctORGF
+C0085295,C0301872,AFFECTS,Interleukin-10,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C0678723,AFFECTS,Interleukin-10,Biologic Development,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0085295,C0678889,AFFECTS,Interleukin-10,Immunoregulation,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0085295,C0678889,AFFECTS,Interleukin-10,Immunoregulation,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C1155328,AFFECTS,Interleukin-10,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C1327413,AFFECTS,Interleukin-10,cytokine production,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0085295,C1819437,AFFECTS,Interleukin-10,interleukin-10 production,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -610,7 +610,7 @@ C0282554,C1155328,AFFECTS,chemokine,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPa
 C0282554,C1327413,AFFECTS,chemokine,cytokine production,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0282554,C1654934,AFFECTS,chemokine,Immune Evasion,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0282682,C0042774,AFFECTS,"Antibodies, Blocking",Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0285558,C0025519,AFFECTS,RAC-Alpha Serine/Threonine Kinase,Metabolism,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0285558,C0025519,AFFECTS,RAC-Alpha Serine/Threonine Kinase,Metabolism,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0285558,C0042774,AFFECTS,RAC-Alpha Serine/Threonine Kinase,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0286330,C0699900,AFFECTS,26S proteasome,Catabolism,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0286648,C1819430,AFFECTS,Myeloid Differentiation Factor 88,type I interferon production,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -618,7 +618,7 @@ C0287531,C0301872,AFFECTS,"DUSP1 protein, human",Immune response,aapp,orgf,1,AFF
 C0287531,C1819464,AFFECTS,"DUSP1 protein, human",tumor necrosis factor production,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0287750,C0011065,AFFECTS,Transcription Factor CHOP,Cessation of life,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0287990,C0042767,AFFECTS,paired basic amino acid cleaving enzyme,Virus Activation,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C0287990,C0678723,AFFECTS,paired basic amino acid cleaving enzyme,Biologic Development,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C0287990,C0678723,AFFECTS,paired basic amino acid cleaving enzyme,Biologic Development,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0289012,C0301872,AFFECTS,TNF Receptor-Associated Death Domain Protein,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0289507,C0301872,AFFECTS,NF-E2-Related Factor 2,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C0289799,C1510470,AFFECTS,"Receptor, Muscarinic M3",Motility,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -881,7 +881,7 @@ C1333206,C0042774,AFFECTS,DDR1 gene,Virus Replication,aapp,orgf,1,AFFECTS_AAPPaf
 C1333261,C0001811,AFFECTS,Deacetylase,Aging,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1333282,C0678723,AFFECTS,Deubiquitinating Enzymes,Biologic Development,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1333498,C0019868,AFFECTS,Extracellular Protein,Homeostasis,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C1333498,C0301872,AFFECTS,Extracellular Protein,Immune response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C1333498,C0301872,AFFECTS,Extracellular Protein,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1333572,C0018270,AFFECTS,FOXO1 gene,Growth,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1333682,C0042774,AFFECTS,NOP53 gene,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1333682,C1155328,AFFECTS,NOP53 gene,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -915,7 +915,7 @@ C1334896,C0014653,AFFECTS,NR0B2 gene,Equilibrium,aapp,orgf,1,AFFECTS_AAPPafctORG
 C1334905,C0042774,AFFECTS,NRP1 gene,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1335439,C0000934,AFFECTS,Polymerase,Acclimatization,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1335439,C0014653,AFFECTS,Polymerase,Equilibrium,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C1335439,C0042774,AFFECTS,Polymerase,Virus Replication,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C1335439,C0042774,AFFECTS,Polymerase,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1335439,C0043240,AFFECTS,Polymerase,Wound Healing,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1335439,C0301872,AFFECTS,Polymerase,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1335439,C0699900,AFFECTS,Polymerase,Catabolism,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -1102,7 +1102,7 @@ C1417230,C1155328,AFFECTS,MOV10 gene,Antiviral Response,aapp,orgf,1,AFFECTS_AAPP
 C1417239,C0005615,AFFECTS,MPG gene,Birth,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1417249,C0019868,AFFECTS,MRC1 gene,Homeostasis,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1417510,C0042774,AFFECTS,MX1 gene,Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C1417510,C0301872,AFFECTS,MX1 gene,Immune response,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C1417510,C0301872,AFFECTS,MX1 gene,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1417510,C1136180,AFFECTS,MX1 gene,Disease Resistance,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1417510,C1155328,AFFECTS,MX1 gene,Antiviral Response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1417530,C0301872,AFFECTS,MYD88 gene,Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
@@ -1334,7 +1334,7 @@ C1564907,C0301872,AFFECTS,"Receptors, Pattern Recognition",Immune response,aapp,
 C1565120,C0005486,AFFECTS,B-Cell Leukemia 2 Family Proteins,Bioenergetics,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1565427,C0026649,AFFECTS,"PTK2 protein, human",Movement,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1565860,C0019868,AFFECTS,"PTGS2 protein, human",Homeostasis,aapp,orgf,1,AFFECTS_AAPPafctORGF
-C1565860,C0042774,AFFECTS,"PTGS2 protein, human",Virus Replication,aapp,orgf,2,AFFECTS_AAPPafctORGF
+C1565860,C0042774,AFFECTS,"PTGS2 protein, human",Virus Replication,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1565860,C0301872,AFFECTS,"PTGS2 protein, human",Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1568204,C0232338,AFFECTS,"IFNAR1 protein, human",Blood flow,aapp,orgf,1,AFFECTS_AAPPafctORGF
 C1568891,C0301872,AFFECTS,"HGS protein, human",Immune response,aapp,orgf,1,AFFECTS_AAPPafctORGF

@@ -45,7 +45,7 @@ C0007584,C0011854,DIAGNOSES,Cell Count,"Diabetes Mellitus, Insulin-Dependent",lb
 C0007584,C0013570,DIAGNOSES,Cell Count,"Ecthyma, Contagious",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0014173,DIAGNOSES,Cell Count,Endometrial Hyperplasia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0019243,DIAGNOSES,Cell Count,"Angioedemas, Hereditary",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0007584,C0019348,DIAGNOSES,Cell Count,Herpes Simplex Infections,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C0007584,C0019348,DIAGNOSES,Cell Count,Herpes Simplex Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0019693,DIAGNOSES,Cell Count,HIV Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0020179,DIAGNOSES,Cell Count,Huntington Disease,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0020498,DIAGNOSES,Cell Count,"Hyperostosis, Diffuse Idiopathic Skeletal",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -85,7 +85,7 @@ C0007584,C0175778,DIAGNOSES,Cell Count,Larsen syndrome,lbpr,dsyn,1,DIAGNOSES_LBP
 C0007584,C0178238,DIAGNOSES,Cell Count,Intestinal infectious disease (disorder),lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0205671,DIAGNOSES,Cell Count,"Infections, Arenavirus",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0206062,DIAGNOSES,Cell Count,"Lung Diseases, Interstitial",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0007584,C0206750,DIAGNOSES,Cell Count,Coronavirus Infections,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C0007584,C0206750,DIAGNOSES,Cell Count,Coronavirus Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0239946,DIAGNOSES,Cell Count,"Fibrosis, Liver",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0242852,DIAGNOSES,Cell Count,Proliferative vitreoretinopathy,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0243010,DIAGNOSES,Cell Count,Viral Encephalitis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -172,7 +172,7 @@ C0014441,C0019841,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Classical Swine Fe
 C0014441,C0021390,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Inflammatory Bowel Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0014441,C0022578,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Keratoconus,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0014441,C0023092,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Lassa Fever,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0014441,C0023290,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Leishmaniasis, Visceral",lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C0014441,C0023290,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Leishmaniasis, Visceral",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0014441,C0023364,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Leptospirosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0014441,C0025229,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Melioidosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0014441,C0030499,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Parasitic Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -378,7 +378,7 @@ C0026018,C0018889,DIAGNOSES,Microscopy,Helminthiasis,lbpr,dsyn,1,DIAGNOSES_LBPRd
 C0026018,C0019158,DIAGNOSES,Microscopy,Hepatitis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0026018,C0020498,DIAGNOSES,Microscopy,"Hyperostosis, Diffuse Idiopathic Skeletal",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0026018,C0024115,DIAGNOSES,Microscopy,Lung diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0026018,C0024530,DIAGNOSES,Microscopy,Malaria,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C0026018,C0024530,DIAGNOSES,Microscopy,Malaria,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0026018,C0036323,DIAGNOSES,Microscopy,Schistosomiasis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0026018,C0041296,DIAGNOSES,Microscopy,Tuberculosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0026018,C0041327,DIAGNOSES,Microscopy,"Tuberculosis, Pulmonary",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -530,7 +530,7 @@ C0200954,C0019655,DIAGNOSES,Mycology culture,Histoplasmosis,lbpr,dsyn,1,DIAGNOSE
 C0200955,C0001752,DIAGNOSES,Viral culture procedure,African swine fever,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200955,C0016627,DIAGNOSES,Viral culture procedure,Influenza in Birds,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200955,C0019191,DIAGNOSES,Viral culture procedure,Infectious Canine Hepatitis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0200955,C0021400,DIAGNOSES,Viral culture procedure,Influenza,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C0200955,C0021400,DIAGNOSES,Viral culture procedure,Influenza,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200955,C0035204,DIAGNOSES,Viral culture procedure,Respiration Disorders,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200955,C0035235,DIAGNOSES,Viral culture procedure,Respiratory Syncytial Virus Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200955,C0035242,DIAGNOSES,Viral culture procedure,Respiratory Tract Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -833,7 +833,7 @@ C1441604,C0242231,DIAGNOSES,High sensitivity,Coronary Stenosis,lbpr,dsyn,1,DIAGN
 C1441604,C0275524,DIAGNOSES,High sensitivity,Coinfection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1441604,C0405580,DIAGNOSES,High sensitivity,Adrenal cortical hypofunction,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1441604,C0729531,DIAGNOSES,High sensitivity,Viral respiratory infection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C1441604,C2062441,DIAGNOSES,High sensitivity,Influenza A,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C1441604,C2062441,DIAGNOSES,High sensitivity,Influenza A,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1441628,C0343524,DIAGNOSES,Kinyoun Staining Method,Disseminated nocardiosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1443948,C0729531,DIAGNOSES,Measurement of antibody using direct fluorescence,Viral respiratory infection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1444132,C0036472,DIAGNOSES,Immunochromatographic test,Scrub Typhus,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -849,7 +849,7 @@ C1449619,C0004771,DIAGNOSES,Culture Techniques,Bartonella Infections,lbpr,dsyn,1
 C1449619,C0021400,DIAGNOSES,Culture Techniques,Influenza,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1449705,C0020498,DIAGNOSES,Co-Immunoprecipitation,"Hyperostosis, Diffuse Idiopathic Skeletal",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0001126,DIAGNOSES,Assay,Renal tubular acidosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C1510438,C0001752,DIAGNOSES,Assay,African swine fever,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C1510438,C0001752,DIAGNOSES,Assay,African swine fever,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0004096,DIAGNOSES,Assay,Asthma,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0004364,DIAGNOSES,Assay,Autoimmune Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0004623,DIAGNOSES,Assay,Bacterial Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -908,7 +908,7 @@ C1510438,C0085306,DIAGNOSES,Assay,Feline infectious peritonitis,lbpr,dsyn,1,DIAG
 C1510438,C0153112,DIAGNOSES,Assay,Arenaviral hemorrhagic fever,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0155502,DIAGNOSES,Assay,Benign Paroxysmal Positional Vertigo,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0205721,DIAGNOSES,Assay,"Infections, Hospital",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C1510438,C0206750,DIAGNOSES,Assay,Coronavirus Infections,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C1510438,C0206750,DIAGNOSES,Assay,Coronavirus Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0243026,DIAGNOSES,Assay,Sepsis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0263214,DIAGNOSES,Assay,Pyotraumatic dermatitis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0272285,DIAGNOSES,Assay,Heparin-induced thrombocytopenia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -916,7 +916,7 @@ C1510438,C0275518,DIAGNOSES,Assay,Acute infectious disease,lbpr,dsyn,1,DIAGNOSES
 C1510438,C0275522,DIAGNOSES,Assay,Asymptomatic Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0275524,DIAGNOSES,Assay,Coinfection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0276150,DIAGNOSES,Assay,Adenoviral respiratory disease,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C1510438,C0276289,DIAGNOSES,Assay,Zika Virus Infection,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C1510438,C0276289,DIAGNOSES,Assay,Zika Virus Infection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0282687,DIAGNOSES,Assay,"Hemorrhagic Fever, Ebola",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0339901,DIAGNOSES,Assay,Acute respiratory infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C1510438,C0343401,DIAGNOSES,Assay,MRSA - Methicillin resistant Staphylococcus aureus infection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -1014,7 +1014,7 @@ C3272886,C0042769,DIAGNOSES,Circulating Endothelial Cell Count,Virus Diseases,lb
 C3272890,C4289841,DIAGNOSES,Eccentrocyte Count,Canine Lymphoma,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C3272953,C0026918,DIAGNOSES,Immature Granulocyte Count,Mycobacterium Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C3539922,C0009450,DIAGNOSES,Loop-mediated Isothermal Amplification,Communicable Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C3539922,C0024530,DIAGNOSES,Loop-mediated Isothermal Amplification,Malaria,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C3539922,C0024530,DIAGNOSES,Loop-mediated Isothermal Amplification,Malaria,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C3539922,C0040558,DIAGNOSES,Loop-mediated Isothermal Amplification,Toxoplasmosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C3539922,C0042769,DIAGNOSES,Loop-mediated Isothermal Amplification,Virus Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C3539922,C0206750,DIAGNOSES,Loop-mediated Isothermal Amplification,Coronavirus Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -1057,7 +1057,7 @@ C4297010,C0016627,DIAGNOSES,Computational analysis,Influenza in Birds,lbpr,dsyn,
 C4297013,C0009450,DIAGNOSES,Merging,Communicable Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C4317078,C0041296,DIAGNOSES,Mycobacterium Tuberculosis Measurement,Tuberculosis,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C4318456,C0020258,DIAGNOSES,Zaire Ebolavirus Measurement,"Hydrocephalus, Normal Pressure",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C4318939,C0016627,DIAGNOSES,Nasal Swab (procedure),Influenza in Birds,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
+C4318939,C0016627,DIAGNOSES,Nasal Swab (procedure),Influenza in Birds,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C4318939,C0021400,DIAGNOSES,Nasal Swab (procedure),Influenza,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C4318939,C0032027,DIAGNOSES,Nasal Swab (procedure),Pityriasis Rubra Pilaris,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C4318939,C0035243,DIAGNOSES,Nasal Swab (procedure),Respiratory Tract Infections,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN

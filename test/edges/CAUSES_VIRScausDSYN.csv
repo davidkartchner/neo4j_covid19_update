@@ -25,11 +25,11 @@ C0001483,C0032310,CAUSES,Adenoviruses,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRS
 C0001483,C0035204,CAUSES,Adenoviruses,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0035242,CAUSES,Adenoviruses,Respiratory Tract Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0035243,CAUSES,Adenoviruses,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0001483,C0041912,CAUSES,Adenoviruses,Upper Respiratory Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0001483,C0041912,CAUSES,Adenoviruses,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0042708,CAUSES,Adenoviruses,Viral enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0042749,CAUSES,Adenoviruses,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0043167,CAUSES,Adenoviruses,Pertussis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0001483,C0149725,CAUSES,Adenoviruses,Lower respiratory tract infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0001483,C0149725,CAUSES,Adenoviruses,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0205721,CAUSES,Adenoviruses,"Infections, Hospital",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0238990,CAUSES,Adenoviruses,Acute lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001483,C0264222,CAUSES,Adenoviruses,Acute upper respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -57,7 +57,7 @@ C0001490,C0035243,CAUSES,"Adenoviruses, Human",Respiratory Tract Infections,virs
 C0001490,C0149725,CAUSES,"Adenoviruses, Human",Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001490,C0206171,CAUSES,"Adenoviruses, Human",Community-Acquired Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001490,C0238990,CAUSES,"Adenoviruses, Human",Acute lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0001490,C0264219,CAUSES,"Adenoviruses, Human",Acute respiratory disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0001490,C0264219,CAUSES,"Adenoviruses, Human",Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001490,C0275518,CAUSES,"Adenoviruses, Human",Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001490,C0339901,CAUSES,"Adenoviruses, Human",Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0001490,C0694549,CAUSES,"Adenoviruses, Human",Community acquired pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -92,15 +92,15 @@ C0004120,C0010356,CAUSES,Astrovirus,Cross Infection,virs,dsyn,1,CAUSES_VIRScausD
 C0004120,C0011175,CAUSES,Astrovirus,Dehydration,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0014038,CAUSES,Astrovirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0014070,CAUSES,Astrovirus,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0004120,C0017160,CAUSES,Astrovirus,Gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0004120,C0017160,CAUSES,Astrovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0017178,CAUSES,Astrovirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0019158,CAUSES,Astrovirus,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0025289,CAUSES,Astrovirus,Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0267446,CAUSES,Astrovirus,Acute gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C0268115,CAUSES,Astrovirus,Visceral gout,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004120,C3873492,CAUSES,Astrovirus,Epidemic gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0004419,C0006277,CAUSES,Infectious bronchitis virus,Bronchitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0004419,C0009450,CAUSES,Infectious bronchitis virus,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0004419,C0006277,CAUSES,Infectious bronchitis virus,Bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0004419,C0009450,CAUSES,Infectious bronchitis virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0018099,CAUSES,Infectious bronchitis virus,Gout,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0027697,CAUSES,Infectious bronchitis virus,Nephritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0027707,CAUSES,Infectious bronchitis virus,"Nephritis, Interstitial",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -111,14 +111,14 @@ C0004419,C0080276,CAUSES,Infectious bronchitis virus,Disorder of the genitourina
 C0004419,C0264219,CAUSES,Infectious bronchitis virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0268115,CAUSES,Infectious bronchitis virus,Visceral gout,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0275518,CAUSES,Infectious bronchitis virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0004419,C0276472,CAUSES,Infectious bronchitis virus,Avian infectious bronchitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0004419,C0276472,CAUSES,Infectious bronchitis virus,Avian infectious bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C0866123,CAUSES,Infectious bronchitis virus,Nephrotic nephritis NOS,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C1565489,CAUSES,Infectious bronchitis virus,Renal Insufficiency,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004419,C3687182,CAUSES,Infectious bronchitis virus,Proventriculitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004420,C0010380,CAUSES,"Herpesvirus 1, Gallid",Croup,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004420,C0035204,CAUSES,"Herpesvirus 1, Gallid",Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004420,C0264219,CAUSES,"Herpesvirus 1, Gallid",Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0004422,C1373218,CAUSES,Avian leukosis virus,Decreased Immunologic Activity [PE],virs,dsyn,2,CAUSES_VIRScausDSYN
+C0004422,C1373218,CAUSES,Avian leukosis virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004425,C1373218,CAUSES,Reticuloendotheliosis virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004651,C0017178,CAUSES,Bacteriophages,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0004651,C0149725,CAUSES,Bacteriophages,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -147,11 +147,11 @@ C0006395,C4284413,CAUSES,Bunyaviridae,Severe Fever with Thrombocytopenia Syndrom
 C0006752,C0014498,CAUSES,Caliciviridae,Epidemic vomiting syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0006752,C0277525,CAUSES,Caliciviridae,Infectious gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0008056,C0003864,CAUSES,Chikungunya virus,Arthritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0008056,C0008055,CAUSES,Chikungunya virus,Chikungunya Fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0008056,C0008055,CAUSES,Chikungunya virus,Chikungunya Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0008056,C0009326,CAUSES,Chikungunya virus,Collagen Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0008056,C0042749,CAUSES,Chikungunya virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0008056,C0162296,CAUSES,Chikungunya virus,Polyarthralgia,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0008056,C0743841,CAUSES,Chikungunya virus,Disorder characterized by fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0008056,C0743841,CAUSES,Chikungunya virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0008056,C1175175,CAUSES,Chikungunya virus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0009743,C0019087,CAUSES,"Hemorrhagic Fever Virus, Crimean-Congo",Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0009743,C0019104,CAUSES,"Hemorrhagic Fever Virus, Crimean-Congo","Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -197,7 +197,7 @@ C0011313,C0376300,CAUSES,"Dengue virus, type 1",Dengue Shock Syndrome,virs,dsyn,
 C0011315,C0001314,CAUSES,Dengue Virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0003723,CAUSES,Dengue Virus,Arbovirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0004576,CAUSES,Dengue Virus,Babesiosis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0011315,C0011311,CAUSES,Dengue Virus,Dengue Fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0011315,C0011311,CAUSES,Dengue Virus,Dengue Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0014038,CAUSES,Dengue Virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0014057,CAUSES,Dengue Virus,Japanese Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0019087,CAUSES,Dengue Virus,Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -210,11 +210,11 @@ C0011315,C0042749,CAUSES,Dengue Virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0042769,CAUSES,Dengue Virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0043124,CAUSES,Dengue Virus,West Nile Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0043395,CAUSES,Dengue Virus,Yellow Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0011315,C0275518,CAUSES,Dengue Virus,Acute infectious disease,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0011315,C0276289,CAUSES,Dengue Virus,Zika Virus Infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0011315,C0275518,CAUSES,Dengue Virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0011315,C0276289,CAUSES,Dengue Virus,Zika Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0376300,CAUSES,Dengue Virus,Dengue Shock Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C0442886,CAUSES,Dengue Virus,Secondary Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0011315,C0743841,CAUSES,Dengue Virus,Disorder characterized by fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0011315,C0743841,CAUSES,Dengue Virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C1336827,CAUSES,Dengue Virus,Tropical Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C1373218,CAUSES,Dengue Virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0011315,C1640363,CAUSES,Dengue Virus,Vector-transmitted infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -224,7 +224,7 @@ C0012755,C0009450,CAUSES,"Distemper Virus, Canine",Communicable Diseases,virs,ds
 C0012755,C0014070,CAUSES,"Distemper Virus, Canine",Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0012755,C0019191,CAUSES,"Distemper Virus, Canine",Infectious Canine Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0012755,C0042749,CAUSES,"Distemper Virus, Canine",Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0012755,C0205740,CAUSES,"Distemper Virus, Canine",Canine Distemper,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0012755,C0205740,CAUSES,"Distemper Virus, Canine",Canine Distemper,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0012755,C0221505,CAUSES,"Distemper Virus, Canine",Lesion of brain,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0012755,C0243026,CAUSES,"Distemper Virus, Canine",Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0012755,C0742035,CAUSES,"Distemper Virus, Canine",Cerebellar lesions,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -236,8 +236,8 @@ C0013480,C0001314,CAUSES,Ebola virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDS
 C0013480,C0012739,CAUSES,Ebola virus,Disseminated Intravascular Coagulation,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0013480,C0017160,CAUSES,Ebola virus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0013480,C0019087,CAUSES,Ebola virus,Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0013480,C0019104,CAUSES,Ebola virus,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
-C0013480,C0042769,CAUSES,Ebola virus,Virus Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0013480,C0019104,CAUSES,Ebola virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
+C0013480,C0042769,CAUSES,Ebola virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0013480,C0043528,CAUSES,Ebola virus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0013480,C0275518,CAUSES,Ebola virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0013480,C0282687,CAUSES,Ebola virus,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -248,12 +248,12 @@ C0014046,C0014038,CAUSES,"Encephalitis Virus, Eastern Equine",Encephalitis,virs,
 C0014046,C0442893,CAUSES,"Encephalitis Virus, Eastern Equine",Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014046,C2900458,CAUSES,"Encephalitis Virus, Eastern Equine",Viral encephalomyelitis NOS,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0001314,CAUSES,Japanese encephalitis virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014047,C0007682,CAUSES,Japanese encephalitis virus,CNS disorder,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014047,C0007682,CAUSES,Japanese encephalitis virus,CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0007684,CAUSES,Japanese encephalitis virus,Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0011311,CAUSES,Japanese encephalitis virus,Dengue Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014047,C0014038,CAUSES,Japanese encephalitis virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0014047,C0014055,CAUSES,Japanese encephalitis virus,Arbovirus encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0014047,C0014057,CAUSES,Japanese encephalitis virus,Japanese Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014047,C0014038,CAUSES,Japanese encephalitis virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0014047,C0014055,CAUSES,Japanese encephalitis virus,Arbovirus encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0014047,C0014057,CAUSES,Japanese encephalitis virus,Japanese Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0025290,CAUSES,Japanese encephalitis virus,Aseptic Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0026975,CAUSES,Japanese encephalitis virus,Myelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0027765,CAUSES,Japanese encephalitis virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -263,7 +263,7 @@ C0014047,C0042769,CAUSES,Japanese encephalitis virus,Virus Diseases,virs,dsyn,1,
 C0014047,C0043124,CAUSES,Japanese encephalitis virus,West Nile Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0043395,CAUSES,Japanese encephalitis virus,Yellow Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0043528,CAUSES,Japanese encephalitis virus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014047,C0243010,CAUSES,Japanese encephalitis virus,Viral Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014047,C0243010,CAUSES,Japanese encephalitis virus,Viral Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0276289,CAUSES,Japanese encephalitis virus,Zika Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C0546994,CAUSES,Japanese encephalitis virus,Acute viral encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014047,C3277428,CAUSES,Japanese encephalitis virus,Severe viral infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -273,7 +273,7 @@ C0014049,C1264606,CAUSES,Venezuelan equine encephalitis virus,Persistent infecti
 C0014050,C0014038,CAUSES,"Encephalitis Virus, Western Equine",Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014051,C0014038,CAUSES,Encephalitis Viruses,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014051,C0085584,CAUSES,Encephalitis Viruses,Encephalopathies,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014052,C0014038,CAUSES,Tick-Borne Encephalitis Viruses,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014052,C0014038,CAUSES,Tick-Borne Encephalitis Viruses,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014052,C0014061,CAUSES,Tick-Borne Encephalitis Viruses,Tick-Borne Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014052,C0027765,CAUSES,Tick-Borne Encephalitis Viruses,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014052,C0042769,CAUSES,Tick-Borne Encephalitis Viruses,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -293,7 +293,7 @@ C0014383,C0007684,CAUSES,Enterovirus,Central Nervous System Infection,virs,dsyn,
 C0014383,C0009450,CAUSES,Enterovirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0014038,CAUSES,Enterovirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0014335,CAUSES,Enterovirus,Enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014383,C0016514,CAUSES,Enterovirus,Foot-and-Mouth Disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014383,C0016514,CAUSES,Enterovirus,Foot-and-Mouth Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0017160,CAUSES,Enterovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0017178,CAUSES,Enterovirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0019338,CAUSES,Enterovirus,Herpangina,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -308,7 +308,7 @@ C0014383,C0030305,CAUSES,Enterovirus,Pancreatitis,virs,dsyn,1,CAUSES_VIRScausDSY
 C0014383,C0035243,CAUSES,Enterovirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0036690,CAUSES,Enterovirus,Septicemia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0037052,CAUSES,Enterovirus,Sick Sinus Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014383,C0041912,CAUSES,Enterovirus,Upper Respiratory Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014383,C0041912,CAUSES,Enterovirus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0042749,CAUSES,Enterovirus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0243010,CAUSES,Enterovirus,Viral Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014383,C0243026,CAUSES,Enterovirus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -322,9 +322,9 @@ C0014644,C0003873,CAUSES,Epstein-Barr Virus,Rheumatoid Arthritis,virs,dsyn,1,CAU
 C0014644,C0004364,CAUSES,Epstein-Barr Virus,Autoimmune Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0014070,CAUSES,Epstein-Barr Virus,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0015674,CAUSES,Epstein-Barr Virus,Chronic Fatigue Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014644,C0021345,CAUSES,Epstein-Barr Virus,Infectious Mononucleosis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014644,C0021345,CAUSES,Epstein-Barr Virus,Infectious Mononucleosis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0024291,CAUSES,Epstein-Barr Virus,"Lymphohistiocytosis, Hemophagocytic",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0014644,C0026769,CAUSES,Epstein-Barr Virus,Multiple Sclerosis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0014644,C0026769,CAUSES,Epstein-Barr Virus,Multiple Sclerosis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0030312,CAUSES,Epstein-Barr Virus,Pancytopenia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0032285,CAUSES,Epstein-Barr Virus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0014644,C0042769,CAUSES,Epstein-Barr Virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -351,7 +351,7 @@ C0015767,C0275524,CAUSES,Feline leukemia virus,Coinfection,virs,dsyn,1,CAUSES_VI
 C0015767,C1285162,CAUSES,Feline leukemia virus,Degenerative disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0015767,C1373218,CAUSES,Feline leukemia virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0015767,C1561643,CAUSES,Feline leukemia virus,Chronic Kidney Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0016215,C0011311,CAUSES,Flavivirus,Dengue Fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0016215,C0011311,CAUSES,Flavivirus,Dengue Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0016215,C0014038,CAUSES,Flavivirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0016215,C0014055,CAUSES,Flavivirus,Arbovirus encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0016215,C0014057,CAUSES,Flavivirus,Japanese Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -376,8 +376,8 @@ C0016215,C1640363,CAUSES,Flavivirus,Vector-transmitted infectious disease,virs,d
 C0017161,C0001314,CAUSES,Transmissible gastroenteritis virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0017161,C0009450,CAUSES,Transmissible gastroenteritis virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0017161,C0014335,CAUSES,Transmissible gastroenteritis virus,Enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0017161,C0017160,CAUSES,Transmissible gastroenteritis virus,Gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0017161,C0017162,CAUSES,Transmissible gastroenteritis virus,"Gastroenteritis, Transmissible, of Swine",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0017161,C0017160,CAUSES,Transmissible gastroenteritis virus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0017161,C0017162,CAUSES,Transmissible gastroenteritis virus,"Gastroenteritis, Transmissible, of Swine",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0017161,C0275524,CAUSES,Transmissible gastroenteritis virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0017161,C0877214,CAUSES,Transmissible gastroenteritis virus,Villus atrophy,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0017161,C1264607,CAUSES,Transmissible gastroenteritis virus,Acute digestive system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -385,15 +385,15 @@ C0019089,C0019097,CAUSES,Junin virus,"Hemorrhagic Fever, Argentinian",virs,dsyn,
 C0019089,C0019104,CAUSES,Junin virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019089,C0040034,CAUSES,Junin virus,Thrombocytopenia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019090,C0019087,CAUSES,Machupo virus,Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019090,C0019104,CAUSES,Machupo virus,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019090,C0019104,CAUSES,Machupo virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0001314,CAUSES,Hantavirus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019092,C0019101,CAUSES,Hantavirus,Hemorrhagic Fever with Renal Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019092,C0019101,CAUSES,Hantavirus,Hemorrhagic Fever with Renal Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0019104,CAUSES,Hantavirus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0035204,CAUSES,Hantavirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0043528,CAUSES,Hantavirus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0151317,CAUSES,Hantavirus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0242994,CAUSES,Hantavirus,Hantavirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019092,C0243025,CAUSES,Hantavirus,Hantavirus Pulmonary Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019092,C0243025,CAUSES,Hantavirus,Hantavirus Pulmonary Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C0275522,CAUSES,Hantavirus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C1175175,CAUSES,Hantavirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019092,C1264606,CAUSES,Hantavirus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -438,7 +438,7 @@ C0019351,C0019342,CAUSES,Human Herpesvirus 2,Genital Herpes,virs,dsyn,1,CAUSES_V
 C0019351,C0019345,CAUSES,Human Herpesvirus 2,Herpes Labialis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019351,C0025289,CAUSES,Human Herpesvirus 2,Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019351,C0026769,CAUSES,Human Herpesvirus 2,Multiple Sclerosis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019351,C0338474,CAUSES,Human Herpesvirus 2,Central nervous system demyelination,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019351,C0338474,CAUSES,Human Herpesvirus 2,Central nervous system demyelination,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019351,C0854706,CAUSES,Human Herpesvirus 2,neonatal infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019351,C1321909,CAUSES,Human Herpesvirus 2,Latent virus infection phase,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019369,C0001175,CAUSES,Herpesviridae,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -456,8 +456,8 @@ C0019369,C0151317,CAUSES,Herpesviridae,Chronic infectious disease,virs,dsyn,1,CA
 C0019369,C0872054,CAUSES,Herpesviridae,latent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019369,C1264606,CAUSES,Herpesviridae,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019376,C0034069,CAUSES,"Herpesvirus 2, Saimiriine",Pulmonary Fibrosis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019378,C0014038,CAUSES,"Herpesvirus 1, Cercopithecine",Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0019378,C0014070,CAUSES,"Herpesvirus 1, Cercopithecine",Encephalomyelitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019378,C0014038,CAUSES,"Herpesvirus 1, Cercopithecine",Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0019378,C0014070,CAUSES,"Herpesvirus 1, Cercopithecine",Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019378,C0021400,CAUSES,"Herpesvirus 1, Cercopithecine",Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019378,C0035243,CAUSES,"Herpesvirus 1, Cercopithecine",Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019378,C0043528,CAUSES,"Herpesvirus 1, Cercopithecine",Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -468,9 +468,9 @@ C0019381,C0015231,CAUSES,"Herpesvirus 6, Human",Exanthema Subitum,virs,dsyn,1,CA
 C0019381,C0243010,CAUSES,"Herpesvirus 6, Human",Viral Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019381,C0679247,CAUSES,"Herpesvirus 6, Human",Terminal illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019381,C1145670,CAUSES,"Herpesvirus 6, Human",Respiratory Failure,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019682,C0001175,CAUSES,HIV,Acquired Immunodeficiency Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019682,C0001175,CAUSES,HIV,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C0009443,CAUSES,HIV,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019682,C0009450,CAUSES,HIV,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019682,C0009450,CAUSES,HIV,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C0016627,CAUSES,HIV,Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C0019693,CAUSES,HIV,HIV Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C0021051,CAUSES,HIV,Immunologic Deficiency Syndromes,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -486,7 +486,7 @@ C0019682,C0231341,CAUSES,HIV,Premature aging syndrome,virs,dsyn,1,CAUSES_VIRScau
 C0019682,C0282312,CAUSES,HIV,Bubonic Plague,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C1175175,CAUSES,HIV,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019682,C1373218,CAUSES,HIV,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
-C0019704,C0001175,CAUSES,HIV-1,Acquired Immunodeficiency Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0019704,C0001175,CAUSES,HIV-1,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019704,C0009450,CAUSES,HIV-1,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019704,C0019693,CAUSES,HIV-1,HIV Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0019704,C0021051,CAUSES,HIV-1,Immunologic Deficiency Syndromes,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -516,7 +516,7 @@ C0021335,C1373218,CAUSES,Bovine herpesvirus 1,Decreased Immunologic Activity [PE
 C0021338,C0001314,CAUSES,Infectious bursal disease virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0021338,C0009450,CAUSES,Infectious bursal disease virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0021338,C0039520,CAUSES,Infectious bursal disease virus,Tenosynovitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0021338,C0276483,CAUSES,Infectious bursal disease virus,Infectious bursal disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0021338,C0276483,CAUSES,Infectious bursal disease virus,Infectious bursal disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0021338,C1373218,CAUSES,Infectious bursal disease virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0021344,C0009450,CAUSES,Human Papillomavirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0021344,C0009663,CAUSES,Human Papillomavirus,Condylomata Acuminata,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -527,13 +527,13 @@ C0021344,C1264606,CAUSES,Human Papillomavirus,Persistent infection,virs,dsyn,1,C
 C0022369,C0007682,CAUSES,JC Virus,CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0022369,C0011303,CAUSES,JC Virus,Demyelinating Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0022369,C0022658,CAUSES,JC Virus,Kidney Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0022369,C0023524,CAUSES,JC Virus,"Leukoencephalopathy, Progressive Multifocal",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0022369,C0023524,CAUSES,JC Virus,"Leukoencephalopathy, Progressive Multifocal",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0022369,C0149725,CAUSES,JC Virus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0022858,C0014038,CAUSES,La Crosse virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0022858,C0027765,CAUSES,La Crosse virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0023093,C0009443,CAUSES,Lassa virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0023093,C0019104,CAUSES,Lassa virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0023093,C0023092,CAUSES,Lassa virus,Lassa Fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0023093,C0023092,CAUSES,Lassa virus,Lassa Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0023093,C1443953,CAUSES,Lassa virus,Acute viral disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024107,C0276195,CAUSES,Lumpy skin disease virus,Sheeppox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024107,C0276196,CAUSES,Lumpy skin disease virus,Goatpox,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -551,12 +551,12 @@ C0024267,C0276622,CAUSES,Lymphocytic choriomeningitis virus,Acute viral hepatiti
 C0024662,C0004364,CAUSES,Mouse mammary tumor virus,Autoimmune Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024662,C0008312,CAUSES,Mouse mammary tumor virus,Primary biliary cirrhosis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024787,C0009443,CAUSES,Lake Victoria marburgvirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0024787,C0019104,CAUSES,Lake Victoria marburgvirus,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0024787,C0019104,CAUSES,Lake Victoria marburgvirus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024787,C0024788,CAUSES,Lake Victoria marburgvirus,Marburg Virus Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024787,C0042769,CAUSES,Lake Victoria marburgvirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0024864,C0001175,CAUSES,Mason-Pfizer monkey virus,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0025011,C0004623,CAUSES,Measles virus,Bacterial Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0025011,C0014038,CAUSES,Measles virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0025011,C0014038,CAUSES,Measles virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0025011,C0025007,CAUSES,Measles virus,Measles,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0025011,C0026780,CAUSES,Measles virus,Mumps,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0025011,C0035204,CAUSES,Measles virus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -582,7 +582,7 @@ C0027610,C0276467,CAUSES,Bovine coronavirus,Neonatal calf diarrhea,virs,dsyn,1,C
 C0027984,C0009450,CAUSES,Newcastle disease virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0027984,C0009763,CAUSES,Newcastle disease virus,Conjunctivitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0027984,C0027765,CAUSES,Newcastle disease virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0027984,C0027983,CAUSES,Newcastle disease virus,Newcastle Disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0027984,C0027983,CAUSES,Newcastle disease virus,Newcastle Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0027984,C0035204,CAUSES,Newcastle disease virus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0027984,C0275518,CAUSES,Newcastle disease virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0028422,C0017160,CAUSES,Norwalk virus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -594,14 +594,14 @@ C0029341,C0001314,CAUSES,Orthomyxoviridae,Acute Disease,virs,dsyn,1,CAUSES_VIRSc
 C0029341,C0004096,CAUSES,Orthomyxoviridae,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0006277,CAUSES,Orthomyxoviridae,Bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0007397,CAUSES,Orthomyxoviridae,Catastrophic Illness,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029341,C0009443,CAUSES,Orthomyxoviridae,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029341,C0009443,CAUSES,Orthomyxoviridae,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0009450,CAUSES,Orthomyxoviridae,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0009763,CAUSES,Orthomyxoviridae,Conjunctivitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0011847,CAUSES,Orthomyxoviridae,Diabetes,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0016627,CAUSES,Orthomyxoviridae,Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0017160,CAUSES,Orthomyxoviridae,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0020433,CAUSES,Orthomyxoviridae,Hyperbilirubinemia,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029341,C0021400,CAUSES,Orthomyxoviridae,Influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029341,C0021400,CAUSES,Orthomyxoviridae,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0024117,CAUSES,Orthomyxoviridae,Chronic Obstructive Airway Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0024530,CAUSES,Orthomyxoviridae,Malaria,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0030389,CAUSES,Orthomyxoviridae,Parainfluenza,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -620,7 +620,7 @@ C0029341,C0043528,CAUSES,Orthomyxoviridae,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDS
 C0029341,C0149725,CAUSES,Orthomyxoviridae,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0206061,CAUSES,Orthomyxoviridae,"Pneumonia, Interstitial",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0238990,CAUSES,Orthomyxoviridae,Acute lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029341,C0264219,CAUSES,Orthomyxoviridae,Acute respiratory disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029341,C0264219,CAUSES,Orthomyxoviridae,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0275518,CAUSES,Orthomyxoviridae,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0275522,CAUSES,Orthomyxoviridae,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029341,C0275524,CAUSES,Orthomyxoviridae,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -646,7 +646,7 @@ C0029343,C0149725,CAUSES,"Influenza A Virus, Avian",Lower respiratory tract infe
 C0029345,C0021400,CAUSES,"Orthomyxovirus Type A, Porcine",Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029345,C0032285,CAUSES,"Orthomyxovirus Type A, Porcine",Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029345,C0035204,CAUSES,"Orthomyxovirus Type A, Porcine",Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029345,C0035222,CAUSES,"Orthomyxovirus Type A, Porcine","Respiratory Distress Syndrome, Adult",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029345,C0035222,CAUSES,"Orthomyxovirus Type A, Porcine","Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029345,C0264219,CAUSES,"Orthomyxovirus Type A, Porcine",Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029345,C0275524,CAUSES,"Orthomyxovirus Type A, Porcine",Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029345,C0339901,CAUSES,"Orthomyxovirus Type A, Porcine",Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -656,7 +656,7 @@ C0029345,C3873497,CAUSES,"Orthomyxovirus Type A, Porcine",Severe acute respirato
 C0029347,C0006277,CAUSES,Influenza A virus,Bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0009450,CAUSES,Influenza A virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0009763,CAUSES,Influenza A virus,Conjunctivitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029347,C0016627,CAUSES,Influenza A virus,Influenza in Birds,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029347,C0016627,CAUSES,Influenza A virus,Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0021400,CAUSES,Influenza A virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0032285,CAUSES,Influenza A virus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0032310,CAUSES,Influenza A virus,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -669,7 +669,7 @@ C0029347,C0043528,CAUSES,Influenza A virus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausD
 C0029347,C0149725,CAUSES,Influenza A virus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0264219,CAUSES,Influenza A virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0275522,CAUSES,Influenza A virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0029347,C0339901,CAUSES,Influenza A virus,Acute respiratory infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0029347,C0339901,CAUSES,Influenza A virus,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0740766,CAUSES,Influenza A virus,acute pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0849867,CAUSES,Influenza A virus,Widespread Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0029347,C0856238,CAUSES,Influenza A virus,influenza (epidemic),virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -694,7 +694,7 @@ C0030392,C0032285,CAUSES,"Parainfluenza Virus 3, Human",Pneumonia,virs,dsyn,1,CA
 C0030393,C0001311,CAUSES,Parainfluenza virus,Acute bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0030393,C0004626,CAUSES,Parainfluenza virus,"Pneumonia, Bacterial",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0030393,C0006271,CAUSES,Parainfluenza virus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0030393,C0009443,CAUSES,Parainfluenza virus,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0030393,C0009443,CAUSES,Parainfluenza virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0030393,C0009450,CAUSES,Parainfluenza virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0030393,C0010356,CAUSES,Parainfluenza virus,Cross Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0030393,C0010380,CAUSES,Parainfluenza virus,Croup,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -739,13 +739,13 @@ C0032868,C0043528,CAUSES,Poxviridae,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0032868,C0162534,CAUSES,Poxviridae,Prion Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0032868,C0339901,CAUSES,Poxviridae,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0033840,C0027765,CAUSES,Suid Herpesvirus 1,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0033840,C0033839,CAUSES,Suid Herpesvirus 1,Pseudorabies,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0033840,C0033839,CAUSES,Suid Herpesvirus 1,Pseudorabies,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0033840,C0039006,CAUSES,Suid Herpesvirus 1,Swine Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0033840,C0042769,CAUSES,Suid Herpesvirus 1,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0033840,C0872054,CAUSES,Suid Herpesvirus 1,latent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0034497,C0008679,CAUSES,Rabies virus,Chronic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0034497,C0014038,CAUSES,Rabies virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0034497,C0027765,CAUSES,Rabies virus,nervous system disorder,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0034497,C0027765,CAUSES,Rabies virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0034497,C0043528,CAUSES,Rabies virus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0034497,C0243010,CAUSES,Rabies virus,Viral Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035111,C0007682,CAUSES,Reoviridae,CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -758,11 +758,11 @@ C0035111,C1373218,CAUSES,Reoviridae,Decreased Immunologic Activity [PE],virs,dsy
 C0035113,C0014038,CAUSES,Mammalian orthoreovirus 3,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035113,C0023895,CAUSES,Mammalian orthoreovirus 3,Liver diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0001311,CAUSES,Respiratory syncytial virus,Acute bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035236,C0004096,CAUSES,Respiratory syncytial virus,Asthma,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0035236,C0006271,CAUSES,Respiratory syncytial virus,Bronchiolitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035236,C0004096,CAUSES,Respiratory syncytial virus,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0035236,C0006271,CAUSES,Respiratory syncytial virus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0007684,CAUSES,Respiratory syncytial virus,Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035236,C0009443,CAUSES,Respiratory syncytial virus,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0035236,C0009450,CAUSES,Respiratory syncytial virus,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035236,C0009443,CAUSES,Respiratory syncytial virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0035236,C0009450,CAUSES,Respiratory syncytial virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0010340,CAUSES,Respiratory syncytial virus,Critical Illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0010356,CAUSES,Respiratory syncytial virus,Cross Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0021400,CAUSES,Respiratory syncytial virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -780,7 +780,7 @@ C0035236,C0041912,CAUSES,Respiratory syncytial virus,Upper Respiratory Infection
 C0035236,C0042769,CAUSES,Respiratory syncytial virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0149725,CAUSES,Respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0205721,CAUSES,Respiratory syncytial virus,"Infections, Hospital",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035236,C0238990,CAUSES,Respiratory syncytial virus,Acute lower respiratory tract infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035236,C0238990,CAUSES,Respiratory syncytial virus,Acute lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0264219,CAUSES,Respiratory syncytial virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0275522,CAUSES,Respiratory syncytial virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035236,C0275524,CAUSES,Respiratory syncytial virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -817,7 +817,7 @@ C0035414,C0042769,CAUSES,Rhabdoviridae,Virus Diseases,virs,dsyn,1,CAUSES_VIRScau
 C0035414,C0521839,CAUSES,Rhabdoviridae,Influenza-like illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0004096,CAUSES,Rhinovirus,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0006271,CAUSES,Rhinovirus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035473,C0009443,CAUSES,Rhinovirus,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035473,C0009443,CAUSES,Rhinovirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0009450,CAUSES,Rhinovirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0023241,CAUSES,Rhinovirus,Legionnaires' Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0024117,CAUSES,Rhinovirus,Chronic Obstructive Airway Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -826,7 +826,7 @@ C0035473,C0027441,CAUSES,Rhinovirus,Nasopharyngitis,virs,dsyn,1,CAUSES_VIRScausD
 C0035473,C0032285,CAUSES,Rhinovirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0032310,CAUSES,Rhinovirus,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0035204,CAUSES,Rhinovirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035473,C0035243,CAUSES,Rhinovirus,Respiratory Tract Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035473,C0035243,CAUSES,Rhinovirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0041912,CAUSES,Rhinovirus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0042769,CAUSES,Rhinovirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035473,C0149725,CAUSES,Rhinovirus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -854,8 +854,8 @@ C0035691,C0009450,CAUSES,RNA Viruses,Communicable Diseases,virs,dsyn,1,CAUSES_VI
 C0035691,C0014038,CAUSES,RNA Viruses,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0014055,CAUSES,RNA Viruses,Arbovirus encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0017160,CAUSES,RNA Viruses,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035691,C0019104,CAUSES,RNA Viruses,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
-C0035691,C0021400,CAUSES,RNA Viruses,Influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035691,C0019104,CAUSES,RNA Viruses,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
+C0035691,C0021400,CAUSES,RNA Viruses,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0023895,CAUSES,RNA Viruses,Liver diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0032371,CAUSES,RNA Viruses,Poliomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0035204,CAUSES,RNA Viruses,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -869,7 +869,7 @@ C0035691,C0275518,CAUSES,RNA Viruses,Acute infectious disease,virs,dsyn,1,CAUSES
 C0035691,C0276357,CAUSES,RNA Viruses,Swine influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0276434,CAUSES,RNA Viruses,Acute type A viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0277525,CAUSES,RNA Viruses,Infectious gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035691,C0277527,CAUSES,RNA Viruses,Epidemic diarrhea,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035691,C0277527,CAUSES,RNA Viruses,Epidemic diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0282687,CAUSES,RNA Viruses,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0376538,CAUSES,RNA Viruses,Porcine Reproductive and Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035691,C0849867,CAUSES,RNA Viruses,Widespread Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -887,7 +887,7 @@ C0035870,C0011175,CAUSES,Rotavirus,Dehydration,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0013369,CAUSES,Rotavirus,Dysentery,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0013371,CAUSES,Rotavirus,Shigella Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0014335,CAUSES,Rotavirus,Enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0035870,C0017160,CAUSES,Rotavirus,Gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0035870,C0017160,CAUSES,Rotavirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0017178,CAUSES,Rotavirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0042769,CAUSES,Rotavirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0035870,C0151317,CAUSES,Rotavirus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -913,7 +913,7 @@ C0037170,C0014070,CAUSES,Sindbis Virus,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRS
 C0037170,C1175175,CAUSES,Sindbis Virus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0037224,C0014038,CAUSES,Simian immunodeficiency virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0037224,C0151317,CAUSES,Simian immunodeficiency virus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0037356,C0037354,CAUSES,Smallpox Viruses,Smallpox,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0037356,C0037354,CAUSES,Smallpox Viruses,Smallpox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0037356,C1443953,CAUSES,Smallpox Viruses,Acute viral disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0040360,C0042769,CAUSES,Togaviridae,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042216,C0004364,CAUSES,Vaccinia virus,Autoimmune Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -924,9 +924,9 @@ C0042216,C0038826,CAUSES,Vaccinia virus,Superinfection,virs,dsyn,1,CAUSES_VIRSca
 C0042216,C0243026,CAUSES,Vaccinia virus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042216,C0936249,CAUSES,Vaccinia virus,Eczema Vaccinatum,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042338,C0007682,CAUSES,Human herpesvirus 3,CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042338,C0008049,CAUSES,Human herpesvirus 3,Chickenpox,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0042338,C0014038,CAUSES,Human herpesvirus 3,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0042338,C0019360,CAUSES,Human herpesvirus 3,Herpes zoster disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042338,C0008049,CAUSES,Human herpesvirus 3,Chickenpox,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0042338,C0014038,CAUSES,Human herpesvirus 3,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0042338,C0019360,CAUSES,Human herpesvirus 3,Herpes zoster disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042338,C0025289,CAUSES,Human herpesvirus 3,Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042338,C0026975,CAUSES,Human herpesvirus 3,Myelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042338,C0027765,CAUSES,Human herpesvirus 3,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -954,7 +954,7 @@ C0042776,C0007684,CAUSES,Virus,Central Nervous System Infection,virs,dsyn,1,CAUS
 C0042776,C0008049,CAUSES,Virus,Chickenpox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0008679,CAUSES,Virus,Chronic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0009443,CAUSES,Virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0009450,CAUSES,Virus,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0009450,CAUSES,Virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0009763,CAUSES,Virus,Conjunctivitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0010356,CAUSES,Virus,Cross Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0011303,CAUSES,Virus,Demyelinating Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -981,14 +981,14 @@ C0042776,C0019097,CAUSES,Virus,"Hemorrhagic Fever, Argentinian",virs,dsyn,1,CAUS
 C0042776,C0019100,CAUSES,Virus,Severe Dengue,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0019101,CAUSES,Virus,Hemorrhagic Fever with Renal Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0019104,CAUSES,Virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0019158,CAUSES,Virus,Hepatitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0019158,CAUSES,Virus,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0019159,CAUSES,Virus,Hepatitis A,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0019163,CAUSES,Virus,Hepatitis B,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0019189,CAUSES,Virus,"Hepatitis, Chronic",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0020473,CAUSES,Virus,Hyperlipidemia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0021051,CAUSES,Virus,Immunologic Deficiency Syndromes,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0021345,CAUSES,Virus,Infectious Mononucleosis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0021400,CAUSES,Virus,Influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0021400,CAUSES,Virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0022568,CAUSES,Virus,Keratitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0022660,CAUSES,Virus,"Kidney Failure, Acute",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0022882,CAUSES,Virus,Laboratory Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -999,10 +999,10 @@ C0042776,C0024117,CAUSES,Virus,Chronic Obstructive Airway Disease,virs,dsyn,1,CA
 C0042776,C0024312,CAUSES,Virus,Lymphopenia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0025007,CAUSES,Virus,Measles,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0025289,CAUSES,Virus,Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0025290,CAUSES,Virus,Aseptic Meningitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0025290,CAUSES,Virus,Aseptic Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0025309,CAUSES,Virus,Meningoencephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0026691,CAUSES,Virus,Mucocutaneous Lymph Node Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0026769,CAUSES,Virus,Multiple Sclerosis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0026769,CAUSES,Virus,Multiple Sclerosis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0026780,CAUSES,Virus,Mumps,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0027059,CAUSES,Virus,Myocarditis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0027345,CAUSES,Virus,Nairobi Sheep Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1068,11 +1068,11 @@ C0042776,C0275522,CAUSES,Virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRSca
 C0042776,C0275524,CAUSES,Virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0276198,CAUSES,Virus,Disease due to Avipoxviridae,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0276340,CAUSES,Virus,Respiratory syncytial virus bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0276356,CAUSES,Virus,Equine influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0276356,CAUSES,Virus,Equine influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0276472,CAUSES,Virus,Avian infectious bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0276500,CAUSES,Virus,Human immunodeficiency virus I infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0276622,CAUSES,Virus,Acute viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0042776,C0277527,CAUSES,Virus,Epidemic diarrhea,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0042776,C0277527,CAUSES,Virus,Epidemic diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0277548,CAUSES,Virus,Epidemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0277550,CAUSES,Virus,Endemic Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0042776,C0282687,CAUSES,Virus,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1139,8 +1139,8 @@ C0043125,C0007682,CAUSES,West Nile virus,CNS disorder,virs,dsyn,1,CAUSES_VIRScau
 C0043125,C0007684,CAUSES,West Nile virus,Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0009450,CAUSES,West Nile virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0011311,CAUSES,West Nile virus,Dengue Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0043125,C0014038,CAUSES,West Nile virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0043125,C0014055,CAUSES,West Nile virus,Arbovirus encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0043125,C0014038,CAUSES,West Nile virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0043125,C0014055,CAUSES,West Nile virus,Arbovirus encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0014057,CAUSES,West Nile virus,Japanese Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0026975,CAUSES,West Nile virus,Myelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0027765,CAUSES,West Nile virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1153,7 +1153,7 @@ C0043125,C0043395,CAUSES,West Nile virus,Yellow Fever,virs,dsyn,1,CAUSES_VIRScau
 C0043125,C0085584,CAUSES,West Nile virus,Encephalopathies,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0243026,CAUSES,West Nile virus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0275522,CAUSES,West Nile virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0043125,C0276289,CAUSES,West Nile virus,Zika Virus Infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0043125,C0276289,CAUSES,West Nile virus,Zika Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0743841,CAUSES,West Nile virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C0751098,CAUSES,West Nile virus,Mosquito-borne viral encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043125,C1403880,CAUSES,West Nile virus,Viral meningoencephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1163,7 +1163,7 @@ C0043396,C0014057,CAUSES,Yellow fever virus,Japanese Encephalitis,virs,dsyn,1,CA
 C0043396,C0019087,CAUSES,Yellow fever virus,Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043396,C0019104,CAUSES,Yellow fever virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043396,C0043124,CAUSES,Yellow fever virus,West Nile Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0043396,C0043395,CAUSES,Yellow fever virus,Yellow Fever,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0043396,C0043395,CAUSES,Yellow fever virus,Yellow Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043396,C0206608,CAUSES,Yellow fever virus,Flavivirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0043396,C0276289,CAUSES,Yellow fever virus,Zika Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0079337,C0001175,CAUSES,Feline Immunodeficiency Virus,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1179,10 +1179,10 @@ C0079506,C0872054,CAUSES,"Herpesvirus 7, Human",latent infection,virs,dsyn,1,CAU
 C0079679,C0001175,CAUSES,Genus: Lentivirus group,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0079679,C0019693,CAUSES,Genus: Lentivirus group,HIV Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0079679,C2074898,CAUSES,Genus: Lentivirus group,chronic Lung Inflammations,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085150,C0019104,CAUSES,Filoviridae,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085150,C0019104,CAUSES,Filoviridae,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085150,C0282687,CAUSES,Filoviridae,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085150,C1264606,CAUSES,Filoviridae,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085294,C0014038,CAUSES,Hepatitis E virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085294,C0014038,CAUSES,Hepatitis E virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0018572,CAUSES,Hepatitis E virus,"Hand, Foot and Mouth Disease",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0019158,CAUSES,Hepatitis E virus,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0019159,CAUSES,Hepatitis E virus,Hepatitis A,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1191,14 +1191,14 @@ C0085294,C0025290,CAUSES,Hepatitis E virus,Aseptic Meningitis,virs,dsyn,1,CAUSES
 C0085294,C0035243,CAUSES,Hepatitis E virus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0041912,CAUSES,Hepatitis E virus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0042721,CAUSES,Hepatitis E virus,Viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085294,C0085293,CAUSES,Hepatitis E virus,Hepatitis E,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085294,C0085293,CAUSES,Hepatitis E virus,Hepatitis E,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0149725,CAUSES,Hepatitis E virus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0151317,CAUSES,Hepatitis E virus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0162557,CAUSES,Hepatitis E virus,"Liver Failure, Acute",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0243010,CAUSES,Hepatitis E virus,Viral Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085294,C0267797,CAUSES,Hepatitis E virus,Acute hepatitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085294,C0267797,CAUSES,Hepatitis E virus,Acute hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0275518,CAUSES,Hepatitis E virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085294,C0276622,CAUSES,Hepatitis E virus,Acute viral hepatitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085294,C0276622,CAUSES,Hepatitis E virus,Acute viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0442893,CAUSES,Hepatitis E virus,Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0743841,CAUSES,Hepatitis E virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085294,C0748355,CAUSES,Hepatitis E virus,Acute respiratory distress,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1208,7 +1208,7 @@ C0085305,C0021053,CAUSES,Feline infectious peritonitis virus,Immune System Disea
 C0085305,C0031154,CAUSES,Feline infectious peritonitis virus,Peritonitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085305,C0042384,CAUSES,Feline infectious peritonitis virus,Vasculitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085305,C0042749,CAUSES,Feline infectious peritonitis virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0085305,C0085306,CAUSES,Feline infectious peritonitis virus,Feline infectious peritonitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0085305,C0085306,CAUSES,Feline infectious peritonitis virus,Feline infectious peritonitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085305,C0243026,CAUSES,Feline infectious peritonitis virus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085305,C0442893,CAUSES,Feline infectious peritonitis virus,Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0085305,C1290884,CAUSES,Feline infectious peritonitis virus,Inflammatory disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1241,7 +1241,7 @@ C0086776,C0027059,CAUSES,Parvovirus,Myocarditis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0086776,C0149725,CAUSES,Parvovirus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0086776,C0275518,CAUSES,Parvovirus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0086776,C0276279,CAUSES,Parvovirus,Mink parvovirus infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0086971,C0019101,CAUSES,Seoul virus,Hemorrhagic Fever with Renal Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0086971,C0019101,CAUSES,Seoul virus,Hemorrhagic Fever with Renal Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0162332,C0014518,CAUSES,"Hemorrhagic Disease Virus, Rabbit",Toxic Epidermal Necrolysis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0162332,C0019087,CAUSES,"Hemorrhagic Disease Virus, Rabbit",Hemorrhagic Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0205660,C0003864,CAUSES,Barmah Forest virus,Arthritis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1278,22 +1278,22 @@ C0206413,C0010356,CAUSES,Calicivirus,Cross Infection,virs,dsyn,1,CAUSES_VIRScaus
 C0206413,C3873492,CAUSES,Calicivirus,Epidemic gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206418,C0014038,CAUSES,Porcine hemagglutinating encephalomyelitis virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206418,C0276467,CAUSES,Porcine hemagglutinating encephalomyelitis virus,Neonatal calf diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206419,C0009443,CAUSES,Genus: Coronavirus,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206419,C0009443,CAUSES,Genus: Coronavirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0009450,CAUSES,Genus: Coronavirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0014070,CAUSES,Genus: Coronavirus,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0014356,CAUSES,Genus: Coronavirus,Enterocolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0016627,CAUSES,Genus: Coronavirus,Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206419,C0017160,CAUSES,Genus: Coronavirus,Gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206419,C0017160,CAUSES,Genus: Coronavirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0019158,CAUSES,Genus: Coronavirus,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0030756,CAUSES,Genus: Coronavirus,Lice Infestations,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0032285,CAUSES,Genus: Coronavirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0032310,CAUSES,Genus: Coronavirus,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0035078,CAUSES,Genus: Coronavirus,Kidney Failure,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206419,C0035204,CAUSES,Genus: Coronavirus,Respiration Disorders,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206419,C0035204,CAUSES,Genus: Coronavirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0035222,CAUSES,Genus: Coronavirus,"Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0035243,CAUSES,Genus: Coronavirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0041912,CAUSES,Genus: Coronavirus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206419,C0042769,CAUSES,Genus: Coronavirus,Virus Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206419,C0042769,CAUSES,Genus: Coronavirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0085306,CAUSES,Genus: Coronavirus,Feline infectious peritonitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0149725,CAUSES,Genus: Coronavirus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0206750,CAUSES,Genus: Coronavirus,Coronavirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1311,7 +1311,7 @@ C0206419,C0442893,CAUSES,Genus: Coronavirus,Systemic disease,virs,dsyn,1,CAUSES_
 C0206419,C0729531,CAUSES,Genus: Coronavirus,Viral respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0740766,CAUSES,Genus: Coronavirus,acute pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C0876973,CAUSES,Genus: Coronavirus,Infectious disease of lung,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206419,C1175175,CAUSES,Genus: Coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206419,C1175175,CAUSES,Genus: Coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C1264606,CAUSES,Genus: Coronavirus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C3534585,CAUSES,Genus: Coronavirus,Infection caused by Norovirus,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206419,C3694279,CAUSES,Genus: Coronavirus,Middle East Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1328,7 +1328,7 @@ C0206422,C0009443,CAUSES,Human coronavirus,Common Cold,virs,dsyn,1,CAUSES_VIRSca
 C0206422,C0009450,CAUSES,Human coronavirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0010380,CAUSES,Human coronavirus,Croup,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0014038,CAUSES,Human coronavirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206422,C0032285,CAUSES,Human coronavirus,Pneumonia,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206422,C0032285,CAUSES,Human coronavirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0035204,CAUSES,Human coronavirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0035222,CAUSES,Human coronavirus,"Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0035242,CAUSES,Human coronavirus,Respiratory Tract Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1342,11 +1342,11 @@ C0206422,C0267446,CAUSES,Human coronavirus,Acute gastroenteritis,virs,dsyn,1,CAU
 C0206422,C0277548,CAUSES,Human coronavirus,Epidemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0282002,CAUSES,Human coronavirus,Superficial Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206422,C0339901,CAUSES,Human coronavirus,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206422,C1175175,CAUSES,Human coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0206424,C0011847,CAUSES,Cardiovirus,Diabetes,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0206424,C0014070,CAUSES,Cardiovirus,Encephalomyelitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206422,C1175175,CAUSES,Human coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0206424,C0011847,CAUSES,Cardiovirus,Diabetes,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0206424,C0014070,CAUSES,Cardiovirus,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206424,C0017178,CAUSES,Cardiovirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206424,C0027059,CAUSES,Cardiovirus,Myocarditis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206424,C0027059,CAUSES,Cardiovirus,Myocarditis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206425,C0007682,CAUSES,"Encephalomyelitis Virus, Murine, Theiler",CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206425,C0007684,CAUSES,"Encephalomyelitis Virus, Murine, Theiler",Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206425,C0008679,CAUSES,"Encephalomyelitis Virus, Murine, Theiler",Chronic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1387,7 +1387,7 @@ C0206466,C0275522,CAUSES,"Parvovirus, Canine",Asymptomatic Infections,virs,dsyn,
 C0206496,C1264606,CAUSES,"Arenaviruses, Old World",Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206497,C0001314,CAUSES,Arenavirus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206497,C0004623,CAUSES,Arenavirus,Bacterial Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206497,C0019104,CAUSES,Arenavirus,"Hemorrhagic Fevers, Viral",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206497,C0019104,CAUSES,Arenavirus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206497,C0023092,CAUSES,Arenavirus,Lassa Fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206497,C0042769,CAUSES,Arenavirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206497,C0153112,CAUSES,Arenavirus,Arenaviral hemorrhagic fever,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1422,29 +1422,29 @@ C0206545,C0006271,CAUSES,Human respiratory syncytial virus,Bronchiolitis,virs,ds
 C0206545,C0006285,CAUSES,Human respiratory syncytial virus,Bronchopneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0009443,CAUSES,Human respiratory syncytial virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0021053,CAUSES,Human respiratory syncytial virus,Immune System Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0021400,CAUSES,Human respiratory syncytial virus,Influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0021400,CAUSES,Human respiratory syncytial virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0022521,CAUSES,Human respiratory syncytial virus,Kartagener Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0024115,CAUSES,Human respiratory syncytial virus,Lung diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0032285,CAUSES,Human respiratory syncytial virus,Pneumonia,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0032285,CAUSES,Human respiratory syncytial virus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0032310,CAUSES,Human respiratory syncytial virus,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0034068,CAUSES,Human respiratory syncytial virus,Pulmonary Eosinophilia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0035204,CAUSES,Human respiratory syncytial virus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0035222,CAUSES,Human respiratory syncytial virus,"Respiratory Distress Syndrome, Adult",virs,dsyn,2,CAUSES_VIRScausDSYN
-C0206545,C0035235,CAUSES,Human respiratory syncytial virus,Respiratory Syncytial Virus Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0035222,CAUSES,Human respiratory syncytial virus,"Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
+C0206545,C0035235,CAUSES,Human respiratory syncytial virus,Respiratory Syncytial Virus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0035242,CAUSES,Human respiratory syncytial virus,Respiratory Tract Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0035243,CAUSES,Human respiratory syncytial virus,Respiratory Tract Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0035243,CAUSES,Human respiratory syncytial virus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0041912,CAUSES,Human respiratory syncytial virus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0042749,CAUSES,Human respiratory syncytial virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0042769,CAUSES,Human respiratory syncytial virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0085584,CAUSES,Human respiratory syncytial virus,Encephalopathies,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0149514,CAUSES,Human respiratory syncytial virus,Acute bronchitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0149725,CAUSES,Human respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0149725,CAUSES,Human respiratory syncytial virus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0238990,CAUSES,Human respiratory syncytial virus,Acute lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0264219,CAUSES,Human respiratory syncytial virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0264408,CAUSES,Human respiratory syncytial virus,Childhood asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0275518,CAUSES,Human respiratory syncytial virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0275524,CAUSES,Human respiratory syncytial virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206545,C0339901,CAUSES,Human respiratory syncytial virus,Acute respiratory infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206545,C0339901,CAUSES,Human respiratory syncytial virus,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0339941,CAUSES,Human respiratory syncytial virus,Acute viral bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0347950,CAUSES,Human respiratory syncytial virus,Asthma attack,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206545,C0442886,CAUSES,Human respiratory syncytial virus,Secondary Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1468,12 +1468,12 @@ C0206551,C0035204,CAUSES,Thogotovirus,Respiration Disorders,virs,dsyn,1,CAUSES_V
 C0206557,C0027765,CAUSES,Alphaherpesvirinae,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206557,C0035204,CAUSES,Alphaherpesvirinae,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206557,C0276243,CAUSES,Alphaherpesvirinae,Feline viral rhinotracheitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206558,C0002395,CAUSES,Simplexvirus,Alzheimer's Disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206558,C0002395,CAUSES,Simplexvirus,Alzheimer's Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0004364,CAUSES,Simplexvirus,Autoimmune Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0007684,CAUSES,Simplexvirus,Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0014038,CAUSES,Simplexvirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0019342,CAUSES,Simplexvirus,Genital Herpes,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206558,C0019345,CAUSES,Simplexvirus,Herpes Labialis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206558,C0019345,CAUSES,Simplexvirus,Herpes Labialis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0025290,CAUSES,Simplexvirus,Aseptic Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0032285,CAUSES,Simplexvirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206558,C0035243,CAUSES,Simplexvirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1497,7 +1497,7 @@ C0206558,C1145670,CAUSES,Simplexvirus,Respiratory Failure,virs,dsyn,1,CAUSES_VIR
 C0206558,C1175175,CAUSES,Simplexvirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206575,C0276195,CAUSES,Sheeppox virus,Sheeppox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206575,C0276196,CAUSES,Sheeppox virus,Goatpox,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0206580,C0037354,CAUSES,Orthopoxvirus,Smallpox,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0206580,C0037354,CAUSES,Orthopoxvirus,Smallpox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206580,C0043528,CAUSES,Orthopoxvirus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206580,C0276180,CAUSES,Orthopoxvirus,Monkeypox,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0206596,C0007682,CAUSES,Orthoreoviruses,CNS disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1519,23 +1519,23 @@ C0220847,C0010403,CAUSES,Hepatitis C virus,Cryoglobulinemia,virs,dsyn,1,CAUSES_V
 C0220847,C0018133,CAUSES,Hepatitis C virus,Graft-vs-Host Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0019158,CAUSES,Hepatitis C virus,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0019189,CAUSES,Hepatitis C virus,"Hepatitis, Chronic",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0220847,C0019196,CAUSES,Hepatitis C virus,Hepatitis C,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0220847,C0019196,CAUSES,Hepatitis C virus,Hepatitis C,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0023890,CAUSES,Hepatitis C virus,Liver Cirrhosis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0220847,C0023895,CAUSES,Hepatitis C virus,Liver diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0220847,C0023895,CAUSES,Hepatitis C virus,Liver diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0029408,CAUSES,Hepatitis C virus,Degenerative polyarthritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0040034,CAUSES,Hepatitis C virus,Thrombocytopenia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0042384,CAUSES,Hepatitis C virus,Vasculitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0042721,CAUSES,Hepatitis C virus,Viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0220847,C0151317,CAUSES,Hepatitis C virus,Chronic infectious disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0220847,C0151317,CAUSES,Hepatitis C virus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0162557,CAUSES,Hepatitis C virus,"Liver Failure, Acute",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0239946,CAUSES,Hepatitis C virus,"Fibrosis, Liver",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0276434,CAUSES,Hepatitis C virus,Acute type A viral hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0220847,C0341439,CAUSES,Hepatitis C virus,Chronic liver disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0220847,C0341439,CAUSES,Hepatitis C virus,Chronic liver disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0543697,CAUSES,Hepatitis C virus,Mixed cryoglobulinemia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0745744,CAUSES,Hepatitis C virus,End Stage Liver Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C0948807,CAUSES,Hepatitis C virus,Hepatic impairment,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C1264606,CAUSES,Hepatitis C virus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0220847,C1623038,CAUSES,Hepatitis C virus,Cirrhosis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0220847,C1623038,CAUSES,Hepatitis C virus,Cirrhosis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0220847,C4288963,CAUSES,Hepatitis C virus,Hepatitis C Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0242924,C0017178,CAUSES,Picobirnavirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318356,C0004096,CAUSES,Human virus,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1554,7 +1554,7 @@ C0318428,C0035222,CAUSES,Human enterovirus 68,"Respiratory Distress Syndrome, Ad
 C0318428,C0035243,CAUSES,Human enterovirus 68,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318467,C0004096,CAUSES,Human rhinovirus,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318467,C0006271,CAUSES,Human rhinovirus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318467,C0009443,CAUSES,Human rhinovirus,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318467,C0009443,CAUSES,Human rhinovirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318467,C0009450,CAUSES,Human rhinovirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318467,C0024117,CAUSES,Human rhinovirus,Chronic Obstructive Airway Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318467,C0025289,CAUSES,Human rhinovirus,Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1608,7 +1608,7 @@ C0318793,C0156312,CAUSES,Zika Virus,Atrophy of testis,virs,dsyn,1,CAUSES_VIRScau
 C0318793,C0206608,CAUSES,Zika Virus,Flavivirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318793,C0275522,CAUSES,Zika Virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318793,C0275544,CAUSES,Zika Virus,Congenital infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318793,C0276289,CAUSES,Zika Virus,Zika Virus Infection,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318793,C0276289,CAUSES,Zika Virus,Zika Virus Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318793,C0743841,CAUSES,Zika Virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318793,C2315667,CAUSES,Zika Virus,Fetal microcephaly,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318793,C2930474,CAUSES,Zika Virus,"Communicable Diseases, Reemerging",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1626,7 +1626,7 @@ C0318798,C1290325,CAUSES,"Paramyxovirus, NOS",Disorder of lower respiratory syst
 C0318810,C0001314,CAUSES,Chandipura virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318826,C0001314,CAUSES,Infectious hematopoietic necrosis virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0008149,CAUSES,Porcine epidemic diarrhea virus,Chlamydia Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318855,C0009450,CAUSES,Porcine epidemic diarrhea virus,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318855,C0009450,CAUSES,Porcine epidemic diarrhea virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0011175,CAUSES,Porcine epidemic diarrhea virus,Dehydration,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0014335,CAUSES,Porcine epidemic diarrhea virus,Enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0017160,CAUSES,Porcine epidemic diarrhea virus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1634,13 +1634,13 @@ C0318855,C0017178,CAUSES,Porcine epidemic diarrhea virus,Gastrointestinal Diseas
 C0318855,C0024523,CAUSES,Porcine epidemic diarrhea virus,Malabsorption Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0042749,CAUSES,Porcine epidemic diarrhea virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0042769,CAUSES,Porcine epidemic diarrhea virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318855,C0178238,CAUSES,Porcine epidemic diarrhea virus,Intestinal infectious disease (disorder),virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318855,C0178238,CAUSES,Porcine epidemic diarrhea virus,Intestinal infectious disease (disorder),virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0206750,CAUSES,Porcine epidemic diarrhea virus,Coronavirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0275518,CAUSES,Porcine epidemic diarrhea virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0277525,CAUSES,Porcine epidemic diarrhea virus,Infectious gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318855,C0277527,CAUSES,Porcine epidemic diarrhea virus,Epidemic diarrhea,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318855,C0277527,CAUSES,Porcine epidemic diarrhea virus,Epidemic diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C0277548,CAUSES,Porcine epidemic diarrhea virus,Epidemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0318855,C0740441,CAUSES,Porcine epidemic diarrhea virus,Acute diarrhea,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0318855,C0740441,CAUSES,Porcine epidemic diarrhea virus,Acute diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C1290807,CAUSES,Porcine epidemic diarrhea virus,Diarrheal disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318855,C4082764,CAUSES,Porcine epidemic diarrhea virus,Gastrointestinal infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0318856,C0035243,CAUSES,Porcine Respiratory Coronavirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1662,7 +1662,7 @@ C0319248,C1373218,CAUSES,Suid herpesvirus 2,Decreased Immunologic Activity [PE],
 C0319330,C0017160,CAUSES,Mamastrovirus 3,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0319331,C0014038,CAUSES,Bovine astrovirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0319333,C0017160,CAUSES,Human astrovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0319333,C0152517,CAUSES,Human astrovirus,Enteritis due to specified virus,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0319333,C0152517,CAUSES,Human astrovirus,Enteritis due to specified virus,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0319333,C0267446,CAUSES,Human astrovirus,Acute gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376311,C0004364,CAUSES,Maus Elberfeld virus,Autoimmune Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376311,C0014038,CAUSES,Maus Elberfeld virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1670,7 +1670,7 @@ C0376311,C0014544,CAUSES,Maus Elberfeld virus,Epilepsy,virs,dsyn,1,CAUSES_VIRSca
 C0376311,C0027765,CAUSES,Maus Elberfeld virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376311,C1264606,CAUSES,Maus Elberfeld virus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376324,C0019104,CAUSES,Sabia virus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
-C0376325,C0019159,CAUSES,Hepatitis A Virus,Hepatitis A,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0376325,C0019159,CAUSES,Hepatitis A Virus,Hepatitis A,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376325,C0023895,CAUSES,Hepatitis A Virus,Liver diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376325,C1112211,CAUSES,Hepatitis A Virus,liver infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376421,C0035204,CAUSES,Bovine parainfluenza virus 3,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1688,13 +1688,13 @@ C0376536,C0206061,CAUSES,Porcine respiratory and reproductive syndrome virus,"Pn
 C0376536,C0264219,CAUSES,Porcine respiratory and reproductive syndrome virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C0275522,CAUSES,Porcine respiratory and reproductive syndrome virus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C0275524,CAUSES,Porcine respiratory and reproductive syndrome virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0376536,C0376538,CAUSES,Porcine respiratory and reproductive syndrome virus,Porcine Reproductive and Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0376536,C0376538,CAUSES,Porcine respiratory and reproductive syndrome virus,Porcine Reproductive and Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C0442893,CAUSES,Porcine respiratory and reproductive syndrome virus,Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C0740766,CAUSES,Porcine respiratory and reproductive syndrome virus,acute pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C0743841,CAUSES,Porcine respiratory and reproductive syndrome virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C1263835,CAUSES,Porcine respiratory and reproductive syndrome virus,Infectious disorder of the fetus,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C1264606,CAUSES,Porcine respiratory and reproductive syndrome virus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0376536,C1373218,CAUSES,Porcine respiratory and reproductive syndrome virus,Decreased Immunologic Activity [PE],virs,dsyn,2,CAUSES_VIRScausDSYN
+C0376536,C1373218,CAUSES,Porcine respiratory and reproductive syndrome virus,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376536,C1744558,CAUSES,Porcine respiratory and reproductive syndrome virus,T-lymphocyte deficiency,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376573,C0019158,CAUSES,GB virus B,Hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0376573,C0267797,CAUSES,GB virus B,Acute hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1722,7 +1722,7 @@ C0597065,C0243010,CAUSES,neurotropic virus,Viral Encephalitis,virs,dsyn,1,CAUSES
 C0597065,C0267797,CAUSES,neurotropic virus,Acute hepatitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597363,C1264606,CAUSES,recombinant virus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597404,C0001311,CAUSES,Respiratory viruses,Acute bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0597404,C0004096,CAUSES,Respiratory viruses,Asthma,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0597404,C0004096,CAUSES,Respiratory viruses,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597404,C0004623,CAUSES,Respiratory viruses,Bacterial Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597404,C0004626,CAUSES,Respiratory viruses,"Pneumonia, Bacterial",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597404,C0006271,CAUSES,Respiratory viruses,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1767,7 +1767,7 @@ C0597404,C1145670,CAUSES,Respiratory viruses,Respiratory Failure,virs,dsyn,1,CAU
 C0597404,C1290325,CAUSES,Respiratory viruses,Disorder of lower respiratory system,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0597404,C3873497,CAUSES,Respiratory viruses,Severe acute respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0598473,C0009763,CAUSES,Cercopithecine alphaherpesvirus 2,Conjunctivitis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0598902,C0014038,CAUSES,murine nodule inducing virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0598902,C0014038,CAUSES,murine nodule inducing virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0598902,C0042749,CAUSES,murine nodule inducing virus,Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0598902,C0442893,CAUSES,murine nodule inducing virus,Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0598902,C0743841,CAUSES,murine nodule inducing virus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1797,7 +1797,7 @@ C0751672,C0243026,CAUSES,Hendra Virus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751672,C0264219,CAUSES,Hendra Virus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751672,C0275518,CAUSES,Hendra Virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751672,C1264606,CAUSES,Hendra Virus,Persistent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0751673,C0014038,CAUSES,Nipah Virus,Encephalitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0751673,C0014038,CAUSES,Nipah Virus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751673,C0027765,CAUSES,Nipah Virus,nervous system disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751673,C0042384,CAUSES,Nipah Virus,Vasculitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0751673,C0043528,CAUSES,Nipah Virus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1807,11 +1807,11 @@ C0877837,C0243026,CAUSES,Murid herpesvirus 1,Sepsis,virs,dsyn,1,CAUSES_VIRScausD
 C0887913,C0243025,CAUSES,Andes Virus,Hantavirus Pulmonary Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0887939,C0015231,CAUSES,"Herpesvirus 6B, Human",Exanthema Subitum,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0009450,CAUSES,"Coronavirus, Feline",Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0936087,C0014335,CAUSES,"Coronavirus, Feline",Enteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0936087,C0014335,CAUSES,"Coronavirus, Feline",Enteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0021053,CAUSES,"Coronavirus, Feline",Immune System Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0031154,CAUSES,"Coronavirus, Feline",Peritonitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0042749,CAUSES,"Coronavirus, Feline",Viremia,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0936087,C0085306,CAUSES,"Coronavirus, Feline",Feline infectious peritonitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0936087,C0085306,CAUSES,"Coronavirus, Feline",Feline infectious peritonitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0152517,CAUSES,"Coronavirus, Feline",Enteritis due to specified virus,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0178238,CAUSES,"Coronavirus, Feline",Intestinal infectious disease (disorder),virs,dsyn,1,CAUSES_VIRScausDSYN
 C0936087,C0275522,CAUSES,"Coronavirus, Feline",Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1829,7 +1829,7 @@ C0949533,C0014038,CAUSES,Australian bat lyssavirus,Encephalitis,virs,dsyn,1,CAUS
 C0949792,C0872054,CAUSES,Polyomaviridae,latent infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949858,C0035204,CAUSES,Nidovirales,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949880,C0007684,CAUSES,Human coronavirus 229E,Central Nervous System Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0949880,C0009443,CAUSES,Human coronavirus 229E,Common Cold,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0949880,C0009443,CAUSES,Human coronavirus 229E,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949880,C0017178,CAUSES,Human coronavirus 229E,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949880,C0035243,CAUSES,Human coronavirus 229E,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949880,C0041912,CAUSES,Human coronavirus 229E,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1854,15 +1854,15 @@ C0949892,C0019104,CAUSES,Ebolavirus,"Hemorrhagic Fevers, Viral",virs,dsyn,1,CAUS
 C0949892,C0024115,CAUSES,Ebolavirus,Lung diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949892,C0043528,CAUSES,Ebolavirus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949892,C0206750,CAUSES,Ebolavirus,Coronavirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0949892,C0282687,CAUSES,Ebolavirus,"Hemorrhagic Fever, Ebola",virs,dsyn,2,CAUSES_VIRScausDSYN
+C0949892,C0282687,CAUSES,Ebolavirus,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949892,C0876973,CAUSES,Ebolavirus,Infectious disease of lung,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949896,C0282687,CAUSES,Zaire Ebola Virus,"Hemorrhagic Fever, Ebola",virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949896,C0748168,CAUSES,Zaire Ebola Virus,Pulmonary Pathology,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949907,C0032285,CAUSES,Metapneumovirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949907,C0275524,CAUSES,Metapneumovirus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949907,C0748355,CAUSES,Metapneumovirus,Acute respiratory distress,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0949920,C0014498,CAUSES,Norovirus,Epidemic vomiting syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
-C0949920,C0017160,CAUSES,Norovirus,Gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0949920,C0014498,CAUSES,Norovirus,Epidemic vomiting syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
+C0949920,C0017160,CAUSES,Norovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949920,C0017178,CAUSES,Norovirus,Gastrointestinal Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949920,C0152517,CAUSES,Norovirus,Enteritis due to specified virus,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949920,C0178238,CAUSES,Norovirus,Intestinal infectious disease (disorder),virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1873,14 +1873,14 @@ C0949920,C0729555,CAUSES,Norovirus,Infection of digestive system,virs,dsyn,1,CAU
 C0949920,C0740441,CAUSES,Norovirus,Acute diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949920,C1306860,CAUSES,Norovirus,Nonbacterial gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949920,C1562907,CAUSES,Norovirus,Food-borne gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0949920,C3873492,CAUSES,Norovirus,Epidemic gastroenteritis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0949920,C3873492,CAUSES,Norovirus,Epidemic gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949921,C0017160,CAUSES,Sapovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949921,C0267446,CAUSES,Sapovirus,Acute gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949921,C0740441,CAUSES,Sapovirus,Acute diarrhea,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949923,C0442893,CAUSES,Vesivirus,Systemic disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949945,C0001314,CAUSES,Foot-and-Mouth Disease Virus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949945,C0009450,CAUSES,Foot-and-Mouth Disease Virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C0949945,C0016514,CAUSES,Foot-and-Mouth Disease Virus,Foot-and-Mouth Disease,virs,dsyn,2,CAUSES_VIRScausDSYN
+C0949945,C0016514,CAUSES,Foot-and-Mouth Disease Virus,Foot-and-Mouth Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0949945,C0275518,CAUSES,Foot-and-Mouth Disease Virus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0950042,C0017160,CAUSES,Human enterovirus A,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C0950042,C0021290,CAUSES,Human enterovirus A,Neonatal disorder,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1942,14 +1942,14 @@ C1145669,C0006277,CAUSES,Influenza C Virus,Bronchitis,virs,dsyn,1,CAUSES_VIRScau
 C1145669,C0009443,CAUSES,Influenza C Virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1145669,C0021400,CAUSES,Influenza C Virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1145669,C0035243,CAUSES,Influenza C Virus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1145669,C0041912,CAUSES,Influenza C Virus,Upper Respiratory Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1145669,C0041912,CAUSES,Influenza C Virus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1145669,C0275524,CAUSES,Influenza C Virus,Coinfection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1145669,C0877203,CAUSES,Influenza C Virus,Viral Respiratory Tract Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0001314,CAUSES,SARS coronavirus,Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0006271,CAUSES,SARS coronavirus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0007397,CAUSES,SARS coronavirus,Catastrophic Illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0009443,CAUSES,SARS coronavirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1175743,C0009450,CAUSES,SARS coronavirus,Communicable Diseases,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1175743,C0009450,CAUSES,SARS coronavirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0016627,CAUSES,SARS coronavirus,Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0021400,CAUSES,SARS coronavirus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0022658,CAUSES,SARS coronavirus,Kidney Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1966,7 +1966,7 @@ C1175743,C0042769,CAUSES,SARS coronavirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRS
 C1175743,C0043528,CAUSES,SARS coronavirus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0151317,CAUSES,SARS coronavirus,Chronic infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0206061,CAUSES,SARS coronavirus,"Pneumonia, Interstitial",virs,dsyn,1,CAUSES_VIRScausDSYN
-C1175743,C0206750,CAUSES,SARS coronavirus,Coronavirus Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1175743,C0206750,CAUSES,SARS coronavirus,Coronavirus Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0243026,CAUSES,SARS coronavirus,Sepsis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0264219,CAUSES,SARS coronavirus,Acute respiratory disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0264490,CAUSES,SARS coronavirus,Acute respiratory failure,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1980,7 +1980,7 @@ C1175743,C0743841,CAUSES,SARS coronavirus,Disorder characterized by fever,virs,d
 C1175743,C0748355,CAUSES,SARS coronavirus,Acute respiratory distress,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C0872315,CAUSES,SARS coronavirus,"Communicable Diseases, Emerging",virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C1145670,CAUSES,SARS coronavirus,Respiratory Failure,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1175743,C1175175,CAUSES,SARS coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1175743,C1175175,CAUSES,SARS coronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C1262020,CAUSES,SARS coronavirus,diffuse alveolar damage,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C1290325,CAUSES,SARS coronavirus,Disorder of lower respiratory system,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1175743,C1412002,CAUSES,SARS coronavirus,Atypical pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -1994,18 +1994,18 @@ C1224227,C1659749,CAUSES,Avian parainfluenza virus 3,reproductive condition,virs
 C1234165,C0002871,CAUSES,Gyrovirus,Anemia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0001311,CAUSES,Human Metapneumovirus,Acute bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0004096,CAUSES,Human Metapneumovirus,Asthma,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1258014,C0006271,CAUSES,Human Metapneumovirus,Bronchiolitis,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1258014,C0006271,CAUSES,Human Metapneumovirus,Bronchiolitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0009443,CAUSES,Human Metapneumovirus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0009450,CAUSES,Human Metapneumovirus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0010340,CAUSES,Human Metapneumovirus,Critical Illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0010356,CAUSES,Human Metapneumovirus,Cross Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1258014,C0032285,CAUSES,Human Metapneumovirus,Pneumonia,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1258014,C0032285,CAUSES,Human Metapneumovirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0035204,CAUSES,Human Metapneumovirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0035222,CAUSES,Human Metapneumovirus,"Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0035242,CAUSES,Human Metapneumovirus,Respiratory Tract Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1258014,C0035243,CAUSES,Human Metapneumovirus,Respiratory Tract Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1258014,C0035243,CAUSES,Human Metapneumovirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0149725,CAUSES,Human Metapneumovirus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1258014,C0339901,CAUSES,Human Metapneumovirus,Acute respiratory infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1258014,C0339901,CAUSES,Human Metapneumovirus,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0694549,CAUSES,Human Metapneumovirus,Community acquired pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C0743841,CAUSES,Human Metapneumovirus,Disorder characterized by fever,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1258014,C3873497,CAUSES,Human Metapneumovirus,Severe acute respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2013,7 +2013,7 @@ C1258015,C0010356,CAUSES,Henipavirus,Cross Infection,virs,dsyn,1,CAUSES_VIRScaus
 C1258015,C0014038,CAUSES,Henipavirus,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1265386,C0019159,CAUSES,Porcine circovirus type II,Hepatitis A,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1265386,C0275522,CAUSES,Porcine circovirus type II,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1265386,C1290816,CAUSES,Porcine circovirus type II,Post-weaning multisystemic wasting syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1265386,C1290816,CAUSES,Porcine circovirus type II,Post-weaning multisystemic wasting syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1300302,C0016397,CAUSES,"Avian influenza virus, low pathogenic",Focal Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1300303,C0001314,CAUSES,"Avian influenza virus, highly pathogenic",Acute Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1300303,C0032285,CAUSES,"Avian influenza virus, highly pathogenic",Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2027,7 +2027,7 @@ C1319861,C0032285,CAUSES,Human parainfluenza viruses,Pneumonia,virs,dsyn,1,CAUSE
 C1319861,C0035243,CAUSES,Human parainfluenza viruses,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1319861,C0042769,CAUSES,Human parainfluenza viruses,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1319861,C0149725,CAUSES,Human parainfluenza viruses,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1319861,C0339901,CAUSES,Human parainfluenza viruses,Acute respiratory infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1319861,C0339901,CAUSES,Human parainfluenza viruses,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1319861,C0694549,CAUSES,Human parainfluenza viruses,Community acquired pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1319861,C0729531,CAUSES,Human parainfluenza viruses,Viral respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1440505,C0018572,CAUSES,Coxsackievirus A16,"Hand, Foot and Mouth Disease",virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2037,7 +2037,7 @@ C1440514,C0276138,CAUSES,Coxsackievirus B3,Viral myocarditis,virs,dsyn,1,CAUSES_
 C1441138,C0149725,CAUSES,Respiratory syncytial virus A,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1444092,C0021400,CAUSES,Resistant virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1449642,C0042769,CAUSES,Egg drop syndrome virus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1449642,C0276168,CAUSES,Egg drop syndrome virus,Egg drop syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1449642,C0276168,CAUSES,Egg drop syndrome virus,Egg drop syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1470636,C0017160,CAUSES,Mamastrovirus,Gastroenteritis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1478824,C0009443,CAUSES,Human coronavirus NL63,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1478824,C0010380,CAUSES,Human coronavirus NL63,Croup,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2052,8 +2052,8 @@ C1512048,C0043528,CAUSES,Double Stranded DNA Virus,Zoonoses,virs,dsyn,1,CAUSES_V
 C1517745,C0403592,CAUSES,Latent Virus,Chronic rejection of renal transplant,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1612293,C0521839,CAUSES,"Influenza A Virus, H9N2 Subtype",Influenza-like illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1613950,C0009450,CAUSES,"Influenza A Virus, H5N1 Subtype",Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C1613950,C0016627,CAUSES,"Influenza A Virus, H5N1 Subtype",Influenza in Birds,virs,dsyn,2,CAUSES_VIRScausDSYN
-C1613950,C0021400,CAUSES,"Influenza A Virus, H5N1 Subtype",Influenza,virs,dsyn,2,CAUSES_VIRScausDSYN
+C1613950,C0016627,CAUSES,"Influenza A Virus, H5N1 Subtype",Influenza in Birds,virs,dsyn,1,CAUSES_VIRScausDSYN
+C1613950,C0021400,CAUSES,"Influenza A Virus, H5N1 Subtype",Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1613950,C0022882,CAUSES,"Influenza A Virus, H5N1 Subtype",Laboratory Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1613950,C0032285,CAUSES,"Influenza A Virus, H5N1 Subtype",Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C1613950,C0034063,CAUSES,"Influenza A Virus, H5N1 Subtype",Pulmonary Edema,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2129,7 +2129,7 @@ C2806453,C0206750,CAUSES,Betacoronavirus,Coronavirus Infections,virs,dsyn,1,CAUS
 C2806453,C0275518,CAUSES,Betacoronavirus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2806453,C1175175,CAUSES,Betacoronavirus,Severe Acute Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2806453,C1863767,CAUSES,Betacoronavirus,Light Fixation Seizure Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
-C2806453,C3694279,CAUSES,Betacoronavirus,Middle East Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C2806453,C3694279,CAUSES,Betacoronavirus,Middle East Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2806453,C3873497,CAUSES,Betacoronavirus,Severe acute respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2806454,C0013369,CAUSES,Betacoronavirus 1,Dysentery,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2806454,C0035204,CAUSES,Betacoronavirus 1,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2143,7 +2143,7 @@ C2919536,C0015674,CAUSES,Xenotropic murine leukemia virus-related virus,Chronic 
 C2963492,C0014038,CAUSES,Enterovirus 71,Encephalitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0014070,CAUSES,Enterovirus 71,Encephalomyelitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0016514,CAUSES,Enterovirus 71,Foot-and-Mouth Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
-C2963492,C0018572,CAUSES,Enterovirus 71,"Hand, Foot and Mouth Disease",virs,dsyn,2,CAUSES_VIRScausDSYN
+C2963492,C0018572,CAUSES,Enterovirus 71,"Hand, Foot and Mouth Disease",virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0019338,CAUSES,Enterovirus 71,Herpangina,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0025290,CAUSES,Enterovirus 71,Aseptic Meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0025297,CAUSES,Enterovirus 71,Viral meningitis,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2151,7 +2151,7 @@ C2963492,C0026636,CAUSES,Enterovirus 71,Mouth Diseases,virs,dsyn,1,CAUSES_VIRSca
 C2963492,C0027059,CAUSES,Enterovirus 71,Myocarditis,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C0042769,CAUSES,Enterovirus 71,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2963492,C1518296,CAUSES,Enterovirus 71,Neuropathogenesis,virs,dsyn,1,CAUSES_VIRScausDSYN
-C2986384,C0001175,CAUSES,Enveloped Virus,Acquired Immunodeficiency Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C2986384,C0001175,CAUSES,Enveloped Virus,Acquired Immunodeficiency Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2986384,C0009443,CAUSES,Enveloped Virus,Common Cold,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2986384,C0009450,CAUSES,Enveloped Virus,Communicable Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C2986384,C0021400,CAUSES,Enveloped Virus,Influenza,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2185,14 +2185,14 @@ C3698360,C0009450,CAUSES,Middle East Respiratory Syndrome Coronavirus,Communicab
 C3698360,C0010340,CAUSES,Middle East Respiratory Syndrome Coronavirus,Critical Illness,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0022882,CAUSES,Middle East Respiratory Syndrome Coronavirus,Laboratory Infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0024115,CAUSES,Middle East Respiratory Syndrome Coronavirus,Lung diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
-C3698360,C0032285,CAUSES,Middle East Respiratory Syndrome Coronavirus,Pneumonia,virs,dsyn,2,CAUSES_VIRScausDSYN
+C3698360,C0032285,CAUSES,Middle East Respiratory Syndrome Coronavirus,Pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0032310,CAUSES,Middle East Respiratory Syndrome Coronavirus,"Pneumonia, Viral",virs,dsyn,1,CAUSES_VIRScausDSYN
-C3698360,C0035078,CAUSES,Middle East Respiratory Syndrome Coronavirus,Kidney Failure,virs,dsyn,2,CAUSES_VIRScausDSYN
-C3698360,C0035204,CAUSES,Middle East Respiratory Syndrome Coronavirus,Respiration Disorders,virs,dsyn,2,CAUSES_VIRScausDSYN
-C3698360,C0035222,CAUSES,Middle East Respiratory Syndrome Coronavirus,"Respiratory Distress Syndrome, Adult",virs,dsyn,2,CAUSES_VIRScausDSYN
+C3698360,C0035078,CAUSES,Middle East Respiratory Syndrome Coronavirus,Kidney Failure,virs,dsyn,1,CAUSES_VIRScausDSYN
+C3698360,C0035204,CAUSES,Middle East Respiratory Syndrome Coronavirus,Respiration Disorders,virs,dsyn,1,CAUSES_VIRScausDSYN
+C3698360,C0035222,CAUSES,Middle East Respiratory Syndrome Coronavirus,"Respiratory Distress Syndrome, Adult",virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0035242,CAUSES,Middle East Respiratory Syndrome Coronavirus,Respiratory Tract Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0035243,CAUSES,Middle East Respiratory Syndrome Coronavirus,Respiratory Tract Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C3698360,C0041912,CAUSES,Middle East Respiratory Syndrome Coronavirus,Upper Respiratory Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
+C3698360,C0041912,CAUSES,Middle East Respiratory Syndrome Coronavirus,Upper Respiratory Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0042769,CAUSES,Middle East Respiratory Syndrome Coronavirus,Virus Diseases,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0043528,CAUSES,Middle East Respiratory Syndrome Coronavirus,Zoonoses,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0149725,CAUSES,Middle East Respiratory Syndrome Coronavirus,Lower respiratory tract infection,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2207,8 +2207,8 @@ C3698360,C0270724,CAUSES,Middle East Respiratory Syndrome Coronavirus,Infantile 
 C3698360,C0275518,CAUSES,Middle East Respiratory Syndrome Coronavirus,Acute infectious disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0275522,CAUSES,Middle East Respiratory Syndrome Coronavirus,Asymptomatic Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0339901,CAUSES,Middle East Respiratory Syndrome Coronavirus,Acute respiratory infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C3698360,C0442886,CAUSES,Middle East Respiratory Syndrome Coronavirus,Secondary Infections,virs,dsyn,2,CAUSES_VIRScausDSYN
-C3698360,C0740766,CAUSES,Middle East Respiratory Syndrome Coronavirus,acute pneumonia,virs,dsyn,2,CAUSES_VIRScausDSYN
+C3698360,C0442886,CAUSES,Middle East Respiratory Syndrome Coronavirus,Secondary Infections,virs,dsyn,1,CAUSES_VIRScausDSYN
+C3698360,C0740766,CAUSES,Middle East Respiratory Syndrome Coronavirus,acute pneumonia,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0849867,CAUSES,Middle East Respiratory Syndrome Coronavirus,Widespread Disease,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0872315,CAUSES,Middle East Respiratory Syndrome Coronavirus,"Communicable Diseases, Emerging",virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C0876973,CAUSES,Middle East Respiratory Syndrome Coronavirus,Infectious disease of lung,virs,dsyn,1,CAUSES_VIRScausDSYN
@@ -2218,7 +2218,7 @@ C3698360,C1263835,CAUSES,Middle East Respiratory Syndrome Coronavirus,Infectious
 C3698360,C1290325,CAUSES,Middle East Respiratory Syndrome Coronavirus,Disorder of lower respiratory system,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C1565489,CAUSES,Middle East Respiratory Syndrome Coronavirus,Renal Insufficiency,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C3277428,CAUSES,Middle East Respiratory Syndrome Coronavirus,Severe viral infections,virs,dsyn,1,CAUSES_VIRScausDSYN
-C3698360,C3694279,CAUSES,Middle East Respiratory Syndrome Coronavirus,Middle East Respiratory Syndrome,virs,dsyn,2,CAUSES_VIRScausDSYN
+C3698360,C3694279,CAUSES,Middle East Respiratory Syndrome Coronavirus,Middle East Respiratory Syndrome,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C3873497,CAUSES,Middle East Respiratory Syndrome Coronavirus,Severe acute respiratory infection,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3698360,C4039867,CAUSES,Middle East Respiratory Syndrome Coronavirus,Acute hypoxemic respiratory failure,virs,dsyn,1,CAUSES_VIRScausDSYN
 C3700023,C1373218,CAUSES,Porcine reproductive and respiratory syndrome virus strain,Decreased Immunologic Activity [PE],virs,dsyn,1,CAUSES_VIRScausDSYN

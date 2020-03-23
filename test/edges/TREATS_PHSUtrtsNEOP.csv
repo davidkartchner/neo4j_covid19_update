@@ -13,10 +13,10 @@ C0003392,C0025202,TREATS,Antineoplastic Agents,melanoma,phsu,neop,1,TREATS_PHSUt
 C0003392,C0376545,TREATS,Antineoplastic Agents,Hematologic Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0003392,C0877373,TREATS,Antineoplastic Agents,advanced cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0003392,C3463824,TREATS,Antineoplastic Agents,MYELODYSPLASTIC SYNDROME,phsu,neop,1,TREATS_PHSUtrtsNEOP
-C0003402,C0006826,TREATS,Antioxidants,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0003402,C0006826,TREATS,Antioxidants,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0003451,C1266119,TREATS,Antiviral Agents,Solitary fibrous tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0004475,C0023467,TREATS,Azacitidine,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
-C0004475,C3463824,TREATS,Azacitidine,MYELODYSPLASTIC SYNDROME,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0004475,C3463824,TREATS,Azacitidine,MYELODYSPLASTIC SYNDROME,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0004483,C0343079,TREATS,Azauridine,"Milia, Multiple Eruptive",phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0005525,C0006826,TREATS,Biological Response Modifiers,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0005525,C0877373,TREATS,Biological Response Modifiers,advanced cancer,phsu,neop,1,TREATS_PHSUtrtsNEOP
@@ -37,10 +37,10 @@ C0021081,C0023418,TREATS,Immunosuppressive Agents,leukemia,phsu,neop,1,TREATS_PH
 C0032950,C0334121,TREATS,prednisolone,Inflammatory Myofibroblastic Tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0035525,C0023418,TREATS,Ribavirin,leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0035525,C0027627,TREATS,Ribavirin,Neoplasm Metastasis,phsu,neop,1,TREATS_PHSUtrtsNEOP
-C0035525,C1266119,TREATS,Ribavirin,Solitary fibrous tumor,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0035525,C1266119,TREATS,Ribavirin,Solitary fibrous tumor,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0037982,C0026764,TREATS,Spironolactone,Multiple Myeloma,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0042397,C0006826,TREATS,Vasoconstrictor Agents,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
-C0045093,C0006826,TREATS,gemcitabine,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C0045093,C0006826,TREATS,gemcitabine,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0045093,C0007131,TREATS,gemcitabine,Non-Small Cell Lung Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0045093,C0025202,TREATS,gemcitabine,melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0045093,C0027651,TREATS,gemcitabine,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
@@ -72,7 +72,7 @@ C0851344,C0006826,TREATS,exemestane,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUt
 C0914671,C1835664,TREATS,CPG-ODN,TYLOSIS WITH ESOPHAGEAL CANCER,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C0935929,C0006826,TREATS,Antidiabetics,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1135133,C0025202,TREATS,Provenge,melanoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
-C1135133,C0376358,TREATS,Provenge,Malignant neoplasm of prostate,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C1135133,C0376358,TREATS,Provenge,Malignant neoplasm of prostate,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1268567,C0023473,TREATS,Protein-tyrosine kinase inhibitor,"Myeloid Leukemia, Chronic",phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1268567,C0334664,TREATS,Protein-tyrosine kinase inhibitor,Mast Cell Neoplasm,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1268567,C1960397,TREATS,Protein-tyrosine kinase inhibitor,Philadelphia chromosome-positive acute lymphoblastic leukemia,phsu,neop,1,TREATS_PHSUtrtsNEOP
@@ -88,7 +88,7 @@ C1519903,C0936223,TREATS,PROSTVAC,Metastatic Prostate Carcinoma,phsu,neop,1,TREA
 C1520007,C0006826,TREATS,viral vector,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1520007,C0027651,TREATS,viral vector,Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1711297,C0029925,TREATS,MUC-1 peptide vaccine,Ovarian Carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP
-C1718097,C0006826,TREATS,New medications,Malignant Neoplasms,phsu,neop,2,TREATS_PHSUtrtsNEOP
+C1718097,C0006826,TREATS,New medications,Malignant Neoplasms,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1718097,C0023467,TREATS,New medications,"Leukemia, Myelocytic, Acute",phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1718097,C0242379,TREATS,New medications,Malignant neoplasm of lung,phsu,neop,1,TREATS_PHSUtrtsNEOP
 C1718097,C2239176,TREATS,New medications,Liver carcinoma,phsu,neop,1,TREATS_PHSUtrtsNEOP

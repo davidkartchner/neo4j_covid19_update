@@ -15,10 +15,10 @@ C0009653,C1373218,TREATS,"Condoms, Male",Decreased Immunologic Activity [PE],med
 C0009653,C2062441,TREATS,"Condoms, Male",Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0009653,C3694279,TREATS,"Condoms, Male",Middle East Respiratory Syndrome,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0009653,C3887658,TREATS,"Condoms, Male","PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT",medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0021461,C0004096,TREATS,Inhaler,Asthma,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0021461,C0004096,TREATS,Inhaler,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0021461,C0006277,TREATS,Inhaler,Bronchitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0021461,C0024115,TREATS,Inhaler,Lung diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0021461,C0024117,TREATS,Inhaler,Chronic Obstructive Airway Disease,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0021461,C0024117,TREATS,Inhaler,Chronic Obstructive Airway Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0021461,C0155877,TREATS,Inhaler,Allergic asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0024861,C0021400,TREATS,Masks,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0024861,C0034072,TREATS,Masks,Cor pulmonale,medd,dsyn,1,TREATS_MEDDtrtsDSYN
@@ -30,16 +30,16 @@ C0027524,C4523782,TREATS,Nebulizers,Inflammatory airway disease,medd,dsyn,1,TREA
 C0032042,C0004096,TREATS,Placebos,Asthma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0006267,TREATS,Placebos,Bronchiectasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0008677,TREATS,Placebos,"Bronchitis, Chronic",medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0032042,C0009443,TREATS,Placebos,Common Cold,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0009443,TREATS,Placebos,Common Cold,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0010340,TREATS,Placebos,Critical Illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0011849,TREATS,Placebos,Diabetes Mellitus,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0032042,C0011860,TREATS,Placebos,"Diabetes Mellitus, Non-Insulin-Dependent",medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0011860,TREATS,Placebos,"Diabetes Mellitus, Non-Insulin-Dependent",medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0018801,TREATS,Placebos,Heart failure,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0020538,TREATS,Placebos,Hypertensive disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0032042,C0021400,TREATS,Placebos,Influenza,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0021400,TREATS,Placebos,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0024117,TREATS,Placebos,Chronic Obstructive Airway Disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0029883,TREATS,Placebos,Otitis Media with Effusion,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0032042,C0032285,TREATS,Placebos,Pneumonia,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0032285,TREATS,Placebos,Pneumonia,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0035222,TREATS,Placebos,"Respiratory Distress Syndrome, Adult",medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0041912,TREATS,Placebos,Upper Respiratory Infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0042769,TREATS,Placebos,Virus Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
@@ -48,7 +48,7 @@ C0032042,C0155877,TREATS,Placebos,Allergic asthma,medd,dsyn,1,TREATS_MEDDtrtsDSY
 C0032042,C0276447,TREATS,Placebos,Rhinovirus infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0339901,TREATS,Placebos,Acute respiratory infections,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C0521839,TREATS,Placebos,Influenza-like illness,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0032042,C0740441,TREATS,Placebos,Acute diarrhea,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0032042,C0740441,TREATS,Placebos,Acute diarrhea,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C1719672,TREATS,Placebos,Severe Sepsis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C2062441,TREATS,Placebos,Influenza A,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0032042,C2317131,TREATS,Placebos,Acute rhinosinusitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
@@ -88,7 +88,7 @@ C0178987,C0149725,TREATS,Artificial Airways,Lower respiratory tract infection,me
 C0178987,C1443953,TREATS,Artificial Airways,Acute viral disease,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0179433,C0006267,TREATS,Flexible bronchoscope,Bronchiectasis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0179433,C0235896,TREATS,Flexible bronchoscope,Pulmonary Infiltrate,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C0179574,C0001327,TREATS,Nasal Cannula,Acute laryngitis,medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C0179574,C0001327,TREATS,Nasal Cannula,Acute laryngitis,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0179574,C0009443,TREATS,Nasal Cannula,Common Cold,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0179574,C0010356,TREATS,Nasal Cannula,Cross Infection,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0179574,C0948268,TREATS,Nasal Cannula,Hemodynamic instability,medd,dsyn,1,TREATS_MEDDtrtsDSYN
@@ -163,7 +163,7 @@ C0972401,C3899656,TREATS,Boards (medical device),Pediatric Infectious Disorder,m
 C0993596,C0024115,TREATS,Metered Dose Inhaler,Lung diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C0993756,C0017601,TREATS,Adhesion barrier,Glaucoma,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C1139730,C0009450,TREATS,monitoring systems,Communicable Diseases,medd,dsyn,1,TREATS_MEDDtrtsDSYN
-C1139730,C0018572,TREATS,monitoring systems,"Hand, Foot and Mouth Disease",medd,dsyn,2,TREATS_MEDDtrtsDSYN
+C1139730,C0018572,TREATS,monitoring systems,"Hand, Foot and Mouth Disease",medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C1139730,C0021400,TREATS,monitoring systems,Influenza,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C1139730,C0025007,TREATS,monitoring systems,Measles,medd,dsyn,1,TREATS_MEDDtrtsDSYN
 C1139730,C0041296,TREATS,monitoring systems,Tuberculosis,medd,dsyn,1,TREATS_MEDDtrtsDSYN

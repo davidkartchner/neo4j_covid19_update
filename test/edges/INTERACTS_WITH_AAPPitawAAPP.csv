@@ -64,7 +64,7 @@ C0001898,C3538714,INTERACTS_WITH,Alanine,TTN wt Allele,aapp,aapp,1,INTERACTS_WIT
 C0001924,C1414557,INTERACTS_WITH,Albumins,FCGRT gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0002059,C0003241,INTERACTS_WITH,Alkaline Phosphatase,Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0002059,C0003242,INTERACTS_WITH,Alkaline Phosphatase,"Antibodies, Anti-Idiotypic",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0002059,C0051979,INTERACTS_WITH,Alkaline Phosphatase,anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0002059,C0051979,INTERACTS_WITH,Alkaline Phosphatase,anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0002059,C0075278,INTERACTS_WITH,Alkaline Phosphatase,Streptavidin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0002059,C0297339,INTERACTS_WITH,Alkaline Phosphatase,neutravidin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0002059,C0669372,INTERACTS_WITH,Alkaline Phosphatase,"NOS2A protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -328,18 +328,18 @@ C0003241,C3658243,INTERACTS_WITH,Antibodies,"Spike Glycoprotein, Coronavirus",aa
 C0003241,C3711684,INTERACTS_WITH,Antibodies,"S protein, severe acute respiratory syndrome coronavirus",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003241,C3824899,INTERACTS_WITH,Antibodies,HER-2 protein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003241,C3887665,INTERACTS_WITH,Antibodies,"Thrombopoietin, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003241,C4048280,INTERACTS_WITH,Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003241,C4048280,INTERACTS_WITH,Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003241,C4082262,INTERACTS_WITH,Antibodies,"Integrin Alpha-X , human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003241,C4284302,INTERACTS_WITH,Antibodies,EHD1 wt Allele,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0002059,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Alkaline Phosphatase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0003241,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0003250,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Monoclonal Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003242,C0019941,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Horseradish Peroxidase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003242,C0019941,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0020960,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Immune Sera,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0021017,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0021756,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Interleukin-2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0027021,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003242,C0051979,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003242,C0051979,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0056182,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Complement 3b Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0065827,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Measles Virus Nucleoprotein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003242,C0075278,INTERACTS_WITH,"Antibodies, Anti-Idiotypic",Streptavidin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -376,8 +376,8 @@ C0003250,C0003242,INTERACTS_WITH,Monoclonal Antibodies,"Antibodies, Anti-Idiotyp
 C0003250,C0009498,INTERACTS_WITH,Monoclonal Antibodies,Complement System Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0010590,INTERACTS_WITH,Monoclonal Antibodies,Cycloserine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0017278,INTERACTS_WITH,Monoclonal Antibodies,"Gene Products, env",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003250,C0017968,INTERACTS_WITH,Monoclonal Antibodies,Glycoproteins,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
-C0003250,C0019941,INTERACTS_WITH,Monoclonal Antibodies,Horseradish Peroxidase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003250,C0017968,INTERACTS_WITH,Monoclonal Antibodies,Glycoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
+C0003250,C0019941,INTERACTS_WITH,Monoclonal Antibodies,Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0021017,INTERACTS_WITH,Monoclonal Antibodies,Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0021027,INTERACTS_WITH,Monoclonal Antibodies,Immunoglobulins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0021699,INTERACTS_WITH,Monoclonal Antibodies,Integral Membrane Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -394,7 +394,7 @@ C0003250,C0034845,INTERACTS_WITH,Monoclonal Antibodies,Transferrin Receptor,aapp
 C0003250,C0034848,INTERACTS_WITH,Monoclonal Antibodies,"Receptors, Virus",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0034861,INTERACTS_WITH,Monoclonal Antibodies,Recombinant Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0042731,INTERACTS_WITH,Monoclonal Antibodies,Viral Matrix Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003250,C0051979,INTERACTS_WITH,Monoclonal Antibodies,anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003250,C0051979,INTERACTS_WITH,Monoclonal Antibodies,anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0054455,INTERACTS_WITH,Monoclonal Antibodies,Calcitonin Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0060916,INTERACTS_WITH,Monoclonal Antibodies,G-substrate,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C0062154,INTERACTS_WITH,Monoclonal Antibodies,hemagglutinin esterase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -455,7 +455,7 @@ C0003250,C3658706,INTERACTS_WITH,Monoclonal Antibodies,pembrolizumab,aapp,aapp,1
 C0003250,C3811629,INTERACTS_WITH,Monoclonal Antibodies,Anti-Drug Antibody,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C3812695,INTERACTS_WITH,Monoclonal Antibodies,LPAR3 wt Allele,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C3887681,INTERACTS_WITH,Monoclonal Antibodies,"Human B-Lymphocyte Antigen CD20, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0003250,C4048280,INTERACTS_WITH,Monoclonal Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0003250,C4048280,INTERACTS_WITH,Monoclonal Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C4281805,INTERACTS_WITH,Monoclonal Antibodies,"T-Cell-Specific Surface Glycoprotein CD28, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C4281807,INTERACTS_WITH,Monoclonal Antibodies,"Vitronectin, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0003250,C4321497,INTERACTS_WITH,Monoclonal Antibodies,Human Anti-Idiotype Antibody,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -557,7 +557,7 @@ C0007075,C1422064,INTERACTS_WITH,Carboxypeptidase,ACE2 gene,aapp,aapp,1,INTERACT
 C0007082,C0378910,INTERACTS_WITH,Carcinoembryonic Antigen,Lymphocyte antigen CD66A,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0007258,C0017817,INTERACTS_WITH,Carnitine,Glutathione,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0007258,C0118522,INTERACTS_WITH,Carnitine,GA-Binding Protein Transcription Factor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0007332,C0003241,INTERACTS_WITH,Caseins,Antibodies,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0007332,C0003241,INTERACTS_WITH,Caseins,Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0007428,C0010646,INTERACTS_WITH,Cathepsins,Cystatins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0007428,C0312586,INTERACTS_WITH,Cathepsins,Polyclonal antibody,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0007428,C0475463,INTERACTS_WITH,Cathepsins,"Antibodies, Neutralizing",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -676,9 +676,9 @@ C0010590,C4038479,INTERACTS_WITH,Cycloserine,HLA class I,aapp,aapp,1,INTERACTS_W
 C0010590,C4048280,INTERACTS_WITH,Cycloserine,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010590,C4082262,INTERACTS_WITH,Cycloserine,"Integrin Alpha-X , human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010592,C0136073,INTERACTS_WITH,Cyclosporine,Peptidylprolyl Isomerase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0010592,C0164198,INTERACTS_WITH,Cyclosporine,Cyclophilin A,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0010592,C0164198,INTERACTS_WITH,Cyclosporine,Cyclophilin A,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010592,C0217382,INTERACTS_WITH,Cyclosporine,cyclophilin B,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0010592,C0917877,INTERACTS_WITH,Cyclosporine,Cyclophilins,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0010592,C0917877,INTERACTS_WITH,Cyclosporine,Cyclophilins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010592,C1413064,INTERACTS_WITH,Cyclosporine,CACNA1S gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010592,C1418793,INTERACTS_WITH,Cyclosporine,PPIA gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0010592,C1420086,INTERACTS_WITH,Cyclosporine,SLC10A1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1054,7 +1054,7 @@ C0020960,C0009498,INTERACTS_WITH,Immune Sera,Complement System Proteins,aapp,aap
 C0020960,C0019941,INTERACTS_WITH,Immune Sera,Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0020960,C0035544,INTERACTS_WITH,Immune Sera,Ribonucleoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0020960,C0039938,INTERACTS_WITH,Immune Sera,Thioredoxins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0020960,C0051979,INTERACTS_WITH,Immune Sera,anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0020960,C0051979,INTERACTS_WITH,Immune Sera,anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0020960,C0369497,INTERACTS_WITH,Immune Sera,Human immunodeficiency virus type 1 antibody,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0020960,C1415351,INTERACTS_WITH,Immune Sera,GTPBP1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0020960,C1422036,INTERACTS_WITH,Immune Sera,ERVW-1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1259,7 +1259,7 @@ C0021758,C0010590,INTERACTS_WITH,Interleukin-4,Cycloserine,aapp,aapp,1,INTERACTS
 C0021758,C0026682,INTERACTS_WITH,Interleukin-4,Mucins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0021758,C0079189,INTERACTS_WITH,Interleukin-4,cytokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0021758,C0085295,INTERACTS_WITH,Interleukin-4,Interleukin-10,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0021758,C0123759,INTERACTS_WITH,Interleukin-4,Interleukin-12,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0021758,C0123759,INTERACTS_WITH,Interleukin-4,Interleukin-12,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0021758,C0123771,INTERACTS_WITH,Interleukin-4,Interleukin 4 Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0021758,C0214743,INTERACTS_WITH,Interleukin-4,Interleukin-13,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0021758,C0597721,INTERACTS_WITH,Interleukin-4,Janus kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1371,7 +1371,7 @@ C0023689,C0030946,INTERACTS_WITH,Ligase,Endopeptidases,aapp,aapp,1,INTERACTS_WIT
 C0023689,C0040648,INTERACTS_WITH,Ligase,TRANSCRIPTION FACTOR,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0023689,C0041538,INTERACTS_WITH,Ligase,Ubiquitin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0023689,C0079419,INTERACTS_WITH,Ligase,TP53 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0023689,C0166418,INTERACTS_WITH,Ligase,Peroxisome Proliferator-Activated Receptors,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0023689,C0166418,INTERACTS_WITH,Ligase,Peroxisome Proliferator-Activated Receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0023689,C1333203,INTERACTS_WITH,Ligase,DAXX gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0023689,C1367307,INTERACTS_WITH,Ligase,STAT3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0023689,C1415898,INTERACTS_WITH,Ligase,IFITM3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1413,7 +1413,7 @@ C0024337,C1422064,INTERACTS_WITH,Lysine,ACE2 gene,aapp,aapp,1,INTERACTS_WITH_AAP
 C0024420,C1256770,INTERACTS_WITH,Macroglobulins,Vascular Endothelial Growth Factors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0024518,C0034790,INTERACTS_WITH,Major Histocompatibility Complex,T-Cell Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0024518,C0597357,INTERACTS_WITH,Major Histocompatibility Complex,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0024746,C0913092,INTERACTS_WITH,Mannosidase,DC-specific ICAM-3 grabbing nonintegrin,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0024746,C0913092,INTERACTS_WITH,Mannosidase,DC-specific ICAM-3 grabbing nonintegrin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0025248,C0003241,INTERACTS_WITH,Membrane Glycoproteins,Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0025248,C0023206,INTERACTS_WITH,Membrane Glycoproteins,Lectin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0025248,C0027803,INTERACTS_WITH,Membrane Glycoproteins,Neuraminidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1484,7 +1484,7 @@ C0027021,C0003241,INTERACTS_WITH,Peroxidase,Antibodies,aapp,aapp,1,INTERACTS_WIT
 C0027021,C0003242,INTERACTS_WITH,Peroxidase,"Antibodies, Anti-Idiotypic",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0027021,C0003250,INTERACTS_WITH,Peroxidase,Monoclonal Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0027021,C0036774,INTERACTS_WITH,Peroxidase,"Serum Albumin, Bovine",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0027021,C0051979,INTERACTS_WITH,Peroxidase,anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0027021,C0051979,INTERACTS_WITH,Peroxidase,anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0027021,C1418597,INTERACTS_WITH,Peroxidase,PITX3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0027021,C1624602,INTERACTS_WITH,Peroxidase,Anti-Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0027096,C0022009,INTERACTS_WITH,Myosin ATPase,Ion Channel,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -1684,7 +1684,7 @@ C0031689,C1334139,INTERACTS_WITH,Phosphoproteins,IRF3 gene,aapp,aapp,1,INTERACTS
 C0031727,C0001492,INTERACTS_WITH,Phosphotransferases,Adenylate Cyclase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0031727,C0003765,INTERACTS_WITH,Phosphotransferases,Arginine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0031727,C0013729,INTERACTS_WITH,Phosphotransferases,Eukaryotic Initiation Factor-2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0031727,C0013733,INTERACTS_WITH,Phosphotransferases,"Eukaryotic Initiation Factor-2, alpha Subunit",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0031727,C0013733,INTERACTS_WITH,Phosphotransferases,"Eukaryotic Initiation Factor-2, alpha Subunit",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0031727,C0018296,INTERACTS_WITH,Phosphotransferases,Guanosine Triphosphate Phosphohydrolases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0031727,C0019602,INTERACTS_WITH,Phosphotransferases,Histidine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0031727,C0019643,INTERACTS_WITH,Phosphotransferases,Histone Deacetylase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2090,7 +2090,7 @@ C0040648,C0008546,INTERACTS_WITH,TRANSCRIPTION FACTOR,Chromatin,aapp,aapp,1,INTE
 C0040648,C0010590,INTERACTS_WITH,TRANSCRIPTION FACTOR,Cycloserine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0040648,C0010654,INTERACTS_WITH,TRANSCRIPTION FACTOR,Cysteine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0040648,C0013729,INTERACTS_WITH,TRANSCRIPTION FACTOR,Eukaryotic Initiation Factor-2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0040648,C0015980,INTERACTS_WITH,TRANSCRIPTION FACTOR,Interferon-beta,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0040648,C0015980,INTERACTS_WITH,TRANSCRIPTION FACTOR,Interferon-beta,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0040648,C0018296,INTERACTS_WITH,TRANSCRIPTION FACTOR,Guanosine Triphosphate Phosphohydrolases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0040648,C0019652,INTERACTS_WITH,TRANSCRIPTION FACTOR,Histones,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0040648,C0021740,INTERACTS_WITH,TRANSCRIPTION FACTOR,Recombinant Interferon-gamma,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2478,10 +2478,10 @@ C0051979,C0002059,INTERACTS_WITH,anti-IgG,Alkaline Phosphatase,aapp,aapp,1,INTER
 C0051979,C0003241,INTERACTS_WITH,anti-IgG,Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0003250,INTERACTS_WITH,anti-IgG,Monoclonal Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0004434,INTERACTS_WITH,anti-IgG,Avidin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0051979,C0019941,INTERACTS_WITH,anti-IgG,Horseradish Peroxidase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0051979,C0019941,INTERACTS_WITH,anti-IgG,Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0021017,INTERACTS_WITH,anti-IgG,Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0021027,INTERACTS_WITH,anti-IgG,Immunoglobulins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0051979,C0027021,INTERACTS_WITH,anti-IgG,Peroxidase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0051979,C0027021,INTERACTS_WITH,anti-IgG,Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0031678,INTERACTS_WITH,anti-IgG,Phosphoric Monoester Hydrolases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0031789,INTERACTS_WITH,anti-IgG,Phycoerythrin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C0034800,INTERACTS_WITH,anti-IgG,"Receptors, Cell Surface",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2490,7 +2490,7 @@ C0051979,C0120285,INTERACTS_WITH,anti-IgG,Green Fluorescent Proteins,aapp,aapp,1
 C0051979,C0907680,INTERACTS_WITH,anti-IgG,KSHV Rta,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C1332684,INTERACTS_WITH,anti-IgG,CCL21 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C1414141,INTERACTS_WITH,anti-IgG,DPP4 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0051979,C1539650,INTERACTS_WITH,anti-IgG,HDGFL1 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0051979,C1539650,INTERACTS_WITH,anti-IgG,HDGFL1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051979,C1624602,INTERACTS_WITH,anti-IgG,Anti-Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051980,C0002059,INTERACTS_WITH,anti-IgM,Alkaline Phosphatase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0051980,C0003241,INTERACTS_WITH,anti-IgM,Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2508,7 +2508,7 @@ C0052193,C0051979,INTERACTS_WITH,apolipoprotein D,anti-IgG,aapp,aapp,1,INTERACTS
 C0052193,C0166418,INTERACTS_WITH,apolipoprotein D,Peroxisome Proliferator-Activated Receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0052193,C0385463,INTERACTS_WITH,apolipoprotein D,leptin receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0052193,C0597357,INTERACTS_WITH,apolipoprotein D,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0052193,C3179274,INTERACTS_WITH,apolipoprotein D,electronegative low-density lipoprotein,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0052193,C3179274,INTERACTS_WITH,apolipoprotein D,electronegative low-density lipoprotein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0052193,C3715113,INTERACTS_WITH,apolipoprotein D,HSD11B1 wt Allele,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0052327,C0021701,INTERACTS_WITH,arginine aspartate,Integrins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0052330,C0030946,INTERACTS_WITH,arginine chloromethyl ketone,Endopeptidases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2802,7 +2802,7 @@ C0065827,C0597721,INTERACTS_WITH,Measles Virus Nucleoprotein,Janus kinase,aapp,a
 C0065827,C0700271,INTERACTS_WITH,Measles Virus Nucleoprotein,"M Protein, multiple myeloma",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C0751973,INTERACTS_WITH,Measles Virus Nucleoprotein,Proteome,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C0872251,INTERACTS_WITH,Measles Virus Nucleoprotein,protein kinase R,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0065827,C1258835,INTERACTS_WITH,Measles Virus Nucleoprotein,"N protein, Severe acute respiratory syndrome virus",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0065827,C1258835,INTERACTS_WITH,Measles Virus Nucleoprotein,"N protein, Severe acute respiratory syndrome virus",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1310468,INTERACTS_WITH,Measles Virus Nucleoprotein,"DDX58 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1332379,INTERACTS_WITH,Measles Virus Nucleoprotein,BAK1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1334139,INTERACTS_WITH,Measles Virus Nucleoprotein,IRF3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -2821,7 +2821,7 @@ C0065827,C1414609,INTERACTS_WITH,Measles Virus Nucleoprotein,FGL2 gene,aapp,aapp
 C0065827,C1415634,INTERACTS_WITH,Measles Virus Nucleoprotein,HNRNPA1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1418793,INTERACTS_WITH,Measles Virus Nucleoprotein,PPIA gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1420193,INTERACTS_WITH,Measles Virus Nucleoprotein,SLC4A1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0065827,C1421638,INTERACTS_WITH,Measles Virus Nucleoprotein,TRIM25 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0065827,C1421638,INTERACTS_WITH,Measles Virus Nucleoprotein,TRIM25 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1422036,INTERACTS_WITH,Measles Virus Nucleoprotein,ERVW-1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1422629,INTERACTS_WITH,Measles Virus Nucleoprotein,DHX36 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0065827,C1539233,INTERACTS_WITH,Measles Virus Nucleoprotein,DDX58 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3152,7 +3152,7 @@ C0079419,C3710914,INTERACTS_WITH,TP53 gene,"EIF2AK2 protein, human",aapp,aapp,1,
 C0079459,C0080095,INTERACTS_WITH,Granulocyte Colony-Stimulating Factor,"Receptors, Colony-Stimulating Factor",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079459,C0597357,INTERACTS_WITH,Granulocyte Colony-Stimulating Factor,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079459,C1414141,INTERACTS_WITH,Granulocyte Colony-Stimulating Factor,DPP4 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0079460,C0010590,INTERACTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,Cycloserine,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0079460,C0010590,INTERACTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,Cycloserine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079460,C0021755,INTERACTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,Interleukin-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079460,C0079189,INTERACTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,cytokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079460,C0080091,INTERACTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,"Receptors, Granulocyte-Macrophage Colony-Stimulating Factor",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3196,7 +3196,7 @@ C0079904,C0082529,INTERACTS_WITH,NF-kappa B,Mitogen-Activated Protein Kinase 3,a
 C0079904,C0164786,INTERACTS_WITH,NF-kappa B,Proto-Oncogene Proteins c-akt,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079904,C0282554,INTERACTS_WITH,NF-kappa B,chemokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079904,C0600388,INTERACTS_WITH,NF-kappa B,Extracellular Signal Regulated Kinases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0079904,C0663914,INTERACTS_WITH,NF-kappa B,IkappaB kinase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0079904,C0663914,INTERACTS_WITH,NF-kappa B,IkappaB kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079904,C0751455,INTERACTS_WITH,NF-kappa B,"Gene Products, Protein",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079904,C1143949,INTERACTS_WITH,NF-kappa B,"TNFSF10 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0079904,C1310463,INTERACTS_WITH,NF-kappa B,"IFIH1 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3236,7 +3236,7 @@ C0081714,C0164371,INTERACTS_WITH,"Antigens, CD147",Matrix Metalloproteinase 3,aa
 C0081714,C0165519,INTERACTS_WITH,"Antigens, CD147",Matrix Metalloproteinase 9,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0081714,C0172537,INTERACTS_WITH,"Antigens, CD147",Matrix Metalloproteinase 2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0081714,C0443640,INTERACTS_WITH,"Antigens, CD147",Specific antibody,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0081714,C0623362,INTERACTS_WITH,"Antigens, CD147",Matrix Metalloproteinases,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0081714,C0623362,INTERACTS_WITH,"Antigens, CD147",Matrix Metalloproteinases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0081714,C1366519,INTERACTS_WITH,"Antigens, CD147",MMP11 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0081714,C1417203,INTERACTS_WITH,"Antigens, CD147",MMP14 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0081937,C0017968,INTERACTS_WITH,Dipeptidyl-Peptidase IV,Glycoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3495,7 +3495,7 @@ C0108685,C0085295,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,Interleukin-10,
 C0108685,C0387583,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,cyclooxygenase 2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0108685,C0663914,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,IkappaB kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0108685,C1419799,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,SAA1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0108685,C1565860,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,"PTGS2 protein, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0108685,C1565860,INTERACTS_WITH,CCAAT-Enhancer-Binding Proteins,"PTGS2 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0108768,C0065054,INTERACTS_WITH,CD14 Antigen,lipopolysaccharide-binding protein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0108793,C0009498,INTERACTS_WITH,"Antigens, CD55",Complement System Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0108801,C0017968,INTERACTS_WITH,"TFRC protein, human",Glycoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3668,7 +3668,7 @@ C0145947,C4048280,INTERACTS_WITH,Tissue-Inhibitor of Metalloproteinase-1,"T-Cell
 C0146495,C0949455,INTERACTS_WITH,Probable Transcription Factor PML,Ubiquitin-Like Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0146495,C1333203,INTERACTS_WITH,Probable Transcription Factor PML,DAXX gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0146544,C0058980,INTERACTS_WITH,TAR RNA-binding protein,eIF-2 Kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0146544,C3710914,INTERACTS_WITH,TAR RNA-binding protein,"EIF2AK2 protein, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0146544,C3710914,INTERACTS_WITH,TAR RNA-binding protein,"EIF2AK2 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0147139,C0040691,INTERACTS_WITH,Thrombospondin 1,Transforming Growth Factors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0147219,C1864770,INTERACTS_WITH,"Receptors, Autocrine Motility Factor",MAVS gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0147992,C1424250,INTERACTS_WITH,"V protein, measles virus",NLRP3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3803,7 +3803,7 @@ C0169658,C0031678,INTERACTS_WITH,Janus kinase 1,Phosphoric Monoester Hydrolases,
 C0169658,C0031727,INTERACTS_WITH,Janus kinase 1,Phosphotransferases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0169658,C0077503,INTERACTS_WITH,Janus kinase 1,Tumor Necrosis Factor Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0169658,C0079904,INTERACTS_WITH,Janus kinase 1,NF-kappa B,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0169658,C0169661,INTERACTS_WITH,Janus kinase 1,Janus kinase 2,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0169658,C0169661,INTERACTS_WITH,Janus kinase 1,Janus kinase 2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0169658,C0287920,INTERACTS_WITH,Janus kinase 1,STAT1 protein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0169658,C0538238,INTERACTS_WITH,Janus kinase 1,"GDF8 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0169658,C1334292,INTERACTS_WITH,Janus kinase 1,JAK3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -3921,7 +3921,7 @@ C0212694,C0599220,INTERACTS_WITH,DNA-dependent protein kinase,Protein Subunits,a
 C0213709,C0162508,INTERACTS_WITH,Cyclic AMP Response Element-Binding Protein A,JUN gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0213709,C1442756,INTERACTS_WITH,Cyclic AMP Response Element-Binding Protein A,SP3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0213709,C1667752,INTERACTS_WITH,Cyclic AMP Response Element-Binding Protein A,"IL33 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0214345,C1367578,INTERACTS_WITH,PTB-associated splicing factor,AR gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0214345,C1367578,INTERACTS_WITH,PTB-associated splicing factor,AR gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0214345,C1537647,INTERACTS_WITH,PTB-associated splicing factor,MALAT1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0214604,C1335283,INTERACTS_WITH,"Protein Tyrosine Phosphatase, Non-Receptor Type 6",PTPN6 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0214743,C0021755,INTERACTS_WITH,Interleukin-13,Interleukin-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -4063,7 +4063,7 @@ C0244989,C0021641,INTERACTS_WITH,Glycogen Synthase Kinase 3,Insulin,aapp,aapp,1,
 C0244989,C0023820,INTERACTS_WITH,Glycogen Synthase Kinase 3,Lipoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0244989,C0040648,INTERACTS_WITH,Glycogen Synthase Kinase 3,TRANSCRIPTION FACTOR,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0244989,C0079189,INTERACTS_WITH,Glycogen Synthase Kinase 3,cytokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0244989,C0164786,INTERACTS_WITH,Glycogen Synthase Kinase 3,Proto-Oncogene Proteins c-akt,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0244989,C0164786,INTERACTS_WITH,Glycogen Synthase Kinase 3,Proto-Oncogene Proteins c-akt,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0244989,C0243045,INTERACTS_WITH,Glycogen Synthase Kinase 3,Cyclin-Dependent Kinases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0244989,C0388730,INTERACTS_WITH,Glycogen Synthase Kinase 3,Cyclin D,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0244989,C1136240,INTERACTS_WITH,Glycogen Synthase Kinase 3,"Ribosomal Protein S6 Kinases, 70-kDa",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -4189,7 +4189,7 @@ C0282554,C0036825,INTERACTS_WITH,chemokine,Serum Proteins,aapp,aapp,1,INTERACTS_
 C0282554,C0079189,INTERACTS_WITH,chemokine,cytokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0282554,C0295022,INTERACTS_WITH,chemokine,TNF receptor-associated factor 3,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0282554,C0388437,INTERACTS_WITH,chemokine,CCR3 Receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0282554,C0597357,INTERACTS_WITH,chemokine,receptor,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0282554,C0597357,INTERACTS_WITH,chemokine,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0282554,C0599537,INTERACTS_WITH,chemokine,glycoprotein G,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0282554,C0670896,INTERACTS_WITH,chemokine,Toll-like receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0282554,C1332822,INTERACTS_WITH,chemokine,CXCR3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -4407,7 +4407,7 @@ C0359168,C0003242,INTERACTS_WITH,Mouse monoclonal antibody,"Antibodies, Anti-Idi
 C0359168,C0003250,INTERACTS_WITH,Mouse monoclonal antibody,Monoclonal Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0359168,C0019941,INTERACTS_WITH,Mouse monoclonal antibody,Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0359168,C0021017,INTERACTS_WITH,Mouse monoclonal antibody,Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0359168,C0051979,INTERACTS_WITH,Mouse monoclonal antibody,anti-IgG,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0359168,C0051979,INTERACTS_WITH,Mouse monoclonal antibody,anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0359168,C0599561,INTERACTS_WITH,Mouse monoclonal antibody,e protein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0359168,C1522002,INTERACTS_WITH,Mouse monoclonal antibody,RNA Recognition Motif,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0368582,C1454489,INTERACTS_WITH,a antibody,"MAPT protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5029,7 +5029,7 @@ C0663914,C0384768,INTERACTS_WITH,IkappaB kinase,"IRF3 protein, human",aapp,aapp,
 C0663914,C0599220,INTERACTS_WITH,IkappaB kinase,Protein Subunits,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0663914,C1310468,INTERACTS_WITH,IkappaB kinase,"DDX58 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0663914,C1313494,INTERACTS_WITH,IkappaB kinase,"TLR3 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0663914,C1334139,INTERACTS_WITH,IkappaB kinase,IRF3 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0663914,C1334139,INTERACTS_WITH,IkappaB kinase,IRF3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0663914,C1334477,INTERACTS_WITH,IkappaB kinase,MAP3K7 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0663914,C1335439,INTERACTS_WITH,IkappaB kinase,Polymerase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0663914,C1335872,INTERACTS_WITH,IkappaB kinase,STAT1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5304,7 +5304,7 @@ C0907929,C1415287,INTERACTS_WITH,neuronal membrane cytoskeletal protein 4.1,GRIA
 C0908146,C1418797,INTERACTS_WITH,mitochondrial permeability transition pore,PPID gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0910167,C0010656,INTERACTS_WITH,caspase-9,caspase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0910167,C0376515,INTERACTS_WITH,caspase-9,BCL2 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0910167,C0667830,INTERACTS_WITH,caspase-9,caspase-8,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0910167,C0667830,INTERACTS_WITH,caspase-9,caspase-8,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0911469,C0291573,INTERACTS_WITH,Caspase 12,caspase-3,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0911469,C0379214,INTERACTS_WITH,Caspase 12,"pros protein, Drosophila",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0913092,C0002520,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Amino Acids,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5405,7 +5405,7 @@ C0960880,C0600388,INTERACTS_WITH,angiotensin converting enzyme 2,Extracellular S
 C0960880,C0700271,INTERACTS_WITH,angiotensin converting enzyme 2,"M Protein, multiple myeloma",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0960880,C1522002,INTERACTS_WITH,angiotensin converting enzyme 2,RNA Recognition Motif,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0960880,C3711684,INTERACTS_WITH,angiotensin converting enzyme 2,"S protein, severe acute respiratory syndrome coronavirus",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C0960880,C4281807,INTERACTS_WITH,angiotensin converting enzyme 2,"Vitronectin, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C0960880,C4281807,INTERACTS_WITH,angiotensin converting enzyme 2,"Vitronectin, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0960880,C4320607,INTERACTS_WITH,angiotensin converting enzyme 2,PGR-AS1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0960938,C0040078,INTERACTS_WITH,red fluorescent protein,Thymidine Kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C0960939,C0534519,INTERACTS_WITH,fluorescent protein 583,Caspase-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5546,7 +5546,7 @@ C1144324,C0003241,INTERACTS_WITH,"glycoprotein E, dengue virus type 4",Antibodie
 C1144324,C0019941,INTERACTS_WITH,"glycoprotein E, dengue virus type 4",Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1148798,C0058980,INTERACTS_WITH,Activating Transcription Factors,eIF-2 Kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1148798,C0108685,INTERACTS_WITH,Activating Transcription Factors,CCAAT-Enhancer-Binding Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1148798,C0243041,INTERACTS_WITH,Activating Transcription Factors,Molecular Chaperones,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1148798,C0243041,INTERACTS_WITH,Activating Transcription Factors,Molecular Chaperones,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1148798,C1414444,INTERACTS_WITH,Activating Transcription Factors,ERN1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1148798,C1417005,INTERACTS_WITH,Activating Transcription Factors,MAP1LC3A gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1172366,C0965245,INTERACTS_WITH,CTLA-4-Ig,"CD274 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5572,7 +5572,7 @@ C1179132,C1422750,INTERACTS_WITH,Scaffold protein,IKBKE gene,aapp,aapp,1,INTERAC
 C1179132,C1539598,INTERACTS_WITH,Scaffold protein,GPRC5A gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1179435,C1419032,INTERACTS_WITH,Protein Component,PSMD2 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1180307,C0056080,INTERACTS_WITH,F-Actin,cofilin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1180307,C1335071,INTERACTS_WITH,F-Actin,Nuclear LIM Interactor-Interacting Factor 2,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1180307,C1335071,INTERACTS_WITH,F-Actin,Nuclear LIM Interactor-Interacting Factor 2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1180307,C1613323,INTERACTS_WITH,F-Actin,rhodamine-phalloidin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1180347,C0008546,INTERACTS_WITH,Protein complex,Chromatin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1180347,C0019652,INTERACTS_WITH,Protein complex,Histones,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -5587,7 +5587,7 @@ C1180347,C1742862,INTERACTS_WITH,Protein complex,"CISH protein, human",aapp,aapp
 C1180347,C1825632,INTERACTS_WITH,Protein complex,IZUMO1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1180347,C4082178,INTERACTS_WITH,Protein complex,"Progesterone Receptor, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1256770,C0062534,INTERACTS_WITH,Vascular Endothelial Growth Factors,Hepatocyte Growth Factor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1256770,C0378516,INTERACTS_WITH,Vascular Endothelial Growth Factors,Vascular Endothelial Growth Factor Receptor-1,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1256770,C0378516,INTERACTS_WITH,Vascular Endothelial Growth Factors,Vascular Endothelial Growth Factor Receptor-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1256770,C0597357,INTERACTS_WITH,Vascular Endothelial Growth Factors,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1256770,C1425219,INTERACTS_WITH,Vascular Endothelial Growth Factors,SLC22A12 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1256770,C3273862,INTERACTS_WITH,Vascular Endothelial Growth Factors,SPRY4-IT1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -6173,7 +6173,7 @@ C1335376,C0034790,INTERACTS_WITH,Peptide/MHC Complex,T-Cell Receptor,aapp,aapp,1
 C1335376,C0208355,INTERACTS_WITH,Peptide/MHC Complex,multicatalytic endopeptidase complex,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335376,C0887928,INTERACTS_WITH,Peptide/MHC Complex,Complementarity Determining Region 3,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335439,C0017360,INTERACTS_WITH,Polymerase,pol genes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1335439,C0027803,INTERACTS_WITH,Polymerase,Neuraminidase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1335439,C0027803,INTERACTS_WITH,Polymerase,Neuraminidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335439,C0058990,INTERACTS_WITH,Polymerase,Eukaryotic Initiation Factor-4G,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335439,C0066030,INTERACTS_WITH,Polymerase,messenger ribonucleoprotein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335439,C0178774,INTERACTS_WITH,Polymerase,Nucleocapsid,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -6206,7 +6206,7 @@ C1335818,C3273474,INTERACTS_WITH,SH2D3C gene,Cytospin-B,aapp,aapp,1,INTERACTS_WI
 C1335821,C0348035,INTERACTS_WITH,SHC1 gene,oxidized low density lipoprotein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335837,C1883559,INTERACTS_WITH,SLC2A1 gene,Wild Type,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335841,C0305052,INTERACTS_WITH,SMARCA2 gene,Gamma globulin serum,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1335841,C1417510,INTERACTS_WITH,SMARCA2 gene,MX1 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1335841,C1417510,INTERACTS_WITH,SMARCA2 gene,MX1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335872,C0015491,INTERACTS_WITH,STAT1 gene,factor IX,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335872,C0015980,INTERACTS_WITH,STAT1 gene,Interferon-beta,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1335872,C0021017,INTERACTS_WITH,STAT1 gene,Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -6885,7 +6885,7 @@ C1414627,C0285558,INTERACTS_WITH,FKBP5 gene,RAC-Alpha Serine/Threonine Kinase,aa
 C1414627,C0295022,INTERACTS_WITH,FKBP5 gene,TNF receptor-associated factor 3,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1414627,C0381943,INTERACTS_WITH,FKBP5 gene,Skp2 Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1414627,C0530129,INTERACTS_WITH,FKBP5 gene,TNF receptor-associated factor 6,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1414627,C0663914,INTERACTS_WITH,FKBP5 gene,IkappaB kinase,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1414627,C0663914,INTERACTS_WITH,FKBP5 gene,IkappaB kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1414627,C1412785,INTERACTS_WITH,FKBP5 gene,BECN1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1414627,C1424650,INTERACTS_WITH,FKBP5 gene,IFI44 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1414627,C1449799,INTERACTS_WITH,FKBP5 gene,Tumor Necrosis Factor Receptor-Associated Factors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -7251,7 +7251,7 @@ C1417510,C1417912,INTERACTS_WITH,MX1 gene,OAS1 gene,aapp,aapp,1,INTERACTS_WITH_A
 C1417519,C0003250,INTERACTS_WITH,MXRA8 gene,Monoclonal Antibodies,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417530,C0003242,INTERACTS_WITH,MYD88 gene,"Antibodies, Anti-Idiotypic",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417530,C0021017,INTERACTS_WITH,MYD88 gene,Immunoglobulin Isotypes,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1417530,C0021755,INTERACTS_WITH,MYD88 gene,Interleukin-1,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1417530,C0021755,INTERACTS_WITH,MYD88 gene,Interleukin-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417530,C0026682,INTERACTS_WITH,MYD88 gene,Mucins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417530,C0031727,INTERACTS_WITH,MYD88 gene,Phosphotransferases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417530,C0065827,INTERACTS_WITH,MYD88 gene,Measles Virus Nucleoprotein,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -7279,7 +7279,7 @@ C1417613,C2945724,INTERACTS_WITH,NCL gene,f-protein,aapp,aapp,1,INTERACTS_WITH_A
 C1417627,C0663914,INTERACTS_WITH,NDUFA6 gene,IkappaB kinase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417627,C1442489,INTERACTS_WITH,NDUFA6 gene,IKBKB gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417635,C1414557,INTERACTS_WITH,NDUFB3 gene,FCGRT gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1417635,C4048280,INTERACTS_WITH,NDUFB3 gene,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1417635,C4048280,INTERACTS_WITH,NDUFB3 gene,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417659,C0023689,INTERACTS_WITH,NEDD4 gene,Ligase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417659,C0037657,INTERACTS_WITH,NEDD4 gene,Somatomedins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1417659,C1312700,INTERACTS_WITH,NEDD4 gene,"FABP1 protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -7468,7 +7468,7 @@ C1418885,C0676848,INTERACTS_WITH,PREP gene,prolyl-glycyl-proline,aapp,aapp,1,INT
 C1418944,C0015514,INTERACTS_WITH,PROCR gene,Factor VIIIa,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1418944,C0079785,INTERACTS_WITH,PROCR gene,Macrophage-1 Antigen,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1418963,C1334078,INTERACTS_WITH,PRS gene,IFITM1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1418965,C0995188,INTERACTS_WITH,PRSS1 gene,cetuximab,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1418965,C0995188,INTERACTS_WITH,PRSS1 gene,cetuximab,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1418970,C0995188,INTERACTS_WITH,PRSS2 gene,cetuximab,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1418972,C0995188,INTERACTS_WITH,PRSS3 gene,cetuximab,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1419032,C1416478,INTERACTS_WITH,PSMD2 gene,ISG20 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -7769,7 +7769,7 @@ C1421527,C0013729,INTERACTS_WITH,XBP1 gene,Eukaryotic Initiation Factor-2,aapp,a
 C1421527,C0014241,INTERACTS_WITH,XBP1 gene,Endoribonucleases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1421527,C0021743,INTERACTS_WITH,XBP1 gene,Interferon Type I,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1421527,C0079189,INTERACTS_WITH,XBP1 gene,cytokine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1421527,C0243041,INTERACTS_WITH,XBP1 gene,Molecular Chaperones,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1421527,C0243041,INTERACTS_WITH,XBP1 gene,Molecular Chaperones,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1421527,C0665313,INTERACTS_WITH,XBP1 gene,"activating transcription factor 6, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1421527,C1148798,INTERACTS_WITH,XBP1 gene,Activating Transcription Factors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1421527,C1414444,INTERACTS_WITH,XBP1 gene,ERN1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -8556,7 +8556,7 @@ C1540056,C1418582,INTERACTS_WITH,TRIM21 gene,PIN1 gene,aapp,aapp,1,INTERACTS_WIT
 C1540061,C0040648,INTERACTS_WITH,TRIM55 gene,TRANSCRIPTION FACTOR,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1540061,C0074398,INTERACTS_WITH,TRIM55 gene,Serum Response Factor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1540061,C0077401,INTERACTS_WITH,TRIM55 gene,Troponin I,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C1540061,C0166418,INTERACTS_WITH,TRIM55 gene,Peroxisome Proliferator-Activated Receptors,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C1540061,C0166418,INTERACTS_WITH,TRIM55 gene,Peroxisome Proliferator-Activated Receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1540061,C0172537,INTERACTS_WITH,TRIM55 gene,Matrix Metalloproteinase 2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1540061,C0206588,INTERACTS_WITH,TRIM55 gene,"Receptors, Nuclear",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C1540061,C0597357,INTERACTS_WITH,TRIM55 gene,receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -9351,7 +9351,7 @@ C2699119,C1825325,INTERACTS_WITH,ARPP21 gene,G3BP1 gene,aapp,aapp,1,INTERACTS_WI
 C2702333,C0002059,INTERACTS_WITH,"Immunoglobulin G, Human",Alkaline Phosphatase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C2702333,C0017968,INTERACTS_WITH,"Immunoglobulin G, Human",Glycoproteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C2702333,C0019941,INTERACTS_WITH,"Immunoglobulin G, Human",Horseradish Peroxidase,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C2702333,C0034805,INTERACTS_WITH,"Immunoglobulin G, Human",Fc Receptor,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C2702333,C0034805,INTERACTS_WITH,"Immunoglobulin G, Human",Fc Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C2702333,C0034861,INTERACTS_WITH,"Immunoglobulin G, Human",Recombinant Proteins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C2702333,C0051979,INTERACTS_WITH,"Immunoglobulin G, Human",anti-IgG,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C2702333,C0672596,INTERACTS_WITH,"Immunoglobulin G, Human",palivizumab,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -9613,7 +9613,7 @@ C3658243,C0475463,INTERACTS_WITH,"Spike Glycoprotein, Coronavirus","Antibodies, 
 C3658243,C1718953,INTERACTS_WITH,"Spike Glycoprotein, Coronavirus",Severe acute respiratory syndrome coronavirus Ab,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3658344,C0673013,INTERACTS_WITH,"Genome, Microbial","GPER protein, human",aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3660996,C0123771,INTERACTS_WITH,dupilumab,Interleukin 4 Receptor,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C3710914,C0013729,INTERACTS_WITH,"EIF2AK2 protein, human",Eukaryotic Initiation Factor-2,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C3710914,C0013729,INTERACTS_WITH,"EIF2AK2 protein, human",Eukaryotic Initiation Factor-2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C0014241,INTERACTS_WITH,"EIF2AK2 protein, human",Endoribonucleases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C0057256,INTERACTS_WITH,"EIF2AK2 protein, human",Defensins,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C0061187,INTERACTS_WITH,"EIF2AK2 protein, human",Gelsolin,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -9627,7 +9627,7 @@ C3710914,C1310463,INTERACTS_WITH,"EIF2AK2 protein, human","IFIH1 protein, human"
 C3710914,C1334139,INTERACTS_WITH,"EIF2AK2 protein, human",IRF3 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C1366516,INTERACTS_WITH,"EIF2AK2 protein, human",IRF1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C1412215,INTERACTS_WITH,"EIF2AK2 protein, human",ADAR gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C3710914,C1414334,INTERACTS_WITH,"EIF2AK2 protein, human",EIF2S1 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C3710914,C1414334,INTERACTS_WITH,"EIF2AK2 protein, human",EIF2S1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C1419814,INTERACTS_WITH,"EIF2AK2 protein, human",SAP30 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C1720763,INTERACTS_WITH,"EIF2AK2 protein, human",ATP-Dependent DNA Helicases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3710914,C2362085,INTERACTS_WITH,"EIF2AK2 protein, human",WT-1,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
@@ -9747,7 +9747,7 @@ C3890018,C1414270,INTERACTS_WITH,HSP90B2P wt Allele,EEF1A1 gene,aapp,aapp,1,INTE
 C3890206,C0013729,INTERACTS_WITH,PON1 wt Allele,Eukaryotic Initiation Factor-2,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3890206,C1422036,INTERACTS_WITH,PON1 wt Allele,ERVW-1 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3890345,C1412831,INTERACTS_WITH,BISPR gene,BST2 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
-C3890345,C1825621,INTERACTS_WITH,BISPR gene,ISG15 gene,aapp,aapp,2,INTERACTS_WITH_AAPPitawAAPP
+C3890345,C1825621,INTERACTS_WITH,BISPR gene,ISG15 gene,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3890372,C0024337,INTERACTS_WITH,PPARGC1A wt Allele,Lysine,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3890397,C0031727,INTERACTS_WITH,PRKAA1 wt Allele,Phosphotransferases,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP
 C3890397,C0166418,INTERACTS_WITH,PRKAA1 wt Allele,Peroxisome Proliferator-Activated Receptors,aapp,aapp,1,INTERACTS_WITH_AAPPitawAAPP

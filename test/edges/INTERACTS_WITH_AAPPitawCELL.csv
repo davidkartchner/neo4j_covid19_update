@@ -190,7 +190,7 @@ C0017968,C0027836,INTERACTS_WITH,Glycoproteins,Neuroglia,aapp,cell,1,INTERACTS_W
 C0017968,C0027882,INTERACTS_WITH,Glycoproteins,Neurons,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0017968,C0027950,INTERACTS_WITH,Glycoproteins,neutrophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0017968,C0085080,INTERACTS_WITH,Glycoproteins,Chinese Hamster Ovary Cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0017968,C0221284,INTERACTS_WITH,Glycoproteins,Leptocyte,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0017968,C0221284,INTERACTS_WITH,Glycoproteins,Leptocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0017968,C0333742,INTERACTS_WITH,Glycoproteins,Syncytial cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0017968,C0524983,INTERACTS_WITH,Glycoproteins,Gastrin-Secreting Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0017968,C0682542,INTERACTS_WITH,Glycoproteins,ciliated cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -313,7 +313,7 @@ C0021758,C0206116,INTERACTS_WITH,Interleukin-4,Microglia,aapp,cell,1,INTERACTS_W
 C0021758,C0242633,INTERACTS_WITH,Interleukin-4,T-helper cell type 2,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0021758,C0440752,INTERACTS_WITH,Interleukin-4,Inflammatory cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0021758,C1519477,INTERACTS_WITH,Interleukin-4,Splenocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0021760,C0014597,INTERACTS_WITH,Interleukin-6,Epithelial Cells,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0021760,C0014597,INTERACTS_WITH,Interleukin-6,Epithelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0021760,C0022688,INTERACTS_WITH,Interleukin-6,Natural Killer Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0021760,C0023516,INTERACTS_WITH,Interleukin-6,Leukocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0021760,C0024432,INTERACTS_WITH,Interleukin-6,macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -760,7 +760,7 @@ C0081714,C0026473,INTERACTS_WITH,"Antigens, CD147",Monocytes,aapp,cell,1,INTERAC
 C0081714,C0225336,INTERACTS_WITH,"Antigens, CD147",Endothelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0081714,C0225828,INTERACTS_WITH,"Antigens, CD147","Myocytes, Cardiac",aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0081714,C0334227,INTERACTS_WITH,"Antigens, CD147","Tumor cells, malignant",aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0081937,C0014597,INTERACTS_WITH,Dipeptidyl-Peptidase IV,Epithelial Cells,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0081937,C0014597,INTERACTS_WITH,Dipeptidyl-Peptidase IV,Epithelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0081937,C0023516,INTERACTS_WITH,Dipeptidyl-Peptidase IV,Leukocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0081937,C0039194,INTERACTS_WITH,Dipeptidyl-Peptidase IV,T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0081939,C0027950,INTERACTS_WITH,CD31 Antigens,neutrophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -783,7 +783,7 @@ C0084692,C1135918,INTERACTS_WITH,Pulmonary Surfactant-Associated Protein D,"Myoc
 C0084692,C4330475,INTERACTS_WITH,Pulmonary Surfactant-Associated Protein D,Immune Cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0085218,C0007600,INTERACTS_WITH,RAG1 gene,Cultured Cell Line,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0085295,C0003315,INTERACTS_WITH,Interleukin-10,Antigen-Presenting Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0085295,C0004561,INTERACTS_WITH,Interleukin-10,B-Lymphocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0085295,C0004561,INTERACTS_WITH,Interleukin-10,B-Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0085295,C0014467,INTERACTS_WITH,Interleukin-10,eosinophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0085295,C0016030,INTERACTS_WITH,Interleukin-10,Fibroblasts,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0085295,C0022688,INTERACTS_WITH,Interleukin-10,Natural Killer Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -845,7 +845,7 @@ C0120465,C0024264,INTERACTS_WITH,Guanine Nucleotide Exchange Factors,Lymphocyte,
 C0121463,C0039215,INTERACTS_WITH,"nucleocapsid protein, Hepatitis C virus",CD4 Positive T Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0121463,C0376448,INTERACTS_WITH,"nucleocapsid protein, Hepatitis C virus",Jurkat Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0122040,C0018894,INTERACTS_WITH,HLA-DRB1 antigen,Helper-Inducer T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0122577,C0024432,INTERACTS_WITH,"complement factor H, human",macrophage,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0122577,C0024432,INTERACTS_WITH,"complement factor H, human",macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0123263,C0022688,INTERACTS_WITH,"Receptors, IgG",Natural Killer Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0123263,C0024432,INTERACTS_WITH,"Receptors, IgG",macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0123759,C0003315,INTERACTS_WITH,Interleukin-12,Antigen-Presenting Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -875,7 +875,7 @@ C0162768,C0085080,INTERACTS_WITH,Fusion protein,Chinese Hamster Ovary Cell,aapp,
 C0162768,C0221284,INTERACTS_WITH,Fusion protein,Leptocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0162768,C1183428,INTERACTS_WITH,Fusion protein,Solocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0162768,C1512977,INTERACTS_WITH,Fusion protein,Mammalian Cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0162768,C2936239,INTERACTS_WITH,Fusion protein,HEK293 Cells,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0162768,C2936239,INTERACTS_WITH,Fusion protein,HEK293 Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0162768,C3826603,INTERACTS_WITH,Fusion protein,Cell metabolism,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0164786,C0042542,INTERACTS_WITH,Proto-Oncogene Proteins c-akt,Vero Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0164786,C3826603,INTERACTS_WITH,Proto-Oncogene Proteins c-akt,Cell metabolism,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -968,10 +968,10 @@ C0282554,C0014467,INTERACTS_WITH,chemokine,eosinophil,aapp,cell,1,INTERACTS_WITH
 C0282554,C0018183,INTERACTS_WITH,chemokine,granulocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0022688,INTERACTS_WITH,chemokine,Natural Killer Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0022801,INTERACTS_WITH,chemokine,Hepatic macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0282554,C0023516,INTERACTS_WITH,chemokine,Leukocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0282554,C0023516,INTERACTS_WITH,chemokine,Leukocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0024264,INTERACTS_WITH,chemokine,Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0024432,INTERACTS_WITH,chemokine,macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0282554,C0026473,INTERACTS_WITH,chemokine,Monocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0282554,C0026473,INTERACTS_WITH,chemokine,Monocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0027836,INTERACTS_WITH,chemokine,Neuroglia,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0027882,INTERACTS_WITH,chemokine,Neurons,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0282554,C0027950,INTERACTS_WITH,chemokine,neutrophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -1199,7 +1199,7 @@ C0670336,C0039194,INTERACTS_WITH,CXCR3 Receptors,T-Lymphocyte,aapp,cell,1,INTERA
 C0670336,C0682639,INTERACTS_WITH,CXCR3 Receptors,Memory T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0670514,C0206427,INTERACTS_WITH,melanopsin,Rod Photoreceptors,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0670514,C0206428,INTERACTS_WITH,melanopsin,Retinal Cone,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0670896,C0011306,INTERACTS_WITH,Toll-like receptors,Dendritic Cells,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0670896,C0011306,INTERACTS_WITH,Toll-like receptors,Dendritic Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0670896,C0014597,INTERACTS_WITH,Toll-like receptors,Epithelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0670896,C0024432,INTERACTS_WITH,Toll-like receptors,macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0670896,C0085236,INTERACTS_WITH,Toll-like receptors,"Macrophages, Alveolar",aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -1255,9 +1255,9 @@ C0907533,C0596981,INTERACTS_WITH,"NOS1 protein, human",Muscle Cells,aapp,cell,1,
 C0913092,C0003315,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Antigen-Presenting Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0004561,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,B-Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0007600,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Cultured Cell Line,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0913092,C0011306,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Dendritic Cells,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0913092,C0011306,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Dendritic Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0014597,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Epithelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C0913092,C0024432,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,macrophage,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C0913092,C0024432,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0031307,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,Phagocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0039194,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C0913092,C0039215,INTERACTS_WITH,DC-specific ICAM-3 grabbing nonintegrin,CD4 Positive T Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -2109,10 +2109,10 @@ C1449159,C0011306,INTERACTS_WITH,"CCL2 protein, human",Dendritic Cells,aapp,cell
 C1449159,C0022688,INTERACTS_WITH,"CCL2 protein, human",Natural Killer Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C0023516,INTERACTS_WITH,"CCL2 protein, human",Leukocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C0024432,INTERACTS_WITH,"CCL2 protein, human",macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C1449159,C0026473,INTERACTS_WITH,"CCL2 protein, human",Monocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C1449159,C0026473,INTERACTS_WITH,"CCL2 protein, human",Monocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C0027950,INTERACTS_WITH,"CCL2 protein, human",neutrophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C0039194,INTERACTS_WITH,"CCL2 protein, human",T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C1449159,C0440752,INTERACTS_WITH,"CCL2 protein, human",Inflammatory cell,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C1449159,C0440752,INTERACTS_WITH,"CCL2 protein, human",Inflammatory cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C1148382,INTERACTS_WITH,"CCL2 protein, human",Monocytes+Macrophages,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449159,C4330475,INTERACTS_WITH,"CCL2 protein, human",Immune Cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C1449651,C0027836,INTERACTS_WITH,Amyloid Fibrils,Neuroglia,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -2407,7 +2407,7 @@ C2744579,C0039194,INTERACTS_WITH,"ATP8A2 protein, human",T-Lymphocyte,aapp,cell,
 C2827563,C0014597,INTERACTS_WITH,HBG1 wt Allele,Epithelial Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C2828961,C0682542,INTERACTS_WITH,CDHR3 gene,ciliated cell,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C2936243,C0027882,INTERACTS_WITH,Cell-Penetrating Peptides,Neurons,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C2936529,C0024432,INTERACTS_WITH,Inflammasomes,macrophage,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C2936529,C0024432,INTERACTS_WITH,Inflammasomes,macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C2936529,C0026473,INTERACTS_WITH,Inflammasomes,Monocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C2936529,C0227525,INTERACTS_WITH,Inflammasomes,Hepatocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C2945710,C0009013,INTERACTS_WITH,resistance genes,Clone Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -2475,7 +2475,7 @@ C3887559,C0003315,INTERACTS_WITH,Recombinant Human Macrophage Inflammatory Prote
 C3887559,C0024264,INTERACTS_WITH,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C3887559,C0026473,INTERACTS_WITH,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Monocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C3887559,C0027950,INTERACTS_WITH,Recombinant Human Macrophage Inflammatory Protein-1 Beta,neutrophil,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C3887583,C0004561,INTERACTS_WITH,"CD40 Ligand, human",B-Lymphocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C3887583,C0004561,INTERACTS_WITH,"CD40 Ligand, human",B-Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C3887583,C0018894,INTERACTS_WITH,"CD40 Ligand, human",Helper-Inducer T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C3887583,C0022827,INTERACTS_WITH,"CD40 Ligand, human",L Cells (Cell Line),aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C3887583,C0032112,INTERACTS_WITH,"CD40 Ligand, human",Plasma Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
@@ -2499,7 +2499,7 @@ C4048280,C0011306,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",Dendri
 C4048280,C0018873,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",HeLa Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C4048280,C0024432,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",macrophage,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C4048280,C0039194,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
-C4048280,C0039215,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",CD4 Positive T Lymphocytes,aapp,cell,2,INTERACTS_WITH_AAPPitawCELL
+C4048280,C0039215,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",CD4 Positive T Lymphocytes,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C4048280,C0814999,INTERACTS_WITH,"T-Cell Surface Glycoprotein CD4, human",thymocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C4048302,C0011306,INTERACTS_WITH,"T-Lymphocyte Activation Antigen CD80, human",Dendritic Cells,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL
 C4048302,C0039194,INTERACTS_WITH,"T-Lymphocyte Activation Antigen CD80, human",T-Lymphocyte,aapp,cell,1,INTERACTS_WITH_AAPPitawCELL

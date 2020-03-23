@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0001563,HIGHER_THAN,"Administration, Intranasal","Administration, Oral",topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0001563,C0683174,HIGHER_THAN,"Administration, Oral",topical application,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0001566,C1515119,HIGHER_THAN,"Administration, Topical",systemic therapy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0002928,C0002928,HIGHER_THAN,Spinal Anesthesia,Spinal Anesthesia,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0012683,C0280592,HIGHER_THAN,Disinfection,doxorubicin/fluorouracil/mitomycin/vincristine protocol,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0013216,C0392920,HIGHER_THAN,Pharmacotherapy,Chemotherapy Regimen,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0013806,C0013806,HIGHER_THAN,Electroconvulsive Therapy,Electroconvulsive Therapy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0013806,C0280603,HIGHER_THAN,Electroconvulsive Therapy,fluorouracil/methotrexate protocol,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0019004,C0031139,HIGHER_THAN,Hemodialysis,Peritoneal Dialysis,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0020971,C0020971,HIGHER_THAN,Immunization,Immunization,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0020971,C0042196,HIGHER_THAN,Immunization,Vaccination,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0020972,C0565867,HIGHER_THAN,Immunization Schedule,delivery method,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0020974,C0042196,HIGHER_THAN,passive immunization procedure,Vaccination,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0021083,C0413381,HIGHER_THAN,Immunotherapy,Subcutaneous immunotherapy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0021925,C0021925,HIGHER_THAN,Intubation,Intubation,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0034386,C1531698,HIGHER_THAN,Quarantine,Active monitoring,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0035139,C0035139,HIGHER_THAN,Surgical Replantation,Surgical Replantation,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0040808,C0040808,HIGHER_THAN,Treatment Protocols,Treatment Protocols,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0040808,C1276413,HIGHER_THAN,Treatment Protocols,Therapeutic regimen,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0042196,C0020971,HIGHER_THAN,Vaccination,Immunization,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0042196,C0042196,HIGHER_THAN,Vaccination,Vaccination,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0042196,C0678823,HIGHER_THAN,Vaccination,parenteral administration,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0042196,C1567676,HIGHER_THAN,Vaccination,Variolation,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0052712,C0052712,HIGHER_THAN,doxorubicin/mitomycin/vinblastine protocol,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0065764,C0065764,HIGHER_THAN,bleomycin/cisplatin/methotrexate protocol,bleomycin/cisplatin/methotrexate protocol,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0086225,C0030547,HIGHER_THAN,Enteral Feeding,Parenteral Nutrition,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0152060,C0152060,HIGHER_THAN,Transection (procedure),Transection (procedure),topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0185003,C0185003,HIGHER_THAN,Reparative closure,Reparative closure,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0185026,C0185026,HIGHER_THAN,Plication,Plication,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0185115,C0034386,HIGHER_THAN,Extraction,Quarantine,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0185115,C0185115,HIGHER_THAN,Extraction,Extraction,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0199470,C0199470,HIGHER_THAN,Mechanical ventilation,Mechanical ventilation,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0204727,C0034386,HIGHER_THAN,Isolation procedure,Quarantine,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0204727,C0204727,HIGHER_THAN,Isolation procedure,Isolation procedure,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0280603,C0280603,HIGHER_THAN,fluorouracil/methotrexate protocol,fluorouracil/methotrexate protocol,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0280603,C1511790,HIGHER_THAN,fluorouracil/methotrexate protocol,Detection,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0439775,C0018821,HIGHER_THAN,Elevation procedure,Cardiac Surgery procedures,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0441516,C0441516,HIGHER_THAN,Demand (clinical),Demand (clinical),topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0472699,C0472699,HIGHER_THAN,Hemopoietic stem cell transplant,Hemopoietic stem cell transplant,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0520484,C0040739,HIGHER_THAN,Xenograft procedure,"Transplantation, Homologous",topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0524865,C0524865,HIGHER_THAN,Reconstructive Surgical Procedures,Reconstructive Surgical Procedures,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0559681,C0338237,HIGHER_THAN,Oral antibiotic therapy,Antibiotic therapy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0565195,C0038638,HIGHER_THAN,Continuous suction drainage,Suction drainage,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0679698,C0015357,HIGHER_THAN,disease prevention,Extracorporeal Membrane Oxygenation,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0683525,C3650840,HIGHER_THAN,treatment options,Traditional therapy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C0741847,C0741847,HIGHER_THAN,Bypass,Bypass,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C1301707,C0078944,HIGHER_THAN,Patient controlled epidural analgesia,Patient-Controlled Analgesia,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C1511790,C1511790,HIGHER_THAN,Detection,Detection,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C1659427,C1659427,HIGHER_THAN,Nebulization,Nebulization,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C1883520,C1883520,HIGHER_THAN,VePesid-Ifosfamide-Platinol Regimen,VePesid-Ifosfamide-Platinol Regimen,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C2945704,C2945704,HIGHER_THAN,Conventional Treatment,Conventional Treatment,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C3540512,C3540512,HIGHER_THAN,Circumferential Supracrestal Fiberotomy,Circumferential Supracrestal Fiberotomy,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP
+C4520447,C4520447,HIGHER_THAN,Decolonization,Decolonization,topp,topp,1,HIGHER_THAN_TOPPhghtTOPP

@@ -98,7 +98,7 @@ C0016627,C0021368,CAUSES,Influenza in Birds,Inflammation,dsyn,patf,1,CAUSES_DSYN
 C0016627,C0235029,CAUSES,Influenza in Birds,neurological complication,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0016627,C0333467,CAUSES,Influenza in Birds,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0016627,C1155266,CAUSES,Influenza in Birds,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
-C0016627,C3714514,CAUSES,Influenza in Birds,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0016627,C3714514,CAUSES,Influenza in Birds,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0016807,C0021368,CAUSES,Functional disorder of intestine,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0017160,C0017181,CAUSES,Gastroenteritis,Gastrointestinal Hemorrhage,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0017601,C0020564,CAUSES,Glaucoma,Hypertrophy,dsyn,patf,1,CAUSES_DSYNcausPATF
@@ -109,7 +109,7 @@ C0018799,C0040038,CAUSES,Heart Diseases,Thromboembolism,dsyn,patf,1,CAUSES_DSYNc
 C0018799,C0085298,CAUSES,Heart Diseases,Sudden Cardiac Death,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0018799,C0268000,CAUSES,Heart Diseases,Body fluid retention,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0018801,C0013604,CAUSES,Heart failure,Edema,dsyn,patf,1,CAUSES_DSYNcausPATF
-C0018802,C0032227,CAUSES,Congestive heart failure,Pleural effusion disorder,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0018802,C0032227,CAUSES,Congestive heart failure,Pleural effusion disorder,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0018824,C0004238,CAUSES,Heart valve disease,Atrial Fibrillation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0019100,C0015376,CAUSES,Severe Dengue,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0019100,C0026766,CAUSES,Severe Dengue,Multiple Organ Failure,dsyn,patf,1,CAUSES_DSYNcausPATF
@@ -140,7 +140,7 @@ C0020538,C1383860,CAUSES,Hypertensive disease,Cardiac Hypertrophy,dsyn,patf,1,CA
 C0020541,C0012359,CAUSES,"Hypertension, Portal",Pathological Dilatation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0020541,C0856757,CAUSES,"Hypertension, Portal",dilated veins,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0020542,C0242707,CAUSES,Pulmonary Hypertension,"Ventricular Dysfunction, Right",dsyn,patf,1,CAUSES_DSYNcausPATF
-C0020550,C0021655,CAUSES,Hyperthyroidism,Insulin Resistance,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0020550,C0021655,CAUSES,Hyperthyroidism,Insulin Resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0020877,C1261287,CAUSES,Ileitis,Stenosis,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0021051,C0021376,CAUSES,Immunologic Deficiency Syndromes,Chronic inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0021051,C0162633,CAUSES,Immunologic Deficiency Syndromes,Viral Shedding,dsyn,patf,1,CAUSES_DSYNcausPATF
@@ -257,7 +257,7 @@ C0035243,C0026766,CAUSES,Respiratory Tract Infections,Multiple Organ Failure,dsy
 C0035243,C0333641,CAUSES,Respiratory Tract Infections,Atrophic,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0035243,C1155266,CAUSES,Respiratory Tract Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0035243,C3714514,CAUSES,Respiratory Tract Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
-C0035585,C4061114,CAUSES,Rickettsia Infections,Acute illness,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0035585,C4061114,CAUSES,Rickettsia Infections,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0035869,C0022346,CAUSES,Rotavirus Infections,Icterus,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0036117,C0016059,CAUSES,Salmonella infections,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0036117,C0021368,CAUSES,Salmonella infections,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
@@ -347,7 +347,7 @@ C0206750,C0021368,CAUSES,Coronavirus Infections,Inflammation,dsyn,patf,1,CAUSES_
 C0206750,C0161818,CAUSES,Coronavirus Infections,Respiratory complication,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0206750,C0333467,CAUSES,Coronavirus Infections,Cytopathic effect,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0206750,C1155266,CAUSES,Coronavirus Infections,inflammatory response,dsyn,patf,1,CAUSES_DSYNcausPATF
-C0206750,C3714514,CAUSES,Coronavirus Infections,Infection,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0206750,C3714514,CAUSES,Coronavirus Infections,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0206750,C4061114,CAUSES,Coronavirus Infections,Acute illness,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0235946,C0016059,CAUSES,Cerebral atrophy,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0238327,C0016059,CAUSES,Oxygen toxicity,Fibrosis,dsyn,patf,1,CAUSES_DSYNcausPATF
@@ -365,7 +365,7 @@ C0264383,C0332448,CAUSES,Organized pneumonia,Infiltration,dsyn,patf,1,CAUSES_DSY
 C0264939,C0015376,CAUSES,Systemic Vasculitis,Extravasation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0264992,C0021368,CAUSES,Polyarteritis,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0270814,C0021368,CAUSES,Spastic syndrome,Inflammation,dsyn,patf,1,CAUSES_DSYNcausPATF
-C0271547,C0021655,CAUSES,Overproduction of growth hormone,Insulin Resistance,dsyn,patf,2,CAUSES_DSYNcausPATF
+C0271547,C0021655,CAUSES,Overproduction of growth hormone,Insulin Resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0272285,C0024348,CAUSES,Heparin-induced thrombocytopenia,Lysis,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0275518,C0151521,CAUSES,Acute infectious disease,Bacterial resistance,dsyn,patf,1,CAUSES_DSYNcausPATF
 C0275518,C3714514,CAUSES,Acute infectious disease,Infection,dsyn,patf,1,CAUSES_DSYNcausPATF

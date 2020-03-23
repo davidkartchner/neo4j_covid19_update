@@ -91,7 +91,7 @@ C0003250,C0018557,PART_OF,Monoclonal Antibodies,Hamsters,aapp,mamm,1,PART_OF_AAP
 C0003250,C0024400,PART_OF,Monoclonal Antibodies,Macaca mulatta,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0003250,C0025914,PART_OF,Monoclonal Antibodies,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0003250,C0025936,PART_OF,Monoclonal Antibodies,"Mice, Transgenic",aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0003250,C0026809,PART_OF,Monoclonal Antibodies,Mus,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0003250,C0026809,PART_OF,Monoclonal Antibodies,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0003250,C0034693,PART_OF,Monoclonal Antibodies,Rattus norvegicus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0003250,C0035804,PART_OF,Monoclonal Antibodies,Rodent,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0003250,C0039005,PART_OF,Monoclonal Antibodies,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -317,7 +317,7 @@ C0021743,C0039005,PART_OF,Interferon Type I,Family suidae,aapp,mamm,1,PART_OF_AA
 C0021743,C1512658,PART_OF,Interferon Type I,Immunodeficient Mouse,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021747,C0007450,PART_OF,Interferons,Felis catus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021747,C0008139,PART_OF,Interferons,Chiroptera,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0021747,C0025914,PART_OF,Interferons,House mice,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0021747,C0025914,PART_OF,Interferons,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021747,C0026809,PART_OF,Interferons,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021747,C0039005,PART_OF,Interferons,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021753,C0025914,PART_OF,Interleukin-1 beta,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -352,7 +352,7 @@ C0021760,C0024398,PART_OF,Interleukin-6,Macaca,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C0024399,PART_OF,Interleukin-6,Macaca fascicularis,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C0025914,PART_OF,Interleukin-6,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C0026447,PART_OF,Interleukin-6,Monkeys,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0021760,C0026809,PART_OF,Interleukin-6,Mus,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0021760,C0026809,PART_OF,Interleukin-6,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C0034693,PART_OF,Interleukin-6,Rattus norvegicus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C0039005,PART_OF,Interleukin-6,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0021760,C1135183,PART_OF,Interleukin-6,Sus scrofa,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -498,7 +498,7 @@ C0042147,C0025936,PART_OF,Uteroglobin,"Mice, Transgenic",aapp,mamm,1,PART_OF_AAP
 C0042666,C0025914,PART_OF,Vimentin,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0042666,C0026809,PART_OF,Vimentin,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0042736,C0008139,PART_OF,Viral Proteins,Chiroptera,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0042736,C0025919,PART_OF,Viral Proteins,"Mice, Inbred BALB C",aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0042736,C0025919,PART_OF,Viral Proteins,"Mice, Inbred BALB C",aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0042736,C0026809,PART_OF,Viral Proteins,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0042736,C0039005,PART_OF,Viral Proteins,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051962,C0026809,PART_OF,anthrax toxin,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -516,7 +516,7 @@ C0051979,C0018557,PART_OF,anti-IgG,Hamsters,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0019944,PART_OF,anti-IgG,Equus caballus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0024399,PART_OF,anti-IgG,Macaca fascicularis,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0024400,PART_OF,anti-IgG,Macaca mulatta,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0051979,C0025914,PART_OF,anti-IgG,House mice,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0051979,C0025914,PART_OF,anti-IgG,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0026447,PART_OF,anti-IgG,Monkeys,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0034693,PART_OF,anti-IgG,Rattus norvegicus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0051979,C0036945,PART_OF,anti-IgG,Sheep,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -667,7 +667,7 @@ C0084692,C0039005,PART_OF,Pulmonary Surfactant-Associated Protein D,Family suida
 C0085151,C0026809,PART_OF,Amyloid beta-Protein Precursor,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085175,C0039005,PART_OF,Vinculin,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085201,C0025914,PART_OF,Apolipoprotein A-I,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0085295,C0007450,PART_OF,Interleukin-10,Felis catus,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0085295,C0007450,PART_OF,Interleukin-10,Felis catus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085295,C0012984,PART_OF,Interleukin-10,Canis familiaris,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085295,C0025914,PART_OF,Interleukin-10,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085295,C0026809,PART_OF,Interleukin-10,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -675,9 +675,9 @@ C0085295,C0039005,PART_OF,Interleukin-10,Family suidae,aapp,mamm,1,PART_OF_AAPPp
 C0085295,C1135183,PART_OF,Interleukin-10,Sus scrofa,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C0012984,PART_OF,Muromonab-CD3,Canis familiaris,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C0019944,PART_OF,Muromonab-CD3,Equus caballus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0085379,C0025914,PART_OF,Muromonab-CD3,House mice,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0085379,C0025914,PART_OF,Muromonab-CD3,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C0026809,PART_OF,Muromonab-CD3,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0085379,C0034693,PART_OF,Muromonab-CD3,Rattus norvegicus,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0085379,C0034693,PART_OF,Muromonab-CD3,Rattus norvegicus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C0039005,PART_OF,Muromonab-CD3,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C1135183,PART_OF,Muromonab-CD3,Sus scrofa,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0085379,C3887509,PART_OF,Muromonab-CD3,Rabbits,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -720,7 +720,7 @@ C0120285,C0026809,PART_OF,Green Fluorescent Proteins,Mus,aapp,mamm,1,PART_OF_AAP
 C0120285,C0033147,PART_OF,Green Fluorescent Proteins,Primates,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0123759,C0007450,PART_OF,Interleukin-12,Felis catus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0123759,C0025914,PART_OF,Interleukin-12,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0123759,C0026809,PART_OF,Interleukin-12,Mus,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0123759,C0026809,PART_OF,Interleukin-12,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0123759,C0039005,PART_OF,Interleukin-12,Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0128897,C0026809,PART_OF,Monocyte Chemoattractant Protein-1,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0134235,C0007450,PART_OF,OspA protein,Felis catus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -786,7 +786,7 @@ C0257766,C0007450,PART_OF,"SILV protein, human",Felis catus,aapp,mamm,1,PART_OF_
 C0258479,C0033147,PART_OF,"Cgm3 protein, rat",Primates,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0279218,C0025914,PART_OF,Edrecolomab,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0282553,C0026809,PART_OF,CXC Chemokines,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0282554,C0012984,PART_OF,chemokine,Canis familiaris,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0282554,C0012984,PART_OF,chemokine,Canis familiaris,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0282554,C0019944,PART_OF,chemokine,Equus caballus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0282554,C0024398,PART_OF,chemokine,Macaca,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0282554,C0025914,PART_OF,chemokine,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -829,7 +829,7 @@ C0312586,C0007450,PART_OF,Polyclonal antibody,Felis catus,aapp,mamm,1,PART_OF_AA
 C0312586,C0018019,PART_OF,Polyclonal antibody,Capra hircus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0312586,C0018557,PART_OF,Polyclonal antibody,Hamsters,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0312586,C0019944,PART_OF,Polyclonal antibody,Equus caballus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C0312586,C0025914,PART_OF,Polyclonal antibody,House mice,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C0312586,C0025914,PART_OF,Polyclonal antibody,House mice,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0312586,C0026809,PART_OF,Polyclonal antibody,Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0312586,C0034693,PART_OF,Polyclonal antibody,Rattus norvegicus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C0312586,C0035950,PART_OF,Polyclonal antibody,Ruminants,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -1266,7 +1266,7 @@ C1414141,C0006764,PART_OF,DPP4 gene,Callithrix,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0006801,PART_OF,DPP4 gene,Camels,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0007452,PART_OF,DPP4 gene,Cattle,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0008139,PART_OF,DPP4 gene,Chiroptera,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C1414141,C0013127,PART_OF,DPP4 gene,Camelus dromedarius,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C1414141,C0013127,PART_OF,DPP4 gene,Camelus dromedarius,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0015859,PART_OF,DPP4 gene,Ferrets,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0018019,PART_OF,DPP4 gene,Capra hircus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C1414141,C0018557,PART_OF,DPP4 gene,Hamsters,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -2003,7 +2003,7 @@ C4048280,C0025914,PART_OF,"T-Cell Surface Glycoprotein CD4, human",House mice,aa
 C4048280,C0026809,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Mus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4048280,C0030362,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Papio,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4048280,C0032638,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Pongo pygmaeus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C4048280,C0033147,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Primates,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C4048280,C0033147,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Primates,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4048280,C0036055,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Genus Saimiri,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4048280,C0039005,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Family suidae,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4048280,C0039827,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Gelada,aapp,mamm,1,PART_OF_AAPPprtfMAMM
@@ -2015,7 +2015,7 @@ C4048280,C3825828,PART_OF,"T-Cell Surface Glycoprotein CD4, human",Pig-tailed ma
 C4048302,C1135183,PART_OF,"T-Lymphocyte Activation Antigen CD80, human",Sus scrofa,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4049595,C0006801,PART_OF,HLA Complex,Camels,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4049595,C0007450,PART_OF,HLA Complex,Felis catus,aapp,mamm,1,PART_OF_AAPPprtfMAMM
-C4049595,C0007452,PART_OF,HLA Complex,Cattle,aapp,mamm,2,PART_OF_AAPPprtfMAMM
+C4049595,C0007452,PART_OF,HLA Complex,Cattle,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4049595,C0007970,PART_OF,HLA Complex,Cheetahs,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4049595,C0008139,PART_OF,HLA Complex,Chiroptera,aapp,mamm,1,PART_OF_AAPPprtfMAMM
 C4049595,C0012984,PART_OF,HLA Complex,Canis familiaris,aapp,mamm,1,PART_OF_AAPPprtfMAMM

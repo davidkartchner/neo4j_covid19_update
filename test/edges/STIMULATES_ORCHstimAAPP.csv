@@ -131,9 +131,9 @@ C0023810,C0010656,STIMULATES,Lipopolysaccharides,caspase,orch,aapp,1,STIMULATES_
 C0023810,C0017757,STIMULATES,Lipopolysaccharides,Glucosephosphate Dehydrogenase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0019796,STIMULATES,Lipopolysaccharides,HMGB1 Protein,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0021747,STIMULATES,Lipopolysaccharides,Interferons,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0023810,C0021753,STIMULATES,Lipopolysaccharides,Interleukin-1 beta,orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0023810,C0021753,STIMULATES,Lipopolysaccharides,Interleukin-1 beta,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0021755,STIMULATES,Lipopolysaccharides,Interleukin-1,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0023810,C0021760,STIMULATES,Lipopolysaccharides,Interleukin-6,orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0023810,C0021760,STIMULATES,Lipopolysaccharides,Interleukin-6,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0031727,STIMULATES,Lipopolysaccharides,Phosphotransferases,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0034348,STIMULATES,Lipopolysaccharides,Pyruvate Kinase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0034790,STIMULATES,Lipopolysaccharides,T-Cell Receptor,orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -166,7 +166,7 @@ C0023810,C0752312,STIMULATES,Lipopolysaccharides,Mitogen-Activated Protein Kinas
 C0023810,C0812246,STIMULATES,Lipopolysaccharides,TNF gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C0965245,STIMULATES,Lipopolysaccharides,"CD274 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1120843,STIMULATES,Lipopolysaccharides,mitogen-activated protein kinase p38,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0023810,C1321919,STIMULATES,Lipopolysaccharides,"TLR4 protein, human",orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0023810,C1321919,STIMULATES,Lipopolysaccharides,"TLR4 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1332819,STIMULATES,Lipopolysaccharides,CXCL5 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1333908,STIMULATES,Lipopolysaccharides,HMGB1 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1334122,STIMULATES,Lipopolysaccharides,IL6 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -196,7 +196,7 @@ C0023810,C1422064,STIMULATES,Lipopolysaccharides,ACE2 gene,orch,aapp,1,STIMULATE
 C0023810,C1423633,STIMULATES,Lipopolysaccharides,TLR9 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1423767,STIMULATES,Lipopolysaccharides,HPS4 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1424250,STIMULATES,Lipopolysaccharides,NLRP3 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0023810,C1448177,STIMULATES,Lipopolysaccharides,"TNF protein, human",orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0023810,C1448177,STIMULATES,Lipopolysaccharides,"TNF protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1449159,STIMULATES,Lipopolysaccharides,"CCL2 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1453853,STIMULATES,Lipopolysaccharides,"WNK1 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0023810,C1530270,STIMULATES,Lipopolysaccharides,"IRF1 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -438,8 +438,8 @@ C0066772,C1418597,STIMULATES,lysophosphatidic acid,PITX3 gene,orch,aapp,1,STIMUL
 C0066772,C1422006,STIMULATES,lysophosphatidic acid,TNFRSF21 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0066776,C0003241,STIMULATES,monophosphoryl lipid A,Antibodies,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0066776,C0021756,STIMULATES,monophosphoryl lipid A,Interleukin-2,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0066776,C0443640,STIMULATES,monophosphoryl lipid A,Specific antibody,orch,aapp,2,STIMULATES_ORCHstimAAPP
-C0066776,C0475463,STIMULATES,monophosphoryl lipid A,"Antibodies, Neutralizing",orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0066776,C0443640,STIMULATES,monophosphoryl lipid A,Specific antibody,orch,aapp,1,STIMULATES_ORCHstimAAPP
+C0066776,C0475463,STIMULATES,monophosphoryl lipid A,"Antibodies, Neutralizing",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0066776,C1336636,STIMULATES,monophosphoryl lipid A,TLR4 gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0066776,C1423842,STIMULATES,monophosphoryl lipid A,NELFCD gene,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0066776,C1522002,STIMULATES,monophosphoryl lipid A,RNA Recognition Motif,orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -469,7 +469,7 @@ C0073096,C3890397,STIMULATES,resveratrol,PRKAA1 wt Allele,orch,aapp,1,STIMULATES
 C0073361,C0079904,STIMULATES,RID,NF-kappa B,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0001479,STIMULATES,rosoxacin,Na(+)-K(+)-Exchanging ATPase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0006685,STIMULATES,rosoxacin,Calcium Channel,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0073591,C0010656,STIMULATES,rosoxacin,caspase,orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0073591,C0010656,STIMULATES,rosoxacin,caspase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0017817,STIMULATES,rosoxacin,Glutathione,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0019475,STIMULATES,rosoxacin,Hexokinase 2,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0031727,STIMULATES,rosoxacin,Phosphotransferases,orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -478,7 +478,7 @@ C0073591,C0042666,STIMULATES,rosoxacin,Vimentin,orch,aapp,1,STIMULATES_ORCHstimA
 C0073591,C0063695,STIMULATES,rosoxacin,Intercellular adhesion molecule 1,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0068355,STIMULATES,rosoxacin,NADPH Oxidase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0079189,STIMULATES,rosoxacin,cytokine,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C0073591,C0079904,STIMULATES,rosoxacin,NF-kappa B,orch,aapp,2,STIMULATES_ORCHstimAAPP
+C0073591,C0079904,STIMULATES,rosoxacin,NF-kappa B,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0215848,STIMULATES,rosoxacin,Hypoxia-Inducible Factor 1,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0282625,STIMULATES,rosoxacin,src-Family Kinases,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C0073591,C0287750,STIMULATES,rosoxacin,Transcription Factor CHOP,orch,aapp,1,STIMULATES_ORCHstimAAPP
@@ -786,7 +786,7 @@ C2728259,C0534519,STIMULATES,Program,Caspase-1,orch,aapp,1,STIMULATES_ORCHstimAA
 C2728259,C1335439,STIMULATES,Program,Polymerase,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C2744912,C0971207,STIMULATES,gardiquimod,"TLR7 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C2746078,C0061355,STIMULATES,Linagliptin,Glucagon-Like Peptide 1,orch,aapp,1,STIMULATES_ORCHstimAAPP
-C2746078,C0218504,STIMULATES,Linagliptin,Chemokine CXCL12,orch,aapp,2,STIMULATES_ORCHstimAAPP
+C2746078,C0218504,STIMULATES,Linagliptin,Chemokine CXCL12,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C2746078,C1256770,STIMULATES,Linagliptin,Vascular Endothelial Growth Factors,orch,aapp,1,STIMULATES_ORCHstimAAPP
 C2746078,C1568520,STIMULATES,Linagliptin,"FLT1 protein, human",orch,aapp,1,STIMULATES_ORCHstimAAPP
 C2926735,C0021756,STIMULATES,Duration,Interleukin-2,orch,aapp,1,STIMULATES_ORCHstimAAPP

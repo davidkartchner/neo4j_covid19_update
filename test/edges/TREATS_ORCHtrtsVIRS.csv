@@ -1,7 +1,7 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001962,C0042776,TREATS,Ethanol,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0002403,C0029341,TREATS,Amantadine,Orthomyxoviridae,orch,virs,1,TREATS_ORCHtrtsVIRS
-C0002403,C0029347,TREATS,Amantadine,Influenza A virus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0002403,C0029347,TREATS,Amantadine,Influenza A virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0002403,C0029348,TREATS,Amantadine,Influenza B virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0002403,C0042776,TREATS,Amantadine,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0002403,C1615053,TREATS,Amantadine,"Influenza A Virus, H3N2 Subtype",orch,virs,1,TREATS_ORCHtrtsVIRS
@@ -17,7 +17,7 @@ C0008269,C0015763,TREATS,Chloroquine,"Calicivirus, Feline",orch,virs,1,TREATS_OR
 C0008269,C0019682,TREATS,Chloroquine,HIV,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0008269,C0019704,TREATS,Chloroquine,HIV-1,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0008269,C0029343,TREATS,Chloroquine,"Influenza A Virus, Avian",orch,virs,1,TREATS_ORCHtrtsVIRS
-C0008269,C0042776,TREATS,Chloroquine,Virus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0008269,C0042776,TREATS,Chloroquine,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0008269,C0085150,TREATS,Chloroquine,Filoviridae,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0008269,C0949892,TREATS,Chloroquine,Ebolavirus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0008286,C0008056,TREATS,Chlorpromazine,Chikungunya virus,orch,virs,1,TREATS_ORCHtrtsVIRS
@@ -45,7 +45,7 @@ C0028247,C0019704,TREATS,Nocodazole,HIV-1,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0028247,C0043125,TREATS,Nocodazole,West Nile virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0028247,C0220847,TREATS,Nocodazole,Hepatitis C virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0028247,C0318428,TREATS,Nocodazole,Human enterovirus 68,orch,virs,1,TREATS_ORCHtrtsVIRS
-C0029904,C0024267,TREATS,Ouabain,Lymphocytic choriomeningitis virus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0029904,C0024267,TREATS,Ouabain,Lymphocytic choriomeningitis virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0030775,C0042776,TREATS,Polyethylene Glycol 6000,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0030776,C0318793,TREATS,Polyethylene Glycol 8000,Zika Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0031406,C0019704,TREATS,Phenindione,HIV-1,orch,virs,1,TREATS_ORCHtrtsVIRS
@@ -130,7 +130,7 @@ C0169014,C0016215,TREATS,erucylphosphocholine,Flavivirus,orch,virs,1,TREATS_ORCH
 C0170531,C0042776,TREATS,4-phenylbutyric acid,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0172217,C0029347,TREATS,arsenal,Influenza A virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0209368,C0220847,TREATS,mycophenolate mofetil,Hepatitis C virus,orch,virs,1,TREATS_ORCHtrtsVIRS
-C0209368,C3698360,TREATS,mycophenolate mofetil,Middle East Respiratory Syndrome Coronavirus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0209368,C3698360,TREATS,mycophenolate mofetil,Middle East Respiratory Syndrome Coronavirus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0210243,C0027984,TREATS,atevirdine,Newcastle disease virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0215737,C0015763,TREATS,NS 398,"Calicivirus, Feline",orch,virs,1,TREATS_ORCHtrtsVIRS
 C0216660,C0029341,TREATS,Zanamivir,Orthomyxoviridae,orch,virs,1,TREATS_ORCHtrtsVIRS
@@ -166,10 +166,10 @@ C0755562,C0029347,TREATS,U 0126,Influenza A virus,orch,virs,1,TREATS_ORCHtrtsVIR
 C0755562,C0042776,TREATS,U 0126,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0770612,C0042776,TREATS,licorice root extract,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0772037,C0019682,TREATS,ROSE HIPS,HIV,orch,virs,1,TREATS_ORCHtrtsVIRS
-C0874161,C0029341,TREATS,Oseltamivir,Orthomyxoviridae,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0874161,C0029341,TREATS,Oseltamivir,Orthomyxoviridae,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0874161,C0029345,TREATS,Oseltamivir,"Orthomyxovirus Type A, Porcine",orch,virs,1,TREATS_ORCHtrtsVIRS
-C0874161,C0029347,TREATS,Oseltamivir,Influenza A virus,orch,virs,2,TREATS_ORCHtrtsVIRS
-C0874161,C0042776,TREATS,Oseltamivir,Virus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C0874161,C0029347,TREATS,Oseltamivir,Influenza A virus,orch,virs,1,TREATS_ORCHtrtsVIRS
+C0874161,C0042776,TREATS,Oseltamivir,Virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0874161,C0206419,TREATS,Oseltamivir,Genus: Coronavirus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0874161,C0206545,TREATS,Oseltamivir,Human respiratory syncytial virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C0874161,C0206558,TREATS,Oseltamivir,Simplexvirus,orch,virs,1,TREATS_ORCHtrtsVIRS
@@ -225,7 +225,7 @@ C2926735,C1258014,TREATS,Duration,Human Metapneumovirus,orch,virs,1,TREATS_ORCHt
 C2930490,C0042216,TREATS,vadimezan,Vaccinia virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C2948003,C0011313,TREATS,Cold Spot,"Dengue virus, type 1",orch,virs,1,TREATS_ORCHtrtsVIRS
 C2948003,C0318759,TREATS,Cold Spot,"Dengue virus, type 2",orch,virs,1,TREATS_ORCHtrtsVIRS
-C3252090,C0220847,TREATS,daclatasvir,Hepatitis C virus,orch,virs,2,TREATS_ORCHtrtsVIRS
+C3252090,C0220847,TREATS,daclatasvir,Hepatitis C virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C3490984,C0220847,TREATS,BIT225,Hepatitis C virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C3886754,C0220847,TREATS,PF-04878691,Hepatitis C virus,orch,virs,1,TREATS_ORCHtrtsVIRS
 C4050026,C0006395,TREATS,Matrix,Bunyaviridae,orch,virs,1,TREATS_ORCHtrtsVIRS

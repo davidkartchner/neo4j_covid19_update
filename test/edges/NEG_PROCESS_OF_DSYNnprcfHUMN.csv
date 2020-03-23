@@ -1,5 +1,5 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
-C0002871,C0376387,NEG_PROCESS_OF,Anemia,Transplant Recipients,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0002871,C0376387,NEG_PROCESS_OF,Anemia,Transplant Recipients,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0003723,C0282122,NEG_PROCESS_OF,Arbovirus Infections,Respondents,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0004096,C0008059,NEG_PROCESS_OF,Asthma,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0004096,C0008098,NEG_PROCESS_OF,Asthma,"Child, Hospitalized",dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
@@ -9,11 +9,11 @@ C0006271,C0008059,NEG_PROCESS_OF,Bronchiolitis,Child,dsyn,humn,1,NEG_PROCESS_OF_
 C0006287,C0021270,NEG_PROCESS_OF,Bronchopulmonary Dysplasia,Infant,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0007682,C1708335,NEG_PROCESS_OF,CNS disorder,Healthy Volunteers,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0008055,C0086418,NEG_PROCESS_OF,Chikungunya Fever,Homo sapiens,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
-C0008149,C0086418,NEG_PROCESS_OF,Chlamydia Infections,Homo sapiens,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0008149,C0086418,NEG_PROCESS_OF,Chlamydia Infections,Homo sapiens,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0008679,C0031831,NEG_PROCESS_OF,Chronic disease,Physicians,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0009443,C1708335,NEG_PROCESS_OF,Common Cold,Healthy Volunteers,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0009450,C0008059,NEG_PROCESS_OF,Communicable Diseases,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
-C0009450,C0086418,NEG_PROCESS_OF,Communicable Diseases,Homo sapiens,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0009450,C0086418,NEG_PROCESS_OF,Communicable Diseases,Homo sapiens,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0009952,C0031831,NEG_PROCESS_OF,Febrile Convulsions,Physicians,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0010418,C0008059,NEG_PROCESS_OF,Cryptosporidiosis,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0010674,C0033011,NEG_PROCESS_OF,Cystic Fibrosis,Pregnant Women,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
@@ -44,7 +44,7 @@ C0022661,C0001792,NEG_PROCESS_OF,"Kidney Failure, Chronic",Elderly (population g
 C0022876,C0043210,NEG_PROCESS_OF,Premature Obstetric Labor,Woman,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0023240,C0021289,NEG_PROCESS_OF,Legionellosis,"Infant, Newborn",dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0023530,C0242856,NEG_PROCESS_OF,Leukopenia,Veterinarian,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
-C0023530,C0376387,NEG_PROCESS_OF,Leukopenia,Transplant Recipients,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0023530,C0376387,NEG_PROCESS_OF,Leukopenia,Transplant Recipients,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0024530,C0008059,NEG_PROCESS_OF,Malaria,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0025289,C0031831,NEG_PROCESS_OF,Meningitis,Physicians,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0026636,C0001675,NEG_PROCESS_OF,Mouth Diseases,Adult,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
@@ -66,9 +66,9 @@ C0035243,C0450048,NEG_PROCESS_OF,Respiratory Tract Infections,Passenger,dsyn,hum
 C0036323,C0008059,NEG_PROCESS_OF,Schistosomiasis,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0037023,C0680644,NEG_PROCESS_OF,Sialadenitis,jury,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0037354,C0870668,NEG_PROCESS_OF,Smallpox,hospitalized patients,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
-C0040034,C0376387,NEG_PROCESS_OF,Thrombocytopenia,Transplant Recipients,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0040034,C0376387,NEG_PROCESS_OF,Thrombocytopenia,Transplant Recipients,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0041296,C0008059,NEG_PROCESS_OF,Tuberculosis,Child,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
-C0042749,C0086418,NEG_PROCESS_OF,Viremia,Homo sapiens,dsyn,humn,2,NEG_PROCESS_OF_DSYNnprcfHUMN
+C0042749,C0086418,NEG_PROCESS_OF,Viremia,Homo sapiens,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0042769,C0009932,NEG_PROCESS_OF,Virus Diseases,Control Groups,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0042769,C0020052,NEG_PROCESS_OF,Virus Diseases,Households,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN
 C0042769,C2700280,NEG_PROCESS_OF,Virus Diseases,World,dsyn,humn,1,NEG_PROCESS_OF_DSYNnprcfHUMN

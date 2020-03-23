@@ -103,7 +103,7 @@ C0021755,C0920532,AFFECTS,Interleukin-1,gene induction,aapp,genf,1,AFFECTS_AAPPa
 C0021756,C0040649,AFFECTS,Interleukin-2,"Transcription, Genetic",aapp,genf,1,AFFECTS_AAPPafctGENF
 C0021758,C0162493,AFFECTS,Interleukin-4,Transcriptional Activation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0021760,C0040649,AFFECTS,Interleukin-6,"Transcription, Genetic",aapp,genf,1,AFFECTS_AAPPafctGENF
-C0021760,C0162493,AFFECTS,Interleukin-6,Transcriptional Activation,aapp,genf,2,AFFECTS_AAPPafctGENF
+C0021760,C0162493,AFFECTS,Interleukin-6,Transcriptional Activation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0021764,C0162493,AFFECTS,Interleukins,Transcriptional Activation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0022009,C0282629,AFFECTS,Ion Channel,Virus Assembly,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0023206,C0017262,AFFECTS,Lectin,Gene Expression,aapp,genf,1,AFFECTS_AAPPafctGENF
@@ -325,7 +325,7 @@ C0085177,C1519613,AFFECTS,RNA-Binding Proteins,Translation Initiation,aapp,genf,
 C0085177,C1519614,AFFECTS,RNA-Binding Proteins,Genetic Translation Process,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0085177,C1519616,AFFECTS,RNA-Binding Proteins,Translational Activation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0085177,C1523645,AFFECTS,RNA-Binding Proteins,production of miRNAs involved in gene silencing by miRNA,aapp,genf,1,AFFECTS_AAPPafctGENF
-C0085177,C2247634,AFFECTS,RNA-Binding Proteins,stress granule assembly,aapp,genf,2,AFFECTS_AAPPafctGENF
+C0085177,C2247634,AFFECTS,RNA-Binding Proteins,stress granule assembly,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0085177,C3271949,AFFECTS,RNA-Binding Proteins,DNA excision,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0085431,C1158726,AFFECTS,Ribonuclease H,mRNA cleavage,aapp,genf,1,AFFECTS_AAPPafctGENF
 C0085828,C0017263,AFFECTS,Transcription Factor AP-1,Gene Expression Regulation,aapp,genf,1,AFFECTS_AAPPafctGENF
@@ -688,7 +688,7 @@ C1415898,C0035687,AFFECTS,IFITM3 gene,RNA Splicing,aapp,genf,1,AFFECTS_AAPPafctG
 C1415898,C0040649,AFFECTS,IFITM3 gene,"Transcription, Genetic",aapp,genf,1,AFFECTS_AAPPafctGENF
 C1415898,C0086934,AFFECTS,IFITM3 gene,"RNA, Messenger, Splicing",aapp,genf,1,AFFECTS_AAPPafctGENF
 C1416171,C1148673,AFFECTS,RBPJ gene,dna binding,aapp,genf,1,AFFECTS_AAPPafctGENF
-C1416475,C0040649,AFFECTS,IRF7 gene,"Transcription, Genetic",aapp,genf,2,AFFECTS_AAPPafctGENF
+C1416475,C0040649,AFFECTS,IRF7 gene,"Transcription, Genetic",aapp,genf,1,AFFECTS_AAPPafctGENF
 C1416475,C0162493,AFFECTS,IRF7 gene,Transcriptional Activation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C1416478,C1519613,AFFECTS,ISG20 gene,Translation Initiation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C1416478,C1519614,AFFECTS,ISG20 gene,Genetic Translation Process,aapp,genf,1,AFFECTS_AAPPafctGENF
@@ -916,7 +916,7 @@ C3710914,C1148741,AFFECTS,"EIF2AK2 protein, human",double-stranded DNA binding,a
 C3710914,C1157546,AFFECTS,"EIF2AK2 protein, human",translational attenuation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C3710914,C1519613,AFFECTS,"EIF2AK2 protein, human",Translation Initiation,aapp,genf,1,AFFECTS_AAPPafctGENF
 C3710914,C1519614,AFFECTS,"EIF2AK2 protein, human",Genetic Translation Process,aapp,genf,1,AFFECTS_AAPPafctGENF
-C3710914,C1519619,AFFECTS,"EIF2AK2 protein, human",Translational Repression,aapp,genf,2,AFFECTS_AAPPafctGENF
+C3710914,C1519619,AFFECTS,"EIF2AK2 protein, human",Translational Repression,aapp,genf,1,AFFECTS_AAPPafctGENF
 C3710914,C2247634,AFFECTS,"EIF2AK2 protein, human",stress granule assembly,aapp,genf,1,AFFECTS_AAPPafctGENF
 C3811720,C0040649,AFFECTS,MIR22 wt Allele,"Transcription, Genetic",aapp,genf,1,AFFECTS_AAPPafctGENF
 C3826857,C0017262,AFFECTS,Expression Quantitative Trait Locus,Gene Expression,aapp,genf,1,AFFECTS_AAPPafctGENF

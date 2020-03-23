@@ -96,7 +96,7 @@ C0003241,C1454489,INHIBITS,Antibodies,"MAPT protein, human",aapp,aapp,1,INHIBITS
 C0003241,C1522002,INHIBITS,Antibodies,RNA Recognition Motif,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0003241,C1539099,INHIBITS,Antibodies,CLEC4M gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0003241,C1864770,INHIBITS,Antibodies,MAVS gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0003241,C4048280,INHIBITS,Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0003241,C4048280,INHIBITS,Antibodies,"T-Cell Surface Glycoprotein CD4, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0003241,C4281807,INHIBITS,Antibodies,"Vitronectin, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0003242,C0003253,INHIBITS,"Antibodies, Anti-Idiotypic","Antibodies, Viral",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0003242,C0010590,INHIBITS,"Antibodies, Anti-Idiotypic",Cycloserine,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -226,7 +226,7 @@ C0010590,C4048302,INHIBITS,Cycloserine,"T-Lymphocyte Activation Antigen CD80, hu
 C0010592,C0007292,INHIBITS,Cyclosporine,Carrier Proteins,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0010592,C0010762,INHIBITS,Cyclosporine,Cytochrome P450,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0010592,C0021756,INHIBITS,Cyclosporine,Interleukin-2,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0010592,C0054450,INHIBITS,Cyclosporine,Calcineurin,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0010592,C0054450,INHIBITS,Cyclosporine,Calcineurin,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0010592,C0136073,INHIBITS,Cyclosporine,Peptidylprolyl Isomerase,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0010592,C0295247,INHIBITS,Cyclosporine,sialic acid receptor,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0010592,C0390425,INHIBITS,Cyclosporine,cyclophilin D,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -416,7 +416,7 @@ C0021747,C4048280,INHIBITS,Interferons,"T-Cell Surface Glycoprotein CD4, human",
 C0021753,C0072978,INHIBITS,Interleukin-1 beta,RANTES,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0021753,C0699918,INHIBITS,Interleukin-1 beta,Elastases,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0021755,C0021758,INHIBITS,Interleukin-1,Interleukin-4,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0021755,C0025545,INHIBITS,Interleukin-1,Metallothionein,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0021755,C0025545,INHIBITS,Interleukin-1,Metallothionein,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0021755,C0033382,INHIBITS,Interleukin-1,Proline,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0021755,C0669372,INHIBITS,Interleukin-1,"NOS2A protein, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0021755,C1419320,INHIBITS,Interleukin-1,RBP4 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -895,7 +895,7 @@ C0058989,C1424999,INHIBITS,Eukaryotic Initiation Factor-4F,METTL3 gene,aapp,aapp
 C0058990,C1414356,INHIBITS,Eukaryotic Initiation Factor-4G,EIF4G1 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0059249,C1412463,INHIBITS,annexin A5,API5 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0059255,C0030946,INHIBITS,endopeptidase B,Endopeptidases,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0059256,C0014241,INHIBITS,Endopeptidase K,Endoribonucleases,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0059256,C0014241,INHIBITS,Endopeptidase K,Endoribonucleases,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0059256,C0030935,INHIBITS,Endopeptidase K,Peptide Fragments,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0059256,C0036774,INHIBITS,Endopeptidase K,"Serum Albumin, Bovine",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0060079,C0001044,INHIBITS,fasciculin,Acetylcholinesterase,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -1155,7 +1155,7 @@ C0085295,C0597721,INHIBITS,Interleukin-10,Janus kinase,aapp,aapp,1,INHIBITS_AAPP
 C0085295,C0796385,INHIBITS,Interleukin-10,Fc-Gamma Receptor II,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0085295,C0965245,INHIBITS,Interleukin-10,"CD274 protein, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0085295,C1292267,INHIBITS,Interleukin-10,Procoagulant,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0085295,C1423842,INHIBITS,Interleukin-10,NELFCD gene,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0085295,C1423842,INHIBITS,Interleukin-10,NELFCD gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0085295,C1424584,INHIBITS,Interleukin-10,LY86 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0085295,C1448177,INHIBITS,Interleukin-10,"TNF protein, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0085295,C1824180,INHIBITS,Interleukin-10,C5AR1 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -1309,7 +1309,7 @@ C0164786,C0033681,INHIBITS,Proto-Oncogene Proteins c-akt,Protein Tyrosine Kinase
 C0164786,C0058988,INHIBITS,Proto-Oncogene Proteins c-akt,Eukaryotic Initiation Factor-4E,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0164786,C0089793,INHIBITS,Proto-Oncogene Proteins c-akt,1-Phosphatidylinositol 4-Kinase,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0164786,C0217529,INHIBITS,Proto-Oncogene Proteins c-akt,Sterol Regulatory Element Binding Protein 1,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C0164786,C0291147,INHIBITS,Proto-Oncogene Proteins c-akt,tuberous sclerosis complex 2 protein,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C0164786,C0291147,INHIBITS,Proto-Oncogene Proteins c-akt,tuberous sclerosis complex 2 protein,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0164786,C0293060,INHIBITS,Proto-Oncogene Proteins c-akt,FKBP12-rapamycin associated protein,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0164786,C0752312,INHIBITS,Proto-Oncogene Proteins c-akt,Mitogen-Activated Protein Kinases,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C0164786,C1307407,INHIBITS,Proto-Oncogene Proteins c-akt,"FRAP1 protein, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -2993,7 +2993,7 @@ C1540056,C1336763,INHIBITS,TRIM21 gene,Toll-Like Receptor Family Gene,aapp,aapp,
 C1540061,C0040648,INHIBITS,TRIM55 gene,TRANSCRIPTION FACTOR,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C1540061,C0085828,INHIBITS,TRIM55 gene,Transcription Factor AP-1,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C1540061,C0118111,INHIBITS,TRIM55 gene,Forkhead Transcription Factors,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C1540061,C0166418,INHIBITS,TRIM55 gene,Peroxisome Proliferator-Activated Receptors,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C1540061,C0166418,INHIBITS,TRIM55 gene,Peroxisome Proliferator-Activated Receptors,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C1540210,C0002199,INHIBITS,ASZ1 gene,Interferon-alpha,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C1540210,C0246694,INHIBITS,ASZ1 gene,MG 132,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C1540210,C1423652,INHIBITS,ASZ1 gene,CTTNBP2 gene,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
@@ -3364,7 +3364,7 @@ C3642279,C1333723,INHIBITS,Microtubule-Associated Proteins 1A/1B Light Chain 3-I
 C3642279,C3890397,INHIBITS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,PRKAA1 wt Allele,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C3658346,C0021747,INHIBITS,Multifunctional Enzymes,Interferons,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C3658346,C0384768,INHIBITS,Multifunctional Enzymes,"IRF3 protein, human",aapp,aapp,1,INHIBITS_AAPPinhbAAPP
-C3710914,C0013729,INHIBITS,"EIF2AK2 protein, human",Eukaryotic Initiation Factor-2,aapp,aapp,2,INHIBITS_AAPPinhbAAPP
+C3710914,C0013729,INHIBITS,"EIF2AK2 protein, human",Eukaryotic Initiation Factor-2,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C3710914,C0015980,INHIBITS,"EIF2AK2 protein, human",Interferon-beta,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C3710914,C0021747,INHIBITS,"EIF2AK2 protein, human",Interferons,aapp,aapp,1,INHIBITS_AAPPinhbAAPP
 C3710914,C0061187,INHIBITS,"EIF2AK2 protein, human",Gelsolin,aapp,aapp,1,INHIBITS_AAPPinhbAAPP

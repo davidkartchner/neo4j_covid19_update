@@ -1,6 +1,6 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000970,C0001675,TREATS,Acetaminophen,Adult,orch,humn,1,TREATS_ORCHtrtsHUMN
-C0000970,C0008059,TREATS,Acetaminophen,Child,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0000970,C0008059,TREATS,Acetaminophen,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0000970,C0021270,TREATS,Acetaminophen,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0001927,C0008059,TREATS,Albuterol,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0001927,C0871685,TREATS,Albuterol,Clinician,orch,humn,1,TREATS_ORCHtrtsHUMN
@@ -20,7 +20,7 @@ C0003968,C0028698,TREATS,Ascorbic Acid,Nursing Staff,orch,humn,1,TREATS_ORCHtrts
 C0003968,C0086418,TREATS,Ascorbic Acid,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0003968,C0680063,TREATS,Ascorbic Acid,Offspring,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0004057,C0033011,TREATS,Aspirin,Pregnant Women,orch,humn,1,TREATS_ORCHtrtsHUMN
-C0004057,C0086418,TREATS,Aspirin,Homo sapiens,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0004057,C0086418,TREATS,Aspirin,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0005304,C0009932,TREATS,Betaine,Control Groups,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0005802,C0008059,TREATS,Blood Glucose,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0008269,C0008059,TREATS,Chloroquine,Child,orch,humn,1,TREATS_ORCHtrtsHUMN
@@ -189,7 +189,7 @@ C0874161,C0020052,TREATS,Oseltamivir,Households,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0021270,TREATS,Oseltamivir,Infant,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0021289,TREATS,Oseltamivir,"Infant, Newborn",orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0043210,TREATS,Oseltamivir,Woman,orch,humn,1,TREATS_ORCHtrtsHUMN
-C0874161,C0086418,TREATS,Oseltamivir,Homo sapiens,orch,humn,2,TREATS_ORCHtrtsHUMN
+C0874161,C0086418,TREATS,Oseltamivir,Homo sapiens,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0205653,TREATS,Oseltamivir,Adolescent (age group),orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0684030,TREATS,Oseltamivir,high-risk group,orch,humn,1,TREATS_ORCHtrtsHUMN
 C0874161,C0851286,TREATS,Oseltamivir,Staff,orch,humn,1,TREATS_ORCHtrtsHUMN

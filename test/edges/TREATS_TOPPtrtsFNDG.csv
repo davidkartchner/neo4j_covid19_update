@@ -97,7 +97,7 @@ C0021493,C0221198,TREATS,"Injections, Intraperitoneal",Lesion,topp,fndg,1,TREATS
 C0021493,C1545588,TREATS,"Injections, Intraperitoneal",Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021493,C3540840,TREATS,"Injections, Intraperitoneal",Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021589,C3811922,TREATS,"Insemination, Artificial, Homologous",Liver transplant recipient,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C0021860,C3272283,TREATS,Intra-Aortic Balloon Pumping,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0021860,C3272283,TREATS,Intra-Aortic Balloon Pumping,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021925,C0020649,TREATS,Intubation,Hypotension,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021925,C0085393,TREATS,Intubation,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021925,C4273494,TREATS,Intubation,Unexpected difficult airway,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -176,7 +176,7 @@ C0042196,C1299586,TREATS,Vaccination,Has difficulty doing (qualifier value),topp
 C0042196,C1545588,TREATS,Vaccination,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C1879646,TREATS,Vaccination,Affected Area,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C2004062,TREATS,Vaccination,History of previous events,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C0042196,C3272283,TREATS,Vaccination,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0042196,C3272283,TREATS,Vaccination,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C3540840,TREATS,Vaccination,Sign or Symptom,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C3671958,TREATS,Vaccination,Reproductive failure,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C3811621,TREATS,Vaccination,Age - 16,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -275,9 +275,9 @@ C0199779,C0015967,TREATS,Administration of antibiotic,Fever,topp,fndg,1,TREATS_T
 C0199779,C0344339,TREATS,Administration of antibiotic,Family illness,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199779,C0349790,TREATS,Administration of antibiotic,Exacerbation of asthma,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199779,C0425514,TREATS,Administration of antibiotic,Sputum volume,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C0199779,C0743630,TREATS,Administration of antibiotic,exacerbation acute,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0199779,C0743630,TREATS,Administration of antibiotic,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199779,C3843196,TREATS,Administration of antibiotic,3 to 5 days,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C0199779,C4086268,TREATS,Administration of antibiotic,Exacerbation,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0199779,C4086268,TREATS,Administration of antibiotic,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199782,C0518609,TREATS,Administration of insulin,consideration,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199798,C1545588,TREATS,human vaccination,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199809,C0085639,TREATS,Poliomyelitis vaccination,Falls,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -285,7 +285,7 @@ C0204514,C1821461,TREATS,Structural analysis,Close Relationship,topp,fndg,1,TREA
 C0204727,C0015967,TREATS,Isolation procedure,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0204727,C0033213,TREATS,Isolation procedure,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0204727,C0085639,TREATS,Isolation procedure,Falls,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C0204727,C0231221,TREATS,Isolation procedure,Asymptomatic,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0204727,C0231221,TREATS,Isolation procedure,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0204727,C0424576,TREATS,Isolation procedure,Fit and well,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0204727,C0436343,TREATS,Isolation procedure,Symptom mild,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0204727,C0743630,TREATS,Isolation procedure,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -455,11 +455,11 @@ C1455871,C1997771,TREATS,Non-invasive positive pressure (NIPPV),Chronic hypercap
 C1455871,C4068542,TREATS,Non-invasive positive pressure (NIPPV),Alveolar ventilation,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1504389,C3272283,TREATS,Stem cell transplant,American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0015663,TREATS,Detection,Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C1511790,C0015967,TREATS,Detection,Fever,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C1511790,C0015967,TREATS,Detection,Fever,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0019080,TREATS,Detection,Hemorrhage,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0085393,TREATS,Detection,Immunocompromised Host,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0221198,TREATS,Detection,Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C1511790,C0231221,TREATS,Detection,Asymptomatic,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C1511790,C0231221,TREATS,Detection,Asymptomatic,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0238815,TREATS,Detection,brazilian,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0332575,TREATS,Detection,Redness,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1511790,C0337664,TREATS,Detection,Smoker,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -508,7 +508,7 @@ C1964029,C2597943,TREATS,early/brief intervention/therapy (treatment),Index case
 C1964029,C3272283,TREATS,early/brief intervention/therapy (treatment),American College of Cardiology/American Heart Association Lesion Complexity Score C,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1997883,C0677946,TREATS,Noninvasive Ventilation,Stable Disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1997883,C0743630,TREATS,Noninvasive Ventilation,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C1997883,C4086268,TREATS,Noninvasive Ventilation,Exacerbation,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C1997883,C4086268,TREATS,Noninvasive Ventilation,Exacerbation,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C2242628,C0239998,TREATS,Fecal Microbiota Transplantation,Recurrent infections,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C2242628,C1519255,TREATS,Fecal Microbiota Transplantation,Serious Adverse Event,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C2348331,C3714738,TREATS,Dose Regimen,Compliance,topp,fndg,1,TREATS_TOPPtrtsFNDG

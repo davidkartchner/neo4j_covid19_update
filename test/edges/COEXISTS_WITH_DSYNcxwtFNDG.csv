@@ -79,7 +79,7 @@ C0006267,C0581126,COEXISTS_WITH,Bronchiectasis,Severe asthma,dsyn,fndg,1,COEXIST
 C0006267,C3845262,COEXISTS_WITH,Bronchiectasis,6+11,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0006267,C4289767,COEXISTS_WITH,Bronchiectasis,Colonization,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0006271,C0085393,COEXISTS_WITH,Bronchiolitis,Immunocompromised Host,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0006271,C0085639,COEXISTS_WITH,Bronchiolitis,Falls,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0006271,C0085639,COEXISTS_WITH,Bronchiolitis,Falls,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0006271,C0221198,COEXISTS_WITH,Bronchiolitis,Lesion,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0006271,C0349790,COEXISTS_WITH,Bronchiolitis,Exacerbation of asthma,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0006271,C0683314,COEXISTS_WITH,Bronchiolitis,personal health,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -299,7 +299,7 @@ C0020676,C3540840,COEXISTS_WITH,Hypothyroidism,Sign or Symptom,dsyn,fndg,1,COEXI
 C0021359,C0683314,COEXISTS_WITH,Infertility,personal health,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0015967,COEXISTS_WITH,Influenza,Fever,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0033213,COEXISTS_WITH,Influenza,Problem,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0021400,C0085393,COEXISTS_WITH,Influenza,Immunocompromised Host,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0021400,C0085393,COEXISTS_WITH,Influenza,Immunocompromised Host,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0085639,COEXISTS_WITH,Influenza,Falls,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0231224,COEXISTS_WITH,Influenza,Crisis,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0233481,COEXISTS_WITH,Influenza,Worried,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -310,7 +310,7 @@ C0021400,C0442726,COEXISTS_WITH,Influenza,Detected (finding),dsyn,fndg,1,COEXIST
 C0021400,C0518609,COEXISTS_WITH,Influenza,consideration,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0595998,COEXISTS_WITH,Influenza,Household composition,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0683314,COEXISTS_WITH,Influenza,personal health,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0021400,C0686750,COEXISTS_WITH,Influenza,Well adult,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0021400,C0686750,COEXISTS_WITH,Influenza,Well adult,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C0728834,COEXISTS_WITH,Influenza,Place in family order: youngest sibling,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C1275743,COEXISTS_WITH,Influenza,Co-morbid conditions,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C1318963,COEXISTS_WITH,Influenza,Readiness,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -323,7 +323,7 @@ C0021400,C2597943,COEXISTS_WITH,Influenza,Index case,dsyn,fndg,1,COEXISTS_WITH_D
 C0021400,C3151529,COEXISTS_WITH,Influenza,Lethal,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C3272281,COEXISTS_WITH,Influenza,American College of Cardiology/American Heart Association Lesion Complexity Score A,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C3272283,COEXISTS_WITH,Influenza,American College of Cardiology/American Heart Association Lesion Complexity Score C,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0021400,C3540840,COEXISTS_WITH,Influenza,Sign or Symptom,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0021400,C3540840,COEXISTS_WITH,Influenza,Sign or Symptom,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C3840922,COEXISTS_WITH,Influenza,40-49,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C3843057,COEXISTS_WITH,Influenza,Second half,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0021400,C3843058,COEXISTS_WITH,Influenza,First half,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -439,7 +439,7 @@ C0030499,C1519789,COEXISTS_WITH,Parasitic Diseases,Unexpected Adverse Event,dsyn
 C0030499,C3540840,COEXISTS_WITH,Parasitic Diseases,Sign or Symptom,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0030567,C4021734,COEXISTS_WITH,Parkinson Disease,Abnormality of mitochondrial metabolism,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0030779,C0424576,COEXISTS_WITH,Pelger-Huet Anomaly,Fit and well,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0031350,C0015967,COEXISTS_WITH,Pharyngitis,Fever,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0031350,C0015967,COEXISTS_WITH,Pharyngitis,Fever,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0031350,C0337672,COEXISTS_WITH,Pharyngitis,Non-smoker,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0031350,C1320226,COEXISTS_WITH,Pharyngitis,Incubation period,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0032285,C0015967,COEXISTS_WITH,Pneumonia,Fever,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -509,7 +509,7 @@ C0035222,C0019080,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Hemorrhag
 C0035222,C0221198,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Lesion,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0035222,C0436345,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Symptom severe,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0035222,C0686750,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Well adult,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0035222,C0700292,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Hypoxemia,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0035222,C0700292,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Hypoxemia,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0035222,C1836348,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Severe disorder,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0035222,C1837514,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Phenotypic Variation,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0035222,C1858576,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Heterogeneous disorder,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -703,7 +703,7 @@ C0206750,C0449411,COEXISTS_WITH,Coronavirus Infections,Causative_agents,dsyn,fnd
 C0206750,C0449437,COEXISTS_WITH,Coronavirus Infections,Patient status,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0206750,C0683954,COEXISTS_WITH,Coronavirus Infections,research results,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0206750,C0686744,COEXISTS_WITH,Coronavirus Infections,Well child,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0206750,C1320226,COEXISTS_WITH,Coronavirus Infections,Incubation period,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0206750,C1320226,COEXISTS_WITH,Coronavirus Infections,Incubation period,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0206750,C1879646,COEXISTS_WITH,Coronavirus Infections,Affected Area,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0206750,C3806166,COEXISTS_WITH,Coronavirus Infections,Poor outcome,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0206750,C3843058,COEXISTS_WITH,Coronavirus Infections,First half,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -768,7 +768,7 @@ C0275522,C0009940,COEXISTS_WITH,Asymptomatic Infections,Convalescence,dsyn,fndg,
 C0275522,C0231337,COEXISTS_WITH,Asymptomatic Infections,Senility,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0275522,C0260860,COEXISTS_WITH,Asymptomatic Infections,Encounter due to Unspecified general medical examination,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0275522,C0683314,COEXISTS_WITH,Asymptomatic Infections,personal health,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0275522,C0686750,COEXISTS_WITH,Asymptomatic Infections,Well adult,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0275522,C0686750,COEXISTS_WITH,Asymptomatic Infections,Well adult,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0275522,C1320226,COEXISTS_WITH,Asymptomatic Infections,Incubation period,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0275522,C1545588,COEXISTS_WITH,Asymptomatic Infections,Protection,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0275522,C3540840,COEXISTS_WITH,Asymptomatic Infections,Sign or Symptom,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -829,7 +829,7 @@ C0349410,C4321237,COEXISTS_WITH,Single organ dysfunction,High Level,dsyn,fndg,1,
 C0376300,C0020649,COEXISTS_WITH,Dengue Shock Syndrome,Hypotension,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0376300,C0240840,COEXISTS_WITH,Dengue Shock Syndrome,Narrow pulse pressure,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0376300,C1836348,COEXISTS_WITH,Dengue Shock Syndrome,Severe disorder,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C0376538,C0085639,COEXISTS_WITH,Porcine Reproductive and Respiratory Syndrome,Falls,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C0376538,C0085639,COEXISTS_WITH,Porcine Reproductive and Respiratory Syndrome,Falls,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0376538,C3671958,COEXISTS_WITH,Porcine Reproductive and Respiratory Syndrome,Reproductive failure,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0376550,C0085393,COEXISTS_WITH,Astroviridae Infections,Immunocompromised Host,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C0376550,C0424576,COEXISTS_WITH,Astroviridae Infections,Fit and well,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -944,7 +944,7 @@ C1175175,C0682132,COEXISTS_WITH,Severe Acute Respiratory Syndrome,regional diffe
 C1175175,C1262477,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Weight decreased,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1175175,C1290916,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Radiologic finding,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1175175,C1318963,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Readiness,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C1175175,C1320226,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Incubation period,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C1175175,C1320226,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Incubation period,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1175175,C1516998,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Exogenous Factors,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1175175,C1659989,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Respiratory problem,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1175175,C1832073,COEXISTS_WITH,Severe Acute Respiratory Syndrome,Handling,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
@@ -1000,7 +1000,7 @@ C1561643,C2712122,COEXISTS_WITH,Chronic Kidney Diseases,Normal blood pressure,ds
 C1565489,C0428886,COEXISTS_WITH,Renal Insufficiency,Mean blood pressure,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1565489,C1275743,COEXISTS_WITH,Renal Insufficiency,Co-morbid conditions,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1623038,C0003962,COEXISTS_WITH,Cirrhosis,Ascites,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
-C1701940,C1299448,COEXISTS_WITH,"Pneumonia, Ventilator-Associated",Patient ventilated,dsyn,fndg,2,COEXISTS_WITH_DSYNcxwtFNDG
+C1701940,C1299448,COEXISTS_WITH,"Pneumonia, Ventilator-Associated",Patient ventilated,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1704436,C0428886,COEXISTS_WITH,Peripheral Arterial Diseases,Mean blood pressure,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1833736,C0332575,COEXISTS_WITH,"Osteogenesis imperfecta, Levin type",Redness,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG
 C1856053,C0743630,COEXISTS_WITH,Hydranencephaly with Renal Aplasia-Dysplasia,exacerbation acute,dsyn,fndg,1,COEXISTS_WITH_DSYNcxwtFNDG

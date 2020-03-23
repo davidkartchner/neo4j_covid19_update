@@ -37,7 +37,7 @@ C0003765,C0042776,TREATS,Arginine,Virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0003779,C0019682,TREATS,Argipressin,HIV,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0006938,C0206273,TREATS,Captopril,Potyvirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0006938,C0949858,TREATS,Captopril,Nidovirales,aapp,virs,1,TREATS_AAPPtrtsVIRS
-C0006938,C0969633,TREATS,Captopril,Porcine enterovirus B,aapp,virs,2,TREATS_AAPPtrtsVIRS
+C0006938,C0969633,TREATS,Captopril,Porcine enterovirus B,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0007332,C1003714,TREATS,Caseins,Cell fusing agent virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0010132,C0019682,TREATS,Corticotropin-Releasing Hormone,HIV,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0010592,C0010825,TREATS,Cyclosporine,Cytomegalovirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
@@ -54,7 +54,7 @@ C0015980,C0024267,TREATS,Interferon-beta,Lymphocytic choriomeningitis virus,aapp
 C0015980,C0036638,TREATS,Interferon-beta,Sendai virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0015980,C0042776,TREATS,Interferon-beta,Virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0015980,C0376536,TREATS,Interferon-beta,Porcine respiratory and reproductive syndrome virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
-C0015980,C3698360,TREATS,Interferon-beta,Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,TREATS_AAPPtrtsVIRS
+C0015980,C3698360,TREATS,Interferon-beta,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0017797,C0042776,TREATS,Glutamine,Virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0017890,C0024662,TREATS,Glycine,Mouse mammary tumor virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0017890,C0036238,TREATS,Glycine,Satellite Viruses,aapp,virs,1,TREATS_AAPPtrtsVIRS
@@ -74,12 +74,12 @@ C0021747,C0016215,TREATS,Interferons,Flavivirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C0042776,TREATS,Interferons,Virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C0085294,TREATS,Interferons,Hepatitis E virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C0206424,TREATS,Interferons,Cardiovirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
-C0021747,C0220847,TREATS,Interferons,Hepatitis C virus,aapp,virs,2,TREATS_AAPPtrtsVIRS
+C0021747,C0220847,TREATS,Interferons,Hepatitis C virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C0318855,TREATS,Interferons,Porcine epidemic diarrhea virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C1175743,TREATS,Interferons,SARS coronavirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C1258015,TREATS,Interferons,Henipavirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021747,C3532919,TREATS,Interferons,Hepatitis C virus genotype 1,aapp,virs,1,TREATS_AAPPtrtsVIRS
-C0021747,C3698360,TREATS,Interferons,Middle East Respiratory Syndrome Coronavirus,aapp,virs,2,TREATS_AAPPtrtsVIRS
+C0021747,C3698360,TREATS,Interferons,Middle East Respiratory Syndrome Coronavirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021758,C0019682,TREATS,Interleukin-4,HIV,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021760,C0029341,TREATS,Interleukin-6,Orthomyxoviridae,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0021760,C0029347,TREATS,Interleukin-6,Influenza A virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
@@ -198,8 +198,8 @@ C0393022,C0014644,TREATS,rituximab,Epstein-Barr Virus,aapp,virs,1,TREATS_AAPPtrt
 C0520986,C0010825,TREATS,"growth hormone, bovine",Cytomegalovirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0525037,C0020094,TREATS,CDKN2A gene,Human T-lymphotropic virus 1,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0672596,C0019704,TREATS,palivizumab,HIV-1,aapp,virs,1,TREATS_AAPPtrtsVIRS
-C0672596,C0206545,TREATS,palivizumab,Human respiratory syncytial virus,aapp,virs,2,TREATS_AAPPtrtsVIRS
-C0699919,C0999806,TREATS,Cathepsins B,Human papillomavirus 16,aapp,virs,2,TREATS_AAPPtrtsVIRS
+C0672596,C0206545,TREATS,palivizumab,Human respiratory syncytial virus,aapp,virs,1,TREATS_AAPPtrtsVIRS
+C0699919,C0999806,TREATS,Cathepsins B,Human papillomavirus 16,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0700271,C0004651,TREATS,"M Protein, multiple myeloma",Bacteriophages,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0751600,C0010825,TREATS,Intron A,Cytomegalovirus,aapp,virs,1,TREATS_AAPPtrtsVIRS
 C0769218,C0042776,TREATS,matriptase,Virus,aapp,virs,1,TREATS_AAPPtrtsVIRS

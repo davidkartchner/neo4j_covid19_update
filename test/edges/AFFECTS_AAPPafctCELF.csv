@@ -128,7 +128,7 @@ C0010590,C1511002,AFFECTS,Cycloserine,b cell differentiation,aapp,celf,1,AFFECTS
 C0010656,C0007587,AFFECTS,caspase,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010656,C0007613,AFFECTS,caspase,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010656,C0010813,AFFECTS,caspase,Cytokinesis,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0010656,C0162638,AFFECTS,caspase,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0010656,C0162638,AFFECTS,caspase,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010656,C1326205,AFFECTS,caspase,Positive Regulation of Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010656,C1327415,AFFECTS,caspase,interleukin-1 secretion,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010656,C1658974,AFFECTS,caspase,mitochondria-nucleus signaling pathway,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -141,7 +141,7 @@ C0010762,C0007613,AFFECTS,Cytochrome P450,Cell physiology,aapp,celf,1,AFFECTS_AA
 C0010762,C0282636,AFFECTS,Cytochrome P450,Cell Respiration,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0010934,C2755756,AFFECTS,Dactinomycin,cellular transcription,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0012550,C0162638,AFFECTS,Diphtheria Toxin,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0012920,C1516334,AFFECTS,"DNA Topoisomerases, Type I",Cell Cycle Progression,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0012920,C1516334,AFFECTS,"DNA Topoisomerases, Type I",Cell Cycle Progression,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0012940,C1156140,AFFECTS,DNA-Binding Proteins,ribosome biogenesis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0013729,C0004391,AFFECTS,Eukaryotic Initiation Factor-2,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0013729,C0007587,AFFECTS,Eukaryotic Initiation Factor-2,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -243,7 +243,7 @@ C0021699,C1326120,AFFECTS,Integral Membrane Proteins,cell activation,aapp,celf,1
 C0021699,C1516375,AFFECTS,Integral Membrane Proteins,Cellular Tropism,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0021699,C4245966,AFFECTS,Integral Membrane Proteins,Cell restriction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0021701,C0007577,AFFECTS,Integrins,Cell Adhesion,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0021701,C0007582,AFFECTS,Integrins,Cell Communication,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0021701,C0007582,AFFECTS,Integrins,Cell Communication,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0021701,C0014139,AFFECTS,Integrins,Endocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0021701,C0032174,AFFECTS,Integrins,"Platelet adhesion, function",aapp,celf,1,AFFECTS_AAPPafctCELF
 C0021701,C0086982,AFFECTS,Integrins,Signal Transduction Pathways,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -399,7 +399,7 @@ C0031727,C0007620,AFFECTS,Phosphotransferases,Cell Survival,aapp,celf,1,AFFECTS_
 C0031727,C0037083,AFFECTS,Phosphotransferases,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0031727,C0086982,AFFECTS,Phosphotransferases,Signal Transduction Pathways,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0031727,C0162638,AFFECTS,Phosphotransferases,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0031727,C0596290,AFFECTS,Phosphotransferases,Cell Proliferation,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0031727,C0596290,AFFECTS,Phosphotransferases,Cell Proliferation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0031727,C0872070,AFFECTS,Phosphotransferases,nucleocytoplasmic transport,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0031727,C0887840,AFFECTS,Phosphotransferases,Nuclear Export,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0031727,C1154615,AFFECTS,Phosphotransferases,detection of nutrient,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -563,7 +563,7 @@ C0042736,C0007586,AFFECTS,Viral Proteins,Cell Cycle,aapp,celf,1,AFFECTS_AAPPafct
 C0042736,C0007613,AFFECTS,Viral Proteins,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0042736,C0037083,AFFECTS,Viral Proteins,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0042736,C0086982,AFFECTS,Viral Proteins,Signal Transduction Pathways,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0042736,C0162638,AFFECTS,Viral Proteins,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0042736,C0162638,AFFECTS,Viral Proteins,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0042736,C0206431,AFFECTS,Viral Proteins,Antigen Presentation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0042736,C0596898,AFFECTS,Viral Proteins,membrane biogenesis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0042736,C0599952,AFFECTS,Viral Proteins,modulation by virus of host morphology or physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -595,7 +595,7 @@ C0052193,C0086982,AFFECTS,apolipoprotein D,Signal Transduction Pathways,aapp,cel
 C0052193,C0596846,AFFECTS,apolipoprotein D,Lipid Transport,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0052193,C2612476,AFFECTS,apolipoprotein D,high-density lipoprotein particle remodeling,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0052193,C3895728,AFFECTS,apolipoprotein D,arachidonate transport,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0052350,C0007577,AFFECTS,arginyl-glycyl-aspartic acid,Cell Adhesion,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0052350,C0007577,AFFECTS,arginyl-glycyl-aspartic acid,Cell Adhesion,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0052350,C0007582,AFFECTS,arginyl-glycyl-aspartic acid,Cell Communication,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0052350,C1516375,AFFECTS,arginyl-glycyl-aspartic acid,Cellular Tropism,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0053917,C0014139,AFFECTS,Bombesin Receptor,Endocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -787,7 +787,7 @@ C0079323,C0598948,AFFECTS,Extracellular Matrix Proteins,axonal guidance,aapp,cel
 C0079405,C0007586,AFFECTS,"Gene Products, vpr",Cell Cycle,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0079414,C1326504,AFFECTS,DCC gene,neuron migration,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0079414,C2984268,AFFECTS,DCC gene,Axon Guidance,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0079419,C0004391,AFFECTS,TP53 gene,Autophagy,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0079419,C0004391,AFFECTS,TP53 gene,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0079419,C0007586,AFFECTS,TP53 gene,Cell Cycle,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0079419,C0007587,AFFECTS,TP53 gene,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0079419,C0007613,AFFECTS,TP53 gene,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -886,7 +886,7 @@ C0086376,C1159342,AFFECTS,GTP-Binding Proteins,Secretory Pathway,aapp,celf,1,AFF
 C0086376,C1257986,AFFECTS,GTP-Binding Proteins,Cross-Presentation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0086661,C0162638,AFFECTS,MYC gene,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0086661,C0596290,AFFECTS,MYC gene,Cell Proliferation,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0086661,C1516334,AFFECTS,MYC gene,Cell Cycle Progression,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0086661,C1516334,AFFECTS,MYC gene,Cell Cycle Progression,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0086661,C1540661,AFFECTS,MYC gene,cell fate,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0086918,C1156309,AFFECTS,Retrovirus Proteins,syncytium formation by plasma membrane fusion,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0087044,C0206431,AFFECTS,Synapsin I,Antigen Presentation,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -899,7 +899,7 @@ C0100804,C0162638,AFFECTS,Neuropilin-1,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCEL
 C0101584,C0007586,AFFECTS,Adenovirus E1B Proteins,Cell Cycle,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0101671,C1159342,AFFECTS,ADP-Ribosylation Factors,Secretory Pathway,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0101725,C0037083,AFFECTS,receptor for advanced glycation endproducts,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0103404,C0007613,AFFECTS,Annexin A2,Cell physiology,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0103404,C0007613,AFFECTS,Annexin A2,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0104230,C0037083,AFFECTS,Arrestin,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0108082,C0004391,AFFECTS,Vitamin D3 Receptor,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0108187,C0010813,AFFECTS,Calnexin,Cytokinesis,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1167,7 +1167,7 @@ C0287750,C2610698,AFFECTS,Transcription Factor CHOP,intrinsic apoptotic signalin
 C0287750,C3546359,AFFECTS,Transcription Factor CHOP,pro-apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0287920,C0037083,AFFECTS,STAT1 protein,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0287920,C1660642,AFFECTS,STAT1 protein,cellular localization,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0287990,C0010813,AFFECTS,paired basic amino acid cleaving enzyme,Cytokinesis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0287990,C0010813,AFFECTS,paired basic amino acid cleaving enzyme,Cytokinesis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0287990,C1159314,AFFECTS,paired basic amino acid cleaving enzyme,viral protein processing,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0287990,C1160692,AFFECTS,paired basic amino acid cleaving enzyme,virus maturation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0288330,C0162638,AFFECTS,BCL-XL Protein,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1186,7 +1186,7 @@ C0291573,C0007586,AFFECTS,caspase-3,Cell Cycle,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0291573,C0007587,AFFECTS,caspase-3,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0291573,C0010813,AFFECTS,caspase-3,Cytokinesis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0291573,C0086982,AFFECTS,caspase-3,Signal Transduction Pathways,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0291573,C0162638,AFFECTS,caspase-3,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0291573,C0162638,AFFECTS,caspase-3,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0291573,C3544385,AFFECTS,caspase-3,pro-survival,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0291573,C3546359,AFFECTS,caspase-3,pro-apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0292147,C0872070,AFFECTS,Importins,nucleocytoplasmic transport,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1228,7 +1228,7 @@ C0358321,C1156140,AFFECTS,Immune Globulin (Human),ribosome biogenesis,aapp,celf,
 C0368720,C0599733,AFFECTS,b antibody,cell killing,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0369497,C0003272,AFFECTS,Human immunodeficiency virus type 1 antibody,Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0369497,C0031308,AFFECTS,Human immunodeficiency virus type 1 antibody,Phagocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0376515,C0004391,AFFECTS,BCL2 gene,Autophagy,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0376515,C0004391,AFFECTS,BCL2 gene,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0376515,C0007587,AFFECTS,BCL2 gene,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0376515,C0013081,AFFECTS,BCL2 gene,Down-Regulation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0376515,C0162638,AFFECTS,BCL2 gene,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1250,7 +1250,7 @@ C0378910,C1155874,AFFECTS,Lymphocyte antigen CD66A,Cell Cycle Checkpoints,aapp,c
 C0378910,C1317556,AFFECTS,Lymphocyte antigen CD66A,Natural killer cell function,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0378910,C1326120,AFFECTS,Lymphocyte antigen CD66A,cell activation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0378910,C1326152,AFFECTS,Lymphocyte antigen CD66A,establishment of T cell polarity,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0378910,C1326212,AFFECTS,Lymphocyte antigen CD66A,neutrophil apoptotic process,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0378910,C1326212,AFFECTS,Lymphocyte antigen CD66A,neutrophil apoptotic process,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0378910,C1326230,AFFECTS,Lymphocyte antigen CD66A,T cell homeostasis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0378910,C2611086,AFFECTS,Lymphocyte antigen CD66A,hepatocyte differentiation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0378910,C3821327,AFFECTS,Lymphocyte antigen CD66A,cell-cell adhesion,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1336,7 +1336,7 @@ C0597357,C0007582,AFFECTS,receptor,Cell Communication,aapp,celf,1,AFFECTS_AAPPaf
 C0597357,C0007613,AFFECTS,receptor,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0597357,C0014139,AFFECTS,receptor,Endocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0597357,C0024262,AFFECTS,receptor,Lymphocyte Activation,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0597357,C0031308,AFFECTS,receptor,Phagocytosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0597357,C0031308,AFFECTS,receptor,Phagocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0597357,C0037083,AFFECTS,receptor,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0597357,C0041904,AFFECTS,receptor,Up-Regulation (Physiology),aapp,celf,1,AFFECTS_AAPPafctCELF
 C0597357,C0086982,AFFECTS,receptor,Signal Transduction Pathways,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1405,7 +1405,7 @@ C0665952,C1317556,AFFECTS,Killer-Cell Immunoglobulin-Like Receptor,Natural kille
 C0666361,C1159978,AFFECTS,"TNFSF11 protein, human",osteoclast differentiation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0667830,C0007587,AFFECTS,caspase-8,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0667830,C0010813,AFFECTS,caspase-8,Cytokinesis,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0667830,C0162638,AFFECTS,caspase-8,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0667830,C0162638,AFFECTS,caspase-8,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0667830,C3269137,AFFECTS,caspase-8,death receptor-mediated apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0669365,C0013081,AFFECTS,"NOS3 protein, human",Down-Regulation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0669443,C0007613,AFFECTS,CCCTC-binding factor,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1492,7 +1492,7 @@ C0907411,C0031308,AFFECTS,"Lectins, C-Type",Phagocytosis,aapp,celf,1,AFFECTS_AAP
 C0907734,C0014139,AFFECTS,nectin-1,Endocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0908170,C1516334,AFFECTS,alsterpaullone,Cell Cycle Progression,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0910167,C0007587,AFFECTS,caspase-9,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
-C0910167,C0162638,AFFECTS,caspase-9,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C0910167,C0162638,AFFECTS,caspase-9,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0911469,C0162638,AFFECTS,Caspase 12,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0911800,C0007586,AFFECTS,"PSMD10 protein, human",Cell Cycle,aapp,celf,1,AFFECTS_AAPPafctCELF
 C0913092,C0007582,AFFECTS,DC-specific ICAM-3 grabbing nonintegrin,Cell Communication,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1542,7 +1542,7 @@ C1100660,C1156309,AFFECTS,Proprotein Convertases,syncytium formation by plasma m
 C1100660,C1160692,AFFECTS,Proprotein Convertases,virus maturation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1120843,C0007613,AFFECTS,mitogen-activated protein kinase p38,Cell physiology,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1120843,C0041904,AFFECTS,mitogen-activated protein kinase p38,Up-Regulation (Physiology),aapp,celf,1,AFFECTS_AAPPafctCELF
-C1120843,C0162638,AFFECTS,mitogen-activated protein kinase p38,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C1120843,C0162638,AFFECTS,mitogen-activated protein kinase p38,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1120843,C0596290,AFFECTS,mitogen-activated protein kinase p38,Cell Proliferation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1120843,C1155872,AFFECTS,mitogen-activated protein kinase p38,Cell Cycle Control,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1120843,C1157569,AFFECTS,mitogen-activated protein kinase p38,viral translation,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -1707,7 +1707,7 @@ C1333336,C0004391,AFFECTS,EP300 gene,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333336,C1158770,AFFECTS,EP300 gene,Transcriptional Regulation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333350,C0597361,AFFECTS,EPS8 gene,Receptor Mediated Endocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333350,C1160700,AFFECTS,EPS8 gene,viral gene expression,aapp,celf,1,AFFECTS_AAPPafctCELF
-C1333498,C0162638,AFFECTS,Extracellular Protein,Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C1333498,C0162638,AFFECTS,Extracellular Protein,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333530,C0031308,AFFECTS,FADD gene,Phagocytosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333530,C0162638,AFFECTS,FADD gene,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1333572,C0596290,AFFECTS,FOXO1 gene,Cell Proliferation,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -2387,7 +2387,7 @@ C1447045,C2755756,AFFECTS,"EGR1 protein, human",cellular transcription,aapp,celf
 C1448177,C0004391,AFFECTS,"TNF protein, human",Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1448177,C0007587,AFFECTS,"TNF protein, human",Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1448177,C0041904,AFFECTS,"TNF protein, human",Up-Regulation (Physiology),aapp,celf,1,AFFECTS_AAPPafctCELF
-C1448177,C0162638,AFFECTS,"TNF protein, human",Apoptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C1448177,C0162638,AFFECTS,"TNF protein, human",Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1449159,C1155075,AFFECTS,"CCL2 protein, human",monocyte activation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1449799,C0037083,AFFECTS,Tumor Necrosis Factor Receptor-Associated Factors,Signal Transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1451772,C1326829,AFFECTS,"VAV1 protein, human",actin cytoskeleton reorganization,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -2412,7 +2412,7 @@ C1512488,C0004391,AFFECTS,Homologous Protein,Autophagy,aapp,celf,1,AFFECTS_AAPPa
 C1515370,C0162638,AFFECTS,Recombinant Fas Ligand,Apoptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1515370,C3156099,AFFECTS,Recombinant Fas Ligand,macrophage apoptotic process,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1517683,C0004391,AFFECTS,L-Selenomethionine,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
-C1521898,C0003272,AFFECTS,"FCGR3A protein, human",Antibody-Dependent Cellular Cytotoxicity,aapp,celf,2,AFFECTS_AAPPafctCELF
+C1521898,C0003272,AFFECTS,"FCGR3A protein, human",Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1522002,C0678836,AFFECTS,RNA Recognition Motif,cell recognition,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1522712,C0007577,AFFECTS,Recombinant Interferon-alpha Inducible Protein 10,Cell Adhesion,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1527233,C0003272,AFFECTS,Recombinant Immune Globulin,Antibody-Dependent Cellular Cytotoxicity,aapp,celf,1,AFFECTS_AAPPafctCELF
@@ -2421,7 +2421,7 @@ C1527752,C0162638,AFFECTS,"TNFRSF10B protein, human",Apoptosis,aapp,celf,1,AFFEC
 C1527752,C3825288,AFFECTS,"TNFRSF10B protein, human",Cellular signal transduction,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1528365,C0007587,AFFECTS,FITC-annexin A5,Cell Death,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1528383,C1622501,AFFECTS,"CXCL12 protein, human","Migration, Cell",aapp,celf,1,AFFECTS_AAPPafctCELF
-C1530270,C2610960,AFFECTS,"IRF1 protein, human",Pyroptosis,aapp,celf,2,AFFECTS_AAPPafctCELF
+C1530270,C2610960,AFFECTS,"IRF1 protein, human",Pyroptosis,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1537424,C0004391,AFFECTS,IRGM gene,Autophagy,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1537570,C0596290,AFFECTS,LGR5 gene,Cell Proliferation,aapp,celf,1,AFFECTS_AAPPafctCELF
 C1537663,C1659465,AFFECTS,MARCH8 gene,retention within cell,aapp,celf,1,AFFECTS_AAPPafctCELF

@@ -57,7 +57,7 @@ C0003593,C1862596,CAUSES,Apolipoproteins B,Familial hypobetalipoproteinemia,aapp
 C0004358,C0005818,CAUSES,Autoantibodies,Blood Platelet Disorders,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0004358,C0027873,CAUSES,Autoantibodies,Neuromyelitis Optica,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0004358,C0040034,CAUSES,Autoantibodies,Thrombocytopenia,aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C0004358,C0398650,CAUSES,Autoantibodies,Immune thrombocytopenic purpura,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C0004358,C0398650,CAUSES,Autoantibodies,Immune thrombocytopenic purpura,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0005186,C0022578,CAUSES,beta-Actin,Keratoconus,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0005740,C0020542,CAUSES,Bleomycin,Pulmonary Hypertension,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0005740,C0032285,CAUSES,Bleomycin,Pneumonia,aapp,dsyn,1,CAUSES_AAPPcausDSYN
@@ -202,8 +202,8 @@ C0029923,C0877430,CAUSES,Ovalbumin,asthma chronic,aapp,dsyn,1,CAUSES_AAPPcausDSY
 C0030016,C0011615,CAUSES,Oxidoreductase,"Dermatitis, Atopic",aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0030306,C0024117,CAUSES,Pancreatic Elastase,Chronic Obstructive Airway Disease,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0030306,C0034067,CAUSES,Pancreatic Elastase,Pulmonary Emphysema,aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C0030940,C0003850,CAUSES,Peptide Hydrolases,Arteriosclerosis,aapp,dsyn,2,CAUSES_AAPPcausDSYN
-C0030940,C0003864,CAUSES,Peptide Hydrolases,Arthritis,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C0030940,C0003850,CAUSES,Peptide Hydrolases,Arteriosclerosis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
+C0030940,C0003864,CAUSES,Peptide Hydrolases,Arthritis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0030940,C0037052,CAUSES,Peptide Hydrolases,Sick Sinus Syndrome,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0030940,C0243026,CAUSES,Peptide Hydrolases,Sepsis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0030943,C0268696,CAUSES,Peptide Initiation Factors,Feline urological syndrome,aapp,dsyn,1,CAUSES_AAPPcausDSYN
@@ -215,7 +215,7 @@ C0032200,C0004096,CAUSES,Platelet-Derived Growth Factor,Asthma,aapp,dsyn,1,CAUSE
 C0033164,C0007453,CAUSES,Prions,Cattle Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0033164,C0022336,CAUSES,Prions,Creutzfeldt-Jakob disease,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0033164,C0085209,CAUSES,Prions,"Encephalopathy, Bovine Spongiform",aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C0033164,C0162534,CAUSES,Prions,Prion Diseases,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C0033164,C0162534,CAUSES,Prions,Prion Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0033164,C0376329,CAUSES,Prions,New Variant Creutzfeldt-Jakob Disease,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0033164,C1135993,CAUSES,Prions,"Wasting Disease, Chronic",aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C0033382,C0277527,CAUSES,Proline,Epidemic diarrhea,aapp,dsyn,1,CAUSES_AAPPcausDSYN
@@ -570,8 +570,8 @@ C1332822,C0027765,CAUSES,CXCR3 gene,nervous system disorder,aapp,dsyn,1,CAUSES_A
 C1333336,C0001126,CAUSES,EP300 gene,Renal tubular acidosis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1333723,C0029401,CAUSES,GTF2H1 gene,Osteitis Deformans,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1333723,C0032285,CAUSES,GTF2H1 gene,Pneumonia,aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C1333887,C0019061,CAUSES,H19 gene,Hemolytic-Uremic Syndrome,aapp,dsyn,2,CAUSES_AAPPcausDSYN
-C1333887,C0151594,CAUSES,H19 gene,Hemorrhagic diarrhea,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C1333887,C0019061,CAUSES,H19 gene,Hemolytic-Uremic Syndrome,aapp,dsyn,1,CAUSES_AAPPcausDSYN
+C1333887,C0151594,CAUSES,H19 gene,Hemorrhagic diarrhea,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1333908,C0021400,CAUSES,HMGB1 gene,Influenza,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1333908,C1373218,CAUSES,HMGB1 gene,Decreased Immunologic Activity [PE],aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1334081,C0019158,CAUSES,IFNAR1 gene,Hepatitis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
@@ -609,7 +609,7 @@ C1412515,C0042769,CAUSES,ARG1 gene,Virus Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSY
 C1412533,C0004096,CAUSES,ARIH1 gene,Asthma,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1412533,C0006271,CAUSES,ARIH1 gene,Bronchiolitis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1412533,C0021400,CAUSES,ARIH1 gene,Influenza,aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C1412533,C0032285,CAUSES,ARIH1 gene,Pneumonia,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C1412533,C0032285,CAUSES,ARIH1 gene,Pneumonia,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1412533,C0038395,CAUSES,ARIH1 gene,Streptococcal Infections,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1412616,C0019158,CAUSES,ATF3 gene,Hepatitis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1412719,C0267797,CAUSES,B4GALT1 gene,Acute hepatitis,aapp,dsyn,1,CAUSES_AAPPcausDSYN
@@ -636,7 +636,7 @@ C1415181,C0019100,CAUSES,GOT1 gene,Severe Dengue,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1415193,C0162534,CAUSES,GPC1 gene,Prion Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1415523,C0268274,CAUSES,HEXB gene,"Gangliosidoses, GM2",aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1415826,C1415817,CAUSES,HYAL2 gene,"HETEROTAXY, VISCERAL, 2, AUTOSOMAL",aapp,dsyn,1,CAUSES_AAPPcausDSYN
-C1415898,C0021400,CAUSES,IFITM3 gene,Influenza,aapp,dsyn,2,CAUSES_AAPPcausDSYN
+C1415898,C0021400,CAUSES,IFITM3 gene,Influenza,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1416475,C0009450,CAUSES,IRF7 gene,Communicable Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1416475,C0035222,CAUSES,IRF7 gene,"Respiratory Distress Syndrome, Adult",aapp,dsyn,1,CAUSES_AAPPcausDSYN
 C1416479,C0009450,CAUSES,IRF9 gene,Communicable Diseases,aapp,dsyn,1,CAUSES_AAPPcausDSYN

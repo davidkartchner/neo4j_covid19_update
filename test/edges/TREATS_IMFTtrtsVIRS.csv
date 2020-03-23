@@ -5,7 +5,7 @@ C0001551,C0220847,TREATS,Immunologic Adjuvants,Hepatitis C virus,imft,virs,1,TRE
 C0001551,C1175743,TREATS,Immunologic Adjuvants,SARS coronavirus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0019168,C0042776,TREATS,Hepatitis B Surface Antigens,Virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0021403,C0013480,TREATS,Influenza virus vaccine,Ebola virus,imft,virs,1,TREATS_IMFTtrtsVIRS
-C0021403,C0042776,TREATS,Influenza virus vaccine,Virus,imft,virs,2,TREATS_IMFTtrtsVIRS
+C0021403,C0042776,TREATS,Influenza virus vaccine,Virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0021403,C0318428,TREATS,Influenza virus vaccine,Human enterovirus 68,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0021403,C0597404,TREATS,Influenza virus vaccine,Respiratory viruses,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0032375,C0206435,TREATS,Oral Poliovirus Vaccine,Human poliovirus,imft,virs,1,TREATS_IMFTtrtsVIRS
@@ -18,7 +18,7 @@ C0042210,C0008056,TREATS,Vaccines,Chikungunya virus,imft,virs,1,TREATS_IMFTtrtsV
 C0042210,C0009743,TREATS,Vaccines,"Hemorrhagic Fever Virus, Crimean-Congo",imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0010233,TREATS,Vaccines,Cowpox virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0010825,TREATS,Vaccines,Cytomegalovirus,imft,virs,1,TREATS_IMFTtrtsVIRS
-C0042210,C0011315,TREATS,Vaccines,Dengue Virus,imft,virs,2,TREATS_IMFTtrtsVIRS
+C0042210,C0011315,TREATS,Vaccines,Dengue Virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0013480,TREATS,Vaccines,Ebola virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0014080,TREATS,Vaccines,Encephalomyocarditis virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0016215,TREATS,Vaccines,Flavivirus,imft,virs,1,TREATS_IMFTtrtsVIRS
@@ -28,7 +28,7 @@ C0042210,C0019169,TREATS,Vaccines,Hepatitis B Virus,imft,virs,1,TREATS_IMFTtrtsV
 C0042210,C0019351,TREATS,Vaccines,Human Herpesvirus 2,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0019369,TREATS,Vaccines,Herpesviridae,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0019378,TREATS,Vaccines,"Herpesvirus 1, Cercopithecine",imft,virs,1,TREATS_IMFTtrtsVIRS
-C0042210,C0019682,TREATS,Vaccines,HIV,imft,virs,2,TREATS_IMFTtrtsVIRS
+C0042210,C0019682,TREATS,Vaccines,HIV,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0019704,TREATS,Vaccines,HIV-1,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0019842,TREATS,Vaccines,Classical swine fever virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0021344,TREATS,Vaccines,Human Papillomavirus,imft,virs,1,TREATS_IMFTtrtsVIRS
@@ -39,7 +39,7 @@ C0042210,C0029017,TREATS,Vaccines,Oncogenic Viruses,imft,virs,1,TREATS_IMFTtrtsV
 C0042210,C0029341,TREATS,Vaccines,Orthomyxoviridae,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0029343,TREATS,Vaccines,"Influenza A Virus, Avian",imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0029347,TREATS,Vaccines,Influenza A virus,imft,virs,1,TREATS_IMFTtrtsVIRS
-C0042210,C0035236,TREATS,Vaccines,Respiratory syncytial virus,imft,virs,2,TREATS_IMFTtrtsVIRS
+C0042210,C0035236,TREATS,Vaccines,Respiratory syncytial virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0035473,TREATS,Vaccines,Rhinovirus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0035614,TREATS,Vaccines,Rift Valley fever virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0042210,C0035691,TREATS,Vaccines,RNA Viruses,imft,virs,1,TREATS_IMFTtrtsVIRS
@@ -132,7 +132,7 @@ C0887892,C0042776,TREATS,"Vaccines, Subunit",Virus,imft,virs,1,TREATS_IMFTtrtsVI
 C0887892,C0206558,TREATS,"Vaccines, Subunit",Simplexvirus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0887892,C0318855,TREATS,"Vaccines, Subunit",Porcine epidemic diarrhea virus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0887892,C1175743,TREATS,"Vaccines, Subunit",SARS coronavirus,imft,virs,1,TREATS_IMFTtrtsVIRS
-C0887892,C3698360,TREATS,"Vaccines, Subunit",Middle East Respiratory Syndrome Coronavirus,imft,virs,2,TREATS_IMFTtrtsVIRS
+C0887892,C3698360,TREATS,"Vaccines, Subunit",Middle East Respiratory Syndrome Coronavirus,imft,virs,1,TREATS_IMFTtrtsVIRS
 C0887894,C0597404,TREATS,Respiratory Syncytial Virus Vaccines,Respiratory viruses,imft,virs,1,TREATS_IMFTtrtsVIRS
 C1514218,C0079005,TREATS,Polyvalent Vaccine,Baculoviridae,imft,virs,1,TREATS_IMFTtrtsVIRS
 C1514218,C0318855,TREATS,Polyvalent Vaccine,Porcine epidemic diarrhea virus,imft,virs,1,TREATS_IMFTtrtsVIRS

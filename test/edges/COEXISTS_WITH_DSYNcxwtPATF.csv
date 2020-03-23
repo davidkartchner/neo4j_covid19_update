@@ -33,7 +33,7 @@ C0006271,C0013604,COEXISTS_WITH,Bronchiolitis,Edema,dsyn,patf,1,COEXISTS_WITH_DS
 C0006271,C0020517,COEXISTS_WITH,Bronchiolitis,Hypersensitivity,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0006271,C0161818,COEXISTS_WITH,Bronchiolitis,Respiratory complication,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0006271,C0333563,COEXISTS_WITH,Bronchiolitis,Hyaline membrane,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0006271,C3714514,COEXISTS_WITH,Bronchiolitis,Infection,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0006271,C3714514,COEXISTS_WITH,Bronchiolitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0006277,C3714514,COEXISTS_WITH,Bronchitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0006840,C0036983,COEXISTS_WITH,Candidiasis,Septic Shock,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0007193,C0004238,COEXISTS_WITH,"Cardiomyopathy, Dilated",Atrial Fibrillation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -55,7 +55,7 @@ C0009450,C3714514,COEXISTS_WITH,Communicable Diseases,Infection,dsyn,patf,1,COEX
 C0009763,C3714514,COEXISTS_WITH,Conjunctivitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0009782,C0040038,COEXISTS_WITH,Connective Tissue Diseases,Thromboembolism,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0010278,C3714514,COEXISTS_WITH,Craniosynostosis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0010380,C3714514,COEXISTS_WITH,Croup,Infection,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0010380,C3714514,COEXISTS_WITH,Croup,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0010674,C3714514,COEXISTS_WITH,Cystic Fibrosis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0010692,C3714514,COEXISTS_WITH,Cystitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0010823,C3714514,COEXISTS_WITH,Cytomegalovirus Infections,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -67,7 +67,7 @@ C0011633,C0012359,COEXISTS_WITH,Dermatomyositis,Pathological Dilatation,dsyn,pat
 C0011636,C0242656,COEXISTS_WITH,Dermatophytosis,Disease Progression,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0011847,C0021368,COEXISTS_WITH,Diabetes,Inflammation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0011847,C0021655,COEXISTS_WITH,Diabetes,Insulin Resistance,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0011847,C3714514,COEXISTS_WITH,Diabetes,Infection,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0011847,C3714514,COEXISTS_WITH,Diabetes,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0011860,C0021655,COEXISTS_WITH,"Diabetes Mellitus, Non-Insulin-Dependent",Insulin Resistance,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0011860,C1817997,COEXISTS_WITH,"Diabetes Mellitus, Non-Insulin-Dependent",chronic inflammatory response,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0011881,C0016059,COEXISTS_WITH,Diabetic Nephropathy,Fibrosis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -85,7 +85,7 @@ C0014038,C3714514,COEXISTS_WITH,Encephalitis,Infection,dsyn,patf,1,COEXISTS_WITH
 C0014059,C3714514,COEXISTS_WITH,"Encephalomyelitis, Acute Disseminated",Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0014070,C0231170,COEXISTS_WITH,Encephalomyelitis,Disability,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0014070,C3714514,COEXISTS_WITH,Encephalomyelitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0014121,C0040038,COEXISTS_WITH,Bacterial Endocarditis,Thromboembolism,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0014121,C0040038,COEXISTS_WITH,Bacterial Endocarditis,Thromboembolism,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0014335,C0011164,COEXISTS_WITH,Enteritis,Abnormal degeneration,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0014457,C0020517,COEXISTS_WITH,Eosinophilia,Hypersensitivity,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0014457,C3714514,COEXISTS_WITH,Eosinophilia,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -172,7 +172,7 @@ C0032285,C0161818,COEXISTS_WITH,Pneumonia,Respiratory complication,dsyn,patf,1,C
 C0032285,C0332448,COEXISTS_WITH,Pneumonia,Infiltration,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0032285,C1265958,COEXISTS_WITH,Pneumonia,Bronchiolization,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0032285,C1520005,COEXISTS_WITH,Pneumonia,Viral Pathogenesis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0032285,C3714514,COEXISTS_WITH,Pneumonia,Infection,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0032285,C3714514,COEXISTS_WITH,Pneumonia,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0032302,C0332448,COEXISTS_WITH,Mycoplasma pneumonia,Infiltration,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0032371,C0028778,COEXISTS_WITH,Poliomyelitis,Obstruction,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0032371,C3714514,COEXISTS_WITH,Poliomyelitis,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -186,7 +186,7 @@ C0035204,C3714514,COEXISTS_WITH,Respiration Disorders,Infection,dsyn,patf,1,COEX
 C0035220,C3714514,COEXISTS_WITH,"Respiratory Distress Syndrome, Newborn",Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035222,C0003130,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Anoxia,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035222,C0016059,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Fibrosis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0035222,C0021368,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Inflammation,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0035222,C0021368,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Inflammation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035222,C0026766,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Multiple Organ Failure,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035222,C0032227,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Pleural effusion disorder,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035222,C0036983,COEXISTS_WITH,"Respiratory Distress Syndrome, Adult",Septic Shock,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -202,7 +202,7 @@ C0035243,C3714514,COEXISTS_WITH,Respiratory Tract Infections,Infection,dsyn,patf
 C0035455,C0013687,COEXISTS_WITH,Rhinitis,effusion,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0035869,C0022346,COEXISTS_WITH,Rotavirus Infections,Icterus,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0036202,C0018188,COEXISTS_WITH,Sarcoidosis,Granuloma,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0036202,C0333418,COEXISTS_WITH,Sarcoidosis,Non-necrotizing granulomatous inflammation,dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0036202,C0333418,COEXISTS_WITH,Sarcoidosis,Non-necrotizing granulomatous inflammation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0036421,C0012359,COEXISTS_WITH,Systemic Scleroderma,Pathological Dilatation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0036690,C0021368,COEXISTS_WITH,Septicemia,Inflammation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0036690,C0220981,COEXISTS_WITH,Septicemia,Metabolic acidosis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
@@ -348,7 +348,7 @@ C0751014,C0021368,COEXISTS_WITH,Subcortical Infarction,Inflammation,dsyn,patf,1,
 C0851901,C3714514,COEXISTS_WITH,Rhinovirus infections,Infection,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0853897,C0016059,COEXISTS_WITH,Diabetic Cardiomyopathies,Fibrosis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0853897,C0021368,COEXISTS_WITH,Diabetic Cardiomyopathies,Inflammation,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
-C0853897,C0242698,COEXISTS_WITH,Diabetic Cardiomyopathies,"Ventricular Dysfunction, Left",dsyn,patf,2,COEXISTS_WITH_DSYNcxwtPATF
+C0853897,C0242698,COEXISTS_WITH,Diabetic Cardiomyopathies,"Ventricular Dysfunction, Left",dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0856169,C3887513,COEXISTS_WITH,endothelial dysfunction,Avascular necrosis,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0856238,C0020517,COEXISTS_WITH,influenza (epidemic),Hypersensitivity,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF
 C0872315,C0020517,COEXISTS_WITH,"Communicable Diseases, Emerging",Hypersensitivity,dsyn,patf,1,COEXISTS_WITH_DSYNcxwtPATF

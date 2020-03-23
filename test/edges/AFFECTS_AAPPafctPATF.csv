@@ -45,7 +45,7 @@ C0021755,C0016059,AFFECTS,Interleukin-1,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPAT
 C0021755,C0021368,AFFECTS,Interleukin-1,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021755,C0021376,AFFECTS,Interleukin-1,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021755,C0332448,AFFECTS,Interleukin-1,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0021755,C1155266,AFFECTS,Interleukin-1,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021755,C1155266,AFFECTS,Interleukin-1,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021756,C0020517,AFFECTS,Interleukin-2,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021756,C1817978,AFFECTS,Interleukin-2,acute inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021758,C0021376,AFFECTS,Interleukin-4,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
@@ -55,10 +55,10 @@ C0021760,C0021368,AFFECTS,Interleukin-6,Inflammation,aapp,patf,1,AFFECTS_AAPPafc
 C0021760,C0021376,AFFECTS,Interleukin-6,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021760,C0332448,AFFECTS,Interleukin-6,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021760,C0596761,AFFECTS,Interleukin-6,Immunosenescence,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0021760,C1155266,AFFECTS,Interleukin-6,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0021760,C1155266,AFFECTS,Interleukin-6,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021760,C3686874,AFFECTS,Interleukin-6,Microgliosis,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0021918,C1155266,AFFECTS,Intrinsic factor,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0022942,C0021368,AFFECTS,Lactoferrin,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0022942,C0021368,AFFECTS,Lactoferrin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0022942,C1155266,AFFECTS,Lactoferrin,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0023689,C3714514,AFFECTS,Ligase,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0023821,C0161816,AFFECTS,High Density Lipoproteins,Cardiac complication,aapp,patf,1,AFFECTS_AAPPafctPATF
@@ -134,7 +134,7 @@ C0079633,C0021368,AFFECTS,Interleukin-8,Inflammation,aapp,patf,1,AFFECTS_AAPPafc
 C0079633,C0021376,AFFECTS,Interleukin-8,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0079633,C1155266,AFFECTS,Interleukin-8,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0079717,C0021368,AFFECTS,Lymphocyte Function-Associated Antigen-1,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0079904,C0021368,AFFECTS,NF-kappa B,Inflammation,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0079904,C0021368,AFFECTS,NF-kappa B,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0079904,C1155266,AFFECTS,NF-kappa B,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0084692,C0016059,AFFECTS,Pulmonary Surfactant-Associated Protein D,Fibrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0084692,C0020517,AFFECTS,Pulmonary Surfactant-Associated Protein D,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
@@ -143,13 +143,13 @@ C0085295,C0011304,AFFECTS,Interleukin-10,Demyelination,aapp,patf,1,AFFECTS_AAPPa
 C0085295,C0020963,AFFECTS,Interleukin-10,Immune Tolerance,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0085295,C0021368,AFFECTS,Interleukin-10,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0085295,C0332448,AFFECTS,Interleukin-10,Infiltration,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0085295,C1155266,AFFECTS,Interleukin-10,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0085295,C1155266,AFFECTS,Interleukin-10,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0103306,C0549592,AFFECTS,angiotensin I (1-7),kidney morphologic,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0107298,C0232981,AFFECTS,BS-RNAse,Arrest of spermatogenesis,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0118022,C0021376,AFFECTS,fMet-Leu-Phe receptor,Chronic inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0123658,C0920563,AFFECTS,insulin receptor substrate 1 protein,Insulin Sensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0123759,C0021368,AFFECTS,Interleukin-12,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
-C0123759,C1155266,AFFECTS,Interleukin-12,inflammatory response,aapp,patf,2,AFFECTS_AAPPafctPATF
+C0123759,C1155266,AFFECTS,Interleukin-12,inflammatory response,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0123759,C3714514,AFFECTS,Interleukin-12,Infection,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0145779,C0021368,AFFECTS,Thrombomodulin,Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C0162768,C0013604,AFFECTS,Fusion protein,Edema,aapp,patf,1,AFFECTS_AAPPafctPATF
@@ -240,7 +240,7 @@ C1310468,C1520005,AFFECTS,"DDX58 protein, human",Viral Pathogenesis,aapp,patf,1,
 C1313407,C0021368,AFFECTS,"HAVCR1 protein, human",Inflammation,aapp,patf,1,AFFECTS_AAPPafctPATF
 C1332822,C0011304,AFFECTS,CXCR3 gene,Demyelination,aapp,patf,1,AFFECTS_AAPPafctPATF
 C1332822,C2699153,AFFECTS,CXCR3 gene,Cell Invasion,aapp,patf,1,AFFECTS_AAPPafctPATF
-C1333498,C0027540,AFFECTS,Extracellular Protein,Necrosis,aapp,patf,2,AFFECTS_AAPPafctPATF
+C1333498,C0027540,AFFECTS,Extracellular Protein,Necrosis,aapp,patf,1,AFFECTS_AAPPafctPATF
 C1334078,C0020507,AFFECTS,IFITM1 gene,Hyperplasia,aapp,patf,1,AFFECTS_AAPPafctPATF
 C1334078,C0028778,AFFECTS,IFITM1 gene,Obstruction,aapp,patf,1,AFFECTS_AAPPafctPATF
 C1334081,C0020517,AFFECTS,IFNAR1 gene,Hypersensitivity,aapp,patf,1,AFFECTS_AAPPafctPATF

@@ -11,7 +11,7 @@ C0002871,C0206464,COEXISTS_WITH,Anemia,Gammaretrovirus,dsyn,virs,1,COEXISTS_WITH
 C0002878,C0010825,COEXISTS_WITH,"Anemia, Hemolytic",Cytomegalovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0003864,C0008056,COEXISTS_WITH,Arthritis,Chikungunya virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0003873,C0597404,COEXISTS_WITH,Rheumatoid Arthritis,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0004096,C0035236,COEXISTS_WITH,Asthma,Respiratory syncytial virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0004096,C0035236,COEXISTS_WITH,Asthma,Respiratory syncytial virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0004096,C0036238,COEXISTS_WITH,Asthma,Satellite Viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0004096,C0042776,COEXISTS_WITH,Asthma,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0004096,C0043125,COEXISTS_WITH,Asthma,West Nile virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -57,7 +57,7 @@ C0009443,C0031886,COEXISTS_WITH,Common Cold,Family Picornaviridae,dsyn,virs,1,CO
 C0009443,C0035236,COEXISTS_WITH,Common Cold,Respiratory syncytial virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0009443,C0035473,COEXISTS_WITH,Common Cold,Rhinovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0009443,C0206419,COEXISTS_WITH,Common Cold,Genus: Coronavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0009443,C0206422,COEXISTS_WITH,Common Cold,Human coronavirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0009443,C0206422,COEXISTS_WITH,Common Cold,Human coronavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0009443,C0206545,COEXISTS_WITH,Common Cold,Human respiratory syncytial virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0009443,C0318467,COEXISTS_WITH,Common Cold,Human rhinovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0009443,C0597404,COEXISTS_WITH,Common Cold,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -83,7 +83,7 @@ C0009952,C0318793,COEXISTS_WITH,Febrile Convulsions,Zika Virus,dsyn,virs,1,COEXI
 C0009952,C0597404,COEXISTS_WITH,Febrile Convulsions,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0010051,C0014644,COEXISTS_WITH,Coronary Aneurysm,Epstein-Barr Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0010380,C0030393,COEXISTS_WITH,Croup,Parainfluenza virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0010380,C0042776,COEXISTS_WITH,Croup,Virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0010380,C0042776,COEXISTS_WITH,Croup,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0010380,C0206422,COEXISTS_WITH,Croup,Human coronavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0010380,C1478824,COEXISTS_WITH,Croup,Human coronavirus NL63,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0010823,C0037224,COEXISTS_WITH,Cytomegalovirus Infections,Simian immunodeficiency virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -111,7 +111,7 @@ C0013570,C0318855,COEXISTS_WITH,"Ecthyma, Contagious",Porcine epidemic diarrhea 
 C0013570,C0319450,COEXISTS_WITH,"Ecthyma, Contagious",Lettuce necrotic yellows cytorhabdovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0013570,C0319482,COEXISTS_WITH,"Ecthyma, Contagious",Sobemovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0013570,C0376476,COEXISTS_WITH,"Ecthyma, Contagious",Entomobirnavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0013570,C0376536,COEXISTS_WITH,"Ecthyma, Contagious",Porcine respiratory and reproductive syndrome virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0013570,C0376536,COEXISTS_WITH,"Ecthyma, Contagious",Porcine respiratory and reproductive syndrome virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0013570,C0949858,COEXISTS_WITH,"Ecthyma, Contagious",Nidovirales,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0013570,C0949920,COEXISTS_WITH,"Ecthyma, Contagious",Norovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0013570,C1000279,COEXISTS_WITH,"Ecthyma, Contagious",Southern bean mosaic virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -164,7 +164,7 @@ C0017160,C0004120,COEXISTS_WITH,Gastroenteritis,Astrovirus,dsyn,virs,1,COEXISTS_
 C0017160,C0030358,COEXISTS_WITH,Gastroenteritis,Papillomavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0017160,C0035691,COEXISTS_WITH,Gastroenteritis,RNA Viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0017160,C0042776,COEXISTS_WITH,Gastroenteritis,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0017160,C0086776,COEXISTS_WITH,Gastroenteritis,Parvovirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0017160,C0086776,COEXISTS_WITH,Gastroenteritis,Parvovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0017160,C0205762,COEXISTS_WITH,Gastroenteritis,Feline panleukopenia virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0017160,C0206466,COEXISTS_WITH,Gastroenteritis,"Parvovirus, Canine",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0017160,C0319215,COEXISTS_WITH,Gastroenteritis,Porcine adenovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -185,7 +185,7 @@ C0018572,C2963492,COEXISTS_WITH,"Hand, Foot and Mouth Disease",Enterovirus 71,ds
 C0018799,C0043125,COEXISTS_WITH,Heart Diseases,West Nile virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0019087,C0003755,COEXISTS_WITH,Hemorrhagic Disorders,Arenaviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0019087,C0206497,COEXISTS_WITH,Hemorrhagic Disorders,Arenavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0019087,C4193472,COEXISTS_WITH,Hemorrhagic Disorders,Mammarenavirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0019087,C4193472,COEXISTS_WITH,Hemorrhagic Disorders,Mammarenavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0019099,C0042776,COEXISTS_WITH,"Hemorrhagic Fever, Crimean",Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0019104,C0011315,COEXISTS_WITH,"Hemorrhagic Fevers, Viral",Dengue Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0019104,C2306360,COEXISTS_WITH,"Hemorrhagic Fevers, Viral",Chapare virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -222,7 +222,7 @@ C0021390,C1079230,COEXISTS_WITH,Inflammatory Bowel Diseases,Subgroup A Nepovirus
 C0021400,C0001483,COEXISTS_WITH,Influenza,Adenoviruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0021400,C0012923,COEXISTS_WITH,Influenza,DNA Viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0021400,C0013480,COEXISTS_WITH,Influenza,Ebola virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0021400,C0019704,COEXISTS_WITH,Influenza,HIV-1,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0021400,C0019704,COEXISTS_WITH,Influenza,HIV-1,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0021400,C0029341,COEXISTS_WITH,Influenza,Orthomyxoviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0021400,C0029345,COEXISTS_WITH,Influenza,"Orthomyxovirus Type A, Porcine",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0021400,C0029347,COEXISTS_WITH,Influenza,Influenza A virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -305,13 +305,13 @@ C0031350,C0001483,COEXISTS_WITH,Pharyngitis,Adenoviruses,dsyn,virs,1,COEXISTS_WI
 C0031350,C0030392,COEXISTS_WITH,Pharyngitis,"Parainfluenza Virus 3, Human",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032231,C0006063,COEXISTS_WITH,Pleurisy,Bovine Viral Diarrhea Viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0001483,COEXISTS_WITH,Pneumonia,Adenoviruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0032285,C0001490,COEXISTS_WITH,Pneumonia,"Adenoviruses, Human",dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0032285,C0001490,COEXISTS_WITH,Pneumonia,"Adenoviruses, Human",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0029341,COEXISTS_WITH,Pneumonia,Orthomyxoviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0029347,COEXISTS_WITH,Pneumonia,Influenza A virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0030392,COEXISTS_WITH,Pneumonia,"Parainfluenza Virus 3, Human",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0032285,C0030393,COEXISTS_WITH,Pneumonia,Parainfluenza virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0032285,C0030393,COEXISTS_WITH,Pneumonia,Parainfluenza virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0035236,COEXISTS_WITH,Pneumonia,Respiratory syncytial virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0032285,C0035473,COEXISTS_WITH,Pneumonia,Rhinovirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0032285,C0035473,COEXISTS_WITH,Pneumonia,Rhinovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0042776,COEXISTS_WITH,Pneumonia,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0162548,COEXISTS_WITH,Pneumonia,Streptococcus Phages,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C0205652,COEXISTS_WITH,Pneumonia,Human adenovirus 2,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -324,7 +324,7 @@ C0032285,C0318467,COEXISTS_WITH,Pneumonia,Human rhinovirus,dsyn,virs,1,COEXISTS_
 C0032285,C0597404,COEXISTS_WITH,Pneumonia,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C1175743,COEXISTS_WITH,Pneumonia,SARS coronavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C1213122,COEXISTS_WITH,Pneumonia,Fowl aviadenovirus C,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0032285,C1258014,COEXISTS_WITH,Pneumonia,Human Metapneumovirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0032285,C1258014,COEXISTS_WITH,Pneumonia,Human Metapneumovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C1478824,COEXISTS_WITH,Pneumonia,Human coronavirus NL63,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C1676985,COEXISTS_WITH,Pneumonia,Human coronavirus HKU1,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0032285,C1920189,COEXISTS_WITH,Pneumonia,Choristoneura occidentalis granulovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -435,7 +435,7 @@ C0041912,C0318467,COEXISTS_WITH,Upper Respiratory Infections,Human rhinovirus,ds
 C0041912,C0376417,COEXISTS_WITH,Upper Respiratory Infections,Brome mosaic virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0041912,C0520503,COEXISTS_WITH,Upper Respiratory Infections,Tomato bushy stunt virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0041912,C0597404,COEXISTS_WITH,Upper Respiratory Infections,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0041912,C0949880,COEXISTS_WITH,Upper Respiratory Infections,Human coronavirus 229E,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0041912,C0949880,COEXISTS_WITH,Upper Respiratory Infections,Human coronavirus 229E,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0041912,C0949881,COEXISTS_WITH,Upper Respiratory Infections,"Coronavirus OC43, Human",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0041912,C1175743,COEXISTS_WITH,Upper Respiratory Infections,SARS coronavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0041912,C1478824,COEXISTS_WITH,Upper Respiratory Infections,Human coronavirus NL63,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -540,7 +540,7 @@ C0206608,C0019682,COEXISTS_WITH,Flavivirus Infections,HIV,dsyn,virs,1,COEXISTS_W
 C0206608,C0318793,COEXISTS_WITH,Flavivirus Infections,Zika Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0206750,C0001489,COEXISTS_WITH,Coronavirus Infections,Aviadenovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0206750,C0004120,COEXISTS_WITH,Coronavirus Infections,Astrovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0206750,C0004419,COEXISTS_WITH,Coronavirus Infections,Infectious bronchitis virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0206750,C0004419,COEXISTS_WITH,Coronavirus Infections,Infectious bronchitis virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0206750,C0010076,COEXISTS_WITH,Coronavirus Infections,Coronaviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0206750,C0016215,COEXISTS_WITH,Coronavirus Infections,Flavivirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0206750,C0017161,COEXISTS_WITH,Coronavirus Infections,Transmissible gastroenteritis virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -600,16 +600,16 @@ C0275518,C1258014,COEXISTS_WITH,Acute infectious disease,Human Metapneumovirus,d
 C0275522,C0043125,COEXISTS_WITH,Asymptomatic Infections,West Nile virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275522,C0318793,COEXISTS_WITH,Asymptomatic Infections,Zika Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275522,C0936087,COEXISTS_WITH,Asymptomatic Infections,"Coronavirus, Feline",dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0275524,C0001483,COEXISTS_WITH,Coinfection,Adenoviruses,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0275524,C0001483,COEXISTS_WITH,Coinfection,Adenoviruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0004651,COEXISTS_WITH,Coinfection,Bacteriophages,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0013534,COEXISTS_WITH,Coinfection,Echovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0019704,COEXISTS_WITH,Coinfection,HIV-1,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0275524,C0029341,COEXISTS_WITH,Coinfection,Orthomyxoviridae,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0275524,C0029341,COEXISTS_WITH,Coinfection,Orthomyxoviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0029347,COEXISTS_WITH,Coinfection,Influenza A virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0275524,C0035473,COEXISTS_WITH,Coinfection,Rhinovirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0275524,C0035473,COEXISTS_WITH,Coinfection,Rhinovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0035870,COEXISTS_WITH,Coinfection,Rotavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0042776,COEXISTS_WITH,Coinfection,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0275524,C0206545,COEXISTS_WITH,Coinfection,Human respiratory syncytial virus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0275524,C0206545,COEXISTS_WITH,Coinfection,Human respiratory syncytial virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0220847,COEXISTS_WITH,Coinfection,Hepatitis C virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0318855,COEXISTS_WITH,Coinfection,Porcine epidemic diarrhea virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0275524,C0319232,COEXISTS_WITH,Coinfection,Human herpes simplex virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
@@ -639,9 +639,9 @@ C0339901,C0014383,COEXISTS_WITH,Acute respiratory infections,Enterovirus,dsyn,vi
 C0339901,C0029341,COEXISTS_WITH,Acute respiratory infections,Orthomyxoviridae,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0339901,C0042776,COEXISTS_WITH,Acute respiratory infections,Virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0339901,C0086776,COEXISTS_WITH,Acute respiratory infections,Parvovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0339901,C0597404,COEXISTS_WITH,Acute respiratory infections,Respiratory viruses,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0339901,C0597404,COEXISTS_WITH,Acute respiratory infections,Respiratory viruses,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0339901,C1258014,COEXISTS_WITH,Acute respiratory infections,Human Metapneumovirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
-C0339901,C1646817,COEXISTS_WITH,Acute respiratory infections,Human bocavirus,dsyn,virs,2,COEXISTS_WITH_DSYNcxwtVIRS
+C0339901,C1646817,COEXISTS_WITH,Acute respiratory infections,Human bocavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0339901,C3577872,COEXISTS_WITH,Acute respiratory infections,MW polyomavirus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0339976,C0035924,COEXISTS_WITH,Measles pneumonia,Rubella virus,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS
 C0341703,C0949858,COEXISTS_WITH,Adult Fanconi syndrome,Nidovirales,dsyn,virs,1,COEXISTS_WITH_DSYNcxwtVIRS

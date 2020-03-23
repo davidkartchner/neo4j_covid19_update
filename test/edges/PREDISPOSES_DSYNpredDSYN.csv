@@ -91,11 +91,11 @@ C0011311,C0022660,PREDISPOSES,Dengue Fever,"Kidney Failure, Acute",dsyn,dsyn,1,P
 C0011615,C0409974,PREDISPOSES,"Dermatitis, Atopic",Lupus Erythematosus,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0004045,PREDISPOSES,Diabetes,Asphyxia Neonatorum,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0004610,PREDISPOSES,Diabetes,Bacteremia,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0011847,C0009450,PREDISPOSES,Diabetes,Communicable Diseases,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0011847,C0009450,PREDISPOSES,Diabetes,Communicable Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0010054,PREDISPOSES,Diabetes,Coronary Arteriosclerosis,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0010340,PREDISPOSES,Diabetes,Critical Illness,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0019360,PREDISPOSES,Diabetes,Herpes zoster disease,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0011847,C0022658,PREDISPOSES,Diabetes,Kidney Diseases,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0011847,C0022658,PREDISPOSES,Diabetes,Kidney Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0024530,PREDISPOSES,Diabetes,Malaria,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0038454,PREDISPOSES,Diabetes,Cerebrovascular accident,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0011847,C0041296,PREDISPOSES,Diabetes,Tuberculosis,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
@@ -178,7 +178,7 @@ C0021051,C0264490,PREDISPOSES,Immunologic Deficiency Syndromes,Acute respiratory
 C0021053,C0004096,PREDISPOSES,Immune System Diseases,Asthma,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0021400,C0004623,PREDISPOSES,Influenza,Bacterial Infections,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0021400,C0009450,PREDISPOSES,Influenza,Communicable Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0021400,C0010356,PREDISPOSES,Influenza,Cross Infection,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0021400,C0010356,PREDISPOSES,Influenza,Cross Infection,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0021400,C0019061,PREDISPOSES,Influenza,Hemolytic-Uremic Syndrome,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0021400,C0032310,PREDISPOSES,Influenza,"Pneumonia, Viral",dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0021400,C0035222,PREDISPOSES,Influenza,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
@@ -244,12 +244,12 @@ C0028754,C0007222,PREDISPOSES,Obesity,Cardiovascular Diseases,dsyn,dsyn,1,PREDIS
 C0028754,C0008679,PREDISPOSES,Obesity,Chronic disease,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0011847,PREDISPOSES,Obesity,Diabetes,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0011849,PREDISPOSES,Obesity,Diabetes Mellitus,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0028754,C0011860,PREDISPOSES,Obesity,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0028754,C0011860,PREDISPOSES,Obesity,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0021390,PREDISPOSES,Obesity,Inflammatory Bowel Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0021400,PREDISPOSES,Obesity,Influenza,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0028754,C0025517,PREDISPOSES,Obesity,Metabolic Diseases,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0028754,C0025517,PREDISPOSES,Obesity,Metabolic Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0026857,PREDISPOSES,Obesity,Musculoskeletal Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0028754,C0032285,PREDISPOSES,Obesity,Pneumonia,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0028754,C0032285,PREDISPOSES,Obesity,Pneumonia,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0033860,PREDISPOSES,Obesity,Psoriasis,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0035222,PREDISPOSES,Obesity,"Respiratory Distress Syndrome, Adult",dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0028754,C0035243,PREDISPOSES,Obesity,Respiratory Tract Infections,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
@@ -322,7 +322,7 @@ C0041912,C0271429,PREDISPOSES,Upper Respiratory Infections,Acute otitis media,ds
 C0041952,C1827894,PREDISPOSES,Ureterolithiasis,Upper urinary tract infection,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0042029,C0008312,PREDISPOSES,Urinary tract infection,Primary biliary cirrhosis,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0042029,C0034186,PREDISPOSES,Urinary tract infection,Pyelonephritis,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
-C0042373,C0022658,PREDISPOSES,Vascular Diseases,Kidney Diseases,dsyn,dsyn,2,PREDISPOSES_DSYNpredDSYN
+C0042373,C0022658,PREDISPOSES,Vascular Diseases,Kidney Diseases,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0042749,C0275518,PREDISPOSES,Viremia,Acute infectious disease,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0042769,C0004096,PREDISPOSES,Virus Diseases,Asthma,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN
 C0042769,C0004623,PREDISPOSES,Virus Diseases,Bacterial Infections,dsyn,dsyn,1,PREDISPOSES_DSYNpredDSYN

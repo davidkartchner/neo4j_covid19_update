@@ -131,7 +131,7 @@ C0019704,C0205725,INTERACTS_WITH,HIV-1,Human Herpesvirus 5 species,virs,virs,1,I
 C0019704,C0949892,INTERACTS_WITH,HIV-1,Ebolavirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0019704,C1175743,INTERACTS_WITH,HIV-1,SARS coronavirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0019707,C0019682,INTERACTS_WITH,Human immunodeficiency virus 2 (HIV-2),HIV,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
-C0019707,C0019704,INTERACTS_WITH,Human immunodeficiency virus 2 (HIV-2),HIV-1,virs,virs,2,INTERACTS_WITH_VIRSitawVIRS
+C0019707,C0019704,INTERACTS_WITH,Human immunodeficiency virus 2 (HIV-2),HIV-1,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0020094,C0042776,INTERACTS_WITH,Human T-lymphotropic virus 1,Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0020121,C0318467,INTERACTS_WITH,Human enterovirus,Human rhinovirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0021344,C0042776,INTERACTS_WITH,Human Papillomavirus,Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
@@ -240,7 +240,7 @@ C0035473,C0318467,INTERACTS_WITH,Rhinovirus,Human rhinovirus,virs,virs,1,INTERAC
 C0035473,C0597404,INTERACTS_WITH,Rhinovirus,Respiratory viruses,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0035473,C0949920,INTERACTS_WITH,Rhinovirus,Norovirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0035614,C1457865,INTERACTS_WITH,Rift Valley fever virus,Genus Phlebovirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
-C0035691,C0001483,INTERACTS_WITH,RNA Viruses,Adenoviruses,virs,virs,2,INTERACTS_WITH_VIRSitawVIRS
+C0035691,C0001483,INTERACTS_WITH,RNA Viruses,Adenoviruses,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0035691,C0002331,INTERACTS_WITH,RNA Viruses,Alphavirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0035691,C0008056,INTERACTS_WITH,RNA Viruses,Chikungunya virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C0035691,C0012923,INTERACTS_WITH,RNA Viruses,DNA Viruses,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
@@ -612,7 +612,7 @@ C1175743,C3698360,INTERACTS_WITH,SARS coronavirus,Middle East Respiratory Syndro
 C1258014,C0011220,INTERACTS_WITH,Human Metapneumovirus,Hepatitis Delta Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1258014,C0035473,INTERACTS_WITH,Human Metapneumovirus,Rhinovirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1258014,C0042776,INTERACTS_WITH,Human Metapneumovirus,Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
-C1258014,C0206545,INTERACTS_WITH,Human Metapneumovirus,Human respiratory syncytial virus,virs,virs,2,INTERACTS_WITH_VIRSitawVIRS
+C1258014,C0206545,INTERACTS_WITH,Human Metapneumovirus,Human respiratory syncytial virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1258014,C0597404,INTERACTS_WITH,Human Metapneumovirus,Respiratory viruses,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1258014,C1079230,INTERACTS_WITH,Human Metapneumovirus,Subgroup A Nepoviruses,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1265386,C0376536,INTERACTS_WITH,Porcine circovirus type II,Porcine respiratory and reproductive syndrome virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
@@ -625,7 +625,7 @@ C1612293,C0042776,INTERACTS_WITH,"Influenza A Virus, H9N2 Subtype",Virus,virs,vi
 C1613396,C0042776,INTERACTS_WITH,"Influenza A Virus, H5N2 Subtype",Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1613950,C0029343,INTERACTS_WITH,"Influenza A Virus, H5N1 Subtype","Influenza A Virus, Avian",virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1613950,C0029347,INTERACTS_WITH,"Influenza A Virus, H5N1 Subtype",Influenza A virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
-C1613950,C0042776,INTERACTS_WITH,"Influenza A Virus, H5N1 Subtype",Virus,virs,virs,2,INTERACTS_WITH_VIRSitawVIRS
+C1613950,C0042776,INTERACTS_WITH,"Influenza A Virus, H5N1 Subtype",Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1613950,C0079005,INTERACTS_WITH,"Influenza A Virus, H5N1 Subtype",Baculoviridae,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1615607,C0030391,INTERACTS_WITH,"Influenza A Virus, H1N1 Subtype","Parainfluenza Virus 2, Human",virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C1615607,C0206545,INTERACTS_WITH,"Influenza A Virus, H1N1 Subtype",Human respiratory syncytial virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
@@ -663,7 +663,7 @@ C3698360,C0042776,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,Vi
 C3698360,C0206419,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,Genus: Coronavirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C3698360,C0949881,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,"Coronavirus OC43, Human",virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C3698360,C0949896,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,Zaire Ebola Virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
-C3698360,C1175743,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,SARS coronavirus,virs,virs,2,INTERACTS_WITH_VIRSitawVIRS
+C3698360,C1175743,INTERACTS_WITH,Middle East Respiratory Syndrome Coronavirus,SARS coronavirus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C3810552,C0035236,INTERACTS_WITH,Human Herpesvirus 5,Respiratory syncytial virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C3825310,C0020094,INTERACTS_WITH,HTLV-I (Virus),Human T-lymphotropic virus 1,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
 C4042868,C1901123,INTERACTS_WITH,Fungal Viruses,Curvularia thermal tolerance virus,virs,virs,1,INTERACTS_WITH_VIRSitawVIRS
